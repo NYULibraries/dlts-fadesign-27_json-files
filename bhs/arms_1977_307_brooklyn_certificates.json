@@ -1,0 +1,138 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "arms_1977_307_brooklyn_certificates"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Brooklyn certificate collection \u003cnum\u003e1977.307\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Matthew Gorham"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "Brooklyn Historical Society",
+                        "128 Pierrepont Street",
+                        "Brooklyn 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-11-01T20:27:23\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Brooklyn certificate collection"
+                },
+                "unitdate": {
+                    "normal": "1809/1962",
+                    "type": "inclusive",
+                    "value": "1809-1962"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "3.31 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 23 folders and two oversize boxes."
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "A collection of various certificates issued by government bodies and other institutions in Brooklyn, dated 1809 to 1962. The types of certificates contained in the collection include marriage certificates, military discharge and exemption certificates, merit awards to students and public servants, scholarship awards to students, etc. "
+                },
+                "unitid": {
+                    "value": "1977.307"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_98aea62415feff3fc2c71cbea469bc0f",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "1 of 3"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_ad86d10d6546f0e78eaf03a8e334da30",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_81caceb4fcbf80daa05052b43ed91515",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Brooklyn certificate collection, 1977.307, Box and Item number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_c9f97c9a1009eb4a662338dbbd01ef87",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "The contents of this collection were presented as gifts to the Long Island Historical Society (later the Brooklyn Historical Society) by multiple donors between the 1960s and the 1990s. Some certificates were likely separated from other archival collections. The collection was formally accessioned in 1977."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_084f6997bb8e43100ebc2ff1291ffce1",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The New York State National Guard, various Brooklyn public schools, Long Island Historical Society, Society of Old Brooklynites, various New York and Kings County firefighting units, and Brooklyn City Hospital are among the many organizations issuing these certificates. Some of the many names of individuals receiving these certificates are found in other collections of Brooklyn Historical Society, and may have been separated from those collections; these names include the Pierrepont family, Nathaniel Matson, Ella Cranston, and Albert G. Harnickel. There are many documents concerning the military career of Carl Gerhard Rasmus and the education of Emily Reuger. There are several U.S. Navy military commissions for Milton Haxton; these are signed by U.S. Presidents ranging from Thomas Jefferson to Rutherford Hayes, including Abraham Lincoln."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Students |z New York (State) |z Kings County"
+                }
+            ]
+        },
+        "otherfindaid": {
+            "id": "aspace_5eab3eaaa0bfa4d571a95252a7d02718",
+            "head": "Other Finding Aids"
+        },
+        "dsc": {}
+    }
+}

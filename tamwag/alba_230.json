@@ -1,0 +1,107 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "alba_230"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Edward Heitman Collection \u003cnum\u003eALBA.230\u003c/num\u003e"
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-07-18T14:00:46\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source"
+                },
+                "unittitle": {
+                    "value": "Edward Heitman Collection"
+                },
+                "unitdate": {
+                    "normal": "1936/1991",
+                    "type": "inclusive",
+                    "value": "circa 1936-1991"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "ALBA.230"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_66a6f3b0b83b675b9e34a07bb4152560",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open to researchers. Please contact the Tamiment Library \u0026amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_e37c857f1b20f0fa3882bef15dc11c15",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "While apparently not a Spanish Civil War veteran himself, Edward Heitman took a keen interest in the War, and collected memorabilia of the conflict, including commemorative items. Contents include correspondence between Heitman and International Brigade veterans (and relatives) from the United States, Canada, England, Ireland, Australia, and the Soviet Union; postcards, photographs, and commemorative programs sent to him by veterans; newsletters and mailings from the International Brigade Association (UK) and the Veterans of the Abraham Lincoln Brigade; a sizeable ocllection of Spanish postage stamps of the Civil War era; and one Spanish coin. A frequent correspondent in the 1980s was British volunteer John Langstaff."
+            }
+        },
+        "controlaccess": {
+            "corpname": {
+                "source": "naf",
+                "value": "Abraham Lincoln Brigade Archives"
+            }
+        },
+        "dsc": {}
+    }
+}

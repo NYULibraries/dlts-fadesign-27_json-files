@@ -1,0 +1,146 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "vanderbilt"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Papers of Aaron Vanderbilt\n                    \u003clb/\u003e\n                    \u003cdate calendar=\"gregorian\" era=\"ce\"\u003e1835-1979 \u003c/date\u003e\n                    \u003cdate calendar=\"gregorian\" era=\"ce\"\u003e(bulk 1863-1913) \u003c/date\u003e\n                    \u003clb/\u003e\n                    \u003cnum\u003e\u003c/num\u003e\n                    \u003cnum\u003eMS 654\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Jan Hilley"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "@ 2011 New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-04T15:25-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "@ 2011 New-York Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "Aaron Vanderbilt Papers"
+                },
+                "unitdate": {
+                    "value": "1835-1979 (bulk 1863-1913)"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.75 Linear feet"
+                        },
+                        {
+                            "value": "(1 box and 1 volume)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Correspondence, military orders, drawings, maps, battle accounts, reports, certificates, clippings, illustrations, receipts and ephemera of Aaron Vanderbilt, businessman and naval veteran of the Civil War. Much of the material is contained in a large scrapbook. A transcript of the scrapbook's contents is available."
+                },
+                "unitid": {
+                    "value": "MS 654"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref5",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Photocopying undertaken by staff only. Limited to twenty exposures of stable, unbound material per day. (Researchers may not accrue unused copy amounts from previous days.)"
+            }
+        },
+        "prefercite": {
+            "id": "ref7",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "This collection should be cited as the Aaron Vanderbilt Papers, The New-York Historical Society."
+            }
+        },
+        "bioghist": {
+            "id": "ref8",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Further information may be found in The National Cyclopedia of American Biography. New York: James T. White \u0026amp; Company, 1896. Volume 6, Pages 213-214."
+            }
+        },
+        "scopecontent": {
+            "id": "ref11",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "Some of the collection's highlights include:"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Brethren churches--United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Mennonites--United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Pacifism--Religious aspects--Mennonites."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Phrenology--New York (State)--New York."
+                }
+            ],
+            "corpname": {
+                "source": "ingest",
+                "value": "United States. Navy--Officers."
+            }
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref15\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e\u003c/unittitle\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref16\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid505615\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid505615\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate\u003e1863-1866\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref17\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid505614\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid505614\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate\u003e1885-1903\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref18\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAlienated Envelopes and Copies of Letter Fragments\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid505613\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid505613\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate\u003eUndated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref19\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eList of Vessels -North Atlantic Squadron\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid505612\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid505612\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate\u003e[1861-1865]\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref20\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMilitary Orders (Originals and Copies)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid505611\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid505611\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate\u003e1864-1865\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref21\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSales Receipt and Confederate Coupons\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid505610\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid505610\" type=\"Folder\"\u003e6\u003c/container\u003e\n                        \u003cunitdate\u003e1884, undated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref22\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eNewspaper Sections\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid505609\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid505609\" type=\"Folder\"\u003e7\u003c/container\u003e\n                        \u003cunitdate\u003e1835, 1865\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref23\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eBiographical Sketch, Copies\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid505608\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid505608\" type=\"Folder\"\u003e8\u003c/container\u003e\n                        \u003cunitdate\u003eUndated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref24\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMiscellaneous Items\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid505607\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid505607\" type=\"Folder\"\u003e9\u003c/container\u003e\n                        \u003cunitdate\u003e1973-1979, undated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref25\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eScrapbook\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid505606\" type=\"Volume\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003cunitdate\u003e1858-1913, undated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

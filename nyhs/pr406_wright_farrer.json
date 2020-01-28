@@ -1,0 +1,95 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "pr406_wright_farrer"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Old New York: A New Look: \u003clb/\u003eThe First Series of Etchings by Henry Farrer (1844-1903)\u003clb/\u003e2018\u003clb/\u003e \u003cnum\u003eAHMC - Wright, David G. \u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Larry Weimer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2020-01-08T21:38:19\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Wright, David Gilmore"
+                    }
+                },
+                "unittitle": {
+                    "value": "Old New York: A new look: The first series of etchings by Henry Farrer (1844-1903)"
+                },
+                "unitdate": {
+                    "value": "2018"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 item(s)"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(ii + 156 pages)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "One typescript, draft manuscript concerning a set of fifteen etchings made by Henry Farrer between 1870 and 1877. The author provides a historical essay about Farrer and the etchings series, then provides contextual information about each of the fifteen etchings in the Old New York series. The manuscript is illustrated with photographs and with images of Farrer's works.\u003clb/\u003e \u003clb/\u003e\n\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: \u003cextref actuate=\"onRequest\" href=\"http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph007446402\u0026amp;context=L\u0026amp;vid=NYHS\u0026amp;search_scope=nyhs\u0026amp;tab=nyhs\u0026amp;lang=en_US\"\u003eOld New York: A new look: The first series of etchings by Henry Farrer (1844-1903)\u003c/extref\u003e"
+                },
+                "unitid": {
+                    "value": "AHMC - Wright, David G. "
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "dsc": {}
+    }
+}

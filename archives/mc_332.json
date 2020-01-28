@@ -1,0 +1,142 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "mc_332"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the New York University Archives Collection of Nineteenth-Century Correspondence \u003cnum\u003eMC.332\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Stacey Flatt"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-08-08T18:43:39\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Butler, Benjamin F., 1795-1858"
+                    }
+                },
+                "unittitle": {
+                    "value": "New York University Archives Collection of Nineteenth-Century Correspondence"
+                },
+                "unitdate": {
+                    "normal": "1838/1838",
+                    "value": "1838"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": ".25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 folder in shared housing"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "New York Universiy Archives serves as the final repository for the historical records of NYU. This collection consists of nineteenth-century correspondence collected by the New York University Archives. The collection contains an 1838 letter relating to financing for the construction of New York University's University Building, and the efforts of then-Attorney General Benjamin Franklin Butler to secure debt relief for the University in that matter."
+                },
+                "unitid": {
+                    "value": "MC.332"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_cc2ae2fde04629ea0fbe9969410059d7",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_aface36ac23663d9ec41c96a8ec48bfa",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); New York University Archives Collection of Nineteenth-Century Correspondence; MC 332; box number; folder number; New York University Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_da0508e5f231adbd723bff84058b25b9",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Robert and Nevine Melikian, August 2017. The accession number associated with this gift is 2019.074"
+            }
+        },
+        "bioghist": {
+            "id": "aspace_4a820697c48df52d2a1886d77eec26db",
+            "head": "Historical Note",
+            "p": {
+                "value": "New York Universiy Archives serves as the final repository for the historical records of NYU. Its primary purpose is to document the history of the University and to provide source material for administrators, faculty, students, alumni, and other members of the University community, as well as scholars, authors, and other interested persons who seek to evaluate the impact of the University's activities on the history of American social, cultural, and intellectual development."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_bb256fd101d207ccd86d3348c86a2ee6",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection consists of nineteenth-century correspondence collected by the New York University Archives. The collection contains an 1838 letter relating to financing for the construction of New York University's University Building, and the efforts of then-Attorney General Benjamin Franklin Butler to secure debt relief for the University in that matter."
+            }
+        },
+        "controlaccess": {
+            "corpname": {
+                "source": "local",
+                "value": "New York University. Buildings. History"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_c39be509ee2a9026f043aa336836ee18\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBenjamin Franklin Butler Letter\u003c/unittitle\u003e\u003cunitdate normal=\"1838/1838\"\u003e1838\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_81a9e7bff65954fe1c2c30ec99ececc9\" label=\"Mixed Materials [31142063344959]\" type=\"Box\"\u003eShared University Archives 055\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

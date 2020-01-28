@@ -1,0 +1,140 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_131"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Newark Community Union Project Oral History Transcripts \u003cnum\u003eTAM 131\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-04-17T16:05:32\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Newark Community Union Project Oral History Transcripts"
+                },
+                "unitdate": {
+                    "normal": "1965/1965",
+                    "type": "inclusive",
+                    "value": "1965"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The collection contsists of transcripts of oral interviews with Carol Glassman and Jill Hamberg conducted in the spring of 1965. Carol Glassman and Jill Hamberg were members of the Newark Community Union Project, an initiative that grew out of the Students for a Democratic Society's (SDS) Economic Research and Action Project (ERAP).\n\n"
+                },
+                "unitid": {
+                    "value": "TAM 131"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_30cfdd5dff20fb8c806c8e1e1de366c7",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_c2da92f188b8f094b30dc7935af0806a",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Newark Community Union Oral History Transcripts; TAM 131; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_8361167762b598dc713ba2c75f73a096",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donation arranged by David Gerwin in 1987. The accession number associated with this gift is 1987.022."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_0a90fa3742807f01c47052532993537d",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Carol Glassman and Jill Hamberg were community activists in Newark in the mid-1960s as members of the Newark Community Union Project, an initiative that grew out of the Students for a Democratic Society's (SDS) Economic Research and Action Project (ERAP)."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_9ed18dd9f97a74b03db153c065a7a0f6",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection consists of transcripts of oral interviews with Carol Glassman and Jill Hamberg conducted during the spring of 1965. The interviews address the Newark Community Union Project, local politics, social and economic conditions, and race relations."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Community organization |z New Jersey |z Newark."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Newark Community Union Project"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref11\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCarol Glassman\u003c/unittitle\u003e\u003cunitdate normal=\"1965/1965\" type=\"inclusive\"\u003eMay 1965 - Jul 1965\u003c/unitdate\u003e\u003ccontainer id=\"aspace_253bb40a5c926cdb8570a9d7c634059f\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_253bb40a5c926cdb8570a9d7c634059f\" type=\"Folder\"\u003e1-6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref12\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eJill Hamberg\u003c/unittitle\u003e\u003cunitdate normal=\"1965/1965\" type=\"inclusive\"\u003eFeb 1965 - Apr 1965\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f39ad922123b508f8a7f3eab9be35e30\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f39ad922123b508f8a7f3eab9be35e30\" type=\"Folder\"\u003e7-17\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

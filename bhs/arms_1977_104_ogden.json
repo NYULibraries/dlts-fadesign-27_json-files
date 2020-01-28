@@ -1,0 +1,126 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1977_104_ogden"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Jacob Ogden promissory note\n                    \u003cnum\u003e1977.104\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Matthew Gorham"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "May 26, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-09T15:57-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Ogden, Jacob"
+                    }
+                },
+                "unittitle": {
+                    "value": "Jacob Ogden promissory note"
+                },
+                "unitdate": {
+                    "normal": "1759/1759",
+                    "value": "1759"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.07 Linear feet"
+                        },
+                        {
+                            "value": "in one folder"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "A promissory note signed by Jacob Ogden of Queens County, New York, dated June 5, 1759. The note obliges Ogden to repay the loaned sum of 9500 pounds to King George II of Great Britain."
+                },
+                "unitid": {
+                    "value": "1977.104"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid805006",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0033"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref4",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Jacob Ogden promissory note, 1977.104, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Source and date of acquisition unknown. The item was formally accessioned in 1977."
+            }
+        },
+        "controlaccess": {},
+        "dsc": {}
+    }
+}

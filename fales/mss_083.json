@@ -1,0 +1,150 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-F",
+            "value": "mss_083"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Denise Duhamel Collection \u003cnum\u003eMSS 083\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Jennifer E. Neal"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Fales Library and Special Collections"
+                },
+                "address": {
+                    "addressline": [
+                        "Fales Library and Special Collections",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "3rd Floor",
+                        "New York, NY 10012",
+                        "Phone: (212) 998-2596",
+                        "fales.library@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-06-19T16:32:25\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Fales Library and Special Collections"
+                    }
+                },
+                "unittitle": {
+                    "value": "Denise Duhamel Collection"
+                },
+                "unitdate": {
+                    "normal": "1994/2002",
+                    "type": "bulk",
+                    "value": "1994-2002"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "2 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 2 record cartons"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Denise Duhamel (1961) is an American poet and author. She attended Emerson College and Sarah Lawrence College and lived in New York City from 1985 to 1999. She has published numerous collections of poetry and won several national awards and grants, including a fellowship from the National Endowment of the Arts. Materials in this collection include books, literary journals, and periodicals published between 1983 and 2002 that include poems and essays written by Duhamel, primarily during her time in New York."
+                },
+                "unitid": {
+                    "value": "MSS 083"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_c5f953cad9fbb348f9694e6baa2c6801",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_7d55785d3fa206770bf4a2a725811070",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Denise Duhamel Papers; MSS 083; box number; folder number; Fales Library and Special Collections, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_3daa1e4be95702d7843963ee32314e49",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Denise Duhamel in 1997; additional materials were donated in 2003. The accession number associated with these gifts are 2000.083."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_e5042f5802a649b6d4c0779e3e6cf268",
+            "head": "Biographical / Historical",
+            "p": {
+                "value": "Denise Duhamel, born 1961 in Woonsocket, Rhode Island, is an American poet and author. Duhamel received a BFA from Emerson College and an MFA from Sarah Lawrence College, and lived in New York City from 1985 to 1999. She has published numerous collections of poetry and won several national awards and grants, including a fellowship from the National Endowment of the Arts. She served as the guest editor of The Best American Poetry 2013 and teaches creative writing and literature at Florida International University."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_04c5c605cde51c5cbca1174fa1c617ad",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Materials include books, literary journals, and periodicals published between 1983 and 2002 that include poems and essays written by Duhamel, primarily during her time in New York."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "American poetry -- 20th century."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "American poetry -- 21st century"
+                },
+                {
+                    "source": "local",
+                    "value": "Downtown Collection."
+                },
+                {
+                    "source": "local",
+                    "value": "Downtown writers."
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_c52c8b3e3c98e088af433789a6a24484\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePrint publications\u003c/unittitle\u003e\u003cunitdate normal=\"1983/2002\" type=\"inclusive\"\u003e1983-2002\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_4df400a5fe49cecda060803c9c15bde6\" label=\"Mixed Materials [31142054864304]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_9676f0321ae8ce0a2a73be073a52df71\" label=\"Mixed Materials [31142054864296]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

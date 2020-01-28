@@ -1,0 +1,175 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "oh_058"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Democratic Socialists of America Audiocassette Collection \u003cnum\u003eOH 058\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Aliqae Geraci, November 2007"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-08-13T20:16:36\u003c/date\u003e"
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Democratic Socialists of America Audiocassette Collection"
+                },
+                "unitdate": {
+                    "normal": "1976/1996",
+                    "type": "inclusive",
+                    "value": "1976-1996"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "2 cassette boxes, and 1 folder"
+                        },
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "69 audiocassettes"
+                        }
+                    ],
+                    "altrender": "part"
+                },
+                "abstract": {
+                    "value": "The Democratic Socialists of America (DSA) was founded in 1982. DSA promotes a socialist conception of democracy, with a key objective being the coalition-building of progressive groups in the United States. Michael Harrington (1928-1989) was a founder and leader of DSA from 1982-1989, and the founder and head of its predecessor, the Democratic Socialist Organizing Committee (1972-1982). The collection consists of 69 tapes, spanning the years 1976 - 1996, with the bulk of the items falling between the years 1985-1995. The majority of the audiocassettes consist of conference, convention and meeting recordings of the DSA, interviews and speeches of Michael Harrington, and programs and lectures that were either sponsored by, or featured members of, DSA."
+                },
+                "unitid": {
+                    "value": "OH 058"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_871106438f74b5f52dac2f27c9d39e84",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_e3a9837d99bfe3b39efc3628f5bf7e25",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Democratic Socialists of America Audiocassette Collection; OH 058; box number; folder number; Tamiment Library \u0026amp; Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_4606875f5e953efdf779de2010e3ba5f",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials in this collection were donated by the Democratic Socialists of America, date unknown; additional materials were donated by Eli Kaminsky in 2014. The accession numbers related to these gifts are 1980.017, 2006.066; and 2015.150."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_fbd46edb4b72c75d3cfb37b101bb6747",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Michael Harrington (1928-1989) was a U.S. socialist, editor, writer, founder and leader of DSA, and political leader best known for his book \u003ctitle\u003eThe Other America: Poverty in the United States\u003c/title\u003e 1962)."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_53e24d118245ffd9c61389e5db639b22",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "Conference recordings added to the collection in 2017 include 19 audiocassettes and a conference schedule from the  the 1980 Institute for Democratic Socialism Conference \"Eurosocialism and America: An International Exchange\". "
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Socialism -- United States -- Interviews."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialism -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Right and left (Political science)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Radicalism -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor movement -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor -- United States."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Socialist International (1951- )"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref15\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: Democratic Socialist Organizing Committee\u003c/unittitle\u003e\u003cunitdate normal=\"1980/1980\" type=\"inclusive\"\u003e1980\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_4c158e9546cd8ae527926c047666ccde\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eMaterials in this series related to the \"Eurosocialism and America\" conference include a copy of the conference program and recordings of conference panels and plenary speeches. Not all panels from the conference were recorded. The printed conference schedule contains a full list of panels and speakers, with annotations indicating which sessions are included in the recordings. Notable individuals featured in the recordings include world leaders like Willy Brandt (Germany), Olof Palme (Sweden), Joop den Uyl (Netherlands), Francois Mitterand (France), as well as Michael Harrington, union leader William Winpisinger, Representative Ron Dellums, and Gloria Steinem.\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_ref16\" level=\"subseries\"\u003e\u003cdid\u003e\u003cunittitle\u003eSub-series A: Events.\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref17\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDemocratic Agenda Rally\u003c/unittitle\u003e\u003cunitid\u003ecuid268\u003c/unitid\u003e\u003cunitdate\u003eAugust 15, 1980\u003c/unitdate\u003e\u003ccontainer altrender=\"Card Box - 8.5 x 12.5\" id=\"aspace_eebb6ee67b40a0d42e9850aa67c6971f\" label=\"Mixed Materials [31142054875433]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_eebb6ee67b40a0d42e9850aa67c6971f\" type=\"Folder\"\u003eOH 58-1\u003c/container\u003e\u003ccontainer id=\"aspace_8c26b056004f2499b59fc9b39f0f9a70\" label=\"Access cd\" type=\"Box\"\u003eOH Shared Access Box 2\u003c/container\u003e\u003ccontainer parent=\"aspace_8c26b056004f2499b59fc9b39f0f9a70\" type=\"Cd\"\u003eOH 58-1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_f2b4650165fa542845c06a98b1bbad7b\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eEurosocialism and America: An International Exchange Conference Recordings\u003c/unittitle\u003e\u003cunitdate normal=\"1980/1980\"\u003e1980 December 5-7\u003c/unitdate\u003e\u003ccontainer altrender=\"Card Box - 5.5\" id=\"aspace_31a135212aadf15f3c1c4741b7a07720\" label=\"Master cassette [31142054875425]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_016abb14b7d5be8ed0f3e9aa91adee17\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eEurosocialism and America: An International Exchange Conference Schedule\u003c/unittitle\u003e\u003cunitdate normal=\"1980/1980\"\u003e1980 December 5-7\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_63bc8542f358df6415b226a715cd2fa2\" label=\"Mixed Materials\" type=\"Box\"\u003eMS002\u003c/container\u003e\u003ccontainer parent=\"aspace_63bc8542f358df6415b226a715cd2fa2\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries II: Democratic Socialists of America\u003c/unittitle\u003e\u003cunitdate normal=\"1984/1992\" type=\"inclusive\"\u003e1984-1992\u003c/unitdate\u003e\u003c/did\u003e\u003cc id=\"aspace_ref19\" level=\"subseries\"\u003e\u003cdid\u003e\u003cunittitle\u003eSub-series A: Conferences.\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref20\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNew Directions Conference\u003c/unittitle\u003e\u003cunitid\u003ecuid269\u003c/unitid\u003e\u003cunitdate normal=\"1986/1986\" type=\"inclusive\"\u003e1986\u003c/unitdate\u003e\u003ccontainer altrender=\"Card Box - 8.5 x 12.5\" id=\"aspace_0d67645f51d47bce6c88d8915bae01c4\" label=\"Mixed Materials [31142054875433]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0d67645f51d47bce6c88d8915bae01c4\" type=\"Folder\"\u003eOH 58-2\u003c/container\u003e\u003ccontainer id=\"aspace_08760d8cccba41d6de80e4c8fc0e3c00\" label=\"Access cd\" type=\"Box\"\u003eOH Shared Access Box 2\u003c/container\u003e\u003ccontainer parent=\"aspace_08760d8cccba41d6de80e4c8fc0e3c00\" type=\"Cd\"\u003eOH 58-2\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_59953bff7fdcf8a1a6c87187b723d9db\"\u003e\u003chead\u003eGeneral note\u003c/head\u003e\u003cp\u003eSpeakers include Barbara Ehrenreich, Michael Harrington and Lynn R. Williams of the United Steelworkers of America.\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDemocratic Alternatives Conference (1987: Albany, N.Y.)\u003c/unittitle\u003e\u003cunitdate\u003eFeb 27, 1987\u003c/unitdate\u003e\u003ccontainer altrender=\"Card Box - 8.5 x 12.5\" id=\"aspace_82916b74de4dcae68a5195454841627f\" label=\"Mixed Materials [31142054875433]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_82916b74de4dcae68a5195454841627f\" type=\"Folder\"\u003eOH 58-3\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_3ea693422f639754a80258705eb5b8ca\"\u003e\u003chead\u003eGeneral note\u003c/head\u003e\u003cp\u003eSpeakers include Robert Lekachman, Barbara Ehrenreich, Michael Harrington. Moderator: Jo-Ann Mort.\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSocialist Scholars Conference (1991: New York, N.Y.) - 2 tapes\u003c/unittitle\u003e\u003cunitdate\u003eApril 6, 1991 April 7, 1991\u003c/unitdate\u003e\u003ccontainer altrender=\"Card Box - 8.5 x 12.5\" id=\"aspace_d11060af7fddcad74cd8099a03db9bd4\" label=\"Mixed Materials [31142054875433]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d11060af7fddcad74cd8099a03db9bd4\" type=\"Folder\"\u003eOH 58-4 a-b\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDSA National Convention 1993 - 10 tapes\u003c/unittitle\u003e\u003cunitdate\u003eNov 12, 1993 Nov 13, 1993 Nov 14, 1993\u003c/unitdate\u003e\u003ccontainer altrender=\"Card Box - 8.5 x 12.5\" id=\"aspace_2808fb2d21a068a16da7fa1be4654a5e\" label=\"Mixed Materials [31142054875433]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2808fb2d21a068a16da7fa1be4654a5e\" type=\"Folder\"\u003eOH 58-5 a-j\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_a662265c31ef2061a4231a60647859e3\"\u003e\u003chead\u003eGeneral note\u003c/head\u003e\u003cp\u003e\"Politics in the Clinton Era\". Cornel West speaks.\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSocialist Scholars Conference (1995) - 5 tapes\u003c/unittitle\u003e\u003cunitdate\u003eApril 7, 1995 April 8, 1995 April 9, 1995\u003c/unitdate\u003e\u003ccontainer altrender=\"Card Box - 8.5 x 12.5\" id=\"aspace_3ae11be428a127592678ecdbed5a1b44\" label=\"Mixed Materials [31142054875433]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_3ae11be428a127592678ecdbed5a1b44\" type=\"Folder\"\u003eOH 58-6 a-e\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_3e110a35729d294e6d285f08633844cc\"\u003e\u003chead\u003eGeneral note\u003c/head\u003e\u003cp\u003eSpeakers include Stanley Aronowitz, Jorge Calderon, Bogdan Denitch, David Gordon and Frances Fox Piven.\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref29\" level=\"subseries\"\u003e\u003cdid\u003e\u003cunittitle\u003eSub-series B: Meetings.\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref30\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNational Executive Committee - 3 tapes\u003c/unittitle\u003e\u003cunitdate\u003eJun 2, 1984 Jun 3, 1984\u003c/unitdate\u003e\u003ccontainer altrender=\"Card Box - 8.5 x 12.5\" id=\"aspace_0cacc2fa749d879c14878669c690ac7f\" label=\"Mixed Materials [31142054875433]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0cacc2fa749d879c14878669c690ac7f\" type=\"Folder\"\u003eOH 58-7 a-c\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_9351468a937f83d56d462d7d3427d647\"\u003e\u003chead\u003eGeneral note\u003c/head\u003e\u003cp\u003eBarbara Ehrenreich speaks.\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003cc id=\"aspace_ref32\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNational Board Meeting (1988: Los Angeles, CA)\u003c/unittitle\u003e\u003cunitdate\u003eNov 10, 1988\u003c/unitdate\u003e\u003ccontainer altrender=\"Card Box - 8.5 x 12.5\" id=\"aspace_930551b596ce42ab3a2bc08d835fecaf\" label=\"Mixed Materials [31142054875433]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_930551b596ce42ab3a2bc08d835fecaf\" type=\"Folder\"\u003eOH 58-8\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_54cfd6158ad777af1ed81127e0cf779a\"\u003e\u003chead\u003eGeneral note\u003c/head\u003e\u003cp\u003eSpeakers include Charlie Degamond, Barbara Ehrenreich, Michael Harrington and Harold Meyerson.\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003cc id=\"aspace_ref34\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNational Board Leadership School - 2 tapes\u003c/unittitle\u003e\u003cunitdate\u003eJun 12, 1992\u003c/unitdate\u003e\u003ccontainer altrender=\"Card Box - 8.5 x 12.5\" id=\"aspace_b329858dcabe9dbee156e215c6851015\" label=\"Mixed Materials [31142054875433]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b329858dcabe9dbee156e215c6851015\" type=\"Folder\"\u003eOH 58-9 a-b\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_7e7c748f3652e65c35b2b7634493fe27\"\u003e\u003chead\u003eGeneral note\u003c/head\u003e\u003cp\u003eQuestion and answer period with with Gar Alperowitz.\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003cc id=\"aspace_ref36\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDSA's Domestic Agenda\u003c/unittitle\u003e\u003cunitid\u003ecuid270\u003c/unitid\u003e\u003cunitdate\u003eno date\u003c/unitdate\u003e\u003ccontainer altrender=\"Card Box - 8.5 x 12.5\" id=\"aspace_df47c35e5913aa26fa987aa34d4791ef\" label=\"Mixed Materials [31142054875433]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_df47c35e5913aa26fa987aa34d4791ef\" type=\"Folder\"\u003eOH 58-10 \u003c/container\u003e\u003ccontainer id=\"aspace_3ec05e785dac1c8fed99a65d9dfead9b\" label=\"Access cd\" type=\"Box\"\u003eOH Shared Access Box 2\u003c/container\u003e\u003ccontainer parent=\"aspace_3ec05e785dac1c8fed99a65d9dfead9b\" type=\"Cd\"\u003eOH 58-10 A-B\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref37\" level=\"subseries\"\u003e\u003cdid\u003e\u003cunittitle\u003eSub-series C: Programs.\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref38\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePaul Pinsky, Mary Jo Kilroy, David Kusnick and Bob Fitrakis\u003c/unittitle\u003e\u003cunitdate\u003eJun 14, 1992\u003c/unitdate\u003e\u003ccontainer altrender=\"Card Box - 8.5 x 12.5\" id=\"aspace_b28f3713adc793c2d543cb89dbceaa75\" label=\"Mixed Materials [31142054875433]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b28f3713adc793c2d543cb89dbceaa75\" type=\"Folder\"\u003eOH 58-11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref39\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFrances Fox Piven:\u003ctitle render=\"italic\"\u003eWomen in the Welfare State\u003c/title\u003e(1995: Portland, ME)\u003c/unittitle\u003e\u003cunitdate\u003eMar 10, 1995\u003c/unitdate\u003e\u003ccontainer altrender=\"Card Box - 8.5 x 12.5\" id=\"aspace_adedffad5698743ff18d16fd98533214\" label=\"Mixed Materials [31142054875433]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_adedffad5698743ff18d16fd98533214\" type=\"Folder\"\u003eOH 58-12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref40\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMichael Lerner and Cornel West.\u003ctitle render=\"italic\"\u003eJews and Blacks: Let the healing/future begin\u003c/title\u003e(1995: Cambridge, Mass.)\u003c/unittitle\u003e\u003cunitdate\u003eApril 24, 1995\u003c/unitdate\u003e\u003ccontainer altrender=\"Card Box - 8.5 x 12.5\" id=\"aspace_dcba552fec424659d78c134d399480af\" label=\"Mixed Materials [31142054875433]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_dcba552fec424659d78c134d399480af\" type=\"Folder\"\u003eOH 58-13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref41\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCornel West, Kurt Stand, Heidi Hartman and Bob Fitrakis\u003c/unittitle\u003e\u003cunitdate\u003e1995 or 1996\u003c/unitdate\u003e\u003ccontainer altrender=\"Card Box - 8.5 x 12.5\" id=\"aspace_910280482f900a8a422133f0ec547a0d\" label=\"Mixed Materials [31142054875433]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_910280482f900a8a422133f0ec547a0d\" type=\"Folder\"\u003eOH 58-14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref42\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries III: Michael Harrington\u003c/unittitle\u003e\u003cunitdate normal=\"1976/1989\" type=\"inclusive\"\u003e1976-1989\u003c/unitdate\u003e\u003c/did\u003e\u003cc id=\"aspace_ref43\" level=\"subseries\"\u003e\u003cdid\u003e\u003cunittitle\u003eSub-series A: Debates.\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref44\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMichael Harrington debates David Rockefeller, VP of Chase Manhattan Bank\u003c/unittitle\u003e\u003cunitid\u003ecuid271\u003c/unitid\u003e\u003cunitdate normal=\"1976/1976\" type=\"inclusive\"\u003e1976\u003c/unitdate\u003e\u003ccontainer altrender=\"Card Box - 8.5 x 12.5\" id=\"aspace_2fe23ec031c0e8c31771ca1f5feb15bb\" label=\"Mixed Materials [31142054875433]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2fe23ec031c0e8c31771ca1f5feb15bb\" type=\"Folder\"\u003eOH 58-15\u003c/container\u003e\u003ccontainer id=\"aspace_0eb7d521e509b6ea4a1b734a3ddaf55d\" label=\"Access cd\" type=\"Box\"\u003eOH Shared Access Box 2\u003c/container\u003e\u003ccontainer parent=\"aspace_0eb7d521e509b6ea4a1b734a3ddaf55d\" type=\"Cd\"\u003eOH 58-15 A-B\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref45\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMichael Harrington debates Rep. Jack Kemp (New York, NY)\u003c/unittitle\u003e\u003cunitdate\u003eApril 25, 1979\u003c/unitdate\u003e\u003ccontainer altrender=\"Card Box - 8.5 x 12.5\" id=\"aspace_8061143b566eb923a7647d74e10af1bc\" label=\"Mixed Materials [31142054875433]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_8061143b566eb923a7647d74e10af1bc\" type=\"Folder\"\u003eOH 58-16\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_4cd3182c01f9cba8cf521461428c2853\"\u003e\u003chead\u003eGeneral note\u003c/head\u003e\u003cp\u003e\u003ctitle\u003eTax Policy and the Economy\u003c/title\u003e\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref47\" level=\"subseries\"\u003e\u003cdid\u003e\u003cunittitle\u003eSub-series B: Interviews.\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref48\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e8/2/88- tape II\u003c/unittitle\u003e\u003cunitdate\u003eAug 02, 1988\u003c/unitdate\u003e\u003ccontainer altrender=\"Card Box - 8.5 x 12.5\" id=\"aspace_72a0be6ef4fafda75ce163cbe6985b49\" label=\"Mixed Materials [31142054875433]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_72a0be6ef4fafda75ce163cbe6985b49\" type=\"Folder\"\u003eOH 58-17\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref49\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eHoward Cosell interviews Michael Harrington\u003c/unittitle\u003e\u003cunitdate\u003eAug 19, 1988\u003c/unitdate\u003e\u003ccontainer altrender=\"Card Box - 8.5 x 12.5\" id=\"aspace_e50671d28749e7e03efda1f9d255bb20\" label=\"Mixed Materials [31142054875433]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e50671d28749e7e03efda1f9d255bb20\" type=\"Folder\"\u003eOH 58-18\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref50\" level=\"subseries\"\u003e\u003cdid\u003e\u003cunittitle\u003eSub-series C: Programs.\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref51\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMichael Harrington: In His Own Words.\u003c/unittitle\u003e\u003cunitid\u003ecuid272\u003c/unitid\u003e\u003cunitdate\u003eno date\u003c/unitdate\u003e\u003ccontainer altrender=\"Card Box - 8.5 x 12.5\" id=\"aspace_2919ba49fbc6d0c73fce012a18aba8a1\" label=\"Mixed Materials [31142054875433]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2919ba49fbc6d0c73fce012a18aba8a1\" type=\"Folder\"\u003eOH 58-19\u003c/container\u003e\u003ccontainer id=\"aspace_7e90d7a00e3fd3729d770d15425c80ac\" label=\"Access cd\" type=\"Box\"\u003eOH Shared Access Box 2\u003c/container\u003e\u003ccontainer parent=\"aspace_7e90d7a00e3fd3729d770d15425c80ac\" type=\"Cd\"\u003eOH 58-19\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref52\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMichael Harrington Remembrance on NPR's \u003ctitle\u003eMorning Edition\u003c/title\u003e\u003c/unittitle\u003e\u003cunitdate\u003eAug 2, 1989\u003c/unitdate\u003e\u003ccontainer altrender=\"Card Box - 8.5 x 12.5\" id=\"aspace_21c7a1ad516c630a10f2b5b5dcd3750a\" label=\"Mixed Materials [31142054875433]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_21c7a1ad516c630a10f2b5b5dcd3750a\" type=\"Folder\"\u003eOH 58-20\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref53\" level=\"subseries\"\u003e\u003cdid\u003e\u003cunittitle\u003eSub-series D: Speeches and Lectures.\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref54\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eUnidentified Conference (Chicago, Ill.)\u003c/unittitle\u003e\u003cunitdate\u003elate 1970s\u003c/unitdate\u003e\u003ccontainer altrender=\"Card Box - 8.5 x 12.5\" id=\"aspace_0cfdae950c3ef03f54b497d6de505617\" label=\"Mixed Materials [31142054875433]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0cfdae950c3ef03f54b497d6de505617\" type=\"Folder\"\u003eOH 58-21\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref55\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAmerican Public Health Association (APHA) Convention - 2 tapes\u003c/unittitle\u003e\u003cunitdate normal=\"1981/1981\" type=\"inclusive\"\u003e1981\u003c/unitdate\u003e\u003ccontainer altrender=\"Card Box - 8.5 x 12.5\" id=\"aspace_7e2d9e3f676df5c7f29f791a4fe7bdf8\" label=\"Mixed Materials [31142054875433]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_7e2d9e3f676df5c7f29f791a4fe7bdf8\" type=\"Folder\"\u003eOH 58-22 a-b\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref56\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLecture at Department of Political Science at Loyola University of Chicago - 2 tapes\u003c/unittitle\u003e\u003cunitdate normal=\"1985/1985\" type=\"inclusive\"\u003e1985\u003c/unitdate\u003e\u003ccontainer altrender=\"Card Box - 8.5 x 12.5\" id=\"aspace_1e18cce568d3b122f97aeb28ecde5bfa\" label=\"Mixed Materials [31142054875433]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1e18cce568d3b122f97aeb28ecde5bfa\" type=\"Folder\"\u003eOH 58-23 a-b\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref57\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eJewish Labor Board Luncheon (1987: New York, NY)\u003c/unittitle\u003e\u003cunitdate\u003e, Oct 15, 1987\u003c/unitdate\u003e\u003ccontainer altrender=\"Card Box - 8.5 x 12.5\" id=\"aspace_d5f8f33ce1cd01a9076a6e203dd84866\" label=\"Mixed Materials [31142054875433]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d5f8f33ce1cd01a9076a6e203dd84866\" type=\"Folder\"\u003eOH 58-24\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref58\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries IV: Miscellaneous\u003c/unittitle\u003e\u003cunitdate normal=\"1988/1995\" type=\"inclusive\"\u003e1988-1995\u003c/unitdate\u003e\u003c/did\u003e\u003cc id=\"aspace_ref59\" level=\"subseries\"\u003e\u003cdid\u003e\u003cunittitle\u003eSub-series A: Interviews.\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref60\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eKris Rondeau of Harvard Clerical and Technical Workers Union\u003c/unittitle\u003e\u003cunitid\u003ecuid273\u003c/unitid\u003e\u003cunitdate\u003eJune 13, 1988\u003c/unitdate\u003e\u003ccontainer altrender=\"Card Box - 8.5 x 12.5\" id=\"aspace_43a5dfea71d781689a8a1383737de5aa\" label=\"Mixed Materials [31142054875433]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_43a5dfea71d781689a8a1383737de5aa\" type=\"Folder\"\u003eOH 58-25\u003c/container\u003e\u003ccontainer id=\"aspace_d649a22ba33b7632e88e73fe08b27f1e\" label=\"Access cd\" type=\"Box\"\u003eOH Shared Access Box 2\u003c/container\u003e\u003ccontainer parent=\"aspace_d649a22ba33b7632e88e73fe08b27f1e\" type=\"Cd\"\u003eOH 58-25\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref61\" level=\"subseries\"\u003e\u003cdid\u003e\u003cunittitle\u003eSub-series B: Programs.\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref62\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eEllen Braune and Cajuste Lexiuste on Haiti - CISPES\u003c/unittitle\u003e\u003cunitdate\u003eJuly 20, 1994\u003c/unitdate\u003e\u003ccontainer altrender=\"Card Box - 8.5 x 12.5\" id=\"aspace_cbb1163c6feb4a8ade5abb607dce55f4\" label=\"Mixed Materials [31142054875433]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_cbb1163c6feb4a8ade5abb607dce55f4\" type=\"Folder\"\u003eOH 58-26\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref63\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFederal Judge denies FCC injunction against micro-radio\u003c/unittitle\u003e\u003cunitdate\u003eJan 20, 1995\u003c/unitdate\u003e\u003ccontainer altrender=\"Card Box - 8.5 x 12.5\" id=\"aspace_ae5cfd6012e61c86c6a2b7222f3c7b91\" label=\"Mixed Materials [31142054875433]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ae5cfd6012e61c86c6a2b7222f3c7b91\" type=\"Folder\"\u003eOH 58-27\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_884039c2997bb05ba02e5b1ac8eef9d4\"\u003e\u003chead\u003eGeneral note\u003c/head\u003e\u003cp\u003eOriginal program produced by San Francisco Liberation Radio.\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003cc id=\"aspace_ref65\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eUntitled (labeled \"opening session, afternoon session. Ind. Dem.\")\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Card Box - 8.5 x 12.5\" id=\"aspace_5cfdd717d985c717794c0d7ef5987dc4\" label=\"Mixed Materials [31142054875433]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5cfdd717d985c717794c0d7ef5987dc4\" type=\"Folder\"\u003eOH 58-28\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref66\" level=\"subseries\"\u003e\u003cdid\u003e\u003cunittitle\u003eSub-series C: Speeches and Lectures.\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref67\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eShakoor on multiculturalism, Suzanne Crowell on mission\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Card Box - 8.5 x 12.5\" id=\"aspace_6b35a4846fbf3d2152148d2bd6e8338a\" label=\"Mixed Materials [31142054875433]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_6b35a4846fbf3d2152148d2bd6e8338a\" type=\"Folder\"\u003eOH 58-29\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref68\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eJoe Schwartz on identity politics.\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Card Box - 8.5 x 12.5\" id=\"aspace_c5219e851ffb56656735b16a7c1dd222\" label=\"Mixed Materials [31142054875433]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_c5219e851ffb56656735b16a7c1dd222\" type=\"Folder\"\u003eOH 58-30\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref69\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFrances Fox Piven, Morton Bahr and Gloria Steinem\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Card Box - 8.5 x 12.5\" id=\"aspace_a92f08b722ea2c0229885b1c44670ab8\" label=\"Mixed Materials [31142054875433]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_a92f08b722ea2c0229885b1c44670ab8\" type=\"Folder\"\u003eOH 58-31\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

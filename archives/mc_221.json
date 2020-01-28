@@ -1,0 +1,142 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "mc_221"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Isaac Allen Papers \u003cnum\u003eMC 221\u003c/num\u003e"
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-01-23T15:05:34\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Allen, Isaac"
+                    }
+                },
+                "unittitle": {
+                    "value": "Isaac Allen Papers"
+                },
+                "unitdate": {
+                    "normal": "1922/1927",
+                    "type": "bulk",
+                    "value": "1922-1927"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one flat box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Isaac Allen attended courses related to architecture at New York University (NYU) in the early to mid-twentieth century. Materials include four textbooks related to architecture and architectural drawing."
+                },
+                "unitid": {
+                    "value": "MC 221"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_0e38f10e35d68348b8c5eb2fc539edf4",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_98e147cd852b319fb763e6854d380218",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Isaac Allen Papers; MC 221; box number; folder number; New York University Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_d958af501177f8af50b12fbc01202774",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials found in collection; provenance is unknown. The accession number related to this collection is 10.036."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_051560cd663093c6bf1314378a11105a",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Isaac Allen attended courses related to architecture at New York University (NYU) in the early to mid-twentieth century."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_b1238b20ec4892fce2369282a8ab7097",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Materials include four textbooks related to architecture and architectural drawing that were used by Isaac Allen while studying architecture at New York University (NYU) in the early to mid-twentieth century. Allen inscribed his name in a few of the books."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Architecture"
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_8ef768d94223c6f5b84b0739dcb0940b\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eConcours d'Architecture\u003c/unittitle\u003e\u003cunitdate normal=\"1926/1927\" type=\"inclusive\"\u003e1926-1927\u003c/unitdate\u003e\u003ccontainer altrender=\"Custom Drop Spine Box - 15.25 x 11\" id=\"aspace_359cb84ec57bbd9119cd9a7f7a9d117f\" label=\"Mixed Materials [31142062745768]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_359cb84ec57bbd9119cd9a7f7a9d117f\" type=\"Item\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_980e677bdd5a1301c6cdd66fb58e9c2d\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSketching and Rendering in Pencil\u003c/unittitle\u003e\u003cunitdate normal=\"1922/1922\"\u003e1922\u003c/unitdate\u003e\u003ccontainer altrender=\"Custom Drop Spine Box - 15.25 x 11\" id=\"aspace_d4834f198ffa0a4cdf84edc23e72a5ce\" label=\"Mixed Materials [31142062745768]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d4834f198ffa0a4cdf84edc23e72a5ce\" type=\"Item\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_fb18a326a90f41953fbf875e3fd24ca1\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eD'Espouy: One Hundred Selected Plates from Fragments d'Architecture Antique\u003c/unittitle\u003e\u003cunitdate normal=\"1924/1924\"\u003ecirca 1924\u003c/unitdate\u003e\u003ccontainer altrender=\"Custom Drop Spine Box - 15.25 x 11\" id=\"aspace_da32cb1c27078f36ef4761b8d7086818\" label=\"Mixed Materials [31142062745768]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_da32cb1c27078f36ef4761b8d7086818\" type=\"Item\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_4aff79f7cb4708bcb2f670726db376c2\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePerspective Projection: A Simple and Exact Method of Making Perspective Drawings\u003c/unittitle\u003e\u003cunitdate normal=\"1930/1930\"\u003e1930\u003c/unitdate\u003e\u003ccontainer altrender=\"Custom Drop Spine Box - 15.25 x 11\" id=\"aspace_f094839bb09d2201e56cafdbf501f739\" label=\"Mixed Materials [31142062745768]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f094839bb09d2201e56cafdbf501f739\" type=\"Item\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

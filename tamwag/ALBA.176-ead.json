@@ -1,0 +1,86 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "alba_176"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Spanish Political Prisoners Collection\n                    \u003cnum\u003eALBA.176\u003c/num\u003e\n                "
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-28T16:49-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Spanish Political Prisoners Collection"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.75 linear feet"
+                        },
+                        {
+                            "value": "(2 boxes)"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "ALBA.176"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "A collection of English and Spanish language materials on the topic of political prisoners in Spain dated 1960-1975. Includes correspondence, documents, ephemera and publications of concerned United States, Spanish and Spanish exile organizations, such as the Committee to Aid Spanish Political Prisoners and several Spanish counterparts, as well as related research materials."
+            }
+        },
+        "dsc": {}
+    }
+}

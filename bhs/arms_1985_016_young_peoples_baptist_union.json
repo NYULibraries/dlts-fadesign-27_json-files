@@ -1,0 +1,156 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1985_016_young_peoples_baptist_union"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Young People's Baptist Union of Brooklyn annual reports\n                    \u003cnum\u003e1986.015\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "November 8, 2010"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2013-08-08T16:33-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Young People's Baptist Union of Brooklyn annual reports"
+                },
+                "unitdate": {
+                    "normal": "1882/1945",
+                    "type": "inclusive",
+                    "value": "1882-1945"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.21 linear feet"
+                        },
+                        {
+                            "value": "in one half manuscript box."
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The Young People's Baptist Union of Brooklyn annual reports span the period 1882 to 1945. The reports are supplemented with the Union's constitution and bylaws, as well as directories of officers, delegates, and committees. The Union was organized in 1877 and was comprised of young members of Brooklyn's several Baptist churches. Its work was devoted to Christian fellowship and community service, and among its various activities was the conducting of a summer camp and retreat."
+                },
+                "unitid": {
+                    "value": "1986.015"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid497001",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "1986.015 1 of 1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref3",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref5",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Young People's Baptist Union of Brooklyn annual reports, 1986.015, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref4",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Portions of this collection were the gifts of the Reverend Richard Salter Storrs and Edna Huntington, dates unknown. Sources and dates of acquisition for remaining items in the collection are unknown. The collection was formally accessioned in 1986."
+            }
+        },
+        "bioghist": {
+            "id": "ref2",
+            "head": "Historical Note",
+            "p": {
+                "value": "The Young People's Baptist Union of Brooklyn was organized in 1877 and was comprised of young members of Brooklyn's several Baptist churches. The Union was devoted to Christian fellowship and community service, and among its various activities was the conducting of a summer camp and retreat, originally called the Fresh Air Home (1), which was established in 1909. In 1914, the camp became known as Sunshine Acres and was moved to Commack, Long Island. To reflect the involvement of the Long Island Baptist community in its activities, the Union modified its name in 1916 to the Young People's Baptist Union of Brooklyn and Long Island. As of 2010, the Union continues to operate, though it concentrates solely on the running of Sunshine Acres, presently located in Napanoch, N.Y."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Young People's Baptist Union of Brooklyn annual reports span the period 1882 to 1945 and are comprised of yearly booklets containing annual reports, constitutions and bylaws, and directories of officers, delegates, and committees. Booklets also include information on the Union's summer camp, the Fresh Air Home (later Sunshine Acres). Additionally, the booklet covering the period from 1914 to 1915 contains one loose copy photograph of children standing in front of the Fresh Air Home building, circa 1914."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Baptists |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Church camps |z New York (State) |z Long Island"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Youth in church work |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Young People's Baptist Union of Brooklyn."
+            }
+        },
+        "dsc": {}
+    }
+}

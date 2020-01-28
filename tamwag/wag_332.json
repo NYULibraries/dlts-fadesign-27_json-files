@@ -1,0 +1,179 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "wag_332"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to U.S. Labor Against the War Records \u003cnum\u003eWAG.332\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Emma Sarconi"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-08-07T16:00:17\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "local",
+                        "value": "Zweig, Michael"
+                    }
+                },
+                "unittitle": {
+                    "value": "U.S. Labor Against the War Records"
+                },
+                "unitdate": {
+                    "normal": "2003/2017",
+                    "type": "inclusive",
+                    "value": "2003-2017"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "4 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 3 record cartons, 1 manuscript box, 1 oversized flat box, and 1 small box"
+                        },
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "22 Gigabytes"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "on 5 DVD-R, 10 CD-R, and 2 Floppy Disks"
+                        },
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "8 videocassettes (vhs)"
+                        }
+                    ],
+                    "altrender": "part"
+                },
+                "abstract": {
+                    "value": "U.S. Labor Against the War (USLAW) was founded on October 25th, 2003 in Chicago at the National Assembly for Peace conference in response to the United States's invasion of Iraq in 2003. The organization's mission is twofold: demilitarizing U.S. foreign policy and organizing for a new economy. This collection contains notes, newsclippings, proposals, contracts, speeches, and multi-media items (photographs, videos, audio recordings) pertaining to the early days of USLAW, delegations to Iraq, Iraq labor solidarity, and AFL-CIO response to the Iraq War. "
+                },
+                "unitid": {
+                    "value": "WAG.332"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_e1761ed07db19f95725c9e22b71a9478",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_0306bbbd00725cf324a038100e138ff1",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; U.S. Labor Against the War Records; WAG 332; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_be9997e61cd0564287eceab319f8c6f4",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Michael Zweig, 2015. The accession number associated with this gift is 2015.028. An additional accession was donated in November 2017 by Michael Zweig. The accession number associated with this gift is 2018.015."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_e4873171dc8101f86efe74623e246308",
+            "head": "Historical Note",
+            "p": {
+                "value": "Source: http://www.uslaboragainstwar.org/"
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_705f6a4f68c5c00f92ebb2a17f196ffc",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Materials added in 2018 include proposals, memorandums, reports, notes, agendas, pamphlets, flyers, and printed email correspondence pertaining to U.S. intervention and occupation in Iraq, Iraq labor solidarity, climate change, the Islamic State, and conflicts in Syria. They contain general organizational information such as bylaws, mission statements, and meeting minutes, and include documentation from USLAW national assemblies, conferences, and chapter meetings between 2003 and 2017. "
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Iraq War, 2003-2011 -- Protest movements -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Iraq War, 2003-2011."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor movement -- Political activity -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Iraq War, 2003-2011 -- Moral and ethical aspects -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Protest movements."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Afghan War, 2001-"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Afghan War, 2001  -- Protest movements -- United States"
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_9d47e56a8f2c69523ac466031a7e3921\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNational Labor and Leadership Conferences, Conventions, Assemblies, and Meetings Documents\u003c/unittitle\u003e\u003cunitdate normal=\"2003/2014\" type=\"inclusive\"\u003e2003-2014\u003c/unitdate\u003e\u003ccontainer id=\"aspace_bcc1f567fa2fb1bf8fd2066684fbcd83\" label=\"Mixed Materials [31142051725417]\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_f1995c7aeddc14c14b8d210f81045438\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSpeeches, Reports, and Conferences on Iraqi Labor Rights, Anti-War Sentiments, and US Economy and War Spending \u003c/unittitle\u003e\u003cunitdate normal=\"2003/2004\" type=\"inclusive\"\u003e2003-2004\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a15ddbc05444891eac4f5807b0d2009b\" label=\"Mixed Materials [31142051725425]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_fb136892ab92f534a0fac5009a50b1b3\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAFL-CIO Labor in Iraq (Electronic Records)\u003c/unittitle\u003e\u003cunitdate normal=\"2004/2005\" type=\"inclusive\"\u003e2004-2005\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f12338820f7fdd9a342d735d97bf2aad\" label=\"Mixed Materials [31142051725433]\" type=\"Box\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_95a3b555575bf360dfa66efb3c58c2d7\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Bring All the Troops Home Now!\" Banner\u003c/unittitle\u003e\u003cunitdate normal=\"2003/2014\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Flat OS Box 17 - lengthwise\" id=\"aspace_c71b9bcd4a79a0bc38b001e14e018816\" label=\"Mixed Materials [31142051725441]\" type=\"Box\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_5c79e3c8500843fc9898b4c2354fc6c1\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLabor National Assemblies and Conventions (Video Recordings)\u003c/unittitle\u003e\u003cunitdate normal=\"2003/2004\" type=\"inclusive\"\u003e2003-2004\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9910aff8a3b3e8bfe5b282a1f3ff0045\" label=\"Mixed Materials [31142051725458]\" type=\"Box\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_59201afcb38240c09aed81bf545418d7\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eProposals, Agendas, Memorandums, and Emails on USLAW National Conventions and Anti-War Topics\u003c/unittitle\u003e\u003cunitdate normal=\"2003/2017\" type=\"inclusive\"\u003e2003-2017\u003c/unitdate\u003e\u003ccontainer id=\"aspace_6becf4ff990e168d15757fc538c1704c\" label=\"Mixed Materials [31142063253473]\" type=\"Box\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

@@ -1,0 +1,168 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1973_232_maryland_soldiers_memorial"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Battle of Long Island, Maryland soldiers memorial collection\n                    \u003cnum\u003e1973.232\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik and Weatherly Stephan"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "April 20, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-08T14:50-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Wildhack, Henry, Jr."
+                    }
+                },
+                "unittitle": {
+                    "value": "Battle of Long Island, Maryland soldiers memorial collection"
+                },
+                "unitdate": {
+                    "normal": "1869/1957",
+                    "type": "inclusive",
+                    "value": "1869-1957"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.04 Linear feet"
+                        },
+                        {
+                            "value": "in two folders."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "1973.232"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid734001",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0010"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref4",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref5",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Battle of Long Island, Maryland soldiers memorial collection, 1973.232, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref2",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "The source and date of acquisition for this collection are unknown. The collection was formally accessioned in 1973."
+            }
+        },
+        "bioghist": {
+            "id": "ref3",
+            "head": "Historical Note",
+            "p": {
+                "value": "The Battle of Long Island (also known as the Battle of Brooklyn) occurred on August 27, 1776 in what is now the borough of Brooklyn, New York City. The battle was the largest of the American Revolutionary War. It resulted in a victory for the British army and the retreat of the Continental Army through Manhattan and New Jersey into Pennsylvania. The Continental retreat was made possible by a company of 400 Maryland soldiers, who made a stand against the British near Lookout Hill (now located in Brooklyn's Prospect Park) to allow time for the Army's retreat across Gowanus Creek. Roughly 250 of the Maryland soldiers were killed and were buried in trenches along present-day 3rd Avenue between 7th and 8th Streets. A memorial monument to the soldiers now stands in Prospect Park."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "This collection consists of material spanning the period 1869 to 1957 and relating to the commemoration of the 250 Maryland soldiers who were killed defending the retreat of the Continental Army during the Battle of Long Island. Materials include correspondence, charts, maps, photographs, and street plans regarding casualties of the battle, memorial monuments and tablets, and burial sites of the Maryland soldiers. Correspondence also includes a reference to an African American burial ground near 3rd Avenue in Brooklyn. Materials in the collection were compiled or created by various individuals, namely Henry Wildhack, Jr."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "African Americans |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Burial |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Long Island, Battle of, New York, N.Y., 1776"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Soldiers |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Soldiers' monuments |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "War memorials |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "United States. Continental Army. Maryland Regiment, 1st (1777-1780)."
+            }
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "nystate"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the New York State Legislature Portrait Prints Collection\n                    \u003clb/\u003e\n                    \u003cdate\u003e1798\u003c/date\u003e\n                    \u003clb/\u003e\n                    \u003cnum\u003ePR 213\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Sandra Markham"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "© 2011 New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-12-13T16:26-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "© 2011 New-York Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "New York State Legislature Portrait Prints Collection"
+                },
+                "unitdate": {
+                    "value": "1798"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.58 Linear feet"
+                        },
+                        {
+                            "value": "(1 box)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Collection consists of 19 stipple engraved plates containing medallion profile portraits of 57 prominent men who served in the New York State Legislature in 1798."
+                },
+                "unitid": {
+                    "value": "PR 213"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref5",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Photocopying undertaken by staff only. Limited to thirty exposures of stable, unbound material per day. See guidelines in Print Room for details."
+            }
+        },
+        "prefercite": {
+            "id": "ref7",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "This collection should be cited as: New York State Legislature Portrait Prints Collection, PR 213, Department of Prints, Photographs, and Architectural Collections, The New-York Historical Society."
+            }
+        },
+        "scopecontent": {
+            "id": "ref8",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The engravings are attributed by Vail to the firm of Albany silversmith and engraver Isaac Hutton. Lithographic reproductions of some of the New York State Legislature portrait prints may be found in the Portrait File (PR-052)."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Statesmen in art"
+                }
+            ],
+            "corpname": {
+                "source": "ingest",
+                "value": "New York (State). -- Legislature -- (21st : 1798) -- Portraits"
+            }
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref10\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries I: New-York Historical Society Plates\u003c/unittitle\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref19\"\u003e\n                    \u003chead\u003eScope and Contents note\u003c/head\u003e\n                    \u003cp\u003eSeries I holds what is apparently the only complete set of the portraits in existence. According to Vail, seven of the eight prints were given to the Society in 1807 by John Pintard, after he had received them from Reverend Uzal Ogden. The missing eighth plate was later acquired from Harry Shaw Newman. A second full set of plates was formerly held in the New York State Library in Albany, but was destroyed in the great library fire of 1911.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n                \u003cc id=\"ref11\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eGovernor John Jay and Lt. Governor Stephen Van Rensselaer\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid500539\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid500539\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate\u003e1798\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref12\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSpeaker of the House Dirck Ten Broeck\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid500538\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid500538\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate\u003e1798\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref13\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSenators: L'Hommedieu, Gold, Jones, Cantine, Silvester, Graham, Thompson, Sanger, and Phelps\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid500537\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid500537\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate\u003e1798\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref14\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSenators: Morris, White, VanVechten, Gansevoort, and Gelston; Assemblymen: Ogden, Warner, Howard, and Fonda\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid500536\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid500536\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate\u003e1798\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref15\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAssemblymen: Hildreth, Mason, Henry, Bird, Jenkins, Denning, Hovey, Smith, and Foot\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid500535\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid500535\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate\u003e1798\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref16\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAssemblymen: Morse, McNiel, Heermance, Clift, Fort, Hoag, Hall, Hogeboom, and Thomas\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid500534\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid500534\" type=\"Folder\"\u003e6\u003c/container\u003e\n                        \u003cunitdate\u003e1798\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref17\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAssemblymen: Williamson, Dewey, Bowen, Wood, Holly, Griswold, McFarland, De la Montagnie, and Prince\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid500533\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid500533\" type=\"Folder\"\u003e7\u003c/container\u003e\n                        \u003cunitdate\u003e1798\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref18\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAssemblymen: Holt, Bowman, Verplank, Schuyler, Van Alstyne, Clinton, Hogeboom, Benton, and Brown\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid500532\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid500532\" type=\"Folder\"\u003e8\u003c/container\u003e\n                        \u003cunitdate\u003e1798\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref20\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries II: Goelet Plates\u003c/unittitle\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref26\"\u003e\n                    \u003chead\u003eScope and Contents note\u003c/head\u003e\n                    \u003cp\u003eSeries II holds five plates that were given to the Society in April 1978 by Robert Goelet. These prints have been trimmed to dimensions of printed border, 20.4 x 17.5 cm.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n                \u003cc id=\"ref21\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSenators: L'Hommedieu, Gold, Jones, Cantine, Silvester, Graham, Thompson, Sanger, and Phelps\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid500531\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid500531\" type=\"Folder\"\u003e9\u003c/container\u003e\n                        \u003cunitdate\u003e1798\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref22\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSenators: Morris, White, VanVechten, Gansevoort, and Gelston; Assemblymen: Ogden, Warner, Howard, and Fonda\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid500530\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid500530\" type=\"Folder\"\u003e10\u003c/container\u003e\n                        \u003cunitdate\u003e1798\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref23\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAssemblymen: Hildreth, Mason, Henry, Bird, Jenkins, Denning, Hovey, Smith, and Foot\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid500529\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid500529\" type=\"Folder\"\u003e11\u003c/container\u003e\n                        \u003cunitdate\u003e1798\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref24\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAssemblymen: Morse, McNiel, Heermance, Clift, Fort, Hoag, Hall, Hogeboom, and Thomas\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid500528\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid500528\" type=\"Folder\"\u003e12\u003c/container\u003e\n                        \u003cunitdate\u003e1798\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref25\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAssemblymen: Williamson, Dewey, Bowen, Wood, Holly, Griswold, McFarland, De la Montagnie, and Prince\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid500527\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid500527\" type=\"Folder\"\u003e13\u003c/container\u003e\n                        \u003cunitdate\u003e1798\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref27\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries III: Duane Plates\u003c/unittitle\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref32\"\u003e\n                    \u003chead\u003eScope and Contents note\u003c/head\u003e\n                    \u003cp\u003eSeries III were, according to a note written on their former enclosure, \"removed from Duane Papers VII.\" The four plates are damaged, each either cut or torn, and none are complete in having all nine portraits present.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n                \u003cc id=\"ref28\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSenators: Morris, White, VanVechten, Gansevoort, and Gelston; Assemblymen: Ogden, Warner, Howard, and Fonda\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid500526\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid500526\" type=\"Folder\"\u003e14\u003c/container\u003e\n                        \u003cunitdate\u003e1798\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref29\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAssemblymen: Morse, McNiel, Heermance, Clift, Fort, Hoag, Hall, Hogeboom, and Thomas\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid500525\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid500525\" type=\"Folder\"\u003e14\u003c/container\u003e\n                        \u003cunitdate\u003e1798\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref30\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAssemblymen: Williamson, Dewey, Bowen, Wood, Holly, Griswold, McFarland, De la Montagnie, and Prince\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid500524\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid500524\" type=\"Folder\"\u003e14\u003c/container\u003e\n                        \u003cunitdate\u003e1798\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref31\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAssemblymen: Holt, Bowman, Verplank, Schuyler, Van Alstyne, Clinton, Hogeboom, Benton, and Brown\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid500523\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid500523\" type=\"Folder\"\u003e14\u003c/container\u003e\n                        \u003cunitdate\u003e1798\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref33\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries IV: Miscellaneous Plates\u003c/unittitle\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref36\"\u003e\n                    \u003chead\u003eScope and Contents note\u003c/head\u003e\n                    \u003cp\u003eSeries IV holds two plates from an unknown source.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n                \u003cc id=\"ref34\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSenators: Morris, White, VanVechten, Gansevoort, and Gelston; Assemblymen: Ogden, Warner, Howard, and Fonda\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid500522\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid500522\" type=\"Folder\"\u003e15\u003c/container\u003e\n                        \u003cunitdate\u003e1798\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref35\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAssemblymen: Hildreth, Mason, Henry, Bird, Jenkins, Denning, Hovey, Smith, and Foot\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid500521\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid500521\" type=\"Folder\"\u003e15\u003c/container\u003e\n                        \u003cunitdate\u003e1798\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

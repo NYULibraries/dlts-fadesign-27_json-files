@@ -1,0 +1,165 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "arms_2008_037_garre_blackford"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the David C. Garre collection of Eugene G. Blackford papers \u003cnum\u003e2008.037\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by John Zarrillo"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "Brooklyn Historical Society",
+                        "128 Pierrepont Street",
+                        "Brooklyn 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-05-08T14:55:49\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Garre, David C."
+                    }
+                },
+                "unittitle": {
+                    "value": "David C. Garre collection of Eugene G. Blackford papers"
+                },
+                "unitdate": {
+                    "normal": "1866/1887",
+                    "type": "bulk",
+                    "value": "1866-1887"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.1 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in three folders"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The collection is primarily composed of papers which belonged to Eugene G. Blackford, specifically regarding two organizations: the Mariners' and Wanderers' Aid Society and the Ichthyophagous Club. The papers were collected by David C. Garre."
+                },
+                "unitid": {
+                    "value": "2008.037"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_cafc9823b207a1d8285abed4291329ec",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0126"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_cc96b3bc8e7046a7157f1ccdfaa7e86b",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_8163b1ab305aa7ae8f5d3cdc58afbf82",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); David C. Garre collection of Eugene G. Blackford papers, 2008.037, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_aef0ded7bb46ca602cdd5ca000c06cd2",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Gift of David C. Garre, 2008."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_32e45f9ffecf0ca1ceb05010194e4829",
+            "head": "Biographical note",
+            "p": {
+                "value": "\u003cemph render=\"bold\"\u003eEugene G. Blackford\u003c/emph\u003e was born in Morristown, New Jersey, on August 8, 1839. He was raised in Brooklyn, New York, and would later establish himself as a prominent businessman and naturalist. He was the president of the Brooklyn Bank, trustee of the People's Trust Company, and director of the Hide and Leather Bank in New York. From 1879 to 1892, he was Commissioner of Fish and Fisheries of the State of New York. He published numerous scientific papers on fish and fisheries during this time. He was also a charter member of the Brooklyn Institute of Arts and Sciences, and helped establish the biological laboratories at Cold Spring Harbor, New York. Blackford died on December 29, 1904, and is buried in Green-Wood Cemetery."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_7e9cd78174f8c87ed923359179f7a31e",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection also contains three items related to David C. Garre's ancestors: a photograph of his aunt, Margaret R. (Gray) Garre, circa 1930s; a photograph of four unidentified persons, circa 1930s; and a thank-you card sent from Mrs. William McKinley (Ida Saxton McKinley) to Margaret R. Gray, 1901."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Baptists |z New York (State) |z New York |x Charities"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Church charities |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Clubs |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Dinners and dining |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Sailors |z New York (State) |z New York"
+                }
+            ],
+            "corpname": {
+                "source": "library of congress name authority file",
+                "value": "First Baptist Mariner's Chapel (New York, N.Y.)"
+            }
+        },
+        "dsc": {}
+    }
+}

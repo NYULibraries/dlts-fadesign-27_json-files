@@ -1,0 +1,159 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_393"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Preliminary Inventory to the East Timor and Indonesia Action Network Records \u003cnum\u003eTAM 393\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Aniko Szucs"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-29T15:12:35\u003c/date\u003e"
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Miller, John  M."
+                    }
+                },
+                "unittitle": {
+                    "value": "East Timor and Indonesia Action Network Records"
+                },
+                "unitdate": {
+                    "normal": "1993/2005",
+                    "type": "inclusive",
+                    "value": "1993-2005"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "13 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(13 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The East Timor Action Network (ETAN) was founded in November 1991 to support self-determination and human rights for the people of East Timor (Timor-Leste). While the national headquarters are in New York City, there are also some two dozen chapters around the United States. After East Timor achieved independence from Indonesia in 2002, ETAN changed (in 2005) its name (but not its acronym) to East Timor and Indonesia Action Network, to better reflect its goals of supporting human rights, justice, and democracy in both East Timor and Indonesia. The records contain clippings, U.S. Congressional documents, correspondence, financial records, press releases, subject files, and audiovisual materials, most relating to the operations of the national organization. "
+                },
+                "unitid": {
+                    "value": "TAM 393"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_0ffd5ac9c6ddd8a697980b91fa8c34c0",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_3169c5c49af6b7534c3df67faaa54c11",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: \u003clb/\u003e\u003clb/\u003eIdentification of item, date; Collection name; Collection number; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_b8e3603985ce5df12626e21121fec065",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials donated by John M. Miller, National Coordinator for the East Timor and Indonesia Action Network (ETAN), in 2007. The accession number associated with this gift is 2007.011."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_f9744230beb0b683b70b0ea593c6a4bb",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "\u003clist\u003e\u003citem\u003eFor more information see the ETAN website (http://etan.org/etan/default.htm).\u003c/item\u003e\u003c/list\u003e "
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_c28cc2792e0468b950854cd7c6912fa1",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The records contain clippings, correspondence, financial and administrative records, press releases, subject files, U.S. Congressional materials, and audiovisual materials, principally documenting the activity of the national organization. For more detailed information, see the descriptions in the container list, below. \u003cemph render=\"bold\"\u003eNOTE: This collection is housed offsite and advance notice is required for use.\u003c/emph\u003e"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Human rights |z Indonesia."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Human rights |z Timor-Leste."
+                }
+            ],
+            "corpname": {
+                "source": "nad",
+                "value": "East Timor and Indonesia Action Network/U.S."
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref13\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: Congressional Materials.\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref14\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCongressional Material 1. Contains: Legislation / Congress Discussion 2000-2005; Statements to the Congress – include: Madeleine Albright, Bill Luther, Chris Smith, Cynthia A. McKenney; Congressional Addresses 1997\u003c/unittitle\u003e\u003cunitdate normal=\"1995/2005\" type=\"inclusive\"\u003e1995-2005\u003c/unitdate\u003e\u003ccontainer id=\"aspace_89b7184ea60159fdbe225ff5861076fd\" label=\"Mixed Materials [31142046525542]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_89b7184ea60159fdbe225ff5861076fd\" type=\"Folder\"\u003edata_value_missing_f7ccd90aa7f17c07c60bcdc2df0dfc08\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCongressional Material 2. Contains: Hearings, Testimonies Before the House of Representatives (includes Aryati, R.M. Gadbaw, Manuel dos Martires); Petitions to the Congress; Congressional Correspondence (includes: letters to ETAN members, Patrick Kennedy, Ali Alatas and many others); Clinton's, Albright's, Kofi Anan's correspondence; ETAN's correspondence\u003c/unittitle\u003e\u003cunitdate normal=\"1998/2000\" type=\"inclusive\"\u003e1998-2000\u003c/unitdate\u003e\u003ccontainer id=\"aspace_8b3dda5deaab009cc2f4db4635d41d21\" label=\"Mixed Materials [31142046525559]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_8b3dda5deaab009cc2f4db4635d41d21\" type=\"Folder\"\u003edata_value_missing_cebf8895b6b47d23accced530cac5f4d\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries II: Financial and Administrative Records.\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref17\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eETAN. Contains: Correspondence; Grant Applications; Fliers, Brochures of Events; Bios, Personnel Issues; Trip to Timor 1995, 2003; Documents (include Lease, Information Packages, Retreat Minutes, Annual Reports); Other East Timor Groups; Fliers of Events organized by other East Timor Groups\u003c/unittitle\u003e\u003cunitdate normal=\"1995/2003\" type=\"inclusive\"\u003e1995-2003\u003c/unitdate\u003e\u003ccontainer id=\"aspace_3226b5332a84bb6b94c505331a67e956\" label=\"Mixed Materials [31142046525567]\" type=\"Box\"\u003e3\u003c/container\u003e\u003ccontainer parent=\"aspace_3226b5332a84bb6b94c505331a67e956\" type=\"Folder\"\u003edata_value_missing_9ee4209f8ed229deda07beee0eb08889\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eEAST TIMOR - FINANCIAL SUPPORT. Contains: Lobby Days (information packages, documents, participants) ; Donor Meetings ; Transition Support Program (TSP); Trust Fund for East Timor; International Financial Institutes (reports, fact sheets, donor supervision, budgets); World Bank; USAID\u003c/unittitle\u003e\u003cunitdate normal=\"1997/2005\" type=\"inclusive\"\u003e1997-2005\u003c/unitdate\u003e\u003ccontainer id=\"aspace_dd8bbd1ada8713454d86976b750dfa93\" label=\"Mixed Materials [31142046525575]\" type=\"Box\"\u003e4\u003c/container\u003e\u003ccontainer parent=\"aspace_dd8bbd1ada8713454d86976b750dfa93\" type=\"Folder\"\u003edata_value_missing_024a64ba00e1cca5905f618aaef10a32\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries III: Subject Files.\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref20\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSubject Files A – D. Contains: Action Alerts; America Federation of Labor and Congress of Industrial Organization; Amnesty International; Arms Control Legislation; Asian Women's Shelter Asian Pacific Conference; Burma; CAVR Public Hearing; Campaign for Labor Rights / Nike; Covert Action; Catholic Church; Demilitarization; Democracy NOW!\u003c/unittitle\u003e\u003cunitdate normal=\"1993/2005\" type=\"inclusive\"\u003e1993-2005\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7d9a8032c26ebe20d4a85b33f24d7b6d\" label=\"Mixed Materials [31142046525583]\" type=\"Box\"\u003e5\u003c/container\u003e\u003ccontainer parent=\"aspace_7d9a8032c26ebe20d4a85b33f24d7b6d\" type=\"Folder\"\u003edata_value_missing_02844bc365e9373ae0279bee2e740d93\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSubject Files E – H. Contains: Episcopal Church; East Timor Human Rights Centre (ETHRC); East Timor related materials: Civil Society, Cocoa, Coffee, Constitution, Culture, Education, Election, Environment, Fact Sheets, Government, Health Policy, Websites; Exxon Mobil Lawsuit; Foreign Policy; Grassroots; Heritage Foundation; Human Rights Watch\u003c/unittitle\u003e\u003cunitdate normal=\"1995/2004\" type=\"inclusive\"\u003e1995-2004\u003c/unitdate\u003e\u003ccontainer id=\"aspace_0be9ef575e793f230a66911619a5ca32\" label=\"Mixed Materials [31142046525591]\" type=\"Box\"\u003e6\u003c/container\u003e\u003ccontainer parent=\"aspace_0be9ef575e793f230a66911619a5ca32\" type=\"Folder\"\u003edata_value_missing_da86dacd331eebef742421183395aaa6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSubject Files I – L. Contains: Independence Celebration / East Timor; Indonesia (Democracy, Info Packets, Human Rights Network; Military; OTI; Terrorism; Working Groups; World Bank); Initiatives for International Dialogues; International Federation for East Timor: Legislative, Human Rights Units; International Fellowship Statement; International Republican Institute (IRI); International Tribunal and Accountability; Judicial Systems Monitoring Program: The Future of the Serious Crimes Unit; Labor / Employment – KSTL Labor Organization Jakarta; Kondfederasaun Sindikatu Timor Lorosa (KSTL) / Labor Organization; La'o Hamutuk: Institute for Renconstruction Monitoring and Analysis; Laskar, Jihad: Indonesian Terrorist Lumintang, Johnny: Indonesian General; Lustrilanang, Pius: Indonesian student movement leader\u003c/unittitle\u003e\u003cunitdate normal=\"1999/2005\" type=\"inclusive\"\u003e1999-2005\u003c/unitdate\u003e\u003ccontainer id=\"aspace_40c34af88d2ce00af9521f4cfe8f4e2d\" label=\"Mixed Materials [31142046525609]\" type=\"Box\"\u003e7\u003c/container\u003e\u003ccontainer parent=\"aspace_40c34af88d2ce00af9521f4cfe8f4e2d\" type=\"Folder\"\u003edata_value_missing_6236ac3607ea331b1432b2db288f224b\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSubject Files O – Ra. Contains: Massachusetts Burma Case; Military (Issues, Reports, Trainings, Other Countries); New Administration; NGO correspondence; Oil; Peace Action; Police Training; Political Prisoners (Correspondence, ETHRC, Indonesia); Portuguese Caucuses, Conference Purchasing Laws; Pinto, Constancio: member of Timorese Resistance, Representative of the National Council of Maubere Resistance (CNRM) to the UN; Ramos-Horta, José: founder member of Revolutionary Front for an Independent East Timor, Nobel Prize winner (1996), currently the Prime Minister of East Timor\u003c/unittitle\u003e\u003cunitdate normal=\"1996/2004\" type=\"inclusive\"\u003e1996-2004\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b568d5bd1f1937295a77ede70fe3270b\" label=\"Mixed Materials [31142046525617]\" type=\"Box\"\u003e8\u003c/container\u003e\u003ccontainer parent=\"aspace_b568d5bd1f1937295a77ede70fe3270b\" type=\"Folder\"\u003edata_value_missing_2104ffb556abd00ec7d178913df7e289\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSubject Files Re – W. Contains: Refugees; Referendums (U.S. Government, UNAMET, UN, AI, Pre-Vote Military); Relief Development Programs; Religious Resolutions; Research Papers; Roth, Stanley: Assistant Secretary for East Asian and Pacific Affairs; Department of State / Hearings; School of Advanced International Studies, DC – Conference; Self-Determination Struggles; Student Demonstrations; TAPOL, the Indonesian Human Rights Campaign; Timika; Torture; UN: Decolonalization Committee: Mission in East Timor (UNAMET); High Commissioner for Human Rights (UNHCR); Report on Violence against Women; USAID; U.S. East Timor Society West Timor; White House (briefings, correspondence); Youth Urgent Appeal\u003c/unittitle\u003e\u003cunitdate normal=\"1997/2001\" type=\"inclusive\"\u003e1997-2001\u003c/unitdate\u003e\u003ccontainer id=\"aspace_55313b0047b205bae689d8c20e64ea12\" label=\"Mixed Materials [31142046525625]\" type=\"Box\"\u003e9\u003c/container\u003e\u003ccontainer parent=\"aspace_55313b0047b205bae689d8c20e64ea12\" type=\"Folder\"\u003edata_value_missing_fda8ccd23a280e126913d0922c0aff30\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries IV: Press Releases.\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref26\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePress Releases and Statements issued by ETAN, Reuters, TAPOL, Congressmen (Kennedy, P.; Pelosi, N.; Reed, J.), Ramos-Horta, etc.\u003c/unittitle\u003e\u003cunitdate normal=\"1997/2005\" type=\"inclusive\"\u003e1997-2005\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b9393f9bce1f57c699b3bd4072f210ad\" label=\"Mixed Materials [31142046525633]\" type=\"Box\"\u003e10\u003c/container\u003e\u003ccontainer parent=\"aspace_b9393f9bce1f57c699b3bd4072f210ad\" type=\"Folder\"\u003edata_value_missing_8af79dac2cd405169f070d1524ab9096\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries V: Clippings.\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref28\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eClippings\u003c/unittitle\u003e\u003cunitdate normal=\"1994/2005\" type=\"inclusive\"\u003e1994-2005\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d1a8b8713c49d54ff67a0291a6fcfa74\" label=\"Mixed Materials [31142046525641]\" type=\"Box\"\u003e11\u003c/container\u003e\u003ccontainer parent=\"aspace_d1a8b8713c49d54ff67a0291a6fcfa74\" type=\"Folder\"\u003edata_value_missing_53d23475ddc762950525a64a22552459\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref29\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries VI: Miscellaneous (Includes Related Organizations, Articles, Audiocassettes and DVDs).\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref30\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePublished Articles, Brochures, Booklets, Audio Cassettes and DVD's. Contains (Topics): Aceh, East Timor, Indonesia, Jakarta, Women's Question; Contains (Organizations): Amnesty International, Asian-Pacific Coalition for East-Timor, East Timor Alert Network, East Timor Support Center, International Alert, Indonesia Alert, National Democratic Institute, U.S. Committee for Refugees\u003c/unittitle\u003e\u003cunitdate normal=\"1993/2000\" type=\"inclusive\"\u003e1993-2000\u003c/unitdate\u003e\u003ccontainer id=\"aspace_819a13a526e3b7fdeb131ebb81360f93\" label=\"Mixed Materials [31142046525658]\" type=\"Box\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref31\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDocuments on East Timor from PeaceNet and Connected Computer Network (a periodical published by ETAN) Volumes 21-43.\u003c/unittitle\u003e\u003cunitdate normal=\"1993/1996\" type=\"inclusive\"\u003e1993-1996\u003c/unitdate\u003e\u003ccontainer id=\"aspace_8e6bda895c9202d9ade043cb409b77ed\" label=\"Mixed Materials [31142046525666]\" type=\"Box\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

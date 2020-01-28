@@ -1,0 +1,130 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "wag_304"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Josie Simon Papers \u003cnum\u003eWAG.304\u003c/num\u003e"
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-08-01T20:01:47\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Tax, Meredith"
+                    }
+                },
+                "unittitle": {
+                    "value": "Josie Simon Papers"
+                },
+                "unitdate": {
+                    "normal": "1950/1965",
+                    "type": "inclusive",
+                    "value": "1950-1965"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Josie Simon Papers contain materials documenting the activities of Union Locals of the International Ladies' Garment Workers' Union (ILGWU) in New York City during the 1950s and 1960s. The ILGWU once represented over 80,000 union members employed in more than 2,000 shops in the eight-state New York Metropolitan dress market. Materials include records concerning the rank-and-file groups in the Italian Dress and Waistmakers' Union (Local 89) and the Dressmaker's Union (Local 22) of the ILGWU."
+                },
+                "unitid": {
+                    "value": "WAG.304"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_59c32e64ff08ddb2f27b05b153d90dc7",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_a6769f4416b195aea208f4ce2956e78d",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_865098aaf5a8b60528a1cb6a1fa88f2b",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Josie Simon Papers; WAG 304; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_250f055e194c74376855f00fdeb7d4ee",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Meridith Tax at Josie Simon's behest in 2009. The accession number associated with this gift is 2009.078."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_79e385b7171d40abbe1330eb9c70399e",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Records from Local 22 include newspaper clippings, memos to dress makers, itemized schedules for section piece work, supplements describing working conditions, guides for garment prices. Records document union efforts to implement enforced guides for piece work rates as well as organize and bargain for New York dress workers. Records from Local 89 include By-Laws, member pamphlets, newspaper clippings, 1965 contract negotiations, and local election flyers."
+            }
+        },
+        "controlaccess": {},
+        "dsc": {}
+    }
+}

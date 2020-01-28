@@ -1,0 +1,123 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1977_649_shelter_island"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Shelter Island Meeting House Committee petition and subscription list\n                    \u003cnum\u003e1977.649\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Matthew Gorham"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "July 15, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-17T11:33-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Shelter Island Meeting House Committee petition and subscription list"
+                },
+                "unitdate": {
+                    "normal": "1790/1810",
+                    "type": "inclusive",
+                    "value": "Circa 1800"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.08 Linear feet"
+                        },
+                        {
+                            "value": "in one folder"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "A copy of a petition and subscription list requesting donations to erect a new meeting house on Shelter Island. The list was only signed by two people, Benjamin and Gilbert Horton. The committee consisted of five men: Sylvester Dering, Samuel Lord, William Bavditch, Jonathan Douglass, and Henry Conklin."
+                },
+                "unitid": {
+                    "value": "1977.649"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid906002",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0073"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref4",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Shelter Island Meeting House Committee petition and subscription list, 1977.649, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Source and date of acquisition unknown. The item was formally accessioned in 1977."
+            }
+        },
+        "controlaccess": {},
+        "dsc": {}
+    }
+}

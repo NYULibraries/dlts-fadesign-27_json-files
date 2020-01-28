@@ -1,0 +1,146 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "ms3077_dickinson"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Nancy S. Dickinson Research Notes  \u003clb/\u003e  1983-1992  \u003clb/\u003e \u003cnum\u003eMS-3077\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Marybeth Kavanagh"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-01-29T21:30:39\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Dickinson, Nancy S."
+                    }
+                },
+                "unittitle": {
+                    "value": "Nancy S. Dickinson research notes"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "1983-1992"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "2 Linear feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 2 record cartons"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "This collection is comprised of the research notes of Nancy S. Dickinson, a research fellow at the Colonial Williamsburg Foundation from 1986-1987. The work was funded by a National Endowment for the Humanities grant for a larger project entitled \"English Ceramics in America 1760-1860: Marketing, Prices, and Availability.\" Dickinson's research focused on the ceramics trade in New York during the late 18th and early 19th centuries."
+                },
+                "unitid": {
+                    "value": "MS-3077"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_ff578748d1d8f98281d39cb934af37ba",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open to qualified researchers."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_d2c6e27eef82f456efea1e1587418daa",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "The collection should be cited as: Nancy S. Dickinson Research Notes, MS 3077, The New-York Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_250a766da8b258371b8b9b093f49a767",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Gift of George L. Miller, 2015."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_bbb89ac761abb4295f203608f2f3edad",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "One of the important papers resulting from this research project was \"Changing Consumption Patterns, English Ceramics and the American Market from 1770 to 1840\" by George L. Miller, Ann Smart Martin and Nancy S. Dickinson.  It was published in the book \u003cemph title=\"italic\"\u003eEveryday Life in the Early Republic\u003c/emph\u003e, edited by Catherine E. Hutchins for Winterthur Museum.   "
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Pottery--18th century"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Pottery--19th century."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Pottery, American"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Pottery, English"
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_1641ff5b379af514c824a48514c25816\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNational Endowment for the Humanities grant documentation\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1986-1992\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e6b227e59034e098f772f7f9fa9687b7\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e6b227e59034e098f772f7f9fa9687b7\" type=\"Folder\"\u003e1-4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_c6120949dcd36d33d157b6ec6c735bba\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eResearch notes\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1983-1991\u003c/unitdate\u003e\u003ccontainer id=\"aspace_27315d0948cb716687da2d401bcf93be\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_27315d0948cb716687da2d401bcf93be\" type=\"Folder\"\u003e5-23\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_5317222746279c7955446b908a0a4c72\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eResearch notes\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_fec20c1d3bc7697471a234946d9cf255\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_fec20c1d3bc7697471a234946d9cf255\" type=\"Folder\"\u003e1-5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_9ccaea8c3908902f4dcede85fce9c446\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eData sheets for computer generated analysis of records\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1986-1987\u003c/unitdate\u003e\u003ccontainer id=\"aspace_eff7a6d766333c15469b142ceac1c773\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_eff7a6d766333c15469b142ceac1c773\" type=\"Folder\"\u003e 6-20\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

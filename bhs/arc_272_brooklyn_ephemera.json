@@ -1,0 +1,185 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "arc_272_brooklyn_ephemera"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Brooklyn ephemera collection \u003cnum\u003eARC.272\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Joan Michaela A. Jocson"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "Brooklyn Historical Society",
+                        "128 Pierrepont Street",
+                        "Brooklyn 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-06-13T20:57:57\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "Brooklyn ephemera collection"
+                },
+                "unitdate": {
+                    "normal": "1814/2001",
+                    "type": "inclusive",
+                    "value": "1814-2001"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "10.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 12 manuscript boxes, 5 half manuscript boxes, and 2 flat boxes"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Brooklyn ephemera collection contains various ephemeral material relating to a variety of Brooklyn-based institutions and events spanning the period 1814 to 1998."
+                },
+                "unitid": {
+                    "value": "ARC.272"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_3314685392330b6add6d2a7f49e894db",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "Unprocessed 2"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_eace21e3abdd608bf9a59cae76a336bb",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_d5243c10536f2c81749ea07182059a55",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Brooklyn ephemera collection, ARC.272, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_ada941306979e4baf8e5b58e9b2ee3e0",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "The Brooklyn ephemera collection is continually growing and is comprised of a variety of materials donated over the years.  Much of its provenance is unknown due to it being a collection of various donations from benefactors both inside and outside Brooklyn Historical Society. Dedication package for the Verrazano-Narrows Bridge is the gift of David E. Simon."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_8193c287ee50337833e0792b2e02e7ce",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Brooklyn ephemera collection contains materials of mixed provenance accumulated over decades by the Long Island Historical Society (now the Brooklyn Historical Society).  The materials relate to a variety of Brooklyn-based institutions and events spanning the period 1814 to 1998.  Items include correspondence, announcements, pamphlets, special events programs and notices, note papers, tickets, newspaper clippings, trade cards, advertisements, receipts, invoices, tour maps and information, postcards, and certificates.  The collection has been arranged into 12 series:"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Entertainment events |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Clubs -- New York (State) -- Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Railroads |z New York (State) |z Long Island"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Railroads |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "African Americans -- New York (State) -- Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Brownstone buildings |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Department stores |z New York (State) |z Kings County |x History"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Racing |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Theater |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Sports -- New York (State) -- Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Popular music |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Music |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Brooklyn Athenaeum"
+            }
+        },
+        "otherfindaid": {
+            "id": "aspace_b4cee4322e53006b185aa312b514c509",
+            "head": "Other Finding Aids"
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref8_508\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries 1: Business\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"6465\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e6465\u003c/unitid\u003e\u003cunitdate normal=\"1823/1997\" type=\"inclusive\"\u003e1823-1997\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_f6cb083244759a2e293e5846cd98e23f\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThis series is made up of two manuscript boxes containing business items such as checks, receipts, business and trade cards, bank notes, bank statements of condition, and promotional announcements and brochures, as well as folders on the J.A.R. Elliot Company (makers of Elliot Ear Protectors) and the Hotel St. George.  Also included are two programs for dinner dances in 1953 and 1954 of the employees association of Mays department store.  Notable documents include a check signed by Teunis Joralemon in 1823, a stock certificate from the Joralemon Street Corporation to Maurice Davidson, and a tradecard for Arbuckle's \"Ariosa\" Coffee. A securities speculation of Brooklyn Today Inc. is also included.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref10_jzp\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries 2: Churches\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"6466\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e6466\u003c/unitid\u003e\u003cunitdate normal=\"1857/1997\" type=\"inclusive\"\u003e1857-1997\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_4dcdb617e5cab651f3cccbbc22735d70\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThis series includes issues of the periodical \u003cemph render=\"italic\"\u003eThe Parish News\u003c/emph\u003e, dating between 1905 and 1906, with certain volumes missing, as well as items pertaining to various Brooklyn churches that existed during the early 19th century, such as the Brooklyn Tabernacle, First Presbyterian Church, Saint Barnabas Church, and Saint Michael's Church of Bay Ridge.  Tickets, pamphlets, service programs, announcements, miscellaneous flyers, newspaper clippings, and obituaries can be found here.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref12_nsu\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries 3: Civic organizations and celebrations\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"6467\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e6467\u003c/unitid\u003e\u003cunitdate normal=\"1844/1998\" type=\"inclusive\"\u003e1844-1998\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_37c30443449a84265ad68b33751395c0\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThis series contains a variety of materials, including newsletters, special announcements, and invitations, on Brooklyn's early Police Department, Fire Department, and Parks Department.  It also covers the Brooklyn Bureau of Community Service, Chamber of Commerce, and Historic Districts Council.  Invitations to Fire Department balls and galas can be found, some dating to the 1840s.  Other scattered department cards are also present, such as the block watcher card of Warren Zerbe, circa 1973, and the card of Deputy Commissioner Francis L. Dallon of the First Precinct, undated.  The Parks folder contains materials relating to Prospect Park, ceremonial dedications, annual reports, tour programs, and invitations.  Also included are materials related to specific celebrations such as the Hudson-Fulton celebration of 1909, the Williamsburg Bridge opening of 1903, the Long Island Tercentenary Banquet of 1936, the George Washington Centennial celebration of 1889, and the Bicentennial of 1975 to 1977.  The Miscellaneous folder covers local, historical, and ethnic celebrations and includes various tickets, booklets, invitations, promotions, and place cards.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14_6vi\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries 4: Clubs\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"6468\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e6468\u003c/unitid\u003e\u003cunitdate normal=\"1863/1997\" type=\"inclusive\"\u003e1863-1997\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_5c7e3b179dbe9989bae1e0f5296490ad\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThis series contains two document boxes, with Box 1 containing materials related to Brooklyn club theater programs and Box 2 containing event, menu, and announcement information.  Pamphlets, seating lists, donor lists, bulletins, handbooks, and correspondence, all relating to theater programs, can be found in the first box.  Box 2 contains event menus by venue, with multiple copies of menus for some events, such as a Lotus Club dinner pamphlet (with menu and speech enclosed) for Dr. St. Clair McKelway, 1906.  Box 2 also covers various materials on events or dinners organized by each club, including tickets, invitations, announcements and brochures. Clubs represented include the Apollo Club, Cambridge Club, City History Club, Elks Club, Hamilton Club, Literary Society Club, Montauk Club, Musical Clubs, Riding and Driving Club, Union Club, and the YMCA/YWCA.  Materials on clubs other than those listed above, such as the Rotary Club of Brooklyn and Municipal Club of Brooklyn, are included in the miscellaneous folder in Box 1.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16_7a2\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries 5: Entertainment\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"6469\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e6469\u003c/unitid\u003e\u003cunitdate normal=\"1852/1997\" type=\"inclusive\"\u003e1852-1997\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_c3c55f0e4e02e450cc4c1de83f85e15d\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThis series is comprised of two document boxes that hold theater programs.  Box 2 also contains event programs and announcement materials.  Theaters are listed alphabetically, and include The Athenaeum, Brooklyn Academy of Music, The Majestic, Montauk Theater, New Brighton Theater, and Payton's Theater, as well as various theaters not documented extensively enough to occupy individual folders, such as the Germania Theater, Brooklyn College Theater, Prospect Hall, and the Carnegie Theater.  Each folder contains items such as programs, booklets, and tickets.  The Miscellaneous Announcements folder in Box 1 includes a lament for the Brooklyn Theater Fire in 1876.  Box 2 contains materials such as musical compositions, Coney Island memorabilia, opera programs, and playbills.  A program companion for the weekend festival celebrating the 100th anniversary of Dvorak's \u003cemph render=\"italic\"\u003eNew World Symphony\u003c/emph\u003e and honoring the 50th anniversary of the death of Amy Beach, an American female composer of the late 19th century, is contained in Box 2, Folder 1.  The Miscellaneous folder in Box 2 covers various performing arts events, including concerts, musical performances, and plays, organized by music schools, local cultural institutions, and theatres.  It includes event calendars, promotions, programs, annual schedules, newspaper clippings, posters, flyers, brochures, and sales guides.  It also includes materials on the Brooklyn Center for the Performing Arts and the Public Theater.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18_vs7\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries 6: Military\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"6470\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e6470\u003c/unitid\u003e\u003cunitdate normal=\"1852/1965\" type=\"inclusive\"\u003e1852-1965\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_60fdad226c872522bdbde23badf46a94\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThis series consists of one box with seven folders.  Folder topics include regimental receptions, the 23rd Regiment, the Navy and the Brooklyn Navy Yard, memorial services, Memorial Day celebrations, Ulysses S. Grant, and miscellaneous notices, a 1918 World War I Christmas postcard, invitations, and announcements.  Included are identification cards, like Frances Haber's Brooklyn Navy Yard I.D. dating from 1943. Other items of interest include tickets and invitations for veterans' events and celebrations. Additionally, publications from the Brooklyn Navy Yard were added to this series from other Brooklyn Navy Yard collections, due to lack of information on donors and dates. They are located in the oversize box as part of Series 12.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20_mx1\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries 7: Schools\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"6471\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e6471\u003c/unitid\u003e\u003cunitdate normal=\"1862/1997\" type=\"inclusive\"\u003e1862-1997\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_983c60becbe2b02ddaaf1dd3ebbd90e2\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThis series contains materials relating to schools situated in Brooklyn between 1862 and 1997, such as Brooklyn Central School, Brooklyn Heights Seminary, Erasmus Hall High School, and Packer Institute.  Highlights of this series include a booklet memento of the graduating class of 1904 at Packer Institute, tickets and programs of school events, and Erasmus Hall High School's yearbook from 1935.  This series also contains information on Erasmus Hall Museum of Education, and Packer Institute's annual reports from 1996 and 1997.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22_49p\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries 8: Sports\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"6472\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e6472\u003c/unitid\u003e\u003cunitdate normal=\"1874/2001\" type=\"inclusive\"\u003e1874-2001\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_bdc0ff25c6fdd3a29a3b5673ae5cef1f\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThe series contains an assortment of miscellaneous tickets and newspaper clippings of sports-related events from 1874 to 1996. It also contains programs and schedules from the Crescent Football Club (1891-1892), the Brooklyn Prep Midgets' football team (1922), the Brooklyn-Queens Marathon and Indoor Games (1926), the Brooklyn Dodgers Football team (1940), and the Brooklyn Cyclones minor league baseball team (2001, located in Series 12: Oversize box).\u003c/p\u003e\u003c/scopecontent\u003e\u003crelatedmaterial id=\"aspace_7a72c9ac7daa27be67bd98c75cb06720\"\u003e\u003chead\u003eRelated Materials\u003c/head\u003e\u003cp\u003eBrooklyn Dodgers epehemera has been removed to form the Brooklyn Dodgers collection (ARC.297).\u003c/p\u003e\u003c/relatedmaterial\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24_5xv\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries 9: Transportation\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"6473\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e6473\u003c/unitid\u003e\u003cunitdate normal=\"1814/1997\" type=\"inclusive\"\u003e1814-1997\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_114fa7f698eb5d5d5d7dbd67ea407341\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThis series contains materials arranged under the following headings: Trains, The Long Island Railroad, The Brooklyn Elevated Railroad Company, The Brooklyn Union Railroad Company, The Brooklyn Manhattan Transit Company, Subways, Ferries, Union Ferry of New York and Brooklyn Union Ferry, New York City Transit Authority, Bridges, and Miscellaneous. The Miscellaneous folder includes New York Transit Museum records and National Railway Historical Society newsletters. The series also includes one flat box containing 37 mid-20th century subway posters published by the New York City Transit Authority (\u003cemph render=\"italic\"\u003eThe Subway Sun\u003c/emph\u003e).\u003c/p\u003e\u003cp\u003eThe inclusive dates range from 1814 to 1997.  Notable items include identification cards, tickets, and a booklet published by the Institute of Design and Construction warning people of the dangers of building the Verrazano Narrows Bridge and several items related to the opening of the Brooklyn Bridge. \u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref26_gy6\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries 10: Miscellaneous\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"6474\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e6474\u003c/unitid\u003e\u003cunitdate normal=\"1832/1998\" type=\"inclusive\"\u003e1832-1998\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_098aa964c9ec4e98f81e652d1db424e6\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThis series includes a multitude of ephemera relating to various subjects.  The following is a general overview of the material formats and subjects represented.\u003c/p\u003e\u003cp\u003eFashion clippings in the series are in poor and brittle condition.  Photocopies are now in place, in order to preserve the original clippings, in an archival folder behind the rest of the clippings in Folder 3.\u003c/p\u003e\u003cp\u003eA Political Activity subset contains folders housing materials related to campaign songs, unions, and the Republican Party.  Of special interest is American money dating from 1864 and many undated war ration books.  An 1860 tune written by John W. Dawson titled \"Irrepressible Wide-Awake Campaign Song - The Lost Boy\" is also included within the Campaign Songs folder, and the Unions folder contains constitutions and bylaws from various years of the Independent Makers and Machinists Council. It also includes a program for the inauguration ceremony of Brooklyn Borough President Eric L. Adams (2014).\u003c/p\u003e\u003cp\u003eAn Ethnic Groups subset houses materials relevant to African-American, Finish-American and Irish-American affairs.\u003c/p\u003e\u003cp\u003eA folder titled Stamps is also included and contains a wax seal of Colonel William Smith from 1675 and a 1951 issue of a commemorative stamps booklet on the Battle of Brooklyn.\u003c/p\u003e\u003cp\u003eThe Architecture folder covers historic and landmark buildings in Brooklyn as well as materials on local brownstones, including Wyckoff ancestral house.  \u003c/p\u003e\u003cp\u003eThe Art folders house Cultural Council Foundation timesheets and various leaflets and letters about Brooklyn Historical Society exhibitions. They also include exhibitions of various museums and cultural organizations, records of the Brooklyn Arts Council, and events of the Elders Share the Arts.  \u003c/p\u003e\u003cp\u003eThe Associations folder covers local and historical societies, containing their newsletters, events, exhibition materials, and invitations.  Represented organizations include the Clinton Hill Society, Flatbush Historical Society, Brooklyn Bar Association, Brooklyn Local Economic Development Corporation, Queens Historical Society, Crown Heights Tax Payers and Civic Association, Gravesend Historical Society, Nottingham Association, Society of Old Brooklynites, Hebrew Educational Society, Jack and Jill of America, St. Patrick Society of Brooklyn, Emerald Association, and Society for the Preservation of Weeksville and Bedford-Stuyvesant History.  \u003c/p\u003e\u003cp\u003eThe Brownstone Revival movment is represented in the Boerum Hill house tours ephemera folder, containing pamphlets and other items dating from 1966 to 1973.\u003c/p\u003e\u003cp\u003eThe Brooklyn Museum folders cover general information, exhibitions, education, events, and various outreach programs of the museum.  \u003c/p\u003e\u003cp\u003eThe Community Development folder includes materials on the Bedford Stuyvesant Restoration Corporation, Forest City Pierrepont Association, Fulton Mall, Atlantic Terminal Brooklyn Center, and Brooklyn Renaissance Plaza, as well as newsletters and annual reports of other corporate bodies.  \u003c/p\u003e\u003cp\u003eThe Hospital folder includes records of the Visiting Nurse Association.  \u003c/p\u003e\u003cp\u003eThe Library folder includes materials on the Brooklyn Public Library, including annual reports, general information, booklists, exhibition announcements, outreach programs, and event calendars.\u003c/p\u003e\u003cp\u003eThe Miscellaneous folders contain records, newsletters, and magazine articles relating to community affairs and events, historical celebrations, neighborhood tours, gay and lesbian festivals, and not-for-profit organizations.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref28_2w5\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries 11: Comic books\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"6475\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e6475\u003c/unitid\u003e\u003cunitdate normal=\"1964/1979\" type=\"inclusive\"\u003e1964-1979\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_2993d52ac54bee15644e3069cdab1fcd\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThis series contains only two comic books.  The first comic book dates from 1979 and depicts the cartoon character Bugs Bunny with a Brooklyn accent.  The second comic book is of the Flintstone family (from the animated television show \u003cemph render=\"italic\"\u003eThe Flintstones\u003c/emph\u003e) at the World's Fair of 1964 in Flushing, Queens.  The Flintstone family was based on the fictional Brooklyn family of the television show \u003cemph render=\"italic\"\u003eThe Honeymooners\u003c/emph\u003e.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref30_uk6\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries 12: Oversized (calendars, fliers, maps, newspapers, posters)\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"6476\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e6476\u003c/unitid\u003e\u003cunitdate normal=\"1814/2001\" type=\"inclusive\"\u003e1814-2001\u003c/unitdate\u003e\u003ccontainer altrender=\"Medium Flat Box 23\" id=\"aspace_6e7b7a4f0a5ac0359107229f72922cdb\" label=\"Mixed Materials\" type=\"Box\"\u003eOS-40\u003c/container\u003e\u003ccontainer altrender=\"Large Flat Box 3\" id=\"aspace_3456fa0b410510bcfec218003c231845\" label=\"Mixed Materials\" type=\"Box\"\u003eOS-41\u003c/container\u003e\u003ccontainer altrender=\"Large Flat Box 8\" id=\"aspace_b0604c45840a48a0120275634f661aaf\" label=\"Mixed Materials\" type=\"Box\"\u003eOS-36\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_80dd31396bf980df1db715b9a5b2ae15\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThis series contains calendars relating to Brooklyn life and history and items from Series 1, 6, and 10 that were placed in the oversize box due to their size.  Of special note for their photographic retrospectives of Brooklyn are the \u003cemph render=\"italic\"\u003eBrooklyn: Faces and Places\u003c/emph\u003e calendars of the years 1992 and 1993, \u003cemph render=\"italic\"\u003eThis is Brooklyn: The Borough's Historic Districts and Landmarks\u003c/emph\u003e from 1991, and \u003cemph render=\"italic\"\u003eThe Dime Savings Bank of Brooklyn: Through the Eyes of Joseph Pennell, December 1900-1961\u003c/emph\u003e. This box also contains book covers, a brochure of the South Brooklyn Savings Bank, an advertisement from the New York and New Jersey Port Authority, and a brochure of the Brooklyn Economic Development Corporation.  Also included are Brooklyn Navy Yard publications, posters of the Park Slope Artists Open Studio and Brooklyn Botanic Garden, a menu from Joe's Restaurant (1944), Brooklyn Cyclones items, and a publication on Tribeca West by the Landmarks Preservation Commission.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e"
+        }
+    }
+}

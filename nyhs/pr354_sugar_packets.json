@@ -1,0 +1,138 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "pr354_sugar_packets"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Crago-Kramer Collection of Sugar Packets\n                    \u003clb/\u003ecirca 1939-1960s\n                    \u003clb/\u003e\n                    \u003cnum\u003ePR 354\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Larry Weimer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "© 2011 New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                },
+                "date": "February 2018"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2018-03-23T16:24-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "© 2011 New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Crago, Priscilla Hayward"
+                    }
+                },
+                "unittitle": {
+                    "value": "Crago-Kramer collection of sugar packets"
+                },
+                "unitdate": {
+                    "value": "circa 1939-1960s"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.42 Linear feet"
+                        },
+                        {
+                            "value": "in one document box"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The Crago-Kramer collection includes a variety of sugar packets from New York City and New York State, dating from the 1930s-1960s. The packets are often distinctive in that they refer to particular business establishments, especially hotels and restaurants, institutions, and some events, notably the World's Fairs of 1939-40 and of 1964-65 and the 1980 Winter Olympics."
+                },
+                "unitid": {
+                    "value": "PR 354"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref6",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open to qualified researchers by appointment only."
+            }
+        },
+        "prefercite": {
+            "id": "ref9",
+            "head": "Preferred Citation Note",
+            "p": {
+                "value": "Credit line: Donated by Clive Probert. Originally collected by Priscilla Hayward Crago of Albany, and Martin \u0026amp; Esther Kramer of Brooklyn."
+            }
+        },
+        "acqinfo": {
+            "id": "ref8",
+            "head": "Immediate Source of Acquisition Note",
+            "p": {
+                "value": "Gift from Clive Probert, October 2015."
+            }
+        },
+        "bioghist": {
+            "id": "ref12",
+            "head": "Biographical/Historical Note",
+            "p": {
+                "value": "(The above was based on information from Probert's \n                \u003cextref ns2:actuate=\"onRequest\" ns2:href=\"https://sites.google.com/site/cliveprobert/home\"\u003ewebsite\u003c/extref\u003e as of February 2018.)"
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "Images of many of these packets can be found at the web site of the collection's donor; \n                \u003cextref ns2:actuate=\"onRequest\" ns2:href=\"https://sites.google.com/site/cliveprobert/sugarpacketcollection/priscilla-hayward-crago-collection\"\u003eclick here\u003c/extref\u003e."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Sugar -- Packaging -- New York (State)"
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref13\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSugar Packets (7 folders)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3984001\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid3984001\" type=\"Folder\"\u003e1-7\u003c/container\u003e\n                    \u003cunitdate\u003ecirca 1939-1960s\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

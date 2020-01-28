@@ -1,0 +1,142 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "tam_243"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Herman Singer Papers\n                    \u003cnum\u003eTAM.243\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "1/29/2010"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T19:09-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Singer, Herman, 1915-2001"
+                    }
+                },
+                "unittitle": {
+                    "value": "Herman Singer Papers"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "4.5 linear feet"
+                        },
+                        {
+                            "value": "(5 boxes)"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "TAM.243"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid19085001",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1-5"
+                }
+            }
+        ],
+        "bioghist": {
+            "id": "ref3",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Herman Singer (1915-2001) was an editor of the \n                \u003cemph render=\"italic\"\u003eNew Leader\u003c/emph\u003e from 1945-1950. He worked for Radio Free Europe (RFE) and was active in their alumni organization, the Society of International Broadcasters. He edited the publication \n                \u003cemph render=\"italic\"\u003eEast Europe\u003c/emph\u003e in the 1960s and 1970s wrote on V. F. Calverton, proletarian literature and Socialist Party history, and reviewed books and films."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "This collection contains correspondence and documents relating to his work on Calverton, Socialist Party history, NY Call/SDF, the Newspaper Guild-Free Europe Unit, and \n                \u003cemph render=\"italic\"\u003eFree Europe Guild News\u003c/emph\u003e. Also included is correspondence with Bob Rindel, Sam Solon, Calverton and various editors and publishers. PLEASE DIRECT FURTHER INQUIRIES TO: tamiment.wagner@nyu.edu"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Communism and literature |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialism and literature |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialism |z United States |x History."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialist parties |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialists |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Working class in literature."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Radio Free Europe."
+            }
+        },
+        "dsc": {}
+    }
+}

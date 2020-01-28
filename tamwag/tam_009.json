@@ -1,0 +1,163 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_009"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Helena Born Papers \u003cnum\u003eTAM.009\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Judith Kotkin, Peter Filardo"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-04-20T13:02:03\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Avrich, Paul"
+                    }
+                },
+                "unittitle": {
+                    "value": "Helena Born Papers"
+                },
+                "unitdate": {
+                    "normal": "1890/1901",
+                    "type": "bulk",
+                    "value": "1890-1901"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Helena Born (1860-1901), was a labor organizer, anarchist, and writer, was born in Devonshire, England. She became involved in the workers movement beginning with the London Dock Strike in 1889. In 1890 she emmigrated to the United States, settling in Cambridge, Massachusetts. She learned typesetting and proofreading which became her life work. She wrote \u003cemph render=\"italic\"\u003eWhitman's Ideal Democracy, and Other Writings\u003c/emph\u003e (1902), and other writings. Born was an apostle of simplicity and social regeneration. She appreciated the harmony and joys of nature and possessed the idealism of Thoreau. \n\nThe papers contain scrapbooks, correspondence, autographed letters, photographs, memorabilia, poetry, essays, a biography of Born (written by Helen Tufts), her will and printed material. Her organizing efforts in Bristol are documented as well as her writing and publishing work. Of special note is a collection of business letters that Born gathered while she worked at Houghton Mifflin in Boston from such writers as William Jennings Bryan, William Dean Howells, Oliver W. Holmes, William James, and John Fiske."
+                },
+                "unitid": {
+                    "value": "TAM.009"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_140dc2fd74b33fc8cc40ef1ce50d4a9d",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_ba42c002b9cb58c1caa4686e69dd341c",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Helena Born Papers; TAM 009; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_e6c3823ed19b761c64107f66c47381e3",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Helena Tufts Bailie through Professor Paul Avrich, 1973. The accession number associated with this gift is 1973.002."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_8caf144df9bced75d00cbe8992490583",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "While living in Boston, Helena Born joined the local Walt Whitman Fellowship and before its membership she read many of the papers which her editor (Everett Press) published in a small volume entitled \u003cemph render=\"italic\"\u003eWhitman's Ideal Democracy, and Other Writings\u003c/emph\u003e (1902). The book contained essays by Born on Thoreau, Whitman, Shelley, and William Carpenter. On February 27, 1901 she died of cancer in Boston."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_e35bea97d159308c52727531c51ddd77",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Walt Whitman Fellowship/In Memoriam (to Helena Born) material relates to a 1901 memorial meeting of the Fellowship. Included are drafts of eulogies to Born written by other members of the Walt Whitman Fellowship, including William Bailie, Emma Heller Schumm, and Horace L. Traubel. Also included is a postcard announcing the meeting, obituaries, newspaper reviews of \u003cemph render=\"italic\"\u003eWhitman's Ideal of Democracy\u003c/emph\u003e, and an undated six page biography of Born written by Helen M. Tufts."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Socialist parties."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Liberty."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Anarchism -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor unions |x Organizing |z England |z Bristol."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Anarchists |z United States."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Atlantic monthly"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref9\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAutographed Letters: Contains businesslike letters from notables, e.g., William Jennings Bryan, John Fiske, William James.\u003c/unittitle\u003e\u003cunitdate normal=\"1880/1906\" type=\"inclusive\"\u003e1880-1906\u003c/unitdate\u003e\u003ccontainer id=\"aspace_264328abc636ee7332dd54af1ea58cb0\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_264328abc636ee7332dd54af1ea58cb0\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref10\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAutographed Manuscript Proofs Collected by HB as a Proofreader at Houghton \u0026amp; Mifflin in Boston. \u003c/unittitle\u003e\u003cunitdate\u003eUndated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_41eaaf922b88a9e678fc84cfda9c6930\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_41eaaf922b88a9e678fc84cfda9c6930\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBristol Socialist Society: Contains Appeals to workers from the Bristol Strike Committee; Bristol Labour Emancipation League; Efforts by HB to unionize unskilled workers.\u003c/unittitle\u003e\u003cunitdate normal=\"1889/1890\" type=\"inclusive\"\u003e1889-1890\u003c/unitdate\u003e\u003ccontainer id=\"aspace_6fa77dacf765e5cf9e56f83741ce93ae\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_6fa77dacf765e5cf9e56f83741ce93ae\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref11\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eEssays (Also contains an envelope to Atlantic Monthly Press addressed to William Bailie)\u003c/unittitle\u003e\u003cunitdate normal=\"1891/1891\" type=\"inclusive\"\u003e1891\u003c/unitdate\u003e\u003ccontainer id=\"aspace_0445c18de5cb65feb26b7f651357a915\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0445c18de5cb65feb26b7f651357a915\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eEssays: \"Bias\"; \"Insincerity\"\u003c/unittitle\u003e\u003cunitdate normal=\"1887/1888\" type=\"inclusive\"\u003e1887-1888\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c8020378d62285a212782eea972a6507\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_c8020378d62285a212782eea972a6507\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eEssay: \"Whitman's Ideal Democracy\"\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ca70b79ddd8835600a0afdfcd840f46f\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ca70b79ddd8835600a0afdfcd840f46f\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLetters, Personal: Contains eighteen letters by HB to William Bailie; Letters by HB to Helen M. Tufts; Letters to Born from Miriam Daniell.\u003c/unittitle\u003e\u003cunitdate normal=\"1898/1898\" type=\"inclusive\"\u003e1898\u003c/unitdate\u003e\u003ccontainer id=\"aspace_3d79fb2abe98334c78299174ee11cd84\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_3d79fb2abe98334c78299174ee11cd84\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref12\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLetters, Personal: \nContains twenty letter by HB to William Bailie; one poem, \"Blossoms.\"\u003c/unittitle\u003e\u003cunitdate\u003e1898-1901\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4ef24dc38e895d4128a6d3d317a810c9\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_4ef24dc38e895d4128a6d3d317a810c9\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref13\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eScrapbooks: Contains newsclippings on British economic, political and social issues; The Bradlaugh case; William Gladstone; Articles on women's work and female suffrage.\u003c/unittitle\u003e\u003cunitdate normal=\"1870/1892\" type=\"inclusive\"\u003e1870-1892\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e037114ec99d3d1dc21c28d2cf69b1d3\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e037114ec99d3d1dc21c28d2cf69b1d3\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eThe Walt Whitman Fellowship / In Memoriam (to Helena Born): Contains, eulogies, postcard announcing memorial meeting; newsclipings re Born's death; Reviews of HB's \u003cemph render=\"italic\"\u003eWhitman's Ideal Democracy\u003c/emph\u003e.\u003c/unittitle\u003e\u003cunitdate normal=\"1901/1902\" type=\"inclusive\"\u003e1901-1902\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9cbd3d4f090c98ed7827da98165a461f\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_9cbd3d4f090c98ed7827da98165a461f\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

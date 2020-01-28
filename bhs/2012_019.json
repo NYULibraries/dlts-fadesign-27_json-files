@@ -1,0 +1,148 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "2012_019"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Raymond Love films of the Verrazano-Narrows Bridge construction \u003cnum\u003e2012.019\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Maggie Schreiner"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "Brooklyn Historical Society",
+                        "128 Pierrepont Street",
+                        "Brooklyn 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-09-04T21:25:43\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "local",
+                        "value": "Love, Patrick"
+                    }
+                },
+                "unittitle": {
+                    "value": "Raymond Love films of the Verrazano-Narrows Bridge construction"
+                },
+                "unitdate": {
+                    "normal": "1963/1963",
+                    "value": "1963"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "3 reels stored in 1 half manuscript box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Raymond Love was always interested in photography and in 1953, after the birth of his daughter, he began to record movies on 8mm of his family. Raymond worked on the construction of the Verrazano-Narrows Bridge, building the roadways near the end of the construction project. This collections consists of three 8mm reels depicting the construction of the Verrazano-Narrows Bridge."
+                },
+                "unitid": {
+                    "value": "2012.019"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_16a9cd2633d67e0b4d9f98758ffba95b",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_d133e97fd59ad7d9ef09507a7f33a858",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "This collection is open for research without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_f70a10ba23490e48e7db01979dd1e512",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Raymond Love films of the Verrazano-Narrows Bridge construction, 2012.019, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_ee7248b4e64d185a816c529b94af63c7",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Gift of the Love Children (Kathi, Patrick, Joan, John, and Nora) in honor of their father, Raymond J. Love. Donation facilitated by Patrick Love."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_5551b15d38f8ffbf56cf249969774b7a",
+            "head": "Biographical / Historical",
+            "p": {
+                "value": "Raymond Love was always interested in photography and in 1953, after the birth of his daughter, he began to record movies on 8mm film of his family. Each film he recorded was 8 minutes long; he spliced them together to make a longer film of each project. "
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_2a52ba84b6824ef98e2c84d49517b5f1",
+            "head": "Content Description",
+            "p": {
+                "value": "This collections consists of three 8mm reels depicting the construction of the Verrazano-Narrows Bridge. The reels were shot by Raymond Love, a construction worker on the bridge."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Construction industry |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Amateur films"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

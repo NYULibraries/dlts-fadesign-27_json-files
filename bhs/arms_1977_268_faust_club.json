@@ -1,0 +1,156 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1977_268_faust_club"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Faust Club records\n                    \u003cnum\u003e1977.268\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "June 17, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-10T11:28-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Faust Club records"
+                },
+                "unitdate": {
+                    "normal": "1872/1875",
+                    "type": "inclusive",
+                    "value": "1872-1875"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.17 Linear feet"
+                        },
+                        {
+                            "value": "in two folders."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "1977.268"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid838001",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0055"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref5",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Faust Club records, 1977.268, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Daniel B. Thompson, date unknown. Formally accessioned in 1977."
+            }
+        },
+        "bioghist": {
+            "id": "ref4",
+            "head": "Historical Note",
+            "p": {
+                "value": "The Faust Club was formed in 1872 as a social club for Brooklyn artists, actors, musicians, and journalists. The Club was located at a house on Remsen Street, but dissolved in 1875 due to depleted finances."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "This collection includes materials documenting the activities of the Faust Club from 1872 to 1875, including a minute book, correspondence, a directory with lists of members and committees, and an account book with a name index."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Art |x Societies, etc."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Clubs |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Literature |x Societies, etc."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Music |x Societies, etc."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Faust Club (Brooklyn, New York, N.Y.)."
+            }
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,197 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "arc_172_brooklyn_clubs"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Brooklyn clubs collection \u003cnum\u003eARC.172\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Patricia Glowinski"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "Brooklyn Historical Society",
+                        "128 Pierrepont Street",
+                        "Brooklyn 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-06-13T21:02:54\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Brooklyn clubs collection"
+                },
+                "unitdate": {
+                    "normal": "1860/1950",
+                    "type": "bulk",
+                    "value": "1860-1950"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "3.3 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in eight manuscript boxes."
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Brooklyn clubs collection spans the dates 1843 to 2005, with bulk dates of 1860 to 1960, and measures 3.3 linear feet. Clubs represented in the collection are varied, with interests ranging from political, to professional, to social. Materials represented in the collection include yearbooks, event programs, constitutions and bylaws, newsletters, bulletins, membership lists, calendars, annual reports, and printed ephemera."
+                },
+                "unitid": {
+                    "value": "ARC.172"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_b8dbec1c98558c8ef7710c2a93686ffd",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "OS-40"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_790f890cbe0565eaa8c404ceec9351ca",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_d5072ab530067dcfca4afefc5dafe16e",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Brooklyn clubs collection, ARC.172, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_1a749033e81ec06f801825f0715e62f7",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Source and date of acquisition for this collection are unknown."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_36bf88b88dd0ffea3f723b46e96060d1",
+            "head": "Historical note",
+            "p": {
+                "value": "Several factors led to the demise of many social clubs, chiefly the invention of the automobile and its effect on how and where people lived (for example, the growth of suburbs), the financial fallout following a series of economic depressions in the United States in the 1890s through the 1930s, and the establishment of anti-discrimination laws that, in part, addressed the exclusionary practices so many social clubs held. In the 1950s and 1960s, neighborhood social clubs flourished within local immigrant populations in New York City, many of which are still active today."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_9638a9bc5711e0c8c13f5269ff6427c4",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Yacht Racing Association of Gravesend Bay – Bylaws and racing rules, 1913; and yearbook and racing rules, 1914"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Automobiles |x Societies, etc."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Art |x Societies, etc."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Library clubs |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Riding clubs |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Science clubs |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Literature |x Societies, etc."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Societies |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Women |z New York (State) |z Kings County |x Societies and clubs"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Choral societies |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Political clubs |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Athletic clubs -- New York (State) -- Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Private clubs |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Sailing clubs |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Clubs -- New York (State) -- Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Federal Republican Club of Kings County"
+            }
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,171 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_298"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Stephanie Oursler Papers \u003cnum\u003eTAM 298\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-14T14:46:32\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Stephanie Oursler Papers"
+                },
+                "unitdate": {
+                    "value": "circa 1955 - 1970"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.75 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 2 manuscript boxes"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "TAM 298"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_f87e6a0d0660a4d15a8aea9e97b7f45b",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1-2"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_ecd523de5d3fe33681f4a3b08121a3df",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_0fe2f7b3ccbc8c0821e379db2d6877c6",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Stephanie Oursler Papers; TAM 298; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_e043849ba8dcb5dbac4293d49979979a",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials found in collection; provenance is unknown. The accession number associated with this gift is 1950.103."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_ea460c168db94824755b51963f59c99c",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Stephanie Oursler is a progressive, feminist and labor activist."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_0f82e91e9d02101f72080380712e251f",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Contains circulars, reports, and other internal documents and printed ephemera including produced by and relating to several New Left organizations, principally based in New York City, including the women's and peace movements, files on sexual discrimination in employment and in the workplace, the Black Panther Party, essays submitted to the \"New York Element\" of the Peace and Freedom Party, and documents relating to the negotiation of the first contract of the Social Service Employees Union. Some of the material is authored by Oursler. One notable document is a 16 pp. typescript on the relations between the SDA (Social Democracy of America -- possibly referring to or a shortening of the Socialist Party-Social Democratic Federation) and the Young Socialist League, probably written in the mid to late 1950s."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Feminism -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Third parties (United States politics)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Black nationalism |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Discrimination in employment |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Sex discrimination against women -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Feminists -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialism and youth -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "New Left -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Peace movements -- United States."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Social Service Employees Union. Local 371"
+            }
+        },
+        "dsc": {}
+    }
+}

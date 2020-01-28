@@ -1,0 +1,163 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_422"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Tuli Kupferberg Radical Humor Collection \u003cnum\u003eTAM.422\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2016-10-13T14:54:09\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Tuli Kupferberg"
+                    }
+                },
+                "unittitle": {
+                    "value": "Tuli Kupferberg Radical Humor Collection"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "TAM.422"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_ff7f099c01a56e2d3d4fdcea5f926067",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_293d5ca04456b266b8f3e6bedabdcff8",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open for research without restrictions."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_649248a03c39fe7d196afffdbd9d8086",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Provenance is unknown; the accession number associated with this collection is 1950.245. Various cartoons collected and authored by Kupferberg were found in repository in April 2014 and were added to this collection. The accession number associated with this material is: 2014.074."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_681fcc3a6771b73e06f39dd67c838f5e",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Tuli Kupferberg (September 28, 1923 - 2010) was a poet, author, cartoonist, anarchist, publisher and co-founder of the band The Fugs. In 1958 he founded the magazine \u003cemph render=\"italic\"\u003eBirth\u003c/emph\u003e which, despite running for only three issues, published many notable authors from the Beat Generation such as Allen Ginsberg, Diane Di Prima, LeRoi Jones and Ted Joans."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_4f8475fd91365052d7b7f8040e6132ca",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection consists of cartoons, graphics, posters, songs and other documents relating to labor and the left, collected and authored by Kupferberg."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Anarchists |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Political posters, American."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Political cartoons -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Wit and humor |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Political ballads and songs |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Political satire, American."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Wit and humor, Pictorial"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Fugs (Musical group)"
+            }
+        },
+        "dsc": {}
+    }
+}

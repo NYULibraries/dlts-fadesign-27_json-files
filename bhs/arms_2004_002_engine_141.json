@@ -1,0 +1,154 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_2004_002_engine_141"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Brooklyn Engine 141 collection\n                    \u003cnum\u003e2004.002\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by John Zarrillo"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "January 2015"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2015-01-28T11:42-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Brooklyn Engine 141 collection"
+                },
+                "unitdate": {
+                    "normal": "1905/2004",
+                    "type": "inclusive",
+                    "value": "1905, 1996, 2004"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.25 linear feet"
+                        },
+                        {
+                            "value": "in one flat box"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The collection consists of one bound volume containing the roster and activity log for Brooklyn Engine 141 in the year 1905. It also includes a photocopy of a booklet entitled, \"Engine 241 - A Century of Firefighting\" (1996) and some genealogical material relating to the donor's family, the Wardells (some of whom were members of the company)."
+                },
+                "unitid": {
+                    "value": "2004.002"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref9",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Brooklyn Engine 141 collection, 2004.002, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref5",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of June Wardell Mason, 2004."
+            }
+        },
+        "bioghist": {
+            "id": "ref4",
+            "head": "Historical note",
+            "p": {
+                "value": "Engine 41 was established in 1896, when the volunteer fire department of the former Town of New Utrecht was replaced with a paid department by the City of Brooklyn. A new firehouse was built on Bay Ridge Avenue, near Ridge Boulevard for use by Engine 41 and Ladder 13. In 1898, when Brooklyn was annexed by the Greater City of New York, Ladder 13 was disbanded, and its ladder truck was assigned to Engine 41. In 1899, all of the Brooklyn companies were renumbered, and Engine 41 became Engine 141. It was renumbered once more in 1913, when it became Engine 241. Combination Engine 241 was disbanded in 1914, along with five other companies, and reorganized as a single engine company."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The collection consists of one bound volume containing the roster and activity log for Brooklyn Engine 141 in the year 1905. A small note was found in the volume which reads: \"this was found where Midwood St. was opened in line of Bedford Ave.\" The collection also includes a photocopy of a booklet entitled, \"Engine 241 - A Century of Firefighting\" (1996) and some genealogical material relating to the donor's family, the Wardells (some of whom were members of the company)."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Fire departments |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Fire fighters |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Fire prevention |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Genealogy |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "New York (N.Y.). Fire Dept. Engine 241."
+            }
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "alba_100"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Randall Smith Spanish Civil War Correspondence \u003cnum\u003eALBA.100\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Processed by Jennifer Waxman"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-08-08T15:36:12\u003c/date\u003e"
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Smith, Randall, 1917-1989"
+                    }
+                },
+                "unittitle": {
+                    "value": "Randall Smith Spanish Civil War Correspondence"
+                },
+                "unitdate": {
+                    "normal": "1937/1942",
+                    "type": "inclusive",
+                    "value": "1937-1942"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Randall Smith (1917-1989) was an ambulance driver in Spain during the Spanish Civil War. After the war he lived in California where be became a longshoreman and a seaman, as well as an active member of the International Longshoremen's and Warehousemen's Union and the National Maritime Union. Later, Smith moved to New York City and worked as a marketing executive. This collection includes letters written by Randall Smith to his mother and sister while an American volunteer in the Spanish Civil War."
+                },
+                "unitid": {
+                    "value": "ALBA.100"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_8091c7d907fce93b904600d1cfd6dfb7",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Materials are open to researchers. Please contact the Tamiment Library \u0026amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_5fe27d032babaa6425e19982591cf2bd",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: \u003clb/\u003e\u003clb/\u003eIdentification of item, date; Collection name; Collection number; box number; folder number; \u003clb/\u003eTamiment Library/Robert F. Wagner Labor Archives \u003clb/\u003eElmer Holmes Bobst Library \u003clb/\u003e70 Washington Square South \u003clb/\u003eNew York, NY 10012, New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_356c74ac76a5fda7d209a566ecf96b50",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Smith married upon his return from Spain, and lived in San Francisco, Los Angeles, and New York City. He worked as a longshoreman with the International Longshore and Warehouse Union (ILWU), volunteered for the Merchant Marines during World War II, and joined the National Maritime Union (NMU). After holding various jobs in the Los Angeles area, he received his MBA degree from UCLA. Smith worked for various companies as a marketing executive and retired from the Edison Electric Institute in New York City."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_29a260b894bc692a28a18dcbf897a787",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "This collection contains letters from Smith to his mother (Elizabeth, nee Cisney) and sister (Isabel) written while in Spain (August 1937 until December 1938) and just after his return. The letters from Spain contain Smith's thoughts on international politics and his decision to go to Spain, personal matters regarding his family and friends, activity on the front as an ambulance driver, stories of his friend, Walter Schuetrum and brigade commissar, Dave Doran, as well as notes on the Spanish cuisine and countryside. The letters after his return focus on the job and real estate market of the United States of the early 1940s."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Ebro River, Battle of the, Spain, 1938."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Spain -- History -- Civil War, 1936-1939."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Spain. Ejercito Popular de la Republica. Brigada Internacional, XV"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref15\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: Correspondence and Related Clippings, 1937-1942\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref16\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence: From R.S. to Mother and Sister (Isabel)\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1937\" type=\"inclusive\"\u003eAug - Dec 1937\u003c/unitdate\u003e\u003ccontainer id=\"aspace_3481c51fdc7c48bf489269dd245c2327\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_3481c51fdc7c48bf489269dd245c2327\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence: From R.S. to Mother and Sister (Isabel)\u003c/unittitle\u003e\u003cunitdate normal=\"1938/1938\" type=\"inclusive\"\u003eJan-Jun 1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b30cbd6137da29f420f3ade7f7bd2589\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b30cbd6137da29f420f3ade7f7bd2589\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence: From R.S. to Mother and Sister (Isabel)\u003c/unittitle\u003e\u003cunitdate normal=\"1938/1938\" type=\"inclusive\"\u003eJul - Aug 1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_3196f7cb6ca25d32aedcf3013383cc3a\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_3196f7cb6ca25d32aedcf3013383cc3a\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence: From R.S. to Mother\u003c/unittitle\u003e\u003cunitdate normal=\"1938/1938\" type=\"inclusive\"\u003eSep - Dec 1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_00f81e8e6d2bedc9b30ff36d84966f97\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_00f81e8e6d2bedc9b30ff36d84966f97\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref28\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence: From R.S. to Mother and Sister (Isabel)\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1938\" type=\"inclusive\"\u003e1937-1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_779cac975399c36e22586f9f75ec73b5\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_779cac975399c36e22586f9f75ec73b5\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence: From R.S. to Mother\u003c/unittitle\u003e\u003cunitdate normal=\"1939/1941\" type=\"inclusive\"\u003e[circa 1939 - 1941]\u003c/unitdate\u003e\u003ccontainer id=\"aspace_bf056a46ca02250706b5c7ee295a1d56\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_bf056a46ca02250706b5c7ee295a1d56\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence: From R.S. to Mother\u003c/unittitle\u003e\u003cunitdate normal=\"1942/1942\" type=\"inclusive\"\u003eJun 1, 1942\u003c/unitdate\u003e\u003ccontainer id=\"aspace_030ddd302408131760b02d45af15a1fa\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_030ddd302408131760b02d45af15a1fa\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref30\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence: Transcript of Letter from R.S. to Family\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1937\" type=\"inclusive\"\u003eSept (?) 1937\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7837a806901032eab5c2d33beb5f6691\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_7837a806901032eab5c2d33beb5f6691\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref31\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence: Transcript of Letters from R.S. to Family\u003c/unittitle\u003e\u003cunitdate normal=\"1938/1938\" type=\"inclusive\"\u003eFeb 2, Mar 5, \u0026amp; Sept 5 1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_34c23ffb11cd3b44cd8118731e0803c4\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_34c23ffb11cd3b44cd8118731e0803c4\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref32\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNewspaper Clippings re: R.S. (Photocopies)\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1938\" type=\"inclusive\"\u003e1937-1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e05b4ce619e41e9a103ba09ebf059580\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e05b4ce619e41e9a103ba09ebf059580\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

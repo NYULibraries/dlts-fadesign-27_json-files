@@ -1,0 +1,163 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "tam_160"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Preliminary Inventory to the Murray Bookchin Papers\n                    \u003cnum\u003eTAM.160\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "2009"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T18:41-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Bookchin, Murray, 1921-2006"
+                    }
+                },
+                "unittitle": {
+                    "value": "Murray Bookchin Papers"
+                },
+                "unitdate": {
+                    "normal": "1950/2003",
+                    "type": "inclusive",
+                    "value": "1950-2003"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "17.0 linear feet"
+                        },
+                        {
+                            "value": "(17 boxes)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Murray Bookchin (January 14, 1921-July 30, 2006) was a libertarian socialist, political philosopher, speaker and writer. The founder of the social ecology movement within libertarian socialist and ecological thought, Bookchin is noted for his synthesis of the anarchist tradition with modern ecological awareness. He was the author of two dozen books on politics, philosophy, history, and urban affairs as well as ecology. The collection contains correspondence, unpublished writings (including essays and manuscripts of unpublished and published books), published writings, including translations of Bookchin's books, Green movement periodicals, reviews of Bookchin’s books, printed ephemera and documents related to the Left Green Network, the Burlington, Vermont Greens, and other Green movements, including those in Europe, and course outlines. \n                \u003cemph render=\"bold\"\u003eNOTE: This collection is stored offsite and advance notice is required for use.\u003c/emph\u003e"
+                },
+                "unitid": {
+                    "value": "TAM.160"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref5",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open for research without restrictions. \n                \u003cemph render=\"bold\"\u003eNOTE: This collection is stored offsite and advance notice is required for use.\u003c/emph\u003e"
+            }
+        },
+        "prefercite": {
+            "id": "ref33",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: \n                \u003clb/\u003e\n                \u003clb/\u003eIdentification of item, date; Collection name; Collection number; box number; folder number; \n                \u003clb/\u003eTamiment Library/Robert F. Wagner Labor Archives \n                \u003clb/\u003eElmer Holmes Bobst Library \n                \u003clb/\u003e70 Washington Square South \n                \u003clb/\u003eNew York, NY 10012, New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "ref8",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "For additional information, see: \n                \u003cextref ns2:actuate=\"onLoad\" ns2:show=\"new\" ns2:title=\"Murray Bookchin (Anarchy Archives)\" ns2:href=\"http://dwardmac.pitzer.edu/anarchist_archives/bookchin/Bookchinarchive.html\"\u003ehttp://dwardmac.pitzer.edu/anarchist_archives/bookchin/Bookchinarchive.html \u003c/extref\u003e"
+            }
+        },
+        "scopecontent": {
+            "id": "ref9",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "\n                \u003cemph render=\"bold\"\u003eNOTE: This collection is stored offsite and advance notice is required for use.\u003c/emph\u003e"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Anarchism."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Communalism."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Communism."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Green movement."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Social ecology."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Left Green Network (U.S.)."
+            }
+        },
+        "dsc": {
+            "value": "\n            \u003cc01 id=\"ref14\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries I: Preliminary Inventory, 1950s-2003\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                \u003c/did\u003e\n                \u003cc02 id=\"ref15\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMurray Bookchin: Essay Manuscripts (1 of 3)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid38722\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"1950/1994\" type=\"inclusive\"\u003e1950s-1994\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref16\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMurray Bookchin: Essay Manuscripts (2 of 3)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid38721\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003cunitdate normal=\"1950/1994\" type=\"inclusive\"\u003e1950s-1994\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref17\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMurray Bookchin: Essay Manuscripts (3 of 3)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid38720\" type=\"Box\" label=\"Mixed materials\"\u003e3\u003c/container\u003e\n                        \u003cunitdate normal=\"1950/1994\" type=\"inclusive\"\u003e1950s-1994\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref18\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eBurlington (Vermont) Greens and New England Greens Materials\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid38719\" type=\"Box\" label=\"Mixed materials\"\u003e4\u003c/container\u003e\n                        \u003cunitdate normal=\"1950/2003\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref19\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eLeft Green Network; Social Ecology (international)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid38718\" type=\"Box\" label=\"Mixed materials\"\u003e5\u003c/container\u003e\n                        \u003cunitdate normal=\"1950/2003\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref20\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMurray Bookchin: Book Manuscripts: Urbanization, Remaking Society (partial), Ecology of Freedom, John Ely Interview. Periodicals: Left Green Perspectives, Comment, Harbinger\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid38717\" type=\"Box\" label=\"Mixed materials\"\u003e6\u003c/container\u003e\n                        \u003cunitdate normal=\"1950/2003\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref21\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eEuropean Greens Materials\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid38716\" type=\"Box\" label=\"Mixed materials\"\u003e7\u003c/container\u003e\n                        \u003cunitdate normal=\"1950/2003\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref22\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence, Incoming\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid38715\" type=\"Box\" label=\"Mixed materials\"\u003e8\u003c/container\u003e\n                        \u003cunitdate normal=\"1950/1993\" type=\"inclusive\"\u003e1950s-1993\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref23\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMurray Bookchin: Books Translated into Other Languages (1 of 2)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid38714\" type=\"Box\" label=\"Mixed materials\"\u003e9\u003c/container\u003e\n                        \u003cunitdate normal=\"1950/2003\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref24\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMurray Bookchin: Books Translated into Other Languages (2 of 2)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid38713\" type=\"Box\" label=\"Mixed materials\"\u003e10\u003c/container\u003e\n                        \u003cunitdate normal=\"1950/2003\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref25\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMurray Bookchin: Books Not Previously Owned by Tamiment; Periodicals and Anthologies to which MB Contributed\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid38712\" type=\"Box\" label=\"Mixed materials\"\u003e11\u003c/container\u003e\n                        \u003cunitdate normal=\"1950/2003\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref26\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMurray Bookchin: Books Not Previously Owned by Tamiment; Periodicals and Anthologies to which MB Contributed.\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid38711\" type=\"Box\" label=\"Mixed materials\"\u003e12\u003c/container\u003e\n                        \u003cunitdate normal=\"1950/2003\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref27\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence, Incoming (1994-2003); Reviews of Bookchin’s Books; Articles about Bookchin; “Deep Ecology” fight materials\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid38710\" type=\"Box\" label=\"Mixed materials\"\u003e13\u003c/container\u003e\n                        \u003cunitdate normal=\"1994/2003\" type=\"inclusive\"\u003e1994-2003 , undated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref28\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePolitics of Cosmology (unpublished Bookchin ms.); Bookchin’s Early Notebooks; Course Outlines\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid38709\" type=\"Box\" label=\"Mixed materials\"\u003e14\u003c/container\u003e\n                        \u003cunitdate normal=\"1950/2003\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref29\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eArticles about Bookchin, remainder, 1993-2003 (see also Box 13); Several More Book Manuscripts.\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid38708\" type=\"Box\" label=\"Mixed materials\"\u003e15\u003c/container\u003e\n                        \u003cunitdate normal=\"1993/2003\" type=\"inclusive\"\u003e1993-2003 , undated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref30\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eUnpublished Manuscripts; Handwritten Manuscripts\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid38707\" type=\"Box\" label=\"Mixed materials\"\u003e16\u003c/container\u003e\n                        \u003cunitdate normal=\"1950/2003\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref31\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid38706\" type=\"Box\" label=\"Mixed materials\"\u003e17\u003c/container\u003e\n                        \u003cunitdate normal=\"1980/1999\" type=\"inclusive\"\u003e1980s-1990s\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n            \u003c/c01\u003e\n        "
+        }
+    }
+}

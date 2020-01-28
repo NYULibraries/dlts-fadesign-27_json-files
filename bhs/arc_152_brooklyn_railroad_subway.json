@@ -1,0 +1,157 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "arc_152_brooklyn_railroad_subway"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Brooklyn commuter railroad and subway collection \u003cnum\u003eARC.152\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Matthew Gorham"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "Brooklyn Historical Society",
+                        "128 Pierrepont Street",
+                        "Brooklyn 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-11-07T19:35:53\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Brooklyn railroad and subway collection"
+                },
+                "unitdate": {
+                    "normal": "1853/1958",
+                    "type": "inclusive",
+                    "value": "1853-1958"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.4 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one manuscript box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Brooklyn Commuter Railroad and Subway collection measures 0.4 linear feet and spans the years 1853 to 1958. It is assembled of documents produced by many of the companies and organizations responsible for the development of Brooklyn and New York City's transportation infrastructure from the late-19th century to the mid-20th century. "
+                },
+                "unitid": {
+                    "value": "ARC.152"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_01798bef71e529466d8a86e21b32b32a",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "ARC.152 1 of 1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_9846a8e992493d87e64c908945482105",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_1582dd53e1eb87a517b95a180ed1ed55",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Brooklyn Commuter Railroad and Subway collection, ARC.152, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_2738e6a6f0db0e08357b9a10daeee4eb",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "The source and date of acquisition for this collection are unknown."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_60241a22784b0cdd4d766a73ac1e13dc",
+            "head": "Historical note",
+            "p": {
+                "value": "In 1940, the IRT and BMT were acquired by the city and all three lines were consolidated with the IND into the New York City Board of Transportation. In 1953, the New York City Transit Authority (NYCTA) was established as a public benefit corporation to operate the subway system, and in 1968 the NYCTA was placed under the control of the Metropolitan Transit Authority, which continues to oversee and operate New York City's subway system as of 2010."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_f823c3c4eea5104c5216b0ae5b915aba",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Brooklyn Commuter Railroad and Subway collection measures 0.4 linear feet and spans the years 1853 to 1958. It is assembled of documents produced by many of the companies and organizations responsible for the development of Brooklyn and New York City's transportation infrastructure from the late-19th century to the mid-20th century. The bulk of the collection consists of bound volumes of \u003cemph render=\"italic\"\u003eBMT Monthly\u003c/emph\u003e, a newsletter for employees of the BMT. These volumes span the dates 1917 to 1933. Also included in the collection are annual reports of the Brooklyn-Manhattan Transit Corproation (BMT), the Long Island Railroad (LIRR), the Brooklyn Rapid Transit Company (BRT), the Board of Commissioners of Electrical Subways of the City of New York, and the Interborough Rapid Transit Company (IRT); employee handbooks published by the Board of Transportation of the City of New York; the by-laws and charter of the Brooklyn, East New York and Rockaway Railroad Company; the by-laws of the Grand St., Prospect Park and Flatbush Railroad Company; and the by-laws and charter of the Brooklyn Central and Jamaica Railroad Company. The collection also includes two Brooklyn elevated railroad company bonds."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Railroad companies |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Local transit |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Railroad companies |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Subways |z New York (State) |z New York"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "New York (State). Metropolitan Transportation Authority"
+            }
+        },
+        "dsc": {}
+    }
+}

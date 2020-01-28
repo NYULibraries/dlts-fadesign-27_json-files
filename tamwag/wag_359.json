@@ -1,0 +1,151 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "wag_359"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Sophie and Bernard Reitzes Papers \u003cnum\u003eWAG.359\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Samantha Rowe"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-01-29T20:14:11\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "local",
+                        "value": "Reitzes, Sophie"
+                    }
+                },
+                "unittitle": {
+                    "value": "Sophie and Bernard Reitzes Papers"
+                },
+                "unitdate": {
+                    "normal": "1920/1977",
+                    "type": "inclusive",
+                    "value": "1920-1977"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 3 manuscript boxes."
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Bernard and Sophie Reitzes were active members of the Socialist Labor Party of America from the 1920s to 1970s. The Sophie and Bernard Reitzes Papers contain an assortment of printed materials, correspondence, photographs, and meeting minutes, all pertaining to the Socialist Labor Party of America. The collection also reflects the activities of other members of the Socialist Labor Party."
+                },
+                "unitid": {
+                    "value": "WAG.359"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_fc47387cb35a9abb7dd6465ef5b223a4",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_9a4281f9635270418aef12ef0871164f",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Sophie and Bernard Reitzes Papers; WAG 359; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_7bf088b84d01e968d87d78daf2e59098",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Adele Pam on behalf of Sophie Reitzes in October 2018. The accession number associated with this gift is 2018.139."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_5234126925cd2ec82b8aefd684520b18",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Bernard and Sophie Reitzes were active members of the Socialist Labor Party of America from the 1920s-1970s."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_7b929041691b9c565e7d3949d2489b55",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Sophie and Bernard Reitzes Papers consist of printed ephemera, correspondence, photographs, and meeting minutes related to the Socialist Labor Party of America. In addition to documenting the Reitzes' involvement, the collection also reflects activities of other members of the Socialist Labor Party."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Socialism -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialist parties -- United States."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Socialist Labor Party"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_5268b420636daddd6cd5d5aa2bff374c\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCommittee Meeting Minutes, Correspondence, Photographs, Printed Material\u003c/unittitle\u003e\u003cunitdate normal=\"1920/1977\" type=\"inclusive\"\u003e1920-1977\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_f2693edf1270dab17c00083a2a60dc90\" label=\"Mixed Materials [31142063336302]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f2693edf1270dab17c00083a2a60dc90\" type=\"Folder\"\u003e1-7\u003c/container\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_885f85114acdfad87e094ee01ce228d0\" label=\"Mixed Materials [31142063336310]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_885f85114acdfad87e094ee01ce228d0\" type=\"Folder\"\u003e1-7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_effad8d44639408704168ddf1b349419\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCommittee Meeting Minutes\u003c/unittitle\u003e\u003cunitdate normal=\"1928/1972\" type=\"inclusive\"\u003e1928-1972\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_012caff12ba53e5a4f1243241ac0b0c7\" label=\"Mixed Materials [31142063336328]\" type=\"Box\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

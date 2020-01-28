@@ -1,0 +1,124 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "reginald_marsh"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to \n                    \u003cemph render=\"italic\"\u003eReginald Marsh: Thirty Etchings and Engravings\u003c/emph\u003e\n                    \u003clb/\u003e 1930–1943 (1969)\n                    \u003clb/\u003e\n                    \u003cnum\u003ePR 341\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Joseph Ditta, September 2017"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "© 2011 New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                },
+                "date": "September 2017"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2017-09-05T14:06-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "© 2011 New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Marsh, Reginald, 1898-1954."
+                    }
+                },
+                "unittitle": {
+                    "value": "\n                \u003cemph render=\"italic\"\u003eReginald Marsh: Thirty Etchings and Engravings\u003c/emph\u003e"
+                },
+                "unitdate": {
+                    "value": "1930–1943 (1969)"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.5 Linear feet"
+                        },
+                        {
+                            "value": "(1 box of 30 prints in a portfolio)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Thirty proof prints of etchings and engravings by Reginald Marsh, made from the artist’s original copper plates for distribution by the Whitney Museum of American Art, 1969."
+                },
+                "unitid": {
+                    "value": "PR 341"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Photocopying undertaken by staff only. Limited to twenty exposures of stable, unbound material per day. (Researchers may not accrue unused copy amounts from previous days.)"
+            }
+        },
+        "prefercite": {
+            "id": "ref3",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "This collection should be cited as \n                \u003cemph render=\"italic\"\u003eReginald Marsh: Thirty Etchings and Engravings\u003c/emph\u003e, PR 341, Department of Prints, Photographs, and Architectural Collections, The New-York Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref4",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Acquired from the Art Dealers Association of America, 2008."
+            }
+        },
+        "scopecontent": {
+            "id": "ref38",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Information on Reginald Marsh’s printmaking, etching, and copper engravings, may be had from the introductory material housed with the collection. It includes a list of print titles in the portfolio, thumbnail images, dates, dimensions, and “S.” numbers, indicating their placement in Norman Sasowsky’s catalog \n                \u003cemph render=\"italic\"\u003eReginald Marsh: Etchings, Engravings, Lithographs\u003c/emph\u003e (Praeger, 1956)."
+            }
+        },
+        "controlaccess": {},
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref6\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eLoco—Going through Jersey City\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3151001\" type=\"Item\" label=\"Graphic materials\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1930\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref43\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003e\"loco\" = locomotive\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref7\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e2nd Ave. El\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3151002\" type=\"Item\" label=\"Graphic materials\"\u003e2\u003c/container\u003e\n                    \u003cunitdate\u003e1930\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref8\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eMerry-Go-Round\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3151003\" type=\"Item\" label=\"Graphic materials\"\u003e3\u003c/container\u003e\n                    \u003cunitdate\u003e1930\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref9\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eIrving Place Burlesk [sic]\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3151004\" type=\"Item\" label=\"Graphic materials\"\u003e4\u003c/container\u003e\n                    \u003cunitdate\u003e1930\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref10\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eGaiety Burlesk [sic]\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3151005\" type=\"Item\" label=\"Graphic materials\"\u003e5\u003c/container\u003e\n                    \u003cunitdate\u003e1930\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref11\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eThe Barker\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3151006\" type=\"Item\" label=\"Graphic materials\"\u003e6\u003c/container\u003e\n                    \u003cunitdate\u003e1931\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref12\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eWall Street\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3151007\" type=\"Item\" label=\"Graphic materials\"\u003e7\u003c/container\u003e\n                    \u003cunitdate\u003e1931\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref13\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eTenth Ave. at 27th Street\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3151008\" type=\"Item\" label=\"Graphic materials\"\u003e8\u003c/container\u003e\n                    \u003cunitdate\u003e1931\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref14\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSteeplechase\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3151009\" type=\"Item\" label=\"Graphic materials\"\u003e9\u003c/container\u003e\n                    \u003cunitdate\u003e1932\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref15\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eBread Line—No One Has Starved\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3151010\" type=\"Item\" label=\"Graphic materials\"\u003e10\u003c/container\u003e\n                    \u003cunitdate\u003e1932\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref16\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eTattoo-Shave-Haircut\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3151011\" type=\"Item\" label=\"Graphic materials\"\u003e11\u003c/container\u003e\n                    \u003cunitdate\u003e1932\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref17\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eStar Burlesk [sic]\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3151012\" type=\"Item\" label=\"Graphic materials\"\u003e12\u003c/container\u003e\n                    \u003cunitdate\u003e1933\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref18\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eBox at the Metropolitan\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3151013\" type=\"Item\" label=\"Graphic materials\"\u003e13\u003c/container\u003e\n                    \u003cunitdate\u003e1934\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref19\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eErie R.R. Locos Watering\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3151014\" type=\"Item\" label=\"Graphic materials\"\u003e14\u003c/container\u003e\n                    \u003cunitdate\u003e1934\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref44\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003e\"locos\" = locomotives\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref20\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSteeplechase Swings\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3151015\" type=\"Item\" label=\"Graphic materials\"\u003e15\u003c/container\u003e\n                    \u003cunitdate\u003e1935\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref21\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eFlying Concellos\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3151016\" type=\"Item\" label=\"Graphic materials\"\u003e16\u003c/container\u003e\n                    \u003cunitdate\u003e1936\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref22\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eMorning in May\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3151017\" type=\"Item\" label=\"Graphic materials\"\u003e17\u003c/container\u003e\n                    \u003cunitdate\u003e1936\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref23\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eMinsky’s New Gotham Chorus\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3151018\" type=\"Item\" label=\"Graphic materials\"\u003e18\u003c/container\u003e\n                    \u003cunitdate\u003e1936\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref24\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eWooden Horses\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3151019\" type=\"Item\" label=\"Graphic materials\"\u003e19\u003c/container\u003e\n                    \u003cunitdate\u003e1936\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref25\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eBattery (Belles)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3151020\" type=\"Item\" label=\"Graphic materials\"\u003e20\u003c/container\u003e\n                    \u003cunitdate\u003e1938\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref26\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eMerry-Go-Round\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3151021\" type=\"Item\" label=\"Graphic materials\"\u003e21\u003c/container\u003e\n                    \u003cunitdate\u003e1938\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref27\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003ePickaback\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3151022\" type=\"Item\" label=\"Graphic materials\"\u003e22\u003c/container\u003e\n                    \u003cunitdate\u003e1938–9\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref28\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eModern 1939 Venus\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3151023\" type=\"Item\" label=\"Graphic materials\"\u003e23\u003c/container\u003e\n                    \u003cunitdate\u003e1939\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref29\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eGrand Tier at the Met\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3151024\" type=\"Item\" label=\"Graphic materials\"\u003e24\u003c/container\u003e\n                    \u003cunitdate\u003e1939\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref30\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eConey Island Beach No. 1\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3151025\" type=\"Item\" label=\"Graphic materials\"\u003e25\u003c/container\u003e\n                    \u003cunitdate\u003e1939\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref31\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eGirl in Fur Jacket Reading Tabloid\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3151026\" type=\"Item\" label=\"Graphic materials\"\u003e26\u003c/container\u003e\n                    \u003cunitdate\u003e1940\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref32\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eMerry-Go-Round\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3151027\" type=\"Item\" label=\"Graphic materials\"\u003e27\u003c/container\u003e\n                    \u003cunitdate\u003e1940\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref33\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eEltinge Follies\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3151028\" type=\"Item\" label=\"Graphic materials\"\u003e28\u003c/container\u003e\n                    \u003cunitdate\u003e1940\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref34\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eBathers-in-the-Hudson\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3151029\" type=\"Item\" label=\"Graphic materials\"\u003e29\u003c/container\u003e\n                    \u003cunitdate\u003e1941\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref35\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eTwo Girls Walking to Right\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3151030\" type=\"Item\" label=\"Graphic materials\"\u003e30\u003c/container\u003e\n                    \u003cunitdate\u003e1943\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

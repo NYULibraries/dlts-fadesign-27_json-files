@@ -1,0 +1,148 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arc_284_conkling_family"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Conkling family papers\n                    \u003cnum\u003eARC.284\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Larry Weimer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "February 2012"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-05-01T16:45-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Conkling, Jacob"
+                    }
+                },
+                "unittitle": {
+                    "value": "Conkling family papers"
+                },
+                "unitdate": {
+                    "normal": "1772/1808",
+                    "type": "inclusive",
+                    "value": "circa 1782 to 1798"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.25 Linear feet"
+                        },
+                        {
+                            "value": "in seven folders in one manuscript box"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The collection includes documents principally related to members of the Conkling family of Southold, Suffolk County, Long Island (N.Y.). Among these are three day books of merchant David Conkling (1784-1785); a ledger of an unknown person for transactions in farm labor and goods (1791-1798); a journal of Jacob Conkling for a journey through northern New Jersey and into the forests beyond the Delaware Water Gap; correspondence to David from Jacob and from David to Capt. David Landon (both Jacob and Landon at Guilford, Connecticut) concerning health, business matters, and damages incurred during the British occupation of Long Island during the American Revolution (circa 1782-1784); and a Brooklyn to New York ferry pass (1782)."
+                },
+                "unitid": {
+                    "value": "ARC.284"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1154001",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "1 (A0044)"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref6",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref9",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Conkling family papers, ARC.284, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref7",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Accession 1974.073 (the account books) was donated to the Long Island Historical Society (now Brooklyn Historical Society) by the sons of Rev. Jonathan Huntting of Southold, L.I. The source of the other material is unknown."
+            }
+        },
+        "bioghist": {
+            "id": "ref3",
+            "head": "Biographical/Historical note",
+            "p": {
+                "value": "Members of the extended Conkling family could be found on Long Island dating from the 1600s. Little seems to be known about brothers David and Jacob Conkling, the principals in this collection. It seems clear that David was a merchant at Southold, Suffolk County (N.Y.), Long Island. Siding with the rebels during the American Revolution, Conkling spent time in prison during the war. He died in 1787. Judging from the correspondence in the collection written from Guilford, Connecticut, Jacob was a \"refugee\" from the British occupation of Long Island."
+            }
+        },
+        "scopecontent": {
+            "id": "ref12",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection also includes letters from Jacob Conkling writing from Guilford, Connecticut, to his brother, David, mainly concerning family health (circa 1782) and a letter from David Conkling to Captain David Landon at Guilford concerning business matters and news of the war's damages (circa 1782). An undated journal describes Jacob's travels through northern New Jersey and into the forests of either Pennsylvania or New York beyond the Delaware Water Gap. There is a pass to take the Brooklyn ferry to and from New York, issued by the Office of Police of Jamaica in 1782 to one David Concklin."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Merchants |z New York (State) |z Suffolk County"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

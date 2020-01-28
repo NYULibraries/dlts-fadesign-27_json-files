@@ -1,0 +1,172 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1987_012_george_john_wainio"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the George John Wainio papers\n                    \u003cnum\u003e1987.012\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Stephanie Coy"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "March 10, 2015"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2015-05-27T17:00-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Wainio, George John, 1905-1986"
+                    }
+                },
+                "unittitle": {
+                    "value": "George John Wainio papers"
+                },
+                "unitdate": {
+                    "normal": "1914/1919",
+                    "type": "inclusive",
+                    "value": "1914-1919"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.01 linear feet"
+                        },
+                        {
+                            "value": "in one folder"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "This collection contains eleven report cards issued by the Department of Education, City of New York, Borough of Brooklyn to George John Wainio during his time at PS 131 and PS 179 (1914-1919)."
+                },
+                "unitid": {
+                    "value": "1987.012"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1316001",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0044"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref7",
+            "head": "Preferred Citation note",
+            "p": {
+                "value": "Identification of item, date (if known); George John Wainio papers, 1987.012, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref6",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Mrs. Ruth Ann Wayne, 1987."
+            }
+        },
+        "bioghist": {
+            "id": "ref4",
+            "head": "Biographical note",
+            "p": {
+                "value": "Source: donor correspondence, 1987"
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "This collection contains eleven report cards issued by the Department of Education, City of New York, Borough of Brooklyn to George John Wainio during his time at PS 131 and PS 179 (1914-1919). The cards represent Wainio's time in Grade 3A at PS 131 and Grades 3B through 8A at PS 179. They were signed by his mother or his father each month on the back of the card. The report cards indicate the courses and grades of a Finnish immigrant during a significant portion of their educational career. There is no further information provided about Wainio's life outside of his early educational experiences."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Education |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Finnish Americans"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Finns |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Immigrants |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Public schools |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Students |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "P.S. 179 (Brooklyn, New York, N.Y.)."
+            }
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "graphics_003"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Charters and Certificates of Affiliation Collection \u003cnum\u003eGRAPHICS.003\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Adrien Hilton"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-09-11T19:24:48\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Charters and Certificates of Affiliation Collection"
+                },
+                "unitdate": {
+                    "normal": "1888/1986",
+                    "type": "inclusive",
+                    "value": "1888-1986"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "3 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 2 oversize boxes and 1 flat-file folder"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Charters and Certificates of Affiliation Collection is an artificial collection, collected and assembled by the Tamiment Library over the course of several decades. It consists of charters and certificates from a number of trade unions and organizations, several of which have manuscript collections at the Tamiment Library. The material in the collection ranges in date from 1888 through 1986, with the bulk of material falling between the 1920s and the 1960s. "
+                },
+                "unitid": {
+                    "value": "GRAPHICS.003"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_58d9469002c22b283c2551cbfb1499f1",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_96b6c7358024b2a88a58063bdce3d08c",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: \u003clb/\u003e\u003clb/\u003eIdentification of item, date; Charters and Certificates of Affiliation Collection; GRAPHICS 003; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_c4dc3015614788b1e887bdede76f3007",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials found in repository; provenance is unknown. Materials were likely separated from manuscript collections at the Tamiment Library. The following accession numbers are associated with this collection: 1950.255, NPA.1995.010, NPA.2000.033, NPA.2003.076, NPA.2005.248, NPA.2006.065, NPA.2006.069, NPA.2006.071, NPA.2008.003 and NPA.2009.003."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_c0420b2660892d1236fd66061320ff7a",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "The Tamiment Library, New York University, a special collection documenting the history of United States radicalism, labor, and progressive social action, accumulated this artificial collection of charters and certificates gradually over the years."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_19971cf872691d5e6f2451cc1f407e55",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The Charters and Certificates of Affiliation Collection consists of charters and certificates of affiliation from trade unions and organizations, several of which have related manuscript collections at the Tamiment Library. The material in the collection ranges in date from 1888 with a charter from the United Brotherhood of Carpenters and Joiners of America up to 1986 with a charter from the Communications Workers of America: Local 1153."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Trade unions |z United States."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Associated Actors and Artistes of America"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref26\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: Boxed\u003c/unittitle\u003e\u003cunitdate normal=\"1888/1986\" type=\"inclusive\"\u003e1888-1986\u003c/unitdate\u003e\u003c/did\u003e\u003cc id=\"aspace_ade509c2c614431ef302e6cc3e40fe15\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAbraham and Strauss Department Store Employees' Union\u003c/unittitle\u003e\u003cunitdate normal=\"1957/1957\"\u003e1957\u003c/unitdate\u003e\u003ccontainer altrender=\"Flat OS Box - 17 - lengthwise\" id=\"aspace_39cc300e5840d9669c951bc19c2231dd\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_39cc300e5840d9669c951bc19c2231dd\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eAmalgamated Meat Cutters and Butcher Workmen of North America: Certificate of Affiliation\u003c/unittitle\u003e\u003cunitdate normal=\"1939/1939\" type=\"inclusive\"\u003e1939\u003c/unitdate\u003e\u003ccontainer altrender=\"Flat OS Box - 17 - lengthwise\" id=\"aspace_9c67747c95f5faca14d001cfe833c762\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_9c67747c95f5faca14d001cfe833c762\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref1\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eAmerican Federation of State, County and Municipal Employees: Charter\u003c/unittitle\u003e\u003cunitdate normal=\"1953/1953\" type=\"inclusive\"\u003e1953\u003c/unitdate\u003e\u003ccontainer altrender=\"OS Flat Box 21 - lengthwise\" id=\"aspace_bc35c3f135054bd248fbb15c784afc9a\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_bc35c3f135054bd248fbb15c784afc9a\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eAmerican Guild of Variety Artists: Charter (copy)\u003c/unittitle\u003e\u003cunitdate normal=\"1939/1939\" type=\"inclusive\"\u003e1939\u003c/unitdate\u003e\u003ccontainer altrender=\"OS Flat Box 21 - lengthwise\" id=\"aspace_4e4824bd9e8a4fe2a80fea018f9c8711\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_4e4824bd9e8a4fe2a80fea018f9c8711\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eAsociacion Puertorriqueno de Artistas y Technicos del Espectaculo: Charter (copy)\u003c/unittitle\u003e\u003cunitdate normal=\"1974/1974\" type=\"inclusive\"\u003e1974\u003c/unitdate\u003e\u003ccontainer altrender=\"OS Flat Box 21 - lengthwise\" id=\"aspace_e2a2f7d685f0e65b38559823e40fbbfb\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_e2a2f7d685f0e65b38559823e40fbbfb\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref2\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eBrotherhood of Painters, Decorators and Paperhangers of America: Charter\u003c/unittitle\u003e\u003cunitdate normal=\"1938/1938\" type=\"inclusive\"\u003e1938\u003c/unitdate\u003e\u003ccontainer altrender=\"OS Flat Box 21 - lengthwise\" id=\"aspace_5c664363891ad6ee7d7ceb164421b668\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_5c664363891ad6ee7d7ceb164421b668\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref9\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eCommunications Workers of America: Local 1153: Local Charter\u003c/unittitle\u003e\u003cunitdate\u003e1975\u003c/unitdate\u003e\u003ccontainer altrender=\"Flat OS Box - 17 - lengthwise\" id=\"aspace_faf72b6f4fdb84d5268a78fa9aedff59\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_faf72b6f4fdb84d5268a78fa9aedff59\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref10\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eCommunications Workers of America: Local 1153: Local Charter\u003c/unittitle\u003e\u003cunitdate normal=\"1986/1986\" type=\"inclusive\"\u003e1986\u003c/unitdate\u003e\u003ccontainer altrender=\"Flat OS Box - 17 - lengthwise\" id=\"aspace_eb66216893b494b411e3490a660feb99\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_eb66216893b494b411e3490a660feb99\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eGerman White Rats Actors Union: Charter\u003c/unittitle\u003e\u003cunitdate normal=\"1919/1919\" type=\"inclusive\"\u003e1919\u003c/unitdate\u003e\u003ccontainer altrender=\"OS Flat Box 21 - lengthwise\" id=\"aspace_c195a3bcbd9686839ff44854d1573972\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_c195a3bcbd9686839ff44854d1573972\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eHebrew Actors' Union: Charter (copy)\u003c/unittitle\u003e\u003cunitdate normal=\"1924/1924\" type=\"inclusive\"\u003e1924\u003c/unitdate\u003e\u003ccontainer altrender=\"OS Flat Box 21 - lengthwise\" id=\"aspace_21c66ecd9407f22686913c61ad6afca1\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_21c66ecd9407f22686913c61ad6afca1\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eNational Association of Broadcast Employees and Technicians: Certificate of Affiliation (copy)\u003c/unittitle\u003e\u003cunitdate normal=\"1951/1951\" type=\"inclusive\"\u003e1951\u003c/unitdate\u003e\u003ccontainer altrender=\"Flat OS Box - 17 - lengthwise\" id=\"aspace_2ee55dd5bf9da6287f99f3214e3fe48c\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2ee55dd5bf9da6287f99f3214e3fe48c\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref3\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eNational Association of Broadcast Employees and Technicians: Charter\u003c/unittitle\u003e\u003cunitdate normal=\"1965/1965\" type=\"inclusive\"\u003e1965\u003c/unitdate\u003e\u003ccontainer altrender=\"Flat OS Box - 17 - lengthwise\" id=\"aspace_c1abf35acb4d3c15ceb4357bd4a96360\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_c1abf35acb4d3c15ceb4357bd4a96360\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eNational Association of Broadcast Employees and Technicians: Local 15: Charter\u003c/unittitle\u003e\u003cunitdate normal=\"1968/1968\" type=\"inclusive\"\u003e1968\u003c/unitdate\u003e\u003ccontainer altrender=\"Flat OS Box - 17 - lengthwise\" id=\"aspace_50ca62b291d5cd00019077b04f956ccb\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_50ca62b291d5cd00019077b04f956ccb\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_cd4ffeccc38ed630a3ef09737e2360b6\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNational Council, Distributive Workers of America, Alliance for Labor Action\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Flat OS Box - 17 - lengthwise\" id=\"aspace_faadc6c02d71c659e84138bdf3040be4\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_faadc6c02d71c659e84138bdf3040be4\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_c83c54378b40d56f5fa668391cbf7ea8\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNegro American Labor Council\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Flat OS Box - 17 - lengthwise\" id=\"aspace_0e0a7ad68e10fd31bb344e0f5410d881\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0e0a7ad68e10fd31bb344e0f5410d881\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref41\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNew York City Central Labor Council: Certificate of Affiliation\u003c/unittitle\u003e\u003cunitdate normal=\"1959/1959\" type=\"inclusive\"\u003ecirca 1959\u003c/unitdate\u003e\u003ccontainer altrender=\"OS Flat Box 21 - lengthwise\" id=\"aspace_9c97385a1e116de34badb6217aec23e6\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_9c97385a1e116de34badb6217aec23e6\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eNew York State Industrial Union Council: Certificate of Affiliation \u003c/unittitle\u003e\u003cunitdate normal=\"1938/1938\" type=\"inclusive\"\u003e1938\u003c/unitdate\u003e\u003ccontainer altrender=\"Flat OS Box - 17 - lengthwise\" id=\"aspace_03910a093fc2c4bbe4a12a21d6013f49\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_03910a093fc2c4bbe4a12a21d6013f49\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref13\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eNew York State Industrial Union Council: Charter\u003c/unittitle\u003e\u003cunitdate normal=\"1938/1938\" type=\"inclusive\"\u003e1938\u003c/unitdate\u003e\u003ccontainer altrender=\"Flat OS Box - 17 - lengthwise\" id=\"aspace_0678efd7c91b791dbf89812946aa457e\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0678efd7c91b791dbf89812946aa457e\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eRetail Grocery Clerks of Essex, Hudson, Union, Bergen, and Passaic Counties of New Jersey: Local 1245: Charter\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1937\" type=\"inclusive\"\u003e1937\u003c/unitdate\u003e\u003ccontainer altrender=\"OS Flat Box 21 - lengthwise\" id=\"aspace_6ff206b8924468e07eeb7dfe908b4b15\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_6ff206b8924468e07eeb7dfe908b4b15\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eScreen Actors Guild: Charter (copy)\u003c/unittitle\u003e\u003cunitdate normal=\"1935/1935\" type=\"inclusive\"\u003e1935\u003c/unitdate\u003e\u003ccontainer altrender=\"OS Flat Box 21 - lengthwise\" id=\"aspace_6b51694a37ba93a9c3c92ad6e03a47d8\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_6b51694a37ba93a9c3c92ad6e03a47d8\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref4\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eState, County and Municipal Workers of America: Charter\u003c/unittitle\u003e\u003cunitdate normal=\"1944/1944\" type=\"inclusive\"\u003e1944\u003c/unitdate\u003e\u003ccontainer altrender=\"Flat OS Box - 17 - lengthwise\" id=\"aspace_f999d36e91e30988dfc5b7a67146a9c3\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f999d36e91e30988dfc5b7a67146a9c3\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eTelegraph Workers Federal Labor Union No. 22679: Charter\u003c/unittitle\u003e\u003cunitdate normal=\"1941/1941\" type=\"inclusive\"\u003e1941\u003c/unitdate\u003e\u003ccontainer altrender=\"OS Flat Box 21 - lengthwise\" id=\"aspace_ebc924d94032e5d27ec439aa2e88995f\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_ebc924d94032e5d27ec439aa2e88995f\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref5\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eUnited Brotherhood of Carpenters and Joiners of America: Charter\u003c/unittitle\u003e\u003cunitdate normal=\"1888/1888\" type=\"inclusive\"\u003e1888\u003c/unitdate\u003e\u003ccontainer altrender=\"OS Flat Box 21 - lengthwise\" id=\"aspace_9e70e4210f77bd0f5c1b7728eb67f6d3\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_9e70e4210f77bd0f5c1b7728eb67f6d3\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref12\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eUnited Hebrew Trades of the State of New York: Charter (2 items)\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"OS Flat Box 21 - lengthwise\" id=\"aspace_2e151abc727f2d2b30223c6c759d8267\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_2e151abc727f2d2b30223c6c759d8267\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref31\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eYoung People's Socialist League: Charter\u003c/unittitle\u003e\u003cunitdate normal=\"1935/1935\" type=\"inclusive\"\u003e1935\u003c/unitdate\u003e\u003ccontainer altrender=\"Flat OS Box - 17 - lengthwise\" id=\"aspace_9a98f8caae4ea86bdf53502fa6c268f8\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_9a98f8caae4ea86bdf53502fa6c268f8\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eYoung People's Socialist League: Charter\u003c/unittitle\u003e\u003cunitdate normal=\"1945/1945\" type=\"inclusive\"\u003e1945\u003c/unitdate\u003e\u003ccontainer altrender=\"Flat OS Box - 17 - lengthwise\" id=\"aspace_61673a006880450a76d752f6775d4d85\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_61673a006880450a76d752f6775d4d85\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_cfa9d5077e62156306b4d1c1d13b427e\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eThomas E. Dewey certificate re Senate Bill Intro. No. 578\u003c/unittitle\u003e\u003cunitdate normal=\"1944/1944\"\u003e1944\u003c/unitdate\u003e\u003ccontainer altrender=\"Flat OS Box - 17 - lengthwise\" id=\"aspace_20592a7d936997b0f873a91f7f8bd02b\" label=\"Mixed Materials [31142062882371]\" type=\"Box\"\u003eShared Tamiment 017\u003c/container\u003e\u003ccontainer parent=\"aspace_20592a7d936997b0f873a91f7f8bd02b\" type=\"Folder\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries II: Flat-Files\u003c/unittitle\u003e\u003cunitdate normal=\"1921/1929\" type=\"inclusive\"\u003e1921-1929\u003c/unitdate\u003e\u003c/did\u003e\u003cc id=\"aspace_ref8\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eAssociated Actors and Artistes of America: Charter (blank)\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b791d9c619a582d2a72f1f58aab8e0a5\" label=\"Mixed Materials\" type=\"Flat-file\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b791d9c619a582d2a72f1f58aab8e0a5\" type=\"Drawer\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref11\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eCommercial Telegraphers Union of North America: Certificate of Affiliation\u003c/unittitle\u003e\u003cunitdate normal=\"1929/1929\" type=\"inclusive\"\u003e1929\u003c/unitdate\u003e\u003ccontainer id=\"aspace_dd7f59f81685b805ad5844bb0405fe32\" label=\"Mixed Materials\" type=\"Flat-file\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_dd7f59f81685b805ad5844bb0405fe32\" type=\"Drawer\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref6\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eGerman Actors Association: Charter\u003c/unittitle\u003e\u003cunitdate normal=\"1929/1929\" type=\"inclusive\"\u003e1929\u003c/unitdate\u003e\u003ccontainer id=\"aspace_435ef476f4ea4cae38e2617d865ad35d\" label=\"Mixed Materials\" type=\"Flat-file\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_435ef476f4ea4cae38e2617d865ad35d\" type=\"Drawer\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref7\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eGerman White Rats Actors Union: (?) Branch: Charter\u003c/unittitle\u003e\u003cunitdate normal=\"1921/1921\" type=\"inclusive\"\u003e1921\u003c/unitdate\u003e\u003ccontainer id=\"aspace_3a3084412cdcfdb23a2f83e891bf7e5d\" label=\"Mixed Materials\" type=\"Flat-file\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_3a3084412cdcfdb23a2f83e891bf7e5d\" type=\"Drawer\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref40\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNew York City Central Labor Council: Charter\u003c/unittitle\u003e\u003cunitdate normal=\"1959/1959\" type=\"inclusive\"\u003e1959\u003c/unitdate\u003e\u003ccontainer id=\"aspace_38c52314d5f55c4052ea30e7e06e0439\" label=\"Mixed Materials\" type=\"Flat-file\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_38c52314d5f55c4052ea30e7e06e0439\" type=\"Drawer\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

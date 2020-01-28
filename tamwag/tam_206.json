@@ -1,0 +1,143 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_206"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Camp Wo-Chi-Ca Records \u003cnum\u003eTAM 206\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-01T19:13:36\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Camp Wo-Chi-Ca Records"
+                },
+                "unitdate": {
+                    "normal": "1937/1976",
+                    "type": "inclusive",
+                    "value": "1937-1947; 1976"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "TAM 206"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_cd68c02b3e374f5ae3f68d999307180b",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_493d12f3cace53f07030656e66edcb71",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Camp Wo-Chi-Ca Records; TAM 206; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_01d6d7f7100fd09425d8d0a8045ea077",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials were found in repository; provenance is unknown. The accession number associated with this collection is 1950.160."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_8b152dde9876013da4eb40349f4d8f11",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Camp Wo-Chi-Ca, also known as Workers Childrens Camp, was a summer camp for children located in New Jersey.  Established in 1934, and politically associated with the Communist Party, the camp was distinct from other summer camps of the time in that it was co-educational and attracted an extremely diverse population."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_b00f1e5eaba1f90a527d110be7d5f121",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection consists mostly of printed circulars from the 1940's such as the Daily Wo-Chi-Can and the Wo-Ki-Mag, some of which document visits of figures such as Paul Robeson and Woody Guthrie.  Songbooks and Benefit Concert programs are also included."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Camps |z New Jersey |x History."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialism and youth -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Communism and culture -- United States."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Camp Wo-Chi-Ca (N.J.)"
+            }
+        },
+        "dsc": {}
+    }
+}

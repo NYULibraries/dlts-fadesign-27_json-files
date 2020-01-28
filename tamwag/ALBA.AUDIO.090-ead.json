@@ -1,0 +1,127 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "alba_audio_090"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Albert Prago Audio Collection\n                    \u003cnum\u003eALBA.AUDIO.090\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Jenny Pondo"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "2010"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T09:27-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Prago, Albert"
+                    }
+                },
+                "unittitle": {
+                    "value": "Albert Prago Audio Collection"
+                },
+                "unitdate": {
+                    "normal": "1981/1982",
+                    "type": "inclusive",
+                    "value": "1981-1982"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.25 linear feet"
+                        },
+                        {
+                            "value": "16 audiocassettes"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Albert Prago (1911-1993) was a scholar of Latin American history and Marxist economics, a college teacher and a veteran of the Abraham Lincoln Brigade. After being wounded in Spain, he returned to the United States in 1938, and pursued a career in teaching and research. He published several books and articles on labor history, Latin-American history and the Spanish Civil War, earned a Ph.D. in history in 1976, and co-edited the 1987 anthology \n                \u003cemph render=\"italic\"\u003e\n                    \u003cemph render=\"bolditalic\"\u003eOur Fight \u003c/emph\u003e\u003c/emph\u003ewith fellow Lincoln Brigade veteran Alvah Bessie. The collection consists of 16 audiocasettes, featuring talks by several Lincoln Brigade veterans and prominent progressives (including Pete Seeger) created when Prago taught a course on the Spanish Civil War at the New School in New York City in 1981, as well as two cassettes documenting a 1982 radio program featuring Prago, several other veterans and Seeger."
+                },
+                "unitid": {
+                    "value": "ALBA.AUDIO.090"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref21",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "For details E-mail: gail.malmgreen@nyu.edu"
+            }
+        },
+        "bioghist": {
+            "id": "ref19",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Prago retired to West Palm Beach, Florida. He continued to publish historical articles and remained actively involved with the Veterans of the Abraham Lincoln Brigade until his death from cancer in July 1993."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "In the 1981 fall semester, Abraham Lincoln Brigade veteran Al Prago taught a course on the Spanish Civil War at the New School in New York City, featuring other veterans as guest speakers, as well as appearances by folk singer Pete Seeger and civil liberties lawyer Victor Rabinowitz. The course was recorded on 14 audiocassettes, included in this collection. Also included are two audiocassettes of Prago's Nov 30, 1982 radio appearance on WKCR (Columbia University), speaking about the Abraham Lincoln Brigade; ethis program which also featured several other veterans and Pete Seeger."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Americans |z Spain |x History |y 20th century."
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\n            \u003cc01 id=\"ref2\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNew School Class 1: Albert Prago (tape 1 of 2)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid19737010\" type=\"Drawer\" label=\"Audio\"\u003e3\u003c/container\u003e\n                    \u003ccontainer parent=\"cid19737010\" type=\"Cassette\"\u003e90-001\u003c/container\u003e\n                    \u003cunitdate\u003eOct 20, 1981\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref3\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNew School Class 1: Albert Prago (tape 2 of 2)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid19737011\" type=\"Drawer\" label=\"Audio\"\u003e3\u003c/container\u003e\n                    \u003ccontainer parent=\"cid19737011\" type=\"Cassette\"\u003e90-002\u003c/container\u003e\n                    \u003cunitdate\u003eOct 20, 1981\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref4\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNew School Class 2: John Gerassi (tape 1 of 2)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid19737012\" type=\"Drawer\" label=\"Audio\"\u003e3\u003c/container\u003e\n                    \u003ccontainer parent=\"cid19737012\" type=\"Cassette\"\u003e90-003\u003c/container\u003e\n                    \u003cunitdate\u003eOct 27, 1981\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref5\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNew School Class 2: John Gerassi (tape 2 of 2)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid19737013\" type=\"Drawer\" label=\"Audio\"\u003e3\u003c/container\u003e\n                    \u003ccontainer parent=\"cid19737013\" type=\"Cassette\"\u003e90-004\u003c/container\u003e\n                    \u003cunitdate\u003eOct 27, 1981\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref6\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNew School Class 3: Carl Marzani (tape 1 of 2)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid19737014\" type=\"Drawer\" label=\"Audio\"\u003e3\u003c/container\u003e\n                    \u003ccontainer parent=\"cid19737014\" type=\"Cassette\"\u003e90-005\u003c/container\u003e\n                    \u003cunitdate\u003eNov 3, 1981\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref7\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNew School Class 3: Carl Marzani (tape 2 of 2)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid19737015\" type=\"Drawer\" label=\"Audio\"\u003e3\u003c/container\u003e\n                    \u003ccontainer parent=\"cid19737015\" type=\"Cassette\"\u003e90-006\u003c/container\u003e\n                    \u003cunitdate\u003eNov 3, 1981\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref8\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNew School Class 4: Dante Puzzo (tape 1 of 2)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid19737016\" type=\"Drawer\" label=\"Audio\"\u003e3\u003c/container\u003e\n                    \u003ccontainer parent=\"cid19737016\" type=\"Cassette\"\u003e90-007\u003c/container\u003e\n                    \u003cunitdate\u003eNov 10, 1981\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref9\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNew School Class 4: Dante Puzzo (tape 2 of 2)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid19737017\" type=\"Drawer\" label=\"Audio\"\u003e3\u003c/container\u003e\n                    \u003ccontainer parent=\"cid19737017\" type=\"Cassette\"\u003e90-008\u003c/container\u003e\n                    \u003cunitdate\u003eNov 10, 1981\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref10\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNew School Class 5: Victor Rabinowitz (tape 1 of 2)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid19737018\" type=\"Drawer\" label=\"Audio\"\u003e3\u003c/container\u003e\n                    \u003ccontainer parent=\"cid19737018\" type=\"Cassette\"\u003e90-009\u003c/container\u003e\n                    \u003cunitdate\u003eNov 17, 1981\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref11\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNew School Class 5: Victor Rabinowitz (tape 2 of 2)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid19737019\" type=\"Drawer\" label=\"Audio\"\u003e3\u003c/container\u003e\n                    \u003ccontainer parent=\"cid19737019\" type=\"Cassette\"\u003e90-010\u003c/container\u003e\n                    \u003cunitdate\u003eNov 17, 1981\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref12\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNew School Class 6: Maury Colow (tape 1 of 2)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid19737020\" type=\"Drawer\" label=\"Audio\"\u003e3\u003c/container\u003e\n                    \u003ccontainer parent=\"cid19737020\" type=\"Cassette\"\u003e90-011\u003c/container\u003e\n                    \u003cunitdate\u003eNov 24, 1981\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref13\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNew School Class 6: Maury Colow (tape 2 of 2)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid19737021\" type=\"Drawer\" label=\"Audio\"\u003e3\u003c/container\u003e\n                    \u003ccontainer parent=\"cid19737021\" type=\"Cassette\"\u003e90-012\u003c/container\u003e\n                    \u003cunitdate\u003eNov 24, 1981\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref14\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNew School Class 7: Pete Seeger (tape 1 of 2)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid19737022\" type=\"Drawer\" label=\"Audio\"\u003e3\u003c/container\u003e\n                    \u003ccontainer parent=\"cid19737022\" type=\"Cassette\"\u003e90-013\u003c/container\u003e\n                    \u003cunitdate\u003eDec 1, 1981\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref15\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNew School Class 7: Pete Seeger (tape 2 of 2)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid19737023\" type=\"Drawer\" label=\"Audio\"\u003e3\u003c/container\u003e\n                    \u003ccontainer parent=\"cid19737023\" type=\"Cassette\"\u003e90-014\u003c/container\u003e\n                    \u003cunitdate\u003eDec 1, 1981\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref16\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eColumbia University Radio Broadcast (WKCR): Wollis, Susman, Prago, Luftig, Geiser, Seeger, Treschan, McGee (tape 1 of 2)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid19737024\" type=\"Drawer\" label=\"Audio\"\u003e3\u003c/container\u003e\n                    \u003ccontainer parent=\"cid19737024\" type=\"Cassette\"\u003e90-015\u003c/container\u003e\n                    \u003cunitdate\u003eNov 30, 1982\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref17\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eColumbia University Radio Broadcast (WKCR): Wollis, Susman, Prago, Luftig, Geiser, Seeger, Treschan, McGee (tape 2 of 2)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid19737025\" type=\"Drawer\" label=\"Audio\"\u003e3\u003c/container\u003e\n                    \u003ccontainer parent=\"cid19737025\" type=\"Cassette\"\u003e90-016\u003c/container\u003e\n                    \u003cunitdate\u003eNov 30, 1982\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n        "
+        }
+    }
+}

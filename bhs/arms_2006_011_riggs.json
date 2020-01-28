@@ -1,0 +1,159 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_2006_011_riggs"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Charles Church Riggs collection of Brooklyn legal documents\n                    \u003cnum\u003e2006.011\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "October 5, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2015-03-20T13:34-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Riggs, Charles Church"
+                    }
+                },
+                "unittitle": {
+                    "value": "Charles Church Riggs collection of Brooklyn legal documents"
+                },
+                "unitdate": {
+                    "normal": "1704/1932",
+                    "type": "inclusive",
+                    "value": "1704 to 1932"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.2 linear feet"
+                        },
+                        {
+                            "value": "in eight folders"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The collection consists of legal documents relating to property and estates in the Town of Bushwick during the 18th and 19th centuries. The documents were collected by Brooklyn resident Charles Church Riggs."
+                },
+                "unitid": {
+                    "value": "2006.011"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1061001",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0095"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "ref6",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Charles Church Riggs collection of Brooklyn legal documents, 2006.011, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref4",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Ruth Riggs Smith, 2006. The collection had belonged to her father, Charles Church Riggs, whose family originally collected the documents."
+            }
+        },
+        "scopecontent": {
+            "id": "ref18",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection consists of legal documents relating to property and estates in the Town of Bushwick during the 18th and 19th centuries. The bulk of documents relate to the Skillman family. Other families represented in the collection include the Church, Conselyea, Misserol (or Miserol/Miserool/Meserole), and Woortman (or Woertman) familes. The collection includes a document listing awards granted for the widening of North 2nd St., in Williamsburg, Brooklyn. It also includes a 1932 lease to the Riggs family for property in East Orange, NJ."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Acquisition of property |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Decedents' estates |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Families |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Genealogy"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Real property |z New York (State) |z Kings County"
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref7\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eChurch family\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1240001\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid1240001\" type=\"Folder\"\u003e1\u003c/container\u003e\n                    \u003cunitdate normal=\"1859/1892\" type=\"inclusive\"\u003e1859-1892\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref8\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eConselyea family\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1240002\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid1240002\" type=\"Folder\"\u003e2\u003c/container\u003e\n                    \u003cunitdate normal=\"1795/1799\" type=\"inclusive\"\u003e1795-1799\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref9\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSamuel Jones and James Taylor\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1240003\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid1240003\" type=\"Folder\"\u003e3\u003c/container\u003e\n                    \u003cunitdate normal=\"1801/1801\"\u003e1801\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref10\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eMisserol family\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1240004\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid1240004\" type=\"Folder\"\u003e4\u003c/container\u003e\n                    \u003cunitdate normal=\"1742/1783\" type=\"inclusive\"\u003e1742, 1783\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003codd id=\"ref15\"\u003e\n                    \u003chead\u003eGeneral note\u003c/head\u003e\n                    \u003cp\u003eOr Miserol/Miserool\u003c/p\u003e\n                \u003c/odd\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref11\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNorth 2nd St. widening awards\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1240005\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid1240005\" type=\"Folder\"\u003e5\u003c/container\u003e\n                    \u003cunitdate normal=\"1890/1899\" type=\"inclusive\"\u003ecirca 1890s\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref12\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eRiggs family\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1240006\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid1240006\" type=\"Folder\"\u003e6\u003c/container\u003e\n                    \u003cunitdate normal=\"1932/1932\"\u003e1932\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref13\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSkillman family\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1240007\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid1240007\" type=\"Folder\"\u003e7\u003c/container\u003e\n                    \u003cunitdate normal=\"1704/1849\" type=\"inclusive\"\u003e1704-1849\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref14\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eWoortman family\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1240008\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid1240008\" type=\"Folder\"\u003e8\u003c/container\u003e\n                    \u003cunitdate normal=\"1763/1770\" type=\"inclusive\"\u003e1763-1770\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003codd id=\"ref16\"\u003e\n                    \u003chead\u003eGeneral note\u003c/head\u003e\n                    \u003cp\u003eOr Woertman\u003c/p\u003e\n                \u003c/odd\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

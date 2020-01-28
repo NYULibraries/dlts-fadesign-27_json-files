@@ -1,0 +1,152 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_130"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Anders Overgaard Autobiographical Typescript \u003cnum\u003eTAM.130\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-04-17T15:49:40\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Anders Overgaard Autobiographical Typescript"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Anders (Andy) Overgaard (1895-1973) was born in Denmark, and emigrated to the United States around 1915. This collection consists of a draft autobiographical typescript describing the family background, travels and political activities of this Communist Party functionary and labor activist, and concludes with the author's deportation from the U.S. in 1950. In the early 1920s he was active in the left wing of the International Assonciation of Machinists and the Chicago Federation of Labor, along with Communist Party leader William Z. Foster. \n"
+                },
+                "unitid": {
+                    "value": "TAM.130"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_5abd4ea7e410efd57628b156bf2cf82c",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_d384a0cdef7e680161d66a705f4e307a",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Anders Overgaard Autobiographical Typescript; TAM 130; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_96cd880584a88b11a5fbd855100cd5f0",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials were donated by Gil Green (Communist Party, USA leader) in 1986. The accession number associated with this gift is 1950.015."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_cf410dfeb026ddd495b5d41383c3096c",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Anders (Andy) Overgaard (1895-1973) was born in Denmark, and emigrated to the United States around 1915. After traveling extensively as a sailor, he became a skilled machinist, settling in Chicago, where he was active in the left wing of the International Assonciation of Machinists and the Chicago Federation of Labor, along with William Z. Foster. He joined the Communist Party in 1920 and served as an organizer for the Communist-led Trade Union Educational League and Trade Uunion Unity League in Chicago, Detroit, Pittsburgh, Waterbury (CT), Youngstown, Buffalo, and New York City.  He taught at Commonwealth College in Arkansas and worked as an organizer for the Diecasters Union, the Unitd Electrical Workers, and the Food, Tobacco, Agricultural and Allied Workers Union. In 1950 he was deported to his native Denmark for his political affiliation."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_17143dbea937e051f5d30520a3c22c15",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection consists of a draft autobiographical typescript (164 pp.) describing the family background, travels and political activities of this Communist Party functionary and labor activist, including his 1920s communist and labor movement activities in Chicago with Communist Party leader William Z. Foster, and concludes with his 1950  deportation to his native Demmarak for his political affiliation."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Communists -- United States -- Biography."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Danish Americans."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor unions |z Illinois |z Chicago."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Communism -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Communism |z Illinois |z Chicago."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Trade Union Unity League (U.S.)"
+            }
+        },
+        "dsc": {}
+    }
+}

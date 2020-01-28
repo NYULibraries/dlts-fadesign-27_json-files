@@ -1,0 +1,179 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "wag_174"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Professional and Administrative Staff Association (PASTA) of the Museum of Modern Art Records \u003cnum\u003eWAG.174\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Maggie Schreiner"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-08-13T17:48:08\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "local",
+                        "value": "Gray, John"
+                    }
+                },
+                "unittitle": {
+                    "value": "Professional and Administrative Staff Association (PASTA) of the Museum of Modern Art Records"
+                },
+                "unitdate": {
+                    "normal": "1970/1986",
+                    "type": "bulk",
+                    "value": "1970-1986"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "17 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 10 record cartons, 12 manuscript boxes, 2 half manuscript boxes, and 2 oversize folders."
+                        },
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "2 audiocassettes"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Profession and Administrative Staff Association (PASTA) at the Museum Modern Art was the first union of museum professionals in the United States and is now affiliated with UAW Local 2110. This collection contains meeting minutes, negotiation documents and contracts, grievances, leaflets, committee files, and strike materials."
+                },
+                "unitid": {
+                    "value": "WAG.174"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_cf7dc67db382d855c46a1af002a64014",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_e6b0e09d87f878586c484c4e5ade3e51",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Professional and Administrative Staff Association (PASTA) of the Museum of Modern Art Records; WAG 174; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_1117d32afb56317d84c0b8c44bda3327",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "The accession number NPA.2005.074 is also associated with this collection."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_0c8d3d58c48053d948c2d9641de4b44d",
+            "head": "Historical Note",
+            "p": {
+                "value": "The Profession and Administrative Staff Association (PASTA) at the Museum Modern Art (MOMA) began in response to discrepancies in salaries and concerns regarding job security held by individuals working at MOMA. In 1971, PASTA held elections and officially affiliated with the Distributive Workers of America, as Museum Local No. 1. This was the first union of museum professionals in the United States. PASTA established an affiliation with United Auto Workers (UAW), District 65 in 1980 and is now affiliated with UAW Local 2110. PASTA conducted a strike in 2000 during contract negotiations before MOMA's 2001-2004 expansion project."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_5abf2c17cd6ef96d1d20aaf27d0021fe",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The majority of this collection consists of committee files, negotiation documents, press, and strike materials. Materials include: memos; correspondence; flyers; reports; financial documents; election nominations, notices, and ballots; meeting minutes, agendas, and notices; newspaper clippings; press releases; newsletters; demand letters; research files (e.g. on health care, family leave, education, etc.); agreement drafts; contract proposals and offers; audiocassette tapes; bargaining session notes; questionnaires and surveys regarding salary, issues, and priorities; grievances and arbitrations; rally songs; strike leaflets; and photographic prints, negatives, and contact sheets."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Labor unions -- New York (State) -- New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Strikes and lockouts -- New York (State) -- New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Collective bargaining -- New York (State) --  New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Grievance arbitration."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Arbitration (Administrative law)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Arbitration and award."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Collective labor agreements."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Museums -- Employees -- United States"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "United Automobile, Aircraft, and Vehicle Workers of America. District 65"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_84fbdf44ee28af7864916e526e06e67a\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNegotiations materials; Committee and administrative files; Press; Photographic prints of strikes\u003c/unittitle\u003e\u003cunitdate normal=\"1976/1985\" type=\"inclusive\"\u003e1976-1985\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_7a154df572016b53866ccfb263b45ec4\" label=\"Mixed Materials [31142063347713]\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_6514dfe9f0d47a1e1d26fb5bc5c523d7\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNegotiations materials; Committee files; Strike materials; Press; Photographic contact sheets\u003c/unittitle\u003e\u003cunitdate normal=\"1972/1988\" type=\"inclusive\"\u003e1972-1988\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_8ff603d806f2989a7b8785175269decf\" label=\"Mixed Materials [31142063347721]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ec63afb0a5947bc10f627cc42564c2c6\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCommittee and administrative files; Negotiations materials; Press; Rally and picketing materials\u003c/unittitle\u003e\u003cunitdate normal=\"1964/1973\" type=\"inclusive\"\u003e1964-1973\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_4f83c96dcf36d992605ffeb5071e8272\" label=\"Mixed Materials [31142063347739]\" type=\"Box\"\u003e3\u003c/container\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_3e696d2b76f903f6fd782daa265692b5\" label=\"Mixed Materials [31142063347879]\" type=\"Box\"\u003e17\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ee698a7c9d5f4fb5e21adcb75c6cc2ae\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCommittee materials; Press; Research files; Photographic prints and contact sheets of strikes\u003c/unittitle\u003e\u003cunitdate normal=\"1960/1987\" type=\"inclusive\"\u003e1960, 1969-1987\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_1c8e4b657fd603d1f43b5f919da8d1fd\" label=\"Mixed Materials [31142063347747]\" type=\"Box\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_51689975eee2b9634dda08a9478cb619\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCommittee files (including Exhibition Committee events and photographic prints); Financial documents; Negotiations materials; Press\u003c/unittitle\u003e\u003cunitdate normal=\"1970/1986\" type=\"inclusive\"\u003e1970-1986\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_40d0199d717bcd715a16848d1460246e\" label=\"Mixed Materials [31142063347754]\" type=\"Box\"\u003e5\u003c/container\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_b5bbbf9c55c21e047028c4043656b4fc\" label=\"Mixed Materials [31142063347887]\" type=\"Box\"\u003e18\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_6c6bb46682b4762c4cdbcd4c0194f752\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNegotiations materials; Petitions and letters of support; Press; Administrative materials; Committee files\u003c/unittitle\u003e\u003cunitdate normal=\"1968/1982\" type=\"inclusive\"\u003e1968-1982\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_2dace1759676470b995ffcfbf0a6b9a7\" label=\"Mixed Materials [31142063347762]\" type=\"Box\"\u003e6\u003c/container\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_017e7e0e6a2b8b3706569b67067f833d\" label=\"Mixed Materials [31142063347895]\" type=\"Box\"\u003e19\u003c/container\u003e\u003ccontainer altrender=\"Manuscript box - Letter - Half\" id=\"aspace_07b01a9bac684520a2c5e31b7f268d3d\" label=\"Mixed Materials [31142063347903]\" type=\"Box\"\u003e20\u003c/container\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_1081f430e68bbee2964537a117b6c626\" label=\"Mixed Materials [31142063347911]\" type=\"Box\"\u003e21\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_c4456417388067c60bfbf3cc21195114\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCommittee files and negotiations materials\u003c/unittitle\u003e\u003cunitdate normal=\"1983/1991\" type=\"inclusive\"\u003e1983-1991\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_bffa073e6bc3893db140b0de22747bf0\" label=\"Mixed Materials [31142063347788]\" type=\"Box\"\u003e7\u003c/container\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_695e2d8b0dc712b9d4ae58fb82bd4963\" label=\"Mixed Materials [31142063347929]\" type=\"Box\"\u003e22\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_2a53f0e786e3ed363e6a33c64975f103\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNegotiations materials; Committee files; Press\u003c/unittitle\u003e\u003cunitdate normal=\"1977/1988\" type=\"inclusive\"\u003e1977, 1981-1988\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_0b392eb6a69b4cec90026f89f30c042f\" label=\"Mixed Materials [31142063347770]\" type=\"Box\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_16615e6588117a24d8a1cbc30f05fee1\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCommittee files; Negotiations materials; Strike materials (including press and photographic negatives)\u003c/unittitle\u003e\u003cunitdate normal=\"1973/1994\" type=\"inclusive\"\u003e1973, 1983-1994\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_1b95e3163ae316545b250df28b9b197e\" label=\"Mixed Materials [31142063347796]\" type=\"Box\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_4adeb276b6fd5c1595604f37e0d66fff\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eGrievances and arbitrations; Administrative materials; Strike materials; Press; Negotiations materials; Financial documents\u003c/unittitle\u003e\u003cunitdate normal=\"1982/1996\" type=\"inclusive\"\u003e1982-1996\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_f8083bd971d60175f11cdb159869f9ea\" label=\"Mixed Materials [31142063347804]\" type=\"Box\"\u003e10\u003c/container\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_872a41d8f66780a1eb10993a4fffd925\" label=\"Mixed Materials [31142063347937]\" type=\"Box\"\u003e23\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_454f45b6c39371311cb4ef8f729c31bb\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eGrievances; Negotiations materials; Press; Committee files\u003c/unittitle\u003e\u003cunitdate normal=\"1960/1975\" type=\"inclusive\"\u003e1960-1975\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_3e01e5289471aa700d6034fe8f11da9f\" label=\"Mixed Materials [31142063347812]\" type=\"Box\"\u003e11\u003c/container\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_437560460345b141272a1f8796ae5b8b\" label=\"Mixed Materials [31142063347945]\" type=\"Box\"\u003e24\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_4a2fb15b5ad66b3c8f12eb9245c29468\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCommittee files; Negotiations materials; Press; Elections materials; Financial documents\u003c/unittitle\u003e\u003cunitdate normal=\"1970/1984\" type=\"inclusive\"\u003e1970-1984\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_95ba4a31df4f5ef3fc73a9a16af5c595\" label=\"Mixed Materials [31142063347820]\" type=\"Box\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_b4fb590e44490ac65e5faefd23018ba5\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eGrievances; Press; Financial documents; Negotiations materials\u003c/unittitle\u003e\u003cunitdate normal=\"1971/1985\" type=\"inclusive\"\u003e1971-1985\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_50285a04b562c16fd6f667ae86d68132\" label=\"Mixed Materials [31142063347838]\" type=\"Box\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_4d3637bf7869b188b4051bbbb59aabcb\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAdministrative and committee files; Strike materials (including photographic prints); Press; Negotiations Materials\u003c/unittitle\u003e\u003cunitdate normal=\"1970/2000\" type=\"inclusive\"\u003e1970-1980, 1985-1996, 2000\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_121970ebcf274bf10f163b9a4041f81a\" label=\"Mixed Materials [31142063347846]\" type=\"Box\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_9257d437010f8a05ffa8a91621e73d3d\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eGrievances; Committee files; Administrative materials\u003c/unittitle\u003e\u003cunitdate normal=\"1970/1991\" type=\"inclusive\"\u003e1970-1991\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_55c0e46cca7d04b23a4c7220ec39de19\" label=\"Mixed Materials [31142063347853]\" type=\"Box\"\u003e15\u003c/container\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_b3d8ad20d7eba31e79aa77756e4bc87e\" label=\"Mixed Materials [31142063347861]\" type=\"Box\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_2ca7a902215538fa8c6764b11415e42e\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAudiovisual Material – WBAI PASTA Negotiation\u003c/unittitle\u003e\u003cunitdate normal=\"1987/1987\"\u003e1987\u003c/unitdate\u003e\u003ccontainer altrender=\"Hollinger Cassette Box 5\" id=\"aspace_972824ab46180c7cfe2fb423e05ecec4\" label=\"Sound cassettes (audiocassette) [31142063347978]\" type=\"Box\"\u003eShared Tamiment 067\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_c74f713a58e64f593aeda7b58467c3f6\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAudiovisual Material – Joan Saunders on Radio Talking about the Settlement\u003c/unittitle\u003e\u003cunitdate normal=\"1987/1987\"\u003e1987\u003c/unitdate\u003e\u003ccontainer altrender=\"Hollinger Cassette Box 5\" id=\"aspace_bc5c53f19b236792391f591845ea67d2\" label=\"Sound cassettes (audiocassette) [31142063347978]\" type=\"Box\"\u003eShared Tamiment 067\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

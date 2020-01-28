@@ -1,0 +1,131 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "value": "cues"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Center for Urban Environmental Studies (CUES) Records\r\n                    \u003cnum\u003eRG.17\u003c/num\u003e\r\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Lindsay Anderberg"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Poly Archives \u0026amp; Special Collections at Bern Dibner Library of Science and Technology"
+                },
+                "address": {
+                    "addressline": [
+                        "Bern Dibner Library of Science and Technology",
+                        "5 MetroTech Center",
+                        "Brooklyn, New York, 11201",
+                        "718-260-3943",
+                        "archives@library.poly.edu"
+                    ]
+                },
+                "date": "2013 August 5"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\r\n                \u003cdate\u003e2013-08-28T15:05-0400\u003c/date\u003e\r\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Poly Archives \u0026amp; Special Collections at Bern Dibner Library of Science and Technology"
+                    }
+                },
+                "unittitle": {
+                    "value": "Guide to the Center for Urban Environmental Studies (CUES) Records"
+                },
+                "unitdate": {
+                    "normal": "1968/1975",
+                    "type": "inclusive",
+                    "value": "1968-1975"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.25 Cubic feet"
+                        },
+                        {
+                            "value": "1 box"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The Center for Urban Environmental Studies (CUES) was an interdisciplinary program established at the Polytechnic Institute of Brooklyn (now NYU-Poly) in 1967. In the 1970s, there were plans for CUES to construct a Fire Research Center in the Jay Street Firehouse. These records contain correspondence, receipts, brochures, newsletters, and articles."
+                },
+                "unitid": {
+                    "value": "RG.17"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref13",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open for research without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "ref10",
+            "head": "Preferred Citation note",
+            "p": {
+                "value": "Identification of item, date (volume, issue, page); The Center for Urban Environmental Studies (CUES) Records; box number; folder number; Bern Dibner Library; Poly Archives \u0026amp; Special Collections at Bern Dibner Library of Science and Technology."
+            }
+        },
+        "bioghist": {
+            "id": "ref2",
+            "head": "Biographical/Historical note",
+            "p": {
+                "value": "Sources: Center for Urban Studies brochure, circa 1970 Polytechnic Institute of Brooklyn course catalogs, 1967-1983"
+            }
+        },
+        "scopecontent": {
+            "id": "ref9",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The CUES records contain departmental correspondence and receipts mostly in regards to printing promotional materials and brochures. These brochures are included in the collection as well as the CUES News newsletter and articles about CUES programs, especially joint initiatives with the New York Fire Department."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Civil engineering"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Polytechnic Institute of Brooklyn -- Center for Urban Environmental Studies."
+            }
+        },
+        "dsc": {
+            "value": "\r\n            \u003cc id=\"ref3\" level=\"series\"\u003e\r\n                \u003cdid\u003e\r\n                    \u003cunittitle\u003eSeries I: Records of the Center for Urban Environmental Students\u003c/unittitle\u003e\r\n                \u003c/did\u003e\r\n                \u003cc id=\"ref4\" level=\"file\"\u003e\r\n                    \u003cdid\u003e\r\n                        \u003cunittitle\u003eCorrespondence and receipts\u003c/unittitle\u003e\r\n                        \u003ccontainer id=\"cid167001\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\r\n                        \u003ccontainer parent=\"cid167001\" type=\"Folder\"\u003e1\u003c/container\u003e\r\n                        \u003cunitdate normal=\"1968/1969\" type=\"inclusive\"\u003e1968-1969\u003c/unitdate\u003e\r\n                    \u003c/did\u003e\r\n                \u003c/c\u003e\r\n                \u003cc id=\"ref5\" level=\"file\"\u003e\r\n                    \u003cdid\u003e\r\n                        \u003cunittitle\u003eCUES News newsletter\u003c/unittitle\u003e\r\n                        \u003ccontainer id=\"cid167002\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\r\n                        \u003ccontainer parent=\"cid167002\" type=\"Folder\"\u003e2\u003c/container\u003e\r\n                        \u003cunitdate normal=\"1970/1973\" type=\"inclusive\"\u003e1970-1973\u003c/unitdate\u003e\r\n                    \u003c/did\u003e\r\n                \u003c/c\u003e\r\n                \u003cc id=\"ref6\" level=\"file\"\u003e\r\n                    \u003cdid\u003e\r\n                        \u003cunittitle\u003eCUES brochures\u003c/unittitle\u003e\r\n                        \u003ccontainer id=\"cid167003\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\r\n                        \u003ccontainer parent=\"cid167003\" type=\"Folder\"\u003e3\u003c/container\u003e\r\n                        \u003cunitdate\u003ecirca 1970\u003c/unitdate\u003e\r\n                    \u003c/did\u003e\r\n                \u003c/c\u003e\r\n                \u003cc id=\"ref7\" level=\"file\"\u003e\r\n                    \u003cdid\u003e\r\n                        \u003cunittitle\u003eIndustry publications\u003c/unittitle\u003e\r\n                        \u003ccontainer id=\"cid167005\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\r\n                        \u003ccontainer parent=\"cid167005\" type=\"Folder\"\u003e4\u003c/container\u003e\r\n                        \u003cunitdate normal=\"1970/1975\" type=\"inclusive\"\u003e1970-1975\u003c/unitdate\u003e\r\n                    \u003c/did\u003e\r\n                \u003c/c\u003e\r\n                \u003cc id=\"ref8\" level=\"file\"\u003e\r\n                    \u003cdid\u003e\r\n                        \u003cunittitle\u003eNewspaper and magazine clippings\u003c/unittitle\u003e\r\n                        \u003ccontainer id=\"cid167004\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\r\n                        \u003ccontainer parent=\"cid167004\" type=\"Folder\"\u003e5\u003c/container\u003e\r\n                        \u003cunitdate\u003e1971, undated\u003c/unitdate\u003e\r\n                    \u003c/did\u003e\r\n                \u003c/c\u003e\r\n            \u003c/c\u003e\r\n        "
+        }
+    }
+}

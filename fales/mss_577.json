@@ -1,0 +1,161 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-F",
+            "value": "mss_577"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Marina Urbach Collection on C Space Gallery \u003cnum\u003eMSS.577\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Rachel Searcy"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Fales Library and Special Collections"
+                },
+                "address": {
+                    "addressline": [
+                        "Fales Library and Special Collections",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "3rd Floor",
+                        "New York, NY 10012",
+                        "Phone: (212) 998-2596",
+                        "fales.library@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-07-17T14:54:23\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Fales Library and Special Collections"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Urbach, Marina"
+                    }
+                },
+                "unittitle": {
+                    "value": "Marina Urbach Collection on C Space Gallery"
+                },
+                "unitdate": {
+                    "normal": "1976/2015",
+                    "type": "inclusive",
+                    "value": "1976-2015"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": ".25 linear feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 half manuscript box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Marina Urbach is New York City-based an artist and curator. This collection consists of materials collected by Urbach related to C Space gallery in New York City in the late 1970s. Materials include exhibition announcement cards and copies of a catalog for the 1976 \"Style and Process\" exhibition organized by Urbach. Of note is a exhibition announcement for the 1977 \"Memory\" exhibition at C Space organized by Marcia Tucker in cooperation with the New Museum."
+                },
+                "unitid": {
+                    "value": "MSS.577"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_3d1a7f3ebe1228302202564fc4cb8694",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_1fc673f43268230c4139bfedb3b9634e",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Marina Urbach Collection on C Space; MSS 577; box number; folder number or item identifier; Fales Library and Special Collections, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_833a5ec22bb8c43f074bc2e237890c89",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Marina Urbach in April 2019; the accession number associated with this gift is 2019.037."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_51c6738ae33c51d9b26a5e2f71120c82",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Marina Urbach is New York City-based an artist and curator who oversaw the C Space gallery. In 1976 she organized the exhibition \"Style and Process\" at the Fine Arts Building."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_4a2b3f0524adbd13d3db546e83d9fcbb",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection consists of materials collected by curator and artist Marina Urbach related to C Space Gallery in New York City. Materials include exhibition announcement cards and copies of a catalog for the 1976 \"Style and Process\" exhibition organized by Urbach. Of note is a exhibition announcement for the 1977 \"Memory\" exhibition at C Space organized by Marcia Tucker in cooperation with the New Museum."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Art--Exhibitions. -- 20th century"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Art, Modern -- 20th century"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Art museums -- New York (N.Y.)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Alternative spaces (Arts facilities)."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "New Museum of Contemporary Art (New York, N.Y.) "
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_48ef2d94836e97005e1482a7dacbd8da\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eExhibition Announcements\u003c/unittitle\u003e\u003cunitdate normal=\"1977/2015\" type=\"inclusive\"\u003e1977-2015\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter - Half\" id=\"aspace_e17dba0b248762153b93e97f8352d958\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e17dba0b248762153b93e97f8352d958\" type=\"Folder\"\u003e1-2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_4c29004533d982cf7a7cefa4ae8b27ef\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Style and Process\" Catalog\u003c/unittitle\u003e\u003cunitdate normal=\"1976/1976\"\u003e1976\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter - Half\" id=\"aspace_9fc8c0853f4128894f71eeb81b1bfdc3\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_9fc8c0853f4128894f71eeb81b1bfdc3\" type=\"Folder\"\u003e3-4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

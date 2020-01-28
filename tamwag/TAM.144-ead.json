@@ -1,0 +1,122 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "tam_144"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "PM: FBI Files\n                    \u003cnum\u003eTAM.144\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "12/21/2009"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T18:36-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "\n                \u003cemph render=\"italic\"\u003ePM\u003c/emph\u003e: FBI Files"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.75 linear feet"
+                        },
+                        {
+                            "value": "(4 boxes)"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "TAM.144"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid18933008",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1-4"
+                }
+            }
+        ],
+        "bioghist": {
+            "id": "ref2",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "\n                \u003cemph render=\"italic\"\u003ePM\u003c/emph\u003e (1940-48) was a progressive New York City daily tabloid format newspaper that supported the extension of the New Deal and good relations with the Soviet Union, and opposed U.S. foreign policy and the rise of the Cold War and of domestic anti-communism. \n                \u003cemph render=\"italic\"\u003ePM\u003c/emph\u003e (the name stood for Picture Magazine), borrowed many elements from weekly newsmagazines, and it accepted no advertising in an attempt to be free of pressure from business interests. \n                \u003cemph render=\"italic\"\u003ePM\u003c/emph\u003e was published by Ralph Ingersoll and financed by the Chicago millionaire Marshall Field III. Circulation averaged at 165,000, less than the 225,000 it would need to break even. Notable contributors included Heywood Broun, McGeorge Bundy, Erskine Caldwell, Malcolm Cowley, Ben Hecht, Ernest Hemingway, Penn Kimball, Eugene Lyons, Tip O'Neill, Saul K. Padover, Dorothy Parker, Ben Stolberg, I.F. Stone, James Thurber, James Wechsler, and cartoonist Theodore Geisel (aka Dr. Seuss)."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The collection contains FBI files on \n                \u003cemph render=\"italic\"\u003ePM\u003c/emph\u003e, obtained under the Freedom of Information Act. PLEASE DIRECT FURTHER INQUIRIES TO: tamiment.wagner@nyu.edu"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "American newspapers |z New York (State) |z New York."
+                },
+                {
+                    "source": "local",
+                    "value": "Newspapers |z New York (State) |z New York |y 1940-1950."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "PM (New York, N.Y. : Daily)."
+            }
+        },
+        "dsc": {}
+    }
+}

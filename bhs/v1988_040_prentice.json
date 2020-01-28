@@ -1,0 +1,150 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "v1988_040_prentice"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the John H. Prentice mansion photographs\n                    \u003cnum\u003eV1988.040\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Patricia Glowinski"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "August 3, 2011."
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-28T15:16-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Smith, B. J."
+                    }
+                },
+                "unittitle": {
+                    "value": "John H. Prentice mansion photographs"
+                },
+                "unitdate": {
+                    "value": "circa 1875 to 1930"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.38 Linear feet"
+                        },
+                        {
+                            "value": "4 items contained in one folder and one oversize box."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "V1988.040"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid956002",
+                    "label": "Graphic materials",
+                    "type": "Box",
+                    "value": "Prints by accession 67"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref7",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); John H. Prentice mansion photographs, V1988.040, Box number, Object ID number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Gift of Betsy Brower, 1988."
+            }
+        },
+        "bioghist": {
+            "id": "ref4",
+            "head": "Historical note",
+            "p": {
+                "value": "The John H. Prentice mansion was located at 1 Grace Court in the Brooklyn Heights neighborhood. The mansion was built for John H. Prentice (1803-1881), a businessman and owner of Prentice's Stores, a series of warehouses that were located on the piers that once lined the Brooklyn side of the East River. Prentice served as president of the Brooklyn Board of Water Commissioners, was one of the first Parks Commissioners in Brooklyn, and was treasurer of the Board of Trustees of the East River Bridge (now the Brooklyn Bridge). As of 2011, a condominium building stands where the mansion was located."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The John H. Prentice mansion photographs is comprised of four black-and-white photographic prints, dating from circa 1875 to 1930, that document the 19th century mansion that was located at 1 Grace Court in Brooklyn Heights. The collection includes two oversize albumen prints showing an exterior and interior view of the mansion; one 8 x 10 inch modern print of an exterior view of the mansion; and one relief halftone print, also an exterior view, that was originally published in the Brooklyn Daily Eagle. B.J. Smith is the photographer of the two oversize prints."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Dwellings |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Mansions |z New York (State) |z Kings County"
+                }
+            ]
+        },
+        "otherfindaid": {
+            "id": "ref6",
+            "head": "Other Finding Aids"
+        },
+        "dsc": {}
+    }
+}

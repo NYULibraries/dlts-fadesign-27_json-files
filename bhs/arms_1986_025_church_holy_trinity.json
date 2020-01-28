@@ -1,0 +1,192 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1986_025_church_holy_trinity"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Church of the Holy Trinity collection\n                    \u003cnum\u003e1986.025\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "November 12, 2010"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-21T14:20-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Melish, John Howard, b. 1875"
+                    }
+                },
+                "unittitle": {
+                    "value": "Church of the Holy Trinity collection"
+                },
+                "unitdate": {
+                    "normal": "1851/1958",
+                    "type": "inclusive",
+                    "value": "1851-1958"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.68 Linear feet"
+                        },
+                        {
+                            "value": "in six manuscript boxes."
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Brooklyn's Church of the Holy Trinity was founded in 1840. After more than a century of serving as one of Brooklyn's most esteemed Episcopalian institutions, the Church was closed in 1957 over a controversy involving the supposed communist activities of its assistant rector, William Howard Melish. The Church of the Holy Trinity collection spans the period 1851 to 1959 and contains materials relating to the Church's administration, activities, and history. A small portion of the collection also pertains to the Melish controversy of the 1950s. Items include yearbooks, proceedings, issues of the Church's newsletter, and additional ephemeral literature."
+                },
+                "unitid": {
+                    "value": "1986.025"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid598007",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "1986.025 6 of 6"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref4",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref6",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Church of the Holy Trinity collection, 1986.025, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref5",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Portions of this collection were the gift of the Church of the Holy Trinity, date unknown, and William Howard Melish, 1985. Sources and dates of acquisition for remaining items in the collection are unknown. The collection was formally accessioned in 1986."
+            }
+        },
+        "bioghist": {
+            "id": "ref3",
+            "head": "Historical Note",
+            "p": {
+                "value": "Brooklyn's Church of the Holy Trinity was founded in 1840. Its distinct Gothic Revival building, designed by noted church architect Minard LeFevre, opened for worship in 1847 at the corner of Montague and Clinton Streets in the neighborhood of Brooklyn Heights. Over the course of the next century, the Church was regarded as one of Brooklyn's esteemed Episcopalian institutions. However, in the late 1940s, controversy erupted surrounding the Church's Head Rector, John Howard Melish, and his son, Assistant Rector William Howard Melish. The controversy began when, in light of the onset of increased political tensions between the United States and the communist Soviet Union, members of the Church vestry became suspicious of William Howard Melish's supposed involvement in communist activities. The vestry urged John Howard Melish to dismiss his son as Assistant Rector, and when the elder Melish refused, the vestry attempted to remove them both. The conflict escalated over the next decade and was even taken to the New York State Supreme Court. It ended with the closing of the Church in 1957 by order of the Protestant Episcopal Bishop of Long Island. After the Church's closing, its building remained vacant for over a decade until 1969, when it was purchased by the congregation of St. Ann's Church, the oldest Episcopalian parish in Brooklyn. Upon reopening the building, St. Ann's renamed itself as St. Ann's and the Holy Trinity Episcopal Church. The building was designated a National Historic Landmark in 1987, and as of 2010, St. Ann's and the Holy Trinity continues to serve the Brooklyn community at this location."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Additional items include programs, bulletins, invitations, pamphlets, and posters spanning 1855 to 1959, with the majority stemming from the 1950s. These items relate to worship services and educational programs, gatherings and celebrations, the architectural and religious significance of the Church's revered stained glass windows, and the Melish controversy. Most items pertaining to the Melish conflict reflect the parish's support of John Howard and William Howard Melish during the dispute, while other items, such as copies of legal papers from the New York State Supreme Court trial in which the conflict was argued, reveal the extent to which the controversy affected the national Episcopalian community."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Anglican church buildings |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Anglican church buildings |z New York (State) |z Kings County |x History"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Church anniversaries |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Church controversies |z New York (State)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Church controversies |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Church finance |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Church management |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Church membership |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Episcopalians |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Religious institutions |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Stained glass windows"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Church of the Holy Trinity (Brooklyn, New York, N.Y.)."
+            }
+        },
+        "dsc": {}
+    }
+}

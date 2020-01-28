@@ -1,0 +1,143 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "mccay"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the David C. Bohnett Collection of Winsor McCay Drawings\n                    \u003clb/\u003e\n                    \u003cdate calendar=\"gregorian\" era=\"ce\"\u003e1914\u003c/date\u003e\n                    \u003clb/\u003e\n                    \u003cnum\u003e\u003c/num\u003e\n                    \u003cnum\u003eMSS 226\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Colin Wells"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "© 2012 Fales Library and Special Collections"
+                },
+                "address": {
+                    "addressline": [
+                        "Fales Library and Special Collections",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY 10012",
+                        "Phone: (212) 998-2596",
+                        "Email: fales.library@nyu.edu"
+                    ]
+                },
+                "date": "2009"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-06T15:23-0500\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "© 2012 Fales Library and Special Collections"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "McCay, Winsor"
+                    }
+                },
+                "unittitle": {
+                    "value": "David C. Bohnett Collection of Winsor McCay Drawings"
+                },
+                "unitdate": {
+                    "value": "1914"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.25 linear feet"
+                        },
+                        {
+                            "value": "(1 box)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Winsor McCay (1867-1934) was a cartoonist, animator, and performer credited with significant influence in the development of American comic strips and motion picture animation. McCay first gained attention with two comic strips, \n                \u003ctitle render=\"italic\"\u003eDream of the Rarebit Fiend\u003c/title\u003e, which began publication in the \n                \u003ctitle render=\"italic\"\u003eNew York Evening Telegram\u003c/title\u003e in 1904, and \n                \u003ctitle render=\"italic\"\u003eLittle Nemo in Slumberland\u003c/title\u003e, first published in the \n                \u003ctitle render=\"italic\"\u003eNew York Herald\u003c/title\u003e in 1905. In 1911 McCay began introducing animated films into his vaudeville act, beginning with \n                \u003ctitle render=\"italic\"\u003eLittle Nemo\u003c/title\u003e and in the following year, \n                \u003ctitle render=\"italic\"\u003eHow a Mosquito Operates\u003c/title\u003e. In 1914 McCay introduced \n                \u003ctitle render=\"italic\"\u003eGertie the Dinosaur\u003c/title\u003e, which would become his most well known animated work. It is widely considered the preeminent animated work before the development of the Disney studio. This collection consists of two original production animation drawings of Gertie the Dinosaur from 1914."
+                },
+                "unitid": {
+                    "value": "MSS 226"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref11",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open to researchers. Appointments are necessary for the use of manuscript and archival collections."
+            }
+        },
+        "prefercite": {
+            "id": "ref15",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form:\n                \u003clb/\u003e\n                \u003clb/\u003eIdentification of item, date (if known); Winsor McCay Animation Drawings; MSS 226; box number; folder number; \n                \u003caddress\u003e\n                    \u003caddressline\u003eFales Library and Special Collections, New York University Libraries.\u003c/addressline\u003e\n                \u003c/address\u003e"
+            }
+        },
+        "bioghist": {
+            "id": "ref8",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Sources: (1) Canemaker, John. \n                \u003cemph render=\"italic\"\u003eWinsor McCay: His Life and His Art.\u003c/emph\u003e New York: Harry N. Abrams, 2005.\n                \u003clb/\u003e (2) \"David Bohnett Bio.\" The David Bohnett Foundation. Accessed February 26, 2009. http://www.bohnettfoundation.org/personnel/view/1"
+            }
+        },
+        "scopecontent": {
+            "id": "ref9",
+            "head": "Scope and Content",
+            "p": {
+                "value": "This collection consists of a single series containing two original production ink drawings on rice paper of Gertie the Dinosaur, with certificates of authenticity from The Animation Celection."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Animated films |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Animation (Cinematography) |z United States |x History |y 20th century."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Animation (Cinematography) |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Animators |z United States."
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref1\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries I: Animation Drawings\u003c/unittitle\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003e2 folders\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate normal=\"1914/1914\"\u003e1914\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref2\"\u003e\n                    \u003chead\u003eScope and Content\u003c/head\u003e\n                    \u003cp\u003eThis series consists of two original production ink drawings on rice paper of Gertie the Dinosaur, with certificates of authenticity from The Animation Celection.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n                \u003cc id=\"ref3\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eGertie the Dinosaur and Mammoth\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid110362\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid110362\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"1914/1914\"\u003e1914\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref4\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eDepicts a line drawing of Gertie the Dinosaur looking at a mammoth walking in a rocky landscape. Drawing is numbered 188. Ink drawing on rice paper, 6.5 x 8.5 inches.\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref5\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eGertie the Dinosaur and Winsor McCay\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid110361\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid110361\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate normal=\"1914/1914\"\u003e1914\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref6\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eDepicts a line drawing of Gertie the Dinosaur followed by a man walking in a rocky landscape. Drawing is numbered 267. Ink drawing on rice paper, 6.5 x 8.375 inches.\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

@@ -1,0 +1,149 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "marshallbrown"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Marshall Brown Collection on NYU Faculty and Students in World War I \u003cnum\u003eMC 66\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Catriona Schlosser"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-01-15T15:06:44\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Brown, Marshall Stewart, 1870-1948"
+                    }
+                },
+                "unittitle": {
+                    "value": "Marshall Brown Collection on New York University Faculty and Students in World War I"
+                },
+                "unitdate": {
+                    "normal": "1917/1925",
+                    "type": "bulk",
+                    "value": "1917-1925"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one half manuscript box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Marshall Stewart Brown was a professor of political science and history at New York University (NYU) from 1894 to 1940 and the Dean of Faculties from 1917 to 1940. During his tenure as dean, Brown produced his manuscript about the University during World War I. This collection includes Brown's manuscript and correspondence related to his research."
+                },
+                "unitid": {
+                    "value": "MC 66"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_f9f40d65c2561ec422fa9d4a916245b0",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_b563fe84c1d34cfbd6ef98f6fbaa21e6",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Marshall Brown Collection on New York University Faculty and Students in World War I; MC 66; box number; folder number; New York University Archives, New York University Libraries."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_570b4a1d706102476ede1344bc52cf14",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials found in collection; provenance is unknown."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_8056fab8de46a323c72962814b011c67",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Sources:\nHamlin, Paul M, \"Marshall S. Brown, 1870-1948.\" \u003cemph render=\"italic\"\u003eTeaching America's Heritage of Freedom\u003c/emph\u003e, 1950, 75-76. "
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_956f079cb6e39ddc6aa04a65eb929d38",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection contains a seventy-seven page manuscript, entitled \"NYU in World War I,\" by Marshall S. Brown, which includes information about students and professors who were serving or who had served in the U.S. military. There is also a folder of notes and correspondence related to Brown's research on this topic."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "World War, 1914-1918."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "New York University. Administration"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref1\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: New York University in World War I\u003c/unittitle\u003e\u003cphysdesc altrender=\"part\"\u003e\u003cextent altrender=\"materialtype spaceoccupied\"\u003e0.20 Linear Feet\u003c/extent\u003e\u003cextent altrender=\"carrier\"\u003ein one half manuscript box\u003c/extent\u003e\u003c/physdesc\u003e\u003cunitdate normal=\"1920/1920\"\u003e1920\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_52c463d96f0b15ddb988e3af66d25339\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eSeries I includes Marshall S. Brown's seventy-seven page manuscript, entitled \"NYU in World War I,\" regarding students and professors who were serving or who had served in the U.S. military.\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_ref2\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"italic\"\u003eNew York University in World War I\u003c/emph\u003e (original)\u003c/unittitle\u003e\u003cunitdate normal=\"1920/1920\"\u003e1920\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter - Half\" id=\"aspace_6d2584e5478f253d56e8729cdb4b1a1f\" label=\"Mixed Materials [31142062745776]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_6d2584e5478f253d56e8729cdb4b1a1f\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref3\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"italic\"\u003eNew York University in World War I\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitdate normal=\"1920/1920\"\u003e1920\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter - Half\" id=\"aspace_1e0177c4ead73ee563e86d8f8602a1f9\" label=\"Mixed Materials [31142062745776]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1e0177c4ead73ee563e86d8f8602a1f9\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref4\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"italic\"\u003eNew York University in World War I\u003c/emph\u003e (duplicate)\u003c/unittitle\u003e\u003cunitdate normal=\"1920/1920\"\u003e1920\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter - Half\" id=\"aspace_46161ec4d5e863de3e15d09004319fd0\" label=\"Mixed Materials [31142062745776]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_46161ec4d5e863de3e15d09004319fd0\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref5\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"italic\"\u003eNew York University in World War I\u003c/emph\u003e (duplicate)\u003c/unittitle\u003e\u003cunitdate normal=\"1920/1920\"\u003e1920\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter - Half\" id=\"aspace_07c114633a25eddf93cc18f37c4bfb05\" label=\"Mixed Materials [31142062745776]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_07c114633a25eddf93cc18f37c4bfb05\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref6\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries II: Correspondence\u003c/unittitle\u003e\u003cphysdesc altrender=\"part\"\u003e\u003cextent altrender=\"materialtype spaceoccupied\"\u003e0.05 Linear Feet\u003c/extent\u003e\u003cextent altrender=\"carrier\"\u003ein one half manuscript box\u003c/extent\u003e\u003c/physdesc\u003e\u003cunitdate normal=\"1917/1935\" type=\"inclusive\"\u003e1917-1935, undated\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_1c9fd622b8393ac156f0c08e0b51040e\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eSeries II includes one folder of notes and correspondence related to Marshall S. Brown's research related to his manuscript, \"NYU in World War I.\"\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_ref7\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMarshall Brown correspondence relating to World War I\u003c/unittitle\u003e\u003cunitdate normal=\"1917/1935\" type=\"inclusive\"\u003e1917-1935, undated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter - Half\" id=\"aspace_08edb907e28fdc6c2fc3fcd5403faf3d\" label=\"Mixed Materials [31142062745776]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_08edb907e28fdc6c2fc3fcd5403faf3d\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

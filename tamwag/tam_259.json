@@ -1,0 +1,111 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_259"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Pacific Street Films Records \u003cnum\u003eTAM 259\u003c/num\u003e"
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-09T19:57:24\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Pacific Street Films Records"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "2 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in two record cartons."
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "TAM 259"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_7e58abcd7a2be81b78138ac494b697c7",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_640955eccab31997438a5c74b80deb60",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Provenance unknown, but we have reason to believe it was donated by Donated by Pacific Street Films in circa 1990. The accession numbers associated with this gift are 1950.016 and 1950.162."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_6d0cdb24f6271125720827bbbe34d205",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Pacific Street Films (PSF) is an independent film company that began producing social and political documentary films in 1969. It began its corporate life as the Pacific Street Film Collective, and its founders were active in the student anti-war movement during the late 1960s and early 1970s. Politically they identified themselves as anarchists, and PSF has produced several films on anarchism, including Free Voice of Labor--The Jewish Anarchists (1980), and Anarchism in America (1982)."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_d66731c4fed2e1f16169fc60f83e65d0",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "This is an unprocessed collection of the records of Pacific Street Films."
+            }
+        },
+        "controlaccess": {},
+        "dsc": {}
+    }
+}

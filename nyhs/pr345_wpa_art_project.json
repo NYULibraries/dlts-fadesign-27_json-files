@@ -1,0 +1,130 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "pr345_wpa_art_project"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the New-York Historical Society Collection of Prints from the Works Progress Administration, Federal Art Project\u003clb/\u003e1935-1943\u003clb/\u003e \u003cnum\u003ePR 345\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Larry Weimer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-12-04T17:54:26\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "New-York Historical Society collection of prints from the Works Progress Administration, Federal Art Project"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "1935-1943"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "3.5 Linear feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one box and two flat file folders"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The collection includes 22 prints produced by 17 artists in connection with the Works Progress Administration's Federal Art Project (1935-1943), specifically from New York City."
+                },
+                "unitid": {
+                    "value": "PR 345"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_0e5b3ed46d1c4777dc061883c1e797a2",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open to qualified researchers."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_0a42acee75a699a680733c31783f12b6",
+            "head": "Preferred Citation Note",
+            "p": {
+                "value": "This collection should be cited as New-York Historical Society collection of prints from the Works Progress Administration, Federal Art Project, PR 345, Department of Prints, Photographs, and Architectural Collections, The New-York Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_1ee9cf031ea50e83232c0b8cd8351964",
+            "head": "Immediate Source of Acquisition Note",
+            "p": {
+                "value": "The prints were purchased over time by N-YHS. Dates for each are noted in the container list."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_907eb65bc815eef11d94635421410ac9",
+            "head": "Biographical/Historical Note",
+            "p": {
+                "value": "The Federal Art Project (1935-1943) was a Depression-era relief program run by the Works Progress Administration. The art project employed thousands of artists across the United States to create paintings, murals, photographs, and other art forms for the public. This collection includes a relatively small number of the thousands of \"portable\" works, specifically prints from New York City, created during the program."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_f727ebc7990a1a59bfa379696a40fd4c",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection includes 22 prints produced by 17 artists in connection with the Works Progress Administration's Federal Art Program, specifically from New York City. The specific artists and works included in the collection are detailed in the container list. Generally, the works focus on people, rather than structures or landscapes, in urban settings such as street scenes, getting tattoos, street cart sales, recreation, laborers, and searching through a garbage can."
+            }
+        },
+        "controlaccess": {},
+        "dsc": {
+            "value": "\u003cc id=\"aspace_09a248c0b03407de2a10730f34aaab4f\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAbramovitz, Albert (1879-1963)\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003ecirca 1935-1943\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b9a0f7f3b617a1e0a532676d1f0032c5\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_f5f227c7ba7ae828b93d3079bbb53a25\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eIncludes linocut \u003cemph render=\"italic\"\u003eRickets\u003c/emph\u003e (circa 1935-1943), number 7 of 25 for the NYC-WPA. Signed in pencil. Stamped. Purchase, November 2019.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref12_tkz\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBarlow, Lou (1908-2011)\u003c/unittitle\u003e\u003cunitdate\u003e1936\u003c/unitdate\u003e\u003ccontainer id=\"aspace_518f05a0edc9afdd5db8bb0d6fa14149\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_9ea695bd4ceaa8ccf7d7f93e6c989d38\"\u003e\u003chead\u003eScope and Contents Note\u003c/head\u003e\u003cp\u003eIncludes wood engraving \u003cemph render=\"italic\"\u003eSweet Potato Man\u003c/emph\u003e (1936). Purchased 1983.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14_0iv\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBerman, Sarah (1895-1957)\u003c/unittitle\u003e\u003cunitdate\u003ecirca 1936-1942\u003c/unitdate\u003e\u003ccontainer id=\"aspace_69ce41240427f1ef11566c350f16235e\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_0ec7d026fe75e779110e489ac25762d0\"\u003e\u003chead\u003eScope and Contents Note\u003c/head\u003e\u003cp\u003eIncludes lithograph \u003cemph render=\"italic\"\u003eHarlem Street Scene\u003c/emph\u003e (circa 1936-1942). Purchase, November 2015.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16_3vg\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBotts, Hugh (1903-1964)\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1937\u003c/unitdate\u003e\u003ccontainer id=\"aspace_77cd7bb6d209b49cda64d505f521d2e6\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_fa15a5db439d6f030e4e5ceb52b693d9\"\u003e\u003chead\u003eScope and Contents Note\u003c/head\u003e\u003cp\u003eIncludes: etching \u003cemph render=\"italic\"\u003eEast River\u003c/emph\u003e (1937), number 22. Signed in pencil. Stamped. Purchase, November 2015; aquatint \u003cemph render=\"italic\"\u003eClinic\u003c/emph\u003e (circa 1935-1943), number 5 of edition of 25. Signed in pencil. Stamped. Purchase, November 2019.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20_1ur\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBurke, David\u003c/unittitle\u003e\u003cunitdate\u003e1935\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7a0cc75e331746def41ccf4acc5cf1f9\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_1d0c68bae8eef1fe2f7d7eb2018cef82\"\u003e\u003chead\u003eScope and Contents Note\u003c/head\u003e\u003cp\u003eIncludes color screenprint \u003cemph render=\"italic\"\u003eGoing to Work\u003c/emph\u003e (1935), number 2. Signed in pencil. Stamped. Purchase, November 2015.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23_qhq\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDwight, Mabel (1876-1955)\u003c/unittitle\u003e\u003cunitdate\u003e1936, 1939\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b7fae296f222ec82fc3247028b7246f6\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_747dc5176d4e793bf96ff1032c5ba5a7\"\u003e\u003chead\u003eScope and Contents Note\u003c/head\u003e\u003cp\u003eIncludes: lithograph \u003cemph render=\"italic\"\u003eBuried Treasure\u003c/emph\u003e (1939), number 20, signed in pencil, stamped, purchased November 2016; \u003cemph render=\"italic\"\u003eGeneral Seminary\u003c/emph\u003e (1936),signed in pencil (no stamp), purchased October 2017.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref29_4br\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eEichenberg, Fritz (1901-1990)\u003c/unittitle\u003e\u003cunitdate\u003e1935-1943\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7d42ed2bd83ec91b036b150784d27d6d\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_2f775ee1f6efacc28f27e52ae943026b\"\u003e\u003chead\u003eScope and Contents Note\u003c/head\u003e\u003cp\u003eIncludes wood engraving \u003cemph render=\"italic\"\u003eLumber Yard\u003c/emph\u003e (1935-1943), number 11, signed in pencil, stamped. Purchase, October 2017.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_4f779ade77b9fbaf03605b19ba50ed9e\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFeinstein, David\u003c/unittitle\u003e\u003cunitdate\u003ecirca 1935-1943\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7eca2fbf06624242520304ef40a3320d\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_69b5ff353aebb6bb87c660bcabad63d2\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eIncludes lithograph \u003cemph render=\"italic\"\u003eThe Boss\u003c/emph\u003e, signed in pencil, stamped. Purchase November 2019.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_9a74ecb97945371ae7f3c206f737d141\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eGottlieb, Harry (1895-1992)\u003c/unittitle\u003e\u003cunitdate\u003e1936/1939\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2d4aba98c6e6f79583759b1b632e87a3\" label=\"Graphic Materials\" type=\"Folder\"\u003eFF-1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_420e5a3d85df7382950b0f9c57f4a5aa\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eIncludes lithograph \u003cemph title=\"italic\"\u003eDrydock\u003c/emph\u003e. Edition of 25 made for NYC-WPA, with stamp. Signed in pencil, titled in lower margin. Purchase, January 2019.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_0ad49ecccc37bac12a642449d277b185\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eGrambs, Blanche (1916-2010)\u003c/unittitle\u003e\u003cunitdate\u003ecirca 1935-1943\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4c3d24d444943a4bc8e5acd3effcc805\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_9e31f8854f293c39dd42a0b3ce2534b7\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eIncludes drypoint \u003cemph render=\"italic\"\u003eCold\u003c/emph\u003e, number 16, for the NYC-WPA, signed in pencil (B.M. Grambs), stamped. Artist later known as Grambs Miller. Purchase, October 2018.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25_fyg\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eJacobi, Eli (1898-1984)\u003c/unittitle\u003e\u003cunitdate\u003ecirca 1936-1939\u003c/unitdate\u003e\u003ccontainer id=\"aspace_01d9ff6fb7619937d4a773c3c61526ff\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_13c44488629fd02bc8459a9883c67999\"\u003e\u003chead\u003eScope and Contents Note\u003c/head\u003e\u003cp\u003eIncludes lithograph \u003cemph render=\"italic\"\u003eTattoo Artist\u003c/emph\u003e (ca. 1936-1939), depicting the interior of Apache Harry's tattoo shop at 22 Bowery. Signed in pencil, stamped. Purchase, 2016.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_d679e95056b4977cbaabc5649bda67e6\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMandelman, Beatrice (1912-1998)\u003c/unittitle\u003e\u003cunitdate\u003ecirca 1936-1941\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a3dc2717c0bd41d27586fb084e59fb6e\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_3b37473c6822486bd7d16fd3487aa5fa\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eIncludes lithograph \u003cemph render=\"italic\"\u003eShave 25 Cents\u003c/emph\u003e, signed in pencil, stamped partially erased. Purchase, November 2019.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_afa47b155e8fca3b84b6f412a5e44a73\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMarkham, Kyra (1891-1967)\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1936-1937\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ad71f08275cd843fb197cb7b3d34ba25\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_721a36999a36223b331e87e4c3b9d212\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eIncludes: lithograph \u003cemph render=\"italic\"\u003eThe Flies at Minsky's\u003c/emph\u003e (1936), signed in pencil, stamped, purchased October 2018; lithograph \u003cemph render=\"italic\"\u003eStage Door Johnnie\u003c/emph\u003e (1937), number 11, signed in pencil, stamped, purchased November 2019.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27_zxr\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNooney, Ann (1900-1970)\u003c/unittitle\u003e\u003cunitdate\u003ecirca 1935\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c1297512c6a8fcebba74e87f281a0df1\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_89b89ca80723ba59cbbf72a9f356b2c3\"\u003e\u003chead\u003eScope and Contents Note\u003c/head\u003e\u003cp\u003eIncludes lithograph \u003cemph render=\"italic\"\u003eFulton Street, Brooklyn\u003c/emph\u003e (circa 1935), number 9, signed in pencil, stamped. Purchase, November 2015.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_e8ce7c648834b0cc4e73a1bb2171d124\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNooney, Ann (1900-1970)\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003ecirca 1936-1939\u003c/unitdate\u003e\u003ccontainer id=\"aspace_993df8416699150e6b87427664faa7d9\" label=\"Graphic Materials\" type=\"Folder\"\u003eFF-2\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_e1a950e95011d42c5f1e3f9dde59d781\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eTwo lithographs: \u003cemph render=\"italic\"\u003eDemolition with Water Tower, NYC,\u003c/emph\u003e signed and titled in pencil (Purchase, November 2019); \u003cemph render=\"italic\"\u003eMusic in the Park,\u003c/emph\u003e signed and titled in pencil (Purchase, November 2019).\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_98ea5d254423d55e4edbf8e03693c6a5\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eParish, Betty Waldo (1910-1986)\u003c/unittitle\u003e\u003cunitdate\u003e1936-1939\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d11cfb9df30382f04786c083be60c74d\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_3318aa4f1c9a3bf94ada0ca82b0dea13\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eIncludes wood engraving \u003cemph render=\"italic\"\u003eOur Lady of Pompeii\u003c/emph\u003e (or \"Church of Pompeii\"). Signed in pencil, stamp on reverse. Purchase, January 2019.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_4754e6a25ee46879a5ce08cc25db2002\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSchardt, Bernard P. (1904-1979)\u003c/unittitle\u003e\u003cunitdate\u003e1936/1939\u003c/unitdate\u003e\u003ccontainer id=\"aspace_466887a9607867c12938efa199a9a4e7\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_854e4e12af4fec2d415bbb63e153f601\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eIncludes wood engraving \u003cemph render=\"italic\"\u003eWomen's Court, Jefferson Market.\u003c/emph\u003e Signed (B.P. Schardt) and titled in pencil, stamped. Purchase, January 2019.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_c5a4a3f91a6b4661a057f3d637c1d2db\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eVelonis, Anthony (1911-1997)\u003c/unittitle\u003e\u003cunitdate\u003e1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_804b8f481c061a896cb84070b24b0fc2\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_31b1be8167b849bc7e4369bc63af102c\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eIncludes serigraph, mounted to support sheet \u003cemph render=\"italic\"\u003e6:30 P.M.\u003c/emph\u003e Edition of 25 made for NYC-WPA, with stamp. Signed, titled, dated, and annotated \"Working proof on illustration board.\" Purchase, January 2019.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e"
+        }
+    }
+}

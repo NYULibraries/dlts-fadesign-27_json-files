@@ -1,0 +1,131 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "tam_376"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Barney Mayes Manuscript: Untitled Maritime Labor Novel\n                    \u003cnum\u003eTAM.376\u003c/num\u003e\n                "
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "12/01/2009"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T19:37-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Mayes, Barney"
+                    }
+                },
+                "unittitle": {
+                    "value": "Barney Mayes Manuscript: Untitled Maritime Labor Novel"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.25 linear feet"
+                        },
+                        {
+                            "value": "(1 box)"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "TAM.376"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid18887001",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "bioghist": {
+            "id": "ref3",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Barney Mayes was an editor of the \n                \u003cemph render=\"italic\"\u003eVoice of the Federation\u003c/emph\u003e, the press of the Maritime Federation of the Pacific, which united all West Coast maritime unions from 1934 to 1937, when the Federation split over a struggle between the anti-communist Sailors Union of the Pacific (led by Harry Lundeberg) and the communist-oriented International Longshoremen's and Warehousemen's Union (led by Harry Bridges) over the issue of democracy within the Federation. Mayes was also a staffer for the Meatcutter's union in San Francisco during the last years of his life."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "This collection consists of a manuscript of an untitled maritime labor novel set in San Francisco in the 1930s and 1940s. PLEASE DIRECT FURTHER INQUIRIES TO: tamiment.wagner@nyu.edu"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Labor unions and communism |z United States |v Fiction."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Merchant mariners |z United States |v Fiction"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialists |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Stevedores |z United States |v Fiction."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Sailors' Union of the Pacific."
+            }
+        },
+        "dsc": {}
+    }
+}

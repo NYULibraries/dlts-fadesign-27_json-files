@@ -1,0 +1,155 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "wag_360"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Lynn Porter-Bernadotte Papers \u003cnum\u003eWAG.360\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Shiva Addanki "
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-05-09T20:11:28\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Porter-Bernadotte, Lynn"
+                    }
+                },
+                "unittitle": {
+                    "value": "Lynn Porter-Bernadotte Papers"
+                },
+                "unitdate": {
+                    "normal": "1981/2006",
+                    "type": "inclusive",
+                    "value": "1981-2006"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": ".25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 folder in shared housing"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Lynn Porter-Bernadotte Papers contain photographs, newspaper clippings, and legal documents related to Lynn Porter-Bernadotte's career in the New York City Fire Department. Porter-Bernadotte was one of the first women firefighters in New York City from 1982 to 2000."
+                },
+                "unitid": {
+                    "value": "WAG.360"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_7cb1fd682e0367a7da0f41b05269d793",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_4cff89e7ad87c8a23d763e3c5b0f1b98",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Lynn Porter-Bernadotte Papers; WAG 360; box number; folder number or item identifier; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_4864406270c26e5d46fbf57e81305689",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Lynn Porter-Bernadotte in October 2018; the accession number associated with this gift is 2019.030"
+            }
+        },
+        "bioghist": {
+            "id": "aspace_17146fc456fbb0213d37531aabf566e5",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Lynn Porter-Bernadette was one of the first women firefighters in New York City. She served in the New York City Fire Department from 1982-2000."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_496ae169cdd5bd40336735ad2fe984b8",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection contains photographs, newspaper clippings, and legal materials related to Lynn Porter-Bernadotte's career in the New York City Fire Department."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Women in the civil service -- New York (State) -- New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Women fire fighters -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor -- New York (State) -- New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Working class -- Photographs."
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_fefc8614d738d4aee68ef178c64977d8\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eClippings, Photographs, and Legal Documents\u003c/unittitle\u003e\u003cunitdate normal=\"1981/2006\" type=\"inclusive\"\u003e1981-2006\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_9ecb7f710e3ed7647c75b0f30abde490\" label=\"Mixed Materials [31142063434123]\" type=\"Box\"\u003eShared Tamiment 049\u003c/container\u003e\u003ccontainer parent=\"aspace_9ecb7f710e3ed7647c75b0f30abde490\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

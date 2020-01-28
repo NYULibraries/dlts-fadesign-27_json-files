@@ -1,0 +1,145 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "wag_287"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Jack Schmulowitz Manuscript on Julius and Lilly Schmulewitz \u003cnum\u003eWAG.287\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Maggie Schreiner"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-07-30T18:39:07\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "local",
+                        "value": "Schmulowitz, Jack "
+                    }
+                },
+                "unittitle": {
+                    "value": "Jack Schmulowitz Manuscript on Julius and Lilly Schmulewitz"
+                },
+                "unitdate": {
+                    "normal": "1999/1999",
+                    "type": "inclusive",
+                    "value": "1999"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 manuscript box."
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Julius Schmulewitz (1895-1966) was a member of the Bakery and Confectionary Workers International Union, Local 3. This collection contains a small biographical manuscript on Julius and Lilly Schmulewitz, written by their son Jack Schmulowitz."
+                },
+                "unitid": {
+                    "value": "WAG.287"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_8012cb63d3bba4ebdefddbeacdec9d98",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_0ac168dd09c889975626be41348895ce",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Jack Schmulowitz Manuscript on Julius and Lilly Schmulewitz; WAG 287; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_c9196d9784c2ed37bb90a9a73a1c4270",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Jack Schmulowitz in 1999. The accession number 1999.020 is associated with this gift."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_cac3cb27081c4c376f6e4fcf8f59d7e7",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Julius Schmulewitz (1895-1966) was a member of the Bakery and Confectionary Workers International Union, Local 3. Julius, and his wife Lilly Schmulewitz (1902-1968) immigrated from Poland during the 1920s. Their son, Jack Schmulowitz, wrote this biographical manuscript about their lives in 1999."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_894b2730b0349b0ec9059db714507a65",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection contains a small manuscript on Julius and Lilly Schmulewitz. The manuscript covers the lives of Julius and Lilly, and Julius's work with the Bakery and Confectionary Workers International Union, Local 3. The manuscript also contains several maps and tables."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Bakery employees |x Labor unions."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Bakery, Confectionery, and Tobacco Workers International Union. Local 3 (Long Island City, N.Y.)"
+            }
+        },
+        "dsc": {}
+    }
+}

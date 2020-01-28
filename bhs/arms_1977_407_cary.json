@@ -1,0 +1,143 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1977_407_cary"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Mary E. Cary letter\n                    \u003cnum\u003e1977.407\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "July 7, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-11T14:52-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Cary, Mary E., 1813-1877"
+                    }
+                },
+                "unittitle": {
+                    "value": "Mary E. Cary letter"
+                },
+                "unitdate": {
+                    "normal": "1848/1848",
+                    "value": "1848"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.01 Linear feet"
+                        },
+                        {
+                            "value": "in one folder."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "1977.407"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid877003",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0068"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref5",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Mary E. Cary letter, Call or Accession number, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of William H. Cary, 1954."
+            }
+        },
+        "bioghist": {
+            "id": "ref4",
+            "head": "Biographical/Historical note",
+            "p": {
+                "value": "Mary E. Cary (1813-1877) lived in Brooklyn, N.Y. with her cousin, William H. Cary, after the death of her parents. In 1848, she resided at 153 Washington Street."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "One typed transcript of a letter from Mary E. Cary to her sister in Boston, MA describing a fire that destroyed much of downtown Brooklyn on September 9, 1848. During the fire, Cary's house on Washington Street came within 200 feet of the blaze, and her cousin, William H. Cary, lost 26 houses and the Franklin Building located on Orange and Fulton Streets. The letter is dated September 17, 1848."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Fires |z New York (State) |z Kings County"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

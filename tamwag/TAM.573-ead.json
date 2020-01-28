@@ -1,0 +1,147 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "tam_573"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Preliminary Inventory to the Ivan Greenberg FBI Research Files on Labor and Radicalism\n                    \u003cnum\u003eTAM.573\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Peter Filardo"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "2/`0/2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T20:02-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Greenberg, Ivan, 1962-"
+                    }
+                },
+                "unittitle": {
+                    "value": "Ivan Greenberg FBI Research Files on Labor and Radicalism"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "2.0 linear feet"
+                        },
+                        {
+                            "value": "(2 boxes)"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "TAM.573"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref4",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open for research without restrictions."
+            }
+        },
+        "bioghist": {
+            "id": "ref3",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Ivan Greenberg is an historian and the author of \n                \u003cemph render=\"italic\"\u003eThe Dangers of Dissent: The FBI and Civil Liberties Since 1965\u003c/emph\u003e (Lexington Books, 2010)."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "Contains FBI files obtained under the Freedom of Information Act (FOIA) by Ivan Greenberg on: the Socialist Scholars Conference, the Socialist Workers Party, Dissent magazine, the Institute for Policy Studies (box 1); and Gus Hall (box 2)."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Civil rights and socialism |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Communism |z United States |y 20th century."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Domestic intelligence |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Research institutes |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialism |z United States |v Periodicals."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialism |z United States."
+                },
+                {
+                    "source": "local",
+                    "value": "Trotskyism |z United States."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "United States. Federal Bureau of Investigation."
+            }
+        },
+        "dsc": {}
+    }
+}

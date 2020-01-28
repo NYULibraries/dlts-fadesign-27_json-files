@@ -1,0 +1,162 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "tam_104"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the David Fender Papers\n                    \u003cnum\u003eTAM.104\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T17:39-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Fender, David"
+                    }
+                },
+                "unittitle": {
+                    "value": "David Fender Papers"
+                },
+                "unitdate": {
+                    "normal": "1952/1974",
+                    "type": "inclusive",
+                    "value": "1952-1974"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "3.0 linear feet"
+                        },
+                        {
+                            "value": "(3 boxes)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "U.S. Trotskyist David Fender was active in the Socialist Workers Party and a number of its political factions and offshootsFender was also secretary to Peng Shu-tse and Chen Pi-len in Paris in the 1960s. Peng was one of the founders of the Chinese Communist Party and the leader of the Trotskyist movement in China from the 1920s until the early 1950s when he and his wife, Chen Pi-len, were forced to flee the country. The collection contains Fender's correspondence with numerous Trotskyists and other leftists, including correspondence and interviews with exiled Chinese Trotskyist leaders Peng Shu-tse and Chen Pi-len. There are also manuscripts and articles, internal discussion materials from the Fourth International, internal documents and printed ephemera from various Trotskyist organizations, and audiotapes of meetings and other events of various U.S. Trotskyist organizations, including a talk by James P. Cannon."
+                },
+                "unitid": {
+                    "value": "TAM.104"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid20168001",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1-3"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref6",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open for research without restrictions."
+            }
+        },
+        "bioghist": {
+            "id": "ref4",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "U.S. Trotskyist David Fender was active in the Socialist Workers Party and a number of its political factions and offshoots; mainly the Communist Tendency, the Leninist Faction (later known as the Class Struggle League), the \n                \u003cemph render=\"italic\"\u003eVanguard Newsletter\u003c/emph\u003e and the Spartacist League. Fender was also secretary to Peng Shu-tse and Chen Pi-len in Paris in the 1960s. Peng was one of the founders of the Chinese Communist Party and the leader of the Trotskyist movement in China from the 1920s until the early 1950s when he and his wife, Chen Pi-len, also an active Trotskyist, were forced to flee the country with many of their followers after Mao Zedong's attack on the Chinese Trotskyists."
+            }
+        },
+        "scopecontent": {
+            "id": "ref3",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "PLEASE DIRECT FURTHER INQUIRIES TO: tamiment.wagner@nyu.edu"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Communism |z China."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Communism |z United States"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Communism."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Communist parties |z United States."
+                },
+                {
+                    "source": "local",
+                    "value": "Trotskyism |z China."
+                },
+                {
+                    "source": "local",
+                    "value": "Trotskyism |z United States."
+                },
+                {
+                    "source": "local",
+                    "value": "Trotskyism."
+                },
+                {
+                    "source": "local",
+                    "value": "Trotskyist parties |z United States."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Socialist Workers Party."
+            }
+        },
+        "dsc": {}
+    }
+}

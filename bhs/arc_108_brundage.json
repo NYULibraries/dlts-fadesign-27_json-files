@@ -1,0 +1,144 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arc_108_brundage"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Agnes Elizabeth Brundage diaries\n                    \u003cnum\u003eARC.108\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Weatherly Stephan"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "September 17, 2010"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-23T10:42-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Brundage, Agnes Elizabeth"
+                    }
+                },
+                "unittitle": {
+                    "value": "Agnes Elizabeth Brundage diaries"
+                },
+                "unitdate": {
+                    "normal": "1863/1865",
+                    "type": "inclusive",
+                    "value": "1863-1865"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.25 Linear feet"
+                        },
+                        {
+                            "value": "in two folders."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "ARC.108"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid436001",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "ARC.108"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref3",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref6",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Agnes Elizabeth Brundage diaries, ARC.108, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref4",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Elizabeth Tyson Winchester, 1945."
+            }
+        },
+        "bioghist": {
+            "id": "ref2",
+            "head": "Biographical note",
+            "p": {
+                "value": "Agnes Elizabeth Brundage was born in 1843 in New York City. She married Frank Story Winchester (1841-1884), a New York City lawyer, on October 8, 1866. The couple moved to Brooklyn after their wedding and had three children."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection contains two diaries, dated 1863 to 1865, as well as five pages of handwritten transcriptions of diary highlights. Also included are calling cards for Agnes Elizabeth Brundage and Mrs. Frank S. Winchester, Brundage's married name. Volume one of the diary covers 1863 to 1864, wherein Brundage discusses living in New York City, the Morrisania neighborhood of the Bronx, and a vacation to Northport, Long Island. Volume two, from 1864 to 1865, discusses vacations on Long Island and visiting a fair, possibly the Brooklyn and Long Island Fair in Aid of the U.S. Sanitary Commission of 1864."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Travel |v Anecdotes"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

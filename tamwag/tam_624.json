@@ -1,0 +1,133 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_624"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Anna and Max Sherover Scrapbooks \u003cnum\u003eTAM 624\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Rachel Schimke"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-06-28T18:22:34\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Anna and Max Sherover Scrapbooks"
+                },
+                "unitdate": {
+                    "value": "1910-1920s"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one flat box (two scrapbooks)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "TAM 624"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_f9603bcb84465d8c8bf02ca0a3fb0389",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_0fca67a65dfd56e2c58339ce27d5cd04",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Collection name; Collection number; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_ef464df76dd4d1f4ee5ba8bf893cdef7",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Vickie A. Gillio in 2012. The accession number related to this gift is 2012.076."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_f071dbbd54452d224594443b35fb2b85",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Max Sherover was a graduate of the Rand School of Social Science and the author of \"Fakes in American Journalism\" (1914). He and his wife, Anna, were actively involved in the Socialist Party during the 1910s and 1920s."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_8ebc61041e7eec877d1ff92282a4c6e4",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection consists of two scrapbooks kept by Anna and Max Sherover in the early 1900s. One focuses on the political activities of Max Sherover and to a lesser extent on the activities of Anna Sherover, his wife and \"active comrade.\" The second scrapbook contains announcements, invitations, responses, and photographs pertaining to the opening of the Granada Hotel in Brooklyn, built by Max and his brother, Miles. Also included in the collection is a flash drive containing digital copies these materials, which are in fragile condition."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Socialism -- United States -- 20th century."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialist parties -- United States."
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

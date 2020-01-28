@@ -1,0 +1,135 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1977_524_howell_jones_suydam"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Howell, Jones, and Suydam families genealogical notes\n                    \u003cnum\u003e1977.524\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "July 18, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-11T16:29-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "Howell, Jones, and Suydam families genealogical notes"
+                },
+                "unitdate": {
+                    "normal": "1900/1916",
+                    "type": "inclusive",
+                    "value": "1900-1916"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.01 Linear feet"
+                        },
+                        {
+                            "value": "in one folder."
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Four pages of handwritten genealogical notes concerning members of the Jones, Howell, and Suydam families of Brooklyn and Long Island throughout the period 1900 to 1916. The notes were found in the \n                \u003cemph render=\"italic\"\u003eBook of Common Prayer\u003c/emph\u003e of Susannah Bassett, though the author of the notes is not known."
+                },
+                "unitid": {
+                    "value": "1977.524"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid915002",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0071"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref4",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Howell, Jones, and Suydam families genealogical notes, 1977.524, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of James A. Kelly, 1964."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Families |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Families |z New York (State) |z Long Island"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Genealogy "
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

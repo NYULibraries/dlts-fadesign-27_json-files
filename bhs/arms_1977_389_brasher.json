@@ -1,0 +1,151 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1977_389_brasher"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Philip Brasher land tax receipt\n                    \u003cnum\u003e1977.389\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "July 5, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-11T14:21-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Brasher, Philip, d. 1835"
+                    }
+                },
+                "unittitle": {
+                    "value": "Philip Brasher land tax receipt"
+                },
+                "unitdate": {
+                    "normal": "1810/1810",
+                    "value": "1810"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.01 Linear feet"
+                        },
+                        {
+                            "value": "in one folder."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "1977.389"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid872007",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0068"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref4",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Philip Brasher land tax receipt, 1977.389, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref5",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Donated anonymously, 1947."
+            }
+        },
+        "bioghist": {
+            "id": "ref3",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Philip Brasher (d. 1835) was a Brooklyn resident and a member of the New York State Assembly. An 1830 city directory indicates that Brasher lived at 128 Henry Street."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "One receipt for taxes paid on land by Philip Brasher, signed by the Comptroller of New York State and dated March 30, 1810."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Property tax |z New York (State)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Public officers |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Real property |z New York (State)"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

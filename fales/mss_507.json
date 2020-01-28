@@ -1,0 +1,145 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-F",
+            "value": "mss_507"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the New York Transfer Company Records \u003cnum\u003eMSS.507\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Jasmine Larkin, 2017."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Fales Library and Special Collections"
+                },
+                "address": {
+                    "addressline": [
+                        "Fales Library and Special Collections",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "3rd Floor",
+                        "New York, NY 10012",
+                        "Phone: (212) 998-2596",
+                        "fales.library@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-12-14T14:20:24\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Fales Library and Special Collections"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "New York Transfer Company Records"
+                },
+                "unitdate": {
+                    "normal": "1853/1931",
+                    "type": "inclusive",
+                    "value": "1853-1931"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "4 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 3 record cartons and 3 custom ledger boxes"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The New York Transfer Company provided services for the transfer and transportation of baggage within New York. This collection contains company minutes ledgers, financial ledgers, and one stock ledger. The ledgers document company meeting minutes, reports, customer and vendor accounts, financial information, and stock information. The ledgers date from 1853 to 1931."
+                },
+                "unitid": {
+                    "value": "MSS.507"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_e31810366303f84be47b5269900452cc",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_a36a8d814227aa9aa5aa226287aab0e1",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; New York Transfer Company Records; MSS 507; box number; folder number; Fales Library and Special Collections, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_6f94343053dcf80ae54d34c9b29b5d00",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials found in collection; provenance is unknown."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_bfc1a279e1ca7f9ab417f0808d5ac2fa",
+            "head": "Historical Note",
+            "p": {
+                "value": "The New York Transfer Company was based in New York City and provided services for the transfer and transportation of baggage within New York. Services included pickup and delivery of customers' baggage to and from hotels, train stations, and ports."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_2c3562adcdbaf6ad9c4595ff47585882",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection contains ledgers created by the New York Transfer Company. Minutes ledgers contain board of managers meeting minutes, earnings and expenses statements, committee reports and appointments, and annual reports of the president, treasurer, and auditor. Financial ledgers contain account information for customers and vendors. The stock ledger records the purchase and sale of shares by shareholders. The ledgers date from 1853 to 1931."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Carriers -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Luggage."
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_5192b3ea487d605532731ff17a44eb92\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMinutes ledger\u003c/unittitle\u003e\u003cunitdate normal=\"1870/1873\" type=\"inclusive\"\u003e1870-1873\u003c/unitdate\u003e\u003ccontainer id=\"aspace_8cbc77ebd80fbe8e8b756796987b4179\" label=\"Mixed Materials (31142063426863)\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_509023c14debc1f276e1fe2d6ace304c\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMinutes ledger\u003c/unittitle\u003e\u003cunitdate normal=\"1871/1874\" type=\"inclusive\"\u003e1871-1874\u003c/unitdate\u003e\u003ccontainer id=\"aspace_780ffba8dc10e3f3b16e6fcaed43ff2b\" label=\"Mixed Materials (31142063426863)\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_cd32ace13ef4712ec49808a0fa9ac51e\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMinutes ledger\u003c/unittitle\u003e\u003cunitdate normal=\"1873/1874\" type=\"inclusive\"\u003e1873-1874\u003c/unitdate\u003e\u003ccontainer id=\"aspace_29fe17e1a3573c51c5df0f5da76d43e7\" label=\"Mixed Materials (31142063426863)\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_aa4c52e6b429f3cee68f191504efc889\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMinutes ledger\u003c/unittitle\u003e\u003cunitdate normal=\"1876/1888\" type=\"inclusive\"\u003e1876-1888\u003c/unitdate\u003e\u003ccontainer id=\"aspace_79587d99a7f86999b4b0c3e786976334\" label=\"Mixed Materials (31142063426871)\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_6403b36240b190aa88e178cc3a2e45c2\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMinutes ledger\u003c/unittitle\u003e\u003cunitdate normal=\"1889/1895\" type=\"inclusive\"\u003e1889-1895\u003c/unitdate\u003e\u003ccontainer id=\"aspace_8411d159cff6f7d3c71e04b696d48582\" label=\"Mixed Materials (31142063426871)\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_8ff14e670209815bef98d0e5a1f0eb99\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMinutes ledger\u003c/unittitle\u003e\u003cunitdate normal=\"1896/1902\" type=\"inclusive\"\u003e1896-1902\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f548fa207f96700ecc689151123ce969\" label=\"Mixed Materials (31142063426871)\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_6841a1e6b04326dc0481eaaaa785d31d\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMinutes ledger\u003c/unittitle\u003e\u003cunitdate normal=\"1902/1907\" type=\"inclusive\"\u003e1902-1907\u003c/unitdate\u003e\u003ccontainer id=\"aspace_bf18b4d424f31b04a8f1f967c28c8bc4\" label=\"Mixed Materials (31142063426871)\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_9422cdcc412872f9c2cf0a903b6182e5\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMinutes ledger\u003c/unittitle\u003e\u003cunitdate normal=\"1908/1917\" type=\"inclusive\"\u003e1908-1917\u003c/unitdate\u003e\u003ccontainer id=\"aspace_fe7af6b984b1cd63fb26c34700e533db\" label=\"Mixed Materials (31142063426889)\" type=\"Box\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_022e3886bc566d3f8ab8ccbdfb222835\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMinutes ledger\u003c/unittitle\u003e\u003cunitdate normal=\"1915/1931\" type=\"inclusive\"\u003e1915-1931\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a69d7dfab87f6e24f21e9a4b8646ed3e\" label=\"Mixed Materials (31142063426889)\" type=\"Box\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_c36bea965ccbcd2e29acf322b5341554\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFinancial ledger\u003c/unittitle\u003e\u003cunitdate normal=\"1853/1867\" type=\"inclusive\"\u003e1853-1867\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c66c484f18de45e39d937304c028ce18\" label=\"Mixed Materials (31142063426889)\" type=\"Box\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_939af8c0fd3917818219db1727a4b4a7\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFinancial ledger\u003c/unittitle\u003e\u003cunitdate normal=\"1878/1896\" type=\"inclusive\"\u003e1878-1896\u003c/unitdate\u003e\u003ccontainer id=\"aspace_74a2fb5b4a42f0b6ccd7c915a49ea846\" label=\"Mixed Materials (31142063426830)\" type=\"Box\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_22de1e130d9f358aef4c655561fe5336\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFinancial ledger\u003c/unittitle\u003e\u003cunitdate normal=\"1880/1921\" type=\"inclusive\"\u003e1880-1921\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7862aba20f81a97ef0a17cbe889c56bc\" label=\"Mixed Materials (31142063426855)\" type=\"Box\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_112debe82694afa1fb39f11f8a356420\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFinancial ledger\u003c/unittitle\u003e\u003cunitdate normal=\"1916/1921\" type=\"inclusive\"\u003e1916-1921\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e4cf39709c7f22c2739b9a8468e9bc80\" label=\"Mixed Materials (31142063426848)\" type=\"Box\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_b7055d91e933fef7e3fda927cff17df8\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eStock ledger\u003c/unittitle\u003e\u003cunitdate normal=\"1870/1918\" type=\"inclusive\"\u003e1870-1918\u003c/unitdate\u003e\u003ccontainer id=\"aspace_11fe50e14161d3cf0e0098537c308c5e\" label=\"Mixed Materials (31142063426863)\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

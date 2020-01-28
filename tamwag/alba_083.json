@@ -1,0 +1,104 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "alba_083"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Marion M. Noble Papers \u003cnum\u003eALBA.083\u003c/num\u003e"
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-08-07T19:25:40\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Noble, Marion M., 1911-2002"
+                    }
+                },
+                "unittitle": {
+                    "value": "Marion M. Noble Papers"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "ALBA.083"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_8953753fdc97d4d322512d6d7fb72abd",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open to researchers. Please contact the Tamiment Library \u0026amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_19b795d6e0017e39d844c3c37bb6c759",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Marion M. Noble was born in Arkansas and grew up in dire poverty. As an outgrowth of political consciousness acquired at Commonwealth College (Mena, Arkansas), he became a volunteer in the Spanish Civil War and served in the Abraham Lincoln Brigade. The collection consists of a copy of a typescript autobiography covering the period from his childhood through his return from Spain to New York City in December 1938, as well as his father's life as a railroad laborer and tales of Arkansas life."
+            }
+        },
+        "dsc": {}
+    }
+}

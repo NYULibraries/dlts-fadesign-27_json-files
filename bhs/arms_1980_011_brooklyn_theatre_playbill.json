@@ -1,0 +1,138 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1980_011_brooklyn_theatre_playbill"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Brooklyn Theatre playbill\n                    \u003cnum\u003e1980.011\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Matthew Gorham"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "August 10, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-18T15:10-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Brooklyn Theatre playbill"
+                },
+                "unitdate": {
+                    "normal": "1867/1887",
+                    "type": "inclusive",
+                    "value": "circa 1877"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.06 Linear feet"
+                        },
+                        {
+                            "value": "in one folder"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "A newspaper copy of the original playbill for \"The Two Orphans\" at the Brooklyn Theatre. The Brooklyn Theatre fire of December 5, 1876 killed 300 people during a performance of \"The Two Orphans.\""
+                },
+                "unitid": {
+                    "value": "1980.011"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid972003",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0093"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref4",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Brooklyn Theatre playbill, 1980.011, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Source and date of acquisition unknown. The item was formally accessioned in 1980."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Performing arts |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Theater |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Brooklyn Theatre (Theater company : New York, N.Y.)."
+            }
+        },
+        "dsc": {}
+    }
+}

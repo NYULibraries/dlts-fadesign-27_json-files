@@ -1,0 +1,151 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_008"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the George D. Herron Papers \u003cnum\u003eTAM.008\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment Staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-03-06T16:19:23\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Herron, George Davis, 1862-1925"
+                    }
+                },
+                "unittitle": {
+                    "value": "George D. Herron Papers"
+                },
+                "unitdate": {
+                    "normal": "1905/1922",
+                    "type": "inclusive",
+                    "value": "1905-1922"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 half manuscript box."
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "George D. Herron was at one time a Christian Socialist minister, a founder of the Rand School of Social Science, a member of the Socialist Party, and the author of books and pamphlets on social and religious issues. The Papers contain his correspondence with leading U.S. socialists and others."
+                },
+                "unitid": {
+                    "value": "TAM.008"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_317a8490315f632191effae70c80d51c",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_bfc6149d15a8aac495c6b63b33bd065c",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; George D. Herron Papers; TAM 008; box number; folder number or item identifier; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_a4337bfb10d1a79460bc547688aaf410",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials found in repository. There is no documentation concerning the provenance of these materials. The accession number associated with this collection is 1974.013."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_e0d0bfd7827f5bf68cc67b6e08216ae4",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Adverse public reaction to George D. Herron's divorce and his subsequent remarriage to Carrie Rand Herron had led the couple to move to Florence, Italy, where Carrie raised their two children and where she died in 1914, while Herron pursued an active writing and public speaking career until his death in 1925. With the outbreak of World War I, Herron broke with the pacifist wing of the socialist movement and relocated to Geneva because Switzerland was not a combatant state. He soon became employed by the U.S. State Department as a secret negotiator and an unofficial diplomatic adviser, keeping in close contact with British and American foreign offices. He worked with Colonel House, President Wilson's close adviser, in Paris during the negotiations that led to the Versailles Treaty, and was one of the two Americans appointed by Wilson as delegates to the Prinkipo conference."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_1eac6bc315b81bcb001823d84209a60d",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The only items which were not filmed in this collection were two photostat copies of articles written by George D. Herron."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Socialism -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "World War, 1914-1918 -- United States."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Rand School of Social Science"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref12\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"69969\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e69969\u003c/unitid\u003e\u003cunitdate normal=\"1905/1905\" type=\"inclusive\"\u003e1905\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_1fa8ee74edf5535b4691bb31d83fab0e\" label=\"Mixed Materials [31142063266269]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1fa8ee74edf5535b4691bb31d83fab0e\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_04fd12a8f720c9275243e850960fa8e3\"\u003e\u003chead\u003eGeneral note\u003c/head\u003e\u003cp\u003eFilm R-7124, Reel 57\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"69968\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e69968\u003c/unitid\u003e\u003cunitdate normal=\"1909/1909\" type=\"inclusive\"\u003e1909\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_de8f4b7c106f4b03cb4887a6ada2f3db\" label=\"Mixed Materials [31142063266269]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_de8f4b7c106f4b03cb4887a6ada2f3db\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_3b22cd5ddb939d17afb42cf70a864f53\"\u003e\u003chead\u003eGeneral note\u003c/head\u003e\u003cp\u003eFilm R-7124, Reel 57\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"69967\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e69967\u003c/unitid\u003e\u003cunitdate normal=\"1911/1911\" type=\"inclusive\"\u003e1911\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_1f8ff4b0634c91400ffbc7954fcb0759\" label=\"Mixed Materials [31142063266269]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1f8ff4b0634c91400ffbc7954fcb0759\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_c6162cb90a9b649305ca3025789f5c3e\"\u003e\u003chead\u003eGeneral note\u003c/head\u003e\u003cp\u003eFilm R-7124, Reel 57\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"69966\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e69966\u003c/unitid\u003e\u003cunitdate normal=\"1912/1912\" type=\"inclusive\"\u003e1912\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_b81d40d0f1eaf63ee87d12b477f8a85e\" label=\"Mixed Materials [31142063266269]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b81d40d0f1eaf63ee87d12b477f8a85e\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_f1992bb30f2baf9fe11a2f058dd3d359\"\u003e\u003chead\u003eGeneral note\u003c/head\u003e\u003cp\u003eFilm R-7124, Reel 57\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"69965\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e69965\u003c/unitid\u003e\u003cunitdate normal=\"1914/1914\" type=\"inclusive\"\u003e1914\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_1ee67c674ffc58da1f9f0471b26ba4f5\" label=\"Mixed Materials [31142063266269]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1ee67c674ffc58da1f9f0471b26ba4f5\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_f7421219693dd85557d16991a1f1d979\"\u003e\u003chead\u003eGeneral note\u003c/head\u003e\u003cp\u003eFilm R-7124, Reel 57\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"69964\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e69964\u003c/unitid\u003e\u003cunitdate normal=\"1915/1915\" type=\"inclusive\"\u003e1915\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_bd19fa14752fed84250a456a60288d1c\" label=\"Mixed Materials [31142063266269]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_bd19fa14752fed84250a456a60288d1c\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_33fe623f1ce5d4dfb5afbd36a7e8dda8\"\u003e\u003chead\u003eGeneral note\u003c/head\u003e\u003cp\u003eFilm R-7124, Reel 57\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"69963\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e69963\u003c/unitid\u003e\u003cunitdate normal=\"1916/1916\" type=\"inclusive\"\u003e1916\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_11d3fe35b4763e4fd25d4d926a9fbf0a\" label=\"Mixed Materials [31142063266269]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_11d3fe35b4763e4fd25d4d926a9fbf0a\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_4253bed7831ace2847897ccaa7e358b9\"\u003e\u003chead\u003eGeneral note\u003c/head\u003e\u003cp\u003eFilm R-7124, Reel 57\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003cc id=\"aspace_ref26\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"69962\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e69962\u003c/unitid\u003e\u003cunitdate normal=\"1917/1917\" type=\"inclusive\"\u003e1917\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_249d0a01d228e3a812e78e3e55d2420f\" label=\"Mixed Materials [31142063266269]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_249d0a01d228e3a812e78e3e55d2420f\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_be4f0b999a3aa27b24210e92c394ff80\"\u003e\u003chead\u003eGeneral note\u003c/head\u003e\u003cp\u003eFilm R-7124, Reel 57\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003cc id=\"aspace_ref28\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"69961\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e69961\u003c/unitid\u003e\u003cunitdate normal=\"1919/1919\" type=\"inclusive\"\u003e1919\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_10b88ade71e91fc449653e9ff8a8f0c4\" label=\"Mixed Materials [31142063266269]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_10b88ade71e91fc449653e9ff8a8f0c4\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_f5c67322dc482c62510f9fad6412ac67\"\u003e\u003chead\u003eGeneral note\u003c/head\u003e\u003cp\u003eFilm R-7124, Reel 57\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003cc id=\"aspace_ref30\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"69960\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e69960\u003c/unitid\u003e\u003cunitdate normal=\"1920/1920\" type=\"inclusive\"\u003e1920\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_d84da2d8a23579f2f6750b62a3d48120\" label=\"Mixed Materials [31142063266269]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d84da2d8a23579f2f6750b62a3d48120\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_6fc039cc12ad3affb28c2ce94654abcf\"\u003e\u003chead\u003eGeneral note\u003c/head\u003e\u003cp\u003eFilm R-7124, Reel 57\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003cc id=\"aspace_ref32\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"69959\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e69959\u003c/unitid\u003e\u003cunitdate normal=\"1921/1921\" type=\"inclusive\"\u003e1921\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_7bd57e76996e3ef1c508f2d9d3c87334\" label=\"Mixed Materials [31142063266269]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_7bd57e76996e3ef1c508f2d9d3c87334\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_9b85ed6ef5694201149f0131bca90142\"\u003e\u003chead\u003eGeneral note\u003c/head\u003e\u003cp\u003eFilm R-7124, Reel 57\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003cc id=\"aspace_ref34\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"69958\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e69958\u003c/unitid\u003e\u003cunitdate normal=\"1922/1922\" type=\"inclusive\"\u003e1922\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_204cdcb8a701b5f9bd2a25ddfc9646c6\" label=\"Mixed Materials [31142063266269]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_204cdcb8a701b5f9bd2a25ddfc9646c6\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_023bd680984eee9dde581b5cf3797d5d\"\u003e\u003chead\u003eGeneral note\u003c/head\u003e\u003cp\u003eFilm R-7124, Reel 57\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e"
+        }
+    }
+}

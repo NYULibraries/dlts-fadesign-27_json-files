@@ -1,0 +1,141 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "timeincrg31"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Time Inc. Annual Reports \u003clb/\u003e1922-2013, undated \u003clb/\u003e \u003cnum\u003eMS 3009-RG 31\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Finding aid prepared by Holly Deakyne and Samantha Brown"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-11-27T14:55:40\u003c/date\u003e"
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Time Inc. Annual Reports"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "1922-2016"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "8 Linear feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 8 record cartons"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Time Inc. Annual Reports includes annual reports for Time Inc. and later Time Warner Inc. after the merger in 1989; and annual reports from America Online, Inc. (AOL) sent to the library for use as reference at the time of that merger."
+                },
+                "unitid": {
+                    "value": "MS 3009-RG 31"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_5a337952e2926cde432cc672c7b87f3b",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open to qualified researchers. Materials are stored offsite and advance notice is required for use."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_8620445d25e7308868985365bce5e8ff",
+            "head": "Preferred Citation Note",
+            "p": {
+                "value": "This record group should be cited as Time Inc. Annual Reports, MS 3009-RG 31, New-York Historical Society."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_81ff68195a0581c4773dd6d045cc85cc",
+            "head": "Scope and Contents Note",
+            "p": {
+                "value": "Time Inc. Annual Reports includes annual reports for Time Inc. and later Time Warner Inc. after the merger in 1989. America Online, Inc. (AOL) includes reports sent to the library for use as reference at the time of that merger. Annual reports may include accompanying financial reports, fact books, or \u003ctitle render=\"italic\"\u003eYear in Review\u003c/title\u003e books. Gaps in Time Inc. annual reports Annual Reports missing from Time Inc. are 2008 to 2009, 2011 to 2012, and 2014."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Corporations -- New York (State)  -- New York. "
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Corporations -- History"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Publishers and publishing -- New York (State)  -- New York. "
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Time, inc. -- History"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref16_shl\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTime Inc. Annual Reports\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"216541\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e216541\u003c/unitid\u003e\u003cunitdate normal=\"1922/1970\" type=\"inclusive\"\u003e1922-1970\u003c/unitdate\u003e\u003ccontainer id=\"aspace_da07f6b551c24685e40845445948fe4c\" label=\"Mixed Materials\" type=\"Offsite-Box\"\u003e656\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17_wss\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTime Inc. Annual Reports\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"216540\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e216540\u003c/unitid\u003e\u003cunitdate normal=\"1971/1988\" type=\"inclusive\"\u003e1971-1988\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7cb9fbb2aa0cf82711b14b35f89f272a\" label=\"Mixed Materials\" type=\"Offsite-Box\"\u003e657\u003c/container\u003e\u003ccontainer parent=\"aspace_7cb9fbb2aa0cf82711b14b35f89f272a\" type=\"Folder\"\u003e1-10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18_r8k\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTime Inc. Annual Reports\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"216539\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e216539\u003c/unitid\u003e\u003cunitdate normal=\"1924/1946\" type=\"inclusive\"\u003e1924-1946\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2df71cc8de687aea087cb09939b302d7\" label=\"Mixed Materials\" type=\"Offsite-Box\"\u003e657\u003c/container\u003e\u003ccontainer parent=\"aspace_2df71cc8de687aea087cb09939b302d7\" type=\"Folder\"\u003e11-12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19_anb\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTime Inc. Annual Reports\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"216538\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e216538\u003c/unitid\u003e\u003cunitdate normal=\"1947/1967\" type=\"inclusive\"\u003e1947-1967\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1e6b77d55edf42ee37a3ff115c112801\" label=\"Mixed Materials\" type=\"Offsite-Box\"\u003e658\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20_4tb\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTime Inc. Annual Reports\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"216537\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e216537\u003c/unitid\u003e\u003cunitdate normal=\"1968/1981\" type=\"inclusive\"\u003e1968-1981\u003c/unitdate\u003e\u003ccontainer id=\"aspace_aa84152353ff21f73cc65447d7aecd69\" label=\"Mixed Materials\" type=\"Offsite-Box\"\u003e659\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21_76l\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTime Inc. Annual Reports\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"216536\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e216536\u003c/unitid\u003e\u003cunitdate normal=\"1982/1991\" type=\"inclusive\"\u003e1982-1991\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f580b9755cdb349c58c00cbdbe4c830e\" label=\"Mixed Materials\" type=\"Offsite-Box\"\u003e660\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22_as5\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTime Inc. Annual Reports\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"216535\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e216535\u003c/unitid\u003e\u003cunitdate normal=\"1991/1998\" type=\"inclusive\"\u003e1991-1998\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ec1057dc1c1a70b49ce43e4cdd68f56f\" label=\"Mixed Materials\" type=\"Offsite-Box\"\u003e661\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23_o65\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTime Inc. Annual Reports\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"216534\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e216534\u003c/unitid\u003e\u003cunitdate normal=\"1998/2004\" type=\"inclusive\"\u003e1998-2004\u003c/unitdate\u003e\u003ccontainer id=\"aspace_fcaf51104f81b70d5e636ead52b716d2\" label=\"Mixed Materials\" type=\"Offsite-Box\"\u003e662\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24_6fb\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTime Inc. Annual Reports\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"216533\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e216533\u003c/unitid\u003e\u003cunitdate normal=\"2004/2007\" type=\"inclusive\"\u003e2004-2007\u003c/unitdate\u003e\u003ccontainer id=\"aspace_052ddfaf1f0dbb6272f048d4257f3df8\" label=\"Mixed Materials\" type=\"Offsite-Box\"\u003e663\u003c/container\u003e\u003ccontainer parent=\"aspace_052ddfaf1f0dbb6272f048d4257f3df8\" type=\"Folder\"\u003e1-7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25_suv\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTime Inc. Annual Reports\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"216532\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e216532\u003c/unitid\u003e\u003cunitdate normal=\"2010/2010\" type=\"inclusive\"\u003e2010\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4700a9d45e9ad66492aab513dbac2239\" label=\"Mixed Materials\" type=\"Offsite-Box\"\u003e663\u003c/container\u003e\u003ccontainer parent=\"aspace_4700a9d45e9ad66492aab513dbac2239\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref26_4au\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTime Inc. Annual Reports\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"216531\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e216531\u003c/unitid\u003e\u003cunitdate normal=\"2013/2013\" type=\"inclusive\"\u003e2013\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f173f5df37c0a13d81764ed04ffa85b6\" label=\"Mixed Materials\" type=\"Offsite-Box\"\u003e663\u003c/container\u003e\u003ccontainer parent=\"aspace_f173f5df37c0a13d81764ed04ffa85b6\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_dc5825b1becc032f8f1a04a53542fb7d\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTime Inc. Annual Reports\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e2015\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9052a54327774323beb3c6de202f0d47\" label=\"Mixed Materials\" type=\"Offsite-Box\"\u003e663\u003c/container\u003e\u003ccontainer parent=\"aspace_9052a54327774323beb3c6de202f0d47\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_e68ad338b72e4f85e3cc2331387b310e\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTime Inc. Annual Reports\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e2016\u003c/unitdate\u003e\u003ccontainer id=\"aspace_278f3ab3be34536a0e3a2a6f5fcd06e6\" label=\"Mixed Materials\" type=\"Offsite-Box\"\u003e663\u003c/container\u003e\u003ccontainer parent=\"aspace_278f3ab3be34536a0e3a2a6f5fcd06e6\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27_j69\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAmerica Online, Inc. Annual Reports\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"216530\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e216530\u003c/unitid\u003e\u003cunitdate normal=\"1992/2000\" type=\"inclusive\"\u003e1992-2000\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4f1efa7af518ffe84eaedbb4b2c3540b\" label=\"Mixed Materials\" type=\"Offsite-Box\"\u003e663\u003c/container\u003e\u003ccontainer parent=\"aspace_4f1efa7af518ffe84eaedbb4b2c3540b\" type=\"Folder\"\u003e12-13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

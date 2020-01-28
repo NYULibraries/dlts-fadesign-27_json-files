@@ -1,0 +1,155 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_217"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Theodore Schapiro Papers and Photographs \u003cnum\u003eTAM 217\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-02T19:32:57\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Theodore Schapiro Papers and Photographs"
+                },
+                "unitdate": {
+                    "normal": "1913/1956",
+                    "type": "inclusive",
+                    "value": "1913-1956"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one manuscript box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Theodore Schapiro (1898-1998), was a political activist and the last director of the Rand School of Social Science (1943-56). This collection consists of biographical matter, business correspondence (including several letters from Norman Thomas, and individual letters from Erich Fromm, Nina Hillquit, and Sidney Hook), documents from the Rand School's Institute of Social Studies, and photographs. "
+                },
+                "unitid": {
+                    "value": "TAM 217"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_4b9e7cb60cb2dce9fa4c3b5e0bc40548",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_52747731b412c53bf6721989c3e0e0a9",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Theodore Schapiro Papers and Photographs; TAM 217; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_fa4af0e7def3c73dda34737e9f7b2538",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials were donated by Ted and Miram Schapiro in circa 1998. The accession numbers associated with this gift are 1999.023 and NPA.1999.017."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_e78d4fc494bee047b9887190434a075d",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Theodore Schapiro (1898-1998) was a political activist and the last director of the Rand School of Social Science (1943-56). His early training in art and industrial design at Cooper Union, the Art Students' League, and the Beaux Arts Institute of Design led to a career in industrial design. He joined the Socialist Party early in his life and assisted in planning the Party's platform for Norman Thomas' presidential bid in 1940. He served as an organizer for the Textile Workers Union as well as other unions, and he taught adult education classes for them and for the International Ladies' Garment Workers Union.  During the 1930s he was employed by the Works Progress Administration's Federal Arts Project."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_8143edaccbb4b6ef3bb6f2538f7383c4",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection consists of biographical matter, business correspondence (including several letters from Norman Thomas, and individual letters from Erich Fromm, Nina Hillquit, and Sidney Hook), documents from the Rand School's Institute of Social Studies, and photographs."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Jewish socialists -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialists -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialism -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Working class |x Education |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Adult education -- New York (State) -- New York."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Rand School of Social Science. Institute of Social Studies"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref3\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003ePapers\u003c/unittitle\u003e\u003cunitdate normal=\"1913/1956\" type=\"inclusive\"\u003e1913-1956\u003c/unitdate\u003e\u003c/did\u003e\u003cc id=\"aspace_ref5\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBiographical\u003c/unittitle\u003e\u003cunitdate normal=\"1913/1935\" type=\"inclusive\"\u003e1913-1935\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d3592f06b641711ff0a26f122db5b047\" label=\"Text\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d3592f06b641711ff0a26f122db5b047\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref6\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"The Commie's Lament or, Custer's Last Stand\" (poem/lyrics?)\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_8417e62417e8bc5d8f9f8a3b5932c270\" label=\"Text\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_8417e62417e8bc5d8f9f8a3b5932c270\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref7\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\u003cunitdate normal=\"1931/1956\" type=\"inclusive\"\u003e1931-1956\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e6fbe51d2ae2133b4667af836664d660\" label=\"Text\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e6fbe51d2ae2133b4667af836664d660\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref8\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePrinted Ephmera, Miscellaneous\u003c/unittitle\u003e\u003cunitdate normal=\"1936/1964\" type=\"inclusive\"\u003ecirca 1936, 1957, 1964, undated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2cea38d3eb401ce1543970cf5628d42a\" label=\"Text\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2cea38d3eb401ce1543970cf5628d42a\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRand School of Social Science/Institute ot Social Studies\u003c/unittitle\u003e\u003cunitdate normal=\"1954/1955\" type=\"inclusive\"\u003e1954-1955\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4d233131d7884641b8579b7799ea8f8a\" label=\"Text\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_4d233131d7884641b8579b7799ea8f8a\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eWPA - Federal Art Project\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1938\" type=\"inclusive\"\u003e1937-1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5b19fe871a97acf71cc233584e78dc69\" label=\"Text\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5b19fe871a97acf71cc233584e78dc69\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref4\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003ePhotographs\u003c/unittitle\u003e\u003cunitdate normal=\"1914/1954\" type=\"inclusive\"\u003e1914-circa 1959\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_b8c32e6973371fc2db46accf8b9527b4\"\u003e\u003chead\u003eScope and Content Note\u003c/head\u003e\u003cp\u003eFifty-six black and white photographs, including a few portraits of Schapiro and of Schapiro speaking, events at the Rand School of Social Science (classroom and lecture images; individuals include Sidney Hook), and Socialist Party-related events.  The latter images include what appear to be campaign workers for one or more of Meyer London's campaigns for Congress for New York State's 12th congressional district (between 1914 and 1920), with an interior splashed with Socialist Party campaign posters; one image includes London himself.\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_ref10\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTheodore Schapiro - Portraits\u003c/unittitle\u003e\u003cunitdate normal=\"1920/1929\" type=\"inclusive\"\u003ecirca 1920-1929\u003c/unitdate\u003e\u003ccontainer id=\"aspace_3bd2f58a55f201bef1daa63e65933dd3\" label=\"Photographs\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_3bd2f58a55f201bef1daa63e65933dd3\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref11\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRand School of Social Science\u003c/unittitle\u003e\u003cunitdate normal=\"1940/1954\" type=\"inclusive\"\u003ecirca 1940-circa 1954\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7df9de89c6efa4d0766c0a28a6b840d0\" label=\"Photographs\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_7df9de89c6efa4d0766c0a28a6b840d0\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref12\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSocialist Party\u003c/unittitle\u003e\u003cunitdate normal=\"1914/1940\" type=\"inclusive\"\u003ecirca 1914-circa 1940\u003c/unitdate\u003e\u003ccontainer id=\"aspace_46145dbd1941f7ea2be36c7c7bc62eee\" label=\"Photographs\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_46145dbd1941f7ea2be36c7c7bc62eee\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref13\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eUnidentified Events\u003c/unittitle\u003e\u003cunitdate normal=\"1940/1959\" type=\"inclusive\"\u003ecirca 1940-1959\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1c0d15e65e25619be65f9d7b8e8743d7\" label=\"Photographs\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1c0d15e65e25619be65f9d7b8e8743d7\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

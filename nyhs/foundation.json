@@ -1,0 +1,136 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "foundation"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Foundation Company Construction Photographs\n                    \u003clb/\u003e (1906–1911)\n                    \u003clb/\u003e\n                    \u003cnum\u003ePR 336\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Joseph Ditta, August 2017"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "© 2011 New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                },
+                "date": "August 2017"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2017-08-30T15:23-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "© 2011 New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "ingest",
+                        "value": "Wurts Bros., photographer"
+                    }
+                },
+                "unittitle": {
+                    "value": "Foundation Company construction photographs"
+                },
+                "unitdate": {
+                    "value": "1906–1911"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.66 Linear feet"
+                        },
+                        {
+                            "value": "(1 box)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Five mounted photographs documenting building construction projects of the Foundation Company, headquartered at 115 Broadway, New York, N.Y."
+                },
+                "unitid": {
+                    "value": "PR 336"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref2",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Photocopying undertaken by staff only. Limited to twenty exposures of stable, unbound material per day. (Researchers may not accrue unused copy amounts from previous days.)"
+            }
+        },
+        "prefercite": {
+            "id": "ref4",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "This collection should be cited as the \n                \u003cemph render=\"bold\"\u003eFoundation Company Construction Photographs, PR 336, Department of Prints, Photographs, and Architectural Collections, The New-York Historical Society\u003c/emph\u003e."
+            }
+        },
+        "acqinfo": {
+            "id": "ref5",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Gift of Katie Huxford, 2016. These photographs descended to the donor from her paternal grandfather, an Irish immigrant pipefitter, whom she believes worked for the Foundation Company or the George A. Fuller Company."
+            }
+        },
+        "bioghist": {
+            "id": "ref7",
+            "head": "Historical Note",
+            "p": {
+                "value": "The Foundation Company, headquartered in the early twentieth century at 115 Broadway (with branch offices in Chicago, New Orleans, and Montreal), specialized in constructing building foundations by “pneumatic caissons, open caissons, sheet-piling (either wood or steel), concrete piles, hollow steel pipe filled with concrete, wooden piles, cofferdams, and various other approved methods.” The roster of their projects in the 1913 issue of \n                \u003cemph render=\"italic\"\u003e\n                    \u003cextref ns2:href=\"https://books.google.com/books?id=-X9NAAAAYAAJ\u0026amp;pg=RA1-PA33\u0026amp;dq=%22Foundation+Company%22+%22115+Broadway%22\u0026amp;hl=en\u0026amp;sa=X\u0026amp;ved=0ahUKEwiQm4f7lv3VAhVIxYMKHQ8xA1YQ6AEIJjAA#v=onepage\u0026amp;q=%22Foundation%20Company%22%20%22115%20Broadway%22\u0026amp;f=true\"\u003eSweet’s Catalogue of Building Construction, Architects and Builders Edition\u003c/extref\u003e\u003c/emph\u003e includes many prominent Manhattan structures, among them the Standard Oil Building (26 Broadway), Wall Street Exchange (43 Exchange Place), Western Union Building (Broadway and Dey Street), Municipal Building (1 Centre Street), U.S. Realty and Trinity Buildings (115 and 111 Broadway), and the Woolworth Building (233 Broadway). For more on the Foundation Company’s role in constructing the latter, see Gail Fenske, \n                \u003cemph render=\"italic\"\u003e\n                    \u003cextref ns2:href=\"https://library.nyu.edu/persistent/lcn/nyu_aleph003101421?institution=NYU\u0026amp;persistent\"\u003eThe Skyscraper and the City: The Woolworth Building and the Making of Modern New York\u003c/extref\u003e\u003c/emph\u003e (Chicago: University of Chicago Press, 2008)."
+            }
+        },
+        "scopecontent": {
+            "id": "ref8",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection contains five mounted construction photographs. The locations of only two sites are positively identified: the Trinity Building (111 Broadway; see Folder 1) and the Woolworth Building’s engine room (233 Broadway; see Folder 4). Only two of the images bear photographer’s imprints on the reverse: Wurts Bros. of New York took the Woolworth Building engine room view (Folder 4), and the Chicago Architectural Photographing Co. took the unidentified view that possibly shows construction of the Chicago and Northwestern Terminal (now called Ogilvie Transportation Center) in Chicago (Folder 2). The Foundation Company worked on the Chicago and Northwestern Terminal for George A. Fuller Company, Builders, whose sign appears in the lower right corner of the photograph."
+            }
+        },
+        "controlaccess": {
+            "corpname": {
+                "source": "local",
+                "value": "Foundation Company."
+            }
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref11\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eTrinity Building (111 Broadway, New York, N.Y.)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3133001\" type=\"Folder\" label=\"Graphic materials\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1906 August 11\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref12\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eunidentified\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3133002\" type=\"Folder\" label=\"Graphic materials\"\u003e2\u003c/container\u003e\n                    \u003cunitdate\u003e1909 January 9\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref13\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003ePossibly Chicago and Northwestern Terminal (Chicago, Illinois). Imprint on verso for Chicago Architectural Photographing Co.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref14\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eunidentified\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3133004\" type=\"Folder\" label=\"Graphic materials\"\u003e3\u003c/container\u003e\n                    \u003cunitdate\u003e[1909]\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref18\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003eMen posed around a building cornerstone dated MCMIX (1909).\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref15\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eWoolworth Building (233 Broadway, New York, N.Y.) engine room\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3133003\" type=\"Folder\" label=\"Graphic materials\"\u003e4\u003c/container\u003e\n                    \u003cunitdate\u003e1911 May 6\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref16\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003eImprint on verso for Wurts Bros. Architectural Photographers.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref17\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eunidentified\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3133005\" type=\"Folder\" label=\"Graphic materials\"\u003e5\u003c/container\u003e\n                    \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

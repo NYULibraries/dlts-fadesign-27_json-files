@@ -1,0 +1,154 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1973_219_victor_m_drake"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Victor M. Drake papers on the U.S.S. Monitor\n                    \u003cnum\u003e1973.219\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Matthew Gorham"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "April 21, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-05-01T15:21-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Drake, Victor M."
+                    }
+                },
+                "unittitle": {
+                    "value": "Victor M. Drake papers on the U.S.S. Monitor"
+                },
+                "unitdate": {
+                    "normal": "1851/1964",
+                    "type": "inclusive",
+                    "value": "circa 1861 to 1954"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.08 Linear feet"
+                        },
+                        {
+                            "value": "in one folder"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "1973.219"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid740001",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0009"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref4",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref6",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Victor M. Drake papers on the U.S.S. Monitor, 1973.219, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref5",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Victor M. Drake, 1954."
+            }
+        },
+        "bioghist": {
+            "id": "ref3",
+            "head": "Historical note",
+            "p": {
+                "value": "Constructed at the Continental Iron Works in the Greenpoint neighborhood of Brooklyn, the \n                \u003cemph render=\"italic\"\u003eU.S.S. Monitor\u003c/emph\u003e was the first ironclad warship commissioned by the United States Navy during the American Civil War. The \n                \u003cemph render=\"italic\"\u003eMonitor\u003c/emph\u003e is most famous for its battle against the ship \n                \u003cemph render=\"italic\"\u003eVirginia\u003c/emph\u003e (formerly the \n                \u003cemph render=\"italic\"\u003eC.S.S. Merrimack\u003c/emph\u003e) of the Confederate States Navy during the Battle of Hampton Roads in 1862. John Lorimer Worden, a resident of Westchester County, New York, was the ship's commander."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {}
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Hampton Roads, Battle of, Va., 1862"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Shipbuilding |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Ships"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Monitor (Ironclad)."
+            }
+        },
+        "dsc": {}
+    }
+}

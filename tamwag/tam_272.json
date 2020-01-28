@@ -1,0 +1,156 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_272"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Daniel Nilva Papers \u003cnum\u003eTAM 272\u003c/num\u003e"
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-10T18:19:10\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Daniel Nilva Papers"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "TAM 272"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_a0d549d91f3ae700af489a496af6b76a",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_f9e34983866bd4a9ed3c1f59d6351202",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_3cbc31031ebf2e7acd08c4446ea66697",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Sheila Cole Nilva in 1993. The accession number associated with this gift is 1994.028."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_7e5a451eb3511c3a78255dc58349724c",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Daniel Nilva was a freelance photographer involved in the Film and Photo League in the 1920s. Nilva also worked as a staff photographer for the International Ladies' Garment Workers Union for many years and saw himself as an historian of the role of the Communist Party in the labor movement."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_3b95c33f467721e16244948a9f45b051",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This small collection contains various newsletters, publications, and mailings by the Communist Party, the Socialist Party, the Young Communist League and Communist Party opposition groups on the Left. There is also a small amount of biographical material on Nilva."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Communism -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Communists -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Jewish communists -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialism -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor unions and communism -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Photographers |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Communist parties |z United States."
+                },
+                {
+                    "source": "local",
+                    "value": "Trotskyism |z United States."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Communist Party of the United States of America"
+            }
+        },
+        "dsc": {}
+    }
+}

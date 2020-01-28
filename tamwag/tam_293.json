@@ -1,0 +1,156 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_293"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Robert Reiss Papers \u003cnum\u003eTAM 293\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Maggie Schreiner"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-11T20:10:55\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Robert Reiss Papers"
+                },
+                "unitdate": {
+                    "normal": "1969/1973",
+                    "type": "inclusive",
+                    "value": "1969-1973"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Robert Reiss was a student rights and peace (anti- Vietnam War) activist at Seward Park High School on New York City's Lower East Side in the late 1960s and early 1970s. This small collection contains a variety of printed ephemera, including circulars, clippings, fliers, newsletters, and typescripts."
+                },
+                "unitid": {
+                    "value": "TAM 293"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_96d4b87b7b5f26167f966ba61783b9ae",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_d083ae85238d2d8714a1aff377311ac7",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_7c025cf42948c1e84481762a63719733",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Robert Reiss Papers; TAM 293; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_396e85ece12cff11632a3a74e0c7f369",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Robert Reiss, date unknown. The accession number related to this gift is 1950.005."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_852c20f54d6e4a760738d1ade30a1343",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Robert Reiss was a student rights and peace (anti- Vietnam War) activist at Seward Park High School on New York City's Lower East Side in the late 1960s and early 1970s."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_94553a3e262177196392755988a0c9a0",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "This small collection contains a variety of printed ephemera, including circulars, clippings, fliers, newsletters, typescripts, etc. Many are of a satirical nature. The principal themes are expression of opposition to the Vietnam War, and advocacy of greater rights, in particular freedom of speech, for students at the high school. There are also several photographs of a student demonstration and what appears to be a \"teach-in.\""
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "High school students |x Political activity |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Student movements |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Students |x Civil rights |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Vietnam War, 1961-1975 |x Protest movements |z United States."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Seward Park High School (New York, N.Y.)"
+            }
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "v1987_030_prince"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Carl E. Prince photography collection\n                    \u003cnum\u003eV1987.030\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Weatherly Stephan"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "July 27, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-28T14:41-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "Carl E. Prince photography collection"
+                },
+                "unitdate": {
+                    "normal": "1907/1929",
+                    "type": "inclusive",
+                    "value": "circa 1907 to 1929"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.06 Linear feet"
+                        },
+                        {
+                            "value": "in one folder."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "V1987.030"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid939001",
+                    "label": "Graphic materials",
+                    "type": "Box",
+                    "value": "Prints by Accession 64"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref2",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref7",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Carl E. Prince photography collection, V1987.030, Box number, Object ID number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref5",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Carl E. Prince, 1984."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The Carl E. Prince photography collection dates from circa 1907 to 1927 and consists of 15 items. The collection contains cabinet cards, tintypes, and photographs. Images in the collection include family portraits; street scenes, possibly in Manhattan or Brooklyn; interior views of a home in the Bedford-Stuyvesant neighborhood of Brooklyn; an air strip in Newark, N.J.; scenes in Liberty, N.Y.; and unidentified rural landscapes. Portrait subjects are identified by name, and most images are identified by location."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Street photography"
+                }
+            ]
+        },
+        "otherfindaid": {
+            "id": "ref4",
+            "head": "Other Finding Aids note"
+        },
+        "dsc": {}
+    }
+}

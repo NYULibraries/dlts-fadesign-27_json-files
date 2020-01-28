@@ -1,0 +1,119 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "instcomphum"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Records of the Institute for Computing in the Humanities\n                    \u003cnum\u003eRG 37.24\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Marissa De Simone."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2013-04-17T09:42-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Records of the Institute for Computer Research in the Humanities"
+                },
+                "unitdate": {
+                    "normal": "1964/1982",
+                    "type": "inclusive",
+                    "value": "1964-1982"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.5 linear feet"
+                        },
+                        {
+                            "value": "(1 box)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The Institute for Computer Research in the Humanities was formed at New York University's University College in 1965, when a need developed for a method of organizing research and criticism in the humanities. Founders of the Institute aimed to eliminate an unproductive boundary between the humanities and technology in an attempt to advance scholarly research."
+                },
+                "unitid": {
+                    "value": "RG 37.24"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref16",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "This collection is open to researchers."
+            }
+        },
+        "prefercite": {
+            "id": "ref18",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: Identification of the item, date (if known); Records of the Institute for Computer Research in the Humanities (New York University); RG 37.24; Box number; Folder number; New York University Archives, New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "ref14",
+            "head": "History",
+            "p": {
+                "value": "The Institute for Computer Research in the Humanities began after Dr. Alice Pollin of the Spanish Department at University College proposed a project that involved creating a computer index of the \n                \u003cemph render=\"italic\"\u003eRevista de Filogia Espanola\u003c/emph\u003e, a collection of Hispanic literature and linguistics. This project illuminated the potential for merging computer technology with humanities research to advance research and writing techniques. Early proposals for the program included projects that would catalogue literature and literary criticism and develop technology for music analysis. The Institute was officially created in September 1965. It actively promoted computer research in the humanities for over five years. In July 1969 the Institute was shuttered due to lack of funding."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents Note",
+            "p": {
+                "value": "The collection comprises the Institute's historical papers, including three project proposals, newsletters, conference materials, and clippings."
+            }
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref3\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries I: History\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                    \u003cunitdate normal=\"1964/1969\" type=\"bulk\"\u003eBulk, 1964-1969\u003c/unitdate\u003e\n                    \u003cunitdate normal=\"1964/1982\" type=\"inclusive\"\u003e1964-1982\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref4\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eConference Material\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid10871001\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid10871001\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"1964/1964\"\u003e1964\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref5\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid10871002\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid10871002\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate normal=\"1982/1982\"\u003e1982\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref6\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eNews Clippings\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid10871003\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid10871003\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate normal=\"1964/1964\"\u003e1964\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref7\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eNews Letters\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid10871004\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid10871004\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate normal=\"1965/1969\" type=\"inclusive\"\u003e1965\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref8\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eProposal: The Genesis of an Idea\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid10871005\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid10871005\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate normal=\"1961/1961\"\u003e1961\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref9\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eProposal\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid10871006\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid10871006\" type=\"Folder\"\u003e6\u003c/container\u003e\n                        \u003cunitdate normal=\"1964/1964\"\u003e1964\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref10\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eProposal\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid10871007\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid10871007\" type=\"Folder\"\u003e7\u003c/container\u003e\n                        \u003cunitdate\u003eUndated \u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref11\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eRecord of First Meeting\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid10871008\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid10871008\" type=\"Folder\"\u003e8\u003c/container\u003e\n                        \u003cunitdate normal=\"1965/1965\"\u003e1965\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref12\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003e\n                            \u003cemph render=\"italic\"\u003eRevista De Filogia Espanola \u003c/emph\u003e\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid10871009\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid10871009\" type=\"Folder\"\u003e9\u003c/container\u003e\n                        \u003cunitdate\u003eUndated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

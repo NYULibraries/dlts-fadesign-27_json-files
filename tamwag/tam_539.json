@@ -1,0 +1,156 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_539"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Henrietta Scherer Papers \u003cnum\u003eTAM 539\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Peter Filardo"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-06-18T19:25:49\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Henrietta Scherer Papers"
+                },
+                "unitdate": {
+                    "normal": "1940/1949",
+                    "type": "inclusive",
+                    "value": "1940s"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Henrietta Scherer (1921-1990) was a social worker and at one time a Communist. This collection contains writings, correspondence, notebooks, and meeting minutes."
+                },
+                "unitid": {
+                    "value": "TAM 539"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_1a40feadbe6a3421935114d5ca13d4a3",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_934f4a2123124d251eca358ca66cbcbd",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_248e5a307fb47ef800e9653b622ca99c",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Henrietta Scherer Papers; TAM 539; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_9eeb867fc6d82504a19dba41f965cdc5",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials found in collections, provenance is unknown. The accession number associated with this collection is 2010.046."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_75294f274949bf3b1d9a66df24fc35fc",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Henrietta Scherer (1921-1990) was a social worker and at one time a Communist. A graduate of Thomas Jefferson High School, Brooklyn College and the Columbia University School of Social Work, she worked for the Bureau of Child Guidance, later a part of the New York City Board of Education."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_e4ced0785c52ff31f314bfa0bc19059c",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection of 1940s material contains writings, most related to her social work school assignments; correspondence and notebooks; minutes of Meetings of Case Workers in Day Nurseries; instructional and other materials from the Jewish Welfare Board; Camp Bronx House; Folk dancing materials; Young Mens' and Young Womens' Hebrew Association materials, including HS writings."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Social workers |x Labor unions |z New York (State) |z New York |v Pictorial works."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Women communists |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Jewish communists -- New York (State) -- New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Social workers |z New York (State) |z New York."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "New York (N.Y.). Board of Education. Bureau of Child Guidance"
+            }
+        },
+        "dsc": {}
+    }
+}

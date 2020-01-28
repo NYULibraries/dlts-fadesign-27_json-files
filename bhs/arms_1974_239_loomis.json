@@ -1,0 +1,143 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1974_239_loomis"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Charles Battell Loomis clippings and autograph\n                    \u003cnum\u003e1974.239\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "May 12, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-09T11:09-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Loomis, Charles Battell, 1861-1911"
+                    }
+                },
+                "unittitle": {
+                    "value": "Charles Battell Loomis clippings and autograph"
+                },
+                "unitdate": {
+                    "normal": "1911/1911",
+                    "value": "1911"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.01 Linear feet"
+                        },
+                        {
+                            "value": "in one folder."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "1974.239"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid772006",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0026"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref2",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref6",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Charles Battell Loomis clippings and autograph, 1974.239, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref5",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Source and date of acquisition unknown. Collection formally accessioned in 1974."
+            }
+        },
+        "bioghist": {
+            "id": "ref3",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Charles Battell Loomis (1861-1911) was a writer and humorist whose writings appeared frequently in several newspapers and periodicals, including the \n                \u003cemph render=\"italic\"\u003eAtlantic\u003c/emph\u003e, \n                \u003cemph render=\"italic\"\u003eHarper's\u003c/emph\u003e, the \n                \u003cemph render=\"italic\"\u003eNew York Sun\u003c/emph\u003e, and the \n                \u003cemph render=\"italic\"\u003eSaturday Evening Post\u003c/emph\u003e. He was also the author of many books. He attended Brooklyn's Polytechnic Institute, though he did not graduate. Loomis resided in Brooklyn with his wife, Mary Fullerton."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "This collection consists of a clipping from the \n                \u003cemph render=\"italic\"\u003eNew York Sun\u003c/emph\u003e containing Brooklyn writer and humorist Charles Battell Loomis's obituary, as well as a second clipping from an unnamed newspaper containing an article on Loomis. Also includes Loomis's autograph that was removed from a separate document."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Authors, American |z New York (State) |z Kings County"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

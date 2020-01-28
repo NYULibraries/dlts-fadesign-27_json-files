@@ -1,0 +1,89 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "ms2958_9798_herbert_lehman"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Herbert H. Lehman Letter to Jacob Billikopf\u003clb/\u003e1929 November 8\u003clb/\u003e \u003cnum\u003eAHMC-Lehman, Herbert\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Larry Weimer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-07-18T13:48:36\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "Herbert H. Lehman letter to Jacob Billikopf"
+                },
+                "unitdate": {
+                    "normal": "0/0",
+                    "type": "inclusive",
+                    "value": "1929 November 8"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.01 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one folder"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Typed, signed letter from Herbert H. Lehman, on his stationery, to Jacob Billikopf at the Federation of Jewish Charities in Philadelphia, Pennsylvania. Lehman, then Lieutenant Governor-elect of New York, acknowledges Billikopf's \"wonderful\" friendship and expresses gratitude for his help in the election. Though not specific as to the nature of that help, Lehman considered it a valuable contribution to the vote in New York City and upstate. For more information and to request this item, see the \u003cextref actuate=\"onRequest\" href=\"http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph006056473\u0026amp;context=L\u0026amp;vid=NYHS\u0026amp;search_scope=nyhs\u0026amp;tab=nyhs\u0026amp;lang=en_US\"\u003ecatalog record\u003c/extref\u003e, or write to  manuscripts@nyhistory.org."
+                },
+                "unitid": {
+                    "value": "AHMC-Lehman, Herbert"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "dsc": {}
+    }
+}

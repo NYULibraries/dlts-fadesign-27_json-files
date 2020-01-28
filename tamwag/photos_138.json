@@ -1,0 +1,130 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "photos_138"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Cooperative League of New York Photographs \u003cnum\u003ePHOTOS 138\u003c/num\u003e"
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-09-25T20:33:12\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Cooperative League of New York Photographs"
+                },
+                "unitdate": {
+                    "normal": "1880/1919",
+                    "type": "inclusive",
+                    "value": "circa 1880-1920"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 manuscript box."
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Cooperative League of New York is a chapter of the reformist socialist organization,The Cooperative League of America, established by James Peter Warbasse in 1916."
+                },
+                "unitid": {
+                    "value": "PHOTOS 138"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_73b4fe4261184fe6765c3e52788c0280",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s)."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_6edc96666636b45dbc9ebaa19f6eb626",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Cooperative League of New York; PHOTOS 138; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_9b8349b71ab50525daababe4b7557262",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Verna Rudd Kenvin sent a gift of glass negatives of the Cooperative League of New York in 1986. The accession numbers associated with this gift are 1950.151 and NPA.2001.103."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_4776ed82d7a790f1dd3890a147389f8d",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "The Cooperative League of New York Photographs document The Cooperative League of New York's hat store."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_7ca4667709ca0445f710390c656fcafd",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The Cooperative League of New York Photographs is composed of five 8x10 glass plate negatives documenting the Cooperative League's hat store."
+            }
+        },
+        "controlaccess": {
+            "corpname": {
+                "source": "ingest",
+                "value": "Cooperative League of New York"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref16\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCooperative League of New York (fragile)\u003c/unittitle\u003e\u003cunitdate normal=\"1880/1920\" type=\"inclusive\"\u003ecirca 1880-1920, undated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - lengthwise\" id=\"aspace_505593e016b460e4b4c8aecedf4d74d3\" label=\"Photographs [31142062722890]\" type=\"Box\"\u003eA002\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

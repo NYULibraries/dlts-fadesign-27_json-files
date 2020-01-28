@@ -1,0 +1,142 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "tam_260"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Charles Rivers Papers\n                    \u003cnum\u003eTAM.260\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "12/04/2009"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T19:13-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Rivers, Charles, 1904-1993"
+                    }
+                },
+                "unittitle": {
+                    "value": "Charles Rivers Papers"
+                },
+                "unitdate": {
+                    "value": "1940s-1980s"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.25 linear feet"
+                        },
+                        {
+                            "value": "(1 box)"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "TAM.260"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid18903002",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "bioghist": {
+            "id": "ref4",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Charles Rivers was a photographer whose work documented the construction of the Empire State Building and the Chrysler Building. He was also the Executive Secretary of the United Electrical, Radio and Machine Workers of America (UE), District 3 in Schenectady, NY. Rivers was active in the civil rights movement and the Greek anti-fascist movement."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "Charles Rivers was a photographer whose work documented the construction of the Empire State Building and the Chrysler Building. He was also the Executive Secretary of the United Electrical, Radio and Machine Workers of America (UE), District 3 in Schenectady, NY. Rivers was active in the civil rights movement and the Greek anti-fascist movement. The collection contains photocopies of three scrapbooks (which contain photographs, correspondence and clippings) as well as correspondence from various leaders of UE, notably James Matles, and figures such as Cesar Chavez, Congressman William F. Ryan, Rockwell Kent, Michael Quill, Pete Seeger, and Elliott Roosevelt. While the majority of the material pertains to Rivers' labor activism, there is material on a broad range of political topics and causes, including a file of printed ephemera relating to the struggle against fascism in Greece. PLEASE DIRECT FURTHER INQUIRIES TO: tamiment.wagner@nyu.edu"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Anti-fascist movements."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Communists |z United States"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Electric industry workers |x Labor unions |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Fascism |z Greece."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor unions and communism |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Photographers |z United States."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "United Electrical, Radio and Machine Workers of America."
+            }
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "mc_71"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Frederick G. Nichols Manuscript \u003cnum\u003eMC 71\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Leslie Barnes"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-01-04T15:38:05\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Sapre, Padmakar M."
+                    }
+                },
+                "unittitle": {
+                    "value": "Frederick G. Nichols Manuscript"
+                },
+                "unitdate": {
+                    "normal": "1951/1980",
+                    "type": "inclusive",
+                    "value": "circa 1951, 1980"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 manuscript box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Frederick Gregory Nichols (1878-1954) was a prominent business educator who sought to standardize, regulate, and promote business education in public schools. This collection contains a typescript copy of Frederick G. Nichols' memoirs related to his professional career and a memorandum regarding the manuscript's transfer to New York University Archives."
+                },
+                "unitid": {
+                    "value": "MC 71"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_96d8e6c8a8b5e7c4b85505eb65a84c41",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_ffba91e1bdd60dbe951911dddb8480f4",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Frederick G. Nichols Manuscript; MC 71; box number; folder number; New York University Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_ba106d5041c45d129b4b45e8e2ad4dfd",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Padmaker M. Sapre in 1980."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_4b35a8080e382d6cee064e6afd5b9a4e",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Frederick Gregory Nichols (1878-1954) was a prominent business educator who sought to standardize, regulate, and promote business education in public schools.  Nichols served as City Director of Business Education for Rochester, New York (1905-1909), State Director of Business Education for New York (1909-1911), and Federal Representative of Business Education.  In 1934, Nichols helped establish the National Council for Business Education.  Nichols was a professor of business education at Harvard University School of Education (1922-44); he retired as a Professor Emeritus."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_569c77eb527512b1f28d8a20c5a9ec2d",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection contains a typescript copy of Frederick G. Nichols' memoirs describing his professional life as an advocate for business education in public schools, and a memorandum that describes the transfer of the manuscript to New York University Archives."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Business Education"
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref1\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTransmission of Manuscript Copy of the Memoirs of Frederick G. Nichols for Deposit in the New York University Archives\u003c/unittitle\u003e\u003cunitdate normal=\"1980-02-11/1980-02-11\"\u003e1980-02-11\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_cdbf5568847b900d324d7c8caf29941a\" label=\"Mixed Materials [31142062745719]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_cdbf5568847b900d324d7c8caf29941a\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref2\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eManuscript of Frederick G. Nichols' Memoirs, Business Education: An Early View\u003c/unittitle\u003e\u003cunitdate normal=\"1951/1951\"\u003ecirca 1951\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_d27f0f8c12d7ef00e94e58a2f72dd2e7\" label=\"Mixed Materials [31142062745719]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d27f0f8c12d7ef00e94e58a2f72dd2e7\" type=\"Folder\"\u003e2-5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

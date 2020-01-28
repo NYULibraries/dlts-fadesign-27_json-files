@@ -1,0 +1,165 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_2008_020_ps80_scrapbooks"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the E.S. 80 Night School scrapbooks\n                    \u003cnum\u003e2008.020\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by John Zarrillo"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "January 2015"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2016-05-04T10:43-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "E.S. 80 Night School scrapbooks"
+                },
+                "unitdate": {
+                    "normal": "1947/1948",
+                    "type": "inclusive",
+                    "value": "1947 to 1948"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.25 linear feet"
+                        },
+                        {
+                            "value": "in one flat box"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The collection consists of two scrapbooks which were created by night school students (recent immigrants and refugees learning English) at E.S. 80 in the Coney Island neighborhood of Brooklyn in the 1940s. The documents produced by the students touch upon American history, World War II experiences, their home countries, life in New York, and opinions on the school."
+                },
+                "unitid": {
+                    "value": "2008.020"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1246001",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1 of 1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref6",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); E.S. 80 Nigh School scrapbooks, 2008.020, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Annette Barchat, 2008."
+            }
+        },
+        "bioghist": {
+            "id": "ref5",
+            "head": "Historical note",
+            "p": {
+                "value": "E.S. 80 was located in the Coney Island neighborhood of Brooklyn, on West 19th Street, near Neptune Avenue. It was demolished sometime around 1980."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The collection consists of two scrapbooks which were created by night school students (recent immigrants and refugees learning English) at E.S. 80 in the Coney Island neighborhood of Brooklyn in the 1940s. The documents produced by the students touch upon American history, World War II experiences, their home countries, life in New York, and opinions on the school."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Adult learning |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "English language |x Composition and exercises"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Immigrants |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Students |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Teachers |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "World War, 1939-1945"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "E.S. 80 (Brooklyn, New York, N.Y.)."
+            }
+        },
+        "dsc": {}
+    }
+}

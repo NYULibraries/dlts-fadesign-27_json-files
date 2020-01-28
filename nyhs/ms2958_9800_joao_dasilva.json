@@ -1,0 +1,89 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "ms2958_9800_joao_dasilva"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the João José da Silva Bond to George Gosman\u003clb/\u003e1796 March 1\u003clb/\u003e \u003cnum\u003eAHMC-Silva, Joao\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Larry Weimer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-07-18T13:42:17\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "João José da Silva bond to George Gosman"
+                },
+                "unitdate": {
+                    "normal": "0/0",
+                    "type": "inclusive",
+                    "value": "1796 March 1"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.01 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one folder"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Bond for 1,875 pounds, payable on 1 March 1799, from merchant João José da Silva of New York City to bricklayer George Gosman, also of New York City. Dated 1 March 1796. Signed by da Silva and by witnesses Peter Augustus Jay and Robert Gosman. For a consideration of ten shillings, José Joaquim da Costa co-signed the bond as co-obligor, and da Costa's obligation is also signed by witnesses Peter Augustus Jay and Robert Gosman. For more information and to request this item, see the \u003cextref actuate=\"onRequest\" href=\"http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph006058987\u0026amp;context=L\u0026amp;vid=NYHS\u0026amp;search_scope=nyhs\u0026amp;tab=nyhs\u0026amp;lang=en_US\"\u003ecatalog record\u003c/extref\u003e, or write to  manuscripts@nyhistory.org. "
+                },
+                "unitid": {
+                    "value": "AHMC-Silva, Joao"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "dsc": {}
+    }
+}

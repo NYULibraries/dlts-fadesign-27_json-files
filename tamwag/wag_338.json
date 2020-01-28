@@ -1,0 +1,155 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "wag_338"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Isaac Gasnick Papers \u003cnum\u003eWAG.338\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Heather Mulliner"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-08-07T18:41:15\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "local",
+                        "value": "Gasnick, Harry"
+                    }
+                },
+                "unittitle": {
+                    "value": "Isaac Gasnick Papers"
+                },
+                "unitdate": {
+                    "normal": "1939/1959",
+                    "type": "inclusive",
+                    "value": "1939-1959"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": ".25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 half manuscript box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Isaac Gasnick Papers contain papers related to Gasnick's involvement with the American Labor Party (ALP). Isaac Walter Gasnick was the Membership Director and electoral delegate for the ALP's 8th Assembly District in the late 1940s and early 1950s. The collection includes an assortment of American Labor Party correspondence, delegate certificates, and primary petitions related to local New York State elections between 1949 and 1953. Additionally, the collection contains Gasnick's personal account books, deposit slips between 1938 and 1959. Also included in the collection are several small photographs of Gasnick."
+                },
+                "unitid": {
+                    "value": "WAG.338"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_1c5f65e61f4ede1dd610e8555840ad05",
+                    "label": "Mixed Materials [31142054875557]",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_176201d7d2f0037523d247b61c86dc4c",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_50c785a3ee427d048f54603d723a3baf",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Isaac Gasnick Papers; WAG 338; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_72bf8929fb342110d0598289755b6a92",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Harry Gasnick in March 2017. The accession number associated with this gift is 2017.018."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_666a0a313b8ca22a4ce6f27b86663cb6",
+            "head": "Biographical / Historical",
+            "p": {
+                "value": "Isaac Walter Gasnick was a member of the American Labor Party (ALP), and was the Membership Director of the party's 8th Assembly District in the late 1940s and early 1950s. As a leader in the 8th Assembly District, Gasnick worked closely with Chairman Jane Benedict, and also served as a delegate for the ALP at New York State electoral conventions."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_e128e39351965dad26503c5bb6f79331",
+            "head": "Content Description",
+            "p": {
+                "value": "The Isaac Gasnick Papers contain papers related to Gasnick's involvement with the American Labor Party (ALP). The collection includes an assortment of American Labor Party correspondence, delegate certificates, and primary petitions related to local New York State elections between 1949 and 1953. Additionally, the collection contains Gasnick's personal account books, deposit slips between 1938 and 1959. Also included in the collection are several small photographs of Gasnick."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Socialism -- United States -- History."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Working class -- United States -- Political activity."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "American Labor Party"
+            }
+        },
+        "dsc": {}
+    }
+}

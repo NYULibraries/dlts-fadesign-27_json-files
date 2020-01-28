@@ -1,0 +1,125 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "v1986_028_new_york_album"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the \n                    \u003cemph render=\"italic\"\u003eNew York Album \u003c/emph\u003eviewbook\n                    \u003cnum\u003eV1986.028\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Patricia Glowinski"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "June 28, 2011."
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-01-27T15:18-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "\n                \u003cemph render=\"italic\"\u003eNew York Album \u003c/emph\u003eviewbook"
+                },
+                "unitdate": {
+                    "value": "circa 1890"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.03 Linear feet"
+                        },
+                        {
+                            "value": "in one folder."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "V1986.028"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid862006",
+                    "label": "Graphic materials",
+                    "type": "Box",
+                    "value": "Prints by Accession 57"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref4",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref2",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); \n                \u003cemph render=\"italic\"\u003eNew York Album \u003c/emph\u003eviewbook, V1986.028, Box number, Object ID number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Gift of J. Bennett Nolan, date unknown."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The \n                \u003cemph render=\"italic\"\u003eNew York Album \u003c/emph\u003eviewbook was printed circa 1890 and consists of 22 pages of black-and-white non-photographic prints of drawings depicting historic buildings, structures, and monuments located throughout New York City. The viewbook contains only a few scenes of Brooklyn, though images of the Brooklyn Bridge and the entrances to the Brooklyn Bridge are well-represented in the viewbook. The viewbook has its original hardcover and its pages measure 6.75 x 7.5. The binding is broken and all of the pages are now loose. Digital versions of the images from the viewbook pertaining to Brooklyn are available via the image database located in the library. It is not known who created or printed the viewbook."
+            }
+        },
+        "controlaccess": {},
+        "otherfindaid": {
+            "id": "ref6",
+            "head": "Other Finding Aids"
+        },
+        "dsc": {}
+    }
+}

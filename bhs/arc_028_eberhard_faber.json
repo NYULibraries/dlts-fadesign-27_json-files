@@ -1,0 +1,145 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arc_028_eberhard_faber"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Eberhard Faber Pencil Company collection\n                    \u003cnum\u003eARC.028\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Patricia Glowinski"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "June 23, 2010."
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-26T15:27-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Eberhard Faber Pencil Company collection"
+                },
+                "unitdate": {
+                    "normal": "1924/1988",
+                    "type": "inclusive",
+                    "value": "1924-1988"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.5 Linear feet"
+                        },
+                        {
+                            "value": "in one manuscript box and one oversize drop front box."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "ARC.028"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid304002",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "ARC.028 Box 1 of 2"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref3",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref5",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Eberhard Faber Pencil Company collection, ARC.028, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "bioghist": {
+            "id": "ref1",
+            "head": "Historical Note",
+            "p": {
+                "value": "When Eberhard Faber died on March 2, 1879, his sons Eberhard II (John) and Lothar W. took over the management of the company. After years of conflict between the German and U.S. branches of the company, the U.S. branch split ties with A.W. Faber Company. First incorporated as E. Faber Pencil Company in 1898 and finally as Eberhard Faber Pencil Company in 1904, the factory in Greenpoint grew to envelop two square city blocks bounded by Greenpoint Avenue, West Street, Java Street, and Franklin Street. In 1923, a new six-story building was also added. By 1924, Eberhard Faber Pencil Company had sales offices in New York, Chicago, San Francisco, Boston, Philadelphia, Atlanta, and Dallas. The factory remained at its Greenpoint location until 1956 when it moved its operations and headquarters to Wilkes-Barre, PA. In 1987, Eberhard Faber Pencil Company was sold to A.W Faber-Castell."
+            }
+        },
+        "scopecontent": {
+            "id": "ref6",
+            "head": "Scope and Contents note",
+            "p": {}
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Manufactures"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Pencil industry |z United States"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Eberhard Faber Pencil Company."
+            }
+        },
+        "otherfindaid": {
+            "id": "ref13",
+            "head": "Other Finding Aids"
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref7\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 1: Records\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003e1.4 Linear feet\u003c/extent\u003e\n                        \u003cextent\u003ein one manuscript box and one oversize drop front box.\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate normal=\"1924/1988\" type=\"inclusive\"\u003e1924-1988\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref10\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003eThis series includes a company account ledger, 1924-1926; Eberhard Faber brochures and product catalogs for the years, 1942, 1943, 1944, 1947, 1951, 1954, and 1956-1957; leaflets describing and promoting pastels and crayons; an employee sales manual; color charts for pencils; two letters of correspondence; clippings; a course booklet for teachers titled \"Color in Camouflage\"; a portfolio of pencil sketches promoting lead pencils; and a 75th anniversary promotional publication titled \"The Story of the Oldest Pencil Factory in America.\" The oversized company ledger is located in Box 2 of the collection.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref8\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 2: Photographs\u003c/unittitle\u003e\n                    \u003cunitid\u003eV1988.035\u003c/unitid\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003e0.1 Linear feet\u003c/extent\u003e\n                        \u003cextent\u003ein one folder.\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate\u003ecirca 1920 to 1949\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref9\"\u003e\n                    \u003chead\u003eScope and Contents Note\u003c/head\u003e\n                    \u003cp\u003eThis series contains black-and-white photographic prints that document the Eberhard Faber Pencil Company factory located in the Greenpoint neighborhood of Brooklyn. Included in the series are photographs of machinery used in the factory, an exterior photographic rendering of the factory, and interior photographs of the factory. The interior photographs include images of workers on the job, such as the Box and Labeling Department, and images documenting the manufacturing process. Also included in this series are photographs of a 1943 sales dinner and photographic portraits of the founder, Eberhard Faber, and his sons, Eberhard II (who changed his name from John), and Lothar W. Faber. This series is located in Box 1 of the collection.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

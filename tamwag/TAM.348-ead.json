@@ -1,0 +1,165 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "tam_348"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Elizabeth Gurley Flynn: Peter Martin and Roberta Bobba Materials\n                    \u003cnum\u003eTAM.348\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Susan Tofte"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "2009"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T19:33-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Flynn, Elizabeth Gurley"
+                    }
+                },
+                "unittitle": {
+                    "value": "Elizabeth Gurley Flynn: Peter Martin and Roberta Bobba Materials"
+                },
+                "unitdate": {
+                    "normal": "1856/1964",
+                    "type": "inclusive",
+                    "value": "1856-1964"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.5 linear feet"
+                        },
+                        {
+                            "value": "(1 box)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Most of the materials in this collection concern Elizabeth Gurley Flynn, an organizer for the Industrial Workers of the World, a noted writer and orator, and a prominent functionary of the Communist Party USA. The collection is comprised primarily of correspondence between Carlo Tresca and Bina Flynn, obituaries of Elizabeth Gurley Flynn, documents relating to the court case United States vs. Elizabeth Gurley Flynn (1954), Flynn's financial records and passports, and correspondence and documents related to the trial and execution of Sacco and Vanzetti. This small collection was donated to the Tamiment Library by Roberta Bobba, half sister of Peter Martin. Peter Martin was the son of Carlo Tresca and Elizabeth Gurley Flynn's sister Bina (who later married Romulo Bobba and became the mother of Roberta Bobba)."
+                },
+                "unitid": {
+                    "value": "TAM.348"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid19785011",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref5",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open for research without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "ref27",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: \n                \u003clb/\u003e\n                \u003clb/\u003eIdentification of item, date; Collection name; Collection number; box number; folder number; \n                \u003clb/\u003eTamiment Library/Robert F. Wagner Labor Archives \n                \u003clb/\u003eElmer Holmes Bobst Library \n                \u003clb/\u003e70 Washington Square South \n                \u003clb/\u003eNew York, NY 10012, New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "ref8",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "\n                \u003clist\u003e\n                    \u003citem\u003eThe Guide to the Elizabeth Gurley Flynn Papers (TAM #118)\u003c/item\u003e\n                \u003c/list\u003e"
+            }
+        },
+        "scopecontent": {
+            "id": "ref9",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "\n                \u003cemph render=\"bold\"\u003eSeries II. Subject Files\u003c/emph\u003e: Series II contains an extensive file of newspaper obituaries of Elizabeth Gurley Flynn, other clippings about Flynn, documents (correspondence, press releases, etc.) related to the Sacco and Vanzetti case (1921-1926) and a later effort to secure a posthumous pardon for them, documents relating to United States vs. Elizabeth Gurley Flynn (1954), and financial records."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Communism |z United States"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Feminism |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Sacco-Vanzetti Trial, Dedham, Mass., 1921."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Women and socialism |z United States."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Industrial Workers of the World."
+            }
+        },
+        "dsc": {
+            "value": "\n            \u003cc01 id=\"ref14\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries I: Correspondence.\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                \u003c/did\u003e\n                \u003cc02 id=\"ref15\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence: General\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid63963\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid63963\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"1908/1969\" type=\"inclusive\"\u003eundated , 1959-1969\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref16\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence: Letters Written to Carlo Tresca by Bina Flynn (transcriptions)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid63962\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid63962\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate normal=\"1925/1931\" type=\"inclusive\"\u003e1925-1931\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref17\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries II: Subject Files.\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                \u003c/did\u003e\n                \u003cc02 id=\"ref18\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eLegal and Financial Documents\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid63961\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid63961\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate normal=\"1945/1964\" type=\"inclusive\"\u003e1945-1964\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref19\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eNewspaper Clippings: General\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid63960\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid63960\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate normal=\"1908/1969\" type=\"inclusive\"\u003e1908 , 1915 , 19501969\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref20\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePassports\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid63959\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid63959\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate normal=\"1945/1950\" type=\"inclusive\"\u003e1945-1950\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref21\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eObituaries: E.G. Flynn\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid63958\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid63958\" type=\"Folder\"\u003e6\u003c/container\u003e\n                        \u003cunitdate normal=\"1964/1964\"\u003e1964\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref22\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eObituaries: E.G. Flynn\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid63957\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid63957\" type=\"Folder\"\u003e7\u003c/container\u003e\n                        \u003cunitdate normal=\"1964/1964\"\u003e1964\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref23\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eObituaries: E.G. Flynn\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid63956\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid63956\" type=\"Folder\"\u003e8\u003c/container\u003e\n                        \u003cunitdate normal=\"1964/1964\"\u003e1964\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref24\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSacco and Vanzetti Case\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid63955\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid63955\" type=\"Folder\"\u003e9\u003c/container\u003e\n                        \u003cunitdate normal=\"1921/1926\" type=\"inclusive\"\u003e1921-1926\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref25\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSacco and Vanzetti Case: Effort to Secure a Pardon (Clippings)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid63954\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid63954\" type=\"Folder\"\u003e10\u003c/container\u003e\n                        \u003cunitdate normal=\"1959/1959\"\u003e1959\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n            \u003c/c01\u003e\n        "
+        }
+    }
+}

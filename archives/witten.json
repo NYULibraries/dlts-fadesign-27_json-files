@@ -1,0 +1,153 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "witten"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Ruth Wittenberg Papers \u003cnum\u003eMC.95\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by University Archives staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-11-28T15:16:29\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Wittenberg, Ruth"
+                    }
+                },
+                "unittitle": {
+                    "value": "Ruth Wittenberg Papers"
+                },
+                "unitdate": {
+                    "normal": "1961/1972",
+                    "type": "inclusive",
+                    "value": "1961-1972"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 2 manuscript  boxes"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Ruth Wittenberg, a long-standing community activist, served on a number of civic organizations associated with the Washington Square neighborhood. These papers concern Washington Square Park and primarily date from the 1960s and 1970s, when the park was renovated."
+                },
+                "unitid": {
+                    "value": "MC.95"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_2db7904146b65769d401464f84a451a4",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_4fd923af4b6d1fcbd8bc433c41e361d1",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Ruth Wittenberg Papers; MC 95; box number; folder number; New York University Archives, New York University Libraries."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_3e6456e0e7fa7ae87623e294a98737ca",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "This collection was donated to the University Archives by Ruth Wittenberg through Aileen Shaw in 1988."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_03f479bf5f2baeb0ba0b7dcabad42f79",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Ruth Wittenberg, a long-standing community activist, served on a number of civic organizations concerned with the refurbishing and rehabilitation of Washington Square Park between the years 1964 and 1972. She served as the Vice Chairman of Community Planning Board #2 and as Secretary of the Architects Committee assigned to the rehabilitation of the Park. She also served as reporter of the joint meetings of the Planning Board and Architects Committee."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_9d9144402d14460168f29c7496ebfa86",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection contains materials pertaining to citizen and local agency planning, development, and rehabilitation of Washington Square Park during the 1960s and 1970s. Document types include committee minutes, correspondence, designs, press releases, clippings, and background articles."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Urban renewal -- Citizen participation."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Community foundations."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Washington Square Playground Council"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref17\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I. Washington Square Rehabilitation Project\u003c/unittitle\u003e\u003cphysdesc altrender=\"whole\"\u003e\u003cextent altrender=\"materialtype spaceoccupied\"\u003e.5 Linear Feet\u003c/extent\u003e\u003c/physdesc\u003e\u003cunitdate normal=\"1961/1972\" type=\"inclusive\"\u003e1961-1972\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_d55ee029f75b920c1ca43416b3efb31d\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eMaterial in Series I relates primarily to the involvement of the Planning Board and Architects Committee in the rehabilitation of Washington Square Park.\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_ref18\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eWSRP--Correspondence\u003c/unittitle\u003e\u003cunitdate\u003e1961-1972\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_cbc2e378bc8fce207ff9f8aed76e1f0e\" label=\"Mixed Materials [31142062741734]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_cbc2e378bc8fce207ff9f8aed76e1f0e\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eWSRP-Resolutions\u003c/unittitle\u003e\u003cunitdate\u003e1964, undated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_d66b4f10345bfd85c944852f8b04c3f6\" label=\"Mixed Materials [31142062741734]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d66b4f10345bfd85c944852f8b04c3f6\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eWSRP-Announcements and Press Releases\u003c/unittitle\u003e\u003cunitdate\u003e1964-1972\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_e6be633aa61bc57d71ecb5cb6294cd8f\" label=\"Mixed Materials [31142062741734]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e6be633aa61bc57d71ecb5cb6294cd8f\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eWSRP-Minutes and Planning Board #2 and Architecture Committees\u003c/unittitle\u003e\u003cunitdate\u003e1964\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_6e74209c1b57b836089ff29f28d936c9\" label=\"Mixed Materials [31142062741734]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_6e74209c1b57b836089ff29f28d936c9\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eWSRP-Minutes\u003c/unittitle\u003e\u003cunitdate\u003e1966-1966\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_2ec0ff8ef260c8ff0631a252bba4ee46\" label=\"Mixed Materials [31142062741734]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2ec0ff8ef260c8ff0631a252bba4ee46\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eWSRP-Minutes\u003c/unittitle\u003e\u003cunitdate\u003e1970-1972\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_edc5b5883467edcd3b838d1e7aff252c\" label=\"Mixed Materials [31142062741734]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_edc5b5883467edcd3b838d1e7aff252c\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eWSRP-Minutes\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_53d739b0aa52a7130716e6004864e6b8\" label=\"Mixed Materials [31142062741734]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_53d739b0aa52a7130716e6004864e6b8\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eWSRP-Architectural Designs, Estimates, and Maps\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_115beebbca4a080d46a4d0dfbd6def73\" label=\"Mixed Materials [31142062741734]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_115beebbca4a080d46a4d0dfbd6def73\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref26\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eWSRP-Architectural Designs, Estimates, and Maps\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_555181723f707c39895f862300d580af\" label=\"Mixed Materials [31142062741734]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_555181723f707c39895f862300d580af\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eWittenberg article: \"Washington Square Park: An Important Landmark\"\u003c/unittitle\u003e\u003cunitdate\u003e1964\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_e2eefc0575ba339e4cfea492843c88ad\" label=\"Mixed Materials [31142062741734]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e2eefc0575ba339e4cfea492843c88ad\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref28\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eAttendance Sheets-Dated and Undated\u003c/unittitle\u003e\u003cunitdate\u003e1971-1972\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_bcbfb53425b3023692f9fdccf1cab896\" label=\"Mixed Materials [31142062741734]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_bcbfb53425b3023692f9fdccf1cab896\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref29\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eWSRP--Miscellaneous\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_4491587ed12746eecaec7be721633503\" label=\"Mixed Materials [31142062741734]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_4491587ed12746eecaec7be721633503\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref30\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries II. Related Material\u003c/unittitle\u003e\u003cphysdesc altrender=\"whole\"\u003e\u003cextent altrender=\"materialtype spaceoccupied\"\u003e.25 Linear Feet\u003c/extent\u003e\u003c/physdesc\u003e\u003cunitdate normal=\"1964/1972\" type=\"inclusive\"\u003e1964-1972\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_ea082dccdeb8ed605f43052c3caa33fe\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eSeries II contains documents of park-affiliated organizations, including the Washington Square Association and the Washington Square Playground Council.\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_ref31\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eHarry Jackson Exhibit-Invitation and Prospectus\u003c/unittitle\u003e\u003cunitdate\u003e1964\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_e143fd20bfe8146230c410e096aa70f9\" label=\"Mixed Materials [31142062741742]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_e143fd20bfe8146230c410e096aa70f9\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref32\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eRecreational Facilities Brochure\u003c/unittitle\u003e\u003cunitdate\u003e1965-1966\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_401f0574db95418f4f94e670b3cbf392\" label=\"Mixed Materials [31142062741742]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_401f0574db95418f4f94e670b3cbf392\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref33\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eGardening Brochures\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_e4d55dda385a4d7d994a033f90c9323b\" label=\"Mixed Materials [31142062741742]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_e4d55dda385a4d7d994a033f90c9323b\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref34\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eWashington Square Association Minutes and Proposals\u003c/unittitle\u003e\u003cunitdate\u003e1969-1970\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_7d75c3b5953b159947c239bcd9e11cce\" label=\"Mixed Materials [31142062741742]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_7d75c3b5953b159947c239bcd9e11cce\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref35\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eWashington Square Playground/Park Council--Memoranda\u003c/unittitle\u003e\u003cunitdate\u003e1969-1972\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_8a466a355fecabb3ff081e0fb3d44978\" label=\"Mixed Materials [31142062741742]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_8a466a355fecabb3ff081e0fb3d44978\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref36\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eMobile Programs System\u003c/unittitle\u003e\u003cunitdate\u003e1971\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_066cc78d18185859fbe1e1c27af51d5e\" label=\"Mixed Materials [31142062741742]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_066cc78d18185859fbe1e1c27af51d5e\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref37\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eChildren Before Dogs Campaign\u003c/unittitle\u003e\u003cunitdate\u003e1971\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_b30f688e30b51e8e12cf49201bd860b1\" label=\"Mixed Materials [31142062741742]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_b30f688e30b51e8e12cf49201bd860b1\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref38\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eUnion Square Park Redevelopment Project\u003c/unittitle\u003e\u003cunitdate\u003e1972\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_e861122afcde5fd89444339316da18c8\" label=\"Mixed Materials [31142062741742]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_e861122afcde5fd89444339316da18c8\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref39\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries III. Related Publications\u003c/unittitle\u003e\u003cphysdesc altrender=\"whole\"\u003e\u003cextent altrender=\"materialtype spaceoccupied\"\u003e.25 Linear Feet\u003c/extent\u003e\u003c/physdesc\u003e\u003cunitdate normal=\"1962/1971\" type=\"inclusive\"\u003e1962-1971\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_79030a712cf444d416a75b317ec04069\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eSeries III contains original and photocopied newspaper clippings of park rehabilitation developments, as well as a glimpse of community concerns regarding the park's physical and social evolution between 1962 and 1972.\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_ref40\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eWSRP-Newspaper articles\u003c/unittitle\u003e\u003cunitdate\u003e1962-1971\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_4f55eed02997ad745768e2935762208c\" label=\"Mixed Materials [31142062741742]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_4f55eed02997ad745768e2935762208c\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref41\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eWSRP-Newspaper articles\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_bb1c180ee362070b06aa72a504817ee8\" label=\"Mixed Materials [31142062741742]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_bb1c180ee362070b06aa72a504817ee8\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref42\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eWSRP-Newspaper articles, originals\u003c/unittitle\u003e\u003cunitdate\u003e1962-1971\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_92448551ecff10c1f2ea95b737466540\" label=\"Mixed Materials [31142062741742]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_92448551ecff10c1f2ea95b737466540\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

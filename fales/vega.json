@@ -1,0 +1,139 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-F",
+            "value": "vega"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Janine Vega Collection of David Wojnarowicz Letters\u003clb/\u003e1976-1980\u003clb/\u003e \u003cnum\u003eMSS.238\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Bryan O'Keefe, 2009."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Fales Library and Special Collections"
+                },
+                "address": {
+                    "addressline": [
+                        "Fales Library and Special Collections",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "3rd Floor",
+                        "New York, NY 10012",
+                        "Phone: (212) 998-2596",
+                        "fales.library@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-07-06T20:05:36\u003c/date\u003e"
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Fales Library and Special Collections"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Wojnarowicz, David"
+                    }
+                },
+                "unittitle": {
+                    "value": "The Janine Vega Collection of David Wojnarowicz Letters"
+                },
+                "unitdate": {
+                    "normal": "1976/1980",
+                    "type": "inclusive",
+                    "value": "1976-1980"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.2 Linear Feet"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "MSS.238"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_f356ded15cda6e020132fba42aeb5785",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_430598839045c613be22e1a5d56b7642",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the\nfollowing form:\u003clb/\u003e\u003clb/\u003e\nIdentification of item,  date (if known); David Wojnarowicz / Janine Pommy Vega Letters; MSS 238; box number; folder number; Fales Library and Special Collections, New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_6fbf91c19f54d3f58008b7cb6264308b",
+            "head": "Biographical Note",
+            "p": {
+                "value": "\u003cemph render=\"italic\"\u003eContemporary Authors Online\u003c/emph\u003e, Gale, 2009. Reproduced in \u003cemph render=\"italic\"\u003eBiography Resource Center\u003c/emph\u003e. Farmington Hills, Mich.: Gale, 2009. http://galenet.galegroup.com/servlet/BioRC"
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_c06eb33d7604bd18db576a4dd89718f3",
+            "head": "Scope and Content note",
+            "p": {
+                "value": "The Janine Vega Collection of David Wojnarowicz Letters contains correspondence from David Wojnarowicz to Janine Pommy Vega sent between February 23, 1976 and June 28, 1980. The correspondence includes letters, postcards, and Xeroxed artwork by Wojnarowicz."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "American poetry |y 20th century."
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref54\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: Correspondence\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref2\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFebruary 23, 1976\u003c/unittitle\u003e\u003cunitdate normal=\"1976/1976\" type=\"inclusive\"\u003e1976\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b1f561c172f2b72ff7b589050eb35046\" label=\"Mixed Materials (31142054877090)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b1f561c172f2b72ff7b589050eb35046\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref1\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMay 20, 1976\u003c/unittitle\u003e\u003cunitdate normal=\"1976/1976\" type=\"inclusive\"\u003e1976\u003c/unitdate\u003e\u003ccontainer id=\"aspace_0c9621b4c473b5428eab8a8323dc7901\" label=\"Mixed Materials (31142054877090)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0c9621b4c473b5428eab8a8323dc7901\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref6\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMay 29, 1976\u003c/unittitle\u003e\u003cunitdate normal=\"1976/1976\" type=\"inclusive\"\u003e1976\u003c/unitdate\u003e\u003ccontainer id=\"aspace_799439eeb858791d11ea897886bda40f\" label=\"Mixed Materials (31142054877090)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_799439eeb858791d11ea897886bda40f\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref3\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eJuly 17, 1976\u003c/unittitle\u003e\u003cunitdate normal=\"1976/1976\" type=\"inclusive\"\u003e1976\u003c/unitdate\u003e\u003ccontainer id=\"aspace_35fde97b063cf0e5c1948e28ab210769\" label=\"Mixed Materials (31142054877090)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_35fde97b063cf0e5c1948e28ab210769\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref5\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeptember 8, 1976\u003c/unittitle\u003e\u003cunitdate normal=\"1976/1976\" type=\"inclusive\"\u003e1976\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f519937fce39f04b2d3feb5d6c478043\" label=\"Mixed Materials (31142054877090)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f519937fce39f04b2d3feb5d6c478043\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref7\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eOctober 1, 1976\u003c/unittitle\u003e\u003cunitdate normal=\"1976/1976\" type=\"inclusive\"\u003e1976\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b6153098b71593214a55ffebcc8a9f86\" label=\"Mixed Materials (31142054877090)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b6153098b71593214a55ffebcc8a9f86\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref8\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eOctober 16, 1976\u003c/unittitle\u003e\u003cunitdate normal=\"1976/1976\" type=\"inclusive\"\u003e1976\u003c/unitdate\u003e\u003ccontainer id=\"aspace_74fd8958fff413d96430b11c1eede1eb\" label=\"Mixed Materials (31142054877090)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_74fd8958fff413d96430b11c1eede1eb\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref9\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMay 13, 1977\u003c/unittitle\u003e\u003cunitdate normal=\"1977/1977\" type=\"inclusive\"\u003e1977\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f208b0d6c3c924ca3dfef1a88c50478d\" label=\"Mixed Materials (31142054877090)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f208b0d6c3c924ca3dfef1a88c50478d\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_16dd3ee452c0b2981cae8e6b36643a13\"\u003e\u003chead\u003eGeneral\u003c/head\u003e\u003cp\u003eXeroxed text/image collage \"AT THE TRACK EMANUEL PANCAKE RECALLED\"\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003cc id=\"aspace_ref10\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMay 13, 1977\u003c/unittitle\u003e\u003cunitdate normal=\"1977/1977\" type=\"inclusive\"\u003e1977\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ab9512206ab964ad75570c088614dc4d\" label=\"Mixed Materials (31142054877090)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ab9512206ab964ad75570c088614dc4d\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref11\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eJuly 15, 1977\u003c/unittitle\u003e\u003cunitdate normal=\"1977/1977\" type=\"inclusive\"\u003e1977\u003c/unitdate\u003e\u003ccontainer id=\"aspace_cb58285df054e296ac6c12095b0887ed\" label=\"Mixed Materials (31142054877090)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_cb58285df054e296ac6c12095b0887ed\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref12\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eJuly 21, 1977\u003c/unittitle\u003e\u003cunitdate normal=\"1977/1977\" type=\"inclusive\"\u003e1977\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a3517f8c850a5b19a1bb756e84e5542f\" label=\"Mixed Materials (31142054877090)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_a3517f8c850a5b19a1bb756e84e5542f\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref13\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eJuly 27, 1977\u003c/unittitle\u003e\u003cunitdate normal=\"1977/1977\" type=\"inclusive\"\u003e1977\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d77fde2f74b88813463e3fa36e4903ab\" label=\"Mixed Materials (31142054877090)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d77fde2f74b88813463e3fa36e4903ab\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAugust 19, 1977\u003c/unittitle\u003e\u003cunitdate normal=\"1977/1977\" type=\"inclusive\"\u003e1977\u003c/unitdate\u003e\u003ccontainer id=\"aspace_03023082855ae023e901b693bf2b0449\" label=\"Mixed Materials (31142054877090)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_03023082855ae023e901b693bf2b0449\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeptember 1, 1977\u003c/unittitle\u003e\u003cunitdate normal=\"1977/1977\" type=\"inclusive\"\u003e1977\u003c/unitdate\u003e\u003ccontainer id=\"aspace_acb73095249c68fcbc2baa597c50fc80\" label=\"Mixed Materials (31142054877090)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_acb73095249c68fcbc2baa597c50fc80\" type=\"Folder\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMay 2, 1978\u003c/unittitle\u003e\u003cunitdate normal=\"1978/1978\" type=\"inclusive\"\u003e1978\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1f1e130ea7e6b013b55b211a72b7ed99\" label=\"Mixed Materials (31142054877090)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1f1e130ea7e6b013b55b211a72b7ed99\" type=\"Folder\"\u003e15\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeptember 29, 1978\u003c/unittitle\u003e\u003cunitdate normal=\"1978/1978\" type=\"inclusive\"\u003e1978\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ece402fb72ec0ff67f580fea561f7b67\" label=\"Mixed Materials (31142054877090)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ece402fb72ec0ff67f580fea561f7b67\" type=\"Folder\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNovember 7, 1978\u003c/unittitle\u003e\u003cunitdate normal=\"1978/1978\" type=\"inclusive\"\u003e1978\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2e5ba271d8183ede960ea0902cc61851\" label=\"Mixed Materials (31142054877090)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2e5ba271d8183ede960ea0902cc61851\" type=\"Folder\"\u003e17\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e[December] 1978\u003c/unittitle\u003e\u003cunitdate normal=\"1978/1978\" type=\"inclusive\"\u003e1978\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1cc0ee4f680d4b807be1765726d6cd63\" label=\"Mixed Materials (31142054877090)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1cc0ee4f680d4b807be1765726d6cd63\" type=\"Folder\"\u003e18\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDecember 29, 1978\u003c/unittitle\u003e\u003cunitdate normal=\"1978/1978\" type=\"inclusive\"\u003e1978\u003c/unitdate\u003e\u003ccontainer id=\"aspace_3b38ae312b07e72c55cea461d7e1faf4\" label=\"Mixed Materials (31142054877090)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_3b38ae312b07e72c55cea461d7e1faf4\" type=\"Folder\"\u003e19\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eJanuary 21, 1979\u003c/unittitle\u003e\u003cunitdate normal=\"1979/1979\" type=\"inclusive\"\u003e1979\u003c/unitdate\u003e\u003ccontainer id=\"aspace_3ab612e0251320d8cc5ed4df2ad32fbd\" label=\"Mixed Materials (31142054877090)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_3ab612e0251320d8cc5ed4df2ad32fbd\" type=\"Folder\"\u003e20\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFebruary 20, 1979\u003c/unittitle\u003e\u003cunitdate normal=\"1979/1979\" type=\"inclusive\"\u003e1979\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b143793a06fdb3c2074a85c95e5569b9\" label=\"Mixed Materials (31142054877090)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b143793a06fdb3c2074a85c95e5569b9\" type=\"Folder\"\u003e21\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref46\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eJuly 20, 1979\u003c/unittitle\u003e\u003cunitdate normal=\"1979/1979\" type=\"inclusive\"\u003e1979\u003c/unitdate\u003e\u003ccontainer id=\"aspace_080c5da793861b2e8c3d3928fcbd70d7\" label=\"Mixed Materials (31142054877090)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_080c5da793861b2e8c3d3928fcbd70d7\" type=\"Folder\"\u003e22\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref47\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeptember 26, 1979\u003c/unittitle\u003e\u003cunitdate normal=\"1979/1979\" type=\"inclusive\"\u003e1979\u003c/unitdate\u003e\u003ccontainer id=\"aspace_21e26b0b8e2966e60e0574ec021d49fa\" label=\"Mixed Materials (31142054877090)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_21e26b0b8e2966e60e0574ec021d49fa\" type=\"Folder\"\u003e23\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref26\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eUndated postcard\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eUndated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ef82e2d3a385ddbd7f03f36ff73570eb\" label=\"Mixed Materials (31142054877090)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ef82e2d3a385ddbd7f03f36ff73570eb\" type=\"Folder\"\u003e24\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFebruary 29, 1980\u003c/unittitle\u003e\u003cunitdate normal=\"1980/1980\" type=\"inclusive\"\u003e1980\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f5d6977550649451ea52874377373f7f\" label=\"Mixed Materials (31142054877090)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f5d6977550649451ea52874377373f7f\" type=\"Folder\"\u003e25\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref28\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eApril 14, 1980\u003c/unittitle\u003e\u003cunitdate normal=\"1980/1980\" type=\"inclusive\"\u003e1980\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c2b6c3ce69659d44cb7a68f2416fa69f\" label=\"Mixed Materials (31142054877090)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_c2b6c3ce69659d44cb7a68f2416fa69f\" type=\"Folder\"\u003e26\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref29\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eApril 15, 1980\u003c/unittitle\u003e\u003cunitdate normal=\"1980/1980\" type=\"inclusive\"\u003e1980\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e321de2ec293443d1e5b2e8a7964b17d\" label=\"Mixed Materials (31142054877090)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e321de2ec293443d1e5b2e8a7964b17d\" type=\"Folder\"\u003e27\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_d2228a01bd6844a7b656f3e95fbd9599\"\u003e\u003chead\u003eGeneral\u003c/head\u003e\u003cp\u003eXeroxed Arthur Rimbaud in New York images, [Coney Island].\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003cc id=\"aspace_ref30\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMay 14, 1980\u003c/unittitle\u003e\u003cunitdate normal=\"1980/1980\" type=\"inclusive\"\u003e1980\u003c/unitdate\u003e\u003ccontainer id=\"aspace_09a2dff0da64f7b0ff0759c50c6179db\" label=\"Mixed Materials (31142054877090)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_09a2dff0da64f7b0ff0759c50c6179db\" type=\"Folder\"\u003e28\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref31\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMay 25, 1980\u003c/unittitle\u003e\u003cunitdate normal=\"1980/1980\" type=\"inclusive\"\u003e1980\u003c/unitdate\u003e\u003ccontainer id=\"aspace_065f783c26f03ed965a540c8e5ff2cb9\" label=\"Mixed Materials (31142054877090)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_065f783c26f03ed965a540c8e5ff2cb9\" type=\"Folder\"\u003e29\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref32\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eJune 28, 1980\u003c/unittitle\u003e\u003cunitdate normal=\"1980/1980\" type=\"inclusive\"\u003e1980\u003c/unitdate\u003e\u003ccontainer id=\"aspace_21af75ba047e6b36d0ae041c8beef196\" label=\"Mixed Materials (31142054877090)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_21af75ba047e6b36d0ae041c8beef196\" type=\"Folder\"\u003e30\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

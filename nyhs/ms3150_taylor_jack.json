@@ -1,0 +1,96 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "ms3150_taylor_jack"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Jack Taylor Papers\u003clb/\u003e1985–2017\u003clb/\u003e \u003cnum\u003eMS 3150\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Joseph Ditta"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2020-01-15T14:52:04\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Taylor, Jack, 1925–2019"
+                    }
+                },
+                "unittitle": {
+                    "value": "Jack Taylor papers"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "1985–2017"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": ".5 Linear feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(in 1 document box and 2 oversize folders)."
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Documentation of the drive to secure landmark designation for Tammany Hall at 100 East 17th Street, on Union Square, Manhattan. The building, designed by architects Thompson, Holmes \u0026amp; Converse and Charles B. Meyers and constructed in 1928–29, is the only surviving headquarters of Tammany Hall, the Democratic Party machine that dominated New York City politics during the 19th and early-20th centuries. For further details about this collection, and to request it for research, please read its \u003cextref actuate=\"onRequest\" href=\"http://bobcat.library.nyu.edu/permalink/f/22u4kq/nyu_aleph007451494\"\u003ecatalog record\u003c/extref\u003e, or write to \u003cemph render=\"boldunderline\"\u003emanuscripts@nyhistory.org\u003c/emph\u003e."
+                },
+                "unitid": {
+                    "value": "MS 3150"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "dsc": {}
+    }
+}

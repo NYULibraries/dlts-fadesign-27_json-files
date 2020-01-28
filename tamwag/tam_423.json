@@ -1,0 +1,163 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_423"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Norman Thomas Papers \u003cnum\u003eTAM.423\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-02-20T21:58:05\u003c/date\u003e"
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Bell, Daniel, 1919-2011"
+                    }
+                },
+                "unittitle": {
+                    "value": "Norman Thomas Papers"
+                },
+                "unitdate": {
+                    "normal": "1925/1969",
+                    "type": "inclusive",
+                    "value": "1925-1969"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Norman Mattoon Thomas (1884–1968), was a leading American socialist, pacifist, author, and six-time presidential candidate for president on the ticket of the Socialist Party of America, between 1928 and 1948. The collection contains correspondence, including some in his capacity as co-executive director of the League for Industrial Democracy, unpublished political and biographical writings, biographical sketches of his grandfather, Stephen Mattoon, Daniel Bell's 1954 correspondence with socialist luminaries around the world in preparation for the celebration of Thomas's seventieth birthday, and one typescript each by Broadus Mitchell and Emil Rieve, president of the American Federation of Hosiery Workers."
+                },
+                "unitid": {
+                    "value": "TAM.423"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_40613255af873531ca3e89288851858b",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_3516255d64b9ba10171e4369d8bb66f9",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: \u003clb/\u003e\u003clb/\u003eIdentification of item, date; Norman Thomas Papers; TAM 423; box number; folder number; \u003clb/\u003eTamiment Library/Robert F. Wagner Labor Archives \u003clb/\u003eElmer Holmes Bobst Library \u003clb/\u003e70 Washington Square South \u003clb/\u003eNew York, NY 10012, New York University Libraries."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_9969483c3d8f9efbad1aab4cb0bc5ffb",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "A portion of the materials was donated by Daniel Bell, date unknown; the provenance of the remainder is unknown. The accession number associated with this collecion is 1950.238."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_ad053aff641c9f6966f4e6c8f1b9f5b9",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "\u003clist\u003e\u003citem\u003ehttp://en.wikipedia.org/wiki/Norman_Thomas (August 22, 2008)\u003c/item\u003e\u003c/list\u003e "
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_8b8a37814f4b817493683caa576a394c",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "This small collection contains some of Norman Thomas' correspondence, including some in his capacity as co-executive director of the League for Industrial Democracy, unpublished political and biographical writings, including \"Forty Years of Communism,\" a 1939 radio speech on the revision of the Neutrality Act, a statement to the membership of the New York City Socialist Party, circa 1936, an undated memorandum on Local 306, Motion Picture Operators, biographical sketches of his grandfather, Stephen Mattoon (provided by the Johnson C. Smith University Library, North Carolina), Daniel Bell's 1954 correspondence with socialist luminaries around the world in preparation for the celebration of Thomas' seventieth birthday, and one typescript each by Broadus Mitchell and Emil Rieve, President of the American Federation of Hosiery Workers."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Socialists -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialism -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Pacifists |z United States."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Socialist Party (U.S.)"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref13\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: Papers, 1925-1969\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"134198\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e134198\u003c/unitid\u003e\u003c/did\u003e\u003cc id=\"aspace_ref14\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBell, Daniel: Correspondence\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"134216\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e134216\u003c/unitid\u003e\u003cunitdate\u003eNov 1947\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_291ce7022a7493f28d73a2dc5fab3675\" label=\"Mixed Materials [31142062733517]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_291ce7022a7493f28d73a2dc5fab3675\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence, General\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"134215\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e134215\u003c/unitid\u003e\u003cunitdate normal=\"1946/1964\" type=\"inclusive\"\u003e1946-1964\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_90e0bf9d44429023d94bfd80b22860bd\" label=\"Mixed Materials [31142062733517]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_90e0bf9d44429023d94bfd80b22860bd\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Forty Years of Communism\" (typescript, 18 pp.)\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"134214\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e134214\u003c/unitid\u003e\u003cunitdate normal=\"1958/1958\" type=\"inclusive\"\u003e1958\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_2429e0d8e3b0d84bc03ccc8643db4590\" label=\"Mixed Materials [31142062733517]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2429e0d8e3b0d84bc03ccc8643db4590\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"From a Book Without a Name: For My Family, Not for Publication\" (typescript, 21 pp.)\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"134213\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e134213\u003c/unitid\u003e\u003cunitdate normal=\"1942/1952\" type=\"inclusive\"\u003ecirca 1947\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_fa61db94f8fd913ad76a5f763e6c0008\" label=\"Mixed Materials [31142062733517]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_fa61db94f8fd913ad76a5f763e6c0008\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"From Unpublished Reminiscences of Norman Thomas\" (typescript, 3 pp.)\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"134212\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e134212\u003c/unitid\u003e\u003cunitdate\u003eAug 24, 1947\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_bca7e5276ef2a2103d9670d753e8a608\" label=\"Mixed Materials [31142062733517]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_bca7e5276ef2a2103d9670d753e8a608\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLeague for Industrial Democracy: Correspondence\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"134211\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e134211\u003c/unitid\u003e\u003cunitdate normal=\"1925/1931\" type=\"inclusive\"\u003e1925-1931\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_967a70fe337e1e61e180050e0d42d80c\" label=\"Mixed Materials [31142062733517]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_967a70fe337e1e61e180050e0d42d80c\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMattoon, Stephen [grandfather of NT]: Biographical Sketches Provided by Johnson C. Smith University Library (North Carolina)\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"134210\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e134210\u003c/unitid\u003e\u003cunitdate normal=\"1925/1969\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_6ff8c90b65e20c847a824d073072469f\" label=\"Mixed Materials [31142062733517]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_6ff8c90b65e20c847a824d073072469f\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMemorandum on Local # 306, Motion Picture Operators\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"134209\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e134209\u003c/unitid\u003e\u003cunitdate normal=\"1925/1969\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_fab3837d3d47226b79aa853dc761e236\" label=\"Mixed Materials [31142062733517]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_fab3837d3d47226b79aa853dc761e236\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMitchell, Broadus: \"Sabotage upon Civilization\"\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"134208\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e134208\u003c/unitid\u003e\u003cunitdate normal=\"1930/1940\" type=\"inclusive\"\u003ecirca 1935\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_61735eb5c5d95bac1b15c4d5a4920c61\" label=\"Mixed Materials [31142062733517]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_61735eb5c5d95bac1b15c4d5a4920c61\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Norman Thomas in Final Appeal\" (Socialist National Campaign Committee)\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"134207\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e134207\u003c/unitid\u003e\u003cunitdate\u003eNov 6, 1928\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_048df2302083dc637aeb7dfc3cccbc17\" label=\"Mixed Materials [31142062733517]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_048df2302083dc637aeb7dfc3cccbc17\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePrinted Ephemera: Card Announcing a Debate between Norman Thomas and Paul Douglas on the Topic \"Should America Follow the Policy of Collective Security?\"\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"134206\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e134206\u003c/unitid\u003e\u003cunitdate\u003eFeb 24, 1938\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_bdacb9049cba84ede3d47d64a2d77b2c\" label=\"Mixed Materials [31142062733517]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_bdacb9049cba84ede3d47d64a2d77b2c\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref26\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Peace on Earth, Good Will to Men\"\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"134204\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e134204\u003c/unitid\u003e\u003cunitdate normal=\"1934/1944\" type=\"inclusive\"\u003ecirca 1939\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_fbacce5696a80873c8fb967846d9a322\" label=\"Mixed Materials [31142062733517]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_fbacce5696a80873c8fb967846d9a322\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_b88cdfc753079f9e1b0d08f29444efdc\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePhotograph\u003c/unittitle\u003e\u003cunitdate normal=\"1925/1969\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Hollinger Flat OS 21\" id=\"aspace_c61a9731712aba468160d923006a828f\" label=\"Mixed Materials\" type=\"Box\"\u003eShared Tamiment 050\u003c/container\u003e\u003ccontainer parent=\"aspace_c61a9731712aba468160d923006a828f\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRadio Speech on Revision of Neutrality Act\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"134205\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e134205\u003c/unitid\u003e\u003cunitdate\u003eOct 13, 1939\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_adf0065ca7c60f844aa398b00ea5d5ad\" label=\"Mixed Materials [31142062733517]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_adf0065ca7c60f844aa398b00ea5d5ad\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRieve, Emil (president, American Federation of Hosiery Workers): \"Planned Consumption and Production\"\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"134203\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e134203\u003c/unitid\u003e\u003cunitdate normal=\"1929/1939\" type=\"inclusive\"\u003ecirca 1934\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_7d99c3373b8a24469961b6d4a41a28ea\" label=\"Mixed Materials [31142062733517]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_7d99c3373b8a24469961b6d4a41a28ea\" type=\"Folder\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref28\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Security versus Abundance\"\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"134202\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e134202\u003c/unitid\u003e\u003cunitdate normal=\"1930/1940\" type=\"inclusive\"\u003ecirca 1935\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_c92a7b527b585c932dd9243c7240e45c\" label=\"Mixed Materials [31142062733517]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_c92a7b527b585c932dd9243c7240e45c\" type=\"Folder\"\u003e15\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref29\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e70th Birthday Celebration: Daniel Bell Correspondence\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"134201\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e134201\u003c/unitid\u003e\u003cunitdate normal=\"1925/1969\" type=\"inclusive\"\u003eOct 5, 1954-Dec 20, 1954 , undated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_617b302009c61e74f8ece26b19df732a\" label=\"Mixed Materials [31142062733517]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_617b302009c61e74f8ece26b19df732a\" type=\"Folder\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref30\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Thomas Supports the War\"\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"134200\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e134200\u003c/unitid\u003e\u003cunitdate\u003eDec 1, 1941\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_15acafb145c3e75d56295611defda17f\" label=\"Mixed Materials [31142062733517]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_15acafb145c3e75d56295611defda17f\" type=\"Folder\"\u003e17\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref31\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"To the Membership of New York City [Socialist Party]\": Statement by Norman Thomas\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"134199\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e134199\u003c/unitid\u003e\u003cunitdate normal=\"1931/1941\" type=\"inclusive\"\u003ecirca 1936\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_3fbd002c7dd98061fa2c5cdc0819867e\" label=\"Mixed Materials [31142062733517]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_3fbd002c7dd98061fa2c5cdc0819867e\" type=\"Folder\"\u003e18\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_4c800652256629f9e4be8d353dcc2528\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLetter to Richard Reiss, Americans for Reappraisal of Far Eastern Policy, re \"Vietnam Talk\"\u003c/unittitle\u003e\u003cunitdate normal=\"1965-10-20/1965-10-20\"\u003e1965-10-20\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_5b5586b58a9647c48ac0f974fd356d4e\" label=\"Mixed Materials [31142062733517]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5b5586b58a9647c48ac0f974fd356d4e\" type=\"Folder\"\u003e19\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_2c9260c31839270573a67e0c4fb04b3d\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eVietnam Talk\u003c/unittitle\u003e\u003cunitdate normal=\"1965/1965\"\u003e1965\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_0a43cf3d2011bb50b82ca33ce421f029\" label=\"Audio [31142062882207]\" type=\"Box\"\u003eShared Tamiment 013\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

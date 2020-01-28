@@ -1,0 +1,143 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1977_637_hall"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the George Hall address to the Brooklyn Board of Trustees\n                    \u003cnum\u003e1977.637\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Matthew Gorham"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "July 14, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-17T11:26-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Hall, George, 1795-1868"
+                    }
+                },
+                "unittitle": {
+                    "value": "George Hall address to the Brooklyn Board of Trustees"
+                },
+                "unitdate": {
+                    "normal": "1834/1834",
+                    "value": "1834"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.08 Linear feet"
+                        },
+                        {
+                            "value": "in one folder"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "1977.637"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid896008",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0073"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref6",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); George Hall address to the Brooklyn Board of Trustees, 1977.637, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref4",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of James Tanner, 1889."
+            }
+        },
+        "bioghist": {
+            "id": "ref3",
+            "head": "Biographical note",
+            "p": {
+                "value": "George Hall (1795-1868) was born in the town of Flatbush and attended Erasmus High School. In 1826 and 1832 he was elected trustee of Brooklyn's third ward. In 1834, as Brooklyn became incorporated, the Board of Alderman selected him as the new city's Mayor."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "A handwritten manuscript of an address given by George Hall to the Brooklyn Board of Trustees of Brooklyn, upon his election as Mayor."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Mayors |z New York (State) |z Kings County"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

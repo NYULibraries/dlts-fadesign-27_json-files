@@ -1,0 +1,144 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "irmatuckweiss"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Irma Tuck Weiss Papers\n                    \u003clb/\u003e\n                    \u003cdate\u003e1954-1986\u003c/date\u003e\n                    \u003clb/\u003e\n                    \u003cnum\u003eMC 211\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Clotilde Trouve and University Archives staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2009-05-07T13:56-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "ingest",
+                        "value": "Tuck-Weiss, Irma."
+                    }
+                },
+                "unittitle": {
+                    "value": "Irma Tuck-Weiss Papers"
+                },
+                "unitdate": {
+                    "value": "1954-1986"
+                },
+                "physdesc": {
+                    "label": "General Physical Description note",
+                    "extent": [
+                        {
+                            "value": "1.0 boxes"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Irma Tuck Weiss was a professor of biochemistry at New York University from 1950-1978. From 1980-1981, she also served as the president of the College of Dentistry at New York University. Her main research topics included human saliva. This collection is comprised of her notes and research analyses."
+                },
+                "unitid": {
+                    "value": "MC 211"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref5",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open for research without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "ref7",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form:\n                \u003clb/\u003e\n                \u003clb/\u003eIdentification of item, date (if known); The Irma Tuck-Weiss Papers; MC 211; box number; folder number; \n                \u003caddress\u003e\n                    \u003caddressline\u003eNew York University\u003c/addressline\u003e\n                \u003c/address\u003e"
+            }
+        },
+        "bioghist": {
+            "id": "ref8",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "She died on February 19, 2004 in New York. A scholarship was established in her honor."
+            }
+        },
+        "scopecontent": {
+            "id": "ref9",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "This collection contains notes, paper electropherograms and writings by Dr. Irma Tuck-Weiss. The bulk of the collection documents Dr. Tuck-Weiss' professional life through correspondence, published articles, historical research, and information regarding her membership in various professional associations."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Biochemistry."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Electrophoresis."
+                }
+            ],
+            "corpname": {
+                "source": "ingest",
+                "value": "New York University. College of Dentistry."
+            }
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref11\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref12\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAntibacterial properties of saliva: Research and publications\u003c/unittitle\u003e\n                        \u003ccontainer type=\"Box\"\u003e1\u003c/container\u003e\n                        \u003ccontainer type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate\u003e1958-1965\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref13\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAntifungal research and analysis\u003c/unittitle\u003e\n                        \u003ccontainer type=\"Box\"\u003e1\u003c/container\u003e\n                        \u003ccontainer type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate\u003e1966-1968\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref14\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAwards\u003c/unittitle\u003e\n                        \u003ccontainer type=\"Box\"\u003e1\u003c/container\u003e\n                        \u003ccontainer type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate\u003e1965-1981\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref15\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eClass notes\u003c/unittitle\u003e\n                        \u003ccontainer type=\"Box\"\u003e1\u003c/container\u003e\n                        \u003ccontainer type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate\u003e1973\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref16\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence and photographs\u003c/unittitle\u003e\n                        \u003ccontainer type=\"Box\"\u003e1\u003c/container\u003e\n                        \u003ccontainer type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate\u003e1962-1976\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref17\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eGlycoprotein analysis\u003c/unittitle\u003e\n                        \u003ccontainer type=\"Box\"\u003e1\u003c/container\u003e\n                        \u003ccontainer type=\"Folder\"\u003e6\u003c/container\u003e\n                        \u003cunitdate\u003e1966\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref18\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eJournals, bulletins and annoucements\u003c/unittitle\u003e\n                        \u003ccontainer type=\"Box\"\u003e1\u003c/container\u003e\n                        \u003ccontainer type=\"Folder\"\u003e7\u003c/container\u003e\n                        \u003cunitdate\u003e1955-1965\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref19\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMiscellaneous writings\u003c/unittitle\u003e\n                        \u003ccontainer type=\"Box\"\u003e1\u003c/container\u003e\n                        \u003ccontainer type=\"Folder\"\u003e8\u003c/container\u003e\n                        \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref20\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePhotographs and images\u003c/unittitle\u003e\n                        \u003ccontainer type=\"Box\"\u003e1\u003c/container\u003e\n                        \u003ccontainer type=\"Folder\"\u003e9\u003c/container\u003e\n                        \u003cunitdate\u003e1954-1986\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref21\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePress clippings\u003c/unittitle\u003e\n                        \u003ccontainer type=\"Box\"\u003e1\u003c/container\u003e\n                        \u003ccontainer type=\"Folder\"\u003e10\u003c/container\u003e\n                        \u003cunitdate\u003e1959-1979\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref22\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePublications on human saliva\u003c/unittitle\u003e\n                        \u003ccontainer type=\"Box\"\u003e1\u003c/container\u003e\n                        \u003ccontainer type=\"Folder\"\u003e11\u003c/container\u003e\n                        \u003cunitdate\u003e1960-1969\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref23\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eResearch\u003c/unittitle\u003e\n                        \u003ccontainer type=\"Box\"\u003e1\u003c/container\u003e\n                        \u003ccontainer type=\"Folder\"\u003e12\u003c/container\u003e\n                        \u003cunitdate\u003e1966\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref24\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eResearch, notes and publication\u003c/unittitle\u003e\n                        \u003ccontainer type=\"Box\"\u003e1\u003c/container\u003e\n                        \u003ccontainer type=\"Folder\"\u003e13\u003c/container\u003e\n                        \u003cunitdate\u003e1954-1964\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref25\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eResearch, notes and results\u003c/unittitle\u003e\n                        \u003ccontainer type=\"Box\"\u003e1\u003c/container\u003e\n                        \u003ccontainer type=\"Folder\"\u003e14\u003c/container\u003e\n                        \u003cunitdate\u003e1960-1975\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref26\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eResearch on electrophoresis\u003c/unittitle\u003e\n                        \u003ccontainer type=\"Box\"\u003e1\u003c/container\u003e\n                        \u003ccontainer type=\"Folder\"\u003e15\u003c/container\u003e\n                        \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref27\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eResearch on electrophoresis\u003c/unittitle\u003e\n                        \u003ccontainer type=\"Box\"\u003e1\u003c/container\u003e\n                        \u003ccontainer type=\"Folder\"\u003e16\u003c/container\u003e\n                        \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref28\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSalivary indexing\u003c/unittitle\u003e\n                        \u003ccontainer type=\"Box\"\u003e1\u003c/container\u003e\n                        \u003ccontainer type=\"Folder\"\u003e17\u003c/container\u003e\n                        \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref29\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSalivary indexing\u003c/unittitle\u003e\n                        \u003ccontainer type=\"Box\"\u003e1\u003c/container\u003e\n                        \u003ccontainer type=\"Folder\"\u003e18\u003c/container\u003e\n                        \u003cunitdate\u003e1960\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref30\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSalivary indexing\u003c/unittitle\u003e\n                        \u003ccontainer type=\"Box\"\u003e1\u003c/container\u003e\n                        \u003ccontainer type=\"Folder\"\u003e19\u003c/container\u003e\n                        \u003cunitdate\u003e1960-1963\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref31\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSalivaring indexing and notes\u003c/unittitle\u003e\n                        \u003ccontainer type=\"Box\"\u003e1\u003c/container\u003e\n                        \u003ccontainer type=\"Folder\"\u003e20\u003c/container\u003e\n                        \u003cunitdate\u003e1958-1965\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref32\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSalivary indexing and notes\u003c/unittitle\u003e\n                        \u003ccontainer type=\"Box\"\u003e1\u003c/container\u003e\n                        \u003ccontainer type=\"Folder\"\u003e21\u003c/container\u003e\n                        \u003cunitdate\u003e1962\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref33\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSalivary indexing and notes\u003c/unittitle\u003e\n                        \u003ccontainer type=\"Box\"\u003e1\u003c/container\u003e\n                        \u003ccontainer type=\"Folder\"\u003e22\u003c/container\u003e\n                        \u003cunitdate\u003e1959\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref34\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSalivary indexing, groups 4-6\u003c/unittitle\u003e\n                        \u003ccontainer type=\"Box\"\u003e1\u003c/container\u003e\n                        \u003ccontainer type=\"Folder\"\u003e23\u003c/container\u003e\n                        \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1977_510_reformed_dutch_church_flatbush"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Reformed Protestant Dutch Church of Flatbush land lease to the Trustees of the Town of Flatbush\n                    \u003cnum\u003e1977.510\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "July 15, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-11T16:11-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Reformed Protestant Dutch Church of Flatbush land lease to the Trustees of the Town of Flatbush"
+                },
+                "unitdate": {
+                    "normal": "1848/1848",
+                    "value": "1848"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.01 Linear feet"
+                        },
+                        {
+                            "value": "in one folder."
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Lease between the Protestant Reformed Dutch Church of Flatbush and the Trustees of the Town of Flatbush, providing for the building and continued use of a common school on church-owned land in Flatbush School District No. 1. The document is dated January 1, 1848."
+                },
+                "unitid": {
+                    "value": "1977.510"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid903005",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0071"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref3",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Reformed Protestant Dutch Church of Flatbush land lease to the Trustees of the Town of Flatbush, 1977.510, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref4",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of J. Duffield Prince, 1953."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Church property |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Education |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Leases |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Public schools |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Flatbush School District No.1 (New York, N.Y.)."
+            }
+        },
+        "dsc": {}
+    }
+}

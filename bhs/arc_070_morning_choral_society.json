@@ -1,0 +1,144 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arc_070_morning_choral_society"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Morning Choral Society records\n                    \u003cnum\u003eARC.070\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Leilani Dawson"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "August 1, 2006"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-22T15:06-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Sammond, Herbert Stavely, 1871-1964"
+                    }
+                },
+                "unittitle": {
+                    "value": "Morning Choral Society records"
+                },
+                "unitdate": {
+                    "normal": "1919/1964",
+                    "type": "inclusive",
+                    "value": "1919-1964"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "3.1 Linear feet"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "ARC.070"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid369004",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref2",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref3",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Morning Choral Society records, ARC.070, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "bioghist": {
+            "id": "ref1",
+            "head": "Historical note",
+            "p": {
+                "value": "The Morning Choral Society was founded in 1919 by Herbert Stavely Sammond (1871-1964) as a non-sectarian women’s amateur vocal group. The group’s regular activities included two major annual concerts in the spring and winter. During the group's early years, rehearsals were held on Tuesday mornings, and then on Wednesday mornings and Monday evenings during its later period. Sammond acted as organist and conductor until his retirement in 1948. The Society was also involved with social events and fundraisers such as annual Spring luncheons and card parties. Howard Kasschan took over as conductor in 1949. The Society voted to disband at its annual meeting in 1962."
+            }
+        },
+        "scopecontent": {
+            "id": "ref4",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection contains records pertaining to the organizational activities and structure of the Society, including minutes, annual reports, budgets, and membership lists. It also includes material created for, or generated by, its member activities including programs, brochures, and scrapbooks with newspaper clippings. There are two photographs and a small collection of sheet music. Little correspondence is included. The records have divided into the following seven series: 1. Correspondence; 2. Reports and minutes; 3. Membership and activities; 4. Printed material and photographs; 5. Scrapbooks; 6. Manuscripts; 7. Sheet music."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Choral societies |z New York (State) |z New York"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Morning Choral Society (Brooklyn, New York, N.Y.)."
+            }
+        },
+        "otherfindaid": {
+            "id": "ref5",
+            "head": "Other Finding Aids note"
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref7\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\n                    \u003cunitdate normal=\"1947/1959\" type=\"inclusive\"\u003e1947-1959\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref8\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003e\n                        \u003cemph render=\"bold\"\u003eCorrespondence\u003c/emph\u003e consists of a few letters received by the society, as well as several pieces of blank stationery, assumed to be samples.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref9\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eReports and minutes\u003c/unittitle\u003e\n                    \u003cunitdate normal=\"1945/1962\" type=\"inclusive\"\u003e1945-1962\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref10\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003e\n                        \u003cemph render=\"bold\"\u003eReports and minutes\u003c/emph\u003e contains reports from the Society’s officers as well as from the chairpersons of the various committees. Also included are the minutes of board meetings and annual meetings.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref11\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eMembership activities\u003c/unittitle\u003e\n                    \u003cunitdate normal=\"1919/1960\" type=\"inclusive\"\u003e1919-1960\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref12\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003e\n                        \u003cemph render=\"bold\"\u003eMembership activities\u003c/emph\u003e consists of membership lists, activities, notices, and speeches.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref13\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eEvent materials and photographs\u003c/unittitle\u003e\n                    \u003cunitdate normal=\"1935/1961\" type=\"inclusive\"\u003e1935-1961\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref14\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003e\n                        \u003cemph render=\"bold\"\u003eEvent materials and photographs\u003c/emph\u003e consists of programs, invitations, concert tickets, luncheon menus, calendars of events, and two 1944 photographs.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref15\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eScrapbooks and clippings\u003c/unittitle\u003e\n                    \u003cunitdate normal=\"1919/1964\" type=\"inclusive\"\u003e1919-1964\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref16\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003e\n                        \u003cemph render=\"bold\"\u003eScrapbooks and clippings\u003c/emph\u003e consists of scrapbooks and newspaper clippings. The bulk of the collection is newspaper clippings. Items also include programs, flyers, posters, correspondence, a disbandment letter and an IRS return.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref17\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eHerbert Stavely Sammond manuscript\u003c/unittitle\u003e\n                    \u003cunitdate normal=\"1958/1958\"\u003e1958\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref18\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003e\n                        \u003cemph render=\"bold\"\u003eHerbert Stavely Sammond manuscript\u003c/emph\u003e consists of a typed manuscript of the autobiography of Herbert Stavely Sammond.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

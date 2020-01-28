@@ -1,0 +1,149 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "ms3137_bill_cunningham"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Bill Cunningham Collection\u003clb/\u003e1957-2017\u003clb/\u003e \u003cnum\u003eMS 3137\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Larry Weimer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-07-01T16:28:16\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Cunningham, William J."
+                    }
+                },
+                "unittitle": {
+                    "value": "Bill Cunningham collection"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "circa 1957-2017"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "2.21 Linear feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one document box and one oversize folder"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The collection includes various items related to the fashion designer and photographer Bill Cunningham (1929-2016), especially in connection with his friendship with artist Roberta Wolfe-Baer (1925-2016). The collection includes Cunningham's notes to Wolfe-Baer, photographs of Wolfe-Baer wearing an orange feather hat of Cunningham's design, newspaper clippings and tearsheets with articles by or about Cunningham, a \"William J.\" business card, and other items."
+                },
+                "unitid": {
+                    "value": "MS 3137"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_0d92cc49435c45a0020aff88bd737b62",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to qualified researchers."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_99e678447198183a32fdbbc2f5a26174",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "This collection should be cited as the Bill Cunningham collection, MS 3137, New-York Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_188099752a3c0a0c1b04e270ca86cf7d",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "The collection was acquired by N-YHS's Museum Department by purchase from Augusta Auctions, lots \u003cextref actuate=\"onRequest\" href=\"https://augusta-auction.com/list-of-past-auctions-by-date?view=lot\u0026amp;id=17912\u0026amp;auction_file_id=48\"\u003e335\u003c/extref\u003eand \u003cextref actuate=\"onRequest\" href=\"https://augusta-auction.com/list-of-past-auctions-by-date?view=lot\u0026amp;id=18209\u0026amp;auction_file_id=48\"\u003e336\u003c/extref\u003e, on October 25, 2017. The museum retained objects from the lots, including the orange feather hat, and transferred the letters, clippings, etc. to the N-YHS Library in 2019."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_21f10a995ed076673f79bbb355d83e8b",
+            "head": "Biographical / Historical",
+            "p": {
+                "value": "Bill Cunningham (1929-2016) was born in Boston. After dropping out of Harvard in 1948, he moved to New York City, where he lived in the Carnegie Hall apartments and began his business designing hats under the name \"William J.\" He closed the shop in 1962. By the late 1970s, he had earned a reputation for his street and fashion photography, leading to regular features in the New York Times and photo spreads in magazines such as Details."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_922c895c879f93525bbd640eff698aa1",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "In addition to the Wolfe-Baer notes, the collection includes an extensive number of newspaper clippings from around 1960 that relate to Cunningham's fashion work of the time, when he was known as William J. There are also several clippings from the late 1990s and into the 2000s when his photography appeared in the New York Times. Other clippings and tearsheets include articles by or about Cunningham."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Fashion design."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Fashion photography."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Street photography."
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_698299ece002e19ebfb08825b66c75b2\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNotes to Roberta Wolfe-Baer (2 folders)\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003ecirca 1979-2016\u003c/unitdate\u003e\u003ccontainer id=\"aspace_93e0144b23dcea8a9e26cca3213a8605\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_93e0144b23dcea8a9e26cca3213a8605\" type=\"Folder\"\u003e1-2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_08771baf08f18944cf58ebf7848afa86\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNotes to Roberta Wolfe-Baer. Oversize\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1998-2014\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f259c8debd96f2a19e7009e76d6573e4\" label=\"Mixed Materials\" type=\"Folder\"\u003eOS-Small\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_76157a7249d5259e83bc6a8a796df730\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eClips of Cunningham's \"On the Street\" and other New York Times features that were sent to Wolfe-Baer by Cunningham with notes to her written around the article or on attached Post-it stickies.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_99510b0f786c6e1e6670ad1c3f6a6655\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBusiness Card / Note\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_cb30822839a9372d1eb75239b0887525\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_cb30822839a9372d1eb75239b0887525\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_cd16f762d509767d8fde48ec304e405d\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eWilliam J. illustrated business card, with handwritten note on back.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ba0e30b249adec6264ff7efea8b7b7f2\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePhotographs\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5fe15a945728bee356d156cdf078a696\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5fe15a945728bee356d156cdf078a696\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_0aea0f86aba80a3a131a6985bce3d480\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003ePhoto of happy Cunningham with woman wearing a hat; photo of Roberta Wolfe-Baer wearing orange feather hat; photo of Wolfe-Baer wearing Bee Hive Hat; other related reproductions; obituary of Wolfe-Baer.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_a8c51b95209be8d2c1909885f6a59a23\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eIssue of \"Paper\" Magazine\u003c/unittitle\u003e\u003cunitdate\u003e1998 September\u003c/unitdate\u003e\u003ccontainer id=\"aspace_61030cea076d8d888fe4ba1b35a1ccbe\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_61030cea076d8d888fe4ba1b35a1ccbe\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_498c6919603042f01e853501ba2f1139\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eIncludes portion of magazine oncerning fashion with Cunningham's annotations.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_adccc915aae514cef312d037ba08d6e4\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e[\"Details\" magazine]\u003c/unittitle\u003e\u003cunitdate\u003e1984?\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ee9a7b733dc17c880f57b27297f683dc\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ee9a7b733dc17c880f57b27297f683dc\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_aa5f3db31e188c1a40b93918b1271e21\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003ePortion of magazine with fashion article and photographs by Cunningham\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ff0149b77e2447788d792d0e102029ae\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Details\" magazine\u003c/unittitle\u003e\u003cunitdate\u003e1985\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7a2cf348f3b855d7434467d69337682c\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_7a2cf348f3b855d7434467d69337682c\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_e536ed609f9ac8c864a13440a571e4e3\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eIncludes portion of magazine with fashion article and photographs by Cunningham\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_54fb0bdb3d08fb8d6d27fea4f4b6a6fe\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eClippings (2 folders)\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003ecirca 1957-1962\u003c/unitdate\u003e\u003ccontainer id=\"aspace_59945c4e28709d7201b16f8d75b754be\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_59945c4e28709d7201b16f8d75b754be\" type=\"Folder\"\u003e9-10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_514a259a920b39a4fd82e6190051c817\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eClippings (Later Life/Obituaries)\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e2011-2016\u003c/unitdate\u003e\u003ccontainer id=\"aspace_8e337937a095a86508632a6f63a7ae99\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_8e337937a095a86508632a6f63a7ae99\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_174fc716ba7ef23ab4ac6b6f5a9194be\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eClippings. Oversize\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003ecirca 1960-2016\u003c/unitdate\u003e\u003ccontainer id=\"aspace_af9d6e3ab88d436f1b0bef09b09c8286\" label=\"Mixed Materials\" type=\"Folder\"\u003eOS-Small\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_7d36800b2630e58814eb8e02dae23e96\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLabel for Augusta Auctions lot 336\u003c/unittitle\u003e\u003cunitdate\u003e2017 October 25\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f88c608027003e0956094d7533817f72\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f88c608027003e0956094d7533817f72\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

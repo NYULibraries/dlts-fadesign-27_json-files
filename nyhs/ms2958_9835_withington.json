@@ -1,0 +1,95 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "ms2958_9835_withington"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Inventory of the Estate of John Withington\u003clb/\u003e1822\u003clb/\u003e \u003cnum\u003eAHMC - Withington, John\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Larry Weimer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-07-30T20:04:09\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Hewitt, Thomas (china merchant)"
+                    }
+                },
+                "unittitle": {
+                    "value": "Inventory of the estate of John Withington"
+                },
+                "unitdate": {
+                    "value": "1822 April 6"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 documents"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one folder"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Inventory and appraisal of the goods, chattels, and credits of New York brewer John Withington's estate, taken by executors Thomas Hewitt and Samuel Milbank. Amounting to a value of about 96,000 pounds (currency), the inventory lists the buildings, fixtures and stock for Withington's brewery; carriages; gold watch; summary value of household furniture and library; itemized financial assets (cash, stocks, bonds, mortgages, notes, cash loans), and debts owed Withington by individual name. The last includes individual amounts categorized by the likelihood of their payment (good, doubtful, bad). In addition to the executors, the document is signed by surrogate James Campbell and witnesses Elizabeth Withington, Jonathan Hudson, Joseph Hudson, William Colgate, and Robert Thompson. (The folder includes some photocopied documents, mostly from city directories, provided by the donor of the inventory, with background historical information on Withington, Milbank and New York breweries of the time.)\u003clb/\u003e \u003clb/\u003e\n\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: \u003cextref actuate=\"onRequest\" href=\"http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph007371228\u0026amp;context=L\u0026amp;vid=NYHS\u0026amp;search_scope=nyhs\u0026amp;tab=nyhs\u0026amp;lang=en_US\"\u003eInventory of the estate of John Withington\u003c/extref\u003e"
+                },
+                "unitid": {
+                    "value": "AHMC - Withington, John"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "dsc": {}
+    }
+}

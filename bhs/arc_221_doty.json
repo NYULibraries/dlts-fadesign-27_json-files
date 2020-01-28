@@ -1,0 +1,142 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arc_221_doty"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Robert Doty deeds\n                    \u003cnum\u003eARC.221\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "June 10, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-28T11:03-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Tappin, Jeremiah"
+                    }
+                },
+                "unittitle": {
+                    "value": "Robert Doty deeds"
+                },
+                "unitdate": {
+                    "normal": "1803/1805",
+                    "type": "inclusive",
+                    "value": "1803-1805"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.03 Linear feet"
+                        },
+                        {
+                            "value": "in two folders."
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Three land deeds, dated 1803 and 1805, between Robert Doty, an African American of Jericho in the town of Oyster Bay, Queens County, and George and Jeremiah Tappin, also of Oyster Bay."
+                },
+                "unitid": {
+                    "value": "ARC.221"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid825001",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0051"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref6",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Robert Doty deeds, ARC.221, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref4",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Source and date of acquisition for accession 1977.215 are unknown. Accession 1977.505 was the gift of John C. Gardiner, 1954. The collection was formally accessioned in 1977."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "African Americans |z New York (State) |z Oyster Bay"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Land titles |z New York (State) |z Oyster Bay"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Real property |z New York (State) |z Oyster Bay"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,149 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-F",
+            "value": "mss_474"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to Jarrod Anderson Drawings \u003cnum\u003eMSS.474\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Stacey Flatt"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Fales Library and Special Collections"
+                },
+                "address": {
+                    "addressline": [
+                        "Fales Library and Special Collections",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "3rd Floor",
+                        "New York, NY 10012",
+                        "Phone: (212) 998-2596",
+                        "fales.library@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-03-27T19:27:49\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Fales Library and Special Collections"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Anderson, Jarrod"
+                    }
+                },
+                "unittitle": {
+                    "value": "Jarrod Anderson Drawings"
+                },
+                "unitdate": {
+                    "normal": "2006/2007",
+                    "type": "inclusive",
+                    "value": "2006-2007"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 linear feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 oversize flat box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Jarrod Anderson is an artist/illustrator. He graduated from Ringling School of Art and Design in 2003. Anderson was the illustrator for \u003cemph render=\"italic\"\u003eThe Weaklings\u003c/emph\u003e (2008), written by Dennis Cooper. He has also exhibited his artwork in various galleries. Anderson's collection consists of nine very fine line graphite drawings, with a similar look to etching. Works were executed in 2006, 2007, and some undated. Subjects consist of human figures, everyday objects, and vignettes."
+                },
+                "unitid": {
+                    "value": "MSS.474"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_8b6bfde4aadd33ac82ed444f7a1f1951",
+                    "label": "Mixed Materials (31142054891042)",
+                    "type": "Folder",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_d4e210da04fbcbeae1e50c97734e15ab",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers. Appointments are necessary for the use of manuscript and archival collections."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_7530a050ada2a1991f3224165a83cffe",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Jarrod Anderson Drawings; MSS 474; box number; folder number; Fales Library and Special Collections, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_9bc4f5f66ecd07bf4e7654fbb73f6195",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Jarrod Anderson in 2017; the accession number associated with this gift if 2017.009."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_2a0a9145fc5a6355fdd298fef3048572",
+            "head": "Biographical / Historical",
+            "p": {
+                "value": "Jarrod Anderson is an artist/illustrator. He graduated from Ringling School of Art and Design in 2003. Anderson was the illustrator for \u003cemph render=\"italic\"\u003eThe Weaklings\u003c/emph\u003e (2008), written by Dennis Cooper. He has also exhibited his artwork in various galleries."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_df9c33a43993b843220b626f46f84175",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection consists of nine drawings by artist/illustrator Jarrod Anderson, executed between 2006-2007. The works are very fine line drawings in graphite, with a similar look to etching. Subjects consist of human figures, every day objects, and vignettes."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Art, American -- 21th century"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

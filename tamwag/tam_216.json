@@ -1,0 +1,148 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_216"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Don Chenoweth Papers \u003cnum\u003eTAM.216\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Peter Sohmer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "2nd Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2596",
+                        "special.collections@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2020-01-03T20:15:47\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "Creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Chenoweth, Don"
+                    }
+                },
+                "unittitle": {
+                    "value": "Don Chenoweth Papers"
+                },
+                "unitdate": {
+                    "normal": "1920/1969",
+                    "type": "inclusive",
+                    "value": "circa 1920s-1960s"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "10 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 8 record cartons and 4 manuscript boxes."
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Donald J. Chenoweth was a socialist activist. This collection contains material from multiple socialist organizations he was involved with from the 1930s through the 1950s, including the Independent Socialist League, the Socialist Workers Party, the Workers Party, and the Young People's Socialist League."
+                },
+                "unitid": {
+                    "value": "TAM.216"
+                },
+                "langmaterial": {}
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_ed0e63b247f0e5fc9f7a643d421b51ae",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_3346e3fce6d9c65a5718ff16fb81660c",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials were donated by Leslie Chenoweth in 1999. The accession number associated with this gift is 1950.169."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_439296f3e2367eb47af26cfe5d8342ca",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Donald J. Chenoweth was a socialist activist and member of the Independent Socialist League, and of other progressive collections."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_fc920b79eba8abdde0a45b6d027792f1",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection contains material including minutes, internal memos, circulars, publications, and correspondence of American socialist groups including the Independent Socialist League, the Socialist Workers Party, the Workers Party, and the Young People's Socialist League. Also part of the collection are articles, magazines, and other publications on topics related to socialism and, especially, Trotskyism, mostly from the 1930s- early 1950s."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Socialism -- United States -- 20th century."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialism -- United States -- Newspapers."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialism -- United States -- Periodicals."
+                },
+                {
+                    "source": "local",
+                    "value": "Trotskyism -- United States."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Young People's Socialist League"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_4e121488a8ad7f4028a0491858836e45\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePamphlets, Magazines, Bulletins, Article drafts\u003c/unittitle\u003e\u003cunitdate normal=\"1930/1959\" type=\"inclusive\"\u003ecirca 1930s-1950s\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_fbe8ba206c569e8fa54378a3de5984ae\" label=\"Mixed Materials [31142063135381]\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ff2ff282299b723c1a12cd143debf896\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePublications, Pamphlets, Article drafts, Notes, Manuscripts\u003c/unittitle\u003e\u003cunitdate normal=\"1930/1969\" type=\"inclusive\"\u003ecirca 1930s-1960s\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_6e3130549a2b7668c3d3c444b8d59310\" label=\"Mixed Materials [31142063135399]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_893b8134e0387a1d2a5127d584cee89d\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePamphlets, Article drafts, Correspondence, Articles, Bulletins\u003c/unittitle\u003e\u003cunitdate normal=\"1930/1949\" type=\"inclusive\"\u003ecirca 1930s-1940s\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_093bd46d3c16e238968064a9976b5e6f\" label=\"Mixed Materials [31142063135407]\" type=\"Box\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_a1fd498a5bee58d4f7c3e08889beb95a\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBulletins, Circulars, Correspondence, Minutes, Publications\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003ecirca 1930s-1950s\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_a70294f88d18004e98e8e8b44eeb57ef\" label=\"Mixed Materials [31142063135415]\" type=\"Box\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_487e559081bc72a1895ae577c5b2c046\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence, Minutes, Circulars\u003c/unittitle\u003e\u003cunitdate normal=\"1940/1959\" type=\"inclusive\"\u003ecirca 1940s-1950s\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_bf734041b860947838bd946b21d43b3a\" label=\"Mixed Materials [31142063135423]\" type=\"Box\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_c1ec497e2120e4ffe761dbe7f00e67c7\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMinutes, Notes, Magazines, Newspapers\u003c/unittitle\u003e\u003cunitdate normal=\"1940/1959\" type=\"inclusive\"\u003ecirca 1940s-1950s\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_43327916795958344e290bae4c08c959\" label=\"Mixed Materials [31142063135431]\" type=\"Box\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_95e3a37e510733e120a72fdb67b6e9e8\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence, Minutes, Memos, Bulletins\u003c/unittitle\u003e\u003cunitdate normal=\"1940/1959\" type=\"inclusive\"\u003ecirca 1940s-1950s\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_3597e8505d313a4c2510f0392d774996\" label=\"Mixed Materials [31142067117955]\" type=\"Box\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_20d378f1da365c35934fd795d3daa0dd\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence, Minutes, Memos, Bulletins\u003c/unittitle\u003e\u003cunitdate normal=\"1940/1959\" type=\"inclusive\"\u003ecirca 1940s-1950s\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_b2670f8dd6ba8a50817382124bb50f61\" label=\"Mixed Materials [31142067117963]\" type=\"Box\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_1094d633db80200e724321634a635f14\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePublications, Pamphlets\u003c/unittitle\u003e\u003cunitdate normal=\"1920/1959\" type=\"inclusive\"\u003ecirca 1920s-1950s\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_930a581960ef6527100d1f8882cbdabf\" label=\"Mixed Materials [31142067117971]\" type=\"Box\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_d5a401621bbde70ed698f770dad10ae3\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePublications, Pamphlets\u003c/unittitle\u003e\u003cunitdate normal=\"1920/1959\" type=\"inclusive\"\u003ecirca 1920s-1950s\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_8f34914eb4766373525d73ba596bdcd6\" label=\"Mixed Materials [31142067117989]\" type=\"Box\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ea6e4f18578f438db2427e0a481b154b\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePublications, Pamphlets, Newspapers, Article drafts, Correspondence\u003c/unittitle\u003e\u003cunitdate normal=\"1920/1959\" type=\"inclusive\"\u003ecirca 1920s-1950s\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_452870b2264669860836fc00f19e825d\" label=\"Mixed Materials [31142067117930]\" type=\"Box\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_75d137fefa3b90c5ee832b6208ebf4d7\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDrafts, Circulars, Bulletins, Magazines\u003c/unittitle\u003e\u003cunitdate normal=\"1920/1959\" type=\"inclusive\"\u003ecirca 1920s-1950s\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton - lengthwise\" id=\"aspace_0d5b848c7f9cc957e91f2c55baf9c89e\" label=\"Mixed Materials [31142067117948]\" type=\"Box\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

@@ -1,0 +1,155 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1991_017_champion"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the John C. Champion journal\n                    \u003cnum\u003e1991.017\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Matthew Gorham"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "October 4, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-21T16:00-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Champion, John C."
+                    }
+                },
+                "unittitle": {
+                    "value": "John C. Champion journal"
+                },
+                "unitdate": {
+                    "normal": "1862/1862",
+                    "value": "1862"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.1 items"
+                        },
+                        {
+                            "value": "in one folder"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "1991.017"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1058003",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0115"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref6",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); John C. Champion journal, 1991.017, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref5",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Source and date of acquisition unknown. The journal was formally accessioned in 1991."
+            }
+        },
+        "bioghist": {
+            "id": "ref4",
+            "head": "Historical note",
+            "p": {
+                "value": "The U.S.S. Adirondack was a screw sloop launched on February 22, 1862 at the New York Naval Shipyard (more commonly known as the Brooklyn Navy Yard) and commissioned later in the year under the command of G. Gansevoort. The Adirondack joined the South Atlantic Blockading Squadron as part of the Union cause in the American Civil War in July 1862. During July and August the ship cruised near the Bahamas in search of Confederate vessels. On August 22, 1862, the Adirondack ran aground on Little Bahama Bank, Abaco, Man of War Cay, Bahama Islands. Her crew was rescued but all salvage attempts failed to rescue the ship."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "A manuscript journal, written by John C. Champion, a crew member of the U.S.S. Adirondack, listing all the men on board, their rank, duties, battle stations, arms carried, and written orders and commands for 11 foot pivot guns. The journal is dated 1862."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Sailors"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Ships"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Sloops"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "New York Naval Shipyard."
+            }
+        },
+        "dsc": {}
+    }
+}

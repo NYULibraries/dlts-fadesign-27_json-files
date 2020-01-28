@@ -1,0 +1,150 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "tam_422"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Tuli Kupferberg: Radical Humor Collection\n                    \u003cnum\u003eTAM.422\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "11/21/2009"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T19:40-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Tuli Kupferberg"
+                    }
+                },
+                "unittitle": {
+                    "value": "Tuli Kupferberg: Radical Humor Collection"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.25 linear feet"
+                        },
+                        {
+                            "value": "(1 box)"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "TAM.422"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid18849004",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "bioghist": {
+            "id": "ref3",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Tuli Kupferberg (September 28, 1923 - ) is a poet, author, cartoonist, anarchist, publisher and co-founder of the band The Fugs. In 1958 he founded the magazine \n                \u003cemph render=\"italic\"\u003eBirth\u003c/emph\u003e which, despite running for only three issues, published many notable authors from the Beat Generation such as Allen Ginsberg, Diane Di Prima, LeRoi Jones and Ted Joans."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The collection consists of cartoons, graphics, posters, songs and other documents relating to labor and the left, collected and authored by Kupferberg. PLEASE DIRECT FURTHER INQUIRIES TO: tamiment.wagner@nyu.edu"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Anarchists |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Caricatures and cartoons."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Political ballads and songs |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Political cartoons |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Political posters, American."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Political satire, American."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Wit and humor |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Wit and humor, Pictorial"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Fugs (Musical group)."
+            }
+        },
+        "dsc": {}
+    }
+}

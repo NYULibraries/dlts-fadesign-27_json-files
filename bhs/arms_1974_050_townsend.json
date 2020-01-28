@@ -1,0 +1,147 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1974_050_townsend"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Henry Townsend Oyster Bay land deed\n                    \u003cnum\u003e1974.050\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "May 9, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-09T10:19-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Townsend, Henry, d. 1695"
+                    }
+                },
+                "unittitle": {
+                    "value": "Henry Townsend Oyster Bay land deed"
+                },
+                "unitdate": {
+                    "normal": "1661/1661",
+                    "value": "1661"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.01 Linear feet"
+                        },
+                        {
+                            "value": "in one folder."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "1974.050"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid763003",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0020"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref3",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref5",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Henry Townsend Oyster Bay land deed, 1974.050, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref4",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Source and date of acquisition unknown. The collection was formally accessioned in 1974."
+            }
+        },
+        "bioghist": {
+            "id": "ref2",
+            "head": "Biographical/Historical note",
+            "p": {
+                "value": "Originally from Norwich, England, Henry Townsend (d. 1695) immigrated with his brothers, John and Richard, to the Dutch settlement of New Amsterdam (later New York) during the mid-17th century. After settling in the town of Flushing on Long Island, the Townsend brothers relocated to Warwick, R.I. after political and religious altercations with New Amsterdam governor Peter Stuyvesant. They returned to Long Island in 1656, settling in the town of Jamaica. In 1657, Henry Townsend was arrested and imprisoned for harboring Quakers in his home. This incident prompted him and his brothers to relocate to the Long Island town of Oyster Bay, which was out of the jurisdiction of the Dutch government of New Amsterdam. Henry Townsend resided in Oyster Bay until his death."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "Original land deed, dated 1661, granting land in Oyster Bay, Long Island to Henry Townsend, signed by 18 Oyster Bay inhabitants. The deed grants land on the Mill River to Townsend for the building and maintaining of a mill. An undated copy of the deed is also included."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Land titles |z New York (State) |z Oyster Bay"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Mills and mill-work |z New York (State) |z Oyster Bay"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "pr407_evans_nycslides"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Patricia Evans Collection of New York City Photographic Slides\u003clb/\u003e1957, 1959\u003clb/\u003e \u003cnum\u003ePR 407\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Larry Weimer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2020-01-02T22:44:42\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Evans, Patricia, active 2019"
+                    }
+                },
+                "unittitle": {
+                    "value": "Patricia Evans collection of New York City photographic slides"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "1957, 1959"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Linear feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "About 107 color photographic slides, primarily of New York City. The bulk are from 1957; 9 are from 1959. The images include views from the Empire State Building and from a Hudson River ferry, Rockefeller Center, Times Square, Central Park, Chrysler Building, the United Nations, an Automat display, and the Battery, Wall Street, and other lower Manhattan locations. About 9 are of Bear Mountain State Park."
+                },
+                "unitid": {
+                    "value": "PR 407"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_97167065e612d8c46cf2213de676d8c4",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Available by advance appointment only. To schedule an appointment, contact the Print Room Librarian at printroom@nyhistory.org."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_38872e733207a96171b1a2a72ffbd919",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "This collection should be cited as the Patricia Evans collection of New York City photographic slldes, PR 407, Department of Prints, Photographs, and Architectural Collections, New-York Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_f92e414435b872df0905c642e9072be7",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Gift of Patricia Evans, 2019."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_9488cc88606223a6b92a2078369c905d",
+            "head": "Biographical / Historical",
+            "p": {
+                "value": "The lists of slides included in the collection refer to various locales that are no longer in the boxes. Some of these refer to Asbury Park, New Jersey, indicating it was \"home.\" That suggests that these images were taken by someone making occasional day trips to New York City. It is not known if the donor, Patricia Evans, was the photographer or someone she knew or was related to."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_a844aeb9b831dcfe64a6d8c77ae3d2d3",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection includes about 107 color photographic slides, primarily of New York City. About 9 are of Bear Mountain State Park. The bulk are from 1957; 9 are from 1959. The images include views from the Empire State Building and from a Hudson River ferry, Rockefeller Center, Times Square, Central Park, Chrysler Building, the United Nations, an Automat display, and the Battery, Wall Street, and other lower Manhattan locations."
+            }
+        },
+        "controlaccess": {},
+        "dsc": {
+            "value": "\u003cc id=\"aspace_03bf6fa0eece07191a37fd1704c5e772\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePhotographic slides (approx 107)\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1957, 1959\u003c/unitdate\u003e\u003ccontainer id=\"aspace_42badf44a53cf4e16bacaa0b64228aeb\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

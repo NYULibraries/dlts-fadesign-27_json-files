@@ -1,0 +1,135 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_419"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Andre Schiffrin Student League for Industrial Democracy Papers \u003cnum\u003eTAM 419\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-31T19:50:25\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Andre Schiffrin Student League for Industrial Democracy Papers"
+                },
+                "unitdate": {
+                    "normal": "1954/1960",
+                    "type": "inclusive",
+                    "value": "1954-1960"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1.75 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(3 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "TAM 419"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_2cb8b81aaae3ab64544ec7018aa3fd41",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_03dbbac626041d62a12066601e9a576c",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Andre Schiffrin, 2008; additional materials were added to the collection in 2011. The accession numbers associated with this gift are 2008.009 and 2011.026."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_9fd36b70bf341a4f23949fea8d3f590f",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Andre Schiffrin (1935-2013) was an American publisher, author, and socialist who helped organize and run the Student League for Industrial Democracy (the student affiliate of the League for Industrial Democracy) which eventually became the Students for a Democratic Society in 1960."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_d959614137eccc51f7ddef9cdca8fecd",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The papers pertain to Schiffrin's work with the Student League for Industrial Democracy and their relations with the LID and other socialist organizations. The collection particularly showcases SLID's actions at Yale and Schiffrin's correspondence with the LID and the International Union of Socialist Youth. The documents date from 1954 to 1961 and include correspondence, fliers, newsletters, and clippings."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Student movements |z Connecticut |z New Haven."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Student movements -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialism and youth -- United States."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Student League for Industrial Democracy (U.S.)"
+            }
+        },
+        "dsc": {}
+    }
+}

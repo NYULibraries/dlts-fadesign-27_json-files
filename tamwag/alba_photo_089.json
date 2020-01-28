@@ -1,0 +1,104 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "alba_photo_089"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Stanley Postek Photgraphs \u003cnum\u003eALBA.PHOTO.089\u003c/num\u003e"
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-07-19T17:45:44\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Postek, Stanley, 1912-1991"
+                    }
+                },
+                "unittitle": {
+                    "value": "Stanley Postek Photographs"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "ALBA.PHOTO.089"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_9f918269f44b214fe1824014bd6d86c5",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open to researchers. Please contact the Tamiment Library \u0026amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_1ee420a0b642f8426db54fddde4f23be",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Stanley Postek was born Ladislaus J. Szeliga on February 5, 1912, in Lowell, Massachusetts.  He was a union organizer for the International Seamen's Union of America at the age of twenty-five, and as the rank and file broke away to form the National Maritime Union, so did he. Shortly thereafter, he volunteered for the Abraham Lincoln Brigade, serving in Spain. In World War Two, he served as a merchant seaman, most notably on the Murmansk Run. This collection contains photos and negatives, some from the Spanish Civil War, most of 1980s commemorative events."
+            }
+        },
+        "dsc": {}
+    }
+}

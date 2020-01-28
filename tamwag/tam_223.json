@@ -1,0 +1,138 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_223"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Miriam Allen De Ford Papers Relating to Maynard Shipley \u003cnum\u003eTAM 223\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-03T15:46:20\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "De Ford, Miriam Allen, 1888-1975"
+                    }
+                },
+                "unittitle": {
+                    "value": "Miriam Allen De Ford Papers Relating to Maynard Shipley"
+                },
+                "unitdate": {
+                    "value": "1950s, undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "TAM 223"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_2b64f304271e2f61021d5de295d8d7ea",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_7e9e9303e89f5c24b391ffa3513ce333",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_0f2899e6b5bb7c5caee828a02d4f9765",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Provenance unknown. The accession number associated with this collection is 1950.108."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_18e915bf3e38a2785409f7d1170aecb6",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Maynard Shipley (1872-1934) was a criminologist and scientist who often spoke out in favor of science and evolution and against religious fanaticism and capital punishment. Shipley also worked as an editor, speaker, and organizer for the Socialist Party alongside Eugene V. Debs. Shipley married Miriam Allen De Ford in 1921. Ford was a writer and eventually wrote about Shipley in a biography entitled \u003cemph render=\"italic\"\u003eUp-Hill All The Way\u003c/emph\u003e (1956), also in the Tamiment Library."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_dec9e5c20071120f81efbbbf8d369583",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection consists primarily of correspondence to De Ford regarding her book on Shipley. It also contains a variety of reviews on the book."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Socialists -- United States -- Biography."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Women socialists -- United States."
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

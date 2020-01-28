@@ -1,0 +1,150 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1977_144_gould"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the James S. Gould papers\n                    \u003cnum\u003e1977.144\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "June 1, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-09T16:25-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Gould, James S."
+                    }
+                },
+                "unittitle": {
+                    "value": "James S. Gould papers"
+                },
+                "unitdate": {
+                    "normal": "1848/1858",
+                    "type": "inclusive",
+                    "value": "1848-1858"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.3 linear feet"
+                        },
+                        {
+                            "value": "in five folders."
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "This collection consists of correspondence, notes, and receipts of James S. Gould of Brooklyn, N.Y. spanning the period 1848 to 1858. The majority of the collection is made up of correspondence and notes between Gould and several spiritualists in various locations in New York State, including bookkeeper Eugene M. Packard of Brooklyn; S.N. Dodge (place of residence unknown); Francis Griswold of Albany, N.Y.; Warren Gale of Kings Ferry, N.Y. (near the present-day Town of Cortlandt in Westchester County); and others. The letters are dominated by the subjects of religion, dreams, spiritualism, financial matters, and the results of seances. There are also references in the letters to the Know Nothing political movement in Brooklyn, particularly in the context of its opposition to Catholicism. There are some discrepancies in the letters in regards to the initial of Gould's middle name; in some letters he is referred to as James S. Gould, while in others he is referred to as James C. Gould. However, the various receipts included in the collection seem to indicate that Gould himself used the former initial."
+                },
+                "unitid": {
+                    "value": "1977.144"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid814001",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0040"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref4",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); James S. Gould papers, 1977.144, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Herbert B. Howe on behalf of Hope Lewis Sudbury, 1955."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Religion"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Seances"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Spiritualism |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Spiritualists |z New York (State)"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "American Party."
+            }
+        },
+        "dsc": {}
+    }
+}

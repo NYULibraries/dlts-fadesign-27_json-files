@@ -1,0 +1,141 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "pr392_karp"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to Amie Karp Collection of Tobacciana \u003clb/\u003e  1870-1997  \u003clb/\u003e \u003cnum\u003ePR 392\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Marybeth Kavanagh"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2020-01-24T14:40:19\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Karp, Amie"
+                    }
+                },
+                "unittitle": {
+                    "value": "Amie Karp collection of tobacciana"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "1870-1997"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "5 Linear feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 9 boxes"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Amie Karp Collection of Tobacciana consists of a variety of 19th and 20th century tobacco-related ephemera and reference material."
+                },
+                "unitid": {
+                    "value": "PR 392"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_51687445eceb3c77b91119f10d0d5e2c",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Available by advance appointment only. To schedule an appointment, contact the Print Room Librarian at printroom@nyhistory.org."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_7f160783e1694bba1e470174a1ef9c22",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Credit line should read: Gift of Amie Karp and family in honor of Ivan C. Karp."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_cc4a0ee3a7d80cd0865e086eb069b38a",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Gift of Amie Karp, 2019"
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_cd555ee312437b09960fb04f1d87bdbb",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Amie Karp Collection of Tobacciana is mainly comprised of 19th and 20th century tobacco-related ephemera. It includes cigar bands, cigar box labels, tobacco tags, cigarette boxes, cigarette cards, and tobacco pouches. The ephemera is variously mounted on boards, sleeved, and displayed in scrapbooks. The collection also contains printed catalogs advertising cigar and cigarette cards, tags, labels, boxes and bands. Many of the catalogs include instructions for claiming prizes in exchange for these items. Ten reference books about tobacco, tobacco ephemera, and collecting tobacciana are also included."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Advertising -- Tobacco industry"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Cigar bands and labels"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Tobacco -- United States"
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_17139d492a8dddf231c1b9f98f8ca68f\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: Catalogs\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1882-1956\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_e0ff1c3b8cdf3e044ef036dc7a0a5850\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThis series contains printed catalogs advertising cigar and cigarette cards, tags, boxes and bands. Many of the catalogs include instructions for claiming prizes in exchange for these items.\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_2852c71194e62cba4c4797ff89685c9a\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eW. Duke and Co. cigarette card catalog of \"Costumes of All Nations\"\u003c/unittitle\u003e\u003cunitdate\u003e1882\u003c/unitdate\u003e\u003ccontainer id=\"aspace_eb444796b30f0eaea659971270e50d9d\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_eb444796b30f0eaea659971270e50d9d\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_d11624cba95ae6c788c2901104c56faf\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eKinney Brothers Standard of the World cigarette card catalog of \"National Dances, Vol. IV\"\u003c/unittitle\u003e\u003cunitdate\u003e1886\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2ab484c0836bb0249530861399c59220\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2ab484c0836bb0249530861399c59220\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_1d031326117b2cf69bd8474fe2a23ec6\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eO.L. Schwenke cigar box label catalog\u003c/unittitle\u003e\u003cunitdate\u003e1898\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b18b7392638133b90740f1e752485ace\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b18b7392638133b90740f1e752485ace\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_474074f6a989f8a8fc2500b1bd865124\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFlorodora Tag Company catalog and instructions for redeeming gifts for tobacco tags and cigar bands.\u003c/unittitle\u003e\u003cunitdate\u003e1905\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4e902e105fa019c726e79a5dbf6f8b1e\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_4e902e105fa019c726e79a5dbf6f8b1e\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_825859ec648f989bde9b936d3a648d9d\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSchulte Cigars and United Profit-Sharing Co. catalog and instructions for securing gifts by coupon redemption\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1937-1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f324e9080c561933eb515a08f28c2b2e\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f324e9080c561933eb515a08f28c2b2e\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_cdb40677da67a4d174804f05eaf367a8\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRaleigh Coupons, Brown and Williams Tobacco Co. catalogs with instructions for redemption of Raleigh cigarette pack coupons for gifts (4)\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1952-1956\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f4f15c6cbf9594a4217b96dca315b8f5\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f4f15c6cbf9594a4217b96dca315b8f5\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ad45d73dba3a5cf731671bb47f1dc069\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries II: Ephemera \u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1870-1936\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_06f02a636a9e708f3385784b48b8a0df\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThis series includes cigar bands, cigar box labels, tobacco tags, cigarette boxes, cigarette cards, and tobacco pouches. The ephemera is variously mounted on boards, sleeved, and displayed in scrapbooks.\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_b5711f541b4835dd3aeb1d45b59f64f4\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCigar Bands\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1874-1935\u003c/unitdate\u003e\u003ccontainer id=\"aspace_537abbc95bd93d430c338a03beb132fd\" label=\"Graphic Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_537abbc95bd93d430c338a03beb132fd\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_f92b1fa6c88e2fffeaf9ef2abb4337f5\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eCigar bands with imagery including Civil War generals, United States presidents, and international heads of state.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_a96f389af6313e48bb26a35796f72f8d\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCigar Box Labels A-K\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1874-1935\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9d6daedfedd666a92c8edb4378aedc89\" label=\"Graphic Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_9d6daedfedd666a92c8edb4378aedc89\" type=\"Folder\"\u003e2-12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_76b7d607d8596b5ae6837291b8250fac\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCigar Box Labels L-Z\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1874-1935\u003c/unitdate\u003e\u003ccontainer id=\"aspace_8f063afd3e97e81d0ed174d73e29b604\" label=\"Graphic Materials\" type=\"Box\"\u003e3\u003c/container\u003e\u003ccontainer parent=\"aspace_8f063afd3e97e81d0ed174d73e29b604\" type=\"Folder\"\u003e1-16\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_1fff7296dd0f2144410dedaca71014e8\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCigar Protectors\u003c/unittitle\u003e\u003cunitdate\u003e1880\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f2779cc5a4124d0cb7e6746e8ae381ef\" label=\"Graphic Materials\" type=\"Box\"\u003e4\u003c/container\u003e\u003ccontainer parent=\"aspace_f2779cc5a4124d0cb7e6746e8ae381ef\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_8eeb9a3ccd53c56736a091a8d9448b21\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eReliance Cigar Co. box of lithographed, accordion folded, glassine and card stock single cigar protectors for pocket portage. Illustrated on front and back with a burning cigar.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_5956332c70aa4c3839630c7801d22e9b\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCigarette Boxes\u003c/unittitle\u003e\u003cunitdate\u003e1933\u003c/unitdate\u003e\u003ccontainer id=\"aspace_6c8482ea3cd54f85bf5179861022b468\" label=\"Graphic Materials\" type=\"Box\"\u003e4\u003c/container\u003e\u003ccontainer parent=\"aspace_6c8482ea3cd54f85bf5179861022b468\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_942ad1778f9f74dd9b424ca88faf0267\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eKinsman's Asthmatic Cigarettes, 10 empty boxes.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_725af7fe9263ac7d51a609bd3dba0fd0\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eScrapbooks\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1878-1936\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1f8e9a4e454c13d830649c9a1eb78091\" label=\"Graphic Materials\" type=\"Box\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_0c062cb4ff6670fe8c17143119e69031\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003e\"Cigar Bands\" - two volumes of specialty collector books with slotted pages filled with cigar bands. Both volumes are inscribed \"Annie L. Taff\" in pen on the inside front cover; one volume is also marked \"Fred A. Taff.\" 1878-1905.\u003c/p\u003e\u003cp\u003e\n\"White Knight\" - child's collection of 420 cigar bands in a notebook, 1900-1906.\u003c/p\u003e\u003cp\u003e\"Estemento Superiores\" - a child named Ward Heinzman's collection of 351 cigar bands (along with some postage stamps) in a ledger book, 1908.\u003c/p\u003e\u003cp\u003e\"Wills Cigarette Picture-Card Album of Household Hints,\"  1936.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_2ea7a885b0393b508069853b9ee9ecc1\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTobacco Pouches\u003c/unittitle\u003e\u003cunitdate\u003e1940\u003c/unitdate\u003e\u003ccontainer id=\"aspace_77e3ce3ceda9e281572a182d02487515\" label=\"Graphic Materials\" type=\"Box\"\u003e4\u003c/container\u003e\u003ccontainer parent=\"aspace_77e3ce3ceda9e281572a182d02487515\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_6e086e363d1934317552c7306b6ab4b0\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eScotten, Dillon Company \"Yankee Girl\" chewing tobacco pouches (10).\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_f7013aa06a8e40d5e496797f7eda7ce9\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTobacco Tags\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1870-1930\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c9212d72c96a9cf9c92a75e908612419\" label=\"Graphic Materials\" type=\"Box\"\u003e6\u003c/container\u003e\u003ccontainer parent=\"aspace_c9212d72c96a9cf9c92a75e908612419\" type=\"Folder\"\u003e1-2\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_c32bb8e37bd31d6c1c3ff1f8bc708571\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eEmbossed and printed tin plug tobacco tags on boards.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_b517d0c7146632a14a702364aea0740f\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries III: Reference Books\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1969-1997\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_96853d747cbc4f543975d1b88f8cc66b\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThis series contains ten reference books about tobacco, tobacco ephemera, and collecting tobacciana.\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_5bb00a2254adb43ffe428903bbb1d74c\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Connoisseur's Book of the Cigar,\" by Zino Davidoff, McGraw Hill, New York, NY\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1969\u003c/unitdate\u003e\u003ccontainer id=\"aspace_dc8bcac8a4b182b009ed9cfa34c2f4b8\" label=\"Mixed Materials\" type=\"Box\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_8421c0b8d17bb99792bc7c7050ca2e4d\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Tobacco Tin Tags,\" by Gary Schild, Prentis and Co., Meridien, CT\u003c/unittitle\u003e\u003cunitdate\u003e1972\u003c/unitdate\u003e\u003ccontainer id=\"aspace_66421980176c54a6db36da52e23b4918\" label=\"Mixed Materials\" type=\"Box\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_f7046f169782f3788e8aa63f064d8431\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Handbook of Cigar Boxes,\" by Tony Hyman, Arnot Art Museum, Elmira, NY\u003c/unittitle\u003e\u003cunitdate\u003e1979\u003c/unitdate\u003e\u003ccontainer id=\"aspace_da00235739dc45c3631e23a3e0c72848\" label=\"Mixed Materials\" type=\"Box\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_44f36979b9561fa5d05af5dba9fd15b4\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"The Art of the Cigar Label,\" by Joe Davidson, Wellfleet Press, Secaucus, NJ\u003c/unittitle\u003e\u003cunitdate\u003e1989\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b1b3c0e0201ef806b2738eb6cef4aca0\" label=\"Mixed Materials\" type=\"Box\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_325ce4516a0b6931b075167aa9145666\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Chewing Tobacco Tin Tags 1870-1930,\" by Louis Storino, Schiffer Publishing Co., PA\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1995\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d4a0f07819020953ab34f656e3c9dab6\" label=\"Mixed Materials\" type=\"Box\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_0bc05040370b1c57f792f2dc511f38cf\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"The Good Cigar: the Art of Cigar Smoking,\" Jeffers and Gordon, Lyons and Burford, New York, NY\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1996\u003c/unitdate\u003e\u003ccontainer id=\"aspace_821b3988303a82ff17bbbd04cc79c05b\" label=\"Mixed Materials\" type=\"Box\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ce43856ea4a14f4386c6c1b9a6541ff8\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Old Time Cigar Labels,\" Carol Belanger Grafton, Dover, New York, NY\u003c/unittitle\u003e\u003cunitdate\u003e1996\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f255851677e96e8922438dc39d4de1b8\" label=\"Graphic Materials\" type=\"Box\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_98af4960ef0a22f0bf30faadfccd079a\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"The Cigar,\" by Barnaby Conrad III, Chronicle Books, San Francisco, CA\u003c/unittitle\u003e\u003cunitdate\u003e1996\u003c/unitdate\u003e\u003ccontainer id=\"aspace_64e38b7f0a997b1f0aeda2442585de00\" label=\"Mixed Materials\" type=\"Box\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_b2557d4362e9dc5e86da61fd47c388e7\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Cigar Companion,\" by Anwar Bati, Running Press, London, UK\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1997\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9a252ec93d3bc26a652953e3c21184e3\" label=\"Mixed Materials\" type=\"Box\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_40f568988ae8fb1674b98438b3c78ae1\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"The Smoking Life,\" by Ilene Barth, Genesis Press, Birmingham, MS\u003c/unittitle\u003e\u003cunitdate\u003e1997\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9993cbf21f0bc120a208c27eab932470\" label=\"Mixed Materials\" type=\"Box\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

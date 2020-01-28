@@ -1,0 +1,146 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "eroth"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Emery Roth Architectural Print Collection\n                    \u003clb/\u003e\n                    \u003cdate\u003e1926-1947\u003c/date\u003e\n                    \u003clb/\u003e\n                    \u003cnum\u003e\u003c/num\u003e\n                    \u003cnum\u003ePR 170\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Jenny Gotwals"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "© 2011 New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-10T14:54-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "© 2011 New-York Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "Emery Roth Architectural Print Collection"
+                },
+                "unitdate": {
+                    "value": "1926-1947"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.25 Linear feet"
+                        },
+                        {
+                            "value": "(1 box)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "53 photomechanical prints showing both interior and exterior views of buildings in New York City designed by Emery Roth."
+                },
+                "unitid": {
+                    "value": "PR 170"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref5",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Photocopying undertaken by staff only. Limited to twenty exposures of stable, unbound material per day. See guidelines in Print Room for details."
+            }
+        },
+        "prefercite": {
+            "id": "ref7",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "This collection should be cited as Emery Roth Architectural Print Collection, PR 170, Department of Prints, Photographs, and Architectural Collections, The New-York Historical Society."
+            }
+        },
+        "bioghist": {
+            "id": "ref8",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Emery Roth (1871-1948) worked as an architect in New York City under his own name from 1898 to 1938, and after 1938 worked with his two sons as Emery Roth \u0026amp; Sons. Roth was a specialist in the field of apartment house design. He designed many notable and fashionable New York residential buildings including the San Remo apartment house, the Oliver Cromwell, Dorset, and Drake apartment hotels, the Ritz Tower, and the St. Moritz hotel."
+            }
+        },
+        "scopecontent": {
+            "id": "ref9",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "Buildings shown are mainly apartment houses and hotels, with a few religious facilities and office buildings. Few of the prints have dates, but those from photographs are all post construction. Many of the buildings shown here were completed in the second half of the 1920s."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Apartment houses -- New York (State) -- New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Architecture -- New York (State) -- New York -- Designs and plans"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Commercial buildings -- New York (State) -- New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Hotels -- New York (State) -- New York"
+                }
+            ],
+            "corpname": {
+                "source": "ingest",
+                "value": "Emery Roth \u0026amp; Sons"
+            }
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref11\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e\u003c/unittitle\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref12\" level=\"subseries\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAPARTMENT HOUSES\u003c/unittitle\u003e\n                    \u003c/did\u003e\n                    \u003cc id=\"ref13\" level=\"otherlevel\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003e3 East 71st Street\n                                \u003clb/\u003e 42 East 66th Street\n                                \u003clb/\u003e 129 East 82nd Street\n                                \u003clb/\u003e 137-145 East 44th Street\n                                \u003clb/\u003e 295 Central Park West Fireproof Apartment\n                                \u003clb/\u003e 300 East 57th Street (2)\n                                \u003clb/\u003e 875 Fifth Avenue\n                                \u003clb/\u003e 880 Fifth Avenue\n                                \u003clb/\u003e 930 Fifth Avenue\n                                \u003clb/\u003e 66th Street and Central Park West\n                                \u003clb/\u003e Fifth Avenue \u0026amp; 94th Street/45 Moshulu Parkway\n                                \u003clb/\u003e Park Avenue \u0026amp; 90th Street\n                                \u003clb/\u003e The Alden\n                                \u003clb/\u003e The Normandy (3)\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid491595\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                            \u003ccontainer parent=\"cid491595\" type=\"Folder\"\u003e1\u003c/container\u003e\n                            \u003cunitdate\u003e1926-1946, undated\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref14\" level=\"subseries\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eHOTELS\u003c/unittitle\u003e\n                    \u003c/did\u003e\n                    \u003cc id=\"ref15\" level=\"otherlevel\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003e70th Street and Madison Avenue Apartment Hotel\n                                \u003clb/\u003e Dorset Apartment Hotel (3)\n                                \u003clb/\u003e Drake Apartment Hotel (2)\n                                \u003clb/\u003e Fifth Avenue and 94th Street Apartment Hotel\n                                \u003clb/\u003e Fifth Avenue Hotel, 9th Street and Fifth Avenue\n                                \u003clb/\u003e Hotel Beverly (3)\n                                \u003clb/\u003e Hotel St. George Addition\n                                \u003clb/\u003e Hotel St. Moritz\n                                \u003clb/\u003e Mayflower-Plymouth Apartment Hotel (2)\n                                \u003clb/\u003e Oliver Cromwell Apartment Hotel (4)\n                                \u003clb/\u003e Ritz Tower (3)\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid491594\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                            \u003ccontainer parent=\"cid491594\" type=\"Folder\"\u003e2\u003c/container\u003e\n                            \u003cunitdate\u003e1929, undated\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref16\" level=\"subseries\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eLOFT BUILDINGS\u003c/unittitle\u003e\n                    \u003c/did\u003e\n                    \u003cc id=\"ref17\" level=\"otherlevel\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003e14-16 East 38th Street, 14 Story Loft Building\n                                \u003clb/\u003e 165 Madison Avenue, Six Story Loft Building \n                                \u003clb/\u003e 256-60 West 38th Street\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid491593\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                            \u003ccontainer parent=\"cid491593\" type=\"Folder\"\u003e3\u003c/container\u003e\n                            \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref18\" level=\"subseries\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eOFFICE BUILDINGS\u003c/unittitle\u003e\n                    \u003c/did\u003e\n                    \u003cc id=\"ref19\" level=\"otherlevel\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003e5 East 57th Street Office building\n                                \u003clb/\u003e 20-22 East 57th Street Office Building\n                                \u003clb/\u003e Fashion Tower (2)\n                                \u003clb/\u003e Office Building and Paris Theatre, 4 West 58th Street (2)\n                                \u003clb/\u003e Park Avenue and 59th Street Office Building\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid491592\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                            \u003ccontainer parent=\"cid491592\" type=\"Folder\"\u003e4\u003c/container\u003e\n                            \u003cunitdate\u003e1947, undated\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref20\" level=\"subseries\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eRELIGIOUS FACILITIES\u003c/unittitle\u003e\n                    \u003c/did\u003e\n                    \u003cc id=\"ref21\" level=\"otherlevel\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eHungarian Reformed Church\n                                \u003clb/\u003e Temple Bnai Israel of Washington Heights (2)\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid491591\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                            \u003ccontainer parent=\"cid491591\" type=\"Folder\"\u003e5\u003c/container\u003e\n                            \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref22\" level=\"subseries\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eOTHER BUILDINGS\u003c/unittitle\u003e\n                    \u003c/did\u003e\n                    \u003cc id=\"ref23\" level=\"otherlevel\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eGarage, 102nd Street near Fifth Avenue\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid491590\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                            \u003ccontainer parent=\"cid491590\" type=\"Folder\"\u003e6\u003c/container\u003e\n                            \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

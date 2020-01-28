@@ -1,0 +1,160 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_516"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Leonard Sklar Printed Ephemera Collection \u003cnum\u003eTAM 516\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Peter Meyer Filardo"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-06-13T19:00:15\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Leonard Sklar Ephemera Collection"
+                },
+                "unitdate": {
+                    "normal": "1980/1990",
+                    "type": "inclusive",
+                    "value": "circa 1980-1990"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "2 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(2 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "This collection contains circulars, fliers, leaflets, newsletters, and other ephemera accumulated by Leonard Sklar, documenting a broad range of progressive/left politics in the 1980s."
+                },
+                "unitid": {
+                    "value": "TAM 516"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_a05e22b8116dc91dd0214508bb6e2a12",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1-2"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_1766a413237672f61e9999f17b8d1759",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_5f2bcb79441e0391af3e51537d7191e5",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Collection name; Collection number; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_5fd5a19e1cc64da0af7436268044bc3f",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Kathryn Kish Sklar in 2009. The accession number associated with this gift is 2009.068."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_33daac25db00e7e3d0513c617804bad1",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Printed ephemera (circulars, fliers, leaflets, newsletters, etc.) accumulated by Leonard Sklar, documenting a broad range of progressive/left politics in the 1980s, including animal rights, economic and social justice, electoral politics (including the 1988 campaign of Jesse Jackson to become the Democratic Party Presidential candidate) environmentalism, peace movements and international solidarity (Central America, Iran), radical political parties, etc."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "New Left -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Peace movements -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Animal rights movement |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Radicals -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Gay rights -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Green movement -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Social justice -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Human rights |z Central America."
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

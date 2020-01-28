@@ -1,0 +1,149 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "v1998_002_deepdale"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Deepdale Golf Club photograph album\n                    \u003cnum\u003eV1998.002\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by John Zarrillo"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "December 2015"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2016-02-02T14:59-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Deepdale Golf Club photograph album"
+                },
+                "unitdate": {
+                    "normal": "1955/1959",
+                    "type": "inclusive",
+                    "value": "circa 1955"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.0 linear feet"
+                        },
+                        {
+                            "value": "in one photograph album"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Photograph album containing images of the Deepdale Glof Club course and clubhouse (interior and exterior), dating from circa 1955. The course is located in Manhasset, New York, on the north shore of Long Island. The album includes one photograph of President Dwight D. Eisenhower on the course. The album was created by Haynes Provost Studios."
+                },
+                "unitid": {
+                    "value": "V1998.002"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1386002",
+                    "label": "Graphic materials",
+                    "type": "Item",
+                    "value": "1 of 1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref5",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref6",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Deepdale Golf Club photograph album, v1998.002; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Immediate source of acquisition unknown. Formally accessioned in 1998."
+            }
+        },
+        "bioghist": {
+            "id": "ref2",
+            "head": "Historical note",
+            "p": {
+                "value": "Source: \"History of the Golf Club.\" \n                \u003cemph render=\"italic\"\u003eDeepdale Golf Club\u003c/emph\u003e. Accessed December 17, 2015. \n                \u003cextref ns2:href=\"http://www.deepdalegolfclub.com/history.html\"\u003ehttp://www.deepdalegolfclub.com/history.html\u003c/extref\u003e."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Golf clubs (Sporting goods) |z New York (State) |z Long Island"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Golf courses |z New York (State) |z Long Island"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Golf |z New York (State) |z Long Island"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Deepdale Golf Club (Manhasset, N.Y.)."
+            }
+        },
+        "dsc": {}
+    }
+}

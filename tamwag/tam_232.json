@@ -1,0 +1,151 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_232"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Guide to Israel Amter \u003cemph render=\"italic\"\u003eWinona\u003c/emph\u003e Piano Score \u003cnum\u003eTAM.232\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Peter Meyer Filardo"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-03T20:32:25\u003c/date\u003e"
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Amter, I.  (Israel), 1881-"
+                    }
+                },
+                "unittitle": {
+                    "value": "Israel Amter \u003cemph render=\"italic\"\u003eWinona\u003c/emph\u003e Piano Score"
+                },
+                "unitdate": {
+                    "normal": "1912/1912",
+                    "type": "inclusive",
+                    "value": "1912"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one manuscript box."
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Israel Amter (1881-1954) was an official in the Communist Party, USA who had studied music at the Leipzig Conservatory, where in 1912 he composed a never-performed opera, Winona, which concerns the love between a U.S. army officer and a Native American woman, Winona."
+                },
+                "unitid": {
+                    "value": "TAM.232"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_79fd3258a4282090715762e6aa829c6b",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions, however, patrons must use photocopy."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_8b1fda891238219f47c7b9bed9476fd2",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: \u003clb/\u003e\u003clb/\u003eIdentification of item, date; Collection name; Collection number; box number; folder number; \u003clb/\u003eTamiment Library/Robert F. Wagner Labor Archives \u003clb/\u003eElmer Holmes Bobst Library \u003clb/\u003e70 Washington Square South \u003clb/\u003eNew York, NY 10012, New York University Libraries."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_57fe6d842c390078791a7a303c3556a3",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Donald Amter in 2003. The accession number associated with this gift is 2003.018."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_f48c3b2a2b67041fe512bd462e3662fe",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Israel Amter, founding member of the Communist Party, USA and a leading functionary into the 1940s, was born on March 26, 1881, in Denver to Jewish immigrant parents. He joined the Socialist Party in 1901, and in 1903 moved to Germany where he remained until 1914, editing the German Export Review, participating in the Social Democratic Party, and studying music at the Leipzig Conservatory, where he composed his never-performed opera Winona (1912), which concerns the love between a U.S. army officer and a Native American woman, Winona."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_d34ead2f349385283c92d3987b63fc12",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "Contains the piano score for the opera \u003cemph render=\"italic\"\u003eWinona\u003c/emph\u003e (150 pages), and a photocopy of the libretto (25 pages)."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Indians of North America |x Drama."
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref13\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eContainer list\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref14\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eLibretto\u003c/unittitle\u003e\u003cunitdate normal=\"1912/1912\" type=\"inclusive\"\u003e1912\u003c/unitdate\u003e\u003ccontainer id=\"aspace_cea6c019ed4553c9f30b6f4fc7009668\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_cea6c019ed4553c9f30b6f4fc7009668\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003ePiano Score\u003c/unittitle\u003e\u003cunitdate normal=\"1912/1912\" type=\"inclusive\"\u003e1912\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b31f25f2364af18cedb02ad40b97ff7e\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b31f25f2364af18cedb02ad40b97ff7e\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

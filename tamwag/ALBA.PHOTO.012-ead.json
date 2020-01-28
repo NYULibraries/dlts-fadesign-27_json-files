@@ -1,0 +1,142 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "alba_photo_012"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the James Neugass Photograph Collection\n                    \u003cnum\u003eALBA.PHOTO.012\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Evan Daniel"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "2009"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T14:16-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Neugass, James, 1905-1949"
+                    }
+                },
+                "unittitle": {
+                    "value": "James Neugass Photographs"
+                },
+                "unitdate": {
+                    "normal": "1937/1938",
+                    "type": "inclusive",
+                    "value": "1937-1938"
+                },
+                "physdesc": {
+                    "label": "General Physical Description note",
+                    "extent": [
+                        {
+                            "value": "0.5 linear feet"
+                        },
+                        {
+                            "value": "(1 box)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "James Neugass (1905-1949) was a writer who served as an ambulance driver during the Spanish Civil War. The images in this collection were accrued by Neuglass in the course of his work in Spain. The collection contains prints of soldiers at the front, relaxing behind the lines, and engaging in their daily activities. The collection also contains images of Spanish civilians, damaged/shelled buildings, injured soldiers and casualties."
+                },
+                "unitid": {
+                    "value": "ALBA.PHOTO.012"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref5",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open for research without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "ref34",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: \n                \u003clb/\u003e\n                \u003clb/\u003eIdentification of item, date; Collection name; Collection number; box number; folder number; \n                \u003clb/\u003eTamiment Library/Robert F. Wagner Labor Archives \n                \u003clb/\u003eElmer Holmes Bobst Library \n                \u003clb/\u003e70 Washington Square South \n                \u003clb/\u003eNew York, NY 10012, New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "ref8",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "\n                \u003clist\u003e\n                    \u003citem\u003eNelson, Cary. The Wound and the Dream (University of Illinois Press, 2002)\u003c/item\u003e\n                \u003c/list\u003e"
+            }
+        },
+        "scopecontent": {
+            "id": "ref9",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "\n                \u003cemph render=\"bold\"\u003eSeries I: Prints\u003c/emph\u003e. The 41 black and white prints are arranged alphabetically by topic. All were taken in Spain during the Civil War. The collection contains prints of nurses, soldiers at the Jarama front, relaxing behind the lines at Teruel, and engaging in their daily activities. The collection also contains images of Spanish civilians, damaged/shelled buildings in Barcelona and Lerida, medical tents, injured soldiers and casualties of war. Two of the prints are credited to Prensa Extranjera Censurado."
+            }
+        },
+        "controlaccess": {
+            "corpname": {
+                "source": "naf",
+                "value": "Spain. Ejercito Popular de la Republica. Brigada Internacional, XV."
+            }
+        },
+        "dsc": {
+            "value": "\n            \u003cc01 id=\"ref14\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries I: Photographs\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                \u003c/did\u003e\n                \u003cc02 id=\"ref15\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAt the Front: Combat\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid92993\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid92993\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"1928/1948\" type=\"inclusive\"\u003eca.1938\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref16\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAt the Front: Non-Combat\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid92992\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid92992\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate normal=\"1928/1948\" type=\"inclusive\"\u003eca.1938\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref17\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eBehind the Lines: Rest and Relaxation\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid92991\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid92991\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate normal=\"1928/1948\" type=\"inclusive\"\u003eca.1938\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref18\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eBombed/Shelled Buildings: Barcelona and Lerida\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid92990\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid92990\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate normal=\"1928/1948\" type=\"inclusive\"\u003eca.1938\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref19\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCasualties\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid92989\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid92989\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate normal=\"1928/1948\" type=\"inclusive\"\u003eca.1938\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref20\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eFortifications\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid92988\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid92988\" type=\"Folder\"\u003e6\u003c/container\u003e\n                        \u003cunitdate normal=\"1928/1948\" type=\"inclusive\"\u003eca.1938\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref21\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eGroup: Unidentified\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid92987\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid92987\" type=\"Folder\"\u003e7\u003c/container\u003e\n                        \u003cunitdate normal=\"1928/1948\" type=\"inclusive\"\u003eca.1938\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref22\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eInjured Soldiers\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid92986\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid92986\" type=\"Folder\"\u003e8\u003c/container\u003e\n                        \u003cunitdate normal=\"1928/1948\" type=\"inclusive\"\u003eca.1938\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref23\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMedical: Nurses\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid92985\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid92985\" type=\"Folder\"\u003e9\u003c/container\u003e\n                        \u003cunitdate normal=\"1928/1948\" type=\"inclusive\"\u003eca.1938\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref24\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMedical: Tents\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid92984\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid92984\" type=\"Folder\"\u003e10\u003c/container\u003e\n                        \u003cunitdate normal=\"1928/1948\" type=\"inclusive\"\u003eca.1938\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref25\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eReport on Bombardment at Taracon\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid92983\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid92983\" type=\"Folder\"\u003e11\u003c/container\u003e\n                        \u003cunitdate normal=\"1928/1948\" type=\"inclusive\"\u003eca.1938\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref26\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSpanish Civilians: Campesinos\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid92982\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid92982\" type=\"Folder\"\u003e12\u003c/container\u003e\n                        \u003cunitdate normal=\"1928/1948\" type=\"inclusive\"\u003eca.1938\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref27\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSpanish Civilians: Workers, Fisherman\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid92981\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid92981\" type=\"Folder\"\u003e13\u003c/container\u003e\n                        \u003cunitdate normal=\"1928/1948\" type=\"inclusive\"\u003eca.1938\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref28\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSpanish Civilians: Workers, Laundrywomen\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid92980\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid92980\" type=\"Folder\"\u003e14\u003c/container\u003e\n                        \u003cunitdate normal=\"1928/1948\" type=\"inclusive\"\u003eca.1938\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref29\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSpanish Countryside/Panoramas\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid92979\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid92979\" type=\"Folder\"\u003e15\u003c/container\u003e\n                        \u003cunitdate normal=\"1928/1948\" type=\"inclusive\"\u003eca.1938\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref30\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSpanish Villages\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid92978\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid92978\" type=\"Folder\"\u003e16\u003c/container\u003e\n                        \u003cunitdate normal=\"1928/1948\" type=\"inclusive\"\u003eca.1938\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref31\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eVehicles\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid92977\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid92977\" type=\"Folder\"\u003e17\u003c/container\u003e\n                        \u003cunitdate normal=\"1928/1948\" type=\"inclusive\"\u003eca.1938\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref32\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eVehicles: Ambulance\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid92976\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid92976\" type=\"Folder\"\u003e18\u003c/container\u003e\n                        \u003cunitdate normal=\"1928/1948\" type=\"inclusive\"\u003eca.1938\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n            \u003c/c01\u003e\n        "
+        }
+    }
+}

@@ -1,0 +1,165 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "athleticscrapbook"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Athletic Department Scrapbook \u003cnum\u003eMC 78\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Ashley Sena-Levine."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-12-11T15:03:39\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Athletic Department Scrapbook"
+                },
+                "unitdate": {
+                    "normal": "1895/1913",
+                    "type": "bulk",
+                    "value": "1895-1913"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.75 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one manuscript box and one half manuscript box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "NYU began its long athletic tradition with inaugural one-game \"seasons\" played by both the football and baseball teams in 1873.   When NYU opened its University Heights campus in 1894, the institution's athletic programs thrived under the University's Athletic Association.  The Athletic Department Scrapbook collection consists of a variety of athletic ephemera, including athletic programs, tickets, and schedules, encompassing NYU's baseball, basketball, football, track and field, gymnastics, and dance programs, covering the years 1881-1916."
+                },
+                "unitid": {
+                    "value": "MC 78"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_7abf6cacfaeeb8e5d9e48bfd15bc9371",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_b2c6584edfdeebb6c8f9c9d7cda6a4fd",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Athletic Department Scrapbook; MC 78; box number; folder number; New York University Archives; New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_b27f0f98bbf03e6071a9c31301487bf1",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials were transferred to New York University Archives; date unknown."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_0e1656cffc54d1c3c0ec4ad1d826195f",
+            "head": "Historical Note",
+            "p": {
+                "value": "The \u003cemph render=\"italic\"\u003eUniversity Quarterly\u003c/emph\u003e, Vol. 1 No. 1 (1878), 33."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_a498e622e9d5942b63279284fcb100e5",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Athletic Department Scrapbook collection consists of a variety of athletic ephemera, including athletic programs, tickets, and schedules, encompassing NYU's baseball, basketball, football, track and field, gymnastics, and dance programs.  The collection also includes Athletic Association enrollment forms, membership dues forms, and revised constitution;  Annual Founder's Day and Preparatory School Day programs and information; photocopied newspaper articles concerning NYU athletics; and a Class of 1843 Reunion program (from 1881).  Overall, the materials cover the dates 1881-1916."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Gymnastics."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Dance."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Football."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "College sports."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Baseball."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Basketball."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "New York University -- Athletics"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref2\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eClass of 1843 Reunion Program\u003c/unittitle\u003e\u003cunitdate normal=\"1881/1881\"\u003e1881\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_130134a9a3b3adab53d3eef923d78cc0\" label=\"Mixed Materials [31142062745602]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_130134a9a3b3adab53d3eef923d78cc0\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref3\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eUniversity of the City of New York Souvenir Book; Athletic Association Book (Inaugural Games at Ohio Field)\n\u003c/unittitle\u003e\u003cunitdate normal=\"1894/1895\" type=\"inclusive\"\u003e1894-1895\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_42f669af802d30a2eaeab62491004964\" label=\"Mixed Materials [31142062745602]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_42f669af802d30a2eaeab62491004964\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref4\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSecond Athletic and Gymnastic Exhibition\u003c/unittitle\u003e\u003cunitdate normal=\"1895/1896\" type=\"inclusive\"\u003e1895-1896\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_e2b5afca0baab6f94f0163b95d3426de\" label=\"Mixed Materials [31142062745602]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e2b5afca0baab6f94f0163b95d3426de\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref5\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAthletic Programs, Tickets, and Schedules\u003c/unittitle\u003e\u003cunitdate normal=\"1897/1897\"\u003e1897\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_f24a8ac47fd18a677f8586f7d6390ed8\" label=\"Mixed Materials [31142062745602]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f24a8ac47fd18a677f8586f7d6390ed8\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref6\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAthletic Programs, Tickets, Schedules, and a Badge; Glee Banjo and Mandolin Club Booklet\u003c/unittitle\u003e\u003cunitdate normal=\"1898/1898\"\u003e1898\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_3aa7c359f845455a1c49b9492517aab2\" label=\"Mixed Materials [31142062745602]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_3aa7c359f845455a1c49b9492517aab2\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref7\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAthletic Programs, Entry Form, Enrollment Forms, Dance Programs, Founder's Day Booklet, and Notices\u003c/unittitle\u003e\u003cunitdate normal=\"1899/1899\"\u003e1899\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_d19e4ed7b1cd02c590ad2118b619ae79\" label=\"Mixed Materials [31142062745602]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d19e4ed7b1cd02c590ad2118b619ae79\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref8\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAthletic Enrollment Forms, Dance Programs, Schedules, Tickets, and Notices\u003c/unittitle\u003e\u003cunitdate normal=\"1900/1900\"\u003e1900\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_87a909be6b9c20a2c9392fedd5732446\" label=\"Mixed Materials [31142062745602]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_87a909be6b9c20a2c9392fedd5732446\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref9\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAthletic Schedules, Notices, Membership Dues, and Annual Founder's and Preparatory School Day Celebration Information \u003c/unittitle\u003e\u003cunitdate normal=\"1901/1901\"\u003e1901\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_c29898f3d8419fbb5fbe48b7d45042c1\" label=\"Mixed Materials [31142062745602]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_c29898f3d8419fbb5fbe48b7d45042c1\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref10\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAthletic Programs, Tickets, Entry Forms, Notices, and Annual Preparatory School Day and Interscholastic Games Information\u003c/unittitle\u003e\u003cunitdate normal=\"1902/1902\"\u003e1902\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_e91c02f175c10c52c130fae6cdad4a4f\" label=\"Mixed Materials [31142062745602]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e91c02f175c10c52c130fae6cdad4a4f\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref11\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAthletic Programs, Tickets, Schedules, Entry Forms, Notices, Dance Programs, and Annual Preparatory School Program\u003c/unittitle\u003e\u003cunitdate normal=\"1903/1903\"\u003e1903\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_73fb4c814a54b9ffef241abb9c9e31c0\" label=\"Mixed Materials [31142062745602]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_73fb4c814a54b9ffef241abb9c9e31c0\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref12\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAthletic Programs, Tickets, Notices, and Annual Preparatory School Program \u003c/unittitle\u003e\u003cunitdate normal=\"1904/1904\"\u003e1904\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_88d3161454adb5405bfd22d421874a2d\" label=\"Mixed Materials [31142062745602]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_88d3161454adb5405bfd22d421874a2d\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref13\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAthletic Programs, Tickets, Schedules, Entry Forms, Notices, and Annual Preparatory School Program\u003c/unittitle\u003e\u003cunitdate normal=\"1905/1905\"\u003e1905\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_5684ebfbbf378256e57786faf95b4851\" label=\"Mixed Materials [31142062745602]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5684ebfbbf378256e57786faf95b4851\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAthletic Programs\u003c/unittitle\u003e\u003cunitdate normal=\"1906/1906\"\u003e1906\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_e8345e1926dc72b49e746e420e1e2be8\" label=\"Mixed Materials [31142062745602]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e8345e1926dc72b49e746e420e1e2be8\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAthletic Programs, Schedules, and Annual Preparatory School Program\u003c/unittitle\u003e\u003cunitdate normal=\"1907/1907\"\u003e1907\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_2b5ea58d5400cb07130d140fd59ca476\" label=\"Mixed Materials [31142062745602]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2b5ea58d5400cb07130d140fd59ca476\" type=\"Folder\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAthletic Programs, Tickets, and Schedules\u003c/unittitle\u003e\u003cunitdate normal=\"1908/1908\"\u003e1908\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_43104da6631afcc6bcff8bb45c1d3bca\" label=\"Mixed Materials [31142062745602]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_43104da6631afcc6bcff8bb45c1d3bca\" type=\"Folder\"\u003e15\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAthletic Programs, Tickets, and Schedules\u003c/unittitle\u003e\u003cunitdate normal=\"1909/1909\"\u003e1909\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_84fa6fb49bd75f66efceb7d75b6b61e8\" label=\"Mixed Materials [31142062745602]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_84fa6fb49bd75f66efceb7d75b6b61e8\" type=\"Folder\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAthletic Tickets and Schedules\u003c/unittitle\u003e\u003cunitdate normal=\"1910/1910\"\u003e1910\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_abf3c0ca83514718f5047d02223a4110\" label=\"Mixed Materials [31142062745602]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_abf3c0ca83514718f5047d02223a4110\" type=\"Folder\"\u003e17\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAthletic Programs, Tickets, Schedules, Sticker, and Dance Programs\u003c/unittitle\u003e\u003cunitdate normal=\"1911/1911\"\u003e1911\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_d0986b378f79e3f09b7bae74f9e40834\" label=\"Mixed Materials [31142062745602]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d0986b378f79e3f09b7bae74f9e40834\" type=\"Folder\"\u003e18\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAthletic Programs, Tickets, Schedules, Notices, and Annual Preparatory School Program\u003c/unittitle\u003e\u003cunitdate normal=\"1912/1912\"\u003e1912\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter - Half\" id=\"aspace_760bd96be14522f88300fc8d8afc457a\" label=\"Mixed Materials [31142062745610]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_760bd96be14522f88300fc8d8afc457a\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAthletic Programs, Tickets, and Schedules\u003c/unittitle\u003e\u003cunitdate normal=\"1913/1913\"\u003e1913\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter - Half\" id=\"aspace_5aa4d473db8a1c7bff51bbcc46c1f2ae\" label=\"Mixed Materials [31142062745610]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_5aa4d473db8a1c7bff51bbcc46c1f2ae\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAthletic Schedules and Tickets\u003c/unittitle\u003e\u003cunitdate normal=\"1914/1914\"\u003e1914\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter - Half\" id=\"aspace_ca64011f90e5c23c1f216a6e06db99ae\" label=\"Mixed Materials [31142062745610]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_ca64011f90e5c23c1f216a6e06db99ae\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeventeenth Annual Interscholastic Games Entry Form\u003c/unittitle\u003e\u003cunitdate normal=\"1916/1916\"\u003e1916\u003c/unitdate\u003e\u003cphysdesc id=\"aspace_e6675d3b8a98bbbccaaa4130249d7971\"\u003e\u003c/physdesc\u003e\u003ccontainer altrender=\"Manuscript box - Letter - Half\" id=\"aspace_df2095cffe58ecbe31018de487bdb4c8\" label=\"Mixed Materials [31142062745610]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_df2095cffe58ecbe31018de487bdb4c8\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePhotocopied Newspaper Articles About Athletics\u003c/unittitle\u003e\u003cunitdate normal=\"1900/1913\" type=\"inclusive\"\u003e1900-1913\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter - Half\" id=\"aspace_6b66173a7be0dc8d7a90d815063421f2\" label=\"Mixed Materials [31142062745610]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_6b66173a7be0dc8d7a90d815063421f2\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAthletic Tickets, Schedules, Notices, NYU Athletic Association Constitution, Registration Forms, and Dues Requests \u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter - Half\" id=\"aspace_f1c4562a630d6c7cd21b287b691b77d1\" label=\"Mixed Materials [31142062745610]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_f1c4562a630d6c7cd21b287b691b77d1\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

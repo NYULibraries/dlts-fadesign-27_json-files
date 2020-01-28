@@ -1,0 +1,135 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "photos_194"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Conrad Firestein Photographs \u003cnum\u003ePHOTOS.194\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Edited by Mary Corcoran for compliance with DACS and Tamiment Required Elements for Archival Description"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-09-24T19:44:50\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "local",
+                        "value": "Firestein, Conrad"
+                    }
+                },
+                "unittitle": {
+                    "value": "Conrad Firestein Photographs"
+                },
+                "unitdate": {
+                    "normal": "1982/1982",
+                    "type": "inclusive",
+                    "value": "circa 1982"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 folder."
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Conrad Firestein Photographs contain one photographic print of the late photographer John Albok, shot circa 1982."
+                },
+                "unitid": {
+                    "value": "PHOTOS.194"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_b2e08e4bdafa99aa93c29b84aa23a88b",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_93c7f40e24e854d0c5e262e8f0aad5f4",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Conrad Firestein Photographs; PHOTOS 194; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_9b9a3a39ff0ee7d12a59161c05e03b4e",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Conrad Firestein sent, 2005. The accession numbers associated with this gift are 2005.042 and NPA.2005.008."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_0a272a2e6bcacafae8d5bba871be1aca",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Conrad Firestein is an Amsterdam-based photographer whose portfolio documents fashion, beauty, lifestyles, and interiors from the late-20th century through the present.  The subject of Firestein's collection, the late John Albok, was a celebrated tailor and photographer best known for his images of New York shot during the Great Depression."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_e427c402db743905685da56cb55e2dc8",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The Conrad Firestein Photographs contain an 8\"x10\" black and white fiber-based portrait of the late tailor and photographer John Albok."
+            }
+        },
+        "controlaccess": {},
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref2\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAlbok, John\u003c/unittitle\u003e\u003cunitdate normal=\"1982/1982\" type=\"inclusive\"\u003ecirca 1982\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - lengthwise\" id=\"aspace_b430323ff21f4304efa9b666931368d5\" label=\"Photographs [31142062722890]\" type=\"Box\"\u003eA002\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

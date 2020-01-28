@@ -1,0 +1,141 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "pr383_david_backman"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "David Backman Collection of  Photographs  \u003clb/\u003e1953-1989\u003clb/\u003e \u003cnum\u003ePR 383\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Marybeth Kavanagh"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-04-08T19:47:01\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Backman, David"
+                    }
+                },
+                "unittitle": {
+                    "value": "David Backman collection of  photographs"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "1953-1989, undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": ".5 Linear feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "This collection, assembled and donated by David Backman, contains 10 portraits of Marilyn Monroe by André de Dienes, and 21 photographs by photojournalist Ken Regan."
+                },
+                "unitid": {
+                    "value": "PR 383"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_2e61e0227602af4737d4b58b353e5f78",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Photocopying undertaken by staff only. Limited to twenty exposures of stable, unbound material per day. (Researchers may not accrue unused copy amounts from previous days.)"
+            }
+        },
+        "prefercite": {
+            "id": "aspace_764d4f9a32321dac0cf0464c2eb78f5f",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "This collection should be cited as: David Backman Collection of Photographs, PR 383, Department of Prints, Photographs, and Architectural Collections, The New-York Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_c72cacc27d14f7f95940ea2bde9118d5",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Gift of David Backman, 2013 and 2015."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_432a6c35fa9984614cf1f23acdcc2ace",
+            "head": "Biographical / Historical",
+            "p": {
+                "value": "\nAndré de Dienes (1913-1985) was a Hungarian American fashion photographer best known for his early portraits of the actress Marilyn Monroe. "
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_d76a9e349479a4a5b8587f5c885a5c33",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection, assembled and donated by David Backman, contains 10 portraits of Marilyn Monroe by André de Dienes, and 21 photographs by photojournalist Ken Regan."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Celebrities -- United States -- Portraits"
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_f7ba1387566c5f05dacc5967605768bd\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: Photographs by Ken Regan\u003c/unittitle\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_683f715492d3e656adfc6474b2a27e8c\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThis series, donated and assembled by David Backman, contains Ken Regan's photographs of musician Keith Richards;  politicians Ted Kennedy, John Lindsay, and Ronald Reagan; athletes Jackie Joyner, Oscar Gamble, Gary Player and the 1962 New York Mets baseball team; and news and entertainment personalities Av Weston, Tab Hunter, and Dr. Delano Merriweather.\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_b2673eeb3f65904e13291142ccd97f34\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFord, Betty\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_6119303c26c564875a1cc22ff4a22df7\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_6119303c26c564875a1cc22ff4a22df7\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref383_sbv\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eGamble, Oscar\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"61895\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e61895\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_84687fa8dd8f0c51e922952dfdd84bf9\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_84687fa8dd8f0c51e922952dfdd84bf9\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_7b5dd7567f6a570259b51914854da546\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eBaseball player\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref378_fay\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eGraham, Bill\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"61889\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e61889\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003e1974, undated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4b081246de0b3b732a011663fe520bdf\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_4b081246de0b3b732a011663fe520bdf\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_86cc565c75dfd91bd61de235c669115f\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eConcert promoter. Two images, one with Jim Morrison and Ray Manzarek of the Doors; one of Graham getting a pie in the face.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_0a73bde6fae0cfbe55b3ebcade07fc8a\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eHunter, Tab and Zimbalist, Stephanie\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1962\u003c/unitdate\u003e\u003ccontainer id=\"aspace_adaaa90b0d6be0a9a2292d56197dd971\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_adaaa90b0d6be0a9a2292d56197dd971\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_385ae0e1b1f39c2fbda58bd7b4b6f2b2\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eJoyner, Jackie\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1989\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ad53371dfb55c90bd1729b8b859d6a85\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ad53371dfb55c90bd1729b8b859d6a85\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_caf869901fc0bacb1169b5814d8a7000\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003ealso know as Jackie Joyner-Kersee. Photo with the staff of a McDonald's restaurant.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref380_e5o\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eKennedy, Ted\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"61890\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e61890\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003e1974, undated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_3c977f0e6b7726c2a1efa29916e8084d\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_3c977f0e6b7726c2a1efa29916e8084d\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_182731c8c554a25cd48e8ca6b3973cdd\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eTwo images: one ice skating with Ethel Kennedy at Rockefeller Center; one with Jean Kennedy Smith at an Ali-Frazier boxing match\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref381_ov3\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLindsay, John\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"61891\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e61891\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_140f589f0dadd7908f7c3249ba9aea27\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_140f589f0dadd7908f7c3249ba9aea27\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_1165b3410bc59e0a3fde6ee3e36bf460\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eTwo images.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_cf8d65a8c4413c07cb605c855c2e54d9\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMerriweather, Delano\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a4198ad0595a72545fee5b5f056ab325\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_a4198ad0595a72545fee5b5f056ab325\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_07e327a50f60a502fb670afa3e65ebc7\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003ePhysician and former track and field athlete.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref384_5pa\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNew York Mets\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"61896\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e61896\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003e1962\u003c/unitdate\u003e\u003ccontainer id=\"aspace_89f21b58364fc69e6b2001de67775cc1\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_89f21b58364fc69e6b2001de67775cc1\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_ce44c5ba308edb4a2b6fc3e6816a0290\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eTwo images of players on field during a game.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref386_9uj\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePlayer, Gary\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"61894\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e61894\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003e1971\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5c61bd47cbfed49e2915b9ead72f1b8b\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5c61bd47cbfed49e2915b9ead72f1b8b\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_039b2b801d9473de6b504bd00a0f18ef\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eGolfer.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref382_g7n\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eReagan, Ronald \u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"61892\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e61892\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003e1985\u003c/unitdate\u003e\u003ccontainer id=\"aspace_89da34892826eb472bb7876cd9dbfc8a\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_89da34892826eb472bb7876cd9dbfc8a\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_415c88a15c012e562ab02de23b528d1e\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003ewith Nancy Reagan, Jackie Kennedy Onassis, and John F. Kennedy Jr.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref379_p22\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRichards, Keith\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"61893\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e61893\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003e1977, 1989\u003c/unitdate\u003e\u003ccontainer id=\"aspace_aa16e88b9448fe09bc28d1262b4ad3c0\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_aa16e88b9448fe09bc28d1262b4ad3c0\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_5ef3dfc287ad19036e8f8d1122a64ab9\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eTwo images.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref385_03o\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eWeston, Av\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"61897\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e61897\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003e1982-1983\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5c379a899baa6d8a58a50e2f96adf177\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5c379a899baa6d8a58a50e2f96adf177\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_41c1cc4853792cbab97810502ba22728\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eJournalist, ABC News executive; 3 images, including one with Barbara Walters.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_1817a36931cc9219dd9824556df31195\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eWyman, Bill\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1981\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e9cb6d1653c33eacd9827bdc2bb5995f\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e9cb6d1653c33eacd9827bdc2bb5995f\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_7214ae53c5563cb3f6966a611ce79198\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries II: Photographs by Andre de Dienes\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_08cf590abf3cff39453b2f60c8e8bc1a\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMarilyn Monroe\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1953, undated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_de1d6fc9d4d3f78adb634407e6d73b37\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_de1d6fc9d4d3f78adb634407e6d73b37\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_bc059dc75545da71adc3184f958e5ce4\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003e10 portraits.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

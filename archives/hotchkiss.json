@@ -1,0 +1,165 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "hotchkiss"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the George Burton Hotchkiss Papers \u003cnum\u003eMC.45\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Ashley Sena-Levine."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-01-14T14:57:58\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Hotchkiss, George Burton, 1884-1953"
+                    }
+                },
+                "unittitle": {
+                    "value": "George Burton Hotchkiss Papers"
+                },
+                "unitdate": {
+                    "normal": "1908/1950",
+                    "type": "inclusive",
+                    "value": "1908-1950"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one half manuscript box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "George Burton Hotchkiss (1884-1953) was an innovative business writing and advertising teacher at New York University (NYU) from 1908 until 1950.  He authored over a dozen textbooks on advertising and advertising history, including \u003cemph render=\"italic\"\u003eAdvertising Copy\u003c/emph\u003e, and created a Department of Advertising and Marketing at NYU. This collection consists of two carbon copies of his autobiographical manuscript."
+                },
+                "unitid": {
+                    "value": "MC.45"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_dcc52a4cbd9e30403c671f3f01d3bdeb",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_d1b7a0f707c86f279b81fc3d4e764ac8",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); George Burton Hotchkiss Papers; MC 45; box number; folder number; New York University Archives, New York University Libraries."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_1f77664980cdfdd11bd94257c6ba9d62",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials were transferred to University Archives at an unspecified date."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_3d74cd9d28a4718484e140ffc1ce1086",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Hotchkiss retired from NYU in 1950 as a highly respected and often consulted advertising educator.  He held the title of professor emeritus until his death in 1953.  "
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_75d205498996e5dd9575296b9e816793",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Geroge Burton Hotchkiss Papers consist of two copies of Hotchkiss' autobiographical manuscript."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Farm Life -- United States"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Stock Market Crash -- 1929"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "New York University -- Faculty -- History"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Advertising -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Marketing."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "New York University. School of Commerce, Accounts, and Finance"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref8\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eGeorge B. Hotchkiss Autobiographical Manuscript \u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter - Half\" id=\"aspace_2576416d5e947f5ebdbeb136fc05a60f\" label=\"Mixed Materials [31142062742260]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2576416d5e947f5ebdbeb136fc05a60f\" type=\"Folder\"\u003e1-2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "mc_70"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to NYU Guest Books \u003cnum\u003eMC.70\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Jacqueline Rider"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-01-15T16:49:59\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "NYU Guest Books"
+                },
+                "unitdate": {
+                    "normal": "1911/1989",
+                    "type": "inclusive",
+                    "value": "1911-1989"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": ".5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one manuscript box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "This collection consists of seven bound guest books recording visitors to New York University's (NYU) University Archives and other NYU locations."
+                },
+                "unitid": {
+                    "value": "MC.70"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_299486c8b83d844e35413c284e40d08f",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Repository permission is required for access. Please contact New York University Archives, (212) 998-2641, university-archives@nyu.edu."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_2aef8e09ddbf45d613feddeb3c3c5046",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; NYU Guest Books; MC 70; box number; folder number; New York University Archives, New York University Libraries."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_4e0bfa5e84d0cea8c7a5d8c0f497d925",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Some materials were transferred from Gould Memorial Library at an unspecified date."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_a88d8b27f21c23ec32e242d6788db25f",
+            "head": "Historical Note",
+            "p": {
+                "value": "President James M. Hester established the Office of the Archivist in 1967. The New York University Archives serves as the final repository for the historical records of NYU. Its primary purpose is to document the history of the University and to provide source material for administrators, faculty, students, alumni, and other members of the University community, as well as scholars, authors, and other interested persons who seek to evaluate the impact of the University's activities on the history of American social, cultural, and intellectual development."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_d2ed51c084f12509b632f41e61ce6f0c",
+            "head": "Content Description",
+            "p": {
+                "value": "This collection consists of seven bound guest books recording visitors to New York University's (NYU) University Archives, as well as guest books from NYU Brown House and Washington Square University and College."
+            }
+        },
+        "controlaccess": {},
+        "dsc": {
+            "value": "\u003cc id=\"aspace_1c243fdd5c8d7d7db8d7d965545813e7\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eGuest books from University Archives, Brown House, and Washington Square University and College\u003c/unittitle\u003e\u003cunitdate normal=\"1911/1989\" type=\"inclusive\"\u003e1911-1989\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_d26c84c89b22368b93c383e2d2533353\" label=\"Mixed Materials [31142062742401]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d26c84c89b22368b93c383e2d2533353\" type=\"Folder\"\u003e1-6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

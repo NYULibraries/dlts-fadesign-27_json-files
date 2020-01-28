@@ -1,0 +1,128 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "tam_510"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Aaron Bindman Papers\n                    \u003cnum\u003eTAM.510\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "11/12/2009"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T19:51-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Bindman, Aaron"
+                    }
+                },
+                "unittitle": {
+                    "value": "Aaron Bindman Papers"
+                },
+                "unitdate": {
+                    "normal": "1939/1997",
+                    "type": "inclusive",
+                    "value": "ca. 1939-ca.1997"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.0 linear feet"
+                        },
+                        {
+                            "value": "(1 box)"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "TAM.510"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid18579002",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "bioghist": {
+            "id": "ref6",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Aaron Bindman was a union organizer and secretary treasurer of the International Longshoremen's and Warehousemen's Union Local 208 (Chicago, Ill.), from 1946-53. After four years as a carpenter, he enrolled in the University of Illinois, received a PhD in sociology, which he taught for twenty years."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The collection contains an autobiographical sketch and c.v., correspondence, speeches, articles, some pertaining to various teaching/research related travels, including to New Zealand, the USSR, Sweden, Saskatchewan, Canada, etc. A thin file labeled American Student Union contains a delegates badge from its 5th convention in March, 1939, and an undated letter from George Seldes [ca. 1939-41]. Bindman was also an amateur sculptor, and there are some two dozen photographs of his work and of himself sculpting [to be transferred to the Non-Print collection]."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Labor unions |x Officials and employees |z Illinois |z Chicago."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Sociologists |z United States."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "International Longshoremen's and Warehousemen's Union. Local 208 (Chicago, Ill.)."
+            }
+        },
+        "dsc": {}
+    }
+}

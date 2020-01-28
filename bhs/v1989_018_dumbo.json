@@ -1,0 +1,149 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "v1989_018_dumbo"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the DUMBO, Brooklyn waterfront photographs and slides\n                    \u003cnum\u003eV1989.018\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Patricia Glowinski"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "August 8, 2011."
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2015-08-10T16:53-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Maraio, Joseph"
+                    }
+                },
+                "unittitle": {
+                    "value": "DUMBO, Brooklyn waterfront photographs and slides"
+                },
+                "unitdate": {
+                    "normal": "1965/1985",
+                    "type": "inclusive",
+                    "value": "circa 1975"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.08 linear feet"
+                        },
+                        {
+                            "value": "80 items contained in one manuscript box and one film slides binder."
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The collection includes many views of the Brooklyn Bridge, views of buildings along the Brooklyn waterfront located near the Brooklyn Bridge and the Manhattan Bridge, views of people at or near the Brooklyn waterfront, views of the Brooklyn waterfront looking across the East River from lower Manhattan, and views of the lower Manhattan cityscape looking across the East River from the Brooklyn waterfront."
+                },
+                "unitid": {
+                    "value": "V1989.018"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid967003",
+                    "label": "Graphic materials",
+                    "type": "Folder",
+                    "value": "Films slides by accession V1989.2 to V1992.43"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref4",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref7",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); DUMBO, Brooklyn waterfront photographs and slides, V1989.018, Box number, Object ID number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Gift of the Bronx Historical Society via Gary D. Hermalyn, 1989."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The DUMBO, Brooklyn waterfront photographs and slides is comprised of 70 color slides, taken by Joseph Maraio, and 10 color photographs, taken by Elizabeth Beirne, of areas along the Brooklyn waterfront in the DUMBO neighborhood Brooklyn, circa 1975. The collection includes many views of the Brooklyn Bridge, views of buildings along the Brooklyn waterfront located near the Brooklyn Bridge and the Manhattan Bridge, views of people at or near the Brooklyn waterfront, views of the Brooklyn waterfront looking across the East River from lower Manhattan, and views of the lower Manhattan cityscape looking across the East River from the Brooklyn waterfront. Two prominently featured subjects of the photographs and slides include a building located at 1 Water Street (as of 2011,the present-day location of the Brooklyn Ice Cream Factory), and a small park area that was adjacent to the building. The collection also shows views of the Watchtower Building, the Sweeney Manufacturing Company Building, the Eagle Warehouse and Storage Building (all also in DUBMO), as well as views of the North Tower and South Tower that were once part of the World Trade Center in lower Manhattan."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Public spaces |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Waterfronts |z New York (State) |z Kings County"
+                }
+            ]
+        },
+        "otherfindaid": {
+            "id": "ref6",
+            "head": "Other Finding Aids"
+        },
+        "dsc": {}
+    }
+}

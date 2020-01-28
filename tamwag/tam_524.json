@@ -1,0 +1,155 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_524"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Alfred F. Young Papers \u003cnum\u003eTAM 524\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment Staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-06-14T19:38:22\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Alfred F. Young Papers"
+                },
+                "unitdate": {
+                    "normal": "1930/1969",
+                    "type": "inclusive",
+                    "value": "1930s-1960s"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.75 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 2 boxes"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Papers include various course materials from the Jefferson School, including study outlines, syllabi; newspaper and periodical clippings, and Communist Party publications on a number of topics. "
+                },
+                "unitid": {
+                    "value": "TAM 524"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_8edb24901a32a3a5f7f6b1f251e1233f",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1-2"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_08c252e9cf54deec451af2a5fdac7bd8",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_b1de39b28d43f7773e54ce143f5b8111",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Collection name; Collection number; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_fc24d417a4cf47bbb5f41f4d3305f14d",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials found in collection; provenance is unknown but the materials were most likely donated by Marilyn B. Young. The accession numbers associated with this collection are 1950.011 and 2009.096."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_44ec5bd71d5747fce03ce11e3f7b7166",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Alfred F. Young apparently taught at the Communist Party USA's Jefferson School of Social Science in New York City.  Additionally, he was a historian who primarily studied late 18th century American history. He received his PhD from Northwestern University in 1958. He may have been a member of the American Association of University Professors Academic Freedom Committee, as his Papers followed theirs in the last box of their records when they were initially received."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_f6481c2fbb3c61c7a9201d4df9d76479",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Papers include various course materials from the Jefferson School, including study outlines, syllabi; newspaper and periodical clippings, and Communist Party publications on a number of topics. The bulk of the material is from the 1940s-1950s."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Adult education -- New York (State) -- New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Communists -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Communist education |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Communist education -- New York (State) -- New York."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Communist Party of the United States of America"
+            }
+        },
+        "dsc": {}
+    }
+}

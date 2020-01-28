@@ -1,0 +1,139 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_324"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Phillip and Regina Frankfeld Papers \u003cnum\u003eTAM 324\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-16T15:38:24\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Philip and Regina Frankfeld Papers"
+                },
+                "unitdate": {
+                    "value": "1950s-1970s"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "TAM 324"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_b92e59f956fb711391d1b467703f7c85",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_1834d55dd8cb19bffc1fc1a78b86c989",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materias are open without restrictions."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_f29876c8157776137eb25982735921de",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Dr. Bella Hazzan in 2004. The accession number associated with this gift is 2004.036."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_59d29ad758a025fb7cc3ade828d3001b",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Philip and Regina Frankfeld were members of the Communist Party who were arrested and convicted (1951-1952) of subversive activity under the Smith Act. Philip, the secretary of the Communist Party in Massachusetts, was sentenced to five years and his wife Regina two years in prison."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_4568c08e501fd456daf3b5bc0ba54323",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection contains writings by Philip and Regina Frankfeld about their time spent in prison and letters from prison, documents from a campaign to raise money for them (they were fined as part of their sentence), pamphlets issued by the Communist Party of Massachussetts, an an oral history by Regina, reports written in the 1960s-1970s on issues such as the contemporary women's movement, U.S. history, and other topics, presumably for internal Communist Party consumption, and an unidentified photograph of a group of men on a stage, under a banner \"[For a] Labor Party Now!\""
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Communism |z Massachusetts."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Women communists -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Communist trials -- United States."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Communist Party of the United States of America (Mass.)"
+            }
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1985_075_household_faith_church"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Household of Faith Church collection\n                    \u003cnum\u003e1985.075\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Weatherly Stephan"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "November 17, 2010"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-18T16:59-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Household of Faith Church collection"
+                },
+                "unitdate": {
+                    "normal": "1886/1922",
+                    "type": "inclusive",
+                    "value": "1886-1922"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.4 Linear feet"
+                        },
+                        {
+                            "value": "in one manuscript box."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "1985.075"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid508002",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "1985.075 Box 1 of 1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref2",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref4",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Household of Faith Church collection, 1985.075, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Robert Dolliver, date unknown."
+            }
+        },
+        "bioghist": {
+            "id": "ref1",
+            "head": "Historical note",
+            "p": {
+                "value": "The Household of Faith congregation was organized in 1886 under the direction of Rev. William N. Pile, who led the church for two decades. In its first two years, the Household of Faith held services at temporary locations on Grand Street, then Liberty Hall at Gates and Nostrand Avenues in the Bedford-Stuyvesant neighborhood of Brooklyn. A new and permanent building for the church was opened in 1888, located on Greene Avenue in Bedford-Stuyvesant. Household of Faith followed the Adventist movement, and was also known as First Christian Advent Church of Brooklyn in the early 20th century."
+            }
+        },
+        "scopecontent": {
+            "id": "ref6",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Household of Faith Church collection dates from 1886 to 1922 and is housed in one manuscript box. The collection contains seven bound volumes that include reports, the church membership roll, clerks' books, and minutes. Reports and minutes document business meetings of the church, as well as meetings of the Board of Trustees. Clerks' books record baptisms and new members joining the church, as well as regular administrative decisions made at the church. Church rolls list members of the congregation and record member addresses, and dates joined and dismissed from the church."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Adventists |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Church membership |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Church records and registers"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Religious institutions |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Household of Faith Church (Brooklyn, New York, N.Y.)."
+            }
+        },
+        "dsc": {}
+    }
+}

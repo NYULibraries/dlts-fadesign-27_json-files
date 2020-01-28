@@ -1,0 +1,150 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "wag_077"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "White Lung Association, New York Chapter Records \u003cnum\u003eWAG.077\u003c/num\u003e"
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-06-04T16:43:19\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "local",
+                        "value": "Zeluck, Barbara, 1923-2010"
+                    }
+                },
+                "unittitle": {
+                    "value": "White Lung Association, New York Chapter Records"
+                },
+                "unitdate": {
+                    "normal": "1983/1995",
+                    "type": "inclusive",
+                    "value": "1983-1995"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "13.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(16 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "WAG.077"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_506a6f95ad66b520a2fcd3d24eea5cbe",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_e029ed2a1e0924a5928fd86d66b9b319",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "An additional donation was made by Barbara Zeluck in 2009. The accession number associated with this gift is 2009.030. "
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_9d712bd5eede5c59767075bf8dba063e",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "INVENTORY AVAILABLE IN REPOSITORY"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Industrial hygiene |z United States"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Shipbuilding industry |x Employees."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Asbestos abatement."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Health risk assessment |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Industrial safety |x Law and legislation |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor leaders |z California."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor leaders -- New York (State) -- New York."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Abestos Abatement Technical Information Center (New York, N.Y.)"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_f94a0c8037bc0b6c2c8caf6bf98c683d\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eUnprocessed Materials\u003c/unittitle\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_2e8da46525b666d68f52c496f0f6ae0a\" label=\"Mixed Materials [31142063434271]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_5c44d380e02adcfbfe274e6b1b81f4c1\" label=\"Moving Images [31142062732261]\" type=\"Box\"\u003eShared Tamiment 024\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

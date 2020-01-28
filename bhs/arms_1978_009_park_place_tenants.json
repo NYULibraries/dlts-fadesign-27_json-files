@@ -1,0 +1,134 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1978_009_park_place_tenants"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the 959 Park Place Tenants' Association records\n                    \u003cnum\u003e1978.009\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Matthew Gorham"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "July 19, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-17T13:48-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "959 Park Place Tenants' Association records"
+                },
+                "unitdate": {
+                    "normal": "1965/1968",
+                    "type": "inclusive",
+                    "value": "1965-1968"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.16 Linear feet"
+                        },
+                        {
+                            "value": "in two folders"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The apartment building located at 959 Park Place in the Crown Heights neighborhood of Brooklyn was sold to Katy Equities Corporation on September 29, 1967. These records, dated 1965 to 1968, pertain to that sale, as well as negotiations between the Tenants' Association and Katy Equities concerning rent payments, painting, and general maintenance. The records include notices, receipts, letters, programs, and tickets for the tenant association."
+                },
+                "unitid": {
+                    "value": "1978.009"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid916003",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0074"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref4",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); 959 Park Place Tenants' Association records, 1978.009, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of James Hurley, 1978."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Real property |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Tenants' associations |z New York (State) |z Kings County"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

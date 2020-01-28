@@ -1,0 +1,139 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "aia_053"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Archives of Irish America Photograph Collection \u003cnum\u003eAIA.053\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Bonnie Gordon"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-07-11T15:26:11\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Archives of Irish America Photograph Collection"
+                },
+                "unitdate": {
+                    "normal": "1920/2008",
+                    "type": "inclusive",
+                    "value": "circa 1920-2008"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 manuscript box and 1 oversize folder in shared housing"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "This is an artifical collection created by the Archives of Irish America during its early years of collecting. The collection consists of a variety of photographs, many of which document sporting events, musical performances, and social functions organized by various Irish American social or fraternal organizations in the greater New York City area."
+                },
+                "unitid": {
+                    "value": "AIA.053"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_74847f94f93f3aaaad258b236b49915e",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open for research without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_6cc2b587870c723ef7086484e6d95fa5",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Archives of Irish America Photograph Collection; AIA 053; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_b7023579169aa9e6d8922591273c6ec1",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "The Archives of Irish America, a special collection documenting the the Irish migration experience and American Irish ethnicity in the 20th century, accumulated these photographs via active collection by staff, contributions from donors and from material removed from collections in the Archives."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_9bff542cb82a5df9eb03e6e923b7014b",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "This is an artifical collection created by the Archives of Irish America during its early years of collecting. The collection consists of a variety of photographs, many of which document sporting events, musical performances, and social functions organized by various Irish American social or fraternal organizations in the greater New York City area."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Irish Americans -- Ethnic identity."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Irish Americans -- Societies, etc."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Irish Americans -- New York (State) -- New York."
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_e13bfa67ba55a19c6e47598a4f007edd\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePhotographs\u003c/unittitle\u003e\u003cunitdate normal=\"1920/2008\" type=\"inclusive\"\u003e1920-2008\u003c/unitdate\u003e\u003ccontainer altrender=\"Flat OS Box - 17\" id=\"aspace_6c51dab441d9b3a19d727aa6a259d41e\" label=\"Photographs\" type=\"Box\"\u003eAIAXOS001\u003c/container\u003e\u003ccontainer parent=\"aspace_6c51dab441d9b3a19d727aa6a259d41e\" type=\"Folder\"\u003e1\u003c/container\u003e\u003ccontainer id=\"aspace_f80e6ab8f711e3dc8e35c3b081a5f157\" label=\"Photographs [31142054611291]\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

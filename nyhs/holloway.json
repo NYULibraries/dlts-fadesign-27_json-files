@@ -1,0 +1,123 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "holloway"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the H. Maxon Holloway Papers \n                    \u003clb/\u003e\n                    \u003cdate\u003e1924-1966\u003c/date\u003e\n                    \u003clb/\u003e\n                    \u003cnum\u003eMS.3012\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Jennifer Gargiulo"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "© 2011 New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2016-08-15T16:31-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "© 2011 New-York Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "H. Maxon Holloway Papers"
+                },
+                "unitdate": {
+                    "value": "1924-1966"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "3.33 Linear feet"
+                        },
+                        {
+                            "value": "(8 Boxes)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "This collection contains materials related to the personal and professional life of H. Maxon Holloway, curator at N-YHS and other institutions, including correspondence to and from family, friends, and professional associates, as well as material relating to his time in the United States Navy Reserve. It includes letters, employment applications, newspaper clippings, and photographs. Also included are military documents, awards, and decorations."
+                },
+                "unitid": {
+                    "value": "MS.3012"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref18",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Items that include presidential signatures will be presented to researchers in duplicate form."
+            }
+        },
+        "prefercite": {
+            "id": "ref28",
+            "head": "Preferred Citation Note",
+            "p": {
+                "value": "This collection should be cited as the H. Maxon Holloway Papers, MS 3012, The New-York Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref26",
+            "head": "Provenance",
+            "p": {
+                "value": "Gift of H. Maxon Holloway and family, 1962, post-1966."
+            }
+        },
+        "bioghist": {
+            "id": "ref16",
+            "head": "Biographical Note",
+            "p": {
+                "value": "In 1956, Holloway suffered from a heart attack, after which he was demoted from his position at the Chicago Historical Society, and had trouble finding new work. Though he did eventually find new employment at the Rensselaer County Historical Society, Holloway suffered from ill health for the rest of his life. He died on August 12, 1966 of prostate cancer."
+            }
+        },
+        "scopecontent": {
+            "id": "ref20",
+            "head": "Scope and Contents Note",
+            "p": {
+                "value": "There is also one box of documents from Holloway’s time serving in the United States Navy Reserve during World War II. Materials include news and magazine articles, ephemera, photographs, correspondence, and official military papers."
+            }
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref1\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries I: Correspondence\u003c/unittitle\u003e\n                    \u003cunitdate\u003e1924-1966\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003carrangement id=\"ref24\"\u003e\n                    \u003chead\u003eArrangement Note\u003c/head\u003e\n                    \u003cp\u003eThis series contains correspondence both to and from H. Maxon Holloway, and retains its original arrangement by year or year range, and then by the name of the recipient within that year. Letters to and from Holloway's parents were kept separate and are arranged chronologally.\u003c/p\u003e\n                \u003c/arrangement\u003e\n                \u003cc id=\"ref8\" level=\"item\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence: 1920s-1940s\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid1953001\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid1953001\" type=\"Folder\"\u003e1-10\u003c/container\u003e\n                        \u003cunitdate\u003e1930-1949\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref9\" level=\"item\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence: 1950-1955\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid1953002\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid1953002\" type=\"Folder\"\u003e1-9\u003c/container\u003e\n                        \u003cunitdate\u003e1950-1955\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref10\" level=\"item\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence: 1956\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid1953003\" type=\"Box\" label=\"Mixed materials\"\u003e3\u003c/container\u003e\n                        \u003ccontainer parent=\"cid1953003\" type=\"Folder\"\u003e1-8\u003c/container\u003e\n                        \u003cunitdate\u003e1956\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref11\" level=\"item\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence: 1957-1958\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid1953004\" type=\"Box\" label=\"Mixed materials\"\u003e4\u003c/container\u003e\n                        \u003ccontainer parent=\"cid1953004\" type=\"Folder\"\u003e1-7\u003c/container\u003e\n                        \u003cunitdate\u003e1957-1958\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref12\" level=\"item\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence: 1960-1963\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid1953005\" type=\"Box\" label=\"Mixed materials\"\u003e5\u003c/container\u003e\n                        \u003ccontainer parent=\"cid1953005\" type=\"Folder\"\u003e1-7\u003c/container\u003e\n                        \u003cunitdate\u003e1960-1963\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref13\" level=\"item\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence: 1962-1966\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid1953006\" type=\"Box\" label=\"Mixed materials\"\u003e6\u003c/container\u003e\n                        \u003ccontainer parent=\"cid1953006\" type=\"Folder\"\u003e1-7\u003c/container\u003e\n                        \u003cunitdate\u003e1962-1966\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref14\" level=\"item\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eFamily Correspondence\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid1953007\" type=\"Box\" label=\"Mixed materials\"\u003e7\u003c/container\u003e\n                        \u003ccontainer parent=\"cid1953007\" type=\"Folder\"\u003e1-4\u003c/container\u003e\n                        \u003cunitdate\u003e1935-1945\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref2\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries II: Military Service\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1953008\" type=\"Box\" label=\"Mixed materials\"\u003e8\u003c/container\u003e\n                    \u003cunitdate\u003e1942-1944\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003carrangement id=\"ref25\"\u003e\n                    \u003chead\u003eArrangement Note\u003c/head\u003e\n                    \u003cp\u003eThis series is arranged by format and is organized into the following categories:\u003c/p\u003e\n                    \u003cp\u003e\n                        \u003cemph render=\"bold\"\u003eCorrespondence\u003c/emph\u003e from family members or close friends;\u003c/p\u003e\n                    \u003cp\u003e\n                        \u003cemph render=\"bold\"\u003eNewspaper clippings and magazine articles\u003c/emph\u003e relating to the navy and being a sailor, and clippings from notices put in the local newspaper when Holloway was on leave to visit family;\u003c/p\u003e\n                    \u003cp\u003e\n                        \u003cemph render=\"bold\"\u003eEphemera\u003c/emph\u003e such as Holloway's dog tags, medals, and pins, as well as invitations, cards, receipts, and more. Also included is a desk placard with Holloway's name and rank, as well as a panoramic photograph of his navy training class;\u003c/p\u003e\n                    \u003cp\u003e\n                        \u003cemph render=\"bold\"\u003eMilitary Awards\u003c/emph\u003e including Holloway's certificates for completing different training courses, his promotion, and his honorary discharge, as well as photostats of some of the awards; and\u003c/p\u003e\n                    \u003cp\u003e\n                        \u003cemph render=\"bold\"\u003eOfficial military documents\u003c/emph\u003e such as rosters, officer duty lists, memoranda, immunization records, applications for promotion, orders to active duties, etc.\u003c/p\u003e\n                \u003c/arrangement\u003e\n                \u003cc id=\"ref3\" level=\"item\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid1953009\" type=\"Box\" label=\"Mixed materials\"\u003e8\u003c/container\u003e\n                        \u003ccontainer parent=\"cid1953009\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate\u003e1942-1944\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref4\" level=\"item\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eNewspaper Clippings and Magazine Articles\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid1953010\" type=\"Box\" label=\"Mixed materials\"\u003e8\u003c/container\u003e\n                        \u003ccontainer parent=\"cid1953010\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate\u003e1942-1944\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref5\" level=\"item\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eEphemera\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid1953011\" type=\"Box\" label=\"Mixed materials\"\u003e8\u003c/container\u003e\n                        \u003ccontainer parent=\"cid1953011\" type=\"Folder\"\u003e3-4\u003c/container\u003e\n                        \u003cunitdate\u003e1942-1944\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003cseparatedmaterial id=\"ref15\"\u003e\n                        \u003chead\u003eSeparated Materials Note\u003c/head\u003e\n                        \u003cp\u003eDesk name plaquard and panoramic photograph of United States Navy Class stored in Box 7.\u003c/p\u003e\n                    \u003c/separatedmaterial\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref6\" level=\"item\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMilitary Awards\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid1953012\" type=\"Box\" label=\"Mixed materials\"\u003e8\u003c/container\u003e\n                        \u003ccontainer parent=\"cid1953012\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate\u003e1942-1944\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref7\" level=\"item\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eOfficial Military Documents\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid1953013\" type=\"Box\" label=\"Mixed materials\"\u003e8\u003c/container\u003e\n                        \u003ccontainer parent=\"cid1953013\" type=\"Folder\"\u003e6-8\u003c/container\u003e\n                        \u003cunitdate\u003e1942-1944\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "worldwarone"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the World War I Collection\n                    \u003clb/\u003e 1896, 1915-1939\n                    \u003clb/\u003e\n                    \u003cnum\u003eMS 671\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Alison Dundy. Machine readable finding aid created by Alison Dundy."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "© 2011 New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                },
+                "date": "November 30, 2012"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-11-30T11:40-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "© 2011 New-York Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "Guide to the World War I Collection"
+                },
+                "unitdate": {
+                    "normal": "1896/1939",
+                    "type": "inclusive",
+                    "value": "1896-1939"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.43 Linear feet"
+                        },
+                        {
+                            "value": "(1 box)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The World War I Collection is an \"artificial\" collection of subject-related materials acquired by the New-York Historical Society at different times. The collection provides an intimate view of the war through personal narratives and correspondence by servicemen as well as letters and reports by civilians who supported the war effort. There are also official military documents and the manuscript of a French antiwar novel about the battle of Verdun."
+                },
+                "unitid": {
+                    "value": "MS 671"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref5",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Items that include presidential signatures will be presented to researchers in duplicate form."
+            }
+        },
+        "prefercite": {
+            "id": "ref7",
+            "head": "Preferred Citation note",
+            "p": {
+                "value": "This collection should be cited as the World War I Collection, MS 671, The New-York Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref8",
+            "head": "Provenance",
+            "p": {
+                "value": "This is an \"artificial collection,\" meaning that it consists of subject-related materials donated to or acquired by the New York-Historical Society from different sources at various times."
+            }
+        },
+        "scopecontent": {
+            "id": "ref3",
+            "head": "Scope and Contents note",
+            "p": {}
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Argonne, Battle of the, France, 1918"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Homing pigeons"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Liberty bonds"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Verdun, Battle of, Verdun, France, 1916--Fiction"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "World War, 1914-1918"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "World War, 1914-1918 -- Finance"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "World War, 1914-1918--Personal narratives, American"
+                }
+            ],
+            "corpname": {
+                "source": "ingest",
+                "value": "Diocese of New York, Committe on war work and chaplains' equipment."
+            }
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref10\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eAllied Agreement--Minutes of the first conference of the Allied Powers in Chantilly, France\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"fre\"/\u003e\n                    \u003c/langmaterial\u003e\n                    \u003ccontainer id=\"cid645001\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid645001\" type=\"Folder\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1915 July 7\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref11\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eTribute to \"Mother Davison\"--Typescript of an article by Mary Louise Basset commemorating Rachel Frohman Davison's support to the troops\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid645002\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid645002\" type=\"Folder\"\u003e2\u003c/container\u003e\n                    \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref12\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSamuel Bendelson Correspondence\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid645003\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid645003\" type=\"Folder\"\u003e3\u003c/container\u003e\n                    \u003cunitdate\u003e1917 October-December\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref13\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eU.S. Army Memorandum ordering a new basket of carrier pigeons be dropped to Major Whittelsey in the Argonne Forest.\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid645004\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid645004\" type=\"Folder\"\u003e4\u003c/container\u003e\n                    \u003cunitdate\u003e1918 October 7\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref14\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSalvatore Cillis Correspondence\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid645005\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid645005\" type=\"Folder\"\u003e5-6\u003c/container\u003e\n                    \u003cunitdate\u003e1917-1919\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cbioghist id=\"ref15\"\u003e\n                    \u003chead\u003eBiographical/Historical note\u003c/head\u003e\n                    \u003cp\u003eSalvator Cillis was born in Italy in 1892 and immigrated with his family to New York in 1901. He worked as a sign painter for the Levy Co. at 27 Wooster Street in Manhattan, before being drafted for service in World War I. Cillis corresponded with his former employer, Mr. Van Veen, and several co-workers from the Levy Co. while he was stationed in Camp Upton, Long Island for basic training, and then from battlefields in France. Salvator Cillis was discharged in 1919. His passport application from 1923 indicates that he intended to go to France and Italy to \"study art.\" He died in 1966 and is buried in the Long Island National Cemetery.\u003c/p\u003e\n                    \u003cp\u003eThe letters were given to the New-York Historical Society by Mr. Van Veen on February 4, 1946.\u003c/p\u003e\n                \u003c/bioghist\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref16\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eCraig Colgate Materials on the Liberty Loan Drive, including correspondence, awards, and a photograph.\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid645006\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid645006\" type=\"Folder\"\u003e7\u003c/container\u003e\n                    \u003cunitdate\u003e1904, 1917-1919\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref17\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eDiocesan Committee on War \u0026amp; Chaplain's Equipment--Correspondence and Reports\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid645007\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid645007\" type=\"Folder\"\u003e8\u003c/container\u003e\n                    \u003cunitdate\u003e1917 December 21-1919 September 19\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref18\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eManuscript of 1920 French historical novel on the Battle of Verdun: \n                        \u003cemph render=\"italic\"\u003eVerdun: journal de guerre d'un civil\u003c/emph\u003e\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid645008\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid645008\" type=\"Folder\"\u003e9\u003c/container\u003e\n                    \u003cunitdate\u003e1920\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref19\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eWilliam Robbins Collection of World War I servicemen's letters, military documents, and ephemera\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid645009\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid645009\" type=\"Folder\"\u003e10\u003c/container\u003e\n                    \u003cunitdate\u003e1896,  1915-1918\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref20\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eRaymond J. Walsh transcript of radio broadcast about the Armistice\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid645010\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid645010\" type=\"Folder\"\u003e11\u003c/container\u003e\n                    \u003cunitdate\u003e1918 October, 1939 February 25\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

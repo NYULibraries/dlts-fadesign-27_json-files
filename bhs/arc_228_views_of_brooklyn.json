@@ -1,0 +1,164 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arc_228_views_of_brooklyn"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the \n                    \u003cemph render=\"italic\"\u003eViews of Brooklyn\u003c/emph\u003e viewbooks\n                    \u003cnum\u003eARC.228\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Patricia Glowinski"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "June 24, 2011."
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-28T11:24-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "\n                \u003cemph render=\"italic\"\u003eViews of Brooklyn\u003c/emph\u003e viewbooks"
+                },
+                "unitdate": {
+                    "normal": "1905/1910",
+                    "type": "inclusive",
+                    "value": "1905-1910"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.06 Linear feet"
+                        },
+                        {
+                            "value": "in two folders."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "ARC.228"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid855004",
+                    "label": "Graphic materials",
+                    "type": "Box",
+                    "value": "Prints by accession 56"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref2",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref6",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); \n                \u003cemph render=\"italic\"\u003eViews of Brooklyn\u003c/emph\u003e viewbooks, V1986.015, Box number, Object ID number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref4",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Source and date of acquisition for this collection are unknown. The collection was formally accessioned in 1986."
+            }
+        },
+        "bioghist": {
+            "id": "ref1",
+            "head": "Historical note",
+            "p": {
+                "value": "L.H. Nelson Company was a publisher based in Portland, ME that published viewbooks and photographs of prominent cities and summer resorts. Viewbooks, also called souvenir albums or view albums, are books that contain commercially published groups of photographs depicting a place, activity, or event."
+            }
+        },
+        "scopecontent": {
+            "id": "ref9",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The \n                \u003cemph render=\"italic\"\u003eViews of Brooklyn\u003c/emph\u003e viewbooks contain black-and-white non-photographic prints of photographs documenting the built environment in Brooklyn, circa 1905. The viewbooks were published by L. H. Nelson Company of Portland, ME in 1905 and 1910. The original softcovers have been recovered with hardcover library bindings. The hardcovers have become brittle and many of the pages have separated from the bindings. The page size for both viewbooks is 8 x 10. Subjects include church buildings, school buildings, monuments, clubhouses, and bank buildings, among other building types. Views of Prospect Park, Coney Island, and Brooklyn Heights are also well-represented. One viewbook contains 71 images, while the other viewbook contains only 46 images. Digital versions of the images from the viewbook are available via the image database located in the library."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Bank buildings |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Church buildings |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Clubhouses"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Monuments |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "School buildings |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "New York Naval Shipyard."
+            }
+        },
+        "otherfindaid": {
+            "id": "ref5",
+            "head": "Other Finding Aids"
+        },
+        "dsc": {}
+    }
+}

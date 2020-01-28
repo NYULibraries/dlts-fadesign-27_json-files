@@ -1,0 +1,141 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_403"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Moss Roberts Vietnam War Research Files \u003cnum\u003eTAM 403\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-29T18:59:38\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Moss Roberts Vietnam War Research Files"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(5 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Moss Roberts (1937-) is a professor of East Asian Studies at New York University. The collection contains his research files on the Vietnam War."
+                },
+                "unitid": {
+                    "value": "TAM 403"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_436a4a6178cfa6676c88da4855093b7a",
+                    "label": "Mixed Materials [31142063293701]",
+                    "type": "Box",
+                    "value": "5"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_920dfc211bd95c2b52a07104da6bd42c",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_8ff322fe4f66e863475997ea94e0d170",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Moss Roberts Vietnam War Research Files; TAM 403; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_de5b8a6a3acf6a4768e482958f521ede",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Moss Roberts in 2007. The accession number associated with this gift is 2007.005."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_11f95332196058ae114ecd67965a453b",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Moss Roberts (1937-) is a professor of East Asian Studies at New York University."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_3771c471276b9784e79a75d4aec3db05",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The collection contains his research files on the Vietnam War."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Vietnam War, 1961-1975."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Vietnam War, 1961-1975 -- Protest movements."
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

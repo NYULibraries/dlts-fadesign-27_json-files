@@ -1,0 +1,141 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "v1986_038_panorama_nyc_brooklyn_vicinity"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the \n                    \u003cemph render=\"italic\"\u003ePanorama of New York, Brooklyn, and Vicinity\u003c/emph\u003e viewbook\n                    \u003cnum\u003eV1986.038\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Patricia Glowinski"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "July 12, 2011."
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-28T14:29-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "\n                \u003cemph render=\"italic\"\u003ePanorama of New York, Brooklyn, and Vicinity\u003c/emph\u003e viewbook"
+                },
+                "unitdate": {
+                    "normal": "1879/1879",
+                    "value": "1879"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.03 Linear feet"
+                        },
+                        {
+                            "value": "in one folder."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "V1986.038"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid876001",
+                    "label": "Graphic materials",
+                    "type": "Box",
+                    "value": "Prints by Accession 58"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref3",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref7",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); \n                \u003cemph render=\"italic\"\u003ePanorama of New York, Brooklyn, and Vicinity\u003c/emph\u003e viewbook, V1986.038, Box number, Object ID number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref5",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Source and date of acquisition for this collection are unknown. The collection was formally accessioned in 1986."
+            }
+        },
+        "bioghist": {
+            "id": "ref2",
+            "head": "Historical note",
+            "p": {}
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The \n                \u003cemph render=\"italic\"\u003ePanorama of New York, Brooklyn, and Vicinity\u003c/emph\u003e viewbook was published by the Wittemann Brothers in 1879. The viewbook contains two black-and-white panoramic foldouts of views from the top of the Brooklyn Bridge towers--from the Brooklyn-side tower looking towards Manhattan and from the Manhattan-side tower looking towards Brooklyn. Buildings, businesses, streets, and parks are noted in the margins of the panoramas. The panoramas also document maritime activity on New York Harbor. The viewbook retains its original hardcover, though the foldouts have separated from the binding. Page size for each section of the foldout is 5 x 7."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Ships"
+                }
+            ]
+        },
+        "otherfindaid": {
+            "id": "ref6",
+            "head": "Other Finding Aids"
+        },
+        "dsc": {}
+    }
+}

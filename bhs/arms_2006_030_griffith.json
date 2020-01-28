@@ -1,0 +1,164 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_2006_030_griffith"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the William Patton Griffith papers\n                    \u003cnum\u003e2006.030\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Cynthia Tobar"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "April 2008"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-22T13:50-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Griffith, William Patton, 1843-1936"
+                    }
+                },
+                "unittitle": {
+                    "value": "William Patton Griffith papers"
+                },
+                "unitdate": {
+                    "normal": "1865/1932",
+                    "type": "inclusive",
+                    "value": "1865-1932"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.42 Linear feet"
+                        },
+                        {
+                            "value": "in one manuscript box."
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The William Patton Griffith papers consist primarily of correspondence, writings, photographs, speeches, and clippings relating to all aspects of Griffith's participation as Grand Marshall in the Grand Army of the Republic and the Society of Old Brooklynites, among other civic activities in Brooklyn, with most of the collection focusing between the 1890s and 1930s. There are also a few items representative of Griffith's personal life, such as poems, programs, certificates, and a swatch of flag bunting from the flag that flew over General Ulysses Grant's tomb in 1897."
+                },
+                "unitid": {
+                    "value": "2006.030"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1090003",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "2006.030 1 of 1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref7",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); William Patton Griffith papers, 2006.030, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref4",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Betty Shave, 2006."
+            }
+        },
+        "bioghist": {
+            "id": "ref6",
+            "head": "Biographical Note",
+            "p": {
+                "value": "At the age of 76, he studied chiropractic medicine and became a practicing chiropractor. Griffith participated in the New York State Chiropractic Society and the Long Island District Chiropractic Society. William Patton Griffith died at the age of 92 on February 17, 1936."
+            }
+        },
+        "scopecontent": {
+            "id": "ref10",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection is organized thematically into the following seven categories: Correspondence, Writings, Personal Papers, Professional Papers, Photographs, Clippings, and Artifact (swatch of flag bunting)."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Freemasonry |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Freemasons |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcgft",
+                    "value": "War memorials |z United States"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Society of Old Brooklynites (Brooklyn, New York, N.Y.)."
+            }
+        },
+        "otherfindaid": {
+            "id": "ref9",
+            "head": "Other Finding Aids note"
+        },
+        "dsc": {}
+    }
+}

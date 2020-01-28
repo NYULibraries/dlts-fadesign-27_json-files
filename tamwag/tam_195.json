@@ -1,0 +1,140 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_195"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Arthur Vogel Papers \u003cnum\u003eTAM.195\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff, 2010."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-01T14:55:45\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Arthur Vogel Papers"
+                },
+                "unitdate": {
+                    "value": "circa 1940s-ca. 1980s"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "6.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(11 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Arthur Vogel was a leftist playwright, and at one time probably a member of the Communist Party USA. The collection principally consists of typescripts of Vogel's unpublished plays. The collection also includes correspondence, other writings, and clippings."
+                },
+                "unitid": {
+                    "value": "TAM.195"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_52de267baa8ca68814a28479d1b4bd0c",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_413d19bb0000351e5e5c0e600383919e",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Arthur Vogel Papers; TAM 195; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_fa12e70d558a95383b0cbc914c088401",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials found in repository; provenance is unknown. The accession number associated with this collection is 1997.066."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_d5bbd984e5e8a38c58fbcfdd34ad8769",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Arthur Vogel was a leftist playwright, and at one time probably a member of the Communist Party USA."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_6cf3ccc17dea1465640c2477268ed6fe",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection principally consists of typescripts of Vogel's unpublished plays. The collection also includes correspondence, other writings, and clippings."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Communists |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Jewish communists -- New York (State) -- New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Dramatists, American."
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,196 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_2011_002_fribourg"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Eugenie Fribourg family photographs and ephemera\n                    \u003cnum\u003e2011.002\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Michael Satalof under the supervision of Julie I. May."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "August, 2012"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-11-07T12:36-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "famname": {
+                        "source": "local",
+                        "value": "Fribourg family"
+                    }
+                },
+                "unittitle": {
+                    "value": "Eugenie Fribourg family photographs and ephemera"
+                },
+                "unitdate": {
+                    "normal": "1857/2007",
+                    "type": "inclusive",
+                    "value": "1857-2007"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.5 linear feet"
+                        },
+                        {
+                            "value": "in one manuscript box, four odd-size or oversize boxes, and two phase boxes"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The Eugenie Fribourg family photographs and ephemera collection is comprised of materials relating to and documenting the family and professional life of Eugenie Merzbach Fribourg, a Jewish-American Brooklynite whose life spanned nearly the entire 20th century. Eugenie Fribourg became a doctor at a time when the medical profession was dominated by men, and she remained active in the field for more than 60 years. The collection provides a rich visual document of Jewish-American family life in the early-20th century, historical photographic materials in various formats, 1940s French wine and spirits, and a visual history of various neighborhoods in Brooklyn (New York, N.Y.)"
+                },
+                "unitid": {
+                    "value": "2011.002"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref2",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref8",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Eugenie Fribourg family photographs and ephemera, 2011.002, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref4",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials donated by David Tykulsker in 2011."
+            }
+        },
+        "bioghist": {
+            "id": "ref1",
+            "head": "Biographical note",
+            "p": {
+                "value": "Eugenie Fribourg lived nearly her entire life in Brooklyn, New York. She died at age 99 in 2007."
+            }
+        },
+        "scopecontent": {
+            "id": "ref21",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "See Series Scope and Contents notes for more detailed description."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Families |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Hospitals |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Jewish women physicians"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Jews |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Jews |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Landscape photography |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Landscape photography |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Photography |z France |z Paris."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Photography |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Photography |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Portrait photography"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Wine labels"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Women physicians |z New York (state) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Medical College of Virginia."
+            }
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref9\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 1: Photographs\u003c/unittitle\u003e\n                    \u003cunitdate\u003ecirca 1885-2007\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref10\" level=\"subseries\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSub-Series 1: Photographic prints\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid1191001\" type=\"Box\" label=\"Graphic materials\"\u003eOversize\u003c/container\u003e\n                        \u003ccontainer id=\"cid1188006\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003cphysdesc\u003e\n                            \u003cextent\u003e0.35 linear feet\u003c/extent\u003e\n                            \u003cextent\u003eApproximately 340 photographic prints in nine folders\u003c/extent\u003e\n                        \u003c/physdesc\u003e\n                        \u003cunitdate normal=\"1890/2007\" type=\"inclusive\"\u003ecirca 1890-2007\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003cscopecontent id=\"ref33\"\u003e\n                        \u003chead\u003eScope and Contents\u003c/head\u003e\n                        \u003cp\u003eThe \n                            \u003cemph render=\"bold\"\u003ePhotographic prints\u003c/emph\u003e sub-series contains approximately 340 photos spanning circa 1890-2007, the bulk of which were created between 1910 and 1940. There is a rather large gap in the collection between the 1950s and approximately the early 1990s. The sub-series includes 45 modern color photographs and six oversize prints. Standard size prints are arranged across nine folders, in approximate chronological order by decade.\u003c/p\u003e\n                        \u003cp\u003eSub-series highlights include photographs of Eugenie’s family on outings and vacations throughout her childhood, her Confirmation class, her graduation from medical school, Eugenie wearing a medical coat among her all-male colleagues, and Eugenie with her husband Phillip. Modern color prints include images of an award banquet for Eugenie’s 1996 receipt of the Walter Reed medal. Other highlights include photographs from the American West Coast and Southwest, San Francisco in the aftermath of the 1906 earthquake, Paris, and rural France.\u003c/p\u003e\n                    \u003c/scopecontent\u003e\n                    \u003carrangement id=\"ref40\"\u003e\n                        \u003chead\u003eArrangement\u003c/head\u003e\n                        \u003cp\u003eSub-series arranged chronologically by decade. Dates have been approximated when they are not noted on the prints. The first folder contains a positive print on opaque glass. The last folder of prints contains warped and damaged photographs, housed in sleeves. Sub-series contains loose prints and matted prints. Oversize prints are housed in a separate box.\u003c/p\u003e\n                    \u003c/arrangement\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref12\" level=\"subseries\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSub-Series 2: Cabinet photographs\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid1188001\" type=\"Box\" label=\"Graphic materials\"\u003eCabinet cards 2\u003c/container\u003e\n                        \u003cphysdesc\u003e\n                            \u003cextent\u003e0.15 linear feet\u003c/extent\u003e\n                            \u003cextent\u003eTwenty-four cabinet photographs\u003c/extent\u003e\n                        \u003c/physdesc\u003e\n                        \u003cunitdate normal=\"1880/1895\" type=\"inclusive\"\u003ecirca 1880-1895\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003cscopecontent id=\"ref32\"\u003e\n                        \u003chead\u003eScope and Contents\u003c/head\u003e\n                        \u003cp\u003e24 cabinet card photographs. Most are studio portraits of members of the Merzbach and Fribourg families. The portraits show Eugenie Fribourg’s parents, Hortense Merzbach and Gustave Fribourg, as well as their parents and siblings.\u003c/p\u003e\n                        \u003cp\u003eOne cabinet card shows Eugenie's maternal grandfather Louis Merzbach's watch-making and jewelry storefront on Catherine Street (New York, N.Y.). Other subjects include portraits of Louis and Hortense as teenagers and adults, Clementine Loeb Merzbach as a teenager and adult; Eugene Fribourg (Gustave’s father); and several unidentified persons.\u003c/p\u003e\n                        \u003cp\u003eThe following photographic studios are identified on the cards: Smith \u0026amp; Vaughn, 136 Bowery; Mauer, 252 Bowery; The Star Studio, 691 Grand St.; Kirchner Portraits, 2198 Third Ave.; Dana, 272 Broadway; Duryea Portraits, 201 Sixth Ave.; De Young’s, 815 Broadway; L.J. White, 105 Fourth Ave.; Smedley White, 105 Fourth Ave; R.A. Lewis, Photo-Artist, 160 Chatham Street; G.A. Flach, 1434 Third Ave.; N.Y. Photographing Co.; Corliss \u0026amp; Bancroft, No. 6 City Hall Place; Fredrich \u0026amp; Knickerbocker Family Portrait Gallery, 770 Broadway.\u003c/p\u003e\n                    \u003c/scopecontent\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref13\" level=\"subseries\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSub-Series 3: Cartes-de-visite\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid1188002\" type=\"Box\" label=\"Graphic materials\"\u003eCartes-de-visite 2\u003c/container\u003e\n                        \u003cphysdesc\u003e\n                            \u003cextent\u003e0.05 linear feet\u003c/extent\u003e\n                            \u003cextent\u003eTwo cartes-de-visite\u003c/extent\u003e\n                        \u003c/physdesc\u003e\n                        \u003cunitdate normal=\"1870/1875\" type=\"inclusive\"\u003ecirca 1870-1875\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003cscopecontent id=\"ref24\"\u003e\n                        \u003chead\u003eScope and Contents\u003c/head\u003e\n                        \u003cp\u003eTwo cartes-de-visite. One depicts Gustave Fribourg as a young boy and was photographed by Henry W. Biffar. The other depicts a woman and baby (possibly Gustave), and was photographed in Paris, as stamped on the verso.\u003c/p\u003e\n                    \u003c/scopecontent\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref14\" level=\"subseries\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSub-Series 4: Tintypes\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid1188003\" type=\"Box\" label=\"Graphic materials\"\u003eTintypes 1\u003c/container\u003e\n                        \u003cphysdesc\u003e\n                            \u003cextent\u003e0.05 linear feet\u003c/extent\u003e\n                            \u003cextent\u003eTwo tintypes\u003c/extent\u003e\n                        \u003c/physdesc\u003e\n                        \u003cunitdate normal=\"1875/1885\" type=\"inclusive\"\u003ecirca 1875-1885\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003cscopecontent id=\"ref27\"\u003e\n                        \u003chead\u003eScope and Contents\u003c/head\u003e\n                        \u003cp\u003eTwo tintypes. One depicts two men, and the other depicts a young girl. The tintype of the girl is badly rusted and the image is partially obscured. Both are studio portraits posed in a \"rustic\" setting.\u003c/p\u003e\n                    \u003c/scopecontent\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref15\" level=\"subseries\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSub-Series 5: Photographic postcards\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid1188007\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003cphysdesc\u003e\n                            \u003cextent\u003e0.1 linear feet\u003c/extent\u003e\n                            \u003cextent\u003eThree photographic postcards\u003c/extent\u003e\n                        \u003c/physdesc\u003e\n                        \u003cunitdate normal=\"1906/1938\" type=\"inclusive\"\u003e1906-1938\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003cscopecontent id=\"ref28\"\u003e\n                        \u003chead\u003eScope and Contents\u003c/head\u003e\n                        \u003cp\u003eThree photographic postcards, dated 1906, 1908, and 1938. They depict Albert Fribourg posing in costume in a studio, Hortense Merzbach with her children, and Ruth \"Jim\" Brindze.\u003c/p\u003e\n                    \u003c/scopecontent\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref16\" level=\"subseries\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSub-Series 6: Clipping\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid1188008\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003cphysdesc\u003e\n                            \u003cextent\u003e0.05 linear feet\u003c/extent\u003e\n                            \u003cextent\u003eOne newspaper clipping\u003c/extent\u003e\n                        \u003c/physdesc\u003e\n                        \u003cunitdate normal=\"1897/1897\"\u003ecirca 1897\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003cscopecontent id=\"ref30\"\u003e\n                        \u003chead\u003eScope and Contents\u003c/head\u003e\n                        \u003cp\u003eOne clipping, separated into pieces, showing an illustration with the caption, \"Mr. and Mrs. George Tekulsky / they celebrated their golden wedding yesterday\". Unidentified newspaper.\u003c/p\u003e\n                    \u003c/scopecontent\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref17\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 2: Correspondence\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1188004\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003e0.05 linear feet\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate normal=\"1928/2004\" type=\"inclusive\"\u003e1928-2004\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref35\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003eFour pieces of correspondence, including one 1928 secret admirer note, an invitation to Gustave and Hortense Fribourg's wedding, an invitation to Eugenie and Louis's joint 80th birthday party, and a 96th birthday letter to Eugenie from colleagues at Brooklyn Hospital.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref18\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 3: Prayer books\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1189002\" type=\"Volume\" label=\"Books\"\u003eTanakh\u003c/container\u003e\n                    \u003ccontainer id=\"cid1189001\" type=\"Volume\" label=\"Books\"\u003ePrayer Book\u003c/container\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003e0.2 linear feet\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate normal=\"1857/1923\" type=\"inclusive\"\u003e1857-1923\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref38\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003eTwo prayer books. One is a Tanakh, printed in Vienna in 1857. It is inside a bone case with a working clasp. The other is a Union Prayer Book, inscribed to Eugenie Fribourg for her Confirmation in 1923. An advertisement for Eugenie's great-grandfather Joseph Loeb's restaurant’s dinner specials is tucked inside the cover of the Tanakh. Books are housed in individual phase boxes.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref20\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 4: Wine and spirit bottle labels\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1188005\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003e0.1 linear feet\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate normal=\"1938/1952\" type=\"inclusive\"\u003ecirca 1938-1952\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref36\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003e70 wine and spirit bottle labels, including some duplicates. Spanning 1938-1952. Some labels undated. Mostly French and German wines and spirits.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref41\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 5: Artifacts\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1201001\" type=\"Box\" label=\"Mixed materials\"\u003eArtifacts\u003c/container\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003e0.2 linear feet\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate normal=\"1895/1995\" type=\"inclusive\"\u003ecirca 1895-1995\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref42\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003eThis series contains ornamental pins and buttons, and a hospital identification card. The pins include an 1895 coin inscribed \"From Grand Pa to Hortense\", a Montauk Junior High pin, a Jewish Hospital resident pin, a Brooklyn Hospital 15 year commemorative pin, a bracelent with Phillip M. Tykulsker's name inscribed, and a pin containing a photograph of Eugenie's brother Albert as a child.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

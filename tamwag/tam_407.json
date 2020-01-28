@@ -1,0 +1,152 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_407"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "American Association of University Professors Committee on Academic Freedom Records \u003cnum\u003eTAM 407\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-29T19:43:20\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "American Association of University Professors Committee on Academic Freedom Records"
+                },
+                "unitdate": {
+                    "normal": "1950/1979",
+                    "type": "bulk",
+                    "value": "1950-1979"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "1 box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The AAUP's purpose is to advance academic freedom and shared governance, to define fundamental professional values and standards for higher education, and to ensure higher education's contribution to the common good.  The collection consists of a portion of the records of the American Association of University Professors Academic Freedom Committee, and consists of files titled by years, topics, individuals, and universities, all relating academic freedom. "
+                },
+                "unitid": {
+                    "value": "TAM 407"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_c5f72b2dae75bbfdeca7ee3789b4464c",
+                    "label": "Mixed Materials [31142063293842]",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_9a756e91fab4f1f26f2fcf3e566112c2",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_71b6d7c7b0708e787322b04b3e9acec8",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Provenance unknown; most likely donated by Marilyn B. Young. The accession number associated with this collection is 1950.011."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_9e1a334d4288f9c649981e4fee57903a",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "The American Association of University Professors was founded in 1915 by John Dewey and others. The AAUP's purpose is to advance academic freedom and shared governance, to define fundamental professional values and standards for higher education, and to ensure higher education's contribution to the common good."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_bc9a10988d2c0001647393fe12a42eb9",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The collection consists of a portion of the records of the American Association of University Professors Academic Freedom Committee, and consists of files titled by years, topics, individuals, and universities, all relating academic freedom. The files contain newspaper and periodical clippings and other printed emphemera, reports, circulars, some correspondence, and pamphlets, most produced by other organizations. The bulk of the material covers the 1950s-1970s."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "College teachers -- Political activity -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "College teachers |z United States |x Societies, etc."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Vietnam War, 1961-1975 |x Protest movements |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Anti-communist movements -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Academic freedom |z United States."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "American Association of University Professors. Committee on Academic Freedom"
+            }
+        },
+        "dsc": {}
+    }
+}

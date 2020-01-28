@@ -1,0 +1,150 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "timeincrg32"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Time Inc. Time Covers\u003clb/\u003e1923-2015\u003clb/\u003e \u003cnum\u003eMS 3009-RG 32\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Finding aid prepared by Holly Deakyne and Melanie Rinehart"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-11-27T14:56:55\u003c/date\u003e"
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Time Inc. \u003ctitle render=\"italic\"\u003eTime\u003c/title\u003e Covers"
+                },
+                "unitdate": {
+                    "normal": "1923/2015",
+                    "type": "inclusive",
+                    "value": "1923-2015"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "12 Linear feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 12 record cartons"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Time Inc. \u003ctitle render=\"italic\"\u003eTime\u003c/title\u003e Covers contains a chronological run of detached covers."
+                },
+                "unitid": {
+                    "value": "MS 3009-RG 32"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_eb35348b7aafc1bba1dbc07ba1600fa6",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open to qualified researchers. Materials are stored offsite and advance notice is required for use."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_b1143225ad2dcd8d261aad0ef4ab65f1",
+            "head": "Preferred Citation Note",
+            "p": {
+                "value": "This record group should be cited as Time Inc. \u003ctitle render=\"italic\"\u003eTime\u003c/title\u003e Covers, MS 3009-RG 32, New-York Historical Society."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_f557a187257f64f53fd3bb50696d3fea",
+            "head": "Scope and Contents Note",
+            "p": {
+                "value": "\u003ctitle render=\"italic\"\u003eTime\u003c/title\u003e Covers contains a collection of covers removed from the rest of the magazine dating from 1923 through July 2015. Later dates sometimes include the entire magazine. This is a collection created by the Time Inc. Library and Archives."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Corporations -- New York (State)  -- New York. "
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Corporations -- History"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Corporate libraries -- New York (State)  -- New York. "
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Publishers and publishing -- New York (State)  -- New York. "
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Library resources"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Time, inc. -- History"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref16_dy3\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eTime\u003c/title\u003e Covers\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"217674\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e217674\u003c/unitid\u003e\u003cunitdate normal=\"1923/1929\" type=\"inclusive\"\u003e1923-1929\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c2e2066ce633ab2e455bd13432fa4b00\" label=\"Mixed Materials\" type=\"Offsite-Box\"\u003e667\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17_5ft\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eTime\u003c/title\u003e Covers\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"217673\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e217673\u003c/unitid\u003e\u003cunitdate normal=\"1929/1942\" type=\"inclusive\"\u003e1929-1942\u003c/unitdate\u003e\u003ccontainer id=\"aspace_13963122ffdeae00d0ec8b862f0bbb2c\" label=\"Mixed Materials\" type=\"Offsite-Box\"\u003e668\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18_ujn\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eTime\u003c/title\u003e Covers\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"217672\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e217672\u003c/unitid\u003e\u003cunitdate normal=\"1943/1958\" type=\"inclusive\"\u003e1943-1958\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9255a0efaf71d192df1213785151df72\" label=\"Mixed Materials\" type=\"Offsite-Box\"\u003e669\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19_472\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eTime\u003c/title\u003e Covers\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"217671\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e217671\u003c/unitid\u003e\u003cunitdate normal=\"1959/1974\" type=\"inclusive\"\u003e1959-1974\u003c/unitdate\u003e\u003ccontainer id=\"aspace_cdc4c5cb433491962092441416a84820\" label=\"Mixed Materials\" type=\"Offsite-Box\"\u003e670\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20_xrj\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eTime\u003c/title\u003e Covers\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"217670\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e217670\u003c/unitid\u003e\u003cunitdate normal=\"1975/1986\" type=\"inclusive\"\u003e1975-1986\u003c/unitdate\u003e\u003ccontainer id=\"aspace_58bd8d743cc84b7bb5b86092f818e93d\" label=\"Mixed Materials\" type=\"Offsite-Box\"\u003e671\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21_l7r\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eTime\u003c/title\u003e Covers\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"217669\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e217669\u003c/unitid\u003e\u003cunitdate normal=\"1987/2000\" type=\"inclusive\"\u003e1987-2000\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5a3f849d386e66dc4c1b2aa2fcc87298\" label=\"Mixed Materials\" type=\"Offsite-Box\"\u003e672\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22_yru\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eTime\u003c/title\u003e Covers\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"217668\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e217668\u003c/unitid\u003e\u003cunitdate normal=\"2001/2007\" type=\"inclusive\"\u003e2001-2007\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5b137510b40e2b5ee053528bb5aa1fc8\" label=\"Mixed Materials\" type=\"Offsite-Box\"\u003e673\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23_7ww\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eTime\u003c/title\u003e Covers\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"217667\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e217667\u003c/unitid\u003e\u003cunitdate normal=\"2007/2009\" type=\"inclusive\"\u003e2007-2009\u003c/unitdate\u003e\u003cphysdesc id=\"aspace_0787e046e31bac791aea190762a222e9\"\u003e\u003cextent\u003e(8 boxes)\u003c/extent\u003e\u003c/physdesc\u003e\u003ccontainer id=\"aspace_b238f0d8be420c643e3a040efea89cea\" label=\"Mixed Materials\" type=\"Offsite-Box\"\u003e674\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref29_rzf\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eTime\u003c/title\u003e Covers\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"226546\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e226546\u003c/unitid\u003e\u003cunitdate normal=\"2009/2011\" type=\"inclusive\"\u003e2009-2011\u003c/unitdate\u003e\u003ccontainer id=\"aspace_711764f640e1a4a18a05e655230d7e32\" label=\"Mixed Materials [10170000016635]\" type=\"Offsite-Box\"\u003e2001\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref30_rx7\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eTime\u003c/title\u003e Covers\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"226547\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e226547\u003c/unitid\u003e\u003cunitdate normal=\"2011/2013\" type=\"inclusive\"\u003e2011-2013\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f55dc58846639517c36989f88d8f86a3\" label=\"Mixed Materials [10170000011628]\" type=\"Offsite-Box\"\u003e2002\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref31_9kp\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eTime\u003c/title\u003e Covers\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"226548\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e226548\u003c/unitid\u003e\u003cunitdate normal=\"2013/2014\" type=\"inclusive\"\u003e2013-2014\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1a521650a8a16dea021e89fa89a79def\" label=\"Mixed Materials [10170000011629]\" type=\"Offsite-Box\"\u003e2003\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref32_m37\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eTime\u003c/title\u003e Covers\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"226549\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e226549\u003c/unitid\u003e\u003cunitdate normal=\"2014/2015\" type=\"inclusive\"\u003e2014-2015\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5bb530098a394728334ad55de54e6e50\" label=\"Mixed Materials [10170000016636]\" type=\"Offsite-Box\"\u003e2004\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

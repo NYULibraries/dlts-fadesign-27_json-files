@@ -1,0 +1,153 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "mindil"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Clinton Mindil Collection on NYU Alumni in World War I \u003cnum\u003eMC 68\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Claire Wolford"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-12-04T21:41:41\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Mindil, Clinton"
+                    }
+                },
+                "unittitle": {
+                    "value": "Clinton Mindil Collection on NYU Alumni in World War I"
+                },
+                "unitdate": {
+                    "normal": "1923/1936",
+                    "type": "inclusive",
+                    "value": "1923-1936"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one manuscript box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Clinton Mindil was commissioned with the task of compiling a list of those from New York University who had fought in World War I. Materials in this collection outline through correspondence the process of putting together such a War Record. The collection also includes an edited typescript of the compilation and photocopies of the correspondence and typescript."
+                },
+                "unitid": {
+                    "value": "MC 68"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_e811bdb8cad7991fa211300fe4509fe6",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_ace7849bbbc7f33410a5d27443cf441e",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Clinton Mindil Collection on NYU Alumni in World War I ; MC 68; box number; folder number; New York University Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_1fe91dbfec5911fe70f0933584e6ded0",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Provenance is unknown."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_7e15099f9714fdb133b9ea9ce9410159",
+            "head": "Historical Note",
+            "p": {
+                "value": "The War Record was intended for publication by the New York University Press but was never published. "
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_c55a07bcad698c412cc0fdf9c27f3ad4",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection is comprised of correspondence dating from 1917 to 1936 concerning the creation and status of the \u003cemph render=\"italic\"\u003eRecords of Alumni and Students who Served in the World War\u003c/emph\u003e and the edited typescript of the volume created in the 1920s. This volume lists all the NYU students, faculty, and alumni who served in World War I. Photocopies of the correspondence and typescript are also included."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "World War, 1914-1918."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Universities and Colleges -- Alumni and alumnae."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "NYU Press"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref1\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAccess Copy: Correspondence Concerning Creation of the Records of Alumni and Students Who Served in WWI\u003c/unittitle\u003e\u003cunitdate normal=\"1918/1938\" type=\"inclusive\"\u003e1918-1938\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_fbf271fa13d8874980ece6c6865edb0b\" label=\"Mixed Materials [31142062745487]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_fbf271fa13d8874980ece6c6865edb0b\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref3\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAccess Copy: Manuscript of NYU War Record - Casualties, Council, Faculty, and Students\u003c/unittitle\u003e\u003cunitdate normal=\"1923/1923\"\u003e1923\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_2daf77cb733c3549b0e57f02dd9a11b2\" label=\"Mixed Materials [31142062745487]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2daf77cb733c3549b0e57f02dd9a11b2\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref4\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAccess Copy: Manuscript of NYU War Record - Students\u003c/unittitle\u003e\u003cunitdate normal=\"1923/1923\"\u003e1923\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_3affc7b525ff63f0293efddcdc78519a\" label=\"Mixed Materials [31142062745487]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_3affc7b525ff63f0293efddcdc78519a\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_530feefdc2e8cb33229a088889661f91\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence Concerning Creation of the Records of Alumni and Students Who Served in WWI\u003c/unittitle\u003e\u003cunitdate normal=\"1918/1938\" type=\"inclusive\"\u003e1918-1938\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_43bad4424857493cb77b9220117ce4d2\" label=\"Mixed Materials [31142062745487]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_43bad4424857493cb77b9220117ce4d2\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ce1661a54979ddad1fa09b03905c8252\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eManuscript of NYU War Record - Casualties, Council, Faculty, and Students\u003c/unittitle\u003e\u003cunitdate normal=\"1923/1923\"\u003e1923\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_ea76b83c543d2724fda09dc4644a716a\" label=\"Mixed Materials [31142062745487]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ea76b83c543d2724fda09dc4644a716a\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_fa477461c0d8feea8f5e4e15f69c3546\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eManuscript of NYU War Record - Students\u003c/unittitle\u003e\u003cunitdate normal=\"1923/1923\"\u003e1923\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_afe0e62cec837ea1b304486633864bd4\" label=\"Mixed Materials [31142062745487]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_afe0e62cec837ea1b304486633864bd4\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

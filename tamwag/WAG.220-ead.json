@@ -1,0 +1,117 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "wag_220"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Brief Description of the Norma Aronson Papers\n                    \u003cnum\u003eWAG.220\u003c/num\u003e\n                "
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T22:26-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Norma Aronson Papers"
+                },
+                "unitdate": {
+                    "normal": "1942/1984",
+                    "type": "inclusive",
+                    "value": "1942-1984"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.75 linear feet"
+                        },
+                        {
+                            "value": "(3 boxes)"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "WAG.220"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid19826010",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "bioghist": {
+            "id": "ref4",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Norma Aronson served as president of United Office and Professional Workers of America (UOPWA), Local 16 (Greater New York Branch). Established in 1929, UOPWA organized white-collar workers and was particularly active during the World War II era, but was eventually merged with two other unions in 1950 to form the Distributive, Processing, and Office Workers of America. Aronson continued her union leadership as president of Local 14 of the DPOWA (part of District 65, New York and New Jersey)."
+            }
+        },
+        "scopecontent": {
+            "id": "ref3",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "This small collection is comprised mainly of various labor newspapers, materials related to a bill to provide home leave to assist federal prisoners in their rehabilitation (H. R. 4493), and various UOPWA and DPOWA bulletins, publications, organizing materials, and executive board reports from the 1940s and 1950s. The records from the FBI investigation of Aaron David Schneider, Norma Aronson's dissertation \"Skill Changes: Their Effect on Lithographers and Union,\" and a scrapbook of newspaper clippings related to the Columbia Broadcasting System employees' wage increase campaign in the mid-1940s also make up a large portion of the collection. In addition, the collection contains DPOWA District 65 membership books and Norma Aronson's nametag as a delegate to a special convention of the UOPWA in 1950."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Labor unions |x White collar workers |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor unions |z New Jersey."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "United Office and Professional Workers of America."
+            }
+        },
+        "dsc": {}
+    }
+}

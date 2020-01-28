@@ -1,0 +1,162 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "smith"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "James Reuel Smith Springs and Wells Photograph Collection \u003clb/\u003e\u003cdate\u003e1897-1901 \u003c/date\u003e\u003clb/\u003e \u003cnum\u003ePR 62\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Miranda Schwartz"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-09-05T14:50:52\u003c/date\u003e"
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "James Reuel Smith Springs and Wells Photograph Collection"
+                },
+                "unitdate": {
+                    "normal": "0/0",
+                    "type": "inclusive",
+                    "value": "1897-1901"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "5.84 Linear feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(10 archival boxes, 7 boxes of negatives)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The James Reuel Smith Springs and Wells Photograph Collection comprises 17 boxes (seven of glass and acetate negatives) of visual and written material pertaining to Smith's book \u003ctitle render=\"italic\"\u003eSprings and Wells of Manhattan and the Bronx, New York City, at the End of the Nineteenth Century,\u003c/title\u003e published by the New-York Historical Society in 1938.\n\u003clb/\u003e\u003clb/\u003e \nThe photographs are digitized and available in the \u003cemph render=\"bold\"\u003e\u003cextref actuate=\"onRequest\" href=\"http://digitalcollections.nyhistory.org/islandora/object/nyhs%3Ajrsmith\"\u003eShelby White and Leon Levy Digital Library\u003c/extref\u003e.\u003c/emph\u003e"
+                },
+                "unitid": {
+                    "value": "PR 62"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_971c2048e5443b49a4222c501378b203",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Photocopying undertaken by staff only. Limited to twenty exposures of stable, unbound material per day. See guidelines in Print Room for details."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_b327dfb06e8c116713e801725680b311",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "This collection should be cited as: James Reuel Smith Springs and Wells Photograph Collection, PR 062, Department of Prints, Photographs, and Architectural Collections, The New-York Historical Society."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_62d77117d3c87e2a337d2595138674c2",
+            "head": "Historical Note",
+            "p": {
+                "value": "Smith's interest was also local: He spent much of the years 1897 to 1901 bicycling around northern Manhattan and the Bronx looking for and photographing springs and wells. Smith's enthusiasm for springs and wells was well-matched with his photographic eye and his meticulous note-taking on the locations and conditions of the springs and wells he saw. James Reuel Smith died in 1935. In his will he left a bequest to the New-York Historical Society to publish his manuscript notes and photographs of springs and wells of northern Manhattan and the Bronx, which the Society did in 1938. In the introduction to \u003ctitle render=\"italic\"\u003eSprings and Wells of Manhattan and the Bronx, New York City, at the End of the Nineteenth Century,\u003c/title\u003e the volume the New-York Historical Society published, he writes: \"A city spring frequently possesses all the beautiful surroundings of a rural one, and besides exciting that pathetic interest aroused by something pleasureable which will shortly cease to exist, it is, for the meditative, a link which connects the thoughts with the past.\" "
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_91407a6bba19b55508bf0705b569f0c3",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The James Reuel Smith Springs and Wells Photograph Collection spans the period from 1897 to 1901 and primarily contains photographs relating to springs and wells in Northern Manhattan and the Bronx. The collection is composed of about 350 prints, organized into 10 boxes. In addition, 260 glass negatives (247 4x5s; 13 5x7s) and 38 acetate negatives are housed in 7 boxes. Though Smith did take photographs of pumps and cisterns, the natural springs he found during his travels seemed to pique his interest the most, and these views are what make up most of the collection."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Children"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Hand pumps"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Urban parks"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Gardens"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Streets -- New York (State) -- New York. "
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Water, Underground -- New York (N.Y.) "
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Springs -- New York (N.Y.) "
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Wells -- New York (N.Y.) Springs"
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref12_ilc\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: Manhattan (1897-1901)\u003c/unittitle\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_73e274cfef4c23f41612d00677e21756\"\u003e\u003chead\u003eScope and Contents note\u003c/head\u003e\u003cp\u003e13 folders of photographs arranged geographically by folder. Below 14th Street; Central Park; 61st Street to 110th Street; from 110th Street and above, the photographs are arranged in nine- or 19-block sections (170th to 179th Street, for example)\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_ref13_ea5\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eBelow 14th Street\u003c/unittitle\u003e\u003cunitdate\u003e1897-1901\u003c/unitdate\u003e\u003ccontainer id=\"aspace_db47343ae66a666876155c0a76957de3\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_db47343ae66a666876155c0a76957de3\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14_qrf\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCentral Park\u003c/unittitle\u003e\u003cunitdate\u003e1897-1901\u003c/unitdate\u003e\u003ccontainer id=\"aspace_300e42ab834319852ded2a296268af75\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_300e42ab834319852ded2a296268af75\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15_ywq\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e61st Street to 110th Street\u003c/unittitle\u003e\u003cunitdate\u003e1897-1901\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5a2bc470a3355794883aeb8ffc6a5b13\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5a2bc470a3355794883aeb8ffc6a5b13\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16_bas\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e110th Street to 119th Street\u003c/unittitle\u003e\u003cunitdate\u003e1897-1901\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1e34270816ab7902d1a5e4c387d20003\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1e34270816ab7902d1a5e4c387d20003\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17_ecm\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e120th Street to 129th Street\u003c/unittitle\u003e\u003cunitdate\u003e1897-1901\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2d7b2f2b910eb1f6226a65fdd29be46d\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_2d7b2f2b910eb1f6226a65fdd29be46d\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18_wtm\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e130th Street to 139th Street\u003c/unittitle\u003e\u003cunitdate\u003e1897-1901\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4f3dc16853177826ab7e9841fc8569e5\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_4f3dc16853177826ab7e9841fc8569e5\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19_y92\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e140th Street to 159th Street\u003c/unittitle\u003e\u003cunitdate\u003e1897-1901\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c5d22707cd67aab43d3a57a2348868e5\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_c5d22707cd67aab43d3a57a2348868e5\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20_pj5\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e160th Street to 169th Street\u003c/unittitle\u003e\u003cunitdate\u003e1897-1901\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b2a70adebb1ed029b7dd9030d4d5b559\" label=\"Mixed Materials\" type=\"Box\"\u003e3\u003c/container\u003e\u003ccontainer parent=\"aspace_b2a70adebb1ed029b7dd9030d4d5b559\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21_xvu\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e170th Street to 179th Street\u003c/unittitle\u003e\u003cunitdate\u003e1897-1901\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e187c34281a53710992d46ac8c2fc552\" label=\"Mixed Materials\" type=\"Box\"\u003e3\u003c/container\u003e\u003ccontainer parent=\"aspace_e187c34281a53710992d46ac8c2fc552\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22_wuf\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e180th Street to 189th Street\u003c/unittitle\u003e\u003cunitdate\u003e1897-1901\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c6d4a4bdcd52b938ff94215daa5471d1\" label=\"Mixed Materials\" type=\"Box\"\u003e4\u003c/container\u003e\u003ccontainer parent=\"aspace_c6d4a4bdcd52b938ff94215daa5471d1\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23_0fq\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e190th Street to 199th Street\u003c/unittitle\u003e\u003cunitdate\u003e1897-1901\u003c/unitdate\u003e\u003ccontainer id=\"aspace_09ac943ea43dff71a09a437ca3c24a80\" label=\"Mixed Materials\" type=\"Box\"\u003e4\u003c/container\u003e\u003ccontainer parent=\"aspace_09ac943ea43dff71a09a437ca3c24a80\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24_1gu\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eNorth of Nagle Avenue; Isham Park; Inwood Hill (1)\u003c/unittitle\u003e\u003cunitdate\u003e1897-1901\u003c/unitdate\u003e\u003ccontainer id=\"aspace_cff5ca3992fc7ea3686371238d19e8bd\" label=\"Mixed Materials\" type=\"Box\"\u003e5\u003c/container\u003e\u003ccontainer parent=\"aspace_cff5ca3992fc7ea3686371238d19e8bd\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25_o4u\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eNorth of Nagle Avenue; Isham Park; Inwood Hill (2)\u003c/unittitle\u003e\u003cunitdate\u003e1897-1901\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4db9483a68805b8159f02c4ab4c13b9c\" label=\"Mixed Materials\" type=\"Box\"\u003e5\u003c/container\u003e\u003ccontainer parent=\"aspace_4db9483a68805b8159f02c4ab4c13b9c\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27_x87\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries II: The Bronx and West Bronx\u003c/unittitle\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_4ef40f7f5a95b897b8cfef4615f128bd\"\u003e\u003chead\u003eScope and Contents note\u003c/head\u003e\u003cp\u003eThis series includes seven folders of photographs of the Bronx, including Van Cortlandt Park and Bronx Park. The West Bronx is covered extensively, filling three folders.\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_ref28_ka5\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eBronx Park and Vicinity\u003c/unittitle\u003e\u003cunitdate\u003e1897-1901\u003c/unitdate\u003e\u003ccontainer id=\"aspace_66f1a5547599506e83ef2eae13e2962c\" label=\"Mixed Materials\" type=\"Box\"\u003e6\u003c/container\u003e\u003ccontainer parent=\"aspace_66f1a5547599506e83ef2eae13e2962c\" type=\"Folder\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref29_86l\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eSouthern Bronx and Morrisania\u003c/unittitle\u003e\u003cunitdate\u003e1897-1901\u003c/unitdate\u003e\u003ccontainer id=\"aspace_00278d1ddd6879072e9e7cfffe38332f\" label=\"Mixed Materials\" type=\"Box\"\u003e6\u003c/container\u003e\u003ccontainer parent=\"aspace_00278d1ddd6879072e9e7cfffe38332f\" type=\"Folder\"\u003e15\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref30_f80\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eSpuyten Duyvil\u003c/unittitle\u003e\u003cunitdate\u003e1897-1901\u003c/unitdate\u003e\u003ccontainer id=\"aspace_78e978a1012afba474f41848cff3045d\" label=\"Mixed Materials\" type=\"Box\"\u003e6\u003c/container\u003e\u003ccontainer parent=\"aspace_78e978a1012afba474f41848cff3045d\" type=\"Folder\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref31_spk\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eVan Cortlandt Park and Vicinity\u003c/unittitle\u003e\u003cunitdate\u003e1897-1901\u003c/unitdate\u003e\u003ccontainer id=\"aspace_188112369f64a9a5894ca87683bebeb3\" label=\"Mixed Materials\" type=\"Box\"\u003e6\u003c/container\u003e\u003ccontainer parent=\"aspace_188112369f64a9a5894ca87683bebeb3\" type=\"Folder\"\u003e17\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref32_ta6\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e161st Street to Kingsbridge Road (1)\u003c/unittitle\u003e\u003cunitdate\u003e1897-1901\u003c/unitdate\u003e\u003ccontainer id=\"aspace_09618c7ae8df2fdcdeb361d073a339f2\" label=\"Mixed Materials\" type=\"Box\"\u003e7\u003c/container\u003e\u003ccontainer parent=\"aspace_09618c7ae8df2fdcdeb361d073a339f2\" type=\"Folder\"\u003e18\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref33_gh0\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e161st Street to Kingsbridge Road (2)\u003c/unittitle\u003e\u003cunitdate\u003e1897-1901\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a51f33143bfddd9a64e7b9e76bf0bd35\" label=\"Mixed Materials\" type=\"Box\"\u003e7\u003c/container\u003e\u003ccontainer parent=\"aspace_a51f33143bfddd9a64e7b9e76bf0bd35\" type=\"Folder\"\u003e19\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref34_9e3\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e161st Street to Kingsbridge Road (3)\u003c/unittitle\u003e\u003cunitdate\u003e1897-1901\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b2d513a271d879345587ccaffb4b1576\" label=\"Mixed Materials\" type=\"Box\"\u003e7\u003c/container\u003e\u003ccontainer parent=\"aspace_b2d513a271d879345587ccaffb4b1576\" type=\"Folder\"\u003e20\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref36_o7a\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries III: Brooklyn\u003c/unittitle\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_4897ba55197279d7426570df64c10c39\"\u003e\u003chead\u003eScope and Contents note\u003c/head\u003e\u003cp\u003e1 folder of photographs of Brooklyn\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_ref37_zmn\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eBrooklyn\u003c/unittitle\u003e\u003cunitdate\u003e1897-1901\u003c/unitdate\u003e\u003ccontainer id=\"aspace_58ea1e692f104ee13a617a6e06de045a\" label=\"Mixed Materials\" type=\"Box\"\u003e7\u003c/container\u003e\u003ccontainer parent=\"aspace_58ea1e692f104ee13a617a6e06de045a\" type=\"Folder\"\u003e21\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref39_inw\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries IV: Springs and Wells Manuscript Material\u003c/unittitle\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_1dfc72d6aa3dad840eee5429354bdce0\"\u003e\u003chead\u003eScope and Contents note\u003c/head\u003e\u003cp\u003eSprings and Wells Manuscript Material is a series containing both written material and copies of prints for \"Springs and Wells of Manhattan and the Bronx, New York City, at the End of the Nineteenth Century,\" the volume of Smith's photographs that the Society published in 1938. This series is divided into two subseries.\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_ref40_8dd\" level=\"subseries\"\u003e\u003cdid\u003e\u003cunittitle\u003eSubseries I: Written Material and Notes\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref41_975\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eSprings and Wells-Analysis of Photograph Subjects by James Reuel Smith\u003c/unittitle\u003e\u003cunitdate\u003e1897-1901\u003c/unitdate\u003e\u003ccontainer id=\"aspace_366948858fea5a5817d7b52ea1b29dab\" label=\"Mixed Materials\" type=\"Box\"\u003e8\u003c/container\u003e\u003ccontainer parent=\"aspace_366948858fea5a5817d7b52ea1b29dab\" type=\"Folder\"\u003e22\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref42_m25\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eManuscripts: \"Wells, Pumps, Cisterns\"; \"Springs, for revision\"\u003c/unittitle\u003e\u003cunitdate\u003e1897-1901\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d0f3d3d1e177082727775c923eaa91a2\" label=\"Mixed Materials\" type=\"Box\"\u003e8\u003c/container\u003e\u003ccontainer parent=\"aspace_d0f3d3d1e177082727775c923eaa91a2\" type=\"Folder\"\u003e23\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref43_16p\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eHandwritten Notes\u003c/unittitle\u003e\u003cunitdate\u003e1897-1901\u003c/unitdate\u003e\u003ccontainer id=\"aspace_79a3621389397cd8b3364f4c80f520a5\" label=\"Mixed Materials\" type=\"Box\"\u003e8\u003c/container\u003e\u003ccontainer parent=\"aspace_79a3621389397cd8b3364f4c80f520a5\" type=\"Folder\"\u003e24\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref44_91n\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eHandwritten Draft\u003c/unittitle\u003e\u003cunitdate\u003e1897-1901\u003c/unitdate\u003e\u003ccontainer id=\"aspace_3655ff027ab4d80fe998f020d8d9e2e6\" label=\"Mixed Materials\" type=\"Box\"\u003e8\u003c/container\u003e\u003ccontainer parent=\"aspace_3655ff027ab4d80fe998f020d8d9e2e6\" type=\"Folder\"\u003e25\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref45_ovd\" level=\"subseries\"\u003e\u003cdid\u003e\u003cunittitle\u003eSubseries II: Visual Material\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref46_k38\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eUnidentified Photographs\u003c/unittitle\u003e\u003cunitdate\u003eunknown\u003c/unitdate\u003e\u003ccontainer id=\"aspace_499f37a3ce94dfcbe8eca2c1f1d3d5c2\" label=\"Mixed Materials\" type=\"Box\"\u003e8\u003c/container\u003e\u003ccontainer parent=\"aspace_499f37a3ce94dfcbe8eca2c1f1d3d5c2\" type=\"Folder\"\u003e26\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref47_tr9\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eSmall Mounted Prints\u003c/unittitle\u003e\u003cunitdate\u003e1897-1901\u003c/unitdate\u003e\u003ccontainer id=\"aspace_836d9ff2fbc7c25e6ffc10a4164cd29b\" label=\"Mixed Materials\" type=\"Box\"\u003e9\u003c/container\u003e\u003ccontainer parent=\"aspace_836d9ff2fbc7c25e6ffc10a4164cd29b\" type=\"Folder\"\u003e27\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref48_640\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003ePrints\u003c/unittitle\u003e\u003cunitdate\u003e1897-1901\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ce938fffb90208ba020dd4d9bed656ea\" label=\"Mixed Materials\" type=\"Box\"\u003e9\u003c/container\u003e\u003ccontainer parent=\"aspace_ce938fffb90208ba020dd4d9bed656ea\" type=\"Folder\"\u003e28\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref49_t5f\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003ePhotographs of James Reuel Smith\u003c/unittitle\u003e\u003cunitdate\u003eunknown\u003c/unitdate\u003e\u003ccontainer id=\"aspace_bfa0ac6b1e0aec314c0411246a07fbbc\" label=\"Mixed Materials\" type=\"Box\"\u003e10\u003c/container\u003e\u003ccontainer parent=\"aspace_bfa0ac6b1e0aec314c0411246a07fbbc\" type=\"Folder\"\u003e29\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref50_650\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eMiscelleanous, Unrelated Photographs\u003c/unittitle\u003e\u003cunitdate\u003eunknown\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1123be852a56aa6b68efd13f1a433b0f\" label=\"Mixed Materials\" type=\"Box\"\u003e10\u003c/container\u003e\u003ccontainer parent=\"aspace_1123be852a56aa6b68efd13f1a433b0f\" type=\"Folder\"\u003e30\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref52_iww\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries V: Glass Negatives\u003c/unittitle\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_7c5fcd65a8c944ab56a46014cbe8c8ea\"\u003e\u003chead\u003eScope and Contents note\u003c/head\u003e\u003cp\u003eEach negative is coded with Smith's unique identifying codes from the \"Analysis of Photograph Subjects (Vicinages of SPRINGS \u0026amp; WELLS, Dates of Negatives Nos., \u0026amp;c, \u0026amp;c and List 'D' of SPRINGS \u0026amp; WELLS\"). The ranges of numbers are not inclusive. See Series IV, Subseries 1\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_ref53_heo\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eG 1-83\u003c/unittitle\u003e\u003cunitdate\u003e1897-1901\u003c/unitdate\u003e\u003ccontainer id=\"aspace_fe39a3c06ee18d8ed53ceff321df5dc1\" label=\"Mixed Materials\" type=\"Box\"\u003e11\u003c/container\u003e\u003ccontainer parent=\"aspace_fe39a3c06ee18d8ed53ceff321df5dc1\" type=\"Folder\"\u003eunknown container\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref54_5zp\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eH 1-42\u003c/unittitle\u003e\u003cunitdate\u003e1897-1901\u003c/unitdate\u003e\u003ccontainer id=\"aspace_fe356654fa62754e0fba7affb2c53d80\" label=\"Mixed Materials\" type=\"Box\"\u003e12\u003c/container\u003e\u003ccontainer parent=\"aspace_fe356654fa62754e0fba7affb2c53d80\" type=\"Folder\"\u003eunknown container\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref55_z0i\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eH 43-100; J 1-5\u003c/unittitle\u003e\u003cunitdate\u003e1897-1901\u003c/unitdate\u003e\u003ccontainer id=\"aspace_83e7fd57d940b33e8bf7522e44aa177e\" label=\"Mixed Materials\" type=\"Box\"\u003e13\u003c/container\u003e\u003ccontainer parent=\"aspace_83e7fd57d940b33e8bf7522e44aa177e\" type=\"Folder\"\u003eunknown container\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref56_78p\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eJ 8-91\u003c/unittitle\u003e\u003cunitdate\u003e1897-1901\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b995fd0481f71d6458663319e78782ae\" label=\"Mixed Materials\" type=\"Box\"\u003e14\u003c/container\u003e\u003ccontainer parent=\"aspace_b995fd0481f71d6458663319e78782ae\" type=\"Folder\"\u003eunknown container\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref57_m6o\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eJ 92-99; K 11-56\u003c/unittitle\u003e\u003cunitdate\u003e1897-1901\u003c/unitdate\u003e\u003ccontainer id=\"aspace_30340a203e8233a8c4a8272a75de9a4f\" label=\"Mixed Materials\" type=\"Box\"\u003e15\u003c/container\u003e\u003ccontainer parent=\"aspace_30340a203e8233a8c4a8272a75de9a4f\" type=\"Folder\"\u003eunknown container\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref58_45i\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eK 57-100\u003c/unittitle\u003e\u003cunitdate\u003e1897-1901\u003c/unitdate\u003e\u003ccontainer id=\"aspace_6c5551f58191a343e76bea0e53b0e322\" label=\"Mixed Materials\" type=\"Box\"\u003e16\u003c/container\u003e\u003ccontainer parent=\"aspace_6c5551f58191a343e76bea0e53b0e322\" type=\"Folder\"\u003eunknown container\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref59_gww\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eP 48-277; 38 acetate negatives\u003c/unittitle\u003e\u003cunitdate\u003e1897-1901\u003c/unitdate\u003e\u003ccontainer id=\"aspace_86abd5489e1303e1aef54189c6a1aba3\" label=\"Mixed Materials\" type=\"Box\"\u003e17\u003c/container\u003e\u003ccontainer parent=\"aspace_86abd5489e1303e1aef54189c6a1aba3\" type=\"Folder\"\u003eunknown container\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

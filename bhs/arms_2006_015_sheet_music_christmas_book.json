@@ -1,0 +1,140 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_2006_015_sheet_music_christmas_book"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Sheet music and Christmas book\n                    \u003cnum\u003e2006.015\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "October 28, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-22T11:52-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Baldwin, O. S."
+                    }
+                },
+                "unittitle": {
+                    "value": "Sheet music and Christmas book"
+                },
+                "unitdate": {
+                    "value": "1885, 1946"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.03 Linear feet"
+                        },
+                        {
+                            "value": "in one folder."
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Sheet music for the song \"Moon over Brooklyn,\" dated 1946, and an illustrated Christmas story book titled \n                \u003cemph render=\"italic\"\u003eTo the Little Boys of Long Island\u003c/emph\u003e, dated 1885. The book was printed by clothier O.S. Baldwin of Baldwin Building at the southwest corner of Smith and Fulton Streets in Brooklyn."
+                },
+                "unitid": {
+                    "value": "2006.015"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1113001",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0125"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref6",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Sheet music and Christmas book, 2006.015, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref4",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Purchased from George Barisano, 2006."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcgft",
+                    "value": "Christmas |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcgft",
+                    "value": "Holidays |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcgft",
+                    "value": "Popular music |z New York (State) |z New York"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

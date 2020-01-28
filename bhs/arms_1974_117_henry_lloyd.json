@@ -1,0 +1,164 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1974_117_henry_lloyd"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Henry Lloyd ledgers\n                    \u003cnum\u003e1974.117\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "September 9, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-12-13T15:15-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Lloyd, Henry, 1685-1763"
+                    }
+                },
+                "unittitle": {
+                    "value": "Henry Lloyd ledgers"
+                },
+                "unitdate": {
+                    "normal": "1703/1744",
+                    "type": "inclusive",
+                    "value": "1703-1744"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "2.4 Linear feet"
+                        },
+                        {
+                            "value": "in two oversize boxes."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "1974.117"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1019025",
+                    "label": "Text",
+                    "type": "Item",
+                    "value": "2 ledgers"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref6",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref3",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Henry Lloyd ledgers, 1974.117, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref4",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of William A. Alcock, 1925. Formally accessioned in 1925."
+            }
+        },
+        "bioghist": {
+            "id": "ref2",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Henry Lloyd (1685-1763) owned a shipping business in Rhode Island before settling on his father's estate, known as the Manor of Queens Village, near Oyster Bay in Queens County, N.Y. As of 2011, Lloyd's home, commonly called the Henry Lloyd Manor House, still survives on the grounds of Caumsett State Historic Park. The land comprising the Lloyd family estate is now part of the village of Lloyd Harbor in Suffolk County, Long Island."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "Six ledgers of Henry Lloyd, recording financial transactions and accounts throughout the period 1703 to 1744. The volumes include four waste books (i.e., day books), one invoice book, and a journal that duplicates much of the information contained in the other volumes."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcgft",
+                    "value": "Farmers |z New York (State) |z Long Island"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Farmers |z New York (State) |z Queens County"
+                },
+                {
+                    "source": "lcgft",
+                    "value": "Landowners |z New York (State) |z Long Island"
+                },
+                {
+                    "source": "lcgft",
+                    "value": "Manors |z New York (State) |z Long Island"
+                },
+                {
+                    "source": "lcgft",
+                    "value": "Manors |z New York (State) |z Queens County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Merchants"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

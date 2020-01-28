@@ -1,0 +1,168 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "pierce"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Harris Pierce Photographs\u003clb/\u003e1888-1900\u003clb/\u003e \u003cnum\u003ePR 270\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Lucas Buresch and Kelly McAnnaney"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-05-14T03:23:00\u003c/date\u003e"
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Pierce, Harris"
+                    }
+                },
+                "unittitle": {
+                    "value": "Harris Pierce photographs"
+                },
+                "unitdate": {
+                    "normal": "1888/1900",
+                    "type": "inclusive",
+                    "value": "1888-1900"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "5.5 Linear feet"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Photographs of street gradings and improvements, as well as residences and businesses in the Bronx during the mid 1890s. Digital copies of the images in the collection are available on-line through the \u003cextref actuate=\"onRequest\" href=\"http://digitalcollections.nyhistory.org/islandora/object/nyhs%3Apierce\"\u003eDigital Collections\u003c/extref\u003e pages of N-YHS's website."
+                },
+                "unitid": {
+                    "value": "PR 270"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_0ddc641763f286551e3c15f4e0a2f4b4",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open to qualified researchers, by advance appointment only. To schedule an appointment, contact the Print Room Librarian at printroom@nyhistory.org."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_69acc9dd7357ed11ce565ffcc6a0e765",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "This collection should be cited as: Harris Pierce photographs, PR 270, Department of Prints, Photographs, and Architectural Collections, New-York Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_61ae75a96e351b718aeb3f46b5fc268c",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Gift of Herbert Berger-Hershkowitz, 6 July 2007."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_522e4cfe35711aacfb92edf3439c1138",
+            "head": "Biographical Note",
+            "p": {
+                "value": "The photographs appear to have been made as evidence in supporting the cases of claimants filing for damages against the city. Some of the photographs are mounted on boards with a form on the verso for recording information about the image. The form includes the names of Thomas S. Bassford and Ernest Hall, lawyers representing the claimants."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_7348adef14c9b72c48771830b9a61571",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The only photograph in the collection that is known not to have been made by Harris Pierce is the view of 1940 Park Avenue taken by Louis C. Bennett."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Buildings -- New York (State) -- Bronx County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Dwellings -- New York (State) -- Bronx County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Grading (Earthwork) -- New York (State) -- New York  "
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Pavements -- New York (State) -- New York  "
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Roads -- Design and construction -- New York (State) -- New York  "
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Streets -- New York (State) -- New York   -- Maintenance and repair"
+                }
+            ]
+        },
+        "otherfindaid": {
+            "id": "aspace_954b104f3b8925144c02fbe7e9532f25",
+            "head": "Other Finding Aids"
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref12_ocg\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBrook Avenue\u003c/unittitle\u003e\u003cunitdate\u003e1896-98\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2c842d3326a0e3d74b0634ca26afc9b3\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2c842d3326a0e3d74b0634ca26afc9b3\" type=\"Folder\"\u003e1-4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref13_8jr\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCourtlandt Avenue\u003c/unittitle\u003e\u003cunitdate\u003e1894-95\u003c/unitdate\u003e\u003ccontainer id=\"aspace_0860393b7876598a257fe13574ef0b08\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0860393b7876598a257fe13574ef0b08\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14_30t\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eOlin Avenue\u003c/unittitle\u003e\u003cunitdate\u003e1896-98\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7fc5436df1eac1fd09f6ed7cf4ad40be\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_7fc5436df1eac1fd09f6ed7cf4ad40be\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15_4qe\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePark Avenue\u003c/unittitle\u003e\u003cunitdate\u003e1898\u003c/unitdate\u003e\u003ccontainer id=\"aspace_991e90ca3110fb84ee10a4a5eed049be\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_991e90ca3110fb84ee10a4a5eed049be\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16_06z\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRailroad Avenue\u003c/unittitle\u003e\u003cunitdate\u003e1893-94\u003c/unitdate\u003e\u003ccontainer id=\"aspace_0a3d231de06902edcda5b138db3c89a6\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0a3d231de06902edcda5b138db3c89a6\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17_dr6\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSpencer Place\u003c/unittitle\u003e\u003cunitdate\u003e1896\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4819f9f77ed2dbfc704f2432dffea8c5\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_4819f9f77ed2dbfc704f2432dffea8c5\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18_lph\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTalmadge Street\u003c/unittitle\u003e\u003cunitdate\u003e1896\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d524527e46fb8a78e8e674f9315aa0e6\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d524527e46fb8a78e8e674f9315aa0e6\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19_4vx\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTremont Ave\u003c/unittitle\u003e\u003cunitdate\u003en. d.\u003c/unitdate\u003e\u003ccontainer id=\"aspace_12c3c7c939ddac7546261083228abe6d\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_12c3c7c939ddac7546261083228abe6d\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20_mtq\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eVanderbilt Avenue\u003c/unittitle\u003e\u003cunitdate\u003e1891, 1894-98\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e020f8c3e0c6872246cc089beb108b30\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_e020f8c3e0c6872246cc089beb108b30\" type=\"Folder\"\u003e12-25\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21_nnu\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eWashington Avenue\u003c/unittitle\u003e\u003cunitdate\u003e1891, 1894-95\u003c/unitdate\u003e\u003ccontainer id=\"aspace_407d702056c6f16bfeb34bba3a8e62cd\" label=\"Mixed Materials\" type=\"Box\"\u003e3\u003c/container\u003e\u003ccontainer parent=\"aspace_407d702056c6f16bfeb34bba3a8e62cd\" type=\"Folder\"\u003e26-29\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22_s2a\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eWebster Avenue\u003c/unittitle\u003e\u003cunitdate\u003e1896-97\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7d695bab0b6a2f78b48a2c71acd39fa0\" label=\"Mixed Materials\" type=\"Box\"\u003e4\u003c/container\u003e\u003ccontainer parent=\"aspace_7d695bab0b6a2f78b48a2c71acd39fa0\" type=\"Folder\"\u003e30\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23_2qe\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eWilliamsbridge\u003c/unittitle\u003e\u003cunitdate\u003e1897\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d32330c95c10197253167d7398a74411\" label=\"Mixed Materials\" type=\"Box\"\u003e4\u003c/container\u003e\u003ccontainer parent=\"aspace_d32330c95c10197253167d7398a74411\" type=\"Folder\"\u003e31\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24_nya\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e144th Street\u003c/unittitle\u003e\u003cunitdate\u003e1891, 1893, 1895\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a99aef63d1450fdec17d403a70dfa40b\" label=\"Mixed Materials\" type=\"Box\"\u003e4\u003c/container\u003e\u003ccontainer parent=\"aspace_a99aef63d1450fdec17d403a70dfa40b\" type=\"Folder\"\u003e32\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25_yld\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e146th Street\u003c/unittitle\u003e\u003cunitdate\u003e1893\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f948805a780f93b8a36733f94a16cc10\" label=\"Mixed Materials\" type=\"Box\"\u003e4\u003c/container\u003e\u003ccontainer parent=\"aspace_f948805a780f93b8a36733f94a16cc10\" type=\"Folder\"\u003e33\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref26_y26\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e148th Street\u003c/unittitle\u003e\u003cunitdate\u003e1891, 1893-94\u003c/unitdate\u003e\u003ccontainer id=\"aspace_59273be4047b5ded027f7739a0b0b97a\" label=\"Mixed Materials\" type=\"Box\"\u003e4\u003c/container\u003e\u003ccontainer parent=\"aspace_59273be4047b5ded027f7739a0b0b97a\" type=\"Folder\"\u003e34\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27_gez\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e149th Street\u003c/unittitle\u003e\u003cunitdate\u003e1891, 1894\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e2b5d780e52d4842e0a7ea537a936d7c\" label=\"Mixed Materials\" type=\"Box\"\u003e4\u003c/container\u003e\u003ccontainer parent=\"aspace_e2b5d780e52d4842e0a7ea537a936d7c\" type=\"Folder\"\u003e35\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref28_fo0\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e150th-151st Streets\u003c/unittitle\u003e\u003cunitdate\u003e1891\u003c/unitdate\u003e\u003ccontainer id=\"aspace_74aab33bef3adf3da10978d9683c5812\" label=\"Mixed Materials\" type=\"Box\"\u003e4\u003c/container\u003e\u003ccontainer parent=\"aspace_74aab33bef3adf3da10978d9683c5812\" type=\"Folder\"\u003e36\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref29_kcf\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e155th Street\u003c/unittitle\u003e\u003cunitdate\u003e1893\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7a26c1cea9d19ff58ec7713d3bcc1c3c\" label=\"Mixed Materials\" type=\"Box\"\u003e4\u003c/container\u003e\u003ccontainer parent=\"aspace_7a26c1cea9d19ff58ec7713d3bcc1c3c\" type=\"Folder\"\u003e37\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref30_zq9\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e156th Street\u003c/unittitle\u003e\u003cunitdate\u003e1896, 1898\u003c/unitdate\u003e\u003ccontainer id=\"aspace_71374275e684a4657abcca1964e5a322\" label=\"Mixed Materials\" type=\"Box\"\u003e4\u003c/container\u003e\u003ccontainer parent=\"aspace_71374275e684a4657abcca1964e5a322\" type=\"Folder\"\u003e38\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref31_uta\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e160-161st Street\u003c/unittitle\u003e\u003cunitdate\u003e1891, 1894, 1896\u003c/unitdate\u003e\u003ccontainer id=\"aspace_3a800634fdfa171027e52e23eadbd494\" label=\"Mixed Materials\" type=\"Box\"\u003e4\u003c/container\u003e\u003ccontainer parent=\"aspace_3a800634fdfa171027e52e23eadbd494\" type=\"Folder\"\u003e39\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref32_asr\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e162nd Street\u003c/unittitle\u003e\u003cunitdate\u003e1894\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7addb299c6db3519fef54933a018f280\" label=\"Mixed Materials\" type=\"Box\"\u003e4\u003c/container\u003e\u003ccontainer parent=\"aspace_7addb299c6db3519fef54933a018f280\" type=\"Folder\"\u003e40\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref33_sph\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e163rd Street\u003c/unittitle\u003e\u003cunitdate\u003e1891, 1894-96\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1d0d2067fec688d2bc4f54509130a4d3\" label=\"Mixed Materials\" type=\"Box\"\u003e4\u003c/container\u003e\u003ccontainer parent=\"aspace_1d0d2067fec688d2bc4f54509130a4d3\" type=\"Folder\"\u003e41-43\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref34_z4l\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e167th Street\u003c/unittitle\u003e\u003cunitdate\u003e1894\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a4c633fb5bb14ed4b641e20800776094\" label=\"Mixed Materials\" type=\"Box\"\u003e5\u003c/container\u003e\u003ccontainer parent=\"aspace_a4c633fb5bb14ed4b641e20800776094\" type=\"Folder\"\u003e44\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref35_2k0\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e173th Street\u003c/unittitle\u003e\u003cunitdate\u003e1894, 1896\u003c/unitdate\u003e\u003ccontainer id=\"aspace_13122afe3b651370ce3f100812ac5a43\" label=\"Mixed Materials\" type=\"Box\"\u003e5\u003c/container\u003e\u003ccontainer parent=\"aspace_13122afe3b651370ce3f100812ac5a43\" type=\"Folder\"\u003e46\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref36_60v\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e174th Street\u003c/unittitle\u003e\u003cunitdate\u003e1896\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f72fc253104f1d49d19ae6783913c511\" label=\"Mixed Materials\" type=\"Box\"\u003e5\u003c/container\u003e\u003ccontainer parent=\"aspace_f72fc253104f1d49d19ae6783913c511\" type=\"Folder\"\u003e47\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref37_w8c\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e175th Street\u003c/unittitle\u003e\u003cunitdate\u003e1894\u003c/unitdate\u003e\u003ccontainer id=\"aspace_43ea006c6ec81ce4a7689b8975332b80\" label=\"Mixed Materials\" type=\"Box\"\u003e5\u003c/container\u003e\u003ccontainer parent=\"aspace_43ea006c6ec81ce4a7689b8975332b80\" type=\"Folder\"\u003e48\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref38_lh5\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e176th Street\u003c/unittitle\u003e\u003cunitdate\u003e1896\u003c/unitdate\u003e\u003ccontainer id=\"aspace_96703694328f9d476e42935cea092efb\" label=\"Mixed Materials\" type=\"Box\"\u003e5\u003c/container\u003e\u003ccontainer parent=\"aspace_96703694328f9d476e42935cea092efb\" type=\"Folder\"\u003e49\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref39_tai\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e177th Street\u003c/unittitle\u003e\u003cunitdate\u003e1894\u003c/unitdate\u003e\u003ccontainer id=\"aspace_efaee1c7c807a7a4692f2935d0ea9d82\" label=\"Mixed Materials\" type=\"Box\"\u003e5\u003c/container\u003e\u003ccontainer parent=\"aspace_efaee1c7c807a7a4692f2935d0ea9d82\" type=\"Folder\"\u003e50\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref40_gao\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e178th Street\u003c/unittitle\u003e\u003cunitdate\u003e1894-95\u003c/unitdate\u003e\u003ccontainer id=\"aspace_6f63a971c67e95f79183562d055e36a5\" label=\"Mixed Materials\" type=\"Box\"\u003e5\u003c/container\u003e\u003ccontainer parent=\"aspace_6f63a971c67e95f79183562d055e36a5\" type=\"Folder\"\u003e51\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref41_iwf\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e183rd Street\u003c/unittitle\u003e\u003cunitdate\u003e1894\u003c/unitdate\u003e\u003ccontainer id=\"aspace_0b1f7a05c6f0a9050c218f5b552a5cca\" label=\"Mixed Materials\" type=\"Box\"\u003e5\u003c/container\u003e\u003ccontainer parent=\"aspace_0b1f7a05c6f0a9050c218f5b552a5cca\" type=\"Folder\"\u003e52\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref42_cwz\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eUnidentified -- Commercial\u003c/unittitle\u003e\u003cunitdate\u003e1888, 1896-98\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4d66a90cc22b6fd0a9f083db997111b3\" label=\"Mixed Materials\" type=\"Box\"\u003e5\u003c/container\u003e\u003ccontainer parent=\"aspace_4d66a90cc22b6fd0a9f083db997111b3\" type=\"Folder\"\u003e53\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref43_b7p\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eUnidentified -- Empty Lots\u003c/unittitle\u003e\u003cunitdate\u003e1896-98\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c72cc11ce7c495a1e95b328a89999a1f\" label=\"Mixed Materials\" type=\"Box\"\u003e5\u003c/container\u003e\u003ccontainer parent=\"aspace_c72cc11ce7c495a1e95b328a89999a1f\" type=\"Folder\"\u003e54-55\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref44_gdt\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eUnidentified -- Residential\u003c/unittitle\u003e\u003cunitdate\u003e1893, 1896-98, 1900\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9f4d44d724a747630d2a8459640e3b1e\" label=\"Mixed Materials\" type=\"Box\"\u003e6\u003c/container\u003e\u003ccontainer parent=\"aspace_9f4d44d724a747630d2a8459640e3b1e\" type=\"Folder\"\u003e56-62\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

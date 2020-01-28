@@ -1,0 +1,172 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1977_200_civil_war"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Civil War collection\n                    \u003cnum\u003e1977.200\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Weatherly Stephan"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "February 18, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2015-08-07T15:42-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Howell, George Rogers, 1833-1899"
+                    }
+                },
+                "unittitle": {
+                    "value": "Civil War collection"
+                },
+                "unitdate": {
+                    "normal": "1804/1865",
+                    "type": "inclusive",
+                    "value": "1804-1865"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.75 linear feet"
+                        },
+                        {
+                            "value": "in two manuscript boxes"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The Civil War collection measures 0.75 linear feet and dates from 1804 to 1865. The collection contains a variety of materials from New York and the Eastern United States, ranging from Confederate military records to ephemeral printed material. Document types in the collection include hospital records, roll books and registers, muster rolls, military orders, scrapbooks, broadsides, and ephemera."
+                },
+                "unitid": {
+                    "value": "1977.200"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid648002",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "1977.200 1 of 2"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref3",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref6",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Civil War collection, 1977.200, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref4",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Source and date of acquisition for this collection is unknown. The collection was accessioned in 1977."
+            }
+        },
+        "bioghist": {
+            "id": "ref8",
+            "head": "Historical note",
+            "p": {
+                "value": "Andersonville Prison, represented in the collection through its hospital records and registers, was located in southwest Georgia and operated for 15 months between 1864 and 1865. The site was used by the Confederate Army as a prisoner-of-war camp for captured Union soldiers. At the time of its closure, almost 13,000 Union soldiers had died at Andersonville. The records were collected by E. P. Hopkins, a captured soldier from Ohio who worked as a steward in the prison hospital."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Broadsides and ephemera cover events and organizations local to Brooklyn, New York City, Queens, and Long Island from the early 19th century to the Civil War era. The broadsides provide discussion of local, regional, and national issues, such as drafts, slavery, temperance, elections, and political platforms, and represent organizations such as the National Freedman's Relief Association, the War Fund Committee of Brooklyn, and the Suffolk County Sabbath School Association. A small number of broadsides related to the election of 1864 are written in German. Printed ephemera includes promotional material for two Brooklyn newspapers, the \n                \u003cemph render=\"italic\"\u003eBrooklyn Evening Star\u003c/emph\u003e and the \n                \u003cemph render=\"italic\"\u003eBrooklyn Daily Union\u003c/emph\u003e. The collection also contains four scrapbooks--three with pro-Union envelopes and printed ephemera, collected by George R. Howell, and one with political cartoons from the election of 1864."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Military hospitals"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Presidents |z United States |x Election |y 1864"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Secession |z Southern States"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Social movements |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Social movements |z New York (State) |z Long Island"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Social movements |z New York (State) |z New York"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "War Fund Committee (Brooklyn, New York, N.Y.)."
+            }
+        },
+        "dsc": {}
+    }
+}

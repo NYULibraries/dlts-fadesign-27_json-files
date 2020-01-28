@@ -1,0 +1,123 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "wag_054"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Union Label and Service Trades Council of Greater New York and Long Island Records\n                    \u003cnum\u003eWAG.054\u003c/num\u003e\n                "
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T20:51-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Union Label and Service Trades Council of Greater New York and Long Island Records"
+                },
+                "unitdate": {
+                    "normal": "1911/1979",
+                    "type": "inclusive",
+                    "value": "1911-1979"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "24.5 linear feet"
+                        },
+                        {
+                            "value": "(25 boxes)"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "WAG.054"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "INVENTORY AVAILABLE IN REPOSITORY; CONTACT: tamiment.wagner@nyu.edu."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Labor movement |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor union emblems |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor union-owned business enterprises |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor unions |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Service industries workers |x Labor unions |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Union labels."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Union Label and Service Trades Council of Greater New York and Long Island."
+            }
+        },
+        "dsc": {}
+    }
+}

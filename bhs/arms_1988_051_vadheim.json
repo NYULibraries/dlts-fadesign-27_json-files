@@ -1,0 +1,156 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1988_051_vadheim"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Robert Vadheim Brooklyn Heights Association collection\n                    \u003cnum\u003e1988.051\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Matthew Gorham"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "September 26, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2015-03-21T15:19-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Vadheim, Robert, 1919-2010"
+                    }
+                },
+                "unittitle": {
+                    "value": "Robert Vadheim Brooklyn Heights Association collection"
+                },
+                "unitdate": {
+                    "normal": "1964/1980",
+                    "type": "inclusive",
+                    "value": "1964-1980"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.3 linear feet"
+                        },
+                        {
+                            "value": "in four folders"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "This Robert Vadheim Brooklyn Heights Association collection includes measures 0.3 linear feet and spans the period 1964 to 1980. The collection consists of records compiled by Mr. Vadheim during his involvement with the Brooklyn Heights Association. The records include bulletins, reports, announcements and notices to membership."
+                },
+                "unitid": {
+                    "value": "1988.051"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1041001",
+                    "label": "Realia",
+                    "type": "Box",
+                    "value": "A0110"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "ref5",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Robert Vadheim Brooklyn Heights Association collection, 1988.051, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Robert Vadheim, 1988."
+            }
+        },
+        "bioghist": {
+            "id": "ref4",
+            "head": "Historical note",
+            "p": {
+                "value": "The Brooklyn Heights Association (\"BHA\") was formed in 1910, and remains the oldest neighborhood association in New York City. Residents and business owners in Brooklyn Heights organized the group to advocate for the improvement and preservation of the neighborhood. The Association formed committees to address issues pertinent to resident and neighborhood concerns, such as civil improvement, police, traffic, parking, trees, and recreation. BHA supported the New York City Landmarks Preservation Law and in 1965, Brooklyn Heights was designated as the first Historic District in New York City. In 2010, BHA celebrated its centennial anniversary and remains an active and influential organization in Brooklyn Heights."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This Robert Vadheim Brooklyn Heights Association collection includes measures 0.3 linear feet and spans the period 1964 to 1980. The collection consists of records compiled by Mr. Vadheim during his involvement with the Brooklyn Heights Association. The records include bulletins, reports, announcements and notices to membership."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Citizens' associations |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Historic districts |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Historic preservation |z New York (State) |z New York"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

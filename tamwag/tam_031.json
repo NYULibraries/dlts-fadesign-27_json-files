@@ -1,0 +1,148 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_031"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Theresa Branstetter Taft Papers \u003cnum\u003eTAM.031\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff, 2009"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-04-24T13:49:51\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Taft, Theresa Branstetter"
+                    }
+                },
+                "unittitle": {
+                    "value": "Theresa Branstetter Taft Papers"
+                },
+                "unitdate": {
+                    "normal": "1911/1934",
+                    "type": "inclusive",
+                    "value": "1911-1934"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "TAM.031"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_3b6d8d2693c83ef56320a7578be2039f",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_cc13e86ec2b6054662c402c0cc0c6f76",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_7040f10021dfd13bca62d6568663c47b",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Theresa Branstetter Taft Papers; TAM 031; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_3930b3f363f3c6e1a2427c7b66b7d29e",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials found in repository; provenance is unknown. The accession number associated with this collection is 1950.146."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_cbbff3210e9cdef670d84b3dc5bb766b",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Theresa Branstetter Taft was an American socialist."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_bce380fc73572a6a32474da40e6967f9",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "A small collection featuring 2 TLS by Mother Jones to Otto Branstetter, father of Theresa (1920), photos of various socialists, including Kate Richards O'Hare, and clippings and releases from 1932 Presidential campaign of Norman Thomas."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Socialists -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Women socialists -- United States."
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

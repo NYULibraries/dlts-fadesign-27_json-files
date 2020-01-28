@@ -1,0 +1,143 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1977_248_brownsville_centennial"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Brownsville Centennial Committee records\n                    \u003cnum\u003e1977.248\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "June 16, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-10T11:19-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Brownsville Centennial Committee records"
+                },
+                "unitdate": {
+                    "normal": "1964/1964",
+                    "value": "1964"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.11 Linear feet"
+                        },
+                        {
+                            "value": "in two folders."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "1977.248"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid836003",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0054"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref5",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Brownsville Centennial Committee records, 1977.228, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Rae Glauber on behalf of the Brownsville Centennial Committee, 1964."
+            }
+        },
+        "bioghist": {
+            "id": "ref4",
+            "head": "Historical Note",
+            "p": {
+                "value": "Brownsville, a neighborhood on the eastern edge of Brooklyn, was founded in 1865 when Charles S. Brown (for whom the neighborhood is named) purchased the land and built 250 houses. Originally called Brown's Village, Brownsville was a quiet and relatively remote community until 1887, when real-estate developer Aaron Kaplan purchased tracts of land for the construction of tenement buildings, in which immigrant communities from Manhattan's Lower East Side found suitable family homes. The neighborhood was also known for its large Jewish population, with roughly 75 percent of the population being composed of Jewish residents by 1926. Though the neighborhood was affected by poverty and overcrowding after World War II, revitalization efforts begun in the 1970s have brought significant community improvements."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "This collection consists of correspondence, press releases, clippings, and programs dating from 1963 to 1964 and relating to the centennial celebration of the Brooklyn neighborhood of Brownsville, managed by the Brownsville Centennial Committee."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Citizens' associations |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Brownsville Centennial Committee."
+            }
+        },
+        "dsc": {}
+    }
+}

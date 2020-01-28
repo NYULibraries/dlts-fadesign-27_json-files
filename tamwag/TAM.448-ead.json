@@ -1,0 +1,126 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "tam_448"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Vicki Morris Newspaper Clippings and Photographs\n                    \u003cnum\u003eTAM.448\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Tamiment staff."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "11/17/2009"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T19:45-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "ingest",
+                        "value": "Morris, Vicki."
+                    }
+                },
+                "unittitle": {
+                    "value": "Vicki Morris Newspaper Clippings and Photographs"
+                },
+                "unitdate": {
+                    "value": "1960s-1990s"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.25 linear feet"
+                        },
+                        {
+                            "value": "(1 box)"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "TAM.448"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid18827001",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "bioghist": {
+            "id": "ref3",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Vicki Morris was a reporter and editorialist for the Communist Party, USA newspaper the \n                \u003cemph render=\"italic\"\u003eDaily World\u003c/emph\u003e (established 1968) and its successor, the \n                \u003cemph render=\"italic\"\u003ePeople's Daily World\u003c/emph\u003e, and the daughter of George Morris (1903-), an author, labor journalist, and the chair of the Labor Commission of the Communist Party, USA."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "This collection contains clippings of Vicki Morris's articles and editorials as well as photos of Morris. PLEASE DIRECT FURTHER INQUIRIES TO: tamiment.wagner@nyu.edu"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Journalism, Communist |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Women communists |z United States."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "People's Daily World (New York, N.Y.)."
+            }
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,180 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arc_191_vanderveer"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Adrian Vanderveer Martense collection\n                    \u003cnum\u003eARC.191\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Patricia Glowinski"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "March 25, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2015-09-15T09:32-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Martense, Adrian V.,  (Adrian Vanderveer), 1852-1898"
+                    }
+                },
+                "unittitle": {
+                    "value": "Adrian Vanderveer Martense collection"
+                },
+                "unitdate": {
+                    "normal": "1872/1889",
+                    "type": "inclusive",
+                    "value": "1872-1889"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "3.0 linear feet"
+                        },
+                        {
+                            "value": "in two lantern slide boxes, two oversize boxes, and one folder"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The Adrian Vanderveer Martense collection spans the dates 1872 to 1889 and measures 2.83 linear feet. The collection contains lantern slides and photographs taken by Martense documenting Brooklyn during the last quarter of the 19th century, in particular Flatbush, Brooklyn and the Blizzard of 1888, as well as other images of Brooklyn. The collection also includes four scrapbooks and one notebook compiled by Martense between 1872 and 1889."
+                },
+                "unitid": {
+                    "value": "ARC.191"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid733001",
+                    "label": "Mixed materials",
+                    "type": "Oversize",
+                    "value": "ARC. 191 OS Box 2 of 2"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref4",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref7",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Adrian Vanderveer Martense collection, ARC.191, Box number, Object ID number (if applicable); Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref2",
+            "head": "Immediate Source of Acquisition",
+            "p": {}
+        },
+        "bioghist": {
+            "id": "ref3",
+            "head": "Biographical note",
+            "p": {
+                "value": "For Adrian Vanderveer Martense, Flatbush became a subject for his photography. Martense documented houses, streets, and his friends and neighbors in Flatbush, as well as momentous events such as the Blizzard of 1888. Martense was a member of the Brooklyn Academy of Photography (which became the Brooklyn Camera Club in 1896) and served as its first recording secretary when it was established in 1887."
+            }
+        },
+        "scopecontent": {
+            "id": "ref8",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The lantern slides are contained in two lantern slide boxes."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "American wit and humor"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Architecture, Dutch |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Blizzards |z Atlantic States"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Dwellings |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Religious disputations"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Street photography |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Theology |z United States"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Wit and humor, Pictorial"
+                }
+            ]
+        },
+        "otherfindaid": {
+            "id": "ref6",
+            "head": "Other Finding Aids"
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref10\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 1: Lantern slides\u003c/unittitle\u003e\n                    \u003cunitid\u003eV1974.007\u003c/unitid\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003e1.0 linear feet\u003c/extent\u003e\n                        \u003cextent\u003e133 lantern slides in two lantern slide boxes.\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate\u003ecirca 1880\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref11\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003eThe lantern slides were made by Martense in the 1880s and concentrate on Flatbush, Brooklyn, in particular Martense's neighborhood and neighbors in Flatbush.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref12\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 2: Photograph albums\u003c/unittitle\u003e\n                    \u003cunitid\u003eV1986.014 and V1986.246\u003c/unitid\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003e0.2 linear feet\u003c/extent\u003e\n                        \u003cextent\u003ein one oversize box.\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate normal=\"1886/1888\" type=\"inclusive\"\u003e1886-1888\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref15\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003eThis series consists of two photographs albums compiled by Martense from his own photography.\u003c/p\u003e\n                    \u003cp\u003eThe Blizzard of 1888 photograph album primarily contains scenes of Flatbush, Brooklyn after the blizzard. The photographs are albumen prints and are mounted onto the pages of the album. Bound into the album is a letter written to Martense by W. L. Keese. Keese was a subject in at least one of Martense's photographs and seems to have been a neighbor.\u003c/p\u003e\n                    \u003cp\u003eThe second photograph album, 1886 to 1888, contains photographs of Martense's neighborhood in Flatbush including views looking out from Martense's house; informal portraits of his Flatbush neighbors (many are outside shots); views of Prospect Park; and exterior and interior views of houses in his neighborhood.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref13\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 3: Scrapbooks and notebook\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003e1.73 linear feet\u003c/extent\u003e\n                        \u003cextent\u003ein two oversize boxes.\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate normal=\"1872/1889\" type=\"inclusive\"\u003e1872-1889\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref14\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003eThe four scrapbooks consist of clippings compiled by Martense and are titled: \"Fun,\" \"Religion I,\" \"Extracts II,\" and \"Extracts IV.\" The notebook, dated 1872 and titled \"Scraps,\" consists of handwritten literary quotes from writers such as Ralph Waldo Emerson, James Russell Lowell, John Paul (born John Paul Friedrich Richter), and George Eliot, among others.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

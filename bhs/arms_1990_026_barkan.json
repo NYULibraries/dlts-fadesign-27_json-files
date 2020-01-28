@@ -1,0 +1,160 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1990_026_barkan"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Murray S. Barkan papers\n                    \u003cnum\u003e1990.026\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Matthew Gorham"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "March 4, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2016-12-16T15:50-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Barkan, Murray S."
+                    }
+                },
+                "unittitle": {
+                    "value": "Murray S. Barkan papers"
+                },
+                "unitdate": {
+                    "normal": "1941/1944",
+                    "type": "inclusive",
+                    "value": "1941-1944"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.5 linear feet"
+                        },
+                        {
+                            "value": "in seven folders and one oversize folder"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The Murray S. Barkan papers cover the period October 1941 to June 1944 and measure 1.5 linear feet. The papers document Barkan's tenure as an Air Raid Warden in Brooklyn during the Second World War and provide insight into the duties and responsibilities of Air Raid Wardens, the types of war preparedness activities undertaken by civilians on the homefront during the war, as well as the NYPD's central role in coordinating New York City's war preparedness."
+                },
+                "unitid": {
+                    "value": "1990.026"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid694001",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "OS-23"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref5",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Murray S. Barkan papers, 1990.026, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref6",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Dede Barkan Kurtz, 1991."
+            }
+        },
+        "bioghist": {
+            "id": "ref3",
+            "head": "Biographical note",
+            "p": {
+                "value": "Murray Barkan lived at 41 Eastern Parkway in the Propsect Heights neighborhood of Brooklyn. During the Second World War, from 1941 to 1944, Barkan served as an Air Raid Warden in Zone 1 of Brooklyn's 80th police precinct, which covered the area bounded by Eastern Parkway, Vanderbilt Avenue, Fulton Street, and Franklin Avenue."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The Murray S. Barkan papers cover the period October 1941 to June 1944 and measure 1.5 linear feet. The papers document Barkan's tenure as an Air Raid Warden in Brooklyn during the Second World War and provide insight into the duties and responsibilities of Air Raid Wardens, the types of war preparedness activities undertaken by civilians on the homefront during the war, as well as the NYPD's central role in coordinating New York City's war preparedness. Materials in the collection include extensive Air Raid Warden training materials; pamphlets and bulletins published by the Office of Civilian Defense and the NYPD; correspondence; memoranda; reports on blackout and other preparedness drills coordinated by Barkan; and a map of the area covered by Barkan's post."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Air raid wardens |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Civil defense |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "World War, 1939-1945 |z New York (State) |z New York"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "United States. Office of Civilian Defense."
+            }
+        },
+        "dsc": {}
+    }
+}

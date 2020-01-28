@@ -1,0 +1,152 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "mc_104"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Ralph E. Pickett Papers \u003cnum\u003eMC.104\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Jacqueline Rider"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-09-30T20:02:36\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Pickett, Ralph E."
+                    }
+                },
+                "unittitle": {
+                    "value": "Ralph E. Pickett Papers"
+                },
+                "unitdate": {
+                    "normal": "1961/1961",
+                    "value": "1961"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one half manuscript box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Ralph E. Pickett was Secretary of the Faculty and Assistant Dean of the School of Education at New York University from 1935 to 1941. This collection consists of a manuscript he wrote in 1961."
+                },
+                "unitid": {
+                    "value": "MC.104"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_b4313f971c065fe43b24b583f2900199",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Repository permission is required for access. Please contact New York University Archives, (212) 998-2641, university-archives@nyu.edu."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_2c87d0c262489d9940a1ebcc3af1b21c",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known), Ralph E. Pickett Papers, MC 104, folder number, New York University Archives, New York University Libraries."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_340379b8fb5e15eddf4368ccf2b1a25d",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Found in repository. Provenance unknown."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_8672198b843d3415c9987bc540472353",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Ralph E. Pickett was Secretary of the Faculty and Assistant Dean of the School of Education from 1935 to 1941."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_4ec0d389b0174d30f5bb087749ed779e",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection consists of a manuscript written by Ralph E. Pickett in 1961."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Humanities"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Mythology."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "New York University"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_c052a52c83047ecce41b18f516155fa4\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRecurring Themes in Art, Literature, Music, Drama, and Dance as Found in Various Episodes of Classical Mythology, Religion, and History Vol. 1\u003c/unittitle\u003e\u003cunitdate normal=\"1961/1961\"\u003e1961\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter - Half\" id=\"aspace_b0aef79e7703773fbe5ffda13d1df214\" label=\"Mixed Materials [31142063055563]\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

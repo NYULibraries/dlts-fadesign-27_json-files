@@ -1,0 +1,141 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "alba_029"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Lawrence Cane Papers\n                    \u003cnum\u003eALBA.029\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Wendy Scheir"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "2009"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-28T16:23-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Cane, Lawrence, 1912-1976"
+                    }
+                },
+                "unittitle": {
+                    "value": "Lawrence Cane Papers"
+                },
+                "unitdate": {
+                    "normal": "1937/1938",
+                    "type": "inclusive",
+                    "value": "1937-1938"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.25 linear feet"
+                        },
+                        {
+                            "value": "(1 box)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Lawrence Cane (1912-1976), who changed his name from Lawrence Cohen in 1939, sailed for Spain in July 1936 to join the International Brigades. There, as part of the Canadian MacKenzie-Papineau Battalion, he saw heavy combat. He returned to the United States in December 1938. Cane was later decorated for bravery in action in World War II. The collection consists of materials from Cane's time in Spain, and includes military citations, artifacts and papers, identity books, and memorabilia."
+                },
+                "unitid": {
+                    "value": "ALBA.029"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref5",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open for research without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "ref22",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: \n                \u003clb/\u003e\n                \u003clb/\u003eIdentification of item, date; Collection name; Collection number; box number; folder number; \n                \u003clb/\u003eTamiment Library/Robert F. Wagner Labor Archives \n                \u003clb/\u003eElmer Holmes Bobst Library \n                \u003clb/\u003e70 Washington Square South \n                \u003clb/\u003eNew York, NY 10012, New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "ref8",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "\n                \u003clist\u003e\n                    \u003citem\u003eLawrence Cane. Fighting Fascism in Europe: The World War II Letters of an American Veteran of the Spanish Civil War. Edited by David E. Cane, Judy Barrett Litoff, and David C. Smith. New York: Fordham University Press, 2003.\u003c/item\u003e\n                    \u003citem\u003eGeiser, Carl. Prisoners of the Good Fight: The Spanish Civil War 1936-1939. Westport, CT: Lawrence-Hill and Company, 1986.\u003c/item\u003e\n                \u003c/list\u003e"
+            }
+        },
+        "scopecontent": {
+            "id": "ref9",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "\n                \u003cemph render=\"bold\"\u003eSeries I, Spanish Civil War\u003c/emph\u003econsists of materials from Cane's year in Spain. Items include military citations, artifacts and papers, and memorabilia such as Cane's third class berthing pass onto the S.S. Ausonia for his return to the United States. Also included are several identity books; Cane's Carnet Militar and Spanish Communist Party membership book contain photographs of him."
+            }
+        },
+        "controlaccess": {
+            "corpname": {
+                "source": "local",
+                "value": "Spain. Ejército Popular de la República. Brigada Internacional, XV--Biography."
+            }
+        },
+        "dsc": {
+            "value": "\n            \u003cc01 id=\"ref15\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries I: Spanish Civil War\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                \u003c/did\u003e\n                \u003cc02 id=\"ref16\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eArtifacts: Patch; ribbons\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid41167\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid41167\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"1928/1948\" type=\"inclusive\"\u003eca.1938\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref17\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCitations; honors; testimonial\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid41166\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid41166\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate normal=\"1937/1938\" type=\"inclusive\"\u003eundated , Sep 1938-Nov 1938\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref18\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eEphemera: Invitations to political rallies; berthing card\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid41165\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid41165\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate\u003eOct 1938-Dec 1938\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref19\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMilitary and political identity books and papers\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid41164\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid41164\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate\u003eAug 1937-Dec 1938\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref20\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMilitary instruction booklet: \"Consejos a los Soldados\" (annotated, in Spanish)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid41163\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid41163\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate normal=\"1928/1948\" type=\"inclusive\"\u003eca.1938\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n            \u003c/c01\u003e\n        "
+        }
+    }
+}

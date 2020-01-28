@@ -1,0 +1,172 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arc_106_van_dyck"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Henry H. Van Dyck papers\n                    \u003cnum\u003eARC.106\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Weatherly Stephan"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "September 9, 2010"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-23T10:38-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Van Dyck, Henry H.,  (Henry Herbert), 1809-1888"
+                    }
+                },
+                "unittitle": {
+                    "value": "Henry H. Van Dyck papers"
+                },
+                "unitdate": {
+                    "normal": "1840/1869",
+                    "type": "inclusive",
+                    "value": "1840-1869"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "2.0 Linear feet"
+                        },
+                        {
+                            "value": "in four manuscript boxes."
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Henry H. Van Dyck (1808-1888) was an editor, financier, and politician who held a variety of public and private offices throughout his lifetime. Van Dyck was a member of Elm Place Congregational Church in Brooklyn and elected to the Holland Society of New York on March 14, 1885. At the time of his death, he lived at 5 Spencer Place in the Bedford-Stuyvesant neighborhood of Brooklyn. Van Dyck is buried in Albany, N.Y. The collection comprises two linear feet in four manuscript boxes of correspondence received by Henry H. Van Dyck from 1840 to 1869 (bulk, 1865-1869). Materials are arranged chronologically. The bulk of correspondence in the collection is from Hugh McColloch (1808-1895), Secretary of the Treasury from 1865 to 1869. The content within the bulk dates of this collection deals primarily with matters concerning the United States Treasury in the years after the Civil War: imports and exports, inflation, national debt, personnel and politics, bond issues, draft issues, fractional currency, transportation of monies, customs policy, discussion of currency designs, counterfeiting, fraud, and embezzlement."
+                },
+                "unitid": {
+                    "value": "ARC.106"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid425004",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref2",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref4",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Henry H. Van Dyck papers, ARC.106, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref1",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of E.M. Van Dyck, 1897."
+            }
+        },
+        "bioghist": {
+            "id": "ref6",
+            "head": "Biographical note",
+            "p": {
+                "value": "Van Dyck was a member of Elm Place Congregational Church in Brooklyn and elected to the Holland Society of New York on March 14, 1885. At the time of his death, he lived at 5 Spencer Place in the Bedford-Stuyvesant neighborhood of Brooklyn. Van Dyck is buried in Albany, N.Y."
+            }
+        },
+        "scopecontent": {
+            "id": "ref7",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The content within the bulk dates of this collection deals primarily with matters concerning the United States Treasury in the years after the Civil War: imports and exports, inflation, national debt, personnel and politics, bond issues, draft issues, fractional currency, transportation of monies, customs policy, discussion of currency designs, counterfeiting, fraud, and embezzlement."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Currency question |z United States |x History |y 19th century"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Gold standard |z United States |x History |y 19th century"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Indians of North America |x Government relations"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Inflation (Finance) |z United States |x History |y 19th century"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Republican Party (N.Y.) |x History |y 19th century"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "United States. Dept. of the Treasury."
+            }
+        },
+        "otherfindaid": {
+            "id": "ref3",
+            "head": "Other Finding Aids note"
+        },
+        "dsc": {}
+    }
+}

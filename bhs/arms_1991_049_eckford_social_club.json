@@ -1,0 +1,156 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1991_049_eckford_social_club"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Eckford Social Club Scrapbook\n                    \u003cnum\u003e1991.049\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Stephen Weinstein"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "1991"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-21T16:11-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Eckford Social Club Scrapbook"
+                },
+                "unitdate": {
+                    "normal": "1871/1961",
+                    "type": "inclusive",
+                    "value": "[1871]-1961, bulk 1899-1956"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.5 Linear feet"
+                        },
+                        {
+                            "value": "in 1 Oversize Box"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The Eckford Social Club was founded as the Eckford Baseball Club in 1855 by a group of shipwrights and dock laborers employed at Eckford and Webb’s shipyard. This bound scrapbook consists primarily of newspaper clippings relating to the club’s members and to club business. Also included are official and social documents, correspondence, and memorabilia."
+                },
+                "unitid": {
+                    "value": "1991.049"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid251005",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref2",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref5",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Eckford Social Club Scrapbook, ArMs 1991.049; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref8",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Donated by Claire Marcus in 1991."
+            }
+        },
+        "bioghist": {
+            "id": "ref1",
+            "head": "Historical Note",
+            "p": {
+                "value": "Famous members of the club have included Al Reach, a nineteenth-century sporting goods manufacturer, and John L. Smith, president of Charles Pfizer, Inc. and minority owner of the Brooklyn Dodgers from 1945 to 1950. During the twentieth century, the club’s members included many Irish-American businessmen, doctors, lawyers, and other professionals."
+            }
+        },
+        "scopecontent": {
+            "id": "ref12",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The bound scrapbook covers the years 1871 to 1961, with extensive coverage between 1899 and 1956. It is primarily composed of newspaper clippings relating to the club’s members and to club business; many of these are reports on baseball games (those of the Eckford team among others) and obituaries for deceased members. There are also a number of clippings on the development of penecillin by Charles Pfizer, Inc. when Eckford Club member John L. Smith was the president. The scrapbook also includes administrative documents: club minutes, by laws, resolutions, business statements, member lists, and receipts and disbursement records; correspondence: official correspondence (such as letters of admission to the club), letters of thanks, holiday cards (including one from Babe Ruth), post cards, condolence cards, and invitations to social events; social documents: menus and tickets to club dinners, transcripts of speeches given at events, invitations to club outings, photographs of club outings and members, and photocopies of a newsletter, “Eckford Club Chatter,” from the 1940’s; and other ephemera: Brooklyn Dodger memorabilia from the 1950’s, political flyers and articles, poems, and watercolor illustrations. Loose clippings have been replaced with photocopies."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Baseball"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Clubs |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Penicillin"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Chas. Pfizer \u0026amp; Co."
+            }
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "mc_62"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Robert Hall Notebook \u003cnum\u003eMC 62\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Ashley Sena-Levine"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-01-23T15:21:40\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Hall, Robert William, b. 1853"
+                    }
+                },
+                "unittitle": {
+                    "value": "Robert Hall Notebook"
+                },
+                "unitdate": {
+                    "normal": "1896/1904",
+                    "type": "inclusive",
+                    "value": "circa 1896-1904"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.05 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one half manuscript box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Robert William Hall was a professor of analytical chemistry at New York University from 1888-1904.  Hall also served as treasurer of NYU's Athletic Association, founding member and Chairman of the University's Summer School Program (1895 to 1904), Reader of Chemistry for the College Entrance Examination Board (circa 1902 to 1903), and as a member of the Chemical Club. His collection consists of seven notebook pages of lecture notes for his course on quantitative chemical analysis. Hall's notes contain no date; however, he likely composed them between 1896 and 1904 (an assumption based on Hall's using the new name for the institution--New York University--as opposed to the University of the City of New York)."
+                },
+                "unitid": {
+                    "value": "MC 62"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_60c81b4dcaeef2e9dd30f3e223efa945",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_4283de80130329ca7132625ad1dcdd57",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; The Rober W. Hall Notebook; MC 62; box number; folder number; New York University Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_5b046228521003bc4f8368150767d7a3",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials found in collection; provenance is unknown."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_64fc38fbcb441bba5d4da0205ceaae1e",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Robert William Hall was born in Armagh, Ireland, on April 25, 1853.  He graduated from Princeton University in 1873 with an A.B., and then from Columbia University's School of Mines (subsequently the Fu Foundation School of Engineering and Applied Science) in 1876, obtaining the degrees of M.A. and M.E. From 1879 to 1888, he served as manufacturing chemist to the American Gas Fuel and Light Company and to some associated companies. Hall entered NYU (then the University of the City of New York) during the fall of 1888 as Acting Assistant Professor of General Chemistry. In the autumn of 1890, Hall became Professor of Analytical Chemistry and served as both the Chemistry and Analytical Chemistry department chairs during the 1890/1891 academic year. Professor Morris Loeb assumed the Chemistry chairmanship in the fall of 1891, and Professor Hall remained the Analytical Chemistry chair thereafter. Hall began teaching quantitative chemical analysis (the subject of his lecture notes) in the fall of 1892 at the University's Old Main Building in Washington Square; he moved uptown with the University's Chemistry Laboratory at the newly opened University Heights Campus in 1894. Professor Hall also served as Treasurer of NYU's Athletic Association, founding member and Chairman of the University's Summer School Program (1895 to 1904), Reader of Chemistry for the College Entrance Examination Board (circa 1902 to 1903), and as a member of the Chemical Club.  Hall resigned from his professorship at NYU in 1904."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_020fece46d0997e7ce5229d3295227ba",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Robert William Hall's collection consists of seven notebook pages of lecture notes for his course on quantitative chemical analysis. Hall's notes contain no date; however, he likely composed them between 1896 and 1904 (an assumption based on Hall's using the new name for the institution--New York University--as opposed to the University of the City of New York).  Students enrolled in Hall's course devoted their efforts to accurate weighing (on the rough chemical balance, the analytical balance, and actual weighing) and measuring, by calibrating sets of weights, burettes, flasks, and pipettes, as delineated by his notes.  Hall's course also entailed typical exercises in volumetric and gravimetric work, and lectures on the technique and theory of quantitative analysis."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Chemistry, Analytic -- Quantitative"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Chemistry -- Study and teaching"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "New York University. Department of Chemistry"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref11\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNotes on Quantitative Chemical Analysis\u003c/unittitle\u003e\u003cunitdate\u003ecirca 1894-1904\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_91eef29a825907281661f982cfce9bfd\" label=\"Mixed Materials [31142062745800]\" type=\"Box\"\u003eShared University Archives 008\u003c/container\u003e\u003ccontainer parent=\"aspace_91eef29a825907281661f982cfce9bfd\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

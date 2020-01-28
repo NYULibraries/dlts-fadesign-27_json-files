@@ -1,0 +1,138 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_451"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Benjamin Harris FOIA Requests on Walter Scott Neff \u003cnum\u003eTAM 451\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-06-07T19:01:41\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Benjamin Harris FOIA Requests on Walter Scott Neff"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "TAM 451"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_25716a7d6fd47b0c576d2170062c5909",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_46d89d1d30f7d7b107b115b4ca4d7c43",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_4e247b1fcf85843332aebf0201282fc6",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Benjamin Harris in 1999.  The accession number associated with this collection is 1999.025."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_75fedf64fc90d0d0b784429ba6e76b34",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Walter Scott Neff was a psychologist and author of several books, including \u003cemph render=\"italic\"\u003eWork and Human Behavior\u003c/emph\u003e, and was also head of the American Peace Mobilization, a Communist-associated organization, founded in 1940."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_33975e5ec25c3ebefe1928d59649c17d",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection contains FBI files obtained through a FOIA (Freedom of Information Act) request. The files cover FBI observations of Walter Neff and his activities with Communist-affiliated groups and organizations."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Communism -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Peace movements -- United States."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "American Peace Mobilization"
+            }
+        },
+        "dsc": {}
+    }
+}

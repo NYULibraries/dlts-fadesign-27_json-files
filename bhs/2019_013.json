@@ -1,0 +1,148 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "2019_013"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Anthony Jansen (Janszoon) Van Salee deed \u003cnum\u003e2019.013\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Maggie Schreiner"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "Brooklyn Historical Society",
+                        "128 Pierrepont Street",
+                        "Brooklyn 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-12-19T16:56:03\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Stuyvesant, Peter"
+                    }
+                },
+                "unittitle": {
+                    "value": "Anthony Jansen (Janszoon) Van Salee deed"
+                },
+                "unitdate": {
+                    "normal": "1643/1643",
+                    "value": "1643"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": ".001 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one folder"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "One deed documenting Anthony Jansen (Janszoon) Van Salee's purchase of 100 morgens of land near Coney Island, which was appoved by Director-General Kieft. Anthony Jansen (Janszoon) Van Salee (1607 – 1667), also called Anthony from Salee, Vaes, or Fez, was the known person of Muslim origin in the Americas. Arriving in New Netherland in 1630, Jansen was one of the earliest settlers and landowners in the Dutch West India Company colony and one of the largest landowners in what is today Brooklyn."
+                },
+                "unitid": {
+                    "value": "2019.013"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "dut"
+                    }
+                },
+                "container": {
+                    "id": "aspace_9bb4fc27e3f19be308a5f32d4f053161",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "A0143"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_53f85ed0e9441dfabc7cee51f66a2fae",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_801d1d0793b4f0dd27d9dd1632cc5340",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Anthony Jansen (Janszoon) Van Salee deed, 2019.013, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_e78783ab2f976f8e35a83335ce03d8ae",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Purchased at auction from Christie's in 2019."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_9ff6a294d62bd601306baef81a0880b3",
+            "head": "Biographical / Historical",
+            "p": {
+                "value": "On August 3, 1639, Director-General Kieft approved Van Salee his petition for 100 morgens on the western end of Long Island, near Coney Island in the present-day area of New Utrecht and Gravesend.  Anthony and Grietje left New Amsterdam, crossing the river to the largely unsettled area at the western tip of Long Island. Over the next several decades, they established themselves as one of the most prosperous landowning families in the area. Despite their banishment, Anthony continued to own property in New Amsterdam and to serve as a prosperous merchant and creditor in the small but growing city. The couple had several daughters, who went on to marry into prominent merchant families. Many families, including the Vanderbilts, proudly trace their lineage back to the Van Salees. "
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_5c64c40671c6a985d4ea7d3643d11d0d",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Done at Fort Amsterdam in New Netherland this 27 May 1643."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Deeds |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Muslims -- New York (State) -- Kings County"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

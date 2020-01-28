@@ -1,0 +1,133 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1977_574_ellis_island"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Manuscript and typescript histories of Ellis Island, N.Y.\n                    \u003cnum\u003e1977.574\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "July 25, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-17T10:26-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Manuscript and typescript histories of Ellis Island, N.Y."
+                },
+                "unitdate": {
+                    "normal": "1947/1951",
+                    "type": "inclusive",
+                    "value": "1947, 1951"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.04 Linear feet"
+                        },
+                        {
+                            "value": "in one folder."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "1977.574"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid931007",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0072"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref5",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref2",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Manuscript and typescript histories of Ellis Island, N.Y., 1977.574, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref4",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Source and date of acquisition unknown. Formally accessioned in 1977."
+            }
+        },
+        "bioghist": {
+            "id": "ref7",
+            "head": "Historical Note",
+            "p": {
+                "value": "Ellis Island, an island in Upper New York Bay, is named for Samuel Ellis, who acquired land on the island in 1785. Purchased in 1808 by the State of New York, the island was then turned over to the federal government, which used it for a time as a fort and arsenal to defend the harbor. Beginning in 1892, Ellis Island became the site of the federal immigration center. Between 1892 and 1924, 71 percent of alll immigrants to the United States came through the immigration center at Ellis Island. In 1924, restrictions on mass immigration by Congress diminished the role of Ellis Island as an immigration center, and until 1954 it was mainly used as a site to detain deportees. The island was declared a national monument in 1965, though lack of funds to restore the immigration facilities caused them to deteriorate in the ensuing decades. Private restoration efforts were begun in the 1980s, and a museum of immigratrion on the island was opened to the public in 1990."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "Two brief histories of Ellis Island, one typewritten by the Immigration and Naturalization Service of the United States Department of Justice, dated 1947, and the other handwritten by a descendant of Samuel Ellis, dated 1951. Photocopies of the original histories are also included."
+            }
+        },
+        "controlaccess": {},
+        "dsc": {}
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-F",
+            "value": "beach"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Beach Archive \u003clb/\u003e\u003cdate calendar=\"gregorian\" era=\"ce\"\u003eca.1962-1973\u003c/date\u003e\u003clb/\u003e\u003cnum\u003eMSS 5\u003c/num\u003e \u003cnum\u003eMSS.005\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Processed by Tania Friedel, April 1999"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Fales Library and Special Collections"
+                },
+                "address": {
+                    "addressline": [
+                        "Fales Library and Special Collections",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "3rd Floor",
+                        "New York, NY 10012",
+                        "Phone: (212) 998-2596",
+                        "fales.library@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-05-16T17:11:52\u003c/date\u003e"
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Fales Library and Special Collections"
+                    }
+                },
+                "unittitle": {
+                    "value": "Beach Archive"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "ca. 1962-1973"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 Box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The \u003ctitle render=\"italic\"\u003eBeach\u003c/title\u003e Archive is a collection of correspondence and manuscripts submitted to the editors of Beach Books, Claude Pelieu and Mary Beach, between 1962 and 1973. Collection highlights include manuscripts and letters written by Carl Solomon, Allen Ginsberg, Allen de Loach, Gregory Corso, Lawrence Ferlinghetti, John Giorno, Timothy Leary, and Peter Orlovsky."
+                },
+                "unitid": {
+                    "value": "MSS.005"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_2d45048f6deb73adaa9850332faea59a",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Materials are open without restrictions. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_b912fde941e8ec1d74605c3fb4498aff",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: \u003clb/\u003e\u003clb/\u003eIdentification of item, date (if known); The Beach Archive; MSS 5; Box number; Folder number; Fales Library and Special Collections, New York University Libraries."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_12c8d3c40fc88a3b7d16df9936ad37b7",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The Beach Archive is a collection of correspondence and manuscripts submitted to the editors of Beach Books, Claude Pelieu and Mary Beach, from 1962 to 1973. Collection highlights include manuscripts and letters written by Carl Solomon, Allen Ginsberg, Allen de Loach, Gregory Corso, Lawrence Ferlinghetti, John Giorno, Timothy Leary, and Peter Orlovsky."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Poets, American -- 20th century"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Avant-garde (Aesthetics)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "American literature |y 20th century."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Art, Modern |y 20th century |v Periodicals."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Literature, Experimental |x Periodicals."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "American poetry |y 20th century."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Authors, American -- 20th century"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Beach Books"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref10\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: Correspondence and Manuscripts\u003c/unittitle\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_3d55ffea9a6db8d54ae76783f49c1f4e\"\u003e\u003chead\u003eScope and Contents note\u003c/head\u003e\u003cp\u003eSeries 1 contains one box of correspondence to the editors Claude Pelieu and Mary Beach. Noted correspondents include Carl Solomon, Allen Ginsberg, Allen de Loach, Gregory Corso, Lawrence Ferlinghetti, John Giorno, Timothy Leary, and Peter Orlovsky. Series 1 also contains manuscripts submitted by Carl Solomon and Allen Ginsberg.\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_ref11\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eJulian Beck, Bonnie Bresmer, and Gregory Corso\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1967-1973\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4b415c55280a162b75960f7876abf3fe\" label=\"Mixed Materials (31142054862936)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_4b415c55280a162b75960f7876abf3fe\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref12\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eLawrence Ferlinghetti\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1970-1973\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7e52819f56db3ad17e703b3c3b980ae2\" label=\"Mixed Materials (31142054862936)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_7e52819f56db3ad17e703b3c3b980ae2\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref13\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eJohn Giorno, Timothy Leary, Peter Orlovsky, and Charles Plymel\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1971-1972; undated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e8782d9c55db5cb4735091b6b3b2692e\" label=\"Mixed Materials (31142054862936)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e8782d9c55db5cb4735091b6b3b2692e\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eEd Sanders\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1970-1972\u003c/unitdate\u003e\u003ccontainer id=\"aspace_023b4fba13a73881290724cdcbcbeb49\" label=\"Mixed Materials (31142054862936)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_023b4fba13a73881290724cdcbcbeb49\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eAldan Van Buskirk, Ken Weaver, John Weiners\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1970, 1972; undated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_48f9d61b29cf144e2e7693d78fa3fd46\" label=\"Mixed Materials (31142054862936)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_48f9d61b29cf144e2e7693d78fa3fd46\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eAllen Ginsberg\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1970-1973\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a7109b642ef08929e64e90d49adaa1d0\" label=\"Mixed Materials (31142054862936)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_a7109b642ef08929e64e90d49adaa1d0\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eAllen Ginsberg \u003clb/\u003e\"Television Was a Baby\"\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1964\u003c/unitdate\u003e\u003ccontainer id=\"aspace_6dd7903b9969a0070caa0387928c872d\" label=\"Mixed Materials (31142054862936)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_6dd7903b9969a0070caa0387928c872d\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eAllen Ginsberg, and French translations by Mary Beach\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eca. 1970\u003c/unitdate\u003e\u003ccontainer id=\"aspace_10d1b7fc479351456f62fd357f3864b5\" label=\"Mixed Materials (31142054862936)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_10d1b7fc479351456f62fd357f3864b5\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCarl Solomon\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1966-1973\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ea6a5216309c31cf38b922667b0ecd51\" label=\"Mixed Materials (31142054862936)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ea6a5216309c31cf38b922667b0ecd51\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCarl Solomon, various manuscripts\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ab8482436448db304c5ad5b34d83c123\" label=\"Mixed Materials (31142054862936)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ab8482436448db304c5ad5b34d83c123\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eRelated materials, Carl Solomon, Ann Solomon, Cordola Koshembahr, and Allen DeLoach.\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1962-1967\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b3594125e21c9e0c25e6fcf2f332445e\" label=\"Mixed Materials (31142054862936)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b3594125e21c9e0c25e6fcf2f332445e\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

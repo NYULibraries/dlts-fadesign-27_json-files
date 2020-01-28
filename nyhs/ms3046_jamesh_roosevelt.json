@@ -1,0 +1,154 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "ms3046_jamesh_roosevelt"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the James H. Roosevelt Financial Records\n                    \u003clb/\u003e1784, 1820-1863, 1916\n                    \u003clb/\u003e\n                    \u003cnum\u003eMS 3046\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Larry Weimer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "© 2011 New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                },
+                "date": "February 2018"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2018-03-01T16:39-0500\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "© 2011 New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Roosevelt, James Henry, 1800-1863"
+                    }
+                },
+                "unittitle": {
+                    "value": "James H. Roosevelt financial records"
+                },
+                "unitdate": {
+                    "value": "1784, 1820-1863, 1916"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.58 Linear feet"
+                        },
+                        {
+                            "value": "in one document box"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The collection includes 15 volumes of financial records concerning accounts associated with James Henry Roosevelt (1800-1863), the benefactor by bequest of Roosevelt Hospital in New York City. Most of the records concern the revenue and expenses related to Roosevelt's investment properties, his personal and household expenses, and his transactions with family and others close to him. One volume is the receipt book for Roosevelt's estate, maintained by his executrix, Julia Boardman. Two volumes, and a portion of another, include the records maintained by Roosevelt and Cornelius Bogert as trustees for the Leake \u0026amp; Watts Orphan House and estate of Augustine H. Lawrence. Two volumes relate to the estate of Harry Peters, for which Roosevelt's father, James C. Roosevelt, was executor."
+                },
+                "unitid": {
+                    "value": "MS 3046"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref5",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open to qualified researchers."
+            }
+        },
+        "prefercite": {
+            "id": "ref8",
+            "head": "Preferred Citation Note",
+            "p": {
+                "value": "This collection should be cited as the James H. Roosevelt financial records, MS 3046, The New-York Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref7",
+            "head": "Immediate Source of Acquisition Note",
+            "p": {
+                "value": "Gift of Seth Kaller, 2017."
+            }
+        },
+        "bioghist": {
+            "id": "ref4",
+            "head": "Biographical/Historical Note",
+            "p": {
+                "value": "(The above note is based largely on \n                \u003cextref ns2:actuate=\"onLoad\" ns2:href=\"http://www.roosevelthospitalnyc.org/uploadedFiles/Roosevelt_Hospital/Roosevelt_Content/About_Us/RooseveltHospitalTimeline.pdf\"\u003eRoosevelt Hospital Historical Timeline\u003c/extref\u003e and the \n                \u003cemph render=\"italic\"\u003eAddress by Thomas E. Vermilye, D.D., LL.D., at the Opening of the Roosevelt Hospital\u003c/emph\u003e (1871), available on Google Books.)"
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "In addition to the volumes concerning Roosevelt's own accounts, there are two volumes, and a portion of another, that include the records maintained by Roosevelt and Cornelius Bogert as trustees for the Leake \u0026amp; Watts Orphan House and estate of Augustine H. Lawrence. These records date from 1843-1846 and appear to relate to a particular legal dispute between Augustine N. Lawrence and the Orphan House. There are also two volumes (1820-1840) related to the estate of Harry Peters, for which Roosevelt's father, James C. Roosevelt, was executor."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Decedents' estates -- New York (State)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Mortgage loans -- New York (State) -- New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Real property -- New York (State)-- New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Trusts and trustees -- New York (State) -- New York"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Roosevelt Hospital (New York, N.Y.)."
+            }
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref12\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eHarry Peters Accounts (2 folders)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3802001\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid3802001\" type=\"Folder\"\u003e1-2\u003c/container\u003e\n                    \u003cunitdate\u003e1820-1840\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref13\"\u003e\n                    \u003chead\u003eScope and Contents Note\u003c/head\u003e\n                    \u003cp\u003eIncludes two volumes. The first records transactions at Merchants Bank for the account of Harry Peters from July 1820-January 1828, concluding at about the time of Peters's death. (The volume mostly records dates and amounts, with little detail.) The second volume is a receipt book for payments from 1828 to 1840 made on behalf of Peters's estate by James C. Roosevelt, the executor of the estate and James H. Roosevelt's father. The final payments, made in 1840 after James C's death, were made by James H. Some entries for the Peters estate can also be found in the account book in folder 3 (page 11).\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref14\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eAccount Book (Investments)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3802002\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid3802002\" type=\"Folder\"\u003e3\u003c/container\u003e\n                    \u003cunitdate\u003e1830-1850\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref15\"\u003e\n                    \u003chead\u003eScope and Contents Note\u003c/head\u003e\n                    \u003cp\u003ePrimarily includes entries for revenue and expenses related to mortgages and other investments. Names include, among several others, Lewis Lagrill, James S. Kip, Silvester Van Buskirk, Bernard Reilly, Jeremiah Merritt, Hugh Collins, John H. Raub, Nathaniel Weeks, Nicholas W. \u0026amp; John West, John Sidell, Peter Carmant, Valentine-Everit, and Henry Youngs. Transactions with Julia Boardman appear on several pages.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref16\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eAccount Book (Investments)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3802003\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid3802003\" type=\"Folder\"\u003e4\u003c/container\u003e\n                    \u003cunitdate\u003e1843-1849\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref17\"\u003e\n                    \u003chead\u003eScope and Contents Note\u003c/head\u003e\n                    \u003cp\u003ePrimarily includes entries for revenue and expenses related to mortgages and other investments. Names include, among several others, Joseph Skinner, Nicholas Carroll, Catharine Brinckerhoff, Samuel B. Ruggles, James and John D. Keating, Valentine-Everit, and Henry Knapp. Some transactions for Maria Ann Kissam are found here.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref18\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eAccount Book\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3802004\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid3802004\" type=\"Folder\"\u003e5\u003c/container\u003e\n                    \u003cunitdate\u003e1840-1850\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref19\"\u003e\n                    \u003chead\u003eScope and Contents Note\u003c/head\u003e\n                    \u003cp\u003eAppears to include records of three accounts: James H. Roosevelt's transactions as executor of his father's estate, particularly with his mother, Catharine; Roosevelt's transactions as collector of rents for his joint account with his nephew, James C. Roosevelt Brown; and transactions with Maria Ann Kissam.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref20\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eAccount Book\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3802005\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid3802005\" type=\"Folder\"\u003e6\u003c/container\u003e\n                    \u003cunitdate\u003e1849-1853\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref21\"\u003e\n                    \u003chead\u003eScope and Contents Note\u003c/head\u003e\n                    \u003cp\u003ePrimarily includes Roosevelt's transactions in account with his mother, Catharine. Also includes investment transactions with three borrowers, John Doorley, Valentine-Everit, and James, John, and William Harrison.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref22\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eAccounts with Maria Ann Kissam\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3802006\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid3802006\" type=\"Folder\"\u003e7\u003c/container\u003e\n                    \u003cunitdate\u003e1857-1863\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref23\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eAccount with Chemical Bank\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3802007\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid3802007\" type=\"Folder\"\u003e8\u003c/container\u003e\n                    \u003cunitdate\u003e1859-1861\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref24\"\u003e\n                    \u003chead\u003eScope and Contents Note\u003c/head\u003e\n                    \u003cp\u003eIncludes dates and amounts but few transaction details.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref25\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eAccount Book\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3802008\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid3802008\" type=\"Folder\"\u003e9\u003c/container\u003e\n                    \u003cunitdate\u003e1848-1853\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref26\"\u003e\n                    \u003chead\u003eScope and Contents Note\u003c/head\u003e\n                    \u003cp\u003eAppears to be a daily transaction journal of receipts (rents, interest, etc.) and expenses, including household expenses and services. The opening pages appear to be a form of address book listing tenants, servants, sweeps, etc. Nurses are listed and identified as being either \"white\" or \"colored.\"\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref27\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eAccount Book\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3802009\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid3802009\" type=\"Folder\"\u003e10\u003c/container\u003e\n                    \u003cunitdate\u003e1861-1863\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref28\"\u003e\n                    \u003chead\u003eScope and Contents Note\u003c/head\u003e\n                    \u003cp\u003eIncludes a daily transaction list of revenue and expenses (by check number).\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref29\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eReceipts of Julia M. Boardman\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3802010\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid3802010\" type=\"Folder\"\u003e11\u003c/container\u003e\n                    \u003cunitdate\u003e1839-1863\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref30\"\u003e\n                    \u003chead\u003eScope and Contents Note\u003c/head\u003e\n                    \u003cp\u003ePrimarily includes Boardman's acknowledgements of cash receipts from Roosevelt. Although the volume's cover is titled with Boardman's name, many other receipts appear as well.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref31\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eReceipt Book\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3806001\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid3806001\" type=\"Folder\"\u003e12\u003c/container\u003e\n                    \u003cunitdate\u003e1843-1846, 1859-1863\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref32\"\u003e\n                    \u003chead\u003eScope and Contents Note\u003c/head\u003e\n                    \u003cp\u003eThe volume includes acknowledgements signed by payees of payments received. Beginning at one end of the volume are acknowledgements of payments made by Roosevelt and Cornelius Bogert in their capacity as trustees. The entries are generally silent as to what they are trustees of, but the date range of 1843-46 and two references to the Leake \u0026amp; Watts Orphan House and the estate of Augustine H. Lawrence make it likely that these concern that matter. Beginning at the other end of the volume are acknowledgements of payments made by Roosevelt for his own expenses; these include household expenses, such as groceries, clothes and coal, and expenses related to his properties. Some entries, such as that of 30 November 1860, identify the location of the properties on which Roosevelt paid taxes. These entries date from 1859-63.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref33\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eReceipt Book. Estate of James H. Roosevelt\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3806002\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid3806002\" type=\"Folder\"\u003e13\u003c/container\u003e\n                    \u003cunitdate\u003e1863-1866\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref34\"\u003e\n                    \u003chead\u003eScope and Contents Note\u003c/head\u003e\n                    \u003cp\u003eIncludes acknowledgements signed by payees of payments received from Julia M. Boardman in her capacity of executrix of Roosevelt's estate. These entries include the return of funds to the Leake \u0026amp; Watts Orphan House that Roosevelt had held as trustee and payments made to George Trimble, Treasurer of Roosevelt Hospital.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref35\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eAccount Books. Trustees for Leake \u0026amp; Watts Orphan House \u0026amp; Estate of Augustine H. Lawrence (2 folders)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3806003\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid3806003\" type=\"Folder\"\u003e14-15\u003c/container\u003e\n                    \u003cunitdate\u003e1843-1846\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref36\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eMiscellaneous\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3806004\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid3806004\" type=\"Folder\"\u003e16\u003c/container\u003e\n                    \u003cunitdate\u003e1784?, 1916\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref37\"\u003e\n                    \u003chead\u003eScope and Contents Note\u003c/head\u003e\n                    \u003cp\u003eIncludes two documents: calculations concerning an interest-bearing certificate (1784?) and a printed copy of the \"Last Will and Testament of Henry Miller,\" with annotation (1916). This last included Roosevelt Hospital as a legatee.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

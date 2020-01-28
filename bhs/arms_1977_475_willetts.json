@@ -1,0 +1,142 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1977_475_willetts"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Willetts family deeds\n                    \u003cnum\u003e1977.475\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "July 10, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-11T15:43-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Willetts, Richard"
+                    },
+                    "famname": {
+                        "source": "local",
+                        "value": "Willetts family"
+                    }
+                },
+                "unittitle": {
+                    "value": "Willetts family deeds"
+                },
+                "unitdate": {
+                    "normal": "1719/1801",
+                    "type": "inclusive",
+                    "value": "1719-1801"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.02 Linear feet"
+                        },
+                        {
+                            "value": "in one folder."
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "This collection consists of three deeds involving members of the Willetts family (also spelled Willets and Willits in the deeds) of Queens County, N.Y. Included are a deed for land in Oyster Bay sold by Thomas Bound to Jacob Willetts; a deed for land in Jericho owned by Jacob Willetts and sold to his brothers Richard and Amos Willetts; and a deed for land in Jericho owned by Richard Willets and given to his son Richard Willets, Jr. Documents date from the period 1719 to 1801. Both Jericho and Oyster Bay would become part of Nassau County, Long Island in 1898."
+                },
+                "unitid": {
+                    "value": "1977.475"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid885005",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0071"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref4",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Willetts family deeds, 1977.475, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Mrs. A.J. Mead, 1957."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Land titles |z New York (State) |z Queens County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Landowners |z New York (State) |z Queens County"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

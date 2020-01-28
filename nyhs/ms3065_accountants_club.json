@@ -1,0 +1,145 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "ms3065_accountants_club"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Accountants Club of America Records\u003clb/\u003e1906, 1927, 1973-2017\u003clb/\u003e \u003cnum\u003eMS 3065\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Larry Weimer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-11-02T20:48:11\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Accountants Club of America records"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "1906, 1927, 1973-2017"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": ".42 Linear feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one document box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Accountants Club of America, based in New York City and incorporated in 1927, provides programs of interest to professionals in accounting and related fields. The records in the collection date primarily from 1985 to 2010 and hold minutes of the organization's Board of Governors and lists of the officers, advisors and members. Originals of draft constitutions of a 1906 predecessor organization are in the collection as are photocopies of some other organizational documents."
+                },
+                "unitid": {
+                    "value": "MS 3065"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_013506111aa3eb54cafa54be42aa0f4b",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open to qualified researchers."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_34d06daa7051a24870649f50bd3bf287",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "This collection should be cited as Accountants Club of America records, MS 3065, The New-York Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_b882b4c0d3ab7293b6fff5dc91ea65de",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Gift of Accountants Club of America and of Accountants Forum, Inc., August 2018."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_3116560c2141eb944c3bf27fabcfbbbf",
+            "head": "Biographical / Historical",
+            "p": {
+                "value": "Accountants Forum, Inc. (AFI) was formed in 1941 and is an affiliate of ACA. It is a 501(c)(3) tax-exempt organization that provides financial support for ACA's programs. ACA and AFI share by-laws, officers, and other governance matters."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_461b4f1269efacc8ca526af98a2d593c",
+            "head": "Content Description",
+            "p": {
+                "value": "The minutes primarily concern programming, financial matters, and membership. Minutes of the early 1990s also include reference to long term planning concerning the mission of the organization and foundation funding. Most of the minutes are those of Accountants Club of America Board meetings; but a small number are those of Accountants Forum."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Accountants -- New York (State)  -- New York. "
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Professional associations -- New York (State)  -- New York. "
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Accountants Forum, Inc. (New York, N.Y.)"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_941b5896e7941ad64f2c7004942ce107\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAnnual Booklets Listing Officers, Governors, Advisors and Members\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1989, 1995, 2001, 2009\u003c/unitdate\u003e\u003ccontainer id=\"aspace_79a764f17543b4413313ae41c1ce9a6f\" label=\"Text\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_79a764f17543b4413313ae41c1ce9a6f\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_e21024062ba0db4cdf0843c1282ca84c\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMinutes of the Meetings of the Board of Governors and Advisory Board (8 folders)\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1985-2005, 2007, 2010\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5236661a2409969c11e38115b4fb4831\" label=\"Text\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5236661a2409969c11e38115b4fb4831\" type=\"Folder\"\u003e2-10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_d77cec8c9ce5031eb6dcd784f8c8b90d\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eProminent Past Events\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1984-2004, 2007, 2017\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7d5e45f3066c22b6b9105a7e598fc330\" label=\"Text\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_7d5e45f3066c22b6b9105a7e598fc330\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_95edf8120df6bb9bce1dcaa7fa574600\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003ePublicity flyers for events with featured speakers, such as sports figures Marvin Powell and Marty Glickman, authors Bryan Burroughs and James B. Stewart, international figures Leopoldo Villar Borda and Bryan Cassidy, TV/radio personalities John Gambling and Garrick Utley, political figures Geraldine Ferraro and Rick Lazio, business/financial figures Alan Greenberg and Richard Parsons, and others. Also, the invitation/program for the 80th anniversary reception (2007).\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_b8f9353f89e3bb105c2dcda73f0633c1\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFounding Documents: Public Accountants Club (originals)\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1906\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f68aa7e46a499d675dfb82723fd95f74\" label=\"Text\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f68aa7e46a499d675dfb82723fd95f74\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_d9ddbec9bd5566adb1e62d157c767422\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eHolds four letters from George Wilkinson and Francis How in connection with the formation of the Public Accountants Club, a predecessor to the ACA; an early, heavily marked-up draft of a constitution and by-laws; a later draft of same; and an application for membership for Thomas Cullen Roberts (possibly the first member other than the founders). All documents in this folder are originals, dating to 1906.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ef90be2a538548f5ea707428f6eaffca\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFounding Documents. Public Accountants Club (photocopies)\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1906\u003c/unitdate\u003e\u003ccontainer id=\"aspace_0dc1eddf101e0e8d91accefc42052189\" label=\"Text\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0dc1eddf101e0e8d91accefc42052189\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_3e61c5f82aa89099a0424dca817c56a9\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eHolds photocopies of most of the 1906 documents found in the preceding folder, plus a couple of letters not found in the original.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_693c60d3acba29f7c045d45187785d1c\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCertificate of Incorporation of Accountants Foundation, Inc. (photocopy)\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1927-1928\u003c/unitdate\u003e\u003ccontainer id=\"aspace_15afe4e4799baa8550d048ef0da8c19f\" label=\"Text\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_15afe4e4799baa8550d048ef0da8c19f\" type=\"Folder\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_dc17bac2c66a49e0fabce5da6d11bc3a\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eHolds a late 20th century photocopy of the 1927-28 certificate and the consent from the New York State Education Department.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_d63caaf629b39e7061ee070c33ede65e\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eOrganizational Documents: Accountants Club of America\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1960-1997\u003c/unitdate\u003e\u003ccontainer id=\"aspace_85fb4b84a3585f03f40e1d79276c4808\" label=\"Text\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_85fb4b84a3585f03f40e1d79276c4808\" type=\"Folder\"\u003e15\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_123040cabf456c497e478ecef448347b\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eHolds photocopies of two filings with New York State: a certificate of type of not-for-profit corporation and a certificate of amendment of the certificate of incorporation. Holds copies of ACA's by-laws, revised as of 20 April 1960, 29 September 1970, and 25 September 1997.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_2b406a2a2f25b2111ff98fdc2020d364\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eOrganizational Documents: Accountants Forum Inc. \u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1973\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7fdfc58ff87f284e8546aaa80894fee1\" label=\"Text\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_7fdfc58ff87f284e8546aaa80894fee1\" type=\"Folder\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_cd88a1c489e93ebacc0556da02223151\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eHolds photocopies of filings with New York State related to the incorporation of Accountants Forum in 1973, including by-laws and certificate of incorporation. Also includes another photocopy of the 1927-28 filing by Accountants Foundation (identical to the copy above; transmitted by outside counsel in 1992).\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_622b1060cba0b279bfd2f622f04fbec3\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eHistorical Sketches\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1933, circa 1987-2007\u003c/unitdate\u003e\u003ccontainer id=\"aspace_eaff0ab5ff92104cf541116fd1843aee\" label=\"Text\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_eaff0ab5ff92104cf541116fd1843aee\" type=\"Folder\"\u003e17\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_35e42df1f17b4d880b980df26ed1fabb\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eHolda four brief histories of the club, two reproductions of images of early meeting places, and a photocopy of the 1933 newsletter \"Work Sheet\" with organizational status notes.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e"
+        }
+    }
+}

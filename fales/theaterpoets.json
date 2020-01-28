@@ -1,0 +1,138 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-F",
+            "value": "theaterpoets"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "American Theater for Poets Archive\u003clb/\u003e1960-1965\u003clb/\u003e \u003cnum\u003eMSS.003\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Laura Newsome."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Fales Library and Special Collections"
+                },
+                "address": {
+                    "addressline": [
+                        "Fales Library and Special Collections",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "3rd Floor",
+                        "New York, NY 10012",
+                        "Phone: (212) 998-2596",
+                        "fales.library@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-06-13T18:31:18\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Fales Library and Special Collections"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "O'Hara, Frank, 1926-1966"
+                    }
+                },
+                "unittitle": {
+                    "value": "American Theater for Poets Archive"
+                },
+                "unitdate": {
+                    "normal": "1960/1965",
+                    "type": "inclusive",
+                    "value": "1960-1965"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.2 Linear Feet"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The American Theater for Poets was founded in 1961 by Diana diPrima, James Waring, Leroi Jones (Amiri Baraka) Fred Herko, and Alan Marlowe. The intention of the theater was to support different artistic media and visions in an experimental setting. This collection contains scripts and programs for the American Theater for Poets."
+                },
+                "unitid": {
+                    "value": "MSS.003"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_a2d7d557dbb6c42bf3ef52b69dfc311e",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_490adc3b08b3b6faaea21441db0be73d",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the\nfollowing form:\u003clb/\u003e\u003clb/\u003e\nIdentification of item,  date (if known); American Theater for Poets Archive; MSS 003; box number; folder number; Fales Library and Special Collections, New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_026b438f0d8518419beb4fee76dec2de",
+            "head": "Biographical / Historical",
+            "p": {
+                "value": "The American Theater for Poets was founded in 1961 by Diana diPrima, James Waring, Leroi Jones (Amiri Baraka) Fred Herko, and Alan Marlowe. It was originally called the New York Poet's Theater. The theater was incorporated in 1962 and ran for four years.\nThe intention of the theater was to support different artistic media and visions in an experimental setting. During its tenure, the American Theater for Poets presented plays, music, art showings, poetry readings, dance, and other performance art."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_7aeecb5665c99e31981e92849eff1774",
+            "head": "Scope and Content",
+            "p": {
+                "value": "This collection contains scripts and programs for the American Theater for Poets. The files are arranged alphabetically."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "American poetry |y 20th century."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Experimental theater."
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref1\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: Scripts and Programs\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref2\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDuncan, Robert - \"Faust Foutu\" script\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1960\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9ba59b136e7911921fc6ac330ef0d579\" label=\"Mixed Materials (31142054877074)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_9ba59b136e7911921fc6ac330ef0d579\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref3\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eGuest, Barbara - \"Port\" script\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1964\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b61ba024750480c454b5e84e8eb5d478\" label=\"Mixed Materials (31142054877074)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b61ba024750480c454b5e84e8eb5d478\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref4\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eKoch, Kenneth - \"Guinevere\" script\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1961\u003c/unitdate\u003e\u003ccontainer id=\"aspace_3c3df3e5c5a293c8274a8266af6b38fc\" label=\"Mixed Materials (31142054877074)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_3c3df3e5c5a293c8274a8266af6b38fc\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref5\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eO'Hara, Frank - \"Awake in Spain\" script\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1960\u003c/unitdate\u003e\u003ccontainer id=\"aspace_930d342bc766e10365c9918b528f6710\" label=\"Mixed Materials (31142054877074)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_930d342bc766e10365c9918b528f6710\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref6\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eO'Hara, Frank - \"Love's Labour\" script\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eUndated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_079840cd0ddccb5c055d4ca56d41d4fc\" label=\"Mixed Materials (31142054877074)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_079840cd0ddccb5c055d4ca56d41d4fc\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref7\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePrograms - \"The Fugs\", \"James Waring and John Herbert McDowell\"\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1965\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7117286bc56875a3b58ad2083711a302\" label=\"Mixed Materials (31142054877074)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_7117286bc56875a3b58ad2083711a302\" type=\"Folder\"\u003edata_value_missing_9a74ba1216d560619ed4846074f9c22a\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

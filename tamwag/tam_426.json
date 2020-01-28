@@ -1,0 +1,148 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_426"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Morris Golden Papers \u003cnum\u003eTAM 426\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-06-01T19:50:56\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Morris Golden Papers"
+                },
+                "unitdate": {
+                    "normal": "1945/1949",
+                    "type": "inclusive",
+                    "value": "1945-1949"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 shared box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Morris Golden was a Communist activist in the American Labor Party and United Federal Workers of America.  Collection contains papers pertaining to Golden's political work, particularly with the American Labor Party and United Federal Workers of America in the 1940s. Includes minutes, correspondence, and pamphlets."
+                },
+                "unitid": {
+                    "value": "TAM 426"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_4ceca1d4bb8914a97f520a2ff7518ae0",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "MS001"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_fb1d7984fd9215312e1a0e3e54f4dadc",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_ef90204e34bde9f58a1a6ae7607279d2",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Provenance unknown; most likely donated by Frances Golden in circa 2008.  The accession number associated with this collection is 2008.056."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_025cb3347898b0cacb28a5fb016d5310",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Morris Golden was a Communist activist in the American Labor Party and United Federal Workers of America."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_cfaeddec24b8c110624716b4d856a92d",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Papers pertaining to Golden's political work, particularly with the American Labor Party and United Federal Workers of America in the 1940s. Includes minutes, correspondence, and pamphlets."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Labor unions and communism -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Jewish communists -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Third parties (United States politics)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Communists -- United States."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "American Labor Party"
+            }
+        },
+        "dsc": {}
+    }
+}

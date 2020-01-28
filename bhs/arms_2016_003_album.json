@@ -1,0 +1,165 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_2016_003_album"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Family photograph album\n                    \u003cnum\u003e2016.003\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Katherine Palm"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "March 2016"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2016-09-13T14:15-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "Family photograph album"
+                },
+                "unitdate": {
+                    "normal": "1924/1955",
+                    "type": "inclusive",
+                    "value": "1924-1955"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.5 linear feet"
+                        },
+                        {
+                            "value": "in one phase box"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The collection consists of a family photo album containing approximately 500 black-and-white photographs of a middle-to-upper-class family and friends dating from the mid-1920s to the mid-1950s in settings both domestic and foreign, including Brooklyn locations such as Coney Island, Ebbets Field, Prospect Park, and the Brooklyn neighborhood of Bay Ridge."
+                },
+                "unitid": {
+                    "value": "2016.003"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1488008",
+                    "label": "Graphic materials",
+                    "type": "Box",
+                    "value": "1 of 1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref5",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Family photograph album, 2016.003, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref7",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Jim Rossman, 2015."
+            }
+        },
+        "bioghist": {
+            "id": "ref10",
+            "head": "Biographical/Historical note",
+            "p": {
+                "value": "The identity of the family that owned this photograph album is unknown; however, a number of people in photographs are identified by name in handwritten captions."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The collection consists of a family photo album containing approximately 500 black-and-white photographs of a middle-to-upper-class family and friends dating from the mid-1920s to the mid-1950s. The subjects of the photographs are chiefly domestic and leisure-related and include vacation cruises, beach outings, birthdays, children and toys, family portraits, pets, and other animals. Many of the photographs are captioned and dated and indicate that photographs were taken chiefly in New York, New Jersey, and Pennsylvania, but also in other states such as Florida and Massachussets, and in other countries, such as Jamaica, Haiti, Cuba, and the Bahamas. Brooklyn locations include Coney Island, Ebbets Field, Prospect Park, and the Brooklyn neighborhood of Bay Ridge. Also included are a few news clippings relating to the marriages in 1934 of Harry C. Treber to Vera Weber and of Harold George Kraus to Helen Antoinette Janson."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Amateur photographer"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Family life |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Outdoor recreation"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Pets."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Travel photography"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Voyages and travels"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Ebbets Field (New York, N.Y.)."
+            }
+        },
+        "dsc": {}
+    }
+}

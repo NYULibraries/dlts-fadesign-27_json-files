@@ -1,0 +1,85 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "ms2958_9828_brainerd"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Maria S. Brainerd Valentine's Day Card\u003clb/\u003e1857 February 11\u003clb/\u003e \u003cnum\u003eAHMC - Brainerd, Maria S.\u003c/num\u003e"
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-04-18T14:07:30\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "Maria S. Brainerd Valentine's Day card"
+                },
+                "unitdate": {
+                    "value": "1857 February 11"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "2 items"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(in 1 folder)."
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Embossed, lace paper Valentine's Day card, with envelope, mailed to Maria S. Brainerd, 120 Sullivan Street, New York. For fuller details about this item, and to request it for research, please read its \u003cextref actuate=\"onRequest\" href=\"http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph006624119\u0026amp;context=L\u0026amp;vid=NYHS\u0026amp;search_scope=nyhs\u0026amp;tab=nyhs\u0026amp;lang=en_US\"\u003ecatalog record\u003c/extref\u003e, or write to \u003cemph render=\"underline\"\u003emanuscripts@nyhistory.org\u003c/emph\u003e."
+                },
+                "unitid": {
+                    "value": "AHMC - Brainerd, Maria S."
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "dsc": {}
+    }
+}

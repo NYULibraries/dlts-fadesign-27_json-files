@@ -1,0 +1,133 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_460"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Sean Cronin Papers \u003cnum\u003eTAM 460\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-06-08T14:48:08\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Sean Cronin Papers"
+                },
+                "unitdate": {
+                    "normal": "1983/1986",
+                    "type": "bulk",
+                    "value": "1983-1986"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "TAM 460"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_8c95088a2569d2fcc0f0cb91fa79f9ba",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_74de75acd910fb7d9dd3fd420dd6c848",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_4acdb98ce20ca72f69c80d501868b82b",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "A portion of the collectin was donated by Reva Rubenstein Cronin in 2008; provenance of the remainder of the collection is unknown.  The accession number associated with this collection is 2008.049."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_2d0160dd24dd45d41a93b2d5bd4f217d",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Sean Cronin is best known among labor historians as the author of \u003cemph render=\"italic\"\u003eYoung Connolly\u003c/emph\u003e (1978) and \u003cemph render=\"italic\"\u003eFrank Ryan: The Search for the Republic\u003c/emph\u003e (1980)."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_55924b156a123a7eadbcc3150763ef29",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "Included is a copy of Cronin's book \u003cemph render=\"italic\"\u003eFrank Ryan: The Search for the Republic\u003c/emph\u003e. Materials include a variety of pamphlets, including \u003cemph render=\"italic\"\u003eNo Pasaran!\u003c/emph\u003e which is a pamphlet of the story of the Irish volunteers who served with the International Brigades in defending the Spanish Republic against International Fascism (1936-1938).  Other materials relate to Irish patriot James Connolly (1868-1916)  who was once the head of the Irish Transport and General Workers Union and played a key role in the \u003cemph render=\"italic\"\u003eEaster Rising\u003c/emph\u003e, a rebellion to free Ireland from domination by England.  There is also material relating to Gerald O'Reilly, a veteran of the Irish Republican Army and Transport Workers Union organizer."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Labor unions |z Ireland."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor movement |z Ireland."
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

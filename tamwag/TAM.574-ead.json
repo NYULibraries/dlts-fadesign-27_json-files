@@ -1,0 +1,131 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "tam_574"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Kenneth P. Neilson: Frederic Ewen Collection\n                    \u003cnum\u003eTAM.574\u003c/num\u003e\n                "
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T20:02-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Neilson, Kenneth P."
+                    }
+                },
+                "unittitle": {
+                    "value": "Kenneth P. Neilson: Frederic Ewen Collection"
+                },
+                "unitdate": {
+                    "normal": "1964/1989",
+                    "type": "inclusive",
+                    "value": "1964-1989"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.25 linear feet"
+                        },
+                        {
+                            "value": "(1 box)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Kenneth P. Neilsen is an educator, artist, composer publisher and author, and was a Friend of Frederic Ewen (1899-1989), a professor of English from Brooklyn College who was forced to resign in 1952 because of his progressive politics and resistance to McCarthyism, and who later formed a theater company that produced plays. The collection contains correspondence, notes, apparently for a speech at a memorial service for Ewen, clippings, playbills, and a list of books by Neilson."
+                },
+                "unitid": {
+                    "value": "TAM.574"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid20445001",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref6",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open for research without restrictions."
+            }
+        },
+        "bioghist": {
+            "id": "ref3",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Kenneth P. Neilsen is an educator, artist, composer publisher and author, and was a Friend of Frederic Ewen (1899-1989), a professor of English from Brooklyn College who was forced to resign in 1952 because of his progressive politics and resistance to McCarthyism, and who later formed a theater company that produced plays. Neilson co-operated with Ewen in several such endeavors."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The collection contains correspondence, notes, apparently for a speech at a memorial service for Ewen, clippings, playbills, and a list of books by Neilson and others published by All Seasons Art, established by Neilson."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Authors, American."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Dramatists, American."
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

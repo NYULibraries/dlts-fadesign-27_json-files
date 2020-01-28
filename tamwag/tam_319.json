@@ -1,0 +1,131 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_319"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Arthur Felberbaum Papers \u003cnum\u003eTAM 319\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-15T20:27:46\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Arthur Felberbaum Papers"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "3 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(3 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "TAM 319"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_8b00640c9cb023ce3107fcdf940db26b",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1-3"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_21664db04e576bc26e1320da0c03c14f",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_85ee43183b60053017e4cdd70244ce0d",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Provenance unknown. The accession number associated with this gift is 1950.244."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_c439bc9696bae0a95deaa27b8149a982",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Arthur Felberbaum (1935-1979) was a founder of The New York Marxist School, which grew out of the New York Committee for Marxist Education."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_cd292656d34f0ec94d11e2b498c66d8e",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The collection contains materials relating to The New York Marxist School and to other activities of Arthur Felberbaum."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Communist education |z United States."
+                }
+            ],
+            "corpname": {
+                "source": "ingest",
+                "value": "New York Marxist School."
+            }
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-F",
+            "value": "mss_187"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Holly Anderson Papers \u003cnum\u003eMSS 187\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Jacqueline Rider"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Fales Library and Special Collections"
+                },
+                "address": {
+                    "addressline": [
+                        "Fales Library and Special Collections",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "3rd Floor",
+                        "New York, NY 10012",
+                        "Phone: (212) 998-2596",
+                        "fales.library@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-07-27T20:12:44\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Fales Library and Special Collections"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Anderson, Holly"
+                    }
+                },
+                "unittitle": {
+                    "value": "Holly Anderson Papers"
+                },
+                "unitdate": {
+                    "normal": "1978/2005",
+                    "type": "inclusive",
+                    "value": "1978-2005"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "2.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one manuscript box, one oversize flat box, and one shared media box.\n"
+                        },
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "5 videocassettes"
+                        },
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "5 sound discs (cd)"
+                        }
+                    ],
+                    "altrender": "part"
+                },
+                "abstract": {
+                    "value": "Holly Anderson was a poet and designer whose work was exhibited in museums and galleries in the United States and Europe. This collection consists of poems and artwork from her time in New York in the 1980s and 1990s, plus some later music CDs."
+                },
+                "unitid": {
+                    "value": "MSS 187"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_eac74d4323690013df0a6d4c320593be",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_4b45ba26908c53f219c35ba087522356",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Holly Anderson Papers; MSS 187; box number; folder number; Fales Library and Special Collections, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_de193bb3efa6038aa94077290b772885",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Holly Anderson in 2006."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_d67bbb32c6c0ab562c6fea811ca222a6",
+            "head": "Biographical / Historical",
+            "p": {
+                "value": "Holly Anderson died December 2017."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_f506ed6bf2346f3621102bfbd5b72cf7",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Holly Anderson Papers consist of writings and graphics by Anderson, plus recordings of her works. The collection also contains correspondence and publicity materials related to exhibitions of her works and works by other artists."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "American poetry -- 20th century."
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_cb0667470e742fde7602e4f1d2dc19e2\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eWritings, correspondence, publicity materials, reviews, slides, exhibition announcements\u003c/unittitle\u003e\u003cunitdate normal=\"1978/2005\" type=\"inclusive\"\u003e1978-2005\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_3ffb95a095b18d09bdbe88c757342f85\" label=\"Mixed Materials [31142062728095]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_3ffb95a095b18d09bdbe88c757342f85\" type=\"Folder\"\u003e1-20\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_94bc3c7d2fcf3be2155b8337107a0254\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eGraphics, promotional materials, record album covers\u003c/unittitle\u003e\u003cunitdate normal=\"1979/2001\" type=\"inclusive\"\u003e1979-2001\u003c/unitdate\u003e\u003ccontainer altrender=\"Flat OS Box - 17 - lengthwise\" id=\"aspace_8a73f704a60f705ee8f540fd35a310af\" label=\"Graphic Materials [31142062728103]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ab8b3265ba61b4cbfa397acd60b92d29\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAudiovisual recordings\u003c/unittitle\u003e\u003cunitdate normal=\"1988/2005\" type=\"inclusive\"\u003e1988-2005\u003c/unitdate\u003e\u003ccontainer altrender=\"Shoe Box - 9.5\" id=\"aspace_2cab01aeb3b5cfc41a40886a6ca61fc8\" label=\"Moving Images [31142062728111]\" type=\"Box\"\u003eShared Fales 014\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

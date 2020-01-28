@@ -1,0 +1,150 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "aia_024"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the John McLaughlin 1981 Hunger Strike Ephemera Collection\n                    \u003cnum\u003eAIA.024\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Rebecca Altermatt"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archive"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "12/07/2009"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2015-08-06T14:37-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archive"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "McLaughlin, John"
+                    }
+                },
+                "unittitle": {
+                    "value": "John McLaughlin 1981 Irish Hunger Strike Ephemera Collection"
+                },
+                "unitdate": {
+                    "normal": "1977/1989",
+                    "type": "inclusive",
+                    "value": "1977-1989"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.25 linear feet"
+                        },
+                        {
+                            "value": "in 1 manuscript box and 2 oversize folders"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The collection, collected by John McLaughlin, consists of articles, newspaper clippings and posters related to the Irish Hunger Strikes and other Irish Republicanism activities. Both the American and Irish press are represented."
+                },
+                "unitid": {
+                    "value": "AIA.024"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref7",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open for research without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "ref21",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Collection name; Collection number; box number; folder number; Archives of Irish America, Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "ref17",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Materials were collected by John McLaughlin and donated to the Archives of Irish America in 2000. The accession number associated with this collection is 1997.014."
+            }
+        },
+        "bioghist": {
+            "id": "ref15",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "The materials in this collection were collected by Irish American political activist John McLaughlin."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The collection contains ephemeral material related to and documenting reaction to the Hunger Strikes of 1981 and and to the organization Irish Northern Aid. Contents include newspaper clippings and magazine articles, and posters relating to the Hunger Strikers at Long Kesh Prison."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Hunger strikes |z Northern Ireland."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Irish Americans |z New York (State) |z New York |x Political activities."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Long Kesh (Prison)."
+            }
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref3\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNewspaper Clippings and Articles\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18907002\" type=\"Box\" label=\"Mixed materials (31142054611937)\"\u003e1\u003c/container\u003e\n                    \u003cunitdate normal=\"1977/1989\" type=\"inclusive\"\u003e1977-1989\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref2\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003ePosters: Hunger Strikers at Long Kesh Prison; Irish Awareness in America March, Washington DC\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18907001\" type=\"Box\" label=\"Graphic materials\"\u003eAIAOS001\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18907001\" type=\"Folder\"\u003e1\u003c/container\u003e\n                    \u003cunitdate normal=\"1981/1981\"\u003e1981\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref23\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003ePosters: Hunger Strikers- Bobby Sands Murdered; Join the Boycott\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid23751001\" type=\"Box\" label=\"Graphic materials\"\u003eAIAXOS 001\u003c/container\u003e\n                    \u003ccontainer parent=\"cid23751001\" type=\"Folder\"\u003e1\u003c/container\u003e\n                    \u003cunitdate normal=\"1981/1981\"\u003e1981\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

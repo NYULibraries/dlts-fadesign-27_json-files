@@ -1,0 +1,122 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "wag_260"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Walter Hooke Papers \u003cnum\u003eWAG.260\u003c/num\u003e"
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-07-20T15:49:06\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Hooke, Walter "
+                    }
+                },
+                "unittitle": {
+                    "value": "Walter Hooke Papers"
+                },
+                "unitdate": {
+                    "normal": "1961/2000",
+                    "type": "inclusive",
+                    "value": "1961-2000"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Walter Hooke was vice president and national personnel manager of the United Parcel Service from 1965-1978 and held a variety of labor relations positions. He taught courses in human relations and labor relations later in his life. Hooke was politically active on a number of issues which are reflected in the many letters to Congress and letters to the editor included in this collection.   Other documents include newspaper clippings re: Cesar Chavez's death, a transcript of an oral history interview conducted in 1986, and correspondence to Debra Bernhardt."
+                },
+                "unitid": {
+                    "value": "WAG.260"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_2da2525ac9a12d72100177cfa26f1e14",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_f12c1f77232d350d2fe947f1d9cd7f7b",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Walter Hooke Papers; WAG 260; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_d011d464325b51f0206431cb9d66b4ee",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "The provenance of this collection is unknown. The accession number associated with this collection is 1950.023."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_de226b226f4e590f1af07205d6fb2e44",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Walter Hooke was vice president and national personnel manager of the United Parcel Service from 1965-1978 and held a variety of labor relations positions. He taught courses in human relations and labor relations later in his life. Hooke was politically active on a number of issues which are reflected in the many letters to Congress and letters to the editor included in this collection.   Other documents include newspaper clippings re: Cesar Chavez's death, a transcript of an oral history interview conducted in 1986, and correspondence to Debra Bernhardt."
+            }
+        },
+        "dsc": {}
+    }
+}

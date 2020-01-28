@@ -1,0 +1,178 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1978_004_notman"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the John Notman papers\n                    \u003cnum\u003e1978.004\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Sang Ae Park"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "August 2007"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-17T13:45-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Sanger, Henry"
+                    }
+                },
+                "unittitle": {
+                    "value": "John Notman papers"
+                },
+                "unitdate": {
+                    "normal": "1849/1914",
+                    "type": "inclusive",
+                    "value": "1849-1914"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "3.72 Linear feet"
+                        },
+                        {
+                            "value": "in two full manuscript boxes, one half manuscript box, and two oversize boxes."
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "John Notman was a lawyer who specialized in contracts of indemnity and negligence law. He was later Commissioner of the State Board of Charities. He lived with his wife and two daughters at at 149 Joralemon Street in the neighborhood of Brooklyn Heights. The John Notman papers span the period 1849 to 1914 and consist of financial records, legal records, and correspondence covering the activities of the State Board of Charities, Notman's personal and business expenses, and the management of the estate of Notman's father, Peter, in which John and his brother, George Notman, were executors. The collection also includes items relating to the merchant firm Howard, Sanger \u0026amp; Co., owned and operated by Samuel E. Howard and Henry Sanger."
+                },
+                "unitid": {
+                    "value": "1978.004"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid671004",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "1978.004 1 of 5"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref6",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref8",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); John Notman papers, 1978.004, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref1",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Mrs. David C. Prince, 1973."
+            }
+        },
+        "bioghist": {
+            "id": "ref4",
+            "head": "Biographical Note",
+            "p": {
+                "value": "When appointed as a Commissioner of the State Board of Charities in 1899, John Notman had already served on the Board's Committee on Orphan Asylums and the Deaf and the Hospital Committee for eight years. He was a member of the Long Island Historical Society (later the Brooklyn Historical Society); the Hamilton, Metropolitan, and Lawyers' Clubs; and the New York State Bar Association."
+            }
+        },
+        "scopecontent": {
+            "id": "ref3",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection has been arranged into three series:"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Charities |z New York (State)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Charities |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Decedents' estates |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Merchants |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Public welfare |z New York (State)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Public welfare |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "New York (State). State Board of Charities."
+            }
+        },
+        "otherfindaid": {
+            "id": "ref7",
+            "head": "Other Finding Aids note"
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref10\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 1: State Board of Charities\u003c/unittitle\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003e0.67 Linear feet\u003c/extent\u003e\n                        \u003cextent\u003ein one oversize box.\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate normal=\"1899/1907\" type=\"inclusive\"\u003e1899-1907\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref13\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003eThis series contains outgoing correspondence of John Notman in his capacity as Commissioner of the State Board of Charities, contained in one large copybook and housed in an oversize box. Correspondence is addressed to Board President William R. Stewart, Secretary Robert W. Hebberd, and several representatives of charitable organizations overseen by the Board. Organizations represented include the Brooklyn Society for the Prevention of Cruelty to Children, Bethesda Sanitarium and Dispensary, Mothers and Babies Hospital, Bay Ridge Hospital Dispensary and Training School for Nurses, Women's Aid Nursery, Skene Hospital for Self-Supporting Women, German Hospital Society of Brooklyn, Jefferson County Orphan Asylum, Woodbine Nursery of Brooklyn, Hebrew Reform Benevolent Society, Harlem Clinic, Cuban Home Training School of New York, Masonic Hospital and Shelter Association of New York City, Convent of the Sisters of Mercy, Sanitary League of Yonkers, and many others. All correspondence is arranged chronologically.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref12\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 2: Personal\u003c/unittitle\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003e2.84 Linear feet\u003c/extent\u003e\n                        \u003cextent\u003ein two full manuscript boxes and two oversize boxes.\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate normal=\"1849/1913\" type=\"inclusive\"\u003e1849-1913\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref15\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003eThis series contains personal records of John Notman, including account books and copy books of correspondence relating to various personal, business, and legal transactions and expenses. Also included are account books, a copy book of correspondence, and the statement of division and distribution relating to John's role as executor of the estate of his deceased father, Peter Notman. Legal documents, correspondence, and financial records of John's brother, George Notman, who also served as executor of his father's estate, are also included, as is one folder of similar personal papers belonging to Peter Notman. One account book and two copy books belonging to John Notman are housed in the oversize boxes.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref11\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 3: Howard, Sanger \u0026amp; Co.\u003c/unittitle\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003e0.21 Linear feet\u003c/extent\u003e\n                        \u003cextent\u003ein two folders.\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate normal=\"1861/1894\" type=\"inclusive\"\u003e1861-1894\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref14\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003eThis series contains stock transaction records, service agreements, contracts, checks, and both incoming and outgoing correspondence of the merchant firm Howard, Sanger \u0026amp; Co., owned and operated by Samuel E. Howard and Henry Sanger and located at 105 Chambers Street in Manhattan. The series also includes Howard and Sanger's wills, and the will of Sanger's daughter, Mary Sanger Lyman. The nature of the connection between John Notman and Howard, Sanger \u0026amp; Co. is not clear, but materials in this series were included in the original donation.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

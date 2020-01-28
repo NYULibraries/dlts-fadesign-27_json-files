@@ -1,0 +1,140 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_610"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the James Zarichny Students for a Democratic Society Papers \u003cnum\u003eTAM.610\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-06-26T16:16:39\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "James Zarichny Students for a Democratic Society Papers"
+                },
+                "unitdate": {
+                    "normal": "1962/1965",
+                    "type": "inclusive",
+                    "value": "circa 1962-1965"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The collection contains some twenty position papers and convention bulletins, most relating to a Students for a Democratic Society, June, 1963 conference in Nyack, New York. "
+                },
+                "unitid": {
+                    "value": "TAM.610"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_58193b6a788e7a081a1be32e696a8358",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_5067fb4de6dc5414ae07a63dd3c914fe",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_8cd18a7e4d3a3fc6ecbde194f133ee0b",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by James Zarichny in 2009."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_53e494343efae9aed0b968aa83a6b0cd",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Students for a Democratic Society, aka SDS, was founded in 1960 and became the most influential student organization of the 1960s \"New Left,\" until its fracturing into various competing sects in 1969. It opposed the Vietham War, supported the African American civil rights movement, academic freedom, and an end to college and university supervision and policing of the private lives and social mores of students."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_86c0d45b64af049f5a6e7128e82abfaa",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection contains some twenty position papers and convention bulletins, most relating to a Students for a Democratic Society, June, 1963 conference in Nyack, New York. Most were written by the emerging leaders of SDS. There are also two 1962 typescripts, written in proparation for that year's SDS convention, including one by Tom Hayden, that was in part a precursor of the famous Port Huron Statement."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "New Left -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Student movements -- United States."
+                }
+            ],
+            "corpname": {
+                "source": "ingest",
+                "value": "Students for a Democratic Society (U.S.)."
+            }
+        },
+        "dsc": {}
+    }
+}

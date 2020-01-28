@@ -1,0 +1,137 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_438"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Gerhart Eisler Scrapbook \u003cnum\u003eTAM 438\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-06-05T15:23:28\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Gerhart Eisler Scrapbook"
+                },
+                "unitdate": {
+                    "normal": "1946/1947",
+                    "type": "inclusive",
+                    "value": "1946-1947"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "TAM 438"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_6ef1e532f24f6f6fa6c3247cdc7623d8",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_de7f77e2f43039e601598da253674505",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_c5bb8a4797642c6fcd31a30ad3f5ba4b",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials found in collection; provenance is unknown. The accession number associated with this collection is 2008.005."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_0d4e54817b352250f2ffea0643afbec4",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Gerhart Eisler (1897-1968) was a prominent communist in Austria, Germany, the United States, and the German Democratic Republic (East Germany). His brother was the leftist composer Hanns Eisler. From 1929 to 1931 he was a liaison between the Communist International and the Communist Parties in China and then from 1933 to 1936 to the United States. Gerhart Eissler was charged in two trials in 1947 first with refusing to testify before the U.S. Congress' House Un-American Activities Committee, then of violating U.S. laws by misrepresenting his Communist Party affiliation on his immigration application. He was sentenced to one and three years in prison, but was released on caution. When his last legal appeal had failed he jumped bail and secretly boarded the Polish liner MS Batory bound for London in May, 1949. Once in England, authorities allowed him to leave for the German Democratic Republic, where Eisler became chief of East German radio."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_70472e18524eb0a8be4fc399dfe3893b",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Gerhart Eisler Scrapbook is a one flat box collection containing pages from a scrapbook kept by Eisler of newspaper clippings. The clippings pertain to radical and leftist figures and organizations, particularly in reference to persecution from HUAC, and span from 1946 to 1947."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Anti-communist movements -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Radicals -- United States."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "United States. Congress. House. |b Committee on Un-American Activities"
+            }
+        },
+        "dsc": {}
+    }
+}

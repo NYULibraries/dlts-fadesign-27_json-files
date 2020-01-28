@@ -1,0 +1,156 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_2006_005_brouard"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Royal W. Brouard papers\n                    \u003cnum\u003e2006.005\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Liz Larson"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "April 2006"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-22T11:51-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Brouard, Royal W."
+                    }
+                },
+                "unittitle": {
+                    "value": "Royal W. Brouard papers"
+                },
+                "unitdate": {
+                    "normal": "1909/1922",
+                    "type": "inclusive",
+                    "value": "1909-1922"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.42 Linear feet"
+                        },
+                        {
+                            "value": "in one manuscript box."
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "This collection consists of material pertaining chiefly to Royal Willis Brouard's U.S. military service during and after World War I. It includes military-issued maps of France, memorabilia, correspondence, photographs, printed documents, and a scrapbook containing newspaper clippings pertaining to the War. The collection also contains Brouard's enlistment and honorable discharge papers."
+                },
+                "unitid": {
+                    "value": "2006.005"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1105003",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "2006.005 1 of 1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref7",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Royal W. Brouard papers, 2006.005, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref5",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Kim Peters, 2006."
+            }
+        },
+        "bioghist": {
+            "id": "ref8",
+            "head": "Biographical Note",
+            "p": {
+                "value": "The 59th Artillery returned home to New York on January 24, 1919, and Brouard returned unwounded on the battleship USS \n                \u003cemph render=\"italic\"\u003eNew Hampshire\u003c/emph\u003e. He remained a member of the National Guard, achieving the rank of 2nd Lieutenant on December 24, 1920. In April of 1921, he resigned and received an honorable discharge from the National Guard."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The collection also contains the complete run of \n                \u003cemph render=\"italic\"\u003eThe Daily Log\u003c/emph\u003e, the onboard daily publication of the USS \n                \u003cemph render=\"italic\"\u003eNew Hampshire\u003c/emph\u003e during its voyage from January 9 to January 23, 1919 from France to New York City. Included with \n                \u003cemph render=\"italic\"\u003eThe Daily Log\u003c/emph\u003e is a postcard bearing a photograph of the \n                \u003cemph render=\"italic\"\u003eNew Hampshire\u003c/emph\u003e addressed to Mrs. R.W. Brouard and dated January 10, 1919. Also included is a scrapbook that primarily contains newspaper clippings from the wartime period. The clippings date from 1915 to 1925, with the bulk dating from 1918."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Soldiers |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "World War, 1914-1918"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "United States. Army. Coast Artillery Regiment, 59th."
+            }
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "ms3054_liberty_loan_committee"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Report of the Advertising Bureau of the Liberty Loan Committee\u003clb/\u003e1918\u003clb/\u003e \u003cnum\u003eBV Liberty Loan Comm\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Larry Weimer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-07-18T13:32:25\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Report of the Advertising Bureau of the Liberty Loan Committee"
+                },
+                "unitdate": {
+                    "normal": "0/0",
+                    "type": "inclusive",
+                    "value": "1918 June 20"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.21 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "one volume in one box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The volume includes a compilation of documents and photographs submitted by James I. Clarke to Guy Emerson as a final report concerning the activites of the Advertising Bureau in connection with the Second Federal Reserve District's Liberty Loan Committee's marketing efforts for the Third Liberty Loan. The compilation begins with a copy of Clarke's resignation letter as Assistant Director of Publicity, followed by the documents forming his final report. The report opens with a 16 page overview written by Clarke, followed by a set of eight 8x10 inch sepia-toned photographs featuring some of the Advertising Bureau's products (e.g., bookmarks, newspaper advertisements) in the hands of, mostly, women posing. The rest of the volume includes a statistical summary of the Third Liberty Loan campaign; Clarke's general thoughts about the publicity and recommendations for the Fourth Liberty Loan campaign; a list of personnel in the Advertising Bureau; detailed reports from each of the Bureau's divisions (Space, Copy, Supply, Direct Advertising, Printing, Art, and Franked Cards), which form the bulk of the volume and include recommendations for the Fourth campaign; recommendations for the Fourth campaign submitted to Clarke by S.N. Shaw, the Assistant to the Advertising Manager; a report of the campaign's activities at the \"Liberty Land\" exhibition; and a complete list of publications and related quantities created for the Third campaign.\u003clb/\u003e\nFor more information and to request this item, see the \u003cextref actuate=\"onRequest\" href=\"http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph006167240\u0026amp;context=L\u0026amp;vid=NYHS\u0026amp;search_scope=nyhs\u0026amp;tab=nyhs\u0026amp;lang=en_US\"\u003ecatalog record\u003c/extref\u003e, or write to  manuscripts@nyhistory.org. \n\n"
+                },
+                "unitid": {
+                    "value": "BV Liberty Loan Comm"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "dsc": {}
+    }
+}

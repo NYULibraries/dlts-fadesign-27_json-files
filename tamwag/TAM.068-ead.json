@@ -1,0 +1,140 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "tam_068"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Glenn Jenkins Papers\n                    \u003cnum\u003eTAM.068\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "11/17/2010"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T17:21-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Jenkins, Glenn"
+                    }
+                },
+                "unittitle": {
+                    "value": "Glenn Jenkins Papers"
+                },
+                "unitdate": {
+                    "normal": "1970/1980",
+                    "type": "inclusive",
+                    "value": "1970-1980"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.0 linear feet"
+                        },
+                        {
+                            "value": "(2 boxes)"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "TAM.068"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid20042001",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1-2"
+                }
+            }
+        ],
+        "bioghist": {
+            "id": "ref4",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Glenn Jenkins was a part-time student, hospital worker and self-described revolutionary living in Wisconsin in the early 1970s."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "PLEASE DIRECT FURTHER INQUIRIES TO: tamiment.wagner@nyu.edu"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Communist parties |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "New Left |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Radicals |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialist parties |z United States."
+                },
+                {
+                    "source": "local",
+                    "value": "Trotskyist parties |z United States."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Workers League (U.S.)."
+            }
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "gadsby"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Papers of Edward N. Gadsby \n                    \u003clb/\u003e\n                    \u003cdate\u003e1956-1973 \u003c/date\u003e\n                    \u003clb/\u003e\n                    \u003cnum\u003eMC 175\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Processed by Processed by: Svetlana Kouzmina"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-02-16T10:49-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Gadsby, Edward N., 1900-1973 "
+                    }
+                },
+                "unittitle": {
+                    "value": "Edward N. Gadsby Papers"
+                },
+                "unitdate": {
+                    "normal": "1956/1973",
+                    "type": "inclusive",
+                    "value": "1956-1973"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "2.5 linear feet"
+                        },
+                        {
+                            "value": "2.5 linear feet ( 5 boxes)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "This collection contains"
+                },
+                "unitid": {
+                    "value": "MC 175"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref6",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open for research without restrictions. This collection is in\n                \u003cextref ns2:href=\"http://www.nyu.edu/library/bobst/research/arch/gadsby.htm\"\u003e\n                    \u003carchref\u003e off-site storage\u003c/archref\u003e \u003c/extref\u003e."
+            }
+        },
+        "prefercite": {
+            "id": "ref10",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: Identification of item, date (if known); Edward N. Gadsby Papers; MC 175; box number; folder number; New York University Archives, New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "ref12",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "\n                \u003clist\u003e\n                    \u003citem\u003eGadsby, Edward, Biographical File, NYU Archives.\u003c/item\u003e\n                \u003c/list\u003e"
+            }
+        },
+        "scopecontent": {
+            "id": "ref14",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The collection contains correspondence, published opinions, clippings, and speeches of Edward N. Gadsby. The collection has been divided into three series: Correspondence, Newspaper Clippings, and Publications. Correspondence includes letters during Gadsby's tenure on the Securities and Exchange Commission (SEC) as well as personal correspondence. Newspaper clippings include articles and excerpts from the \n                \u003ctitle render=\"italic\"\u003eNorth Adams Transcript\u003c/title\u003e during the early 1940s, when Gadsby was particularly active in local and state politics. The Publications Series contains several volumes of opinions authored by Gadsby when he was associated with the Massachusetts Department of Public Utilities, a bound set of his collected speeches as Chair of the SEC, and two editions of the Matthew Bender \n                \u003ctitle render=\"italic\"\u003eBusiness Organizations\u003c/title\u003e series, relating to the Security Exchange Act of 1934, which Gadsby edited and which include his handwritten edits."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Massachusetts. Dept. of Public Utilities"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "United States. Securities and Exchange Commission."
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref20\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries I: Correspondence\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref21\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCongratulatory Letters re: Appointment\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid22478\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid22478\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate\u003eAug 1957-Oct 1957\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref23\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eBarcode #: 3 1142 042266125\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref24\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eReading File\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid22477\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid22477\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate\u003eAug 1957-Dec 1957\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref26\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eBarcode #: 3 1142 042266112 5\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref27\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eReading File\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid22476\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid22476\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate\u003eJan 1958-Jun 1958\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref29\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eBarcode #: 3 1142 042266112 5\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref30\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eReading File\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid22475\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid22475\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate\u003eJun 1958-Dec 1958\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref32\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eBarcode #: 3 1142 042266112 5\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref33\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eReading File\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid22474\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid22474\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate normal=\"1959/1959\"\u003e1959\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref35\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eBarcode #: 3 1142 042266112 5\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref36\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eReading File\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid22473\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid22473\" type=\"Folder\"\u003e6\u003c/container\u003e\n                        \u003cunitdate normal=\"1960/1960\"\u003e1960\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref38\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eBarcode #: 3 1142 042266112 5\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref39\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eWhite House Correspondence\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid22472\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid22472\" type=\"Folder\"\u003e7\u003c/container\u003e\n                        \u003cunitdate normal=\"1957/1961\" type=\"inclusive\"\u003e1957-1961\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref41\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eBarcode #: 3 1142 042266112 5\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref42\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence re: NED's Death\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid22471\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid22471\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"1968/1973\" type=\"inclusive\"\u003e1968-1973\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref44\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eBarcode #: 3 1142 042266113 3\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref45\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries II: Newspaper Clippings\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref46\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eNED - No. Adams Politics - 1940s (1 of 2)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid22470\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid22470\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate normal=\"1956/1973\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref48\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eBarcode #: 3 1142 042266113 3\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref49\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eNED - No. Adams Politics - 1940s (2 of 2)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid22469\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid22469\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate normal=\"1956/1973\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref51\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eBarcode #: 3 1142 042266113 3\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref52\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAmusing Incidents\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid22468\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid22468\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate normal=\"1956/1960\" type=\"inclusive\"\u003e1956-1960\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref54\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eBarcode #: 3 1142 042266113 3\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref55\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eBoston College Article \"The Securities Exchange Commission\"\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid22467\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid22467\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate\u003eMay 1970\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref57\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eBarcode #: 3 1142 042266113 3\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref58\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eNew York Law School Article\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid22466\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid22466\" type=\"Folder\"\u003e6\u003c/container\u003e\n                        \u003cunitdate normal=\"1971/1972\" type=\"inclusive\"\u003e1971-1972\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref60\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eBarcode #: 3 1142 042266113 3\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref61\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries III: Publications\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref62\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSpeeches of Edward N. Gadsby\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid22465\" type=\"Box\" label=\"Mixed materials\"\u003e3\u003c/container\u003e\n                        \u003ccontainer parent=\"cid22465\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate\u003eSep 1957-Dec 1960\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref64\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eBarcode #: 3 1142 042266114 1\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref65\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eBusiness Organizations: Federal Securities Exchange Act 1934, by Edward N. Gadsby\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid22464\" type=\"Box\" label=\"Mixed materials\"\u003e3\u003c/container\u003e\n                        \u003ccontainer parent=\"cid22464\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate normal=\"1967/1967\"\u003e1967\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref67\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eBarcode #: 3 1142 042266114 1\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref68\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eBusiness Organizations: Federal Securities Exchange Act 1934, Cumulative Supplement, by Edward N. Gadsby\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid22463\" type=\"Box\" label=\"Mixed materials\"\u003e3\u003c/container\u003e\n                        \u003ccontainer parent=\"cid22463\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate normal=\"1968/1968\"\u003e1968\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref70\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eBarcode #: 3 1142 042266114 1\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref71\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eGadsby Opinions, Vol. I, pp. 1-167\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid22462\" type=\"Box\" label=\"Mixed materials\"\u003e4\u003c/container\u003e\n                        \u003ccontainer parent=\"cid22462\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"1956/1973\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref73\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eBarcode #: 3 1142 042266115 8\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref74\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eGadsby Opinions, Vol. II, pp. 168-412\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid22461\" type=\"Box\" label=\"Mixed materials\"\u003e4\u003c/container\u003e\n                        \u003ccontainer parent=\"cid22461\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate normal=\"1956/1973\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref76\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eBarcode #: 3 1142 042266115 8\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref77\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eGadsby Opinions, Vol. III, pp. 413-613\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid22460\" type=\"Box\" label=\"Mixed materials\"\u003e4\u003c/container\u003e\n                        \u003ccontainer parent=\"cid22460\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate normal=\"1956/1973\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref79\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eBarcode #: 3 1142 042266115 8\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref80\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eGadsby Opinions, Vol. IV, pp. 614-764b\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid22459\" type=\"Box\" label=\"Mixed materials\"\u003e4\u003c/container\u003e\n                        \u003ccontainer parent=\"cid22459\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate normal=\"1956/1973\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref82\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eBarcode #: 3 1142 042266115 8\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref83\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eGadsby Opinions, Vol. V, pp. 765-903\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid22458\" type=\"Box\" label=\"Mixed materials\"\u003e5\u003c/container\u003e\n                        \u003ccontainer parent=\"cid22458\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"1956/1973\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref85\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eBarcode #: 3 1142 042266116 6\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref86\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eGadsby Opinions, Vol. VI, pp. 904-1049\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid22457\" type=\"Box\" label=\"Mixed materials\"\u003e5\u003c/container\u003e\n                        \u003ccontainer parent=\"cid22457\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate normal=\"1956/1973\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref88\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eBarcode #: 3 1142 042266116 6\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref89\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eGadsby Opinions, Vol. VII, pp. 1050-1272\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid22456\" type=\"Box\" label=\"Mixed materials\"\u003e5\u003c/container\u003e\n                        \u003ccontainer parent=\"cid22456\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate normal=\"1956/1973\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref91\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eBarcode #: 3 1142 042266116 6\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref92\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eGadsby Opinions, Vol. VIII, pp. 1273-1504\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid22455\" type=\"Box\" label=\"Mixed materials\"\u003e5\u003c/container\u003e\n                        \u003ccontainer parent=\"cid22455\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate normal=\"1956/1973\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref94\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eBarcode #: 3 1142 042266116 6\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

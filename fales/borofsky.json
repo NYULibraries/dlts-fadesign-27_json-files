@@ -1,0 +1,154 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-F",
+            "value": "borofsky"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Scot Borofsky Papers, \u003clb/\u003e 1982-2007\u003clb/\u003e \u003cnum\u003eMSS.346\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Laura Newsome, 2012."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Fales Library and Special Collections"
+                },
+                "address": {
+                    "addressline": [
+                        "Fales Library and Special Collections",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "3rd Floor",
+                        "New York, NY 10012",
+                        "Phone: (212) 998-2596",
+                        "fales.library@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-05-19T18:47:27\u003c/date\u003e"
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Fales Library and Special Collections"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Borofsky, Scot, b. 1957"
+                    }
+                },
+                "unittitle": {
+                    "value": "Scot Borofsky Papers"
+                },
+                "unitdate": {
+                    "normal": "1982/2007",
+                    "type": "inclusive",
+                    "value": "1982-2007"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Scot Borofsky is a grafitti, studio, and commercial artist. This small collection documents his career in New York City and other places his artwork has been shown."
+                },
+                "unitid": {
+                    "value": "MSS.346"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_41a6cd9ad0a004e847c8b27bda8d3227",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_0338ab772585644909ea5bac4f319907",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the\nfollowing form:\u003clb/\u003e\u003clb/\u003e\nIdentification of item,  date (if known); Scot Borofsky Papers; MSS 346; box number; folder number; Fales Library and Special Collections, New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_51f96cb7008f95ae89625addfdbd41f6",
+            "head": "Biographical Note",
+            "p": {
+                "value": " - Coolgrove.com, Undated. Retreived from \u003cextref href=\"http://www.coolgrove.com/high_andes.html\"\u003e\u003c/extref\u003e"
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_ff3ae787a0518bfe75be500f471162f8",
+            "head": "Scope and Content",
+            "p": {
+                "value": "This collection contains papers that document Scot Borofsky's career as a graffiti and studio artist. It includes catalogs, programs, and promotion cards from exhibits, articles about Borofsky's art, and a video cassette of a movie in which Borofsky's art is featured."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Painters |y United States"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Graffiti artists"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Street art |z New York (state) |z New York |y 20th century"
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref1\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: Catalogs\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref4\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Scot Borofsky: Thoughtwork\" - Mokotoff Gallery catalog\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1987\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4ec610b6a15054eb3c6199a168aa2a89\" label=\"Mixed Materials (31142063601564)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_4ec610b6a15054eb3c6199a168aa2a89\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref5\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Scot Borofsky: Paintings\" - Mokotoff Gallery catalog\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1988\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a1c73be9681effea5f685666edec3deb\" label=\"Mixed Materials (31142063601564)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_a1c73be9681effea5f685666edec3deb\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref6\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Studio in the Street; Street in the Studio\" - Battleboro Museum and Arts Center catalog\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e2007\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a80f2a409f09a496824f9ebc00ce214d\" label=\"Mixed Materials (31142063601564)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_a80f2a409f09a496824f9ebc00ce214d\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref2\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries II: Portfolio\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref7\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBinding design and business card\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eUndated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ec8e70c23da1be30514790afdd88cdf9\" label=\"Mixed Materials (31142063601564)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ec8e70c23da1be30514790afdd88cdf9\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref8\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMap of Alphabet City and Pattern Walk\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1984\u003c/unitdate\u003e\u003ccontainer id=\"aspace_036446caa763351da52c6de9d08d305c\" label=\"Mixed Materials (31142063601564)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_036446caa763351da52c6de9d08d305c\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref9\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePhotos and catalogs from \"Seven from the Street in their Studios\"\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eUndated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_efc2c6612fe9c9fd15388daafae45253\" label=\"Mixed Materials (31142063601564)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_efc2c6612fe9c9fd15388daafae45253\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref10\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Scot Borofsky: Thoughtwork\" exhibit card\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eUndated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4ee44a094c5d1f9bb6059b688667ced2\" label=\"Mixed Materials (31142063601564)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_4ee44a094c5d1f9bb6059b688667ced2\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref11\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Lower East Side Polygon: Street in the Cellar\" at Danceteria - exhibit card\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eUndated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d55eb26c031d67a885034832b332c25a\" label=\"Mixed Materials (31142063601564)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d55eb26c031d67a885034832b332c25a\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref12\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Blast\" zine - January and February\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1987\u003c/unitdate\u003e\u003ccontainer id=\"aspace_82dd130f6d586c36febfa1104bb961d0\" label=\"Mixed Materials (31142063601564)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_82dd130f6d586c36febfa1104bb961d0\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref13\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTropical Rain Forest: Benefit Exhibit for Green Ink, Inc.\" poster\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eUndated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f6376c3dfe3f10c88ff8ce1721c8a063\" label=\"Mixed Materials (31142063601564)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f6376c3dfe3f10c88ff8ce1721c8a063\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePicture and article about Borofsky in the Village Voice\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1983\u003c/unitdate\u003e\u003ccontainer id=\"aspace_54cf5a7a788e922c9bbf585c969331a8\" label=\"Mixed Materials (31142063601564)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_54cf5a7a788e922c9bbf585c969331a8\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eContemporary Primitive - show at ABC No Rio - exhibit cards and East Village Eye article\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1986\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ee2ea702a10e3eb2cf1f2ed84dceb9b8\" label=\"Mixed Materials (31142063601564)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ee2ea702a10e3eb2cf1f2ed84dceb9b8\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePhotographs from unidentified group exhibit\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eUndated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_094b8481b29cba695dfa13741c559571\" label=\"Mixed Materials (31142063601564)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_094b8481b29cba695dfa13741c559571\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eManhattan Tenochtitlan - exhibit program\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eUndated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b32868819b33e47c70cbd26225d141e2\" label=\"Mixed Materials (31142063601564)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b32868819b33e47c70cbd26225d141e2\" type=\"Folder\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Illuminations: The Art of Our Future\" group exhibit at Palladium - program\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eUndated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c64b4367f11011a285aded7a7df6c70f\" label=\"Mixed Materials (31142063601564)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_c64b4367f11011a285aded7a7df6c70f\" type=\"Folder\"\u003e15\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"New, Used and Improved: Art for the 80's\" invitation\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1987\u003c/unitdate\u003e\u003ccontainer id=\"aspace_83c84147e4eccba2373805b78539475b\" label=\"Mixed Materials (31142063601564)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_83c84147e4eccba2373805b78539475b\" type=\"Folder\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Exhibition - Scot Borofsky: Collage Cityscape - Oil Landscape\" flyer\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eUndated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ea14deaba844b8535ddbfda2e7e7f21d\" label=\"Mixed Materials (31142063601564)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ea14deaba844b8535ddbfda2e7e7f21d\" type=\"Folder\"\u003e17\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Blast\" zine - September\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1986\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e07ad8d6a4148df92c8ea8c974a851f5\" label=\"Mixed Materials (31142063601564)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e07ad8d6a4148df92c8ea8c974a851f5\" type=\"Folder\"\u003e18\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBridge Between Hispanic and American Art - exhibit card\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1989\u003c/unitdate\u003e\u003ccontainer id=\"aspace_6210df3365877c474172562d192d68fd\" label=\"Mixed Materials (31142063601564)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_6210df3365877c474172562d192d68fd\" type=\"Folder\"\u003e19\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Land of 1000 Galleries\" exhibit card\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1999\u003c/unitdate\u003e\u003ccontainer id=\"aspace_74c8db6b2419b6238e3f5bf25904b00d\" label=\"Mixed Materials (31142063601564)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_74c8db6b2419b6238e3f5bf25904b00d\" type=\"Folder\"\u003e20\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Young American Painters: Barry Stevens\" exhibit card\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eUndated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_245ed1406ee8b584b5a65f700494a94b\" label=\"Mixed Materials (31142063601564)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_245ed1406ee8b584b5a65f700494a94b\" type=\"Folder\"\u003e21\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Scot Borofsky: Collage Painting\" at Seventeenth Street Gallery - exhibit card\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eUndated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e675d360a94c7d7d3d4dfca813148218\" label=\"Mixed Materials (31142063601564)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e675d360a94c7d7d3d4dfca813148218\" type=\"Folder\"\u003e22\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref26\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eREDTAPE Benefit - exhibit card\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1987\u003c/unitdate\u003e\u003ccontainer id=\"aspace_920386e621cc08b8555297f601d112b8\" label=\"Mixed Materials (31142063601564)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_920386e621cc08b8555297f601d112b8\" type=\"Folder\"\u003e23\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Scot Borofsky at Life Cafe\" cards\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1984\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5655bfd26d53c73d6b494170f2987a72\" label=\"Mixed Materials (31142063601564)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5655bfd26d53c73d6b494170f2987a72\" type=\"Folder\"\u003e24\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref28\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Pintores de Nueva York\" exhibit in Mexico - card\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1988\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9094140e9b0023ff6631983afd23058f\" label=\"Mixed Materials (31142063601564)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_9094140e9b0023ff6631983afd23058f\" type=\"Folder\"\u003e25\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref29\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePyramid Gallery group show - exhibit card\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1990\u003c/unitdate\u003e\u003ccontainer id=\"aspace_fd4e7b5f070db7cf5796531e05627df3\" label=\"Mixed Materials (31142063601564)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_fd4e7b5f070db7cf5796531e05627df3\" type=\"Folder\"\u003e26\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref30\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBig Deal(s) - group exhibit card\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1984\u003c/unitdate\u003e\u003ccontainer id=\"aspace_918e275003e822bf28dd1e24b727881e\" label=\"Mixed Materials (31142063601564)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_918e275003e822bf28dd1e24b727881e\" type=\"Folder\"\u003e27\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref31\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"The New Generation\" exhibit card\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eUndated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_43ade4efa888b0034109c4c45c3ca6b1\" label=\"Mixed Materials (31142063601564)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_43ade4efa888b0034109c4c45c3ca6b1\" type=\"Folder\"\u003e28\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref32\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMask and Figures - group exhibit card\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eUndated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_6bcfa3d6b1b025f378fb583742cb1515\" label=\"Mixed Materials (31142063601564)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_6bcfa3d6b1b025f378fb583742cb1515\" type=\"Folder\"\u003e29\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref33\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Scot Borofsky\" exhibit card\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eUndated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_144d17a8564cfd8cbfeadf331bb76065\" label=\"Mixed Materials (31142063601564)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_144d17a8564cfd8cbfeadf331bb76065\" type=\"Folder\"\u003e30\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref34\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Beyond Boundaries: A World Mosaic\" exhibit card\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1990\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2f51c5f0955ec31443c2e9f4fe7d8c58\" label=\"Mixed Materials (31142063601564)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2f51c5f0955ec31443c2e9f4fe7d8c58\" type=\"Folder\"\u003e31\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref35\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Scot Borofsky: Collage Construction\" at Life Cafe - exhibit card\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1983\u003c/unitdate\u003e\u003ccontainer id=\"aspace_fa800a0147c57b70b2fd71977bca400c\" label=\"Mixed Materials (31142063601564)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_fa800a0147c57b70b2fd71977bca400c\" type=\"Folder\"\u003e32\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref36\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Scot Borofsky: Recent Paintings and Sculpture\" at Mokotoff Gallery - card\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1986\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2616e168e853e37f78088c04ae0b153b\" label=\"Mixed Materials (31142063601564)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2616e168e853e37f78088c04ae0b153b\" type=\"Folder\"\u003e33\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref37\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Garbaggio\" exhibit card\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1985\u003c/unitdate\u003e\u003ccontainer id=\"aspace_87358bbaaacb29f29a26e67fcf7ada0c\" label=\"Mixed Materials (31142063601564)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_87358bbaaacb29f29a26e67fcf7ada0c\" type=\"Folder\"\u003e34\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref38\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"One Man Show of Paintings by Scot Borofsky\" program\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1986\u003c/unitdate\u003e\u003ccontainer id=\"aspace_3e22590cb8937c9d6a6cae6a87674d7b\" label=\"Mixed Materials (31142063601564)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_3e22590cb8937c9d6a6cae6a87674d7b\" type=\"Folder\"\u003e35\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref39\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"5 Windham County Artists\" program\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1982\u003c/unitdate\u003e\u003ccontainer id=\"aspace_88c608d893b95ca93c8ad29e9ff1499a\" label=\"Mixed Materials (31142063601564)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_88c608d893b95ca93c8ad29e9ff1499a\" type=\"Folder\"\u003e36\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref40\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Leisure Weekly\" with Borofsky drawing on front page\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1991\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f33b91ff45ae2cbb504918bc24ccb601\" label=\"Mixed Materials (31142063601564)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f33b91ff45ae2cbb504918bc24ccb601\" type=\"Folder\"\u003e37\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref41\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Scot Borofsky's 911 Series\" exhibit card\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e2004\u003c/unitdate\u003e\u003ccontainer id=\"aspace_cc416e3d683574381a3416ecb3554c4d\" label=\"Mixed Materials (31142063601564)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_cc416e3d683574381a3416ecb3554c4d\" type=\"Folder\"\u003e38\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref42\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"New Paintings by Scot Borofsky\" exhibit card\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eUndated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b397ce3ba8153ff6ea195c4c5f580906\" label=\"Mixed Materials (31142063601564)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b397ce3ba8153ff6ea195c4c5f580906\" type=\"Folder\"\u003e39\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref3\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries III: Media\u003c/unittitle\u003e\u003c/did\u003e\u003caccessrestrict id=\"aspace_9d877118140d7845e6ecc0d921249a7d\"\u003e\u003chead\u003eConditions Governing Access\u003c/head\u003e\u003cp\u003eAudiovisual materials have not been preserved and may not be available to researchers.\u003c/p\u003e\u003c/accessrestrict\u003e\u003cc id=\"aspace_ref49\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Mixed Blood\"\u003c/unittitle\u003e\u003cunitid\u003eID: 346.0001\u003c/unitid\u003e\u003cunitdate normal=\"1985/1985\" type=\"inclusive\"\u003e1985\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1e9b648a8c2edf694e607ad1ee2cba13\" label=\"Audio (31142063601564)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1e9b648a8c2edf694e607ad1ee2cba13\" type=\"Media\"\u003eID: 346.0001\u003c/container\u003e\u003c/did\u003e\u003caccessrestrict id=\"aspace_04e627aa96479b94bcf029ea6195ff14\"\u003e\u003chead\u003eConditions Governing Access\u003c/head\u003e\u003cp\u003eCurrently unavailable until duplication occurs.\u003c/p\u003e\u003c/accessrestrict\u003e\u003cphystech id=\"aspace_f1dd17569bb69221f9af2c1bdda72aec\"\u003e\u003chead\u003ePhysical Characteristics and Technical Requirements\u003c/head\u003e\u003cp\u003eOriginal format: VHS\nDuration: 98 minutes\nDirector: Paul Morrisey\u003c/p\u003e\u003c/phystech\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

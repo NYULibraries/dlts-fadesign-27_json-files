@@ -1,0 +1,152 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1986_031_lutheran_moravian"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Lutheran and Moravian churches of Brooklyn collection\n                    \u003cnum\u003e1986.031\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Weatherly Stephan"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "November 18, 2010"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-21T14:23-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Lutheran and Moravian churches of Brooklyn collection"
+                },
+                "unitdate": {
+                    "normal": "1881/1973",
+                    "type": "inclusive",
+                    "value": "1881-1973"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.21 Linear feet"
+                        },
+                        {
+                            "value": "in one half manuscript box."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "1986.031"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid512003",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "1986.031 1 of 1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref2",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref5",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Lutheran and Moravian churches of Brooklyn collection, 1986.031, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Source and date of the accession are unknown. This collection was formally accessioned in 1986."
+            }
+        },
+        "bioghist": {
+            "id": "ref6",
+            "head": "Historical note",
+            "p": {
+                "value": "Moravians are a Protestant denomination which originated from the Moravian region in what is now the Czech Republic. The first Moravian church in the area of present-day New York City was dedicated in 1763. By the 1990s, New York City had 10 Moravian churches, two of which were located in Brooklyn."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Lutheran and Moravian churches of Brooklyn collection dates from 1881 to 1973 and measures 0.21 linear feet. The following churches are represented in the collection: Advent Lutheran Church, Lutheran Church of the Redeemer, St. Stephen's Evangelical Lutheran Church, and Moravian Church of Brooklyn. Document types in the collection include newsletters and periodicals, church service programs, and printed ephemera."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Lutherans |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Moravians |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Protestants |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "St. Stephen's Lutheran Church (Brooklyn, New York, N.Y.)."
+            }
+        },
+        "dsc": {}
+    }
+}

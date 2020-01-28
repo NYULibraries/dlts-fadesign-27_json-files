@@ -1,0 +1,204 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1985_113_church_charity_foundation"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Church Charity Foundation of Long Island publications\n                    \u003cnum\u003e1985.113\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "November 17, 2010"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-21T11:46-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Church Charity Foundation of Long Island publications"
+                },
+                "unitdate": {
+                    "normal": "1884/1951",
+                    "type": "inclusive",
+                    "value": "1884-1951"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.25 Linear feet"
+                        },
+                        {
+                            "value": "in three manuscript boxes."
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The Church Charity Foundation of Long Island was founded in 1851 and was a charitable organization collectively supported by Episcopal churches in Brooklyn. Its first building opened in 1860, and in the ensuing decades the Foundation grew into a sprawling complex of shelters and medical facilities. The Church Charity Foundation of Long Island publications span the period 1884 to 1951 and are mostly comprised of the Foundation's annual reports for the period 1884 to 1944. Additional materials include newsletters and promotional publications."
+                },
+                "unitid": {
+                    "value": "1985.113"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid524001",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "1985.113 3 of 3"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref3",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref5",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Church Charity Foundation of Long Island publications, 1985.113, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref4",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Source and date of acquisition unknown. Formally accessioned in 1985."
+            }
+        },
+        "bioghist": {
+            "id": "ref2",
+            "head": "Historical Note",
+            "p": {
+                "value": "The Church Charity Foundation of Long Island was founded in 1851 and was a charitable organization collectively supported by Episcopal churches in Brooklyn. In its first few years of existence, the Foundation operated from two houses on Carlton Avenue, which served as shelters for orphans and the elderly. In 1856, the Foundation purchased 25 lots at Albany Avenue and Herkimer Street in the Brooklyn neighborhood of Bedford-Stuyvesant, on which its first building was opened in 1860 as the Home for Aged and Orphans. In the ensuing decades, the Foundation expanded its services to include a medical center called St. John's Hospital, a school for nurses, and a home for the blind, which were housed at various locations to accommodate growing numbers of people in need. By the 1930s, the majority of the Foundation's services were housed at its property on Albany Avenue and Herkimer Street, which had grown into a complex of shelters and medical facilities. The exception was the Foundation's orphanage, which had moved to Sayville, Long Island in 1926 and became known as the Children's Cottages. The Foundation's complex at Albany and Herkimer Streets later became the Interfaith Medical Center, which continues to operate at the site as of 2010."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection also includes items specific to St. John's Hospital, including copies of the Hospital's newsletter, \n                \u003cemph render=\"italic\"\u003eThe Hearts-Ease\u003c/emph\u003e, dating from 1885 to 1887; an annual report of the Hospital from the year 1946; and various pamphlets containing summary information on the Hospital. There are also materials on the St. John's Hospital School of Nursing, including a yearbook from 1951, and several general prospectuses containing information on the School's administration and curriculum."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Blind |x Institutional care |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Blind |x Services for |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Charities, Medical |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Church charities |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Church charities |z New York (State) |z Kings County |x History"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Episcopalians |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Hospitals |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Nursing schools |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Old age homes |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Older people |x Services for |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Orphanages |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Orphanages |z New York (State) |z Long Island"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Orphans |x Services for |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Orphans |x Services for |z New York (State) |z Long Island"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Religious institutions |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "St. John's Hospital (Brooklyn, New York, N.Y.)."
+            }
+        },
+        "dsc": {}
+    }
+}

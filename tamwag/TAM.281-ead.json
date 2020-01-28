@@ -1,0 +1,121 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "tam_281"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Women's Funding Coalition (New York, N.Y.) Records\n                    \u003cnum\u003eTAM.281\u003c/num\u003e\n                "
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "11/19/2010"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T19:16-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Women's Funding Coalition (New York, N.Y.) Records"
+                },
+                "unitdate": {
+                    "normal": "1982/1987",
+                    "type": "inclusive",
+                    "value": "1982-1987"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.75 linear feet"
+                        },
+                        {
+                            "value": "(2 boxes)"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "TAM.281"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid20056001",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1-2"
+                }
+            }
+        ],
+        "bioghist": {
+            "id": "ref5",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "The Women's Funding Coalition (WFC), envisioned as a \"United Way\" to fund women's organizations through payroll deductions, and representing over thirty community and women's organizations in New York City, was established in 1981, and appears to have been in existence throughout the 1980s. The task of identifying likely employers that would participate in this scheme appears to have occupied the bulk of the WFC's energies, although a few projects were undertaken, including one apparently not represented in this collection, Project Open Doors (funded by New York's Department of Employment), through which hundreds of low-income women were placed in apprenticeship positions with the participating organizations which included women's shelters, health clinics, rape crisis centers, and other community agencies. The donor of these records, Connie Kopelov (b. 1926), represented the Coalition of Labor Union Women on the board of the WFC."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "This small unprocessed collection contains minutes, planning documents, reports, and by-laws; correspondence with other women's organizations, including the National Network of Women's Funds, and with various charities and government agencies; and printed ephemera, including fliers and circulars announcing WFC activities and events. There is a file relating to a Walkathon, and another relating to an \"Innovators for Women$hare\" benefit. About half of the materials were originally unfoldered, and are now in four \"Records, Miscellaneous\" folders."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Charities |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Feminism |z New York (State) |z New York."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Women's Funding Coalition (New York, N.Y.)."
+            }
+        },
+        "dsc": {}
+    }
+}

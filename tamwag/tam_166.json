@@ -1,0 +1,138 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_166"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Howard \"Stretch\" Johnson Papers \u003cnum\u003eTAM 166\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Maggie Schreiner"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-04-25T19:38:58\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Howard \"Stretch\" Johnson Papers"
+                },
+                "unitdate": {
+                    "normal": "1946/1993",
+                    "type": "inclusive",
+                    "value": "1946-1993"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "2 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 2 boxes"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Howard \"Stretch\" Johnson (1915-2000) was a tap dancer and social activist. This collection includes biographical clippings, correspondence and materials from the African-American Lecture Series."
+                },
+                "unitid": {
+                    "value": "TAM 166"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_c682f438641b651b13d6541464e46bbb",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_22cce6efcebceb69e89a8aa9615f1867",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Howard \"Stretch\" Johnson Papers; TAM 166; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_7d5cd927aa9b93ab1688b7d0e2ff6672",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Howard \"Stretch\" Johnson in 1993. The accession number associated with this gift is 1993.016."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_a3f093dc289de94d24d5a7137682f348",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Howard \"Stretch\" Johnson (1915-2000) was a tap dancer and social activist. Johnson danced with the Duke Ellington Orchestra at the Cotton Club and the Apollo Theater. A member of the NAACP, the Young Communist League and the Communist Party, through which he worked in the civil rights movement and fought against McCarthyism. Johnson later became a printer at the New York Times and taught at the Fieldston School and the State University of New York at New Paltz."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_2a7691c3348578da54ad71176b3ef16a",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "This unprocessed collection includes biographical clippings, correspondence and materials from the African-American Lecture Series."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "African American communists."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Jazz |x History"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

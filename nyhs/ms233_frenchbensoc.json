@@ -1,0 +1,149 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "ms233_frenchbensoc"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the French Benevolent Society Records\u003clb/\u003e1873-1976\u003clb/\u003e \u003cnum\u003eMS 233\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Aki Snyder"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-06-28T13:47:50\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "French Benevolent Society records"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "1873-1976"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "2.5 Linear feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in two document boxes and nine standing volumes"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The French Benevolent Society records contain an array of fiscal reports, administrative minutes, deeds, insurance policies, correspondence, and record books that predominately relate to the French Hospital, however some documents focus on the Society."
+                },
+                "unitid": {
+                    "value": "MS 233"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "mul"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_df5e6adf36f233aff576879b1cfc6eda",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open to qualified researchers."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_22a9fbf34f6ed07f6d5413697ad6d52e",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "The collection should be cited as: French Benevolent Society records, MS 233, New-York Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_fbc29916e16dd582c4a7d08c0f11088f",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Gift of Eugene Blanc and Ruth Granet, 1977."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_6f8d671866c8919dd1dda7f1cf286dfc",
+            "head": "Biographical / Historical",
+            "p": {
+                "value": "The Society founded the French Hospital in 1881. The hospital was originally located at 131 East 14th Street in New York City, but later moved to 330 West 30th Street. The hospital housed 255 beds and employed 850 people. The hospital closed in 1977 due to financial problems."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_9c7f3e0da8cd4ff25843c86738af9876",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The second box contains a volume titled \"Reservistes Livre No.1.\" This volume appears to be a financial ledger, however, it is mostly written in French and therefore solidly establishing its true purpose has been difficult. A basic format was noted within this volume where each page states the name of an individual or family, a short biography of the person(s) is provided at the top, and the rest of the page is filled with dates and payments. "
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Cemeteries"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Emigration and immigration"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "New York (N.Y.) "
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "French Hospital (New York, N.Y.)"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_c054abaf714f8bf1ec40ffb5d61ed7c7\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMinutes of Meetings of the Board of Administration of the French Benevolent Society\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1873 March-1880 June \u003c/unitdate\u003e\u003clangmaterial id=\"aspace_b2846dade37ad25c4a0cdd776f12b52f\"\u003eThis volume of minutes is handwritten in French.\u003c/langmaterial\u003e\u003ccontainer id=\"aspace_b083a16558228075f8492c0814b65ea1\" label=\"Text\" type=\"Volume\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_902aac88249556d74143a02598dfdf82\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMinutes of Meetings of the Board of Administration of the French Benevolent Society\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1880 October-1883 October \u003c/unitdate\u003e\u003clangmaterial id=\"aspace_4653e869280a1e2209af4ffd004729ae\"\u003eThis volume of minutes is handwritten in French.\u003c/langmaterial\u003e\u003ccontainer id=\"aspace_058578ef0f45d176bf5b0aee67f46ce5\" label=\"Text\" type=\"Volume\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_205afb730e336e259d615ae5201ff031\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMinutes of Meetings of the Board of Administration of the French Benevolent Society\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1893 November-1902 June\u003c/unitdate\u003e\u003clangmaterial id=\"aspace_4811b7e484d8bd8d9a7aa2ab8586710d\"\u003eThis volume of minutes is handwritten in French.\u003c/langmaterial\u003e\u003ccontainer id=\"aspace_07488ef092291871bfc8c3feb194c682\" label=\"Text\" type=\"Volume\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_178a23e7dd2388269a03399ae965b771\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMinutes of Meetings of the Board of Administration of the French Benevolent Society\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1902 July-1914 October \u003c/unitdate\u003e\u003clangmaterial id=\"aspace_95b093dfcb106109599c6baf8d134655\"\u003eThis volume of minutes is handwritten in French.\u003c/langmaterial\u003e\u003ccontainer id=\"aspace_242e390735fad4b3e0e5e285c1cfcb5b\" label=\"Text\" type=\"Volume\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_9f3f8d775f3f6a113ddb90b6e5d2e200\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMinutes of Meetings of the Board of Administration of the French Benevolent Society\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1914 November-1923 October \u003c/unitdate\u003e\u003clangmaterial id=\"aspace_5fb6d332bbfc7795fe3352b86bde8f71\"\u003eThis volume is handwritten in French.\u003c/langmaterial\u003e\u003ccontainer id=\"aspace_fbba95e74ed8be05f7fd847103fa21df\" label=\"Text\" type=\"Volume\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_4bd41b9714ea6ea5740bdcd8f4125abf\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMinutes of Meetings of the Board of Administration of the French Benevolent Society\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1923 October-1932 September \u003c/unitdate\u003e\u003clangmaterial id=\"aspace_e01142d6e36bdced76dc5bda8e25fe36\"\u003eThis volume is typed in French.\u003c/langmaterial\u003e\u003ccontainer id=\"aspace_16efcfbd98c51cbef231d38d5ebb0023\" label=\"Text\" type=\"Volume\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_e315be26cec01b6760e4aeacfe0e66d6\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMinutes of Meetings of the Board of Administration of the French Benevolent Society\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1932 October-1937 December\u003c/unitdate\u003e\u003clangmaterial id=\"aspace_a2cb28ccb9bde28ad60d529eadb0dfd8\"\u003eThis volume is typed in English.\u003c/langmaterial\u003e\u003ccontainer id=\"aspace_356d9d94c577bc042430c743850e2f58\" label=\"Text\" type=\"Volume\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_7b2b4e200f4ce02ef62c856b3bbaa439\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMinutes of Meetings of the Board of Administration of the French Benevolent Society\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1938 January-1945 December \u003c/unitdate\u003e\u003clangmaterial id=\"aspace_8c437d2c490cde0d95ad871e7befddde\"\u003eThis volume is typed in English.\u003c/langmaterial\u003e\u003ccontainer id=\"aspace_8f8a8a9b2da9cb1c20272feff8afc6f4\" label=\"Text\" type=\"Volume\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_93ff3f98502603b3369343c881e4b080\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMinutes of Meetings of the Board of Administration of the French Benevolent Society\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1946 January-1953 December \u003c/unitdate\u003e\u003clangmaterial id=\"aspace_cb116acea1c0f66939d6aaca2c64b77b\"\u003eThis volume is typed in English.\u003c/langmaterial\u003e\u003ccontainer id=\"aspace_92329a53f6b0b2687dbbe77d3e8f890b\" label=\"Text\" type=\"Volume\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_91e8fb85395c15528bfc0b1b4a29428a\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eWarranty Deeds\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1926\u003c/unitdate\u003e\u003ccontainer id=\"aspace_10dd4ca63b7434fb87ab0845fde21f38\" label=\"Text\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_10dd4ca63b7434fb87ab0845fde21f38\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_6525aa50e1c2a821916981647034cad3\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThe following deeds to the French Benevolent Society can be found in this folder: Mary Wood, Adolph and Rose Goldner, Harry and Ada Hirschfield, Ethol Realty Company Inc, Anna Binsky, Bella Bellucci, Camillo and Orsola Gilardino, and Joseph R. and Helen L. Potter.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_9405f16a767bf9355f9b7f1e543a38a1\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDeeds for Hospital Property (2 Folders)\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1904-1961\u003c/unitdate\u003e\u003ccontainer id=\"aspace_10d92a0a2101e6dad77bdd95dbc96834\" label=\"Text\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_10d92a0a2101e6dad77bdd95dbc96834\" type=\"Folder\"\u003e2a-b\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_fdd32e434f4be23d9b7a6ee98a89f53e\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThe following materials can be found in folder a: survey maps of hospital property, French Benevolent Society (FBS) correspondence, receipt of funds notice from FBS to Bank, and legal correspondence with Delafield Marsh Porter and Hope. \u003clb/\u003e \u003clb/\u003e The following documents can be found in folder b: Emigrant Industrial Savings Bank Extension and Modification of Mortgages #16741, Contract of Sale between Hazkate Holding Corporation and French Benevolent Society, Warranty Deed from Albert Brown, Harry Brown, and Anna Brown, and Deed from Evelyn Mandeville, Caroline Mandeville Marks, and Henrietta Eliza Mandeville.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_10484e1bcdc3501a3fa45dab69f8e70f\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDeeds for Graves. Flushing Cemetery\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1941, 1957\u003c/unitdate\u003e\u003ccontainer id=\"aspace_44445e552ef7c35e2c66548f8bb83e16\" label=\"Text\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_44445e552ef7c35e2c66548f8bb83e16\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_6b5a2da897e54f723b148c9ec5e5cf26\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThis folder contains several certificates from Flushing Cemetery Association and Kenisco Cemetery to the French Benevolent Society regarding received payment of $65 for graves.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_570440a87dcea65d994e46d7f82a721a\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e Woodlawn Cemetery Supporting Papers\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1931-1937\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7b5a755d99d4c16cfa2d4b2b9dc16487\" label=\"Text\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_7b5a755d99d4c16cfa2d4b2b9dc16487\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_54baf1323141d516881a03f279c61f2d\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThe documents in this folder relate to Mrs. Louise Vizet, her grave/mausoleum allotment (#16899), and deed (#2963) at Woodlawn Cemetery. Documents include: a deed from Vizet to Woodlawn Cemetery, receipt of grave purchase and upkeep, and correspondence between Vizet and Woodlawn Cemetery.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_17ff40090b128308f4d4fafa58111c86\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMortgage and Loan Agreements\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1917, 1920-1928, 1934-1935\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4b37889d9338788f0ddeab5a59ff7ec3\" label=\"Text\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_4b37889d9338788f0ddeab5a59ff7ec3\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_e2462dc9631749ba8107070cfcd1a5fe\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThis folder contains numerous financial documents including: correspondence with the French Benevolent Society, bond and mortgage notices from Emigrant Industrial Savings Bank, Department of Finance tax document, extension of mortgage from Emigrant Industrial Savings Bank, and water bills.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_a956677b652e8fc2c6140c63869d902d\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDeeds - Cemetery Plots (Calvary, Greenwood, Rosehill, St. Michael's)\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1883 -1941\u003c/unitdate\u003e\u003ccontainer id=\"aspace_3d76dd9a0032c248be0af84911c9ce01\" label=\"Text\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_3d76dd9a0032c248be0af84911c9ce01\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_5c8caa385ddedc74c33f185c02da8412\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eGreenwood Cemetery Documents: Deed of Conveyance between Miss Maude Louise Troombly to Mr. Victor Vizet, Receipt of Conveyance between Miss Maude Louise Troombly to Mr. Victor Vizet, two Cast River National Bank Checks from Victor Vizet, memo describing Vizet papers, letter from French Hospital to Mr. Clarence A. Weill stating all documents related to Victor A. Vizet, Deed from Greenwood Cemetery to Miss Maud Louise Troombly.\u003clb/\u003e \u003clb/\u003e St. Michael's Cemetery Documents: license receipt from St. Michael's Cemetery for 3 residents, card of graves, and receipt of grave payment.\u003clb/\u003e \u003clb/\u003e Fairview Cemetery Documents: cemetery deed #1598 of plot payment ($20) for Albert Barbier, cemetery deed  #1599 of plot payment ($25) for Albert Barbier, and note from Octave V. Monroy about Barbier graves.\u003clb/\u003e \u003clb/\u003eCalvary Cemetery Documents: grave deed for Mr. Vincent Fulchiron for Emma Marie Abel and Mollie McGrath Hale, correspondence between French Hospital Benevolent Society and Calvary and Allied Cemeteries regarding payment to maintain graves of Abel and Hale, permission to inter remains of Pierre Guillerm in free ground, and correspondence between Octave V. Monory and Vincent Fulchiron [French]\u003clb/\u003e \u003clb/\u003eRosehill Cemetery: Single Grave Certificate\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_0788d3fa58034aad8ffea13e8b8d0365\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFrench Hospital Background Materials \u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1958-1976\u003c/unitdate\u003e\u003clangmaterial id=\"aspace_482393d5a5ed808469b9c33c663a38b9\"\u003eMost of the documents in this folder are written in English, however the \"Histoire des Sciences Medicales\" Journal is written in French.\u003c/langmaterial\u003e\u003ccontainer id=\"aspace_a8a306368b0c5eaedb7b0bdcf1664624\" label=\"Text\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_a8a306368b0c5eaedb7b0bdcf1664624\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_ac5643b6295ba296dfef734b88c2d0ab\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThe documents in this folder contain: Histoire des Sciences Medicales Journal, bibliography of materials relating to French Hospital exhibit displayed at NY Academy of Medicine, program cover for Bicentennial Exhibition at French Hospital, and centerfold providing history of French Hospital.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_637b15ca97584858c09597f63a09c991\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eReservistes, Livre No. 1\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1914-1916\u003c/unitdate\u003e\u003clangmaterial id=\"aspace_de556d50b462c9988aa3497fb136766c\"\u003eThe majority of this text is handwritten in French.\u003c/langmaterial\u003e\u003ccontainer id=\"aspace_6af81ee7d786650c62e07b3b3b68c786\" label=\"Text\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

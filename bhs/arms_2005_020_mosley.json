@@ -1,0 +1,152 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_2005_020_mosley"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the John A. Mosley papers\n                    \u003cnum\u003e2005.020\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "November 2, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2015-08-07T15:57-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Mosley, John A."
+                    }
+                },
+                "unittitle": {
+                    "value": "John A. Mosley papers"
+                },
+                "unitdate": {
+                    "normal": "1911/1919",
+                    "type": "inclusive",
+                    "value": "1911-1919"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.1 linear feet"
+                        },
+                        {
+                            "value": "in three folders"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "This collection contains personal papers and letters, photographs, wedding certificates, and atlases pertaining to the life of John Archer Mosely, dating from 1911 to 1919."
+                },
+                "unitid": {
+                    "value": "2005.020"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1106008",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "OS-9"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref7",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); John A. Mosley papers, 2005.020, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref4",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Patricia A. Crank, 2002, 2003, and 2007."
+            }
+        },
+        "bioghist": {
+            "id": "ref5",
+            "head": "Biographical Note",
+            "p": {
+                "value": "John Archer Mosley was a Brooklyn resident who began work as a laborer at the Brooklyn Navy Yard in 1913. He later transferred to the Brooklyn Naval Hospital in 1921, and was promoted to the title of Fireman in 1945. After the closing of the Brooklyn Naval Hospital in 1948, Mosley transferred to the U.S. Naval Hospital in St. Albans, N.Y., from which he retired in 1956. Mosley and his wife, Mollie, had four sons and two daughters. All four sons served in the U.S. Military. The Mosley family belonged to Bethel Baptist Church in Brooklyn, where John and Mollie were eventually elected Deacon and Deaconess."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "This collection contains personal papers and letters, photographs, wedding certificates, and atlases pertaining to the life of John Archer Mosely, dating from 1911 to 1919."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "African Americans |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Navy-yards and naval stations |z New York (State) |z Kings County |x Employees"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

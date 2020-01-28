@@ -1,0 +1,136 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1974_260_martin"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Charles C. Martin engrossed resolution\n                    \u003cnum\u003e1974.260\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "August 18, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-09T11:19-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "Charles C. Martin engrossed resolution"
+                },
+                "unitdate": {
+                    "normal": "1895/1895",
+                    "value": "1895"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.5 Linear feet"
+                        },
+                        {
+                            "value": "in one oversize volume."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "1974.260"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid993001",
+                    "label": "Text",
+                    "type": "Volume",
+                    "value": "1974.260 1 of 1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref5",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref4",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Charles C. Martin engrossed resolution, 1974.260, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref2",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of David M. Kahn, 1991."
+            }
+        },
+        "bioghist": {
+            "id": "ref3",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Charles C. Martin (1831-1903) was born in Springfield, PA and attended the Rensselaer Polytechnic Institute in Troy, N.Y., from which he graduated as a civil engineer in 1836. Martin later relocated to Brooklyn, N.Y., where he worked as an engineer at the Brooklyn Navy Yard during the Civil War and was chief engineer of the construction of the Atlantic Docks and Prospect Park. Martin then worked as assistant engineer of the Brooklyn Bridge from 1870 until the bridge's opening in 1883, and later became Chief Engineer and Superintendent of the bridge. Martin remained involved with the maintenance of the Brooklyn Bridge in varying capacities until his death."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "Engrossed resolution given to Charles C. Martin in 1895 on the 25th anniversary of his involvement with the Brooklyn Bridge. The resolution is contained in an oversize bound volume and is written in illuminated calligraphy accompanied by several color paintings of the Brooklyn Bridge. Signatures of those who presented the resolution to Martin are included on the final page."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Engineers |z New York (State) |z Kings County"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

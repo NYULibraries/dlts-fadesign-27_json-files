@@ -1,0 +1,97 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "ms2958_9802_cyril_sarah_grey"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Tripartite Trust Indenture between Cyril V. Grey, Sarah M. Grey, and Thomas Warner\u003clb/\u003e1847\u003clb/\u003e \u003cnum\u003eAHMC Grey, Cyril V\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Larry Weimer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-07-18T13:24:35\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Grey, Sarah Maria"
+                    }
+                },
+                "unittitle": {
+                    "value": "Tripartite trust indenture between Cyril V. Grey, Sarah M. Grey, and Thomas Warner"
+                },
+                "unitdate": {
+                    "normal": "0/0",
+                    "type": "inclusive",
+                    "value": "1847 April 2"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.01 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one folder"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "One indenture signed by the three parties, with seals. The indenture creates a trust holding the property owned by Sarah Maria Grey prior to her marriage to Cyril Grey. Prior to the marriage, the couple had agreed that the property owned by Sarah would remain hers subsequent to the marriage, though the New York law of the time would cause ownership rights to pass to Cyril. Consistent with their agreement, the Greys prepared this indenture, placing Sarah's property in trust for her use and benefit as though she were a \"feme sole.\"The indenture specifies the disposition of the property under various circumstances including the death of Sarah. A daughter, Maria Louise Kean, is named as a contingent beneficiary of the trust, with a Louisa Haviland also named as a contingent beneficiary. The indenture includes a schedule of the property by room at 109 Grand Street that was subject to the indenture. The property included various pieces of mahogany furniture; paintings, daguerreotypes, engravings, and related frames; curtains; candlesticks; silverware; decanters; vases; bedding, towels, and other textiles; necklace, bracelets, and other jewelry; and other objects.\n\nFor more information and to request this item, see the \u003cextref actuate=\"onRequest\" href=\"http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph006196637\u0026amp;context=L\u0026amp;vid=NYHS\u0026amp;search_scope=nyhs\u0026amp;tab=nyhs\u0026amp;lang=en_US\"\u003ecatalog record\u003c/extref\u003e, or write to  manuscripts@nyhistory.org. \n"
+                },
+                "unitid": {
+                    "value": "AHMC Grey, Cyril V"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "dsc": {}
+    }
+}

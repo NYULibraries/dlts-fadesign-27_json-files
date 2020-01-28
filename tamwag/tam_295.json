@@ -1,0 +1,153 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_295"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "August Gold Papers \u003cnum\u003eTAM 295\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-11T20:35:44\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "August Gold Papers"
+                },
+                "unitdate": {
+                    "normal": "1930/1960",
+                    "type": "inclusive",
+                    "value": "1930-1960"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "6 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(6 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "TAM 295"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_2e41cdb21d4c96c89f96aba18e5b1bef",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "6"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_2b6e918bd579303f278f286800daf342",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_825a455a38907092780bc10861d65779",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; August Gold Papers; TAM 295; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_00209067794135183ff37d6d1f5c43b2",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Lillian Gold in 2002. The accession number associated with this gift is 2002.034."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_b6d6c2b6dbe3308927b9a374d4f6ce8b",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "August Gold was a member of the Socialist Party in New York. Gold was active in various local chapters of the Party, the cooperative movement, academic freedom, andother radical movements, mostly in the United States, from the 1930s through the 1960s."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_7ef1c7bd5cf21fc3b84243b209e30ebc",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection includes manuscript material, posters, photographs, a banner and buttons."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Academic freedom |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialists -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Jewish socialists -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Cooperation |z United States."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Socialist Party of New York"
+            }
+        },
+        "dsc": {}
+    }
+}

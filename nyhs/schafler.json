@@ -1,0 +1,127 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "schafler"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Pamela Schafler Collection of Graphic Material\u003clb/\u003e1930s, 1960s\u003clb/\u003e \u003cnum\u003ePR 331\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Marybeth Kavanagh"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-02-07T21:32:22\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "Pamela Schafler collection of graphic material"
+                },
+                "unitdate": {
+                    "normal": "0/0",
+                    "type": "inclusive",
+                    "value": "1930s, 1960s"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.01 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 folder)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "This collection consists of material donated by Pamela Schafler.  It includes correspondence and telephotographs, with a total of 7 items."
+                },
+                "unitid": {
+                    "value": "PR 331"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_489a11af68b378685bcd3331df8f666d",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Available by advance appointment only. To schedule an appointment, contact the Print Room Librarian at printroom@nyhistory.org. Photocopying undertaken by staff only. Limited to twenty exposures of stable, unbound material per day. (Researchers may not accrue unused copy amounts from previous days.)"
+            }
+        },
+        "prefercite": {
+            "id": "aspace_60e640d89884d338f85617a5aca4e542",
+            "head": "Preferred Citation Note",
+            "p": {
+                "value": "This collection should be cited as:Pamela Schafler Collection of Graphic Material, PR 331, Department of Prints, Photographs and Architectural Collections, The New-York Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_c7052517fa7074fb0a8d5a3144fd58ef",
+            "head": "Acquisition Note",
+            "p": {
+                "value": "Gift of Pamela Schafler, 2017"
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_18b8b510c7f465ac9d12c669b9806850",
+            "head": "Scope and Contents Note",
+            "p": {
+                "value": "This collection consists of material donated by Pamela Schafler, chair of the New-York Historical Society's Board of Trustees. It includes two pieces of correspondence from Jacqueline Kennedy, a photograph of President John F. Kennedy, a photograph of President Lyndon Johnson and family, and an envelope from the White House postmarked 1964. In addition, there are two telephotographs (photographs transmitted via telegraph, a process also know as phototelegraphy) from the 1930s. The telephotographs are stamped \"This telephotograph was transmitted over wires of the Bell System.\""
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Phototelegraphy"
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref10_b17\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ecorrespondence and photographs\u003c/unittitle\u003e\u003cunitdate\u003e1930s, 1960s\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a32bf358ef6fa72a6ddfad747988674e\" label=\"Graphic Materials\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

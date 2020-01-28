@@ -1,0 +1,156 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1986_054_ditmas"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Ditmas family papers\n                    \u003cnum\u003e1986.054\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "September 21, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-21T14:34-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Ditmas, Priscilla Burr"
+                    },
+                    "famname": {
+                        "source": "local",
+                        "value": "Ditmas family"
+                    }
+                },
+                "unittitle": {
+                    "value": "Ditmas family papers"
+                },
+                "unitdate": {
+                    "normal": "1647/1900",
+                    "type": "inclusive",
+                    "value": "1647-1900"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.34 Linear feet"
+                        },
+                        {
+                            "value": "in one oversize box."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "1986.054"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1034003",
+                    "label": "Text",
+                    "type": "Oversize",
+                    "value": "1986.054 1 of 1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref7",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Ditmas family papers, 1986.054, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref4",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Cynthia B. Lake, 1987."
+            }
+        },
+        "bioghist": {
+            "id": "ref5",
+            "head": "Biographical/Historical note",
+            "p": {
+                "value": "The Ditmas family (also spelled Ditmars) resided in the town of Flatbush in Kings County, N.Y. Family members chiefly represented in this collection include Johannes Ditmas and his descendants through the following three generations. Johannes Ditmas was a Quartermaster in the Kings County Regiment of Militia and participated in the Revolutionary War. His son, John J. Ditmas, married Priscilla Burr of Fairfield, CT. John and Priscilla's son, also named John J. Ditmas, married Elizabeth Armstrong of Pawtucket, R.I., and later moved from Flatbush to Sunbury, OH. John and Elizabeth's daughter, Elizabeth Armstrong Ditmas (b. 1853), had been born in Flatbush and continued to reside there as of the 1890s. She was a member of the Daughters of the American Revolution through her relation to her great-grandfather, Johannes Ditmas."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The Ditmas family papers span the period 1647 to 1900 and consist of indentures, deeds, bonds, bills of sale, mortgages, agreements, and other documents, mostly regarding land transactions in the town of Flatbush in Kings County, N.Y. Other documents pertain to transactions involving African American slaves; land transactions in the towns of Bushwick and Gowanus in Kings County; and land disputes. One document in the collection is written in Dutch."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Families |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Real property |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Slavery |z New York (State) |z Kings County"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

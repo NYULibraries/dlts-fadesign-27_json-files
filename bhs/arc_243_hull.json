@@ -1,0 +1,144 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arc_243_hull"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the A. Cooke Hull election petition and memorial book\n                    \u003cnum\u003eARC.243\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Matthew Gorham"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "July 21, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-28T11:32-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "A. Cooke Hull election petition and memorial book"
+                },
+                "unitdate": {
+                    "normal": "1865/1868",
+                    "type": "inclusive",
+                    "value": "1865-1868"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.06 Linear feet"
+                        },
+                        {
+                            "value": "in two folders."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "ARC.243"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid921001",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0090"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref4",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); A. Cooke Hull election petition and memorial book, ARC.243, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Accession 1978.022 was purchased from Cedric L. Robinson Booksellers, 1978. The source and date of acquisition for accession 1979.014 are not known."
+            }
+        },
+        "bioghist": {
+            "id": "ref5",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Dr. A. Cooke Hull (1818-1868) was a resident of Brooklyn, a physician, a trustee of Public Schools 8 and 11 in Brooklyn, and a founder of the Long Island Historical Society (now the Brooklyn Historical Society)."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection contains a petition endorsing A. Cooke Hull as a candidate for alderman of Brooklyn's Third Ward, dated 1865, and a memorial book for Hull, presented on July 7, 1868 by the Board of Education of the City of Brooklyn."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Education |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Physicians |z New York (State) |z Kings County"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

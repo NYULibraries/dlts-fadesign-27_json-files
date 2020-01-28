@@ -1,0 +1,143 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "hall2"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the John Hall Papers\n                    \u003clb/\u003e\n                    \u003cdate calendar=\"gregorian\" era=\"ce\"\u003e1977-1978\u003c/date\u003e\n                    \u003clb/\u003e\n                    \u003cnum\u003eMSS 98\u003c/num\u003e\n                    \u003cnum\u003eMSS 098\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Processed by Marvin J. Taylor in 1999"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "© 2012 Fales Library and Special Collections"
+                },
+                "address": {
+                    "addressline": [
+                        "Fales Library and Special Collections",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY 10012",
+                        "Phone: (212) 998-2596",
+                        "Email: fales.library@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-02-16T15:54-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "© 2012 Fales Library and Special Collections"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Hall, John"
+                    }
+                },
+                "unittitle": {
+                    "value": "John Hall Papers"
+                },
+                "unitdate": {
+                    "value": "1977-1978"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.25 linear feet"
+                        },
+                        {
+                            "value": "(1 box)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The John Hall Papers include a small collection of letters from the artist, David Wojnarowicz to John Hall, a high school friend of Wojnarowicz' with whom Hall remained close to up until Wojnarowicz' death in 1992."
+                },
+                "unitid": {
+                    "value": "MSS 098"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref5",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open to researchers. Appointments are necessary for the use of manuscript and archival collections."
+            }
+        },
+        "prefercite": {
+            "id": "ref7",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form:\n                \u003clb/\u003e\n                \u003clb/\u003eIdentification of item, date (if known); The John Hall Papers; MSS 098; box number; folder number; \n                \u003caddress\u003e\n                    \u003caddressline\u003eFales Library and Special Collections\u003c/addressline\u003e\n                \u003c/address\u003e , New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "ref8",
+            "head": "Biographical Note",
+            "p": {}
+        },
+        "scopecontent": {
+            "id": "ref9",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The collection consists of four letters, one postcard and photos that were sent to Hall from David Wojnarowicz when the latter was in Paris during 1977-1978."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Artists and community  |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "New York (N.Y.) |x Intellectual life |y 20th century."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Photographers |z United States |x Biography."
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref11\" level=\"collection\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e1 box with 1 folder\u003c/unittitle\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref12\"\u003e\n                    \u003chead\u003eScope and Contents note\u003c/head\u003e\n                    \u003cp\u003eFour letters and one postcard from David Wojnarowicz to John Hall dated from 1977-78.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arc_013_marx"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Ralph Marx real estate records\n                    \u003cnum\u003eARC.013\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Dr. Clark S. Marlor"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "1990"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-22T14:37-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Marx, Ralph"
+                    }
+                },
+                "unittitle": {
+                    "value": "Ralph Marx real estate records"
+                },
+                "unitdate": {
+                    "normal": "1967/1975",
+                    "type": "inclusive",
+                    "value": "1967-1975"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "2.25 Linear feet"
+                        },
+                        {
+                            "value": "in five manuscript boxes."
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The Ralph Marx real estate records contain appraisals, property information, and photographs for Brooklyn properties in the 1960s and 1970s. All records were created by Ralph Marx during the course of his career as a real estate broker in New York City."
+                },
+                "unitid": {
+                    "value": "ARC.013"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid290009",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "ARC.013 1 of 5"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref3",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref4",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Ralph Marx real estate records, ARC.013, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref5",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of the Bronx County Historical Society, 1990."
+            }
+        },
+        "bioghist": {
+            "id": "ref1",
+            "head": "Biographical note",
+            "p": {
+                "value": "Marx took on Howard M. Guttman as a personal assistant around 1964. Guttman prepared data upon which Marx's real estate appraisals were based. Their practice consisted primarily of appraisals used in court testimony, particularly in estate settlement and property tax reduction cases."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "Box 1 contains 3\" x 5\" index cards, in which the addresses of individual buildings represented in the collection are listed according to street name. A paper finding aid also provides a folder list that includes property addresses with block and lot numbers."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Architecture, Domestic |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Real property |x Valuation"
+                }
+            ]
+        },
+        "otherfindaid": {
+            "id": "ref7",
+            "head": "Other Finding Aids note"
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref8\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 1: Individual Structural Appraisals\u003c/unittitle\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003e1.5 Linear feet\u003c/extent\u003e\n                        \u003cextent\u003ein four manuscript boxes.\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate normal=\"1967/1975\" type=\"inclusive\"\u003e1967-1975\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref11\"\u003e\n                    \u003chead\u003eScope and Contents note\u003c/head\u003e\n                    \u003cp\u003e\n                        \u003cemph render=\"bold\"\u003eIndividual Structural Appraisals \u003c/emph\u003econtains the bulk of the collection--property appraisals and all supporting documentation, such as affidavits, area maps, block and lot maps, and property descriptions.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref9\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 2: Miscellaneous Dwelling Appraisals\u003c/unittitle\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003e0.25 Linear feet\u003c/extent\u003e\n                        \u003cextent\u003ein one folder.\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate normal=\"1963/1963\"\u003ecirca 1963\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref13\"\u003e\n                    \u003chead\u003eScope and Contents note\u003c/head\u003e\n                    \u003cp\u003e\n                        \u003cemph render=\"bold\"\u003eMiscellaneous Dwelling Appraisals\u003c/emph\u003e consists of a report regarding 30 properties in Brooklyn written by Marx to a title company to determine market value for issuing mortgages on the properties. This report includes appraisals, zoning maps, and assessments for the properties. A table of contents at the beginning of the report provides the address, block and lot number for all properties detailed therein.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref10\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 3: Photographs\u003c/unittitle\u003e\n                    \u003cunitid\u003eV1990.022\u003c/unitid\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003e0.5 Linear feet\u003c/extent\u003e\n                        \u003cextent\u003ein one manuscript box.\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate normal=\"1967/1975\" type=\"inclusive\"\u003e1967-1975\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref12\"\u003e\n                    \u003chead\u003eScope and Contents note\u003c/head\u003e\n                    \u003cp\u003eItems in \n                        \u003cemph render=\"bold\"\u003ePhotographs\u003c/emph\u003e originated with materials from \n                        \u003cemph render=\"bold\"\u003eIndividual Structural Appraisals\u003c/emph\u003e and \n                        \u003cemph render=\"bold\"\u003eMiscellaneous Dwelling Appraisals\u003c/emph\u003e, providing a visual component for Marx's appraisals. These photographs primarily show street views of the front exterior facade of the buildings appraised. Duplicate or photocopies of each photograph remain in the corresponding building folder or report in the other two series.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

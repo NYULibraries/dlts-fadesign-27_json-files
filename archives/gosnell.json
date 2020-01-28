@@ -1,0 +1,138 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "gosnell"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Charles F. Gosnell Papers \u003cnum\u003eMC.58\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Norma Chaires."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-06-05T13:47:26\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Gosnell, Charles Francis, 1909-1993"
+                    }
+                },
+                "unittitle": {
+                    "value": "Charles F. Gosnell Papers"
+                },
+                "unitdate": {
+                    "normal": "1967/1969",
+                    "type": "inclusive",
+                    "value": "1967-1969"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Charles F. Gosnell served as Director of Libraries at New York University (NYU) and taught library administration and law in the University's School of Law.  This collection includes articles, programs, and a member list of the Free and Accepted Masons along with a booklet by the St. David's Society of the State of New York."
+                },
+                "unitid": {
+                    "value": "MC.58"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_7b6394a5a2240c7b13747630b02bb381",
+            "head": "Conditions Governing Access ",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_072f598765b0b20af71fe45cac5da63d",
+            "head": "Preferred Citation ",
+            "p": {
+                "value": "Identification of item, date (if known); Charles F. Gosnell Papers; MC 58; box number; folder number; New York University Archives, New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_a091c28c868eae7afceece7f2f8f46f8",
+            "head": "Biography",
+            "p": {
+                "value": "Gosnell died in 1993 at his home in Utica, New York."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_b892bf68e248168ca2ea15abda8f314b",
+            "head": "Scope and Contents ",
+            "p": {
+                "value": "This collection contains articles, programs, and lists pertaining to Gosnell's membership in and leadership positions within the Masons."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Freemasons."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "New York University. Office of Library Administration"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref1\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: Grand Master of Masons\u003c/unittitle\u003e\u003cunitdate normal=\"1968/1969\" type=\"inclusive\"\u003e1968-1969\u003c/unitdate\u003e\u003c/did\u003e\u003cc id=\"aspace_ref7\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMembers of Master's Lodge of Masons\u003c/unittitle\u003e\u003cunitdate normal=\"1968/1968\" type=\"inclusive\"\u003e1968\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter - Half\" id=\"aspace_ed26f9783d250c81ebe43df23a2db384\" label=\"Mixed Materials [31142062742419]\" type=\"Box\"\u003eShared University Archives 009\u003c/container\u003e\u003ccontainer parent=\"aspace_ed26f9783d250c81ebe43df23a2db384\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref2\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"The Masons - a universal brotherhood\" article\u003c/unittitle\u003e\u003cunitdate normal=\"1968/1968\" type=\"inclusive\"\u003e1968\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter - Half\" id=\"aspace_6fac62ce38150b5c4d0d30709a07777a\" label=\"Mixed Materials [31142062742419]\" type=\"Box\"\u003eShared University Archives 009\u003c/container\u003e\u003ccontainer parent=\"aspace_6fac62ce38150b5c4d0d30709a07777a\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref4\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAddress of M.W. Charles F. Gosnell\u003c/unittitle\u003e\u003cunitdate normal=\"1969/1969\" type=\"inclusive\"\u003e1969\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter - Half\" id=\"aspace_bcec7b90d97d425ba217126a2bc7e818\" label=\"Mixed Materials [31142062742419]\" type=\"Box\"\u003eShared University Archives 009\u003c/container\u003e\u003ccontainer parent=\"aspace_bcec7b90d97d425ba217126a2bc7e818\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref5\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eInstallation of Grand Master of Masons in New York State\u003c/unittitle\u003e\u003cunitdate normal=\"1969/1969\" type=\"inclusive\"\u003e1969\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter - Half\" id=\"aspace_da1cc9309f1fe0d1414191f9607b81dd\" label=\"Mixed Materials [31142062742419]\" type=\"Box\"\u003eShared University Archives 009\u003c/container\u003e\u003ccontainer parent=\"aspace_da1cc9309f1fe0d1414191f9607b81dd\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref6\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eGrand Master's Dinner Program\u003c/unittitle\u003e\u003cunitdate normal=\"1969/1969\" type=\"inclusive\"\u003e1969\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter - Half\" id=\"aspace_763909b00a0eaa9252632e21b6ed4eaf\" label=\"Mixed Materials [31142062742419]\" type=\"Box\"\u003eShared University Archives 009\u003c/container\u003e\u003ccontainer parent=\"aspace_763909b00a0eaa9252632e21b6ed4eaf\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref9\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries II: St. David's Society of the State of New York\u003c/unittitle\u003e\u003cunitdate normal=\"1967/1967\" type=\"inclusive\"\u003e1967\u003c/unitdate\u003e\u003c/did\u003e\u003cc id=\"aspace_ref10\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSt. David's Society of the State of New York Booklet\u003c/unittitle\u003e\u003cunitdate normal=\"1967/1967\" type=\"inclusive\"\u003e1967\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter - Half\" id=\"aspace_678b89a862304b8b768582d114327199\" label=\"Mixed Materials [31142062742419]\" type=\"Box\"\u003eShared University Archives 009\u003c/container\u003e\u003ccontainer parent=\"aspace_678b89a862304b8b768582d114327199\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

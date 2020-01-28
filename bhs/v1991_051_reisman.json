@@ -1,0 +1,143 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "v1991_051_reisman"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Elliot Reisman photograph collection of an architectural office in Brooklyn\n                    \u003cnum\u003eV1991.051\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Patricia Glowinski"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "September 28, 2011."
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-28T16:15-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Bolter, R. P. "
+                    }
+                },
+                "unittitle": {
+                    "value": "Elliot Reisman photograph collection of an architectural office in Brooklyn"
+                },
+                "unitdate": {
+                    "value": "Circa 1910"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.05 Linear feet"
+                        },
+                        {
+                            "value": "three items housed in one folder."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "V1991.051"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1048001",
+                    "label": "Graphic materials",
+                    "type": "Box",
+                    "value": "Prints by Accession 74"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref4",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref7",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Elliot Reisman photograph collection of an architectural office in Brooklyn, V1991.051, Box number, Object ID number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Elliot Reisman, 1991."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Elliot Reisman photograph collection of an architectural office in Brooklyn consists of three black-and-white mounted photographic prints showing the interior of an unidentified architectural office in Brooklyn, circa 1910. The photographs are group portraits showing the staff, as well as interior views of the office. One of the photographs shows a woman sitting at a drafting table in the foreground of the office, while the remaining staff are situated in the background. Two of the photographs identify the photographers including Winter and Block, Photographers, located at 170 Schermerhorn Street in Brooklyn; and R. P. Bolter, Photographer, located at 3rd Avenue at 93rd and 94th Streets in the Fort Hamilton neighborhood of Brooklyn."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Architects |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Architectural offices |z New York (State) |z New York"
+                }
+            ]
+        },
+        "otherfindaid": {
+            "id": "ref6",
+            "head": "Other Finding Aids"
+        },
+        "dsc": {}
+    }
+}

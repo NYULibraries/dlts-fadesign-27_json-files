@@ -1,0 +1,157 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "arc_211_bartlett"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Bartlett family papers \u003cnum\u003eARC.211\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "Brooklyn Historical Society",
+                        "128 Pierrepont Street",
+                        "Brooklyn 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-06-04T16:32:16\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Bartlett, Mary Buffum"
+                    },
+                    "famname": {
+                        "source": "naf",
+                        "value": "Bartlett family"
+                    }
+                },
+                "unittitle": {
+                    "value": "Bartlett family papers"
+                },
+                "unitdate": {
+                    "normal": "1862/1931",
+                    "type": "inclusive",
+                    "value": "1862-1931"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.21 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one folder and 18 loose volumes."
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Bartlett family collection consists of correspondence, printed ephemera, and diaries relating to the Bartlett family of Brooklyn and spanning the period 1862 to 1931."
+                },
+                "unitid": {
+                    "value": "ARC.211"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_331f6edf97928a2057345d94dfc93aff",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0034"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_cc29da23be4ac0d915b1996b85a74e26",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_99881ea5ebafbf9cf3032bf856551e1d",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Bartlett family papers, ARC.211, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_b6c26b130f7ef4f657b2b14535e03bab",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Accessions 1977.628 and V1997.070 were the gift of Rollin H. Steiger.  Source and date of acquisition for accession 1977.111 are unknown.  The collection was formally accessioned in 1977."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_f17205f0820371207c14611f097de9f6",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Willard Bartlett (1846-1925) was born in Massachusetts and lived in Brooklyn for the latter 56 years of his life.  He graduated from New York University in 1868, and in 1870 he wed Mary Fairbanks Buffum of Brooklyn, with whom he had two daughters, Maud W. and Agnes W. Bartlett.  Bartlett practiced law with Elihu Root from 1869 to 1883, and in 1884 became a Justice of the Supreme Court of New York State. He went on to serve as an Appellate Division Justice in the Supreme Court, an Associate Justice of the New York State Court of Appeals, and finally Chief Justice of the New York State Court of Appeals.  In 1917, he retured to practicing law with Elihu Root.  Bartlett was President of the New England Society in the City of Brooklyn and the Long Island Historical Society (now the Brooklyn Historical Society), a member of the American Bar Association and the Brooklyn Bar Association, and a fellow of the American Academy of Arts and Sciences.  He also served as a drama critic for the \u003cemph render=\"italic\"\u003eNew York Sun\u003c/emph\u003e and reviewed books for the \u003cemph render=\"italic\"\u003eNew York Herald\u003c/emph\u003e.  Bartlett also taught medical jurisprudence as a professor at the Long Island College Hospital.  At Willard Bartlett's death, the Bartlett family resided at 21 Pierrepont Street in Brooklyn."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_f811a2adf97cedd96813383939be6dcc",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Bartlett family collection consists of correspondence, printed ephemera, and diaries relating to the Bartlett family of Brooklyn and spanning the period 1862 to 1931.  Correspondence and ephemera pertain to Judge William Bartlett and include letters from Bartlett to a Mr. Steiger during a trip to South America, a pamphlet containing an address delivered by Bartlett at the Georgetown University Law School, articles written by Bartlett, and obituaries for Bartlett printed in various newspapers.  Diaries in the collection were written by Mary F.B., Maud W., and Agnes W. Bartlett and mostly pertain to daily activities of the Bartlett family, daily weather conditions, and a family trip to Europe."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Judges |z New York (State)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Families |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Lawyers |z New York (State) |z Kings County"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

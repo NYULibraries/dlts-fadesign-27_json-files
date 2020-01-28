@@ -1,0 +1,155 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-F",
+            "value": "burning_water"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Burning Water Archive \u003clb/\u003e\u003cdate calendar=\"gregorian\" era=\"ce\"\u003eca.1962-1968\u003c/date\u003e\u003clb/\u003e \u003cnum\u003eMSS.007\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Processed by Tania Friedel, April 1999"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Fales Library and Special Collections"
+                },
+                "address": {
+                    "addressline": [
+                        "Fales Library and Special Collections",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "3rd Floor",
+                        "New York, NY 10012",
+                        "Phone: (212) 998-2596",
+                        "fales.library@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-05-16T17:28:17\u003c/date\u003e"
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Fales Library and Special Collections"
+                    }
+                },
+                "unittitle": {
+                    "value": "Burning Water Archive"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "ca. 1962-1968"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 Box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Burning Water Archive is a collection of correspondence to the editors, Edward Kissam and Paul Boorstin, and issues 1-5 of the journal."
+                },
+                "unitid": {
+                    "value": "MSS.007"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_37c4a88d1fc6e21f6e480e7605263b1d",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_52cd1d8265ca02e2d8bd70c9451edeba",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: \u003clb/\u003e\u003clb/\u003eIdentification of item, date (if known); The Burning Water Archive; MSS 7; [box number]; [folder number], Fales Library and Special Collections, New York University Libraries."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_2b0c03a755c360bfe5911fb95de97718",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The Burning Water Archive is a collection of correspondence to the editors, Edward Kissam and Paul Boorstin, from 1962 to 1968. Collection highlights include letters written by Carol Bergé, Robert Bly, Ted Enslin, Clayton Eschleman, and Gary Snyder."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Art, Modern |y 20th century |v Periodicals."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Literature, Experimental |x Periodicals."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Avant-garde (Aesthetics)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Small presses -- New York (State) -- New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "American literature |y 20th century."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Authors, American -- 20th century"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Burning Water"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref10\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: Correspondence and Issues of Burning Water\u003c/unittitle\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_653db90ef1dc9e70498aced12aface2e\"\u003e\u003chead\u003eScope and Contents note\u003c/head\u003e\u003cp\u003eSeries 1 contains one box of correspondence to the editors, Edward Kissam and Paul Boorstin between 1962-1968. Noted correspondents include Carol Bergé, Robert Bly, Ted Enslin, Clayton Eschleman, and Gary Snyder. Series 1 also contains issues 1-5 of Burning Water.\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_ref11\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCarol Bergé, Robert Bly, George Bowering\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1962-1964; 1966\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7dc92b460a8076b3916fb1bbaf33aacc\" label=\"Mixed Materials (31142054862951)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_7dc92b460a8076b3916fb1bbaf33aacc\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref12\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCardona-Hine, Alvan Choudhury, Malay Roy - Defense Fund, John Willian Corrington\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1962-1964; 1966\u003c/unitdate\u003e\u003ccontainer id=\"aspace_fc35e50f36ab755c3fa0d1b41c0fc95b\" label=\"Mixed Materials (31142054862951)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_fc35e50f36ab755c3fa0d1b41c0fc95b\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref13\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eMaurice English, D.J. Enright, Ted Enslin, Clayton Eshleman\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1962-1965; undated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_aa99bd7b92d6b6cf141a19e37695fbc9\" label=\"Mixed Materials (31142054862951)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_aa99bd7b92d6b6cf141a19e37695fbc9\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eRoy Fisher, Frederic A. Franklyn, John Haines, William Harmon, George Hitchcock, Anselm Hollo\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1962-1968\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1c3d8785ea18844db195c00bc71b8691\" label=\"Mixed Materials (31142054862951)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1c3d8785ea18844db195c00bc71b8691\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eRon Johnson, Robert Kelly, Howard McCord, James Merrill, James Ryan Morris\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1963-1965; undated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_3bfede5b063c9d9ba9e04e76e07f19a3\" label=\"Mixed Materials (31142054862951)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_3bfede5b063c9d9ba9e04e76e07f19a3\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eMargaret Randall\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1962-1968\u003c/unitdate\u003e\u003ccontainer id=\"aspace_294aee9b491badaab8bc4036697b5447\" label=\"Mixed Materials (31142054862951)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_294aee9b491badaab8bc4036697b5447\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eGary Snyder, John Tagliabue, Anne Waldman, Peter Wild, Jonathan Williams, and Miller Williams.\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1962-1968\u003c/unitdate\u003e\u003ccontainer id=\"aspace_91b22f3293e22102ca4eb4efd886a1dc\" label=\"Mixed Materials (31142054862951)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_91b22f3293e22102ca4eb4efd886a1dc\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eUnidentified Correspondence\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1965-1966\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e3b491c8ffb1e7196af452ed9653de5a\" label=\"Mixed Materials (31142054862951)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e3b491c8ffb1e7196af452ed9653de5a\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eIssues 1-3 of Burning Water\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1963-1964\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f65d1ac899eb6268ac58a7bbb52dc119\" label=\"Mixed Materials (31142054862951)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f65d1ac899eb6268ac58a7bbb52dc119\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eIssues 4-5 of Burning Water\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1965\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5c359cbe1919feec65c61465b27ccd8f\" label=\"Mixed Materials (31142054862951)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5c359cbe1919feec65c61465b27ccd8f\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

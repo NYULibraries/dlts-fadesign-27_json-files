@@ -1,0 +1,89 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "ms2958_5423_kimball"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Solomon Sherwood Kimball Correspondence\u003clb/\u003e1821-1846\u003clb/\u003e \u003cnum\u003eAHMC - Sherwood, Solomon Kimball\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Joseph Ditta"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-02-01T20:58:00\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "Solomon Sherwood Kimball correspondence"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "1821-1846"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "5 letters"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(in 1 folder)."
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Five letters between Solomon Sherwood Kimball (1806–1890), his parents, Nathan Kimball (1767–1849) and Rachel (Sherwood) Kimball (1772–1852), and his sister, Amanda L. (Kimball) Topping (1811–1872). To request this collection for research, and for fuller details about it, please read its catalog record \u003cextref actuate=\"onRequest\" href=\"http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph004316461\u0026amp;context=L\u0026amp;vid=NYHS\u0026amp;search_scope=nyhs\u0026amp;tab=nyhs\u0026amp;lang=en_US\"\u003ecatalog record\u003c/extref\u003e, or write to \u003cemph render=\"underline\"\u003emanuscripts@nyhistory.org\u003c/emph\u003e."
+                },
+                "unitid": {
+                    "value": "AHMC - Sherwood, Solomon Kimball"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "dsc": {}
+    }
+}

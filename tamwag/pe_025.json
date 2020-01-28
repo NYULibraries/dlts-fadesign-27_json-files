@@ -1,0 +1,159 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "pe_025"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection on the United Telegraph Workers \u003cnum\u003ePE.025\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Adrien Hilton"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-08-21T19:04:09\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection on the United Telegraph Workers"
+                },
+                "unitdate": {
+                    "normal": "1916/1990",
+                    "type": "inclusive",
+                    "value": "1916-1990"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "2 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(2 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection on the United Telegraph Workers is an artificial collection, collected and assembled by the Tamiment Library over the course of several decades. It consists of contracts, agreements and constitutions from the United Telegraph Workers as well as its predecessor, the Commercial Telegraphers' Union of America. There are also files from the various divisions of the Union, representing workers from Canada and the United States who worked for the Canadian Pacific System, the United Press System, and the Western Union, among others. "
+                },
+                "unitid": {
+                    "value": "PE.025"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_5bf8efee7a7293dcf4bcd688bb7f44cb",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_e99dc4fdaec652e28f865f69dfa912b9",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: \u003clb/\u003e\u003clb/\u003eIdentification of item, date; Collection name; Collection number; box number; folder number; \u003clb/\u003eTamiment Library/Robert F. Wagner Labor Archives \u003clb/\u003eElmer Holmes Bobst Library \u003clb/\u003e70 Washington Square South \u003clb/\u003eNew York, NY 10012, New York University Libraries."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_d30542096060e8aa5c9a5c9c67f4306d",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials in this collection have been compiled by the Tamiment Library. There is no accession record associated with this collection."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_d18be5b1db1610aff559832aafceebf2",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "The United Telegraph Workers was known until 1968 as the Commercial Telegraphers' Union of America. Founded in convention in New York City in 1903, the Commercial Telegraphers' Union of America emerged from a series of struggles between smaller unions of private and postal telegraph workers. At the time, over one hundred delegates represented seventy-five locals from across the country. During World War II and throughout much of its history, the union had been pitted against a single dominant employer, Western Union. Due to technological change in the industry and charged anti-union efforts, the Commercial Telegrapher's Union of America declined in numbers after World War II. In 1986, the 5,800 member United Telegraph Workers merged with the Communications Workers of America."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_224c63529584edbabe0f964868e20ed3",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection on the United Telegraph Workers largely consists of agreements, contracts and constitutions, as well as a few pamphlets and publications. Material comes from the predecessor Commercial Telegraphers' Union of America as well as from various divisions from around the United States and Canada, including the divisions that represented the Canadian Pacific System, the Associated Press System, the United Press System, and Western Union."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Telegraphers."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Telegraphers |x Labor unions."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor unions"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Telegraph |x Employees."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor unions -- United States."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Commercial Telegraphers' Union of America"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref1\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: Commercial Telegraphers' Union of America\u003c/unittitle\u003e\u003cunitdate normal=\"1920/1966\" type=\"inclusive\"\u003e1920-1966\u003c/unitdate\u003e\u003c/did\u003e\u003cc id=\"aspace_ref3\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eAgreements and Contracts\u003c/unittitle\u003e\u003cunitdate normal=\"1920/1966\" type=\"inclusive\"\u003e1920-1966\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ed55d0477bc8e052b8d0c3b259b95f75\" label=\"Mixed Materials [31142054631380]\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref13\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBy-Laws\u003c/unittitle\u003e\u003cunitdate normal=\"1922/1955\" type=\"inclusive\"\u003e1922-1955\u003c/unitdate\u003e\u003ccontainer id=\"aspace_17e24e04acc40c2e67892761f5f68169\" label=\"Mixed Materials [31142054631398]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eConstitutions\u003c/unittitle\u003e\u003cunitdate normal=\"1920/1928\" type=\"inclusive\"\u003e1920-1928\u003c/unitdate\u003e\u003ccontainer id=\"aspace_3e1dbc9163edae2abb1f7cbcff306b6d\" label=\"Mixed Materials [31142054631398]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eConstitutions\u003c/unittitle\u003e\u003cunitdate normal=\"1930/1949\" type=\"inclusive\"\u003e1930-1949\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4ec7a89a1a60c6cec59bfd266a747716\" label=\"Mixed Materials [31142054631398]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eConstitutions\u003c/unittitle\u003e\u003cunitdate normal=\"1951/1963\" type=\"inclusive\"\u003e1951-1963\u003c/unitdate\u003e\u003ccontainer id=\"aspace_8fe1c1e39eb1ce7521e97e3afc528b28\" label=\"Mixed Materials [31142054631398]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eConventions\u003c/unittitle\u003e\u003cunitdate normal=\"1925/1925\" type=\"inclusive\"\u003e1925\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c8cb5ade708d0931b5d48b3a803bef42\" label=\"Mixed Materials [31142054631398]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePamphlets and Publications\u003c/unittitle\u003e\u003cunitdate normal=\"1929/1947\" type=\"inclusive\"\u003e1929-1947, undated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a2b5d8aacbf46842b9a7d3174bd18d27\" label=\"Mixed Materials [31142054631398]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRadio Officers' Union\u003c/unittitle\u003e\u003cunitdate normal=\"1941/1961\" type=\"inclusive\"\u003e1941-1961\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2447dbc93f869281cbc2bcf8f2e10668\" label=\"Mixed Materials [31142054631398]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref43\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eStrikes\u003c/unittitle\u003e\u003cunitdate\u003e1952\u003c/unitdate\u003e\u003ccontainer id=\"aspace_239645e978a625a6dd190a5198df9968\" label=\"Mixed Materials [31142054631398]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eWestern Union Organizing Committee\u003c/unittitle\u003e\u003cunitdate normal=\"1947/1947\" type=\"inclusive\"\u003ecirca 1947\u003c/unitdate\u003e\u003ccontainer id=\"aspace_978e27e675bc808d922537430ec8ec11\" label=\"Mixed Materials [31142054631398]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref2\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries II: United Telegraph Workers\u003c/unittitle\u003e\u003cunitdate normal=\"1968/1990\" type=\"inclusive\"\u003e1968-1990\u003c/unitdate\u003e\u003c/did\u003e\u003cc id=\"aspace_ref4\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eAgreements and Contracts\u003c/unittitle\u003e\u003cunitdate normal=\"1968/1990\" type=\"inclusive\"\u003e1968-1990\u003c/unitdate\u003e\u003ccontainer id=\"aspace_59d9d30005f5eb83d3c53f73bfe4f46b\" label=\"Mixed Materials [31142054631380]\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eConstitutions\u003c/unittitle\u003e\u003cunitdate normal=\"1971/1979\" type=\"inclusive\"\u003e1971-1979\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a855c8410ff91f2d733efa17d6a84002\" label=\"Mixed Materials [31142054631398]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eConstitutions\u003c/unittitle\u003e\u003cunitdate normal=\"1983/1986\" type=\"inclusive\"\u003e1983-1986\u003c/unitdate\u003e\u003ccontainer id=\"aspace_06204b35c30435a14ec9ea150a962e9a\" label=\"Mixed Materials [31142054631398]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref42\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eStrikes\u003c/unittitle\u003e\u003cunitdate normal=\"1971/1971\" type=\"inclusive\"\u003e1971\u003c/unitdate\u003e\u003ccontainer id=\"aspace_614e71b4f72db578398119ac46b5ff5e\" label=\"Mixed Materials [31142054631398]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref6\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries III: Divisions\u003c/unittitle\u003e\u003cunitdate normal=\"1916/1986\" type=\"inclusive\"\u003e1916-1986\u003c/unitdate\u003e\u003c/did\u003e\u003cc id=\"aspace_ref24\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDivision 1 (Canadian Pacific System): By-Laws\u003c/unittitle\u003e\u003cunitdate normal=\"1925/1967\" type=\"inclusive\"\u003e1925-1967\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2a2c39acc72329477c291d6fd5fb1fd4\" label=\"Mixed Materials [31142054631398]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDivision 1 (Canadian Pacific System): Rules and Wages\u003c/unittitle\u003e\u003cunitdate normal=\"1916/1942\" type=\"inclusive\"\u003e1916-1942\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c6448baa54977758a15610d9f9a26f20\" label=\"Mixed Materials [31142054631398]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref26\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDivision 14 (Associated Press System)\u003c/unittitle\u003e\u003cunitdate normal=\"1949/1956\" type=\"inclusive\"\u003e1949-1956\u003c/unitdate\u003e\u003ccontainer id=\"aspace_75db8c72f612bc5a73273ea1b3f91ad6\" label=\"Mixed Materials [31142054631398]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDivision 14 (Associated Press System): By-Laws\u003c/unittitle\u003e\u003cunitdate normal=\"1939/1965\" type=\"inclusive\"\u003e1939-1965\u003c/unitdate\u003e\u003ccontainer id=\"aspace_cebe8c5f800d4c13dab44892b0674d92\" label=\"Mixed Materials [31142054631398]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref28\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDivision 14 (Associated Press System): By-Laws\u003c/unittitle\u003e\u003cunitdate normal=\"1972/1982\" type=\"inclusive\"\u003e1972-1982\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4ebee72aa8e27fe73ba5778edda1e717\" label=\"Mixed Materials [31142054631398]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref29\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDivision 47 (United Press System): By-Laws\u003c/unittitle\u003e\u003cunitdate normal=\"1929/1962\" type=\"inclusive\"\u003e1929-1962\u003c/unitdate\u003e\u003ccontainer id=\"aspace_13dd6d48df5bf1b187e0996a7caa56f4\" label=\"Mixed Materials [31142054631398]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref30\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDivision 47 (United Press System): Contracts and Seniority Record\u003c/unittitle\u003e\u003cunitdate normal=\"1946/1953\" type=\"inclusive\"\u003e1946-1953\u003c/unitdate\u003e\u003ccontainer id=\"aspace_48b1c71429277a7d267888c7c6501e54\" label=\"Mixed Materials [31142054631398]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref31\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDivision 47 (United Press System): Pension Plan\u003c/unittitle\u003e\u003cunitdate normal=\"1960/1964\" type=\"inclusive\"\u003e1960, 1964\u003c/unitdate\u003e\u003ccontainer id=\"aspace_64b3f0fe3f8194a201b9a124b9b31709\" label=\"Mixed Materials [31142054631398]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref32\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDivision 61 (International News Service)\u003c/unittitle\u003e\u003cunitdate normal=\"1918/1948\" type=\"inclusive\"\u003e1918, 1948\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2b017f9899ad98f4d9c41cf0448c5da4\" label=\"Mixed Materials [31142054631398]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref33\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSouthwestern Division: Constitutions\u003c/unittitle\u003e\u003cunitdate normal=\"1959/1967\" type=\"inclusive\"\u003e1959-1967\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ad3d15a5eac7d0cbb1423bf2dc309404\" label=\"Mixed Materials [31142054631398]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref34\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eWestern Union Division: By-Laws\u003c/unittitle\u003e\u003cunitdate normal=\"1943/1957\" type=\"inclusive\"\u003e1943-1957\u003c/unitdate\u003e\u003ccontainer id=\"aspace_00d1de7be0bc20a398e2c164f1ae6a5c\" label=\"Mixed Materials [31142054631398]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref35\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eWestern Union Division: By-Laws\u003c/unittitle\u003e\u003cunitdate normal=\"1959/1971\" type=\"inclusive\"\u003e1959-1971\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c6a91307f342f3a6a7239ee67ad23743\" label=\"Mixed Materials [31142054631398]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref36\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eWestern Union Division: By-Laws (Various Locals)\u003c/unittitle\u003e\u003cunitdate normal=\"1966/1986\" type=\"inclusive\"\u003e1966-1986\u003c/unitdate\u003e\u003ccontainer id=\"aspace_54bad27c4210ced5b3bfc80e880057ba\" label=\"Mixed Materials [31142054631398]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

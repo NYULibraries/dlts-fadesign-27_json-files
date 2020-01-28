@@ -1,0 +1,137 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "tam_268"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Sol Yurick Manuscripts for Publication\n                    \u003cnum\u003eTAM.268\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Tamiment staff."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "12/01/2009"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T19:14-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Yurick, Sol, 1925-"
+                    }
+                },
+                "unittitle": {
+                    "value": "Sol Yurick Manuscripts for Publication"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "14.5 linear feet"
+                        },
+                        {
+                            "value": "(15 boxes)"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "TAM.268"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid18883003",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1-15"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref2",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Advance appointment required (72 hours notice). Contact: tamiment.wagner@nyu.edu"
+            }
+        },
+        "bioghist": {
+            "id": "ref5",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Sol Yurick (1925-) is an American novelist born to a working class family of politically active Jewish immigrants, but became disillusioned with politics after the 1939 Hitler-Stalin pact. He studied at New York University after the war, majoring in literature. After graduation, he took a job with the welfare department as a social investigator, a job he held until the early 1960s, when he took up writing full time. Much of his work involves speculative political and social commentary. He was involved in Students for a Democratic Society and the anti-war movement at this time."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The collection principally consists of typescripts of his published works. PLEASE DIRECT FURTHER INQUIRIES TO: tamiment.wagner@nyu.edu"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Jewish radicals |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Magic realism (Literature)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Novelists, American |y 20th century."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Political fiction, American."
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

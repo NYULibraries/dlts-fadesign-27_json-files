@@ -1,0 +1,181 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-F",
+            "value": "taggart"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the John Taggart Archive\u003clb/\u003e\u003cdate\u003eca. 1970-1974 \u003c/date\u003e\u003clb/\u003e\u003cnum\u003e\u003c/num\u003e \u003cnum\u003eMSS.025\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Amber Creger, March 1999"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Fales Library and Special Collections"
+                },
+                "address": {
+                    "addressline": [
+                        "Fales Library and Special Collections",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "3rd Floor",
+                        "New York, NY 10012",
+                        "Phone: (212) 998-2596",
+                        "fales.library@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-06-16T13:49:18\u003c/date\u003e"
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Fales Library and Special Collections"
+                    }
+                },
+                "unittitle": {
+                    "value": "John Taggart Archive"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "1970-1974"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Linear Feet"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The John Taggart Archive is a collection of correspondence John Taggart received as editor of \u003ctitle render=\"italic\"\u003eMaps\u003c/title\u003e during 1970 to 1974. Collection highlights include correspondence from Carol Bergé, Paul Blackburn, Hayden Carruth, Robert Creeley, Guy Davenport, Gary Snyder, and Louis Zukofsky."
+                },
+                "unitid": {
+                    "value": "MSS.025"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_3950b8470fb7e5398eed2c3ea5c3ebff",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_22231f8706cecdbe9b38eb564f0a7e67",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form:\u003clb/\u003e\u003clb/\u003e\nIdentification of item,  date (if known); The John Taggart Archive; MSS 025; box number; folder number; \u003caddress\u003e\u003caddressline\u003eFales Library and Special Collections, New York University Libraries.\u003c/addressline\u003e\u003c/address\u003e"
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_f1603453ac4d4a16a3c5fdc56996da78",
+            "head": "Provenance",
+            "p": {
+                "value": "The John Taggart Archive was acquired via purchases from Taggart between 1971-1975."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_e6eaa49e21f98aeaa0aac0eda91943f5",
+            "head": "[put Biographical or Historical here] Note",
+            "p": {
+                "value": "[concise information about the creator(s) of the described materials]"
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_e2cc2876e3e9de2b87646ddf4dfe24aa",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The John Taggart Archive is a part of the Avant Garde Collection at Fales Library, New York University. The Fales Library is the primary special collections division of the NYU libraries, housing over 170,000 volumes of English and American literature from 1700 to the present. Strengths of the collection include the development of the English and American novel, with an emphasis on the Gothic and the Victorian novel. The Avant Garde Collection comprises printed materials, archives, and other materials related to the avant-garde writing from the 1960s and early 1970s. The collection was build during that period by curators, including Mel Edestein and Ted Grieder."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Small presses -- New York (State) -- New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Art, Modern |y 20th century |v Periodicals."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Literature, Experimental |x Periodicals."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Poets, American -- 20th century"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "American literature |y 20th century."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Authors, American -- 20th century"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "American fiction -- 20th century"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "American poetry |y 20th century."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Avant-garde (Aesthetics)"
+                },
+                {
+                    "source": "local",
+                    "value": "Downtown writers."
+                }
+            ],
+            "corpname": {
+                "source": "ingest",
+                "value": "The John Taggart Archive, Maps"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref12\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: Correspondence\u003c/unittitle\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_9623ffed486840bc70702091cd8a7906\"\u003e\u003chead\u003eScope and Contents note\u003c/head\u003e\u003cp\u003eSeries 1 contains one box of correspondence to John Taggert, editor of Maps. Noted correspondents include Carol Bergé, Paul Blackburn, Hayden Carruth, Robert Creeley, Guy Davenport, Gary Snyder, and Louis Zukofsky.\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_ref13\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eAllen, Donald\u003clb/\u003eBergé, Carol\u003clb/\u003eBlackburn, Paul\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1971\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b96bdcb826dd5409e7599dbf06cb1e34\" label=\"Mixed Materials (31142054900314)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b96bdcb826dd5409e7599dbf06cb1e34\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eBrakhage, Stan\u003clb/\u003eBronk, William\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1973\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b7567894a13b616819f06eef57e92e1a\" label=\"Mixed Materials (31142054900314)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b7567894a13b616819f06eef57e92e1a\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eButterick, George\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1971-1974\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1ce8029da075022153f4df1a707559e8\" label=\"Mixed Materials (31142054900314)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1ce8029da075022153f4df1a707559e8\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCarruth, Hayden\u003clb/\u003eCreeley, Robert\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1970; 1973\u003c/unitdate\u003e\u003ccontainer id=\"aspace_507adac5f37fc87e5192fa6356f90c7f\" label=\"Mixed Materials (31142054900314)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_507adac5f37fc87e5192fa6356f90c7f\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eDavenport, Guy\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1972-1974\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b30addaa6f588cf128831dafc5a95a33\" label=\"Mixed Materials (31142054900314)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b30addaa6f588cf128831dafc5a95a33\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eEdson, Russell\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1973\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5c0805367e90a29dd8b3ba6a7eed4f45\" label=\"Mixed Materials (31142054900314)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5c0805367e90a29dd8b3ba6a7eed4f45\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eEigner, Larry\u003clb/\u003e\u003clb/\u003eElliott, George P.\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1970-1971\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a86adbc4768f853dc092a253d7b34897\" label=\"Mixed Materials (31142054900314)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_a86adbc4768f853dc092a253d7b34897\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eGoodman, Mitchell\u003clb/\u003eGreene, Jonathan\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1971\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b04356e884715f7d94614f19d144c65b\" label=\"Mixed Materials (31142054900314)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b04356e884715f7d94614f19d144c65b\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eGrossinger, Richard\u003clb/\u003eHarris, George\u003clb/\u003eHeller, Michael\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eUndated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_8e5f4f51dc8a546026e37d60e12c3801\" label=\"Mixed Materials (31142054900314)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_8e5f4f51dc8a546026e37d60e12c3801\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eJustice, Donald\u003clb/\u003eKenner, Hugh\u003clb/\u003eKrofsky, Frank\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1971\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7cc15285bec3712bd376cfa4b066f133\" label=\"Mixed Materials (31142054900314)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_7cc15285bec3712bd376cfa4b066f133\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eMeltzer, David\u003clb/\u003eNewlove, John\u003clb/\u003eOppen, George\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1970\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b83bcdebbc270be845704a44bebf68d2\" label=\"Mixed Materials (31142054900314)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b83bcdebbc270be845704a44bebf68d2\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003ePearson, Norman Holms\u003clb/\u003ePhelps, Donald\u003clb/\u003eRothenberg, Jerome\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1973\u003c/unitdate\u003e\u003ccontainer id=\"aspace_657fe5c9b36daa7591cc70c5f76a4e42\" label=\"Mixed Materials (31142054900314)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_657fe5c9b36daa7591cc70c5f76a4e42\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eSilliman, Ronald\u003clb/\u003eSnyder, Gary\u003clb/\u003eSpann, Marcella\u003clb/\u003eVas Dias, Robert\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1970-1971\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1d1d7ef31a9c726545dfca3b44101a00\" label=\"Mixed Materials (31142054900314)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1d1d7ef31a9c726545dfca3b44101a00\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref26\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eUnidentified\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1971\u003c/unitdate\u003e\u003ccontainer id=\"aspace_30993479c736e7a3711e05d719bed2b3\" label=\"Mixed Materials (31142054900314)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_30993479c736e7a3711e05d719bed2b3\" type=\"Folder\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eWeil, James\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1969-1974\u003c/unitdate\u003e\u003ccontainer id=\"aspace_41e231ae93fb4fe72fa7e6eecfde0c7d\" label=\"Mixed Materials (31142054900314)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_41e231ae93fb4fe72fa7e6eecfde0c7d\" type=\"Folder\"\u003e15\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref28\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eWeiss, Ted and Renée\u003clb/\u003eWhalen, Philip\u003clb/\u003eZukofsky, Louis\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1969-1970\u003c/unitdate\u003e\u003ccontainer id=\"aspace_0c9cd910dbb76f1985b71f363bceceff\" label=\"Mixed Materials (31142054900314)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0c9cd910dbb76f1985b71f363bceceff\" type=\"Folder\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

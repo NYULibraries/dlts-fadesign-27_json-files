@@ -1,0 +1,110 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "alba_269"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Bernard Ades Papers \u003cnum\u003eALBA.269\u003c/num\u003e"
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-07-18T18:55:37\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Ades, Bernard, 1903-1986"
+                    }
+                },
+                "unittitle": {
+                    "value": "Bernard Ades Papers"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "4 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(4 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "ALBA.269"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_952a89a49b0d27de5f98ce977eb055c7",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1-4"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_ddb4f6243dac2368b0784af1bb806c5b",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open to researchers. Please contact the Tamiment Library \u0026amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_453910ad1c405a7cda52b7e27e26e168",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Bernard Ades was well known in Maryland in the 1930s as a defense lawyer for African Americans involved in criminal cases. He ran as the Communist Party candidate for governor of Maryland in 1934. Ades left the United States in February 20, 1937 as a volunteer with the Abraham Lincoln Brigade and arrived in Spain in March of 1937.  The units Ades served with included the Washington Battalion and later the Lincoln-Washington Battalion.  He also may have served as a commissar in the Lincoln Battalion.  In the fall of 1937, Ades returned to the United States from Spain. He moved to New York City in 1941, and worked as a certified public accountant and a lawyer in the Federal Tax Court. His clients included the Communist Party and the Soviet trade organization known as Amtorg.  Two boxes contain material concerning the FOIA files of Bernard Ades. The materials also include records concerning Ades' disbarment proceedings in the District of Maryland in the 1930s. Included are correspondence, photographs, newspaper clippings, and records concerning Ades' political and professional activities in Baltimore, Maryland, and New York City, particularly in the Bronx. Included in the materials is a letter Ades sent to the United States from Spain in August of 1937. Two oversized photographs have been separated and included in the Alba photograph collection #164."
+            }
+        },
+        "dsc": {}
+    }
+}

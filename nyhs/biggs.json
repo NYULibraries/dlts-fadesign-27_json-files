@@ -1,0 +1,145 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "biggs"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Madelyn O. Biggs Papers\u003clb/\u003e1943–2015 (bulk, 1943–1949)\u003clb/\u003e \u003cnum\u003ePR 335\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Joseph Ditta"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-08-29T14:39:15\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Biggs, Madelyn O."
+                    }
+                },
+                "unittitle": {
+                    "value": "Madelyn O. Biggs papers"
+                },
+                "unitdate": {
+                    "normal": "0/0",
+                    "type": "inclusive",
+                    "value": "1943–2015 (bulk, 1943–1949)"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1.667 Linear feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Advertising ephemera, proofs, and tear sheets illustrating the work of commercial artist Madelyn O. Biggs (1923–2016)."
+                },
+                "unitid": {
+                    "value": "PR 335"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_c9c32d13a14cd1884712abd21dee0a91",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Photocopying undertaken by staff only. Limited to twenty exposures of stable, unbound material per day. (Researchers may not accrue unused copy amounts from previous days.)"
+            }
+        },
+        "prefercite": {
+            "id": "aspace_79410ceea597edb9a15e2ddfef57105c",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Credit line (for exhibition labels): \u003cemph render=\"bold\"\u003eGift of the Estate of Madelyn O. Biggs\u003c/emph\u003e."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_f1a7996e09997dfd47a3adde992b2e66",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Gift of the Estate of Madelyn O. Biggs, 2017."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_ae2735fb41c22ba9e53e9a2a6f758ece",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Madelyn married her second husband, Richard Ashley Biggs, in Pottstown, Pennsylvania, on 19 November 1949, and then worked as \"Madelyn O. Biggs.\" She died, age 93, on 4 December 2016."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_97b19a78e8d0097023615cf96444346c",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection contains approximately 100 examples of advertising ephemera, largely in the form of print publication tear sheets and proofs, along with booklets and product packaging, representing the work of commercial artist Madelyn O. Biggs (a.k.a. \"Madelyn Oesterling\" and \"Madelyn O. Hayes\"). Biggs created designs for advertising agencies, beverage manufacturers, confectioners, chemical concerns, clothing and fabric mills, hatters, hosiers, underwear makers, fraternal organizations, and utilities. Two purchase orders (Folder 1, below) issued to her by the Metropolitan Edison Company show she was paid $2.50 hourly (in 1947–1948) for \"advertising consultation, advertising roughs and layouts, magazine roughs and layouts, [and] finished art work and such other commercial art work as may be ordered\" (see Folders 18 and 20 for examples of the work she supplied). The collection also includes a small amount of personal material, and the artist's short essay on the history of advertising (in Folder 1)."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Commercial artists -- New York (State) -- New York  "
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Advertising"
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref13_27g\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"bold\"\u003eBiographical\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"204330\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e204330\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003e1945–2015\u003c/unitdate\u003e\u003ccontainer id=\"aspace_03920e473f324c7e73a524b46c14460c\" label=\"Mixed Materials\" type=\"Box\"\u003e1 (of 1)\u003c/container\u003e\u003ccontainer parent=\"aspace_03920e473f324c7e73a524b46c14460c\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_1cbc30bcfc17c3213945423cafa62294\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eIncludes a Christmas card with a self-caricature of the artist at her drawing table, circa 1945–1949; purchase orders issued to Madelyn O. Hayes by the Metropolitan Edison Company, 1947–1948, for roughs, layouts, and artwork (see also Folders 18 \u0026amp; 20); the 1948 Best of Industry Direct Mail Award issued to \"Madeline\" Hayes for her work for Willson Products, Inc. (see Folder 12); the artist's five-page manuscript history of advertising, circa 1947; stationery of Madelyn O. Biggs, \"Commercial Art\"; and the Spring 2015 issue of \u003cemph render=\"italic\"\u003eChanging Lives\u003c/emph\u003e, newsletter of the Salvation Army, Greater New York Division, in which Biggs recounts her time at the Markle Evangeline Residence, 1941–1945.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14_0gs\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"bold\"\u003eAdvertising agencies\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"204331\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e204331\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003e[1940s]\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e141e3c583402ea9c397eedf078c8e94\" label=\"Graphic Materials\" type=\"Box\"\u003e1 (of 1)\u003c/container\u003e\u003ccontainer parent=\"aspace_e141e3c583402ea9c397eedf078c8e94\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_3577351733a7aa573d71d707971a5adf\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eRaymond E. Nelson, Incorporated (New York, N.Y.)\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15_qv6\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"bold\"\u003eBeverages\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"204332\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e204332\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003e[1940s]\u003c/unitdate\u003e\u003ccontainer id=\"aspace_86bfcb1b7a3a5f74c4966df871c7caf5\" label=\"Graphic Materials\" type=\"Box\"\u003e1 (of 1)\u003c/container\u003e\u003ccontainer parent=\"aspace_86bfcb1b7a3a5f74c4966df871c7caf5\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_13956e8e1d793f98211e8becf8dbf6a7\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eCrystal Rock Beverage Company\u003clb/\u003e\nVan Ameringen-Haebler, Inc. (New York, N.Y.)\u003clb/\u003e\n[See also Folder 19]\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16_m7d\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"bold\"\u003eCandy\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"204333\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e204333\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003e[1940s]\u003c/unitdate\u003e\u003ccontainer id=\"aspace_168839818a4fe37b936d6548dc798a45\" label=\"Graphic Materials\" type=\"Box\"\u003e1 (of 1)\u003c/container\u003e\u003ccontainer parent=\"aspace_168839818a4fe37b936d6548dc798a45\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_fde7269362dbace9fd1b8f950ec64371\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eBarricini Candies (Greater New York)\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17_vz6\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"bold\"\u003eChemicals \u0026amp; dyes\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"204334\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e204334\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003e1943–1944\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4fcf873f12a40de086c45be452711580\" label=\"Graphic Materials\" type=\"Box\"\u003e1 (of 1)\u003c/container\u003e\u003ccontainer parent=\"aspace_4fcf873f12a40de086c45be452711580\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_9b8e6e37f9c495266995c3760a54c45a\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eNational Aniline Division, Allied Chemical \u0026amp; Dye Corporation (New York, N.Y.)\u003clb/\u003e\nWestvaco Chlorine Products Corporation (New York, N.Y.)\u003clb/\u003e\n[See also Folder 19]\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18_sw9\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"bold\"\u003eChildren's clothing\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"204335\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e204335\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003e1948\u003c/unitdate\u003e\u003ccontainer id=\"aspace_8377abfd0822ad449cc3960075922109\" label=\"Graphic Materials\" type=\"Box\"\u003e1 (of 1)\u003c/container\u003e\u003ccontainer parent=\"aspace_8377abfd0822ad449cc3960075922109\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_9daf6c299dcc514a21eac40490379473\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eAlpha Mills Corp. (Schuykill Haven, Pa.)\u003clb/\u003e\n[See also Folder 20]\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19_yrw\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"bold\"\u003eConstruction\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"204336\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e204336\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003e1951\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c171cc340731aef28d4db737dbdd270c\" label=\"Graphic Materials\" type=\"Box\"\u003e1 (of 1)\u003c/container\u003e\u003ccontainer parent=\"aspace_c171cc340731aef28d4db737dbdd270c\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_c4864cc1f63037768bc9033c25950068\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eFranki Foundation Company (New York, N.Y.)\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20_ms9\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"bold\"\u003eDepartment stores\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"204337\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e204337\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003e[1940s]\u003c/unitdate\u003e\u003ccontainer id=\"aspace_bfe24e1887a8496a4f6c680a3712e3c8\" label=\"Graphic Materials\" type=\"Box\"\u003e1 (of 1)\u003c/container\u003e\u003ccontainer parent=\"aspace_bfe24e1887a8496a4f6c680a3712e3c8\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_3736c84eb5b41348a6f5fcda0925cf39\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eJeannette (Reading, Pa.?)\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21_67i\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"bold\"\u003eDirect mail advertising\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"204338\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e204338\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003e[1940s]\u003c/unitdate\u003e\u003ccontainer id=\"aspace_46d1bd8367be0f04c203c965654a0494\" label=\"Graphic Materials\" type=\"Box\"\u003e1 (of 1)\u003c/container\u003e\u003ccontainer parent=\"aspace_46d1bd8367be0f04c203c965654a0494\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_ed5b00d9d61879da90d06a92d27a898c\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eBeaumont, Heller and Sperling, Inc. (Reading, Pa.)\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22_r85\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"bold\"\u003eFabrics\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"204339\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e204339\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003e1943–1944\u003c/unitdate\u003e\u003ccontainer id=\"aspace_026355a48626ec5b84f7f05ee7b3c605\" label=\"Graphic Materials\" type=\"Box\"\u003e1 (of 1)\u003c/container\u003e\u003ccontainer parent=\"aspace_026355a48626ec5b84f7f05ee7b3c605\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_b8a6f0cb47ae385155d13ad2e9ef3c09\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eL.C. Chase \u0026amp; Company (New York, N.Y.)\u003clb/\u003e\n[See also Folder 19]\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23_dxq\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"bold\"\u003eFraternal organizations\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"204340\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e204340\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003e1949\u003c/unitdate\u003e\u003ccontainer id=\"aspace_73768888c7118e318c70850f381ab3b1\" label=\"Graphic Materials\" type=\"Box\"\u003e1 (of 1)\u003c/container\u003e\u003ccontainer parent=\"aspace_73768888c7118e318c70850f381ab3b1\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_0fd06c0e5ba1e051f07b582c7fdf5adb\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eRajah Temple [Shriners] (Reading, Penn.)\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24_gnv\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"bold\"\u003eGoggles, respirators, gas masks, helmets, sunglasses\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"204341\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e204341\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003ecirca 1948\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5360ba0e8fbf04e7858ab57487ed85d7\" label=\"Graphic Materials\" type=\"Box\"\u003e1 (of 1)\u003c/container\u003e\u003ccontainer parent=\"aspace_5360ba0e8fbf04e7858ab57487ed85d7\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_cf6db91b1d9434742635f04005aad9eb\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eWillson Products, Incorporated (Reading, Pa.)\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25_smw\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"bold\"\u003eHats\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"204342\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e204342\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003e[1940s]\u003c/unitdate\u003e\u003ccontainer id=\"aspace_19bec6ba2ca398fee8a984870fdc329f\" label=\"Graphic Materials\" type=\"Box\"\u003e1 (of 1)\u003c/container\u003e\u003ccontainer parent=\"aspace_19bec6ba2ca398fee8a984870fdc329f\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_818d02295c3d80e8dae66b5b11bddef2\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eJoseph Kanner Hat Co., Inc. (South Norwalk, Conn.)\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref26_6ch\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"bold\"\u003eHosiery\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"204343\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e204343\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003e1948\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c4c786d08038582e55115dbfdc1bec43\" label=\"Graphic Materials\" type=\"Box\"\u003e1 (of 1)\u003c/container\u003e\u003ccontainer parent=\"aspace_c4c786d08038582e55115dbfdc1bec43\" type=\"Folder\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_dcfe0aaac5ace5c03109839ebb331e3d\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eInfant Socks, Inc. (Reading, Pa.)\u003clb/\u003e\nWilliam G. Leininger Knitting Co., Inc. (Mohnton, Pa.)\u003clb/\u003e\nPenn Hosiery Mills, Inc. (New York, N.Y.)\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27_67s\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"bold\"\u003eJewelry\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"204344\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e204344\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003e[1940s]\u003c/unitdate\u003e\u003ccontainer id=\"aspace_76b8276c6c6d91929f5ea43fc91de860\" label=\"Graphic Materials\" type=\"Box\"\u003e1 (of 1)\u003c/container\u003e\u003ccontainer parent=\"aspace_76b8276c6c6d91929f5ea43fc91de860\" type=\"Folder\"\u003e15\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_ae68a05036ad6f2af7d5175be44f0617\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eC. K. Whitner Co. (Reading, Pa.)\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref28_lb9\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"bold\"\u003eLaundry\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"204345\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e204345\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003e[1940s]\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d8e9cde4990a115578895856b284965b\" label=\"Graphic Materials\" type=\"Box\"\u003e1 (of 1)\u003c/container\u003e\u003ccontainer parent=\"aspace_d8e9cde4990a115578895856b284965b\" type=\"Folder\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_2b7dfa067d8765a564df4b802efcaa66\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eBrown's Laundry (Reading, Pa.?)\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref29_47q\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"bold\"\u003eUnderwear\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"204346\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e204346\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003e[1940s]\u003c/unitdate\u003e\u003ccontainer id=\"aspace_23f05d057503d9fa6c2aec72fff96c19\" label=\"Graphic Materials\" type=\"Box\"\u003e1 (of 1)\u003c/container\u003e\u003ccontainer parent=\"aspace_23f05d057503d9fa6c2aec72fff96c19\" type=\"Folder\"\u003e17\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_41af023b63bf746812558041fd1fe9ba\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eArlan's\u003clb/\u003e\nB.V.D.\u003clb/\u003e\nCorliss\u003clb/\u003e\nCranbrook Jr.\u003clb/\u003e\nDiener Knitting Mills (New York, N.Y.)\u003clb/\u003e\nFairy Silk Mills, Inc. (Shillington, Pa.)\u003clb/\u003e\nInsulated Quilted Underwear\u003clb/\u003e\nInsulated Thermal Underwear\u003clb/\u003e\nJordan Marsh\u003clb/\u003e\nKress\u003clb/\u003e\nMarshall Field \u0026amp; Company\u003clb/\u003e\nRoyaltex\u003clb/\u003e\nTarleton Tots\u003clb/\u003e\n[See also Folder 20]\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref30_u1a\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"bold\"\u003eUtilities \u0026amp; infrastructure\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"204347\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e204347\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003e1947–1949\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5cd93dcf1607d77e68279813e96a258a\" label=\"Graphic Materials\" type=\"Box\"\u003e1 (of 1)\u003c/container\u003e\u003ccontainer parent=\"aspace_5cd93dcf1607d77e68279813e96a258a\" type=\"Folder\"\u003e18\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_ef3cb9b6248535474488437aecd986a5\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eGreater Reading Development Fund (Reading, Pa.?)\u003clb/\u003e\nMetropolitan Edison Company (Reading, Pa.)\u003clb/\u003e\nPennsylvania Electric Association\u003clb/\u003e\n[See also Folder 20]\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref31_z3j\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"bold\"\u003eScrapbook pages\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"204348\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e204348\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003e1943–1945\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c898ec5e0060248c1958d1c35542dcb3\" label=\"Graphic Materials\" type=\"Box\"\u003e1 (of 1)\u003c/container\u003e\u003ccontainer parent=\"aspace_c898ec5e0060248c1958d1c35542dcb3\" type=\"Folder\"\u003e19\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_13ff513f6b04af80e79e25db4f24fa77\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eBeverages: Van Ameringen-Haebler, Inc. (New York, N.Y.)\u003clb/\u003e\nChemicals \u0026amp; dyes: National Aniline Division, Allied Chemical \u0026amp; Dye Corporation (New York, N.Y.)\u003clb/\u003e\nFabrics: L.C. Chase \u0026amp; Company (New York, N.Y.)\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref32_359\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"bold\"\u003eIllustration boards\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"204349\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e204349\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003e[1940s]\u003c/unitdate\u003e\u003ccontainer id=\"aspace_078ac7324dedaf29b867465b0484c557\" label=\"Graphic Materials\" type=\"Box\"\u003e1 (of 1)\u003c/container\u003e\u003ccontainer parent=\"aspace_078ac7324dedaf29b867465b0484c557\" type=\"Folder\"\u003e20\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_45f71abafea9eab97e41f8c21b5a9401\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eChildren's clothing: Alpha Mills Corp. (Schuykill Haven, Pa.)\u003clb/\u003e\nUnderwear: C. R. Anthony Co. [men's t-shirts]\u003clb/\u003e\nUtilities \u0026amp; infrastructure: Metropolitan Edison Company (Reading, Pa.)\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref53_s66\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"bold\"\u003ePortfolio [empty]\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"204590\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e204590\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f2b9ae5134383dccaa08db7e9c3b4f81\" label=\"Realia\" type=\"Box\"\u003e1 (of 1)\u003c/container\u003e\u003ccontainer parent=\"aspace_f2b9ae5134383dccaa08db7e9c3b4f81\" type=\"Folder\"\u003e21\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_9cf7a3801517e9d72cf98aff5a56363a\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThe collection came to N-YHS in this portfolio.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e"
+        }
+    }
+}

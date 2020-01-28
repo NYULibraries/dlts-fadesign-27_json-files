@@ -1,0 +1,126 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "strongpapers"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Strong Family Papers\n                    \u003clb/\u003e 1747-1940\n                    \u003clb/\u003e\n                    \u003cnum\u003eMS602\u003c/num\u003e\n                "
+                    },
+                    {
+                        "type": "filing",
+                        "value": "Strong Family Papers"
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Catherine Newton. Machine-readable finding aid created by Catherine Newton and Susan Kriete."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "© 2011 New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                },
+                "date": "8/7/2012"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-11-21T09:45-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "© 2011 New-York Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "Strong Family Papers"
+                },
+                "unitdate": {
+                    "value": "1747-1940"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.5 Linear feet"
+                        },
+                        {
+                            "value": "(4 boxes)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "This collection contains assorted papers of the Strong family of New York and Long Island. It consists of two separate acquisitions, arranged as two series. Series I includes correspondence and other documents spanning three generations of Strongs: Selah Strong (1737-1815), Benjamin Strong (1770-1851), and George Washington Strong (1793-1855) [father of noted diarist George Templeton Strong]. Series II consists of the diaries and a few other papers from the estate of George Ruggles Strong (1851-1941)[George Templeton Strong's son]. Also included in Series II are approximately one hundred family photographs."
+                },
+                "unitid": {
+                    "value": "MS602"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref32",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Photocopying undertaken by staff only. Limited to twenty exposures of stable, unbound material per day. (Researchers may not accrue unused copy amounts from previous days.)"
+            }
+        },
+        "bioghist": {
+            "id": "ref42",
+            "head": "Biographical note",
+            "p": {
+                "value": "John Ruggles Strong (1851-1941), the son of George Templeton Strong, is represented in a second series of separately acquired materials. A lawyer, musician and poet, John Ruggles Strong also kept a diary which is held in this collection."
+            }
+        },
+        "scopecontent": {
+            "id": "ref34",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "Series II consists of diary entries and assorted other documents from John Ruggles Strong (the son of noted diarist George Templeton Strong). The first diary (bound) records John's activities over a 25 year period, from 1909 (at which point John Ruggles Strong was a retired widower) to 1936. Frequent mention is made of his adult son George Templeton Strong III (born 1888). The two had a contentious relationship. From 1923 to 1937, John began keeping a separate diary on loose sheets, with each page headed \"George,\" to record his son's activities and their stormy relationship. At least one entry touches upon the ethnic transition of their uptown neighborhood, Hamilton Heights in West Harlem: \"George says the owner or manager of the tennis court in front of his house, a Jew named Ullman, has rented teh court to Negroes, refusing to rent it any longer to the present white tenants\" (December 1, 1934). Series II also includes approximately 100 family photographs, including portraits of family members from earlier generations."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Family--New York (State)--New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "New York (N.Y.) -- Social Life and Customs"
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref1\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries I. Early Generations (1747-1848)\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                    \u003cunitdate\u003e1747-1848\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref3\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePhotocopied material relating to Benjamin Strong\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid619001\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid619001\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref4\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eBusiness Financial Records\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid619002\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid619002\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate\u003e1794-1847\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref5\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence-Anna Strong to Selah Strong\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid619003\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid619003\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate normal=\"1800/1800\"\u003e1800\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref6\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence-Benjamin Strong to Caroline A. Strong\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid619004\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid619004\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate normal=\"1836/1836\"\u003e1836\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref7\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence-Benjamin Strong to George Washington Strong\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid619005\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid619005\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate\u003e1805-1826\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref8\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence-Benjamin Strong to Rev. Isaac Ferris\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid619006\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid619006\" type=\"Folder\"\u003e6\u003c/container\u003e\n                        \u003cunitdate normal=\"1833/1833\"\u003e1833\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref9\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence-Benjamin Strong to Selah Strong\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid619007\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid619007\" type=\"Folder\"\u003e7\u003c/container\u003e\n                        \u003cunitdate\u003e1790-1815\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref10\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence-Benjamin Strong to Selah Strong\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid619008\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid619008\" type=\"Folder\"\u003e8\u003c/container\u003e\n                        \u003cunitdate normal=\"1843/1843\"\u003e1843\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref11\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence-Benjamin Strong to Thomas S. Strong\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid619009\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid619009\" type=\"Folder\"\u003e9\u003c/container\u003e\n                        \u003cunitdate\u003e1800-1839\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref12\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence-George Washington Strong to Thomas S. Strong\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid619010\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid619010\" type=\"Folder\"\u003e10\u003c/container\u003e\n                        \u003cunitdate\u003e1800-1839\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref13\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eDeeds\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid619011\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid619011\" type=\"Folder\"\u003e11\u003c/container\u003e\n                        \u003cunitdate\u003e1757-1832\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref45\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eDeeds\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid646002\" type=\"Box\" label=\"Mixed materials\"\u003eOversize Small\u003c/container\u003e\n                        \u003ccontainer parent=\"cid646002\" type=\"Folder\"\u003eStrong Family-Deeds\u003c/container\u003e\n                        \u003cunitdate\u003e1803-1819\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref44\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eDeeds\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid646001\" type=\"Box\" label=\"Mixed materials\"\u003eOversize Medium\u003c/container\u003e\n                        \u003ccontainer parent=\"cid646001\" type=\"Folder\"\u003eStrong Family-Deeds\u003c/container\u003e\n                        \u003cunitdate\u003e1790\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref41\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eDeeds\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid621001\" type=\"Box\" label=\"Mixed materials\"\u003eOversize-Medium\u003c/container\u003e\n                        \u003ccontainer parent=\"cid621001\" type=\"Folder\"\u003eStrong Family-Deeds\u003c/container\u003e\n                        \u003cunitdate\u003e1784-1815\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref14\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eInvitation to Princeton Commencement Ball\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid619012\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid619012\" type=\"Folder\"\u003e12\u003c/container\u003e\n                        \u003cunitdate\u003e1822,1833\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref15\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eLegal and Financial Documents\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid619013\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid619013\" type=\"Folder\"\u003e13\u003c/container\u003e\n                        \u003cunitdate\u003e1783-1841, undated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref16\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMiscellaneous Writings\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid619014\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid619014\" type=\"Folder\"\u003e14\u003c/container\u003e\n                        \u003cunitdate\u003e1839, undated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref17\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePrint of George Washington Strong\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid619015\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid619015\" type=\"Folder\"\u003e15\u003c/container\u003e\n                        \u003cunitdate normal=\"1848/1848\"\u003e1848\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref18\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries II. George Ruggles Strong\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref20\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePhotocopied census reports and registration card\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid619016\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid619016\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref21\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSteinway Hall concert program featuring Symphonic Poem composed by George Templeton Strong\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid619017\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid619017\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate normal=\"1884/1884\"\u003e1884\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref22\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eDiary-Bound-John Ruggles Strong\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid619018\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid619018\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate\u003e1909-1929\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref23\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eDiary-Loose-John Ruggles Strong\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid619019\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid619019\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate\u003e1923-1936\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref24\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eDiary-\"Special Events\"-John Ruggles Strong\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid619020\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid619020\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate\u003e1924-1929\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref25\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eNewspaper Clippings\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid619021\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid619021\" type=\"Folder\"\u003e6\u003c/container\u003e\n                        \u003cunitdate\u003e1886-c.1940\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref26\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePersonal Notes\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid619022\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid619022\" type=\"Folder\"\u003e7\u003c/container\u003e\n                        \u003cunitdate\u003e1920-1928, undated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref27\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePhotographs-Vacation in Marblehead, MA\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid619023\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid619023\" type=\"Folder\"\u003e8\u003c/container\u003e\n                        \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref28\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePhotographs-Portraits\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid619024\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid619024\" type=\"Folder\"\u003e9\u003c/container\u003e\n                        \u003cunitdate\u003e1853-1899, undated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref29\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePhotographs-Tintypes\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid619025\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid619025\" type=\"Folder\"\u003e10\u003c/container\u003e\n                        \u003cunitdate\u003ec.1908\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref39\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePhotograph Album-Portraits\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid620001\" type=\"Box\" label=\"Mixed materials\"\u003e3\u003c/container\u003e\n                        \u003ccontainer parent=\"cid620001\" type=\"Folder\"\u003e\u003c/container\u003e\n                        \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref40\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePhotograph Album-Vacation in Catskills\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid620002\" type=\"Box\" label=\"Mixed materials\"\u003e4\u003c/container\u003e\n                        \u003ccontainer parent=\"cid620002\" type=\"Folder\"\u003e\u003c/container\u003e\n                        \u003cunitdate\u003e1895\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

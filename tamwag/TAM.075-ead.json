@@ -1,0 +1,137 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "tam_075"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Robert George Thompson Papers\n                    \u003cnum\u003eTAM.075\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Tamiment Staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "10/26/2009"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T17:25-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Thompson, Robert George, 1915-1966."
+                    }
+                },
+                "unittitle": {
+                    "value": "Robert George Thompson Papers"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.0 linear feet"
+                        },
+                        {
+                            "value": "(1 box)"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "TAM.075"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid18743001",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref6",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open for research without restrictions."
+            }
+        },
+        "bioghist": {
+            "id": "ref9",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Robert George Thompson (1915-1966) fought in WWII and won the Distinguished Service Cross - the nation's second highest military award - for \"extraordinary heroism.\" He was also a veteran of the Abraham Lincoln Brigade. Thompson was a leading spokesman for the New York State Communist Party and was convicted in 1949 of conspiring to teach or advocate the overthrow of the Government by force. After his death in 1966, his widow, Sylvia Hall Thompson, asked that he be buried in Arlington National Cemetery--which anyone who served honorably in the Armed Services was entitled to at the time. But the Attorney General of the United States denied Thompson's burial at the cemetery, leading to a court case which claimed the Defense Department acted beyond all statutory and constitutional authority in barring the interment. A District Court judge ruled that the government may issue regulations governing the exclusion of certain individuals from the cemetery."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "This collection contains documents relating to the court case Thompson v. McNamara, including court documents, press releases and newspaper clippings. PLEASE DIRECT FURTHER INQUIRIES TO: tamiment.wagner@nyu.edu"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Communist trials |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Communists |z United States"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "World War, 1939-1945 |x Veterans."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Arlington National Cemetery (Arlington, Va.)."
+            }
+        },
+        "dsc": {}
+    }
+}

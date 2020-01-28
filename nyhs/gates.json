@@ -1,0 +1,132 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "gates"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Horatio Gates papers, 1726-1828 (bulk 1774-1780)\n                    \u003cnum\u003eMS 240\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Julia Lipkins"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "© 2011 New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2015-07-21T13:46-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "© 2011 New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "ingest",
+                        "value": "Gates, Horatio, 1728-1806"
+                    }
+                },
+                "unittitle": {
+                    "value": "Horatio Gates papers"
+                },
+                "unitdate": {
+                    "value": "1726-1828 (bulk 1774-1780)"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "23.0 Linear feet"
+                        },
+                        {
+                            "value": "(40 boxes, 8 volumes, 20 microfilm reels)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The collection documents the military career of Horatio Gates (1728-1806). Gates served as a lieutenant in the British military (1749-1769) and as a general in the Continental Army during the American Revolution (1774-1783). The collection includes extensive correspondence with British and American military figures, merchants and politicians, including Benedict Arnold, John Burgoyne, Thomas Jefferson, George Washington and others. The collection also contains the Articles of Convention, which defined the terms of British surrender at the Battle of Saratoga in 1777."
+                },
+                "unitid": {
+                    "value": "MS 240"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref6",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "This collection has been microfilmed and it will be brought to the researcher in that format. A comprehensive index to the microfilm will be provided to researchers on site. Gates’ orderly books have been digitized and are accessible via the EBSCO Revolutionary War Era Orderly Books database. Researchers may also print out unlimited copies from microfilm reader-printer machines at per-exposure rates. See guidelines in the Reading Room for details."
+            }
+        },
+        "prefercite": {
+            "id": "ref8",
+            "head": "Preferred Citation note",
+            "p": {
+                "value": "Horatio Gates papers, MS 240, New-York Historical Society."
+            }
+        },
+        "bioghist": {
+            "id": "ref3",
+            "head": "Biographical note",
+            "p": {}
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The collection documents Horatio Gates' military career. The papers include extensive correspondence with British and American military figures, merchants and politicians, e.g. Benedict Arnold, John Burgoyne, Ezekiel Cornell, Richard Curson, John Hancock, Thomas Jefferson, Henry Laurens, Robert Monckton, Philip Schuyler, Jonathan Trumbull, George Washington and others. The collection contains the Articles of Convention, which defined the terms of British surrender at the Battle of Saratoga in 1777. The collection also contains an exchange of letters between Marquis de Lafayette and Baron von Steuben, as well as drafts of Gates’ speeches to Native American leaders. Also included are financial documents, account books, cashbooks, orderly books and Gates’ journal, which details a British expedition to Nova Scotia in 1750. In addition to his military career, a glimpse of Gates’ personal life can be seen in correspondence with family members, including his first and second wives, Elizabeth and Mary, and his son, Robert."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Burgoyne's Invasion, 1777"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Saratoga Campaign, N.Y., 1777"
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref10\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 1: Correspondence\u003c/unittitle\u003e\n                    \u003cunitdate\u003e1726-1828, n.d.\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003carrangement id=\"ref39\"\u003e\n                    \u003chead\u003eArrangement note\u003c/head\u003e\n                    \u003cp\u003eThis series is arranged in chronological order and is available on microfilm reels 1-17.\u003c/p\u003e\n                \u003c/arrangement\u003e\n                \u003cscopecontent id=\"ref47\"\u003e\n                    \u003chead\u003eScope and Contents note\u003c/head\u003e\n                    \u003cp\u003eCorrespondence consists of letters related to Gates’ professional and personal matters. There is extensive correspondence concerning Gates’ expedition to Ticonderoga in 1776; his successes at Battle of Saratoga in 1777; and the failures at the Battle of Camden in 1780. This series also includes drafts of Gates’ letters and speeches; shopping and packing lists; military certificates; legal documents; and orders and proclamations from congress. Also included are typewritten transcripts for many of the aforementioned items.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n                \u003cc id=\"ref11\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid1302001\" type=\"Reel\" label=\"Microform\"\u003e1\u003c/container\u003e\n                        \u003cunitdate\u003e1726 September 13 - 1769 November 7\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref12\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid1302002\" type=\"Reel\" label=\"Microform\"\u003e2\u003c/container\u003e\n                        \u003cunitdate\u003e1769 November 12 - 1776 July 17\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref13\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid1302003\" type=\"Reel\" label=\"Microform\"\u003e3\u003c/container\u003e\n                        \u003cunitdate\u003e1776 July 17 - 1776 October 16\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref14\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid1302004\" type=\"Reel\" label=\"Microform\"\u003e4\u003c/container\u003e\n                        \u003cunitdate\u003e1776 October 17 - 1777 August\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref15\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid1302005\" type=\"Reel\" label=\"Microform\"\u003e5\u003c/container\u003e\n                        \u003cunitdate\u003e1777 August - 1777 October 19\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref16\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid1302006\" type=\"Reel\" label=\"Microform\"\u003e6\u003c/container\u003e\n                        \u003cunitdate\u003e1777 October 20 - 1778 March 26\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref17\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid1302007\" type=\"Reel\" label=\"Microform\"\u003e7\u003c/container\u003e\n                        \u003cunitdate\u003e1778 March 28 - 1778 August 15\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref18\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid1302008\" type=\"Reel\" label=\"Microform\"\u003e8\u003c/container\u003e\n                        \u003cunitdate\u003e1778 August 16 - 1779 March 3\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref19\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid1302009\" type=\"Reel\" label=\"Microform\"\u003e9\u003c/container\u003e\n                        \u003cunitdate\u003e1779 March 4 - 1779 July 10\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref20\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid1302010\" type=\"Reel\" label=\"Microform\"\u003e10\u003c/container\u003e\n                        \u003cunitdate\u003e1779 July 10 - 1779 October 15\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref21\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid1302011\" type=\"Reel\" label=\"Microform\"\u003e11\u003c/container\u003e\n                        \u003cunitdate\u003e1779 October 16 - 1780 August 20 \u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref22\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid1302012\" type=\"Reel\" label=\"Microform\"\u003e12\u003c/container\u003e\n                        \u003cunitdate\u003e1780 August 21 - 1780 November 27\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref23\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid1302013\" type=\"Reel\" label=\"Microform\"\u003e13\u003c/container\u003e\n                        \u003cunitdate\u003e1780 November 28 - 1784 May 6\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref24\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid1302014\" type=\"Reel\" label=\"Microform\"\u003e14\u003c/container\u003e\n                        \u003cunitdate\u003e1784 May 7 - 1788 July 28\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref25\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid1302015\" type=\"Reel\" label=\"Microform\"\u003e15\u003c/container\u003e\n                        \u003cunitdate\u003e1788 August 5 - 1792 January 1\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref26\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid1302016\" type=\"Reel\" label=\"Microform\"\u003e16\u003c/container\u003e\n                        \u003cunitdate\u003e1792 January 2 - 1798 February 21\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref27\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid1302017\" type=\"Reel\" label=\"Microform\"\u003e17\u003c/container\u003e\n                        \u003cunitdate\u003e1798 February 22 - 1828, n.d.\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref31\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 2: Orderly Books and Returns\u003c/unittitle\u003e\n                    \u003cunitdate\u003e1756 - 1783\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003carrangement id=\"ref40\"\u003e\n                    \u003chead\u003eArrangement note\u003c/head\u003e\n                    \u003cp\u003eThis series is arranged in chronological order and is available on microfilm reels 18-19.\u003c/p\u003e\n                \u003c/arrangement\u003e\n                \u003cscopecontent id=\"ref45\"\u003e\n                    \u003chead\u003eScope and Contents note\u003c/head\u003e\n                    \u003cp\u003eThe orderly books record the orders and movements of the British Army prior to the war, and the Continental Army during the war. The returns document the quantity, rank and physical condition of soldiers in various British and Continental regiments. This series includes an orderly book kept at Oneida Station, New York (later Fort Stanwix) in 1758; an orderly book recorded during the march from Carlisle to Pittsburgh, Pennsylvania in 1759; and Gates' journal from an expedition to Nova Scotia in 1750.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n                \u003caccessrestrict id=\"ref46\"\u003e\n                    \u003chead\u003eConditions Governing Access note\u003c/head\u003e\n                    \u003cp\u003eGates’ orderly books have been digitized and are accessible via the EBSCO Revolutionary War Era Orderly Books database.\u003c/p\u003e\n                \u003c/accessrestrict\u003e\n                \u003cc id=\"ref32\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eOrderly Books\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid1302018\" type=\"Reel\" label=\"Microform\"\u003e18\u003c/container\u003e\n                        \u003cunitdate\u003e1758 August 18 - 1783 February 15\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref33\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eReturns\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid1302019\" type=\"Reel\" label=\"Microform\"\u003e18\u003c/container\u003e\n                        \u003cunitdate\u003e1756 January 29 - 1778 November 20\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref34\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eReturns\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid1302020\" type=\"Reel\" label=\"Microform\"\u003e19\u003c/container\u003e\n                        \u003cunitdate\u003e1778 November 24 - 1783 February 25\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref35\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 3: Financial Papers\u003c/unittitle\u003e\n                    \u003cunitdate\u003e1747-1799, n.d.\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003carrangement id=\"ref41\"\u003e\n                    \u003chead\u003eArrangement note\u003c/head\u003e\n                    \u003cp\u003eThis series is arranged in chronological order and is available on microfilm reels 19-20.\u003c/p\u003e\n                \u003c/arrangement\u003e\n                \u003cscopecontent id=\"ref44\"\u003e\n                    \u003chead\u003eScope and Contents note\u003c/head\u003e\n                    \u003cp\u003eThis series includes receipts, invoices and account books pertaining to military expenditures and Gates’ personal finances.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n                \u003cc id=\"ref36\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eFinancial Papers\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid1302021\" type=\"Reel\" label=\"Microform\"\u003e19\u003c/container\u003e\n                        \u003cunitdate\u003e1747 - 1768 December 29\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref37\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eFinancial Papers\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid1302022\" type=\"Reel\" label=\"Microform\"\u003e20\u003c/container\u003e\n                        \u003cunitdate\u003e1768 - 1799, n.d.\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

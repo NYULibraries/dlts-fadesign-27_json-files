@@ -1,0 +1,131 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_428"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Collection of Research Files on Anarchism \u003cnum\u003eTAM 428\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-06-01T20:08:02\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Collection of Research Files on Anarchism"
+                },
+                "unitdate": {
+                    "value": "circa 1970s"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "TAM 428"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_b5e5b506279b25ec404a1afb9dab3b63",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_960c5471a5a0de6ecd760d4ce07ac8ef",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_513f3ef72aad4e568d8b486d85f5df2e",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Provenance unknown; likely donated by Mary Nash at an unknown date. The accession number associated with this collection is 2008.058."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_cff054b1a69bcf1b26bca79636766364",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Max Heinrich Hermann Reinhardt Nettlau (1865-1944) was a German anarchist and historian born in Vienna, Austria. Moving to London he met anarchists such as Errico Malatesta and Peter Kropotkin, and also helped to found Freedom Press. Realising that a generation of socialist and anarchist militants from the mid-19th century was passing away and their archives of writings and correspondence being destroyed, he concentrated his efforts on acquiring and rescuing such collections from destruction. He also interviewed veteran militants for posterity. He wrote biographies of many famous anarchists, including Mikhail Bakunin, Élisée Reclus, and Errico Malatesta, as well as a seven volume history of anarchism. His extensive collection or archives was sold to the International Institute of Social History in Amsterdam in 1935."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_4f0b7921d143e8543b49f7cd233eeb11",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "A small collection mostly of research material on anarchism. Includes a draft of Max Nettlau's \u003cemph render=\"italic\"\u003eA Short History of Anarchism\u003c/emph\u003e and clippings on Emma Goldman. Also includes pamphlets and writings examining Russian anarchist Nestor Makhno."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Anarchism."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Anarchism |z Russia."
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arc_238_cresco_club"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Cresco Club scrapbook and photograph album\n                    \u003cnum\u003eARC.238\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Weatherly Stephan"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "July 12, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-12-15T10:54-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Cresco Club scrapbook and photograph album"
+                },
+                "unitdate": {
+                    "normal": "1899/1980",
+                    "type": "inclusive",
+                    "value": "1899-1980"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.23 Linear feet"
+                        },
+                        {
+                            "value": "in one folder and one scrapbook volume."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "ARC.238"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid914001",
+                    "label": "Graphic materials",
+                    "type": "Box",
+                    "value": "Prints by Accession 60"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref3",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref6",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Cresco Club scrapbook and photograph album, ARC.238, Box number, Object ID number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref5",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Mrs. John M. Butler, 1983."
+            }
+        },
+        "bioghist": {
+            "id": "ref8",
+            "head": "Historical note",
+            "p": {
+                "value": "Cresco Club was founded in March 1899 by women living in the Dyker Heights neighborhood of Brooklyn. The club's purpose, as stated in its bylaws, was to offer members a forum to \"improve in culture, to keep in touch with events of the day, to be helpful to each other and to society.\" Cresco Club held biweekly meetings during which members presented papers and lectures on cultural topics, such as literature, music, and art. These presentations gradually began to include discussion of political, scientific, and social topics in the mid to late 20th century. Though the club remained active into the 1960s and 1970s, it faced difficulty in recruiting younger members and those with careers. Cresco Club appears to have disbanded in the early 1980s."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The Cresco Club scrapbook and photograph album date from 1899 to 1980 (bulk dates: 1950 to 1975) and measure 1.23 linear feet. The collection consists of photographs, bylaws, meeting agendas, clippings, and ephemera, which document the Cresco Club's activities, including meetings and its membership. The scrapbook contains bylaws with lists of officers, members, and home addresses from 1899 to 1902; meeting agendas from 1905 to 1908, listing meeting hostesses, featured speakers, and the meeting's lecture topics; black-and-white photographs of members at meetings from 1920 to circa 1950; clippings about the club's members; and ephemera from related womens clubs in Brooklyn and New York City. The photograph album contains 145 black-and-white and color photographs of members and the club's regular meetings from 1950 to 1977. Photographs are identified by date, location, and the names of members shown."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Clubs |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Women |z New York (State) |z Kings County |x Societies and clubs"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Cresco Club (Brooklyn, New York, N.Y.)."
+            }
+        },
+        "otherfindaid": {
+            "id": "ref2",
+            "head": "Other Finding Aids note"
+        },
+        "dsc": {}
+    }
+}

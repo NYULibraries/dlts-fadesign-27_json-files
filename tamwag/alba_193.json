@@ -1,0 +1,138 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "alba_193"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Watt Family Papers \u003cnum\u003eALBA.193\u003c/num\u003e"
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace\n        \u003cdate\u003e2017-08-10T15:59:12\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Watt, Molly"
+                    }
+                },
+                "unittitle": {
+                    "value": "Watt Family Papers"
+                },
+                "unitdate": {
+                    "normal": "1937/1949",
+                    "type": "inclusive",
+                    "value": "1937-1940s"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "2.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 record carton, 1 manuscript box, and 1 flat box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "George Watt served as a political\n        commissar in the Abraham Lincoln Brigade during the Spanish Civil War and later as a\n        sergeant in the Army Air Force during World War II. This collection consists chiefly of\n        letters written to and from George Watt during these conflicts."
+                },
+                "unitid": {
+                    "value": "ALBA.193"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_d7dc4cff41859f537e606b0788861828",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Materials are open to researchers. Please contact the Tamiment Library \u0026amp; Robert F.\n        Wagner Labor Archives for more information and to schedule an appointment,\n        tamiment.wagner@nyu.edu or 212-998-2630."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_1a2ad384231daca6b864f8a649f16636",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Collection name; Collection number; box number; folder\n        number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_30a1b010f970c92e30120188d2118ce2",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials from the 2004, 2005, and 2012 accretions were donated by Dan Lynn Watt and Molly\n        Lynn Watt. Donation of a CD recording of letters between George and Ruth Watt donated by Dan\n        Watt in 2012. The accession number associated with this donation is 2013.027."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_dde4adb8c56285fd68258f3364b0d13c",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Source: NY Times Obituaries,\n        http://www.nytimes.com/1994/07/09/obituaries/george-watt-80-hospital-executive.html"
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_743f6eb44f32fa77f3be8f5237461ed3",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection consists chiefly of letters written to and from George Watt during World\n        War II and the Spanish Civil War. There is also a page proof of Watt's book \u003cemph\n          render=\"italic\"\u003eThe Comet Connection : Escape from Hitler's Europe\u003c/emph\u003e (1990). First\n        donation: seven handwritten World War II era letters. Five are from George Watt, then in the\n        US Army; three of these are to Milt Wolff. Two letters are about George Watt. Also included\n        is a page proof of Watt's book \u003cemph render=\"italic\"\u003eThe Comet Connection : Escape from\n          Hitler's Europe\u003c/emph\u003e (1990). Second donation (Dec. 2004): c. 300 letters written by\n        George Watt during World War II to his wife, Margaret Watt. Third donation: (Dec. 2005): c.\n        300 World War II letters to and from George Watt (some from his wife, Margaret Watt, and\n        some from Milt Wolff) and miscellaneous documents. Fourth donation: (Oct. 2012): c. 50\n        (mostly handwritten) letters written by George Watt between July 1937 and December 1938,\n        after he returned from Spain. The majority of the letters are written to his first wife,\n        Ruth Watt, but there are also letters to Terry Levin, a close friend; his sister, Mae Kwatt;\n        and other family members. This accretion also includes a typewritten text of a radio speech\n        written by George Watt in February 1939. A fifth donation of a CD recording of readings of\n        George and Ruth Watt's letters was added in 2013."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Spain -- History -- Civil War, 1936-1939."
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

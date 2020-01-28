@@ -1,0 +1,152 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "alba_070"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the David McKelvy White Papers \u003cnum\u003eALBA.070\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Wendy Scheir, September 2004"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-07-20T17:57:42\u003c/date\u003e"
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "White, David McKelvy, 1901-1945"
+                    }
+                },
+                "unittitle": {
+                    "value": "David McKelvy White Papers"
+                },
+                "unitdate": {
+                    "normal": "1937/1939",
+                    "type": "bulk",
+                    "value": "bulk"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "David McKelvy White (1901-1945) was the son of a prominent Ohio politician. After graduating from Princeton University, White taught English literature and composition at Brooklyn College and City College in New York City. In March 1937, White went to Spain to fight in the Spanish Civil War, serving as a company clerk and machine gunner. He returned to the U.S. in the fall of 1937 and headed the activities of the Friends of the Abraham Lincoln Brigade (F.A.L.B.), a group formed to aid American volunteers still in Spain. A committed political activist, White wrote and lectured widely about the Spanish Civil War. He died in 1945 at the age of 44."
+                },
+                "unitid": {
+                    "value": "ALBA.070"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_56c2af15eb69b38f0765d7b4b524e542",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Materials are open to researchers. Please contact the Tamiment Library \u0026amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_aa418205871138cae5d0ccbb4b8ee4fe",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: \u003clb/\u003e\u003clb/\u003eIdentification of item, date; Collection name; Collection number; box number; folder number; \u003clb/\u003eTamiment Library/Robert F. Wagner Labor Archives \u003clb/\u003eElmer Holmes Bobst Library \u003clb/\u003e70 Washington Square South \u003clb/\u003eNew York, NY 10012, New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_36e3a7a9110cd522618dc4a66460f2bf",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "White died in 1945 from a heart attack at the age of 44."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_0c852e50c0b049c8747e697700f6da0b",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "Other materials in the collection include letters from American volunteers in Spain to Ben Lederman, editor of the \"Beehive Review,\" forwarded by volunteer Joe Stone, including a letter from Ed Lending regarding Robert Steck, a volunteer imprisoned in Spain; and a poem by volunteer Leo Grachow."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Brunete, Battle of, Brunete, Spain, 1937."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Spain -- History -- Civil War, 1936-1939."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Spain. Ejercito Popular de la Republica. Abraham Lincoln Battalion"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref14\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref15\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"American Volunteers in Spain” (transcript)\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eJul 1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a6180278257a90f379ecc576f3c1b813\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_a6180278257a90f379ecc576f3c1b813\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Beehive Review”: Letters to editor Ben Lederman from Spanish Civil War volunteers\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1945\" type=\"inclusive\"\u003eundated , Aug 1937-Aug 1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1cf0e364a9c3578f7e3dc97b3ac5f604\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1cf0e364a9c3578f7e3dc97b3ac5f604\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence: from Harry Hakam\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eApr 1937-Aug 1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_df758947934d89d2f311d07647f128a1\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_df758947934d89d2f311d07647f128a1\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence: from Spanish Civil War volunteers\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eFeb 1938-Nov 1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2f0cb5ec98bc66640e66a5e6face585c\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2f0cb5ec98bc66640e66a5e6face585c\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence: General\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1945\" type=\"inclusive\"\u003e1937-1945\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ad1a394c436ac4c4beb283e9067f0524\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ad1a394c436ac4c4beb283e9067f0524\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDocuments: Carte de Prêt\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_08ff4c22c3aa365faee5c7aa76d6d6a5\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_08ff4c22c3aa365faee5c7aa76d6d6a5\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFoster parent of Spanish Civil War orphan, Francisco Sordo\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eSep 1938-Mar 1940\u003c/unitdate\u003e\u003ccontainer id=\"aspace_8345de5cf3fc0a1a4eb6222c1c11c347\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_8345de5cf3fc0a1a4eb6222c1c11c347\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFourth Machine Gun Company, George Washington Battalion: Company roster\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1945\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b0182dd86717262a58df130deec9ba4a\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b0182dd86717262a58df130deec9ba4a\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFourth Machine Gun Company, George Washington Battalion: Correspondence\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1945\" type=\"inclusive\"\u003eundated , Jul 1937\u003c/unitdate\u003e\u003ccontainer id=\"aspace_63ca712ab1ce5a05613140b610baef19\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_63ca712ab1ce5a05613140b610baef19\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFriends of the Abraham Lincoln Brigade: Correspondence from Spanish Civil War volunteers\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1945\" type=\"inclusive\"\u003eundated , Oct 1937-Jun 1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_8937dd636048d67642ad6b0f2761b142\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_8937dd636048d67642ad6b0f2761b142\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFriends of the Abraham Lincoln Brigade: General\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eOct 1937-Jun 1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_6901cbb96575a3f13290c7ae1ac6c118\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_6901cbb96575a3f13290c7ae1ac6c118\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref26\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFriends of the Abraham Lincoln Brigade: Report of meeting with the Confederated Spanish Societies\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1945\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9a9133131bffcf4ee7164cbc1db407bb\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_9a9133131bffcf4ee7164cbc1db407bb\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eGrachow, Leo: Poem, \"We Came to Spain”\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1945\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_445ad0bfc4ce191e38e4baad42e6a13f\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_445ad0bfc4ce191e38e4baad42e6a13f\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref28\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLaissez-passer issued by Commissariat Special\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eAug 1937\u003c/unitdate\u003e\u003ccontainer id=\"aspace_bec6be5bc4e9f6dc37ec380f33c6ffb4\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_bec6be5bc4e9f6dc37ec380f33c6ffb4\" type=\"Folder\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref29\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLincoln-Washington Battalion: Notes\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1945\" type=\"inclusive\"\u003eUndated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f0b8ecc3a16051ac6a73293c0484a734\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f0b8ecc3a16051ac6a73293c0484a734\" type=\"Folder\"\u003e15\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref30\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLincoln-Washington Battallion: Order to Merge\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eJul 1937\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5e7166058c15109a3d6431dcc0ea76ce\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5e7166058c15109a3d6431dcc0ea76ce\" type=\"Folder\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref31\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLincoln-Washington Battallion: Orders of the Day\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eAug 1937\u003c/unitdate\u003e\u003ccontainer id=\"aspace_672e895ba65519ef8aa43fc21b18b8b3\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_672e895ba65519ef8aa43fc21b18b8b3\" type=\"Folder\"\u003e17\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref32\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMembership booklets: VALB and Soccoro Rojo Internacional\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eMay 1937 , Jan 1939\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7bc7b5f86b4a67819c4195c010be4c4c\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_7bc7b5f86b4a67819c4195c010be4c4c\" type=\"Folder\"\u003e18\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref33\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMemorial service for Spanish Civil War volunteers (program)\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1945\" type=\"inclusive\"\u003eUndated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2057dffb40e6d6b80fa7e050cfb542d7\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2057dffb40e6d6b80fa7e050cfb542d7\" type=\"Folder\"\u003e19\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref34\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRauschwald, Mark: to \"Comrade Begun”\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eApr 1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5d03c5d1dc8ea4d6f2d1212e178d3893\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5d03c5d1dc8ea4d6f2d1212e178d3893\" type=\"Folder\"\u003e20\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref35\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSpeaking Engagements\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eMar 1938-Jun 1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b0d6f28596169bf03427eaa5a4a0796e\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b0d6f28596169bf03427eaa5a4a0796e\" type=\"Folder\"\u003e21\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref36\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eWashington Battalion: Orders of the Day\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eJul 1937\u003c/unitdate\u003e\u003ccontainer id=\"aspace_306096a27cc22c3af40d6750f5d43be0\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_306096a27cc22c3af40d6750f5d43be0\" type=\"Folder\"\u003e22\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref37\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eWhite, David McKelvy: Biographical\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1945\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2bef87bf1c2c27d8cddead31645f8c0b\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2bef87bf1c2c27d8cddead31645f8c0b\" type=\"Folder\"\u003e23\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref38\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eWhite, David McKelvy: Memorial service and condolence letters\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eAug 1945\u003c/unitdate\u003e\u003ccontainer id=\"aspace_95b1f753ebaac25858c6c16413b0f28f\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_95b1f753ebaac25858c6c16413b0f28f\" type=\"Folder\"\u003e24\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref39\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eWhite, David McKelvy: Spanish Civil War Diary\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eApr 1937-Sep 1937\u003c/unitdate\u003e\u003ccontainer id=\"aspace_6a2eff18361d6d584d1823c2e8c29c27\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_6a2eff18361d6d584d1823c2e8c29c27\" type=\"Folder\"\u003e25\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref40\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eWritings: Notes\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1945\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2e1b5ff0501363ff494a8cec653ed091\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2e1b5ff0501363ff494a8cec653ed091\" type=\"Folder\"\u003e26\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref41\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eWritings: Published\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1945\" type=\"inclusive\"\u003eundated , Jul 1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_074c71fbb6daa46b9c55b6349d08efb5\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_074c71fbb6daa46b9c55b6349d08efb5\" type=\"Folder\"\u003e27\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref42\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eWritings: Typescripts\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1945\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5b100d0dbadda767ca7cdf50a3ce5804\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5b100d0dbadda767ca7cdf50a3ce5804\" type=\"Folder\"\u003e28\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

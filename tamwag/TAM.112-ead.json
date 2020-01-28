@@ -1,0 +1,122 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "tam_112"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Karl Marx and Friedrich Engels on America: Louis Lazarus Research Files\n                    \u003cnum\u003eTAM.112\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Tamiment staff."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "12/07/2009"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T18:19-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Lazarus, Louis"
+                    }
+                },
+                "unittitle": {
+                    "value": "Karl Marx and Friedrich Engels on America: Louis Lazarus Research Files"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.0 linear feet"
+                        },
+                        {
+                            "value": "(1 box)"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "TAM.112"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid18906001",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "bioghist": {
+            "id": "ref2",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Karl Marx (1818-1883) and Friedrich Engels (1820-1895) were socialist and communist authors and leaders, and the founders of, and whose writings were the theoretical inspiration for socialist and communist movements and scholarship. Their best known work was \n                \u003cemph render=\"italic\"\u003eThe Communist Manifesto\u003c/emph\u003e (1848)."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The collection consists of photocopies and photostats of published materials, written by Marx and Engels, relating to the United States. The material, which dates from 1846 to 1898, was collected by Louis Lazarus in 1963. Much of it was originally published in England. Also included are Lazarus's research notes, the research notes of Louise Heinze (Tamiment Institute Librarian, ca. 1956-63), and correspondence with libraries. PLEASE DIRECT FURTHER INQUIRIES TO: tamiment.wagner@nyu.edu"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Communists."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Journalism, Communist."
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

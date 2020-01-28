@@ -1,0 +1,139 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "rg_39_112"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Records of the Coalition for Student Rights \u003cnum\u003eRG.39.112\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Jacqueline Rider"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-06-10T18:31:43\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Records of the Coalition for Student Rights"
+                },
+                "unitdate": {
+                    "normal": "1981/1984",
+                    "type": "inclusive",
+                    "value": "1981-1984"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": ".5 linear foot"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one manuscript box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Coalition for Student Rights at New York University (NYU) was formed in 1981 to seek greater student participation in institutional decision making at NYU. This collection consists of organization materials, including newsletters, a bill of rights, and student surveys."
+                },
+                "unitid": {
+                    "value": "RG.39.112"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_f4247808824fda8049bab6721df89fc0",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Material pertaining to individual student records may be restricted in accordance with the Family Educational Rights and Privacy Act (FERPA). Please contact the Archives with specific questions regarding access to such records."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_492492ed2699a8241b8590a54979a905",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Records of the Coalition for Student Rights; RG 39.112; box number; folder number; New York University Archives, New York University Libraries."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_cbff9ee267debdd69d5d099818eb3b59",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by the Coalition for Student Rights in 1993."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_c47efeee723549a2e9d06eeb2da4e1f2",
+            "head": "Historical Note",
+            "p": {
+                "value": "The Coalition for Student Rights at New York University (NYU) was formed in 1981 to seek greater student participation in institutional decision making at NYU. Specifically, the coalition sought more student representation on decision making bodies and greater involvement in grading policies, budget formulation, financial aid decisions, faculty and staff hiring, student housing, minority recruitment, and placement."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_99c5e5618f5aae103b399d5f0585383d",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection consists of organizational records of the Coalition for Student Rights at NYU. Record types include newsletter galleys and articles, flyers, and survey forms."
+            }
+        },
+        "controlaccess": {
+            "corpname": {
+                "source": "local",
+                "value": "New York University. Students"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ad782659f6c070a7ea7f0e0d87eafc0d\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRESTRICTED files, plus: Student Bill of Rights, newsletters, flyers, student survey forms\u003c/unittitle\u003e\u003cunitdate normal=\"1981/1984\" type=\"inclusive\"\u003e1981-1984\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_5fdada1d5aa8ccb5f1f7f72b3efc3d3d\" label=\"Mixed Materials [31142063070141]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5fdada1d5aa8ccb5f1f7f72b3efc3d3d\" type=\"Folder\"\u003e1-6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

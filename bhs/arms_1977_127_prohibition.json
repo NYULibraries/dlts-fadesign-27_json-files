@@ -1,0 +1,159 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1977_127_prohibition"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Prohibition Collection\n                    \u003cnum\u003e1977.127\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Miranda Schwartz"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "January 2006"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-01-23T14:53-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "Brooklyn Prohibition collection"
+                },
+                "unitdate": {
+                    "normal": "1893/1942",
+                    "type": "inclusive",
+                    "value": "1893-1942"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.8 Linear feet"
+                        },
+                        {
+                            "value": "in 2 document boxes and one oversize box."
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The Prohibition Collection contains temperance periodicals, publications, correspondence, photographs, lecture invitations, campaign material, and newspaper clippings, 1893-1942, relating to the Prohibition movement in the U.S. and in New York State and City in particular. This material provides a look at this American political movement from the local level in New York and Kings Counties. The bulk of the material was donated in 1932 by George B. Hilliard, who was involved in the Prohibition movement for decades and was a county organizer and executive committee member for the Prohibition County Committee of New York. Some of the items date from 1933 to 1942 and their provenance cannot be established."
+                },
+                "unitid": {
+                    "value": "1977.127"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1029001",
+                    "label": "Graphic materials",
+                    "type": "Oversize",
+                    "value": "1977.127 3 of 3 (OS-25)"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref8",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref29",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Prohibition Collection, ArMs 1977.127, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisiton",
+            "p": {
+                "value": "Donated by George B. Hilliard in 1932."
+            }
+        },
+        "bioghist": {
+            "id": "ref5",
+            "head": "Historical Note",
+            "p": {
+                "value": "2. Clarence Elwyn Pitts, in a letter to John Berry, December 12, 1910. Prohibition Collection, ArMs 1977.127, Box 1, Folder 4, Brooklyn Historical Society."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents Note",
+            "p": {
+                "value": "Included in the collection are administrative records of the New York State Prohibition Party; Prohibition literature, including periodicals and informational booklets; campaign materials, including brochures and leaflets; events materials, such as event programs and photographs of events; maps of the National Prohibition Park in Staten Island, as well as photographic and engraved portraits of prominent figures of the New York Prohibitionist movement."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Prohibition |z United States"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Social movements |z United States"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Temperance |z United States"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Temperance |z United States |v Periodicals"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Woman's Christian Temperance Union."
+            }
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref22\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 1 - Administrative Documents\u003c/unittitle\u003e\n                    \u003cunitdate normal=\"1896/1913\" type=\"inclusive\"\u003e1896-1913\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref20\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eNew York State Prohibition Party\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid252010\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid252010\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"1896/1913\" type=\"inclusive\"\u003e1896-1913\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref31\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 2 - Campaign Materials\u003c/unittitle\u003e\n                    \u003cunitdate normal=\"1892/1931\" type=\"inclusive\"\u003e1892-1931\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref15\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eBrochures and Leaflets\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid252005\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid252005\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate normal=\"1892/1900\" type=\"inclusive\"\u003e1892-1900\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref30\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 3 - Clippings\u003c/unittitle\u003e\n                    \u003cunitdate normal=\"1900/1942\" type=\"inclusive\"\u003e1900-1942\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref16\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eClippings\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid252006\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid252006\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate normal=\"1900/1942\" type=\"inclusive\"\u003e1900-1942\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref32\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 4 - Correspondence\u003c/unittitle\u003e\n                    \u003cunitdate normal=\"1900/1911\" type=\"inclusive\"\u003e1900-1911\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref17\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid252007\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid252007\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate normal=\"1900/1911\" type=\"inclusive\"\u003e1900-1911\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref33\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 5 - Events Materials\u003c/unittitle\u003e\n                    \u003cunitdate normal=\"1895/1921\" type=\"inclusive\"\u003e1895-1921\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref11\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eKings County Prohibition Committee\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid252001\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid252001\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate normal=\"1906/1921\" type=\"inclusive\"\u003e1906-1921\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref12\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMiscellaneous\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid252002\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid252002\" type=\"Folder\"\u003e6\u003c/container\u003e\n                        \u003cunitdate normal=\"1895/1913\" type=\"inclusive\"\u003e1895-1913\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref13\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eNew York County Prohibitionists\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid252003\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid252003\" type=\"Folder\"\u003e7\u003c/container\u003e\n                        \u003cunitdate normal=\"1897/1912\" type=\"inclusive\"\u003e1897-1912\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref14\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eYoung People's Prohibition League\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid252004\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid252004\" type=\"Folder\"\u003e8\u003c/container\u003e\n                        \u003cunitdate\u003ecirca 1900\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref34\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 6 - Literature\u003c/unittitle\u003e\n                    \u003cunitdate normal=\"1896/1942\" type=\"inclusive\"\u003e1896-1942\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref18\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eBooklets\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid252008\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid252008\" type=\"Folder\"\u003e9\u003c/container\u003e\n                        \u003cunitdate normal=\"1896/1931\" type=\"inclusive\"\u003e1896-1931\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref21\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePeriodicals\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid252011\" type=\"Box\" label=\"Text\"\u003eBox 1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid252011\" type=\"Folder\"\u003e10\u003c/container\u003e\n                        \u003cunitdate normal=\"1899/1942\" type=\"inclusive\"\u003e1899-1942\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref23\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 7 - Maps, Photographs and Works on Paper\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                    \u003cunitdate normal=\"1890/1910\" type=\"inclusive\"\u003ecirca 1890-1910\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref19\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMaps - National Prohibition Park, Staten Island\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid254001\" type=\"Box\" label=\"Maps\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid254001\" type=\"Folder\"\u003e11\u003c/container\u003e\n                        \u003cunitdate normal=\"1890/1897\" type=\"inclusive\"\u003ecirca 1890-1897\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref26\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePhotographs - Events and Campaigns\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid254004\" type=\"Box\" label=\"Graphic materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid254004\" type=\"Folder\"\u003e12\u003c/container\u003e\n                        \u003cunitdate normal=\"1890/1919\" type=\"inclusive\"\u003ecirca 1890-1919\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref27\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePhotographic Portraits - Cabinet Cards\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid257001\" type=\"Box\" label=\"Graphic materials\"\u003eCabinet Card \u003c/container\u003e\n                        \u003ccontainer parent=\"cid257001\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"1890/1919\" type=\"inclusive\"\u003ecirca 1890-1919\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref24\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePhotographic Portraits - Groups\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid254002\" type=\"Box\" label=\"Graphic materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid254002\" type=\"Folder\"\u003e13\u003c/container\u003e\n                        \u003cunitdate normal=\"1890/1919\" type=\"inclusive\"\u003ec. 1890s-1910s\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref28\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePhotographic Portraits - Individuals\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid254005\" type=\"Box\" label=\"Graphic materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid254005\" type=\"Folder\"\u003e14\u003c/container\u003e\n                        \u003cunitdate normal=\"1890/1919\" type=\"inclusive\"\u003ec. 1890s-1910s\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref25\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eWorks on Paper - Engraved Portraits\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid254003\" type=\"Box\" label=\"Graphic materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid254003\" type=\"Folder\"\u003e10\u003c/container\u003e\n                        \u003cunitdate normal=\"1890/1919\" type=\"inclusive\"\u003ecirca 1890-1919\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "2018_004"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Edward Johnston photographs \u003cnum\u003e2018.004\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Maggie Schreiner"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "Brooklyn Historical Society",
+                        "128 Pierrepont Street",
+                        "Brooklyn 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-09-10T19:30:28\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Johnston, Edward"
+                    }
+                },
+                "unittitle": {
+                    "value": "Edward Johnston photographs"
+                },
+                "unitdate": {
+                    "normal": "1951/1999",
+                    "type": "inclusive",
+                    "value": "1951-1999"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 3 folders."
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Edward Johnston was a resident of Brooklyn at least in the 1950s and 1990s. He was a member of the 77th Reconnaissance Company of the 77th Infantry Division, and served during World War II. He later became involved in the St. Stanislaus Memorial Post 1771 of the American Legion in Greenpoint. This collection include three folders of photographs, including images of Edward Johnston as a young man in military uniform, unidentified photographs of family members, and photographs from St. Stanislaus Memorial Post 1771 of the American Legion in Greenpoint."
+                },
+                "unitid": {
+                    "value": "2018.004"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_5155e65b97f3e1f224241d0b2f8da1f2",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "This collection is open for research."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_032f7a6aaeca71c1c99d90f83a3f768c",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Edward Johnston photographs, 2018.004, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_d165b389a6b30011b5298502f2a3862e",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "This collection was transferred from the Historical Society of Haddonfield, NJ in 2018. The collection had previously been housed at a local public library, and was transferred without accompanying provenance information."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_f64ee30dc159520a923b393c7387645b",
+            "head": "Biographical / Historical",
+            "p": {
+                "value": "Edward Johnston was a resident of Brooklyn at least in the 1950s and 1990s. He was a member of the 77th Reconnaissance Company of the 77th Infantry Division, and served during World War II. He later became involved in the St. Stanislaus Memorial Post 1771 of the American Legion in Greenpoint. He served as the Post's Commanding Officer from 1991-1993 and again from 1994-1995. Johnston worked for 36 years at the Man-Dell supermarket chain."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_d88038747c34b492ab6c4241b6a5d684",
+            "head": "Content Description",
+            "p": {
+                "value": "This collection include three folders of photographs, including images of Edward Johnston as a young man in military uniform, unidentified photographs of family members, and photographs from St. Stanislaus Memorial Post 1771 of the American Legion in Greenpoint."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "World War, 1939-1945"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Veterans |z New York (State) |z Kings County |x Societies, etc."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Families"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

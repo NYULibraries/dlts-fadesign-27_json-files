@@ -1,0 +1,126 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "wag_100"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Carl Blum Papers\n                    \u003cnum\u003eWAG.100\u003c/num\u003e\n                "
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T21:12-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Blum, Carl"
+                    }
+                },
+                "unittitle": {
+                    "value": "Carl Blum Papers"
+                },
+                "unitdate": {
+                    "normal": "1964/1994",
+                    "type": "inclusive",
+                    "value": "1964-1994"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.25 linear feet"
+                        },
+                        {
+                            "value": "(1 boxes)"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "WAG.100"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "bioghist": {
+            "id": "ref2",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "These efforts escalated in 1966 after the indictment of one union leader for bribery and extortion. A government-supervised election was held in which Blum and others from the opposition in the District Council ran their own candidates. Frank Schonfeld was elected, and he appointed Carl Blum as his Administrative Aide. Schonfeld fired Blum in 1971 and he eventually became a General Representative for the International."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "INVENTORY AVAILABLE IN REPOSITORY; CONTACT : tamiment.wagner@nyu.edu"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Labor union democracy |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor unions |x Elections |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Painters, Industrial |x Labor unions |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Woodworkers |x Labor unions |z New York (State) |z New York."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "International Brotherhood of Painters and Allied Trades."
+            }
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "oh_086"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Communication Workers of America, Local 1109 Oral History Collection \u003cnum\u003eOH 086\u003c/num\u003e"
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-08-27T18:54:45\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Communication Workers of America, Local 1109 Oral History Collection"
+                },
+                "unitdate": {
+                    "normal": "2010/2010",
+                    "type": "inclusive",
+                    "value": "Dec 2010"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.5 Linear Feet"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "OH 086"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_fbfc520d3b1f6b1546fcded3b4ba2bbe",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_c09ca586eff526eb154907618795d33a",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Interviews were conducted by students as part of Claudia A. Schachter's labor history course in 2010. The accession number related to this colleciton is 2010.060."
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref1\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eArchived Website\u003c/unittitle\u003e\u003cunitdate\u003eNov 26, 2012-ongoing\u003c/unitdate\u003e\u003c/did\u003e\u003cdao ns2:actuate=\"onLoad\" ns2:href=\"https://wayback.archive-it.org/6349/*/http://cwa1109.org/\" ns2:role=\"translation missing: en.enumerations.file_version_use_statement.service\" ns2:show=\"new\" ns2:title=\"Communications Workers of America Local 1109\" ns2:type=\"simple\"\u003e\u003cdaodesc\u003e\u003cp\u003eCommunications Workers of America Local 1109\u003c/p\u003e\u003c/daodesc\u003e\u003c/dao\u003e\u003cscopecontent id=\"aspace_495f504a1366518a09c7e4e57e920705\"\u003e\u003chead\u003eScope and Content Note\u003c/head\u003e\u003cp\u003eThe Communications Workers of America Local 1109 represents over 2,000 telecommunications technicians and customer service representatives in Brooklyn, New York. The website contains information on benefits, political action campaigns, their publication, the Wire, and news.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e"
+        }
+    }
+}

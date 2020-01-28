@@ -1,0 +1,156 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1986_021_tompkins_avenue_congregational_church"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Tompkins Avenue Congregational Church collection\n                    \u003cnum\u003e1986.021\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Weatherly Stephan"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "November 10, 2010"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-21T14:06-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Tompkins Avenue Congregational Church collection"
+                },
+                "unitdate": {
+                    "normal": "1886/1927",
+                    "type": "inclusive",
+                    "value": "1886-1927"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.2 Linear feet"
+                        },
+                        {
+                            "value": "in one half manuscript box."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "1986.021"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid502001",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "1986.021 Box 1 of 1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref2",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref4",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Tompkins Avenue Congregational Church collection, 1986.021, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Source and date of the accession are unknown. This collection was formally accessioned in 1986."
+            }
+        },
+        "bioghist": {
+            "id": "ref1",
+            "head": "Historical note",
+            "p": {
+                "value": "The Tompkins Avenue Congregational Church was organized in 1875 and originally met in a schoolhouse on Tompkins Avenue in Brooklyn, N.Y. As the membership increased, a larger building on Park Avenue was used to hold services. In 1888, the church's chapel was erected at Tompkins Avenue and McDonough Street in the Bedford-Stuyvesant neighborhood of Brooklyn. Tompkins Avenue Congregational Church boasted a particularly large membership during its first 40 years--for instance, over 3,000 members were listed in the 1926 yearbook. In 1942, the church merged with the Flatbush Congregational Church."
+            }
+        },
+        "scopecontent": {
+            "id": "ref6",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Tompkins Avenue Congregational Church collection dates from 1886 to 1927 and is housed in one half manuscript box. Materials in the collection include yearbooks and programs from church services. Yearbooks provide an overview of member activities and include annual reports, treasurers' reports, reports of organizations within the church, committee member lists, and a membership roll of the church congregation with member names and addresses."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Church membership |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Church records and registers"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Congregationalists |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Religious institutions |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Tompkins Avenue Congregational Church (Brooklyn, New York, N.Y.)."
+            }
+        },
+        "dsc": {}
+    }
+}

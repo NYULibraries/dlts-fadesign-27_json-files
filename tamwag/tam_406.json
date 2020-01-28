@@ -1,0 +1,139 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_406"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Vivian Mae Leighton Papers \u003cnum\u003eTAM.406\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Peter Filardo"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-10-24T14:05:36\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Vivian Mae Leighton Papers"
+                },
+                "unitdate": {
+                    "normal": "1953/1955",
+                    "type": "inclusive",
+                    "value": "1953-1955"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 half manuscript box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Vivian Mae Leighton (b. March 5, 1910) was a U.S. citizen employed by the United Nations, beginning in 1946, and an alumna of Brown University. In 1955, she submitted her replies to a questionnaire from the International Organizations Loyalty Board, established by Executive Order 10422, pertaining to the employment of U.S. citizens by international organizations, notably the United Nations. This small collection includes the questionnaire filled out by Leighton and related correspondence, a copy of Executive Order 10422, The Secretary General's Remarks to the United Nations Correspondents Association (July 10, 1953), which include discussion of the Order, and an envelope from the Brown University Almnae Fund."
+                },
+                "unitid": {
+                    "value": "TAM.406"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_9fea8c8b4ecc2ee028e1f849ec96f6f1",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_3d0bc7c492f3e4d39ad8a8e486cc165d",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Vivian Mae Leighton Papers; TAM 406; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_919f55b1aacc4d1f302b125a68392b5d",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated in 2007, donor uknown. The accession number associated with this collection is 2007.004."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_eff216e4132b2f8d6e71299fda285207",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Vivian Mae Leighton (born 1910) was an American citizen employed by the United Nations, beginning in 1946, and an alumna of Brown University."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_b1bed12b3f8e023cb2eff8459890ec66",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Vivian Mae Leighton Papers include material relating to Executive Order 10422 regarding information to be made available to the Secretary General of the United Nations (UN) regarding American citizens employed by the UN.  Material in the collection dates from 1953 to 1955 and includes a questionnaire from the International Organizations Employees Loyalty Board completed by Leighton in 1955, letters regarding the questionnaire, and personal information forms completed by Leighton for employment.  Also included are a copy of Executive Order 10422 , the Secretary General's remarks to the UN Correspondents Association regarding the order, and an envelope from the Brown University Alumnae Fund."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Anti-communist movements -- United States."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "United Nations"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_b90b27c3caea7497297939df3bcab1c6\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eVivian Mae Leighton Papers\u003c/unittitle\u003e\u003cunitdate normal=\"1953/1955\" type=\"inclusive\"\u003e1953-1955\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter - Half\" id=\"aspace_c7a5c3f5882c4dbbf11ebaf6f2960483\" label=\"Mixed Materials [31142062722460]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_c7a5c3f5882c4dbbf11ebaf6f2960483\" type=\"Folder\"\u003e1-4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

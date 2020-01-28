@@ -1,0 +1,161 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "kimball"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Kimball Family Papers\n                    \u003clb/\u003e\n                    \u003cdate calendar=\"gregorian\" era=\"ce\"\u003e1813-1866 \u003c/date\u003e\n                    \u003cdate calendar=\"gregorian\" era=\"ce\"\u003e (bulk 1853-1855)\u003c/date\u003e\n                    \u003clb/\u003e\n                    \u003cnum\u003e\u003c/num\u003e\n                    \u003cnum\u003eMS 348\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Megan Fraser and others, circa 2012; updated by Joseph Ditta, August 2017."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "© 2011 New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2017-08-21T09:40-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "© 2011 New-York Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "Kimball Family Papers"
+                },
+                "unitdate": {
+                    "value": "1813-1866 (bulk 1853-1855)"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.834 Linear feet"
+                        },
+                        {
+                            "value": "(2 boxes)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The papers of the Kimball family of New Hampshire and elsewhere offer a glimpse of the life of a mid-nineteenth century family. The papers are mostly correspondence but also include poems, speeches, photographs, tintypes, court documents, and two volumes. Portions of this collection relating to the Civil War have been digitized and are available to on-site researchers and to users affiliated with subscribing institutions via \n                \u003cextref ns2:href=\"http://web.a.ebscohost.com/ehost/results?sid=100edece-435b-44c9-8d77-a6a870454678%40sessionmgr4003\u0026amp;vid=1\u0026amp;hid=4104\u0026amp;bquery=%28HJ+FBIY%29+OR+%28HJ+FBIZ%29\u0026amp;bdata=JmRiPWg1YyZ0eXBlPTEmc2l0ZT1laG9zdC1saXZl\"\u003eEBSCOhost\u003c/extref\u003e."
+                },
+                "unitid": {
+                    "value": "MS 348"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref5",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Photocopying undertaken by staff only. Limited to twenty exposures of stable, unbound material per day. (Researchers may not accrue unused copy amounts from previous days.)"
+            }
+        },
+        "prefercite": {
+            "id": "ref7",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "This collection should be cited as the \n                \u003cemph render=\"bold\"\u003eKimball Family Papers, MS 348, The New-York Historical Society\u003c/emph\u003e."
+            }
+        },
+        "acqinfo": {
+            "id": "ref4",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Gift of Laurie Smith Camp, 1997, 2009, 2011, and 2015."
+            }
+        },
+        "bioghist": {
+            "id": "ref8",
+            "head": "Biographical Note",
+            "p": {
+                "value": "David Kimball, a minister, married Eliza Epes Carter in 1822 and they eventually had five sons and two daughters. Of these children, their son Edward became a doctor's apprentice in New York, their son William became a teacher in the South and died serving in the Confederate Army, and their daughter Elizabeth suffered from \"insanity\" which the family attributed to a head injury as a child."
+            }
+        },
+        "scopecontent": {
+            "id": "ref9",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The other volume is an undated memoir of approximately 100 pages by Isabella Kimball Edson entitled \"Desultory Reminiscences,\" in which she writes of family history and the ways in which everyday life has changed since her girlhood. The memoir was apparently written at the request of a younger relative, and offers descriptions of the physical appearance of relatives and information about the disposition of family heirlooms. Several clippings are pasted into the volume."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Children--Hospital care"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Domestics--United States"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Hebrew Language--Grammar"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Indentured servants--United States"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Medicine--New York (State)--New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Orphans--United States"
+                }
+            ],
+            "corpname": {
+                "source": "ingest",
+                "value": "Nursery and Child's Hospital (New York, N.Y.)"
+            }
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref12\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid497003\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid497003\" type=\"Folder\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1813-1844\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref13\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid497002\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid497002\" type=\"Folder\"\u003e2\u003c/container\u003e\n                    \u003cunitdate\u003e1853-1854\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref14\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid497001\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid497001\" type=\"Folder\"\u003e3\u003c/container\u003e\n                    \u003cunitdate\u003e1855\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref15\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid497000\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid497000\" type=\"Folder\"\u003e4\u003c/container\u003e\n                    \u003cunitdate\u003e1858-1867, undated\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref16\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003ePoetry, essays, speech\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid496999\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid496999\" type=\"Folder\"\u003e5\u003c/container\u003e\n                    \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref17\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eBiographical material re: David Kimball\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid496998\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid496998\" type=\"Folder\"\u003e6\u003c/container\u003e\n                    \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref18\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eCutts Family\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid496997\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid496997\" type=\"Folder\"\u003e7\u003c/container\u003e\n                    \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref20\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eHebrew Grammar\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid496995\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid496995\" type=\"Folder\"\u003e8\u003c/container\u003e\n                    \u003cunitdate\u003e1818\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref21\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eEdson, Isabella Kimball, \"Desultory Reminiscences\"\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid496994\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid496994\" type=\"Folder\"\u003e9\u003c/container\u003e\n                    \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref22\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003ePhotographs: tintypes of Kimball Family Members\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid579001\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid579001\" type=\"Folder\"\u003e10\u003c/container\u003e\n                    \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref24\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003clist numeration=\"arabic\" type=\"ordered\"\u003e\n                        \u003citem\u003eEliza Eppes Carter Kimball with Buchanan \u0026amp; Elizabeth\u003c/item\u003e\n                        \u003citem\u003eBuchanan, Elizabeth \u0026amp; Eliza Eppes Carter Kimball\u003c/item\u003e\n                        \u003citem\u003eHenry \u0026amp; Buchanan Kimball\u003c/item\u003e\n                        \u003citem\u003eHenry \u0026amp; Buchanan Kimball\u003c/item\u003e\n                        \u003citem\u003eDavid Kimball\u003c/item\u003e\n                        \u003citem\u003eDr. Edward Holyoke Kimball\u003c/item\u003e\n                    \u003c/list\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref19\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003ePhotographs: originals and copies\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid496996\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid496996\" type=\"Folder\"\u003e11\u003c/container\u003e\n                    \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref27\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003ePhotographs: carte de visite album 1 [of 2]\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3007003\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                    \u003ccontainer parent=\"cid3007003\" type=\"Volume\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref32\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003eMost images are identified; for additional information, see box 2, folder 1.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref28\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003ePhotographs: carte de visite album 2 [of 2]\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3007004\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                    \u003ccontainer parent=\"cid3007004\" type=\"Volume\"\u003e2\u003c/container\u003e\n                    \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref31\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003eMost images are identified; for additional information, see box 2, folder 1.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref29\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003ePhotographs: carte de visite album identifications\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3007005\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                    \u003ccontainer parent=\"cid3007005\" type=\"Folder\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref30\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003eSticky notes with identification and relationship information for some of the images in the carte de visite albums. Numbers written in pencil on the notes refer to the image page numbers in the volumes.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref25\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003ePhotographs: cased image of William Kimball\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3007001\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                    \u003ccontainer parent=\"cid3007001\" type=\"Folder\"\u003e2\u003c/container\u003e\n                    \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref26\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003ePhotographs: framed images of Eliza Cutts Carter Kimball \u0026amp; Nathaniel Carter\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3007002\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                    \u003ccontainer parent=\"cid3007002\" type=\"Folder\"\u003e3\u003c/container\u003e\n                    \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

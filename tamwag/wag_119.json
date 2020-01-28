@@ -1,0 +1,113 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "wag_119"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "International Typographical Union, Local 6, Benefit Board Records \u003cnum\u003eWAG.119\u003c/num\u003e"
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-06-12T13:28:19\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "local",
+                        "value": "Janger, Gunnar"
+                    }
+                },
+                "unittitle": {
+                    "value": "International Typographical Union, Local 6, Benefit Board Records"
+                },
+                "unitdate": {
+                    "normal": "1927/1966",
+                    "type": "inclusive",
+                    "value": "1927-1966"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "2 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(4 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "WAG.119"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_dadc8443d5ae02a4f0816413a0d873d0",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_3160caeab5e7487fb0578ba645cb14b1",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Gunnar Janger, editor for the Typographical Union Local 6 Bulletin, in 1980. The accession number associated with this gift is 1980.014."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_261d9723ede6283cb93c434ceb74c5b3",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "INVENTORY AVAILABLE IN REPOSITORY; CONTACT: tamiment.wagner@nyu.edu"
+            }
+        },
+        "controlaccess": {},
+        "dsc": {}
+    }
+}

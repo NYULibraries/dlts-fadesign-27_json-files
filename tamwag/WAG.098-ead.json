@@ -1,0 +1,122 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "wag_098"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Joseph Califf Papers\n                    \u003cnum\u003eWAG.098\u003c/num\u003e\n                "
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T21:11-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Califf, Joseph, 1911-"
+                    }
+                },
+                "unittitle": {
+                    "value": "Joseph Califf Papers"
+                },
+                "unitdate": {
+                    "normal": "1936/1977",
+                    "type": "inclusive",
+                    "value": "1936-1977"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.5 linear feet"
+                        },
+                        {
+                            "value": "(2 boxes)"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "WAG.098"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "bioghist": {
+            "id": "ref2",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "In the 1950s, Califf worked briefly with a number of unions, among them the United Mine Workers, and the Fur Workers Union. He worked for the Civil Rights Congress and as a steelworker before getting a job teaching social science and economics at the State University of New York at Potsdam."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "INVENTORY AVAILABLE IN REPOSITORY; CONTACT : tamiment.wagner@nyu.edu."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Labor leaders |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor unions |x Food industry employees |x Organizing."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Tobacco workers |z United States."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "United States. National War Labor Board (1942-1945)."
+            }
+        },
+        "dsc": {}
+    }
+}

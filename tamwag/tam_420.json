@@ -1,0 +1,150 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_420"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the William Morris Letters \u003cnum\u003eTAM 420\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Peter Meyer Filardo"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-31T20:03:54\u003c/date\u003e"
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "William Morris Letters"
+                },
+                "unitdate": {
+                    "normal": "1866/1897",
+                    "type": "bulk",
+                    "value": "1866-1897"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.1 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "William Morris (1834-1896) was a British socialist, poet, artist and architect, and leading figure in the Arts and Crafts movement. Contains signed letters by Morris. Recipients include John Coleman Kenworthy and Theodore Watts-Dunton. Also included is a copy of an 1855 letter from Morris to his mother, Emma Morris."
+                },
+                "unitid": {
+                    "value": "TAM 420"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_547509f06e9716e9886860d37ad99b78",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_5f162b8370f7cf3c6294b07cf7714cf1",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_a5ed61666e2897d8b2eacc52dbe5c21a",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: \u003clb/\u003e\u003clb/\u003eIdentification of item, date; Collection name; Collection number; box number; folder number; \u003clb/\u003eTamiment Library/Robert F. Wagner Labor Archives \u003clb/\u003eElmer Holmes Bobst Library \u003clb/\u003e70 Washington Square South \u003clb/\u003eNew York, NY 10012, New York University Libraries."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_7ec4365540068ab159811e2c78a08193",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials found in collection; provenance is unknown. The accession number associated with this collection is 1950.232."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_6880b804235136283409de74884532d0",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "\u003clist\u003e\u003citem\u003eDerived from: International Institute for Social History Archives http://www.iisg.nl/archives/morris/\u003c/item\u003e\u003citem\u003eSee also: William Morris Society http://www.morrissociety.org/\u003c/item\u003e\u003citem\u003eSee also: William Morris Internet Archive (includes chronology) http://www.marxists.org/archive/morris/\u003c/item\u003e\u003c/list\u003e "
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_d7ceef5118a1ff92d48eabb6bd0573c1",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The collection contains eleven handwritten letters signed by Morris, a handwritten copy of an 1855 letter from Morris to his mother, Emma Morris, with an accompanying letter of transmittal and envelope. Six letters are to John Coleman Kenworthy, 1863-1948, a younger socialist then living in Liverpool. There are single letters to Charles Augustus Howell (1840-1890); (\"I return Rossetti letter...\") to poet, author and critic, Theodore Watts-Dunton (re: a manuscript of \u003ctitle render=\"italic\"\u003eThe Coming of Love\u003c/title\u003e, 1898), and three letters to unidentified recipients. All the items have been encapsulated, except for the copy of the letter to Morris's mother."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Socialists |z Great Britain."
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref13\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eLetters\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref14\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eWilliam Morris to: Howell, [Charles Augustus] Contents: \"I return Rossetti letter…\"\u003c/unittitle\u003e\u003cunitdate\u003eMar 5, 1866\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1a1593031d796fe1af210d3d3df3cb33\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1a1593031d796fe1af210d3d3df3cb33\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eWilliam Morris to: Kenworthy, [John Coleman] \u003clb/\u003eContents: six letters, one undated. Concern trips by Morris to Liverpool, where Kenworthy apparently lived, possible meetings in London, and [upon Kenworthy's return from a trip to America] Morris' aversion to the idea of traveling to America.\u003c/unittitle\u003e\u003cunitdate normal=\"1889/1894\" type=\"inclusive\"\u003eundated; Nov 6, 1889; Feb 17, 1890; Mar 25, 1890; Oct 7, 1890; Mar 27, 1894\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ae9b69df4359e3c64adde5e65745e38f\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ae9b69df4359e3c64adde5e65745e38f\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eWilliam Morris to: Morris, [Emma] \u003clb/\u003eContents: \"Copy of a letter from William Morris to his Mother\" [Exeter Coll. Oxon., Nov 11th, 1855]; a letter to Sara Anderson, Nov 17, 1897, from \"Catie\" [?], the copier of Morris's 1855 letter; and the envelope addressed to Miss Anderson\u003c/unittitle\u003e\u003cunitdate normal=\"1866/1897\" type=\"inclusive\"\u003eundated ; Nov 17, 1897\u003c/unitdate\u003e\u003ccontainer id=\"aspace_43d3d071059225252d3f8c9ac17ce12f\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_43d3d071059225252d3f8c9ac17ce12f\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eWilliam Morris to: Unidentified Recipients \u003clb/\u003eContents: three letters.\u003c/unittitle\u003e\u003cunitdate normal=\"1866/1897\" type=\"inclusive\"\u003eundated ; Jul 24, 1876 ; Feb 27, 1885\u003c/unitdate\u003e\u003ccontainer id=\"aspace_aaf34cf4afb099968cc02cbd90ab95b2\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_aaf34cf4afb099968cc02cbd90ab95b2\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eWilliam Morris to: Watts-Dunton, Theodore \u003clb/\u003eContents: one letter re: a Watts ms, \u003ctitle render=\"italic\"\u003eThe Coming of Love\u003c/title\u003e\u003c/unittitle\u003e\u003cunitdate\u003eMar 5, 1894\u003c/unitdate\u003e\u003ccontainer id=\"aspace_fb67613b079b04360565e3a41a976780\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_fb67613b079b04360565e3a41a976780\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "alba_251"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Veterans of the Abraham Lincoln Brigade: Freedom of Information Act Files \u003cnum\u003eALBA.251\u003c/num\u003e"
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-07-18T15:27:06\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Veterans of the Abraham Lincoln Brigade: Freedom of Information Act Files"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "7.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(8 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "ALBA.251"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_ab3b78148cb370ed98de7e7a7b86a1a9",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open to researchers. Please contact the Tamiment Library \u0026amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_9ee1c681c63956111fc91a8ce1f6b18b",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "These records are a result of a response to Freedom on Information Act requests to the Federal Bureau of Investigation (FBI) for all records maintained by the organization from its surveillance of VALB.  The records reveal surveillance of the organization starting in 1940 and continuing into 1965.  The FBI applied some exemptions to the records, resulting in redacted portions in certain documents.  These FOIA requests were made by Julia Newman, former executive director of the Abraham Lincoln Brigade Archives (ALBA), an organization of friends and family of veterans, academics, and others interested in exploring and preserving the history of the Lincoln Brigade."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_2569f100497aeaecc491ee3e42fb4ae7",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The records contain lists of membership in the Abraham Lincoln Brigade, histories of VALB, copies of pamphlets, and other organizational material, news reports that mention VALB, excerpts from books and articles about VALB, documents from the third National Convention of Veterans, and reports detailing the formation, purpose, activities, publications, officers and sponsors of VALB chapters around the country."
+            }
+        },
+        "controlaccess": {
+            "corpname": {
+                "source": "naf",
+                "value": "Veterans of the Abraham Lincoln Brigade"
+            }
+        },
+        "dsc": {}
+    }
+}

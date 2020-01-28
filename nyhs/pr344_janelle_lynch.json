@@ -1,0 +1,131 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "pr344_janelle_lynch"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Janelle Lynch Photographs\n                    \u003clb/\u003e2001-2006\n                    \u003clb/\u003e\n                    \u003cnum\u003ePR 344\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Larry Weimer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "© 2011 New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                },
+                "date": "February 2018"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2018-02-16T14:48-0500\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "© 2011 New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "ingest",
+                        "value": "Lynch, Janelle"
+                    }
+                },
+                "unittitle": {
+                    "value": "Janelle Lynch photographs"
+                },
+                "unitdate": {
+                    "value": "2001-2006"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "2.0 Linear feet"
+                        },
+                        {
+                            "value": "in one flat box"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The collection includes eleven photographs from Janelle Lynch's series \"River, 2001-2006.\" The photographs generally include views of the lower Hudson River, with views typically facing west from Manhattan toward New Jersey, foregrounded by decaying piers, pilings, twisted ironwork, the Holland Tunnel air shafts, or other such features of the shoreline's built environment."
+                },
+                "unitid": {
+                    "value": "PR 344"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref20",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open to qualified researchers."
+            }
+        },
+        "prefercite": {
+            "id": "ref23",
+            "head": "Preferred Citation Note",
+            "p": {
+                "value": "Credit line for \n                \u003cemph render=\"italic\"\u003eUntitled 2 [Hudson River]\u003c/emph\u003e: Gift of Janelle Lynch."
+            }
+        },
+        "bioghist": {
+            "id": "ref19",
+            "head": "Biographical/Historical Note",
+            "p": {
+                "value": "(The above note was abstracted from Lynch's biographical note on her website at: \n                \u003cextref ns2:actuate=\"onRequest\" ns2:href=\"https://www.janellelynch.net/BIO/1\"\u003ehttps://www.janellelynch.net\u003c/extref\u003e."
+            }
+        },
+        "scopecontent": {
+            "id": "ref7",
+            "head": "Scope and Contents Note",
+            "p": {
+                "value": "The photographs generally include views of the lower Hudson River, with views typically facing west from Manhattan toward New Jersey (Jersey City, Hoboken, Weehawken area). Many views have decaying piers, pilings, twisted ironwork or other such features of the shoreline's built environment in the foreground. The Holland Tunnel air shafts appear prominently in some. #5 highlights the abandoned New York Central Railroad's 69th Street Transfer Bridge."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Piers -- New York (State) -- New York"
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref1\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e\n                        \u003cemph render=\"italic\"\u003eUntitled 2 [Hudson River]\u003c/emph\u003e, color\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3362004\" type=\"Box\" label=\"Graphic materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid3362004\" type=\"Folder\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e2001\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cacqinfo id=\"ref3\"\u003e\n                    \u003chead\u003eImmediate Source of Acquisition Note\u003c/head\u003e\n                    \u003cp\u003eGift of Janelle Lynch, 2014.\u003c/p\u003e\n                \u003c/acqinfo\u003e\n                \u003cscopecontent id=\"ref25\"\u003e\n                    \u003chead\u003eScope and Contents Note\u003c/head\u003e\n                    \u003cp\u003eThis photograph was originally held in the Photographer's File (PR 50). It was moved to this collection (PR 344) in October 2017 when additional Lynch photographs were acquired.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref5\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e\n                        \u003cemph render=\"italic\"\u003eUntitled 5 [69th Street Transfer Bridge]\u003c/emph\u003e, ed. 4/6, b\u0026amp;w\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3362005\" type=\"Box\" label=\"Graphic materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid3362005\" type=\"Folder\"\u003e2\u003c/container\u003e\n                    \u003cunitdate\u003e2001-2006\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cacqinfo id=\"ref6\"\u003e\n                    \u003chead\u003eImmediate Source of Acquisition Note\u003c/head\u003e\n                    \u003cp\u003ePurchase, 2016.\u003c/p\u003e\n                \u003c/acqinfo\u003e\n                \u003cscopecontent id=\"ref26\"\u003e\n                    \u003chead\u003eScope and Contents Note\u003c/head\u003e\n                    \u003cp\u003eThis photograph was originally held in the Photographer's File (PR 50). It was moved to this collection (PR 344) in October 2017 when additional Lynch photographs were acquired.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref10\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e\n                        \u003cemph render=\"italic\"\u003eUntitled 1\u003c/emph\u003e, ed. 3/6, color\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3362009\" type=\"Box\" label=\"Graphic materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid3362009\" type=\"Folder\"\u003e3\u003c/container\u003e\n                    \u003cunitdate\u003e2001-2006\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cacqinfo id=\"ref16\"\u003e\n                    \u003chead\u003eImmediate Source of Acquisition Note\u003c/head\u003e\n                    \u003cp\u003eAll photographs in folder 3 were purchased in 2017.\u003c/p\u003e\n                \u003c/acqinfo\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref9\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e\n                        \u003cemph render=\"italic\"\u003eUntitled 2\u003c/emph\u003e, ed. 4/6, color\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3362008\" type=\"Box\" label=\"Graphic materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid3362008\" type=\"Folder\"\u003e3\u003c/container\u003e\n                    \u003cunitdate\u003e2001-2006\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref4\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e\n                        \u003cemph render=\"italic\"\u003eUntitled 3\u003c/emph\u003e, ed. 5/6, color\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3362006\" type=\"Box\" label=\"Graphic materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid3362006\" type=\"Folder\"\u003e3\u003c/container\u003e\n                    \u003cunitdate\u003e2001-2006\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref11\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e\n                        \u003cemph render=\"italic\"\u003eUntitled 4\u003c/emph\u003e, ed. 6/6, color\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3362010\" type=\"Box\" label=\"Graphic materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid3362010\" type=\"Folder\"\u003e3\u003c/container\u003e\n                    \u003cunitdate\u003e2001-2006\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref14\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e\n                        \u003cemph render=\"italic\"\u003eUntitled 6\u003c/emph\u003e, color\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3362013\" type=\"Box\" label=\"Graphic materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid3362013\" type=\"Folder\"\u003e3\u003c/container\u003e\n                    \u003cunitdate\u003e2001-2006\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref12\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e\n                        \u003cemph render=\"italic\"\u003eUntitled 7\u003c/emph\u003e, b\u0026amp;w\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3362011\" type=\"Box\" label=\"Graphic materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid3362011\" type=\"Folder\"\u003e3\u003c/container\u003e\n                    \u003cunitdate\u003e2001-2006\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref15\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e\n                        \u003cemph render=\"italic\"\u003eUntitled 8\u003c/emph\u003e, ed. 5/6, color\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3362014\" type=\"Box\" label=\"Graphic materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid3362014\" type=\"Folder\"\u003e3\u003c/container\u003e\n                    \u003cunitdate\u003e2001-2006\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref13\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e\n                        \u003cemph render=\"italic\"\u003eUntitled 9\u003c/emph\u003e, color\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3362012\" type=\"Box\" label=\"Graphic materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid3362012\" type=\"Folder\"\u003e3\u003c/container\u003e\n                    \u003cunitdate\u003e2001-2006\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref8\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e\n                        \u003cemph render=\"italic\"\u003eUntitled 10\u003c/emph\u003e, ed. 4/6, color\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3362007\" type=\"Box\" label=\"Graphic materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid3362007\" type=\"Folder\"\u003e3\u003c/container\u003e\n                    \u003cunitdate\u003e2001-2006\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

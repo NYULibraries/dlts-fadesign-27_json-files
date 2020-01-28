@@ -1,0 +1,153 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "schwartz"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the George Schwartz Papers \u003cnum\u003eMC.217\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Elizabeth Banks"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-06-05T20:22:51\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Schwartz, George"
+                    }
+                },
+                "unittitle": {
+                    "value": "George Schwartz Papers"
+                },
+                "unitdate": {
+                    "normal": "1921/1925",
+                    "type": "inclusive",
+                    "value": "1921-1925"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.5 linear feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one manuscript box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "George Schwartz received his Bachelor of Science with honors in biology from New York University (NYU) in 1925. This collection contains materials relating to undergraduate biology courses in which he was enrolled 1921-1925, such as histology and embryology, as well as his honors thesis and various other lab work and papers."
+                },
+                "unitid": {
+                    "value": "MC.217"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_f6723f2e55529711f98846f58495130b",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Material pertaining to individual student records may be restricted in accordance with the Family Educational Rights and Privacy Act (FERPA). Please contact the Archives with specific questions regarding access to such records."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_8975d2e435ff207519bd1c9ac58b2dd9",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); George Schwartz Papers; MC 217; box number; folder number; New York University Archives, New York University Libraries."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_b14df303710c5ff31d68e3baf928ffd2",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials found in repository; documentation concerning provenance of these materials is unavailable."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_2bb56294077e548b35a602840c974927",
+            "head": "Biographical Note",
+            "p": {
+                "value": "George Schwartz received his Bachelor of Science with honors in biology from New York University (NYU) in 1925. He graduated from Bellevue Medical College in 1929.  While at NYU, he participated in activities such as the Politics Club, the Menorah Society, the Junior Show, the Paint and Powder Club, and the Stuyvesant Club."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_b6c6a2294c7c4d3d1015c78fe57fc0f7",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "This collection consists of one box containing class materials from George Schwartz's undergraduate biology classes 1921-1925. Consisting mostly of handwritten lecture notes, it includes other materials, such as lab work and typed papers. Also included is his 1925 honors thesis."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Biology."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Universities and Colleges -- Alumni and alumnae."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "New York University. College of Arts and Science"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref1\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBiology labs, notes and handouts \u003c/unittitle\u003e\u003cunitdate normal=\"1921/1922\" type=\"inclusive\"\u003e1921-1922\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_ac070c2ddaf7bf00ce6f5ab86c2b6f8d\" label=\"Mixed Materials [31142063004801]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ac070c2ddaf7bf00ce6f5ab86c2b6f8d\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref2\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eHistology lectures and lab work\u003c/unittitle\u003e\u003cunitdate normal=\"1923/1924\" type=\"inclusive\"\u003e1923-1924\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_565dbd7aa5562d47ee4481cf98e662e8\" label=\"Mixed Materials [31142063004801]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_565dbd7aa5562d47ee4481cf98e662e8\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref3\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eEmbryology lectures and lab work\u003c/unittitle\u003e\u003cunitdate normal=\"1923/1924\" type=\"inclusive\"\u003e1923-1924\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_803432f5d590974fffdf256247cdb0cb\" label=\"Mixed Materials [31142063004801]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_803432f5d590974fffdf256247cdb0cb\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref4\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eThesis: The Pituitary\u003c/unittitle\u003e\u003cunitdate normal=\"1925/1925\" type=\"inclusive\"\u003e1925\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_51cb31d725165c2bd67ede7d8ae964ad\" label=\"Mixed Materials [31142063004801]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_51cb31d725165c2bd67ede7d8ae964ad\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref5\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBiology lectures and lab work\u003c/unittitle\u003e\u003cunitdate normal=\"1922/1925\" type=\"inclusive\"\u003e1922-1925\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_d2db656a17f4ceccaff71361d8e37fa7\" label=\"Mixed Materials [31142063004801]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d2db656a17f4ceccaff71361d8e37fa7\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref6\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eHistory and principles of biology\u003c/unittitle\u003e\u003cunitdate normal=\"1925/1925\" type=\"inclusive\"\u003e1925\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_7d3b72fc83f051a9a8328f67cddb3d45\" label=\"Mixed Materials [31142063004801]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_7d3b72fc83f051a9a8328f67cddb3d45\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

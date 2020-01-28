@@ -1,0 +1,154 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_510"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Aaron Bindman Papers \u003cnum\u003eTAM 510\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-06-12T20:07:52\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "local",
+                        "value": "Bindman, Louise"
+                    }
+                },
+                "unittitle": {
+                    "value": "Aaron Bindman Papers"
+                },
+                "unitdate": {
+                    "normal": "1960/1997",
+                    "type": "bulk",
+                    "value": "1960-1997"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Aaron Bindman was a union organizer and secretary treasurer of the International Longshoremen's and Warehousemen's Union Local 208 (Chicago, Ill.), from 1946-53. The collection contains an autobiographical sketch and curriculum vitae, correspondence, speeches, articles, some pertaining to various teaching/research related travels, including to New Zealand, the USSR, Sweden, Saskatchewan, Canada, etc."
+                },
+                "unitid": {
+                    "value": "TAM 510"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_9f1bd5088bf7bfc3f42544174cd443a8",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_c0a8be6e92e45a6f556916a415cb716b",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_ec891866c19e690044003bcfdbe9507f",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Collection name; Collection number; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_91486e5369fdc4c7d7f119ca0d2d4c1d",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Louise and Aaron Bindman 2009. The accession number associated with this gift is 2009.059."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_aeefa6c8dbba386920365478b468fe83",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Aaron Bindman was a union organizer and secretary treasurer of the International Longshoremen's and Warehousemen's Union Local 208 (Chicago, Ill.), from 1946-53. After four years as a carpenter, he enrolled in the University of Illinois, received a PhD in sociology, which he taught for twenty years."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_2ed85eeb2ae948228747fa97185aa2cf",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection contains an autobiographical sketch and curriculum vitae, correspondence, speeches, articles, some pertaining to various teaching/research related travels, including to New Zealand, the USSR, Sweden, Saskatchewan, Canada, etc. A thin file labeled American Student Union contains a delegates badge from its 5th convention in March, 1939, and an undated letter from George Seldes, circa 1939-41. Bindman was also an amateur sculptor, and there are some two dozen photographs of his work and of himself sculpting."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Sociologists |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor unions |x Officials and employees |z Illinois |z Chicago."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "American Student Union"
+            }
+        },
+        "dsc": {}
+    }
+}

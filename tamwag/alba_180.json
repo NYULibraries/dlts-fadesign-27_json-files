@@ -1,0 +1,104 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "alba_180"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Jay Allen and Barbara Tuchman: Chronology of the Spanish Civil War\n            \u003cnum\u003eALBA.180\u003c/num\u003e"
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace\n        \u003cdate\u003e2017-08-09T18:53:26\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Allen, Jay, 1900-1972"
+                    }
+                },
+                "unittitle": {
+                    "value": "Jay Allen and Barbara Tuchman: Chronology of the Spanish Civil War"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(2 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "ALBA.180"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_f78f6a8970c4bd0893f1d43976daf41e",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open to researchers. Please contact the Tamiment Library \u0026amp; Robert F.\n        Wagner Labor Archives for more information and to schedule an appointment,\n        tamiment.wagner@nyu.edu or 212-998-2630."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_5683e126a2a2c6eb2a8be74c55f48a2f",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This chronology was created by Jay Allen and Barbara Tuchman during the Spanish Civil War\n        and covers events in Spain from Feb. 1936 through Nov. 1936. The single-spaced typed text\n        densely covers oversized sheets that measure roughly 16\" x 23\". Each month has been\n        separately foldered. There are also notes, drafts and fragments which have not been\n        integrated into the larger chronology."
+            }
+        },
+        "dsc": {}
+    }
+}

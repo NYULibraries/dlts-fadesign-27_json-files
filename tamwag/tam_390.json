@@ -1,0 +1,145 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_390"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Helen Sobell Autobiographical Typescript \"Double Exposure\" \u003cnum\u003eTAM 390\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-25T18:58:35\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Helen Sobell Autobiographical Typescript \"Double Exposure\""
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "This collection contains an incomplete typescript by Helen Sobell titled \"Double Exposure\". Helen Sobell was the wife of convicted atomic spy Morton Sobell. This collection consists of an incomplete autobiographical typescript, missing perhaps half of its listed 602 pp., with all but two of the twenty-four chapters incomplete, possibly including the last chapter, and thus with numerous gaps in the page numberings. The typescript summarizes the trial and conviction of Morton Sobell, subsequent appeals and political activities on his behalf, and her own role in these activities."
+                },
+                "unitid": {
+                    "value": "TAM 390"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_849d78abb52b0e39263686afda06ff83",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_a8244c1ae8d8873357040fae6c0fd488",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_830868496b00041a1f614010226d4281",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Helen Sobell Autobiographical Typescript \"Double Exposure\"; TAM 390; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_21b78f0b0631b74a5dda03ed8524ce5c",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Marvin E. Gettleman, date unknown. The accession number associated with this gift is 2007.003."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_00705ddf425473c70e0b6980c6fe60ef",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Helen Sobell was the wife of convicted atomic spy Morton Sobell."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_a70a5285da9382adf6f829aaa360554d",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Table of contents: Torn apart--The forces of life and death--Aftermath--The FBI at work and play--The merry-go-round spins faster--The COINTEL operations accelerate--The U.S. Attorney, the judge, and the FBI--Working for a new trial and transfer from Alcatraz--Free speech and assembly; and Mexico--On having a baby, and the continuing activity--In order to counterattack the propaganda, this woman is spreading--The tenth year of imprisonment--Clergy Washington weekend--Hope expands--A long and loud screaming must take place--Fun and games with our FBI and CIA, Europe--Reopen the entire Sobell-Rosenberg case--A new prison and internatioinal attention--The trial of Roy Cohn, FLY-IN, Ann Arbor acts--Lewisberg, Pennsylvania, a new prison--Censorship by the FIB; book parties--The A-bomb secret unimpounded--The scientists speak out--On and on and..."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Espionage, Soviet -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Anti-communist movements -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Communists -- United States -- Biography."
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

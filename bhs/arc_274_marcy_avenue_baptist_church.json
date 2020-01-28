@@ -1,0 +1,154 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arc_274_marcy_avenue_baptist_church"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Marcy Avenue Baptist Church records\n                    \u003cnum\u003eARC.274\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Sativa Peterson"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "April 2008"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-28T11:47-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Marcy Avenue Baptist Church records"
+                },
+                "unitdate": {
+                    "normal": "1872/1958",
+                    "type": "inclusive",
+                    "value": "1872-1958"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "3.0 Linear feet"
+                        },
+                        {
+                            "value": "in two record cartons and three loose scrapbooks."
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "This collection contains the administrative and organizational records of the Marcy Avenue Baptist Church, which began as an outgrowth of the Washington Avenue Baptist Church. The Church, located in the Bedford-Stuyvesant area of Brooklyn, was formed in 1872 and disbanned in 1939, after which its building became home to the Concord Baptist Church of Christ. The church experienced rapid growth and underwent several expansions in the 1870s and 1880s. By 1900, Marcy Avenue Baptist Church was the largest Baptist church in Brooklyn. Materials in the collection include membership rolls, registers, and marriage stubs, as well as Deacons reports, Ladies Aid Society reports, Sunday School Superintendent reports, Benevolent Society reports, reports of the Board of Trustees, and general Church statistics."
+                },
+                "unitid": {
+                    "value": "ARC.274"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1088011",
+                    "label": "Text",
+                    "type": "Item",
+                    "value": "ARC.274 4 of 5 (Scrapbook)"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref5",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Marcy Avenue Baptist Church records, ARC.274, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Accession 1977.206 was the gift of Emily Austin Madden, 1958 and 1960. Source and date of acquisition for accession 1985.081 are unknown."
+            }
+        },
+        "bioghist": {
+            "id": "ref12",
+            "head": "Historical Note",
+            "p": {
+                "value": "In March of 1939, the Marcy Avenue Baptist Church was taken over by the Concord Baptist congregation to meet the rapidly increasing need for a large church for African American worshipers in the Bedford-Stuyvesant area. Concord Baptist was established in 1847 and occupied other sites before moving to Marcy and Putnam Avenues in 1939."
+            }
+        },
+        "scopecontent": {
+            "id": "ref6",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection contains the administrative and organizational records of the Marcy Avenue Baptist Church, as well as Church ephemera, dating from 1872 to 1939. The collection is comprised of two accessions, which have been processed as separate series:"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Baptists |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Marcy Avenue Baptist Church (Brooklyn, New York, N.Y.)."
+            }
+        },
+        "otherfindaid": {
+            "id": "ref13",
+            "head": "Other Finding Aids note"
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref7\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 1: Accession 1985.081\u003c/unittitle\u003e\n                    \u003cunitdate normal=\"1872/1927\" type=\"inclusive\"\u003e1872-1927\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref8\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003eThis series consists of four scrapbooks containing Deacons reports, Ladies Aid Society reports, Sunday School Superintendent reports, Benevolent Society reports, reports of the Board of Trustees, and statistics. They include everything from yearly itemized budgets to comments on the weather for individual prayer meetings and from theological discussions to discussions of the proceeds from a Christmas Bazaar. They also contain records on each prayer meeting and Sunday service, delegate elections and fundraising activities, dismissals granted to departing members, and new baptisms. Obituaries and remembrances relating to deceased Church members are also included. The scrapbooks are in chronological order.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref9\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 2: Accession 1977.206\u003c/unittitle\u003e\n                    \u003cunitdate normal=\"1874/1958\" type=\"inclusive\"\u003e1874-1958\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref10\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003eThis series contains various materials documenting the activities of the Church, including correspondence, clippings, one scrapbook, programs, and souvenirs.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

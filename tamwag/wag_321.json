@@ -1,0 +1,122 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "wag_321"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Communications Workers of America, District 4 Records \u003cnum\u003eWAG.321\u003c/num\u003e"
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-08-03T15:51:41\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Communications Workers of America, District 4 Records"
+                },
+                "unitdate": {
+                    "value": "ca. 1930s-1970s"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "17 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 17 record cartons"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "WAG.321"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_a158bc214dbd1ae51ad0413772b221dc",
+                    "label": "Mixed Materials [31142063414794]",
+                    "type": "Box",
+                    "value": "13"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_d7c10b448f3e114f319bcc0dc333ed04",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_9eed5f9583067672ebe853b9b80a8a2f",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Communications Workers of America, District 4 Records; WAG 321; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_ad53f1f7eaea6912fb7b2e151de66224",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "The provenance of this collection is unknown. The accession number associated with this collection is 2011.065."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_c1fc6b3a79e801eeb4fd1279ada462ae",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Some periodicals were separated for cataloging."
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref2\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eArchived Website\u003c/unittitle\u003e\u003cunitdate\u003eApr 19, 2014-ongoing\u003c/unitdate\u003e\u003c/did\u003e\u003cdao ns2:actuate=\"onLoad\" ns2:href=\"https://wayback.archive-it.org/6349/*/http://www.cwa-union.org/\" ns2:role=\"translation missing: en.enumerations.file_version_use_statement.service\" ns2:show=\"new\" ns2:title=\"Communications Workers of America\" ns2:type=\"simple\"\u003e\u003cdaodesc\u003e\u003cp\u003eCommunications Workers of America\u003c/p\u003e\u003c/daodesc\u003e\u003c/dao\u003e\u003cscopecontent id=\"aspace_06af4f437e49e5f6183e359a0b9aef51\"\u003e\u003chead\u003eScope and Content Note\u003c/head\u003e\u003cp\u003eCommunications Workers of America District 4, representing a variety of workers in the states of Illinois, Indiana, Ohio, Michigan and Wisconsin. CWA District 4 includes over 200 local unions that represent workers in telecommunications, informational technology, publishing, print and electronic media, manufacturing, higher education, local government and health care. The website contains news listings, bargaining agreements, their political action committee, and event listings.\u003c/p\u003e\u003c/scopecontent\u003e\u003cphystech id=\"aspace_a5441734a904d5a2a041bf78be473381\"\u003e\u003chead\u003ePhysical Characteristics and Technical Requirements\u003c/head\u003e\u003cp\u003eDue to technical or privacy issues, archived websites may not be exact copies of  the original website at the time of the web crawl. Certain file types will not be captured dependent on how they are embedded in the site. Other parts of websites that the crawler has difficulty capturing includes Javascript, streaming content, database-driven content, and highly interactive content. Full-Text searches of archived websites are available at https://archive-it.org/organizations/567.\u003c/p\u003e\u003c/phystech\u003e\u003c/c\u003e"
+        }
+    }
+}

@@ -1,0 +1,175 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "arms_1973_270_ashley_cole"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Ashley W. and Ashley T. Cole collection \u003cnum\u003e1973.270\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Barbara Balliet"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "Brooklyn Historical Society",
+                        "128 Pierrepont Street",
+                        "Brooklyn 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-07-10T15:11:36\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Cole, Ashley W."
+                    }
+                },
+                "unittitle": {
+                    "value": "Ashley W. and Ashley T. Cole Collection"
+                },
+                "unitdate": {
+                    "normal": "1894/1904",
+                    "type": "bulk",
+                    "value": "1894-1904"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 8 folders. "
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Ashley W. Cole and his son Ashley T. Cole collected these items during the years of their involvement in New York State politics.  Included here is official correspondence to New York State Governor Levi P. Morton, letters received by the elder Cole while serving as State Railroad Commissioner, letters received by law firms with which Ashley T. Cole was associated, and additional letters written to either the father or the son.  Nearly all of the items refer to Brooklyn or were written by Brooklynites.  The collection was donated by Ashley T. Cole in 1941."
+                },
+                "unitid": {
+                    "value": "1973.270"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_27e35c34b92b7ea4176b6ddb4ef124a9",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0013"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_b2663033845b55258181296ab671c56e",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_fa90a1fa1f7bcae6f71aa48f842f9ace",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Ashley W. and Ashley T. Cole Collection, ArMs 1973.270, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_23f706482466b46de55c21ebad668a12",
+            "head": "Immediate Source of Acquisiton",
+            "p": {
+                "value": "Donated by Ashley T. Cole."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_105907e7bf3d95232fe856c0ecf4076e",
+            "head": "Biographical Notes",
+            "p": {
+                "value": "Cole was, like his father, active in New York City and state politics.  He was a delegate to the New York State Constitutional Convention in 1933 and a member of the State World's Fair Commission, 1936-1941.  Starting in 1942, Cole was a member of the New York State Racing Commission (which supervises thoroughbred racing in New York State).  He became chairman of the Commission in 1945 and held that post at the time of his death in 1964, serving longer than any other person.  "
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_9eafd3e36423509fd96e4068052bbef9",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "Scattered throughout the collection is correspondence from Brooklyn politicians such as Borough Presidents Edward M. Grout, 1898-1901; Martin W. Littleton, 1904-5; and Bird S. Coler, 1906-09 about appointments, legislation, and patronage matters.  A few letters about grade crossings date from the senior Cole's tenure as railroad commissioner.  Of minor interest are a series of letters from William Young, Governor Theodore Roosevelt's secretary, soliciting Ashley W. Cole's portrait for a gallery of governor's secretary's portraits in Albany.  "
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Local transit |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "General strikes |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Charities |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Strikes and lockouts |x Street-railroads"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Governors |z New York (State)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Street-railroads |z New York (State)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Railroads |z New York (State)"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "New York Times Company"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref11_r0w\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBrig. General Henry L. Abbott Letter\u003c/unittitle\u003e\u003cunitdate normal=\"1876/1885\" type=\"inclusive\"\u003e1876-1885\u003c/unitdate\u003e\u003ccontainer id=\"aspace_0ca89b05aeb473512228351b21c7e5ff\" label=\"Text\" type=\"Box\"\u003eA0013\u003c/container\u003e\u003ccontainer parent=\"aspace_0ca89b05aeb473512228351b21c7e5ff\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref12_mnr\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence -- Consolidation of Greater New York\u003c/unittitle\u003e\u003cunitdate normal=\"1892/1895\" type=\"inclusive\"\u003e1892-1895\u003c/unitdate\u003e\u003ccontainer id=\"aspace_3f7ede531e3080d23786341a8464bd6f\" label=\"Text\" type=\"Box\"\u003eA0013\u003c/container\u003e\u003ccontainer parent=\"aspace_3f7ede531e3080d23786341a8464bd6f\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref13_toa\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence -- Consolidation of Greater New York, etc.\u003c/unittitle\u003e\u003cunitdate normal=\"1896/1896\" type=\"inclusive\"\u003e1896\u003c/unitdate\u003e\u003ccontainer id=\"aspace_0b16f115adafda29ada2c9ccc524d0d1\" label=\"Text\" type=\"Box\"\u003eA0013\u003c/container\u003e\u003ccontainer parent=\"aspace_0b16f115adafda29ada2c9ccc524d0d1\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15_w6a\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\u003cunitdate normal=\"1896/1896\" type=\"inclusive\"\u003e1896\u003c/unitdate\u003e\u003ccontainer id=\"aspace_246168ac3f248ea9cb42d0a3e2e7e871\" label=\"Text\" type=\"Box\"\u003eA0013\u003c/container\u003e\u003ccontainer parent=\"aspace_246168ac3f248ea9cb42d0a3e2e7e871\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16_6t4\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\u003cunitdate normal=\"1897/1899\" type=\"inclusive\"\u003e1897-1899\u003c/unitdate\u003e\u003ccontainer id=\"aspace_814b82afce09cbd8b825679a0a0d13fe\" label=\"Text\" type=\"Box\"\u003eA0013\u003c/container\u003e\u003ccontainer parent=\"aspace_814b82afce09cbd8b825679a0a0d13fe\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17_rlb\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\u003cunitdate normal=\"1900/1903\" type=\"inclusive\"\u003e1900-1903\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2539be2422b06c0b8cc00573c28f5c57\" label=\"Text\" type=\"Box\"\u003eA0013\u003c/container\u003e\u003ccontainer parent=\"aspace_2539be2422b06c0b8cc00573c28f5c57\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18_vty\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\u003cunitdate normal=\"1904/1904\" type=\"inclusive\"\u003e1904\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a36ac944ed84ae7248b9341c7c9f904b\" label=\"Text\" type=\"Box\"\u003eA0013\u003c/container\u003e\u003ccontainer parent=\"aspace_a36ac944ed84ae7248b9341c7c9f904b\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19_34r\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\u003cunitdate normal=\"1905/1926\" type=\"inclusive\"\u003e1905-1926\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c5c545fff3a2a6d144a3625c55172665\" label=\"Text\" type=\"Box\"\u003eA0013\u003c/container\u003e\u003ccontainer parent=\"aspace_c5c545fff3a2a6d144a3625c55172665\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

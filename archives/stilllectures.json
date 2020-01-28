@@ -1,0 +1,135 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "stilllectures"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Bayrd Still Lectures on the Early History of New York University \u003cnum\u003eMC.43\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Alison Lotto"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-02-12T14:58:48\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Still, Bayrd"
+                    }
+                },
+                "unittitle": {
+                    "value": "Bayrd Still Lectures on the Early History of New York University"
+                },
+                "unitdate": {
+                    "normal": "1982/1982",
+                    "value": "1982"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": ".25 linear feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one half manuscript box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "This collection contains a series of lectures given by New York University Archivist Bayrd Still as part of the New York University Sesquicentennial Celebration."
+                },
+                "unitid": {
+                    "value": "MC.43"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_58955687acc43c158f625cbbabb56a84",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_3b08d37eac5ecf7b9db45be4c5d5be73",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of tiem, date (if known); Bayrd Still Lectures on the Early History of New York Universit; MG 43; box 1; folder number; New York University Archives."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_4c04f58b14ea43fb587f0447986c1bb0",
+            "head": "Biographical Note",
+            "p": {
+                "value": "For more information on Dr. Still's teaching and scholarship, you may wish to consult the Bayrd Still Papers, also at the New York University Archives."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_ce44dcbcb92cd252d0902bfac27db87f",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection comprises four lectures delivered by Dr. Bayrd Still for New York University's sesquicentennial celebration in 1982. The collection contains only the text of the lectures and does not include research materials."
+            }
+        },
+        "controlaccess": {
+            "corpname": {
+                "source": "naf",
+                "value": "New York University -- Faculty -- History"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref1\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBayrd Still \"History of New York University: A Series of Talks\" (originals)\u003c/unittitle\u003e\u003cunitdate normal=\"1982/1982\" type=\"inclusive\"\u003e1982 March\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_2c2f200d9696cf57805041ed7f6a8ed7\" label=\"Mixed Materials [31142062742526]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2c2f200d9696cf57805041ed7f6a8ed7\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref2\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBayrd Still \"A University for its Time - the formative Years, 1830-1870,\" 1st in a series of lectures on the history of New York University\u003c/unittitle\u003e\u003cunitdate normal=\"1982/1982\" type=\"inclusive\"\u003e1982 March\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_c60fe0ffd9991e34e7c0c323a279d717\" label=\"Mixed Materials [31142062742526]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_c60fe0ffd9991e34e7c0c323a279d717\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref3\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBayrd Still \"New York University's Own Hall Of  Fame,\" 2nd in a series of lectures on the history of New York University\u003c/unittitle\u003e\u003cunitdate normal=\"1982/1982\" type=\"inclusive\"\u003e1982 March\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_832838e0a8cba0827b858f8fe8f769c3\" label=\"Mixed Materials [31142062742526]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_832838e0a8cba0827b858f8fe8f769c3\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref4\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBayrd Still \"Student Life at New York University, A Hundred Years Ago: The Student Scene in the late 1870's and 1880's,\" 3rd in a series of lectures on the history of New York University\u003c/unittitle\u003e\u003cunitdate normal=\"1982/1982\" type=\"inclusive\"\u003e1982 March\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_a164b5583122e37c5d1b3bb91b617044\" label=\"Mixed Materials [31142062742526]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_a164b5583122e37c5d1b3bb91b617044\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref5\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBayrd Still, \"A Series of Talks on the Early History of New York University\"\u003c/unittitle\u003e\u003cunitdate normal=\"1982/1982\" type=\"inclusive\"\u003e1982 March \u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_9c51b0ea0418fdb9227da4c7cdfdfb2c\" label=\"Mixed Materials [31142062742526]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_9c51b0ea0418fdb9227da4c7cdfdfb2c\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

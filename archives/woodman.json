@@ -1,0 +1,157 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "woodman"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Joseph Edmund Woodman Papers \u003cnum\u003eMC 49\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Catriona Schlosser"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-01-07T14:35:40\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Woodman, Joseph Edmund, 1873-1939"
+                    }
+                },
+                "unittitle": {
+                    "value": "Joseph Edmund Woodman Papers"
+                },
+                "unitdate": {
+                    "normal": "1933/1937",
+                    "type": "bulk",
+                    "value": "1933-1937"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one manuscript box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Joseph Edmund Woodman was a professor and head of the Geology Department at New York University from 1909-1938. Materials in this collection include letters related to Woodman's retirement and memorial service, and lecture notes on meteorology."
+                },
+                "unitid": {
+                    "value": "MC 49"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_df129da81f68a22d813887786f9f44f2",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_2464496386c68dc6a9d3bb1c64a4eff6",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Joseph Edmund Woodman Papers; MC 49; box number; folder number; New York University Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_1cfa1d85f12bf09c6bb6b07dd276e337",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials found in collection; provenance is unknown."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_8af8567c3ddf5b0df83d52bb19fae1f4",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Lilley, Ernest R., \"Memorial to Joseph Edmund Woodman,\" The Geological Society of America, June 1940."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_0fe95729f77a60244c4e22587ad12851",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection contains a bound volume of letters that describe Woodman's retirement in 1938 and a dinner in his honor. Also included in the collection are records relating to his memorial service, letters sent on the occasion of his death in 1939, and lecture notes on meteorology."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Geology."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Meteorology in aeronautics."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Meteorology."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "New York University. School of Engineering and Science"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref1\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCollection of letters regarding Woodman's retirement and a dinner in honor of him\u003c/unittitle\u003e\u003cunitdate normal=\"1938/1938\"\u003e1938\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_70cf6770c872b362bad35f44e4116c85\" label=\"Mixed Materials [31142062745743]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_70cf6770c872b362bad35f44e4116c85\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref2\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLetters regarding Woodman's memorial service and a brief biography\u003c/unittitle\u003e\u003cunitdate normal=\"1939/1939\"\u003e1939\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_b0374a487334fb7e10d69bd539ec7641\" label=\"Mixed Materials [31142062745743]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b0374a487334fb7e10d69bd539ec7641\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref3\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMemorial to Joseph Edmund Woodman\u003c/unittitle\u003e\u003cunitdate normal=\"1940/1940\"\u003e1940\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_1df2a078631aaadde74433b7edad59c2\" label=\"Mixed Materials [31142062745743]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1df2a078631aaadde74433b7edad59c2\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref6\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLecture notes on meteorology\u003c/unittitle\u003e\u003cunitdate normal=\"1936/1937\" type=\"inclusive\"\u003e1936-1937\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_2cffe77bd98e18b9c837301303848903\" label=\"Mixed Materials [31142062745743]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2cffe77bd98e18b9c837301303848903\" type=\"Folder\"\u003e4-5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref4\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNotes on aeronautical meteorology, NYU Laboratory\u003c/unittitle\u003e\u003cunitdate normal=\"1933/1934\" type=\"inclusive\"\u003e1933-1934\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_e067867e7bce64f394d1831cab7751b4\" label=\"Mixed Materials [31142062745743]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e067867e7bce64f394d1831cab7751b4\" type=\"Volume\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref5\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNotes and lectures on meteorology \u003c/unittitle\u003e\u003cunitdate normal=\"1933/1934\" type=\"inclusive\"\u003e1933-1934\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_e304b99f07d7de392cfec5a8e0c958a0\" label=\"Mixed Materials [31142062745743]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e304b99f07d7de392cfec5a8e0c958a0\" type=\"Volume\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

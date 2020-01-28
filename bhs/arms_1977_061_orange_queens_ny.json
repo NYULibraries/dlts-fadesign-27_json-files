@@ -1,0 +1,146 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1977_061_orange_queens_ny"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Orange County, Queens County, and New York City legal documents\n                    \u003cnum\u003e1977.061\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "May 20, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-09T13:40-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Wigons, Thomas"
+                    }
+                },
+                "unittitle": {
+                    "value": "Orange County, Queens County, and New York City legal documents"
+                },
+                "unitdate": {
+                    "normal": "1688/1866",
+                    "type": "inclusive",
+                    "value": "1688-1866"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.03 Linear feet"
+                        },
+                        {
+                            "value": "in two folders."
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "This collection contains a small assortment of legal documents relating to residents of Orange County, Queens County, and New York, N.Y. Orange County documents include a 1769 release from Harmanus Hoffman to William Dobbs, and two deeds involving Abraham, Hendrick, and Jacobus Wannamaker, dated 1794. Queens County documents include two deeds from 1688 and 1698 involving Thomas Wigons (also spelled Wigings) of the town of Jamaica. The one New York City document included in the collection is a deed from 1807 involving Andrew Suffren and merchants William Bayard (1761-1826) and James McEvers. Also included are two military certificates from 1866 issued to Edward C. Phillips (b. 1854 or 5) of the First Regiment of the California Volunteer Infantry."
+                },
+                "unitid": {
+                    "value": "1977.061"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid791003",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0030"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref5",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Orange County, Queens County, and New York City legal documents, 1977.061, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref2",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Martha Wentworth Suffren, 1939."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Deeds |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Deeds |z New York (State) |z Orange County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Deeds |z New York (State) |z Queens County"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "United States. Army. Regiment, California U.S. Volunteer Infantry, 1st."
+            }
+        },
+        "dsc": {}
+    }
+}

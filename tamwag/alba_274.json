@@ -1,0 +1,104 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "alba_274"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Virgina Malbin Papers\u003cnum\u003eALBA.274\u003c/num\u003e"
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-07-18T19:45:51\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Malbin, Virginia, 1913-2008"
+                    }
+                },
+                "unittitle": {
+                    "value": "Virgina Malbin Papers"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "ALBA.274"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_308346841da03e0096f5a468a6ee2c9e",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open to researchers. Please contact the Tamiment Library \u0026amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_883e8fee0d27567aa40e86dc9f74bf3b",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The collection includes the personal papers of Virginia Malbin (1913-2008), a social worker and activist in progressive grassroots politics.   Malbin went to Spain during the Spanish Civil War in 1937 as a representative of the Social Workers' Committee to Aid Spanish Democracy (USA) and the Commission des Enfants (France).  The Committee's mission was to help organize American relief for tens of thousands of Spanish children lost and homeless as the result of the Spanish Civil War.  In 1938, she returned to Spain, joining her husband Barney Malbin, a physician working near the front.  She assisted with evacuating wounded International Brigaders, many from lands already under Nazi domination, to safe destinations.  With the defeat of the Spanish Republic and the start of World War II, Malbin and her husband returned to the United States, where she cared for her children and continued her work in anti-fascist organizations.  Her papers include tapes and transcriptions of interviews with Malbin. Other materials in the collection include pamphlets and clippings concerning the Abraham Lincoln Brigade."
+            }
+        },
+        "dsc": {}
+    }
+}

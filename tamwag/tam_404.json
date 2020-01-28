@@ -1,0 +1,145 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_404"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Marc Edelman Collection on the North American Congress on Latin America (NACLA) \u003cnum\u003eTAM 404\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-29T19:05:53\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Marc Edelman Collection on the North American Congress on Latin America (NACLA)"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.75 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(2 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Marc Edelman led the research department of the North American Congress on Latin America (NACLA). Founded in 1966 ,NACLA provides information and analysis on the region, and on its relationship with the United States, notably through its bimonthly magazine, the \u003cemph render=\"italic\"\u003eNACLA Report on the Americas\u003c/emph\u003e. The collection includes correspondence, minutes, reports and memorandums, and other organizational records for the years 1984-1988, including some written by Mar Edelman, and some printed ephemera."
+                },
+                "unitid": {
+                    "value": "TAM 404"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_bd1eedc494ca8ed5d840722acae83146",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1-2"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_1c5af27f5fef97eeec90784870b6ecb4",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_90b2e0cee75a71be14c52b8596d113eb",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Marc Edelman Collection on the North American Congress on Latin America (NACLA); TAM 404; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_e0f5c5afad08e0883c495fa0cccdd912",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Marc Edelman in 2007. The accession number associated with this gift is 1987.023."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_0a2f6f68a7ba7949cd1657ae401f7ee1",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Marc Edelman led the research department of the North American Congress on Latin America (NACLA), founded in 1966 and which promotes social justice and democracy in Latin America and the Caribbean, and a relationship with the United States congruent with these goals. based on mutual respect, free from economic and political subordination. NACLA provides information and analysis on the region, and on its relationship with the United States, notably through its bimonthly magazine, the \u003cemph render=\"italic\"\u003eNACLA Report on the Americas\u003c/emph\u003e (also held by the Tamiment Library)."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_572cdf7eeb1a5ec0d63579ba2ef4c1d2",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The collection includes correspondence, minutes, reports and memorandums, and other organizational records for the years 1984-1988, including some written by Mar Edelman, and some printed ephemera."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Civil rights |z Latin America."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Human rights |z Latin America."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "North American Congress on Latin America"
+            }
+        },
+        "dsc": {}
+    }
+}

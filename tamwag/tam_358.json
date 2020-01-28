@@ -1,0 +1,105 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_358"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Radical Pamphlet Literature Collection \u003cnum\u003eTAM 358\u003c/num\u003e"
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-24T16:36:05\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Radical Pamphlet Literature Collection"
+                },
+                "unitdate": {
+                    "normal": "1817/1970",
+                    "type": "inclusive",
+                    "value": "1817-1970"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "169 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(169 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "TAM 358"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_63ca604337a3cba8507b3d22bc0f2dc5",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_58fcfa7f48649debf39c82f9017bc383",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials in this collection were compiled by the Tamiment Library staff. The accession number associated with this collection is 1984.004."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_bc63cdf751149a4ab90b9d65fdbe4d87",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "SEE THE PUBLISHED GUIDE TO THE COLLECTION: Tamiment Library shelved at Tam Ref HN 90 .R3 T323\nCollection of 8,672 pamphlets microfilmed on 89 reels shelved in the Tamiment Library at: R-1743 to R-1831."
+            }
+        },
+        "dsc": {}
+    }
+}

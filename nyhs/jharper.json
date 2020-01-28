@@ -1,0 +1,165 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "jharper"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the James Harper Papers\n                    \u003clb/\u003e1843-1855\n                    \u003clb/\u003e\n                    \u003cnum\u003eMS 284\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Rachel Schimke"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "© 2011 New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                },
+                "date": "2012"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-05-04T10:58-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "© 2011 New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Harper, James, 1795-1869"
+                    }
+                },
+                "unittitle": {
+                    "value": "James Harper Papers"
+                },
+                "unitdate": {
+                    "normal": "1843/1855",
+                    "type": "inclusive",
+                    "value": "1843-1855"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.25 Linear feet"
+                        },
+                        {
+                            "value": "(1 box)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "James Harper (1795-1869) was one of the founders of the Harper \u0026amp; Brothers publishing company and served as the mayor of New York from 1844-1845. The collection is primarily correspondence written to Harper from his constituents during his term as mayor."
+                },
+                "unitid": {
+                    "value": "MS 284"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref4",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to qualified researchers."
+            }
+        },
+        "prefercite": {
+            "id": "ref23",
+            "head": "Preferred Citation note",
+            "p": {
+                "value": "This collection should be cited as the James Harper Papers, MS 284, The New-York Historical Society."
+            }
+        },
+        "bioghist": {
+            "id": "ref1",
+            "head": "Biographical/Historical note",
+            "p": {
+                "value": "Harper ran for reelection reluctantly, stating in a letter to his party that though he could not \"but think and feel that a more worthy candidate might be selected, I recognize also the right of my fellow citizens to call upon me, and my duty, as one who owes them much, to place myself at their disposal.\" The threat of violence that many New York voters feared after the outbreak of anti-Irish riots in Philadelphia, as well as the election of James Polk, the Democratic candidate for president in 1844, ensured that Harper was a one-term mayor. Following his defeat, Harper devoted the rest of his professional life to his publishing company. He never again ran for public office, and plainly wrote \"I do not desire the office\" in 1855 when he was rumored to be a candidate for the New York governorship (though he also conceded that he would accept the nomination if the \"harmony\" of the Know-Nothing party was threatened by lack of consensus). James Harper died in New York in a carriage accident in 1869."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The James Harper Papers contain five letters written by Harper himself, including a letter in which he accepts the American Republican Party's nomination for the 1845 mayoral election, as well as his drafts of several speeches. Also of note are the constitution, by-laws and other documents created by the American Republican Party which outline the party's goals and platform. The collection includes reports and press related to the proposed creation of a city bakery and a script for the initiation ceremony for the Friends of Temperance."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Bakeries -- New York (State) -- New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Local elections -- New York (State) -- New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Mayors -- New York (State) -- New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Nativistic movements -- New York (State) -- New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Nativistic movements -- United States"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "New York (N.Y.) -- Social conditions -- 19th century"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Police -- New York (State) -- New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Temperance -- New York (State) -- New York"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "American Republican Party."
+            }
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref5\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eAmerican Republican Party\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid570001\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid570001\" type=\"Folder\"\u003e1\u003c/container\u003e\n                    \u003cunitdate normal=\"1843/1843\"\u003e1843, undated\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref7\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eCity Bakery: Reports and Newspaper Clippings\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid570002\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid570002\" type=\"Folder\"\u003e2\u003c/container\u003e\n                    \u003cunitdate normal=\"1844/1844\"\u003e1844\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref8\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eCorrespondence to Harper\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid570003\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid570003\" type=\"Folder\"\u003e3\u003c/container\u003e\n                    \u003cunitdate normal=\"1843/1844\" type=\"inclusive\"\u003e1843, January-April 1844\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref9\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eCorrespondence to Harper\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid570004\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid570004\" type=\"Folder\"\u003e4\u003c/container\u003e\n                    \u003cunitdate normal=\"1844/1844\"\u003eMay 1844\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref10\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eCorrespondence to Harper\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid570005\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid570005\" type=\"Folder\"\u003e5\u003c/container\u003e\n                    \u003cunitdate normal=\"1844/1844\"\u003eJune-December 1844\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref11\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eCorrespondence to Harper\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid570006\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid570006\" type=\"Folder\"\u003e6\u003c/container\u003e\n                    \u003cunitdate normal=\"1845/1855\" type=\"inclusive\"\u003e1845-1847, 1855\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref12\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eCorrespondence to Harper\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid570007\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid570007\" type=\"Folder\"\u003e7\u003c/container\u003e\n                    \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref13\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eCorrespondence Written by Harper\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid570008\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid570008\" type=\"Folder\"\u003e8\u003c/container\u003e\n                    \u003cunitdate normal=\"1844/1854\" type=\"inclusive\"\u003e1844, 1854\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref14\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eCriminal Sentences and Law Enforcement Records\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid570009\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid570009\" type=\"Folder\"\u003e9\u003c/container\u003e\n                    \u003cunitdate normal=\"1844/1844\"\u003e1844, undated\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref15\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eElection Results (Tallies)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid570010\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid570010\" type=\"Folder\"\u003e10\u003c/container\u003e\n                    \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref16\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eFinancial Papers\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid570011\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid570011\" type=\"Folder\"\u003e11\u003c/container\u003e\n                    \u003cunitdate normal=\"1844/1844\"\u003e1844, undated\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref17\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eFriends of Temperance Initiation Ceremony Script\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid570012\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid570012\" type=\"Folder\"\u003e12\u003c/container\u003e\n                    \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref18\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNewspaper Clipping re: NYC Mayoral Election\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid570013\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid570013\" type=\"Folder\"\u003e13\u003c/container\u003e\n                    \u003cunitdate normal=\"1844/1844\"\u003e1844\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref19\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eProclamation from the Mayor's Office re: Fourth of July Booths\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid570014\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid570014\" type=\"Folder\"\u003e14\u003c/container\u003e\n                    \u003cunitdate normal=\"1844/1844\"\u003eJune 1844\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref20\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSpeeches (Drafts)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid570015\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid570015\" type=\"Folder\"\u003e15\u003c/container\u003e\n                    \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref21\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSubpoena\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid570016\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid570016\" type=\"Folder\"\u003e16\u003c/container\u003e\n                    \u003cunitdate\u003e1844\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

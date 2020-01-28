@@ -1,0 +1,149 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-F",
+            "value": "mss_454"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Ronald Vance Papers \u003cnum\u003eMSS.454\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Emma Sarconi"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Fales Library and Special Collections"
+                },
+                "address": {
+                    "addressline": [
+                        "Fales Library and Special Collections",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "3rd Floor",
+                        "New York, NY 10012",
+                        "Phone: (212) 998-2596",
+                        "fales.library@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-05-16T13:12:16\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Fales Library and Special Collections"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Vance, Ronald"
+                    }
+                },
+                "unittitle": {
+                    "value": "Ronald Vance Papers"
+                },
+                "unitdate": {
+                    "normal": "1968/1985",
+                    "type": "inclusive",
+                    "value": "1968-1985"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 record carton"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Ronald Vance is an artist and writer active in the United States and Europe during the later half of the 20th century. This collection consists of correspondence, as well as published and unpublished writings by Vance from the late 1960s through the mid 1980s. Works of fiction present in the collection were published in literary journals including \u003ctitle render=\"italic\"\u003eSun and Moon\u003c/title\u003e, \u003ctitle render=\"italic\"\u003eNot Guilty Magazine\u003c/title\u003e, and \u003ctitle render=\"italic\"\u003eInterstate Magazine\u003c/title\u003e. The collection also includes unpublished writings, including notes and drafts related to Vance's \u003ctitle render=\"italic\"\u003eI Went to Italy and Ate Chocolate\u003c/title\u003e."
+                },
+                "unitid": {
+                    "value": "MSS.454"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_1712ded72e6597c76e078205fbdb5c4f",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_d950a052181f5cdd7b231cf4537669ef",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the\nfollowing form:\u003clb/\u003e\u003clb/\u003e\nIdentification of item, date; Ronald Vance Papers; MSS 454; box number; folder number; Fales Library and Special Collections, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_6170a1a87ba1c9e9e3361788b04575ec",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Ronald Vance in May 2016. The accession number associated with this gift is 2016.023."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_de7bec5ab1fcc2afeac4a075701d14f5",
+            "head": "Biographical / Historical",
+            "p": {
+                "value": "Ronald Vance is an artist and writer active during the 1960s through the 1980s. He was born in Connecticut and graduated from Yale University before lecturing on the history of art at Leicester College of Art and then moving to Italy. As of May 2016, he was living in Long Island and was retired."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_48ebb40677a34c3f5b10778cbb1b1a23",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection consists of correspondence, as well as published and unpublished writings by Ronald Vance from the late 1960s through the mid 1980s. Works of fiction present in the collection were published in literary journals including \u003ctitle render=\"italic\"\u003eSun and Moon\u003c/title\u003e, \u003ctitle render=\"italic\"\u003eNot Guilty Magazine\u003c/title\u003e, and \u003ctitle render=\"italic\"\u003eInterstate Magazine\u003c/title\u003e. The collection also includes unpublished writings, including notes and drafts related to Vance's \u003ctitle render=\"italic\"\u003eI Went to Italy and Ate Chocolate\u003c/title\u003e."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Literature, Experimental"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Artists' writings"
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref12\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eBenzene Editions: The Nothing Issue Part One\u003c/title\u003e\u003c/unittitle\u003e\u003cunitdate normal=\"1985/1985\" type=\"inclusive\"\u003e1985\u003c/unitdate\u003e\u003ccontainer id=\"aspace_018caff43e3c94eb77e5d84bcf46e33e\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_018caff43e3c94eb77e5d84bcf46e33e\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref13\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eOchiishi Postcard\u003c/unittitle\u003e\u003cunitdate normal=\"1978/1978\" type=\"inclusive\"\u003e1978\u003c/unitdate\u003e\u003ccontainer id=\"aspace_09c467be5303b255434cda1755641e0c\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_09c467be5303b255434cda1755641e0c\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRonald Vance: Photos\u003c/unittitle\u003e\u003cunitdate normal=\"1973/1976\" type=\"inclusive\"\u003e1973-1976\u003c/unitdate\u003e\u003ccontainer id=\"aspace_60a24e7cf64c68742b1e8bd7acffbb31\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_60a24e7cf64c68742b1e8bd7acffbb31\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eVance W Bob Wilson\u003c/unittitle\u003e\u003cunitdate normal=\"1999/1999\" type=\"inclusive\"\u003e1999\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1ebb031c6e6d0816dace5cd8b1b00dae\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1ebb031c6e6d0816dace5cd8b1b00dae\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDeem: Art and Artists, London (Ronald Vance)\u003c/unittitle\u003e\u003cunitdate normal=\"1968/1968\" type=\"inclusive\"\u003e1968\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4c0d2aab8459fe6f5a921b2309bdf08a\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_4c0d2aab8459fe6f5a921b2309bdf08a\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eZone: Words by Ronald Vance\u003c/unittitle\u003e\u003cunitdate normal=\"1968/1985\" type=\"inclusive\"\u003e1968-1985\u003c/unitdate\u003e\u003ccontainer id=\"aspace_bf1e3d3941550fb316652a47d540393c\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_bf1e3d3941550fb316652a47d540393c\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eX Journal\u003c/title\u003e: \"Field Notes\"\u003c/unittitle\u003e\u003cunitdate normal=\"1978/1978\" type=\"inclusive\"\u003e1978\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e445104b8aadcfa1a532dd90b23209a1\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e445104b8aadcfa1a532dd90b23209a1\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eX Journal\u003c/title\u003e: \"Say It's a Chair\"\u003c/unittitle\u003e\u003cunitdate normal=\"1978/1979\" type=\"inclusive\"\u003e1978\u003c/unitdate\u003e\u003ccontainer id=\"aspace_42f5d0c214ce37413fdb5214c6a132e4\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_42f5d0c214ce37413fdb5214c6a132e4\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Dinner for Eight\"\u003c/unittitle\u003e\u003cunitdate normal=\"1968/1985\" type=\"inclusive\"\u003e1968-1985\u003c/unitdate\u003e\u003ccontainer id=\"aspace_73b0d19e94f46554f7ed1e57f171e3db\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_73b0d19e94f46554f7ed1e57f171e3db\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRay Johnson Mail Art, Correspondance School\u003c/unittitle\u003e\u003cunitdate normal=\"1968/1985\" type=\"inclusive\"\u003e1968-1985\u003c/unitdate\u003e\u003ccontainer id=\"aspace_55e23c37f0bc094dbbf1ef89a27cf049\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_55e23c37f0bc094dbbf1ef89a27cf049\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003ePractice In Theory\u003c/title\u003e: Ray Johnson\u003c/unittitle\u003e\u003cunitdate normal=\"1976/1978\" type=\"inclusive\"\u003e1976-1978\u003c/unitdate\u003e\u003ccontainer id=\"aspace_720423d8c27dbe263fe794ed659666ed\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_720423d8c27dbe263fe794ed659666ed\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eSun \u0026amp; Moon\u003c/title\u003e: \"Canoeing/ Body Type, Rivers, Maryland\"\u003c/unittitle\u003e\u003cunitdate normal=\"1968/1985\" type=\"inclusive\"\u003e1968-1985\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9c14d4fff5f7939f166f249d3e4784c0\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_9c14d4fff5f7939f166f249d3e4784c0\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eSun \u0026amp; Moon\u003c/title\u003e: \"Speed Reading\"\u003c/unittitle\u003e\u003cunitdate normal=\"1979/1979\" type=\"inclusive\"\u003e1979\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c28ff1b05d26bba7a2dd87ec54690ab9\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_c28ff1b05d26bba7a2dd87ec54690ab9\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eSun \u0026amp; Moon\u003c/title\u003e: \"New Yet to Be\"\u003c/unittitle\u003e\u003cunitdate normal=\"1978/1978\" type=\"inclusive\"\u003e1978\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d39ccda9fab55c4a10a2f8435694ff6c\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d39ccda9fab55c4a10a2f8435694ff6c\" type=\"Folder\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref26\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eSun \u0026amp; Moon\u003c/title\u003e: \"Bruna Sevini\" (with George Deem)\u003c/unittitle\u003e\u003cunitdate normal=\"1978/1978\" type=\"inclusive\"\u003e1978\u003c/unitdate\u003e\u003ccontainer id=\"aspace_623e02c30627382462e6b6343b75bcc3\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_623e02c30627382462e6b6343b75bcc3\" type=\"Folder\"\u003e15\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eSnappy Stanzas\u003c/title\u003e: \"Heigh! Heigh Ho!mocentric\"\u003c/unittitle\u003e\u003cunitdate normal=\"1979/1980\" type=\"inclusive\"\u003e1979-1980\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d93883f617b88f3329915dcff3fe7877\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d93883f617b88f3329915dcff3fe7877\" type=\"Folder\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref28\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eOyez Review\u003c/title\u003e: \"Bad Cheat\"\u003c/unittitle\u003e\u003cunitdate normal=\"1980/1980\" type=\"inclusive\"\u003e1980\u003c/unitdate\u003e\u003ccontainer id=\"aspace_579e7b54c99743f546f9b126d3648d35\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_579e7b54c99743f546f9b126d3648d35\" type=\"Folder\"\u003e17\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref29\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eOyez Review\u003c/title\u003e: \"Even in Spain, a Love Story\"\u003c/unittitle\u003e\u003cunitdate normal=\"1978/1978\" type=\"inclusive\"\u003e1978\u003c/unitdate\u003e\u003ccontainer id=\"aspace_db149113964a191d07a8525818900095\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_db149113964a191d07a8525818900095\" type=\"Folder\"\u003e18\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref30\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eO.ARS Series: Toward a New Poetics\u003c/title\u003e (\u003ctitle render=\"italic\"\u003ePer/Ception\u003c/title\u003e) \u003c/unittitle\u003e\u003cunitdate normal=\"1982/1982\" type=\"inclusive\"\u003e1982\u003c/unitdate\u003e\u003ccontainer id=\"aspace_35bd7ab9425e65bc89ba1dcc9602de65\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_35bd7ab9425e65bc89ba1dcc9602de65\" type=\"Folder\"\u003e19\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref31\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eNRG Zine\u003c/title\u003e\u003c/unittitle\u003e\u003cunitdate normal=\"1980/1980\" type=\"inclusive\"\u003e1980\u003c/unitdate\u003e\u003ccontainer id=\"aspace_33ba689d40ecc1cb25ebbb9c30c8edc7\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_33ba689d40ecc1cb25ebbb9c30c8edc7\" type=\"Folder\"\u003e20\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref32\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eNGR Zine: Her Own Self\u003c/title\u003e\u003c/unittitle\u003e\u003cunitdate normal=\"1978/1978\" type=\"inclusive\"\u003e1978\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f3adf2fcdcc7b10695dffd64055e1669\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f3adf2fcdcc7b10695dffd64055e1669\" type=\"Folder\"\u003e21\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref33\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eNGR Zine: Plastic Sense Returns\u003c/title\u003e\u003c/unittitle\u003e\u003cunitdate normal=\"1978/1978\" type=\"inclusive\"\u003e1978\u003c/unitdate\u003e\u003ccontainer id=\"aspace_327302b95aa4257e8553ef66613812de\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_327302b95aa4257e8553ef66613812de\" type=\"Folder\"\u003e22\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref34\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eNRG Zine: Eyes Now in Sight\u003c/title\u003e\u003c/unittitle\u003e\u003cunitdate normal=\"1968/1985\" type=\"inclusive\"\u003e1968-1985\u003c/unitdate\u003e\u003ccontainer id=\"aspace_366d84d8da6bf79192764ad9d781ee1d\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_366d84d8da6bf79192764ad9d781ee1d\" type=\"Folder\"\u003e23\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref35\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eNot Guilty Mag: Core Tune Ease\u003c/title\u003e\u003c/unittitle\u003e\u003cunitdate normal=\"1968/1985\" type=\"inclusive\"\u003e1968-1985\u003c/unitdate\u003e\u003ccontainer id=\"aspace_65924f082e63f846e87e70a7e4b1a525\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_65924f082e63f846e87e70a7e4b1a525\" type=\"Folder\"\u003e24\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref36\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eInterstate\u003c/title\u003e: Loris Essary\u003c/unittitle\u003e\u003cunitdate normal=\"1978/1982\" type=\"inclusive\"\u003e1978-1982\u003c/unitdate\u003e\u003ccontainer id=\"aspace_0a938ca5459916a1ad7c93a771861883\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0a938ca5459916a1ad7c93a771861883\" type=\"Folder\"\u003e25\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref37\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eInterstate\u003c/title\u003e: \"Sonnets and Such\"\u003c/unittitle\u003e\u003cunitdate normal=\"1982/1982\" type=\"inclusive\"\u003e1982\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2744cb81a358ce0274c0ad1cbf480265\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2744cb81a358ce0274c0ad1cbf480265\" type=\"Folder\"\u003e26\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref38\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eInterstate\u003c/title\u003e: \"Just as Through the Same Of\"\u003c/unittitle\u003e\u003cunitdate normal=\"1979/1979\" type=\"inclusive\"\u003e1979\u003c/unitdate\u003e\u003ccontainer id=\"aspace_10d6a97703525dd0c83e17ad1bca423e\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_10d6a97703525dd0c83e17ad1bca423e\" type=\"Folder\"\u003e27\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref39\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eEpoch Magazine\u003c/title\u003e: George Henry Freedman\u003c/unittitle\u003e\u003cunitdate normal=\"1971/1971\" type=\"inclusive\"\u003e1971\u003c/unitdate\u003e\u003ccontainer id=\"aspace_55f80d861008add0dd8d3800c5ddae8e\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_55f80d861008add0dd8d3800c5ddae8e\" type=\"Folder\"\u003e28\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref40\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eCumberland Journal\u003c/title\u003e: A Fallcious Belief \u003c/unittitle\u003e\u003cunitdate normal=\"1980/1980\" type=\"inclusive\"\u003e1980\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b412cd95c46594ba81cb59ec7bff522a\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b412cd95c46594ba81cb59ec7bff522a\" type=\"Folder\"\u003e29\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref41\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eCumberland Journal\u003c/title\u003e: Geroge Myers Jr. (Correspondence)\n\u003c/unittitle\u003e\u003cunitdate normal=\"1978/1981\" type=\"inclusive\"\u003e1978-1981\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f2631713f1bac66f0e3c183a65cafa1e\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f2631713f1bac66f0e3c183a65cafa1e\" type=\"Folder\"\u003e30\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref42\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eHome Gardeners Guide to Bulbs and Flowers\u003c/title\u003e\u003c/unittitle\u003e\u003cunitdate normal=\"1973/1976\" type=\"inclusive\"\u003e1973-1976\u003c/unitdate\u003e\u003ccontainer id=\"aspace_0d51e5cf163fdcf864bb48b43a4ed854\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0d51e5cf163fdcf864bb48b43a4ed854\" type=\"Folder\"\u003e31\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref43\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eEar Magazine\u003c/title\u003e: Paragraph for George Deem\u003c/unittitle\u003e\u003cunitdate normal=\"1978/1978\" type=\"inclusive\"\u003e1978\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f35c3873a319f14b9737ca90b379a4a8\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f35c3873a319f14b9737ca90b379a4a8\" type=\"Folder\"\u003e32\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref44\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eClown War\u003c/title\u003e\u003c/unittitle\u003e\u003cunitdate normal=\"1978/1980\" type=\"inclusive\"\u003e1978-1980\u003c/unitdate\u003e\u003ccontainer id=\"aspace_18c45b47cefe77914c4535742d11c51a\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_18c45b47cefe77914c4535742d11c51a\" type=\"Folder\"\u003e33\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref45\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eClown War\u003c/title\u003e and \u003ctitle render=\"italic\"\u003eBy Now\u003c/title\u003e\u003c/unittitle\u003e\u003cunitdate normal=\"1981/1981\" type=\"inclusive\"\u003e1981\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4b1d734dea60a6052f9cb59f5f57d294\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_4b1d734dea60a6052f9cb59f5f57d294\" type=\"Folder\"\u003e34\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref46\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eClown War\u003c/title\u003e: \"The Underrated Bestseller\"\u003c/unittitle\u003e\u003cunitdate normal=\"1979/1979\" type=\"inclusive\"\u003e1979\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5a77f18599b3fd98c07ca8ad9b10d70b\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5a77f18599b3fd98c07ca8ad9b10d70b\" type=\"Folder\"\u003e35\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref47\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eMonday Mornings\u003c/title\u003e\u003c/unittitle\u003e\u003cunitdate normal=\"1972/1981\" type=\"inclusive\"\u003e1972-1981\u003c/unitdate\u003e\u003ccontainer id=\"aspace_794934e618a19914caa97f05357e1367\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_794934e618a19914caa97f05357e1367\" type=\"Folder\"\u003e36\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref48\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eMonday Mornings\u003c/title\u003e: Benzene\u003c/unittitle\u003e\u003cunitdate normal=\"1981/1982\" type=\"inclusive\"\u003e1981-1982\u003c/unitdate\u003e\u003ccontainer id=\"aspace_65b2deb70c6b52bc6ffaf7621b99db74\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_65b2deb70c6b52bc6ffaf7621b99db74\" type=\"Folder\"\u003e37\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref49\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eI Went to Italy and Ate Chocolate\u003c/title\u003e\u003c/unittitle\u003e\u003cunitdate normal=\"1979/1980\" type=\"inclusive\"\u003e1979-1980\u003c/unitdate\u003e\u003ccontainer id=\"aspace_0d66817edf366515deb93c10a101c1c1\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0d66817edf366515deb93c10a101c1c1\" type=\"Folder\"\u003e40\u003c/container\u003e\u003ccontainer id=\"aspace_60681b697cb953436146c281e6d315d8\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_60681b697cb953436146c281e6d315d8\" type=\"Folder\"\u003e38\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref50\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eThe Home Gardener's Guide to Bulb Flowers\u003c/title\u003e\u003c/unittitle\u003e\u003cunitdate normal=\"1967/1974\" type=\"inclusive\"\u003e1967-1974\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b777079018e45127e6c0510df279f463\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b777079018e45127e6c0510df279f463\" type=\"Folder\"\u003e39\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

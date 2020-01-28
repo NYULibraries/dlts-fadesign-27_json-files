@@ -1,0 +1,140 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "ford"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Presentation and Reports from NYU to the Ford Foundation \n                    \u003clb/\u003e\n                    \u003cdate\u003e1963-1969 \u003c/date\u003e\n                    \u003clb/\u003e\n                    \u003cnum\u003eRG 15.14\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Processed by Processed by: Archives Staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-02-16T10:43-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Presentation and Reports from NYU to the Ford Foundation"
+                },
+                "unitdate": {
+                    "normal": "1963/1969",
+                    "type": "inclusive",
+                    "value": "1963-1969"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.5 linear feet"
+                        },
+                        {
+                            "value": "1.5 linear feet (3 boxes)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "This collection contains seven reports presented to the Ford Foundation by NYU for a special program in education."
+                },
+                "unitid": {
+                    "value": "RG 15.14"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref6",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Materials related to personnel, faculty grievances, job searches and all files with information that falls under the University's Family Educational Rights and Privacy Act (FERPA) policy are permanently restricted."
+            }
+        },
+        "prefercite": {
+            "id": "ref10",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form:Identification of item, date (if known); The Presentation and Reports from NYU to the Ford Foundation; RG 15.14; box number; folder number;New York University Archives, New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "ref12",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "NYU used the grant to strengthen the entire university, with particular attention to improved library, classroom, and laboratory facilities; increased scholarship and fellowship aid; and improved working and living conditions for the faculty."
+            }
+        },
+        "scopecontent": {
+            "id": "ref14",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The collection contains seven reports presented to the Ford Foundation by NYU over the course of the grant."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Educational reports."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Ford Foundation."
+            }
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref18\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries I: Reports\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref19\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePresentation from New York University to the Ford Foundation Special Program in Education, Part 1 (229pp.)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid22454\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid22454\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"23316/23316\"\u003eNov-63\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref20\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePresentation from New York University to the Ford Foundation Special Program in Education, Part 1 (229pp.)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid22453\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid22453\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate normal=\"23316/23316\"\u003eNov-63\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref21\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePresentation from New York University to the Ford Foundation Special Program in Education, Part 2 (189pp.)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid22452\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid22452\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"23316/23316\"\u003eNov-63\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref22\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eProgress Report from New York University to the Ford Foundation Special Program in Education, Part 1 (35pp. \u0026amp; appendices)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid22451\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid22451\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate normal=\"24016/24016\"\u003eOct-65\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref23\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eProgress Report from New York University to the Ford Foundation Special Program in Education, Part 1 (35pp. \u0026amp; appendices)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid22450\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid22450\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate normal=\"24016/24016\"\u003eOct-65\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref24\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eProgress Report from New York University to the Ford Foundation Special Program in Education, Part 2 (32pp. \u0026amp; appendices)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid22449\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid22449\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate normal=\"24381/24381\"\u003eOct-66\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref25\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eProgress Report from New York University to the Ford Foundation Special Program in Education, Part 2 (32pp. \u0026amp; appendices)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid22448\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid22448\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate normal=\"24381/24381\"\u003eOct-66\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref26\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eProgress Report from New York University to the Ford Foundation Special Program in Education, No. 3 (39pp. \u0026amp; appendices)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid22447\" type=\"Box\" label=\"Mixed materials\"\u003e3\u003c/container\u003e\n                        \u003ccontainer parent=\"cid22447\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"24746/24746\"\u003eOct-67\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref27\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eProgress Report from New York University to the Ford Foundation Special Program in Education, No. 3 (39pp. \u0026amp; appendices)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid22446\" type=\"Box\" label=\"Mixed materials\"\u003e3\u003c/container\u003e\n                        \u003ccontainer parent=\"cid22446\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate normal=\"24746/24746\"\u003eOct-67\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref28\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eProgress Report from New York University to the Ford Foundation Special Program in Education, No. 4 (34pp. \u0026amp; appendices)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid22445\" type=\"Box\" label=\"Mixed materials\"\u003e3\u003c/container\u003e\n                        \u003ccontainer parent=\"cid22445\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate normal=\"25204/25204\"\u003eJan-69\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref29\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eProgress Report from New York University to the Ford Foundation Special Program in Education, No. 4 (34pp. \u0026amp; appendices)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid22444\" type=\"Box\" label=\"Mixed materials\"\u003e3\u003c/container\u003e\n                        \u003ccontainer parent=\"cid22444\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate normal=\"25204/25204\"\u003eJan-69\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref30\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eFinal Report, No. 5 (18pp.)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid22443\" type=\"Box\" label=\"Mixed materials\"\u003e3\u003c/container\u003e\n                        \u003ccontainer parent=\"cid22443\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate normal=\"25477/25477\"\u003eOct-69\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref31\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eFinal Report, No. 5 (18pp.)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid22442\" type=\"Box\" label=\"Mixed materials\"\u003e3\u003c/container\u003e\n                        \u003ccontainer parent=\"cid22442\" type=\"Folder\"\u003e6\u003c/container\u003e\n                        \u003cunitdate normal=\"25477/25477\"\u003eOct-69\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

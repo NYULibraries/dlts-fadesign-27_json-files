@@ -1,0 +1,159 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "wag_339"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Metro New York Labor Communications Council Records \u003cnum\u003eWAG.339\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Alexandra Gomer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-08-07T18:59:06\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source"
+                },
+                "unittitle": {
+                    "value": "Metro New York Labor Communications Council Records"
+                },
+                "unitdate": {
+                    "normal": "1974/2016",
+                    "type": "inclusive",
+                    "value": "1974-2016"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 linear foot"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 record carton"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Metro New York Labor Communications Council (Metro) was established in 1974 as a forum for labor communicators to discuss ideas and challenges of organized labor. Metro offers workshops and seminars to build skills in photography, writing, and web design. They hold an annual convention on issues facing the organized labor movement, and a contest for labor communicators. Metro is affiliated with the International Labor Communications Association, the AFL-CIO, and maintains a relationship with the New York City Central Labor Council.\n\nThese records contain meeting agendas, memorandum, newsletters, administrative records, and reports on the annual Journalism Awards Contest. Also included are information posters on workshops that were held through the organization, as well as copies of labor-based articles.\nThere are also records of the Constitution and By-Laws of the Council, financial reports, and the Code of Ethics. "
+                },
+                "unitid": {
+                    "value": "WAG.339"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_32f89582daaf4602804b0962a1479cd1",
+                    "label": "Mixed Materials [31142063141686]",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_47bbd72a08c87c1a8c5ec573b6f85346",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_261880fac0cae7c976ee078b56244131",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Metro New York Labor Communications Council Records; WAG 339; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_5da8241c6f0447cd0e3d8bd79d140eed",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by the Metro New York Labor Communications Council, 2017. The accession number associated with this gift is 2017.053"
+            }
+        },
+        "bioghist": {
+            "id": "aspace_830d0ddcfd8589abf78bad6b3aa4d173",
+            "head": "Historical Note",
+            "p": {
+                "value": "Metro New York Labor Communications Council. \"About Us.\" http://metrolabornyc.org/about (retrieved September 27, 2017)."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_c588b3844d5e0dfaba45e5ad2a1fda8d",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "These records contain materials created or collected by the Metro New York Labor Communications Council documenting their organization's activities and to empower the voices in the labor movement. They contain meeting agendas, memorandum, newsletters, administrative records, and reports on the annual Journalism Awards Contest. Also included are information posters on workshops that were held through the organization, as well as copies of labor-based articles. The collection also contains the organization's constitution and by-Laws, as well as financial reports and a code of ethics."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Labor journalism -- New York (State) -- New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor unions -- New York (State) -- New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Working class -- New York (State) -- New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Press, Labor -- New York (State) -- New York"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Metro New York Labor Communications Council"
+            }
+        },
+        "dsc": {}
+    }
+}

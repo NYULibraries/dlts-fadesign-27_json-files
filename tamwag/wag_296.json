@@ -1,0 +1,119 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "wag_296"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Tramcar Company Ledger \u003cnum\u003eWAG.296\u003c/num\u003e"
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-07-30T20:34:38\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "local",
+                        "value": "Nash, Bill"
+                    }
+                },
+                "unittitle": {
+                    "value": "Tramcar Company Ledger"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "WAG.296"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_a03d245dcb3a3f1db0b3e04e5be233a6",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_719d753f0134581ab89c1ccc2f5e7eab",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Tramcar Company Ledger; WAG 296; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_a713c6fdf2b677b4ffdef326f6e4f8b3",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Bill Nash, 2006. The accession number associated with this gift is 2005.029."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_3f0e7957c89c61b08d84b7aa59eb2783",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This handwritten ledger (1889-1892) belonging to an unidentified tramcar company (whose President is noted as Mr. Thompson) provides information about tramcar workers employed by an unidentified company in New York City including names, rates of pay, and reasons for discharge.  Some discharges are associated with a strike on January 29, 1889."
+            }
+        },
+        "controlaccess": {},
+        "dsc": {}
+    }
+}

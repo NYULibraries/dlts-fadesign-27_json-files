@@ -1,0 +1,150 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_702"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Kathy Martino Papers \u003cnum\u003eTAM 702\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Heather Mulliner"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-07-13T15:24:24\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Martino, Kathy"
+                    }
+                },
+                "unittitle": {
+                    "value": "Kathy Martino Papers"
+                },
+                "unitdate": {
+                    "normal": "1974/1980",
+                    "type": "inclusive",
+                    "value": "1974-1980"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 record carton"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Kathy Martino was a member of the Revolutionary Union (RU), the Revolutionary Communist Party (RCP), and was active in labor organizing in New York City. The Kathy Martino Papers consist of one box of flyers, bulletins, and union newsletters related to Martino's work in organizing various industries in the 1970s. These materials relate to Martino's involvement with various unions, including hospital, electrical, steel, garment, food service, bakery, and auto workers, as well as veterans and the Unemployed Workers' Organizing Committee. The collection largely consists of printed materials collected by Martino, which largely date from 1974 to 1976. The collection also contains several folders of RU May Day flyers 1974-1975, flyers and schedules from a 1976 RCP conference in Philadelphia, and an assortment of RU and RCP pamphlets and bulletins."
+                },
+                "unitid": {
+                    "value": "TAM 702"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_3c4ef39660c83862a98f8dd4dd198db2",
+                    "label": "Mixed Materials [31142054856193]",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_9c29f3f886c3b8aa8a6c88929a1a6080",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_6fd7cbcbcfdf790e0339644d41ed573d",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Kathy Martino Papers; TAM 702; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_c8bf3f5ee78ceba4d8b6004943ac887c",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Kathy Martino in 2016. The accession number associated with this gift is 2016.073."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_edbc61e8d124e2aabc5c4499151a57f0",
+            "head": "Biographical / Historical",
+            "p": {
+                "value": "Kathy Martino was a member of the Revolutionary Union (RU) and Revolutionary Communist Party (RCP). She was active in labor organizing in New York City."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_da28f9c017d1ba9965d97b8442281611",
+            "head": "Content Description",
+            "p": {
+                "value": "The collection also contains several folders of Revolutionary Union (RU) May Day flyers 1974-1975, flyers and schedules from a 1976 Revolutionary Communist Party (RCP) conference in Philadelphia, and an assortment of RU and RCP pamphlets and bulletins. Among the pamphlets are 2 original satirical drawings of labor bureaucrats and social-fascism.  The author of the drawings is not identified, but they were most likely created by Martino."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Labor unions -- Organizing."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Revolutionary Communist Party, USA"
+            }
+        },
+        "dsc": {}
+    }
+}

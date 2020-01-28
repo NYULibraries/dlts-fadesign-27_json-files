@@ -1,0 +1,155 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "arc_296_real_estate_brochures"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Brooklyn, Queens, and Long Island Real Estate Brochure collection \u003cnum\u003eARC.296\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by John Zarrillo"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "Brooklyn Historical Society",
+                        "128 Pierrepont Street",
+                        "Brooklyn 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-06-13T21:26:50\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Brooklyn, Queens, and Long Island real estate brochure collection"
+                },
+                "unitdate": {
+                    "normal": "1920/1959",
+                    "type": "inclusive",
+                    "value": "circa 1920s-1950s"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "10 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in nine record cartons and one oversized box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "This collection primarily features advertisements for real estate in Brooklyn, Queens, and Long Island. In addition to advertisements, the collection includes a number of blueprint maps. The collection is organized by region and neighborhood. A hard copy index is available with exact street addresses of the buildings included in the collection, along with an additional index of architects found in the collection."
+                },
+                "unitid": {
+                    "value": "ARC.296"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_4f2d5cd1d8e3d4a58aada190c8ec1e80",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "OS-37"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_c3199cd1b942e2041ace972ba17de4d5",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_088c718a8562ae14278b2dc13f2991ea",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Brooklyn, Queens, and Long Island Real Estate Brochure collection, ARC.296, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_2fa0e46846a4759835905e2ded67622c",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "This is an artificial collection which was assembled by BHS Library \u0026amp; Archives staff."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Real estate business -- New York (State) -- Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Real estate business |z New York (State) |z Nassau County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Real property |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Real property |z New York (State) |z Queens County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Real property |z New York (State) |z Long Island"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Real estate business |z New York (State) |z Queens County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Real estate business |z New York (State) |z Suffolk County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Buildings |z New York (State) |z Kings County |x Design and construction"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

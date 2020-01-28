@@ -1,0 +1,144 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "wag_015"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Preliminary Inventory to the Clarence Reed Papers\n                    \u003cnum\u003eWAG.015\u003c/num\u003e\n                "
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T20:25-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Reed, Clarence, 1909-"
+                    }
+                },
+                "unittitle": {
+                    "value": "Clarence Reed Papers"
+                },
+                "unitdate": {
+                    "normal": "1957/1974",
+                    "type": "inclusive",
+                    "value": "1957-1974"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.25 linear feet"
+                        },
+                        {
+                            "value": "(1 box)"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "WAG.015"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "bioghist": {
+            "id": "ref2",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Clarence Reed was born in New York City in 1909. After working at odd jobs in the army, in lumber camps, and on the railroad, he became active in the Unemployed Councils and the Friends of the Soviet Union in the 1930s. He found work with a shipping company during World War II, when he joined the National Maritime Union. After the War, Reed was expelled from the Communist Party and helped establish a rank and file committee in the NMU. The rank and file committee ran slates of candidates against the incumbent union leadership and concentrated on the problems of corruption and drugs within the NMU's ranks."
+            }
+        },
+        "scopecontent": {
+            "id": "ref3",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The collection consists mainly of correspondence and other material regarding Reed's activity in the National Maritime Union and his 1973-74 campaign for union office. Also included are union constitutions, copies of cartoons by Reed on union issues, and miscellaneous correspondence. The archives also has an oral history interview and a play written by Reed in 1984."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Collective bargaining |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Communists |z United States"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor leaders |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor union democracy."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor unions |x Corrupt practices."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor unions |x Elections."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Lumber trade |x Employees."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Merchant mariners |x Labor unions |z United States."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "National Maritime Union of America."
+            }
+        },
+        "dsc": {
+            "value": "\n            \u003cc01 id=\"ref5\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eInventory\u003c/unittitle\u003e\n                \u003c/did\u003e\n                \u003cc02 id=\"ref6\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence with National Maritime Union\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid20806001\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid20806001\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"1971/1973\" type=\"inclusive\"\u003eJun 1, 1971-Jun 29, 1973\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref7\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence and Notes Regarding Court Case Involving Harassment of President Curran's Son\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid20806002\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid20806002\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate normal=\"1971/1972\" type=\"inclusive\"\u003e1971-1972\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref8\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eElection Material, Press Release, and Notes for Clarence Reed's Campaign\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid20806003\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid20806003\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate normal=\"1973/1973\"\u003e[1973?]\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref9\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eGeneral\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid20806004\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid20806004\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate normal=\"1967/1973\" type=\"inclusive\"\u003e1967-1973, undated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref10\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eU.S. Government Labor Publications\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid20806005\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid20806005\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate normal=\"1959/1962\" type=\"inclusive\"\u003e1959-1962\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref11\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eNational Maritime Union Constitutions\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid20806006\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid20806006\" type=\"Folder\"\u003e6\u003c/container\u003e\n                        \u003cunitdate normal=\"1957/1965\" type=\"inclusive\"\u003e1957, 1965\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref12\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCartoons by Reed on Union Issues (originals)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid20806007\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid20806007\" type=\"Folder\"\u003e7\u003c/container\u003e\n                        \u003cunitdate normal=\"1963/1971\" type=\"inclusive\"\u003ecirca 1963-1971\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref13\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCartoons by Reed on Union Issues (copies)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid20806008\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid20806008\" type=\"Folder\"\u003e8\u003c/container\u003e\n                        \u003cunitdate normal=\"1963/1971\" type=\"inclusive\"\u003ecirca 1963-1971\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref14\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eLegal Materials and Notes Regarding Challenge to Election\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid20806009\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid20806009\" type=\"Folder\"\u003e9\u003c/container\u003e\n                        \u003cunitdate normal=\"1973/1974\" type=\"inclusive\"\u003e1973-1974\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n            \u003c/c01\u003e\n        "
+        }
+    }
+}

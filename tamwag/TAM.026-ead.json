@@ -1,0 +1,147 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "tam_026"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Russian Artillery Commission in North America Records\n                    \u003cnum\u003eTAM.026\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "2009"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T16:54-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Russian Artillery Commission in North America Records"
+                },
+                "unitdate": {
+                    "normal": "1915/1917",
+                    "type": "inclusive",
+                    "value": "1915-1917"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.0 linear feet"
+                        },
+                        {
+                            "value": "(1 box)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The Russian Artillery Commission was based in New York; its mission was to negotiate purchase of munitions and other artillery supplies for the Imperial Russian government. The records include correspondence with U.S. and Canadian firms discussing manufacturing specifications and equipment, production estimates, inspection procedures, and order arrangements. Also includes reports and notes of Ordnance Colonel V. Nekrasov and other papers. The records are mostly in Russian."
+                },
+                "unitid": {
+                    "value": "TAM.026"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref5",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Material is very fragile; open for research by special arrangement with archives staff only."
+            }
+        },
+        "prefercite": {
+            "id": "ref21",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: \n                \u003clb/\u003e\n                \u003clb/\u003eIdentification of item, date; Collection name; Collection number; box number; folder number; \n                \u003clb/\u003eTamiment Library/Robert F. Wagner Labor Archives \n                \u003clb/\u003eElmer Holmes Bobst Library \n                \u003clb/\u003e70 Washington Square South \n                \u003clb/\u003eNew York, NY 10012, New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "ref8",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "The Russian Artillery Commission was based in New York; its mission was to negotiate the purchase of munitions and other artillery supplies for the Imperial Russian government."
+            }
+        },
+        "scopecontent": {
+            "id": "ref9",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The records include correspondence with U.S. and Canadian firms discussing manufacturing specifications and equipment, production estimates, inspection procedures, and order arrangements. Also includes reports and notes of Ordnance Colonel V. Nekrasov and other papers. Chiefly in Russian."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Munitions |z Russia."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "World War, 1914-1918 |x Artillery operations."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Russian Artillery Commission in North America."
+            }
+        },
+        "dsc": {
+            "value": "\n            \u003cc01 id=\"ref13\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries I: Records, 1915-1917\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                \u003c/did\u003e\n                \u003cc02 id=\"ref14\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eProtocols of meeting of the Commission held at Russian Technical Bureau in New York\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid129964\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"1916/1916\"\u003e1916\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref15\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eColonel V. Nekrasov’s correspondence with American manufacturing firms, arranged by name of firm\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid129963\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"1915/1917\" type=\"inclusive\"\u003e1915-1917\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref16\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMiscellaneous materials\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid129962\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"1915/1917\" type=\"inclusive\"\u003e1915-1917\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref17\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eReports of ordnance engineer (Title on cover in Russian translates as \"Material for a History of the Russian Supply Committee in North America.\")\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid129961\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"1915/1917\" type=\"inclusive\"\u003e1915-1917\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref18\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eProtocols of meetings of the Commission held at the Russian Technical Bureau in New York (Title on cover reads: \"Protocols, 1915-1916, and notes of protocols, 1916-1917.\")\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid129960\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"1915/1917\" type=\"inclusive\"\u003e1915-1917\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref19\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eReports of Ordnance Engineer, Col. V. Nekrasov, and his correspondence with American manufacturing firms (Title on cover translates as \"My Reports and Correspondence.\")\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid129959\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"1915/1916\" type=\"inclusive\"\u003e1915-1916\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n            \u003c/c01\u003e\n        "
+        }
+    }
+}

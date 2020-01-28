@@ -1,0 +1,142 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "martens"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the James W. Martens Architectural Drawings Collection\n                    \u003clb/\u003e\n                    \u003cdate\u003eca. 1840-1869\u003c/date\u003e\n                    \u003clb/\u003e\n                    \u003cnum\u003ePR 113\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Kelly McAnnaney"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "© 2011 New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-12-13T16:16-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "© 2011 New-York Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "James W. Martens Architectural Drawings Collection"
+                },
+                "unitdate": {
+                    "value": "ca. 1840-1869"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.34 Linear feet"
+                        },
+                        {
+                            "value": "(1 box, plus 2 oversize folders; 117 drawings)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The James W. Martens Architectural Drawings Collection contains architectural drawings, primarily of houses, ca. 1840s-1860s, by Brooklyn architect James W. Martens."
+                },
+                "unitid": {
+                    "value": "PR 113"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref5",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Photocopying undertaken by staff only. Limited to twenty exposures of stable, unbound material per day. See guidelines in Print Room for details."
+            }
+        },
+        "prefercite": {
+            "id": "ref7",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "This collection should be cited as: James W. Martens Architectural Drawings Collection, PR 113, Department of Prints, Photographs, and Architectural Collections, The New-York Historical Society."
+            }
+        },
+        "bioghist": {
+            "id": "ref8",
+            "head": "Biographical Note",
+            "p": {
+                "value": "James William Martens (1827-1899), born in London, lived in New York State all of his adult life. He worked as an architect at 52 Wall Street in 1847 and practiced in Brooklyn from 1849 to 1864. In 1853, Martens married Charlotte Louisa Jones and had at least one son, James Martens, Jr. (1858-1919). After his retirement, Martens spent time in Shrub Oak, NY, where he designed St. Mary's Church. His wife passed away in 1898 and he died one year later in March 1899."
+            }
+        },
+        "scopecontent": {
+            "id": "ref9",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "Oversize drawings include one folder of elevations and floor plans. Another folder contains patterns for moldings. Many of these patterns were cut from drawings and small pieces of plans can still be seen. Several patterns are labeled with either a patron name or building location, including moldings for a house on Pierrepont Street and a cornice molding for 62 Remsen Street."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Architecture -- United States -- 19th century -- Designs and plans."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Architecture, Domestic -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Commercial buildings -- United States -- Designs and plans."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Dwellings -- New York (State)."
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref11\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e\u003c/unittitle\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref12\" level=\"subseries\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003e\u003c/unittitle\u003e\n                    \u003c/did\u003e\n                    \u003cc id=\"ref13\" level=\"otherlevel\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eElevations\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid499866\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                            \u003ccontainer parent=\"cid499866\" type=\"Folder\"\u003e1-3\u003c/container\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                    \u003cc id=\"ref14\" level=\"otherlevel\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eFloor Plans\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid499865\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                            \u003ccontainer parent=\"cid499865\" type=\"Folder\"\u003e4-7\u003c/container\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                    \u003cc id=\"ref15\" level=\"otherlevel\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003ePlan Sets\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid499864\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                            \u003ccontainer parent=\"cid499864\" type=\"Folder\"\u003e8\u003c/container\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                    \u003cc id=\"ref16\" level=\"otherlevel\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eDetails\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid499863\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                            \u003ccontainer parent=\"cid499863\" type=\"Folder\"\u003e9\u003c/container\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                    \u003cc id=\"ref17\" level=\"otherlevel\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eDetails - Mantels\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid499862\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                            \u003ccontainer parent=\"cid499862\" type=\"Folder\"\u003e10\u003c/container\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                    \u003cc id=\"ref18\" level=\"otherlevel\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eDetails - Ornamental\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid499861\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                            \u003ccontainer parent=\"cid499861\" type=\"Folder\"\u003e11\u003c/container\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                    \u003cc id=\"ref19\" level=\"otherlevel\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eStudies and Tracings\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid499860\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                            \u003ccontainer parent=\"cid499860\" type=\"Folder\"\u003e12\u003c/container\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref20\" level=\"subseries\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eOVERSIZE DRAWINGS\u003c/unittitle\u003e\n                    \u003c/did\u003e\n                    \u003cc id=\"ref21\" level=\"otherlevel\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eMolding Patterns\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid499859\" type=\"Box\" label=\"Mixed Materials\"\u003e\u003c/container\u003e\n                            \u003ccontainer parent=\"cid499859\" type=\"Folder\"\u003eOS-1\u003c/container\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                    \u003cc id=\"ref22\" level=\"otherlevel\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eVarious Drawings\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid499858\" type=\"Box\" label=\"Mixed Materials\"\u003e\u003c/container\u003e\n                            \u003ccontainer parent=\"cid499858\" type=\"Folder\"\u003eOS-2\u003c/container\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

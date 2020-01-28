@@ -1,0 +1,158 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_466"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Radical Philosophy Association Records \u003cnum\u003eTAM.466\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-10-30T19:17:15\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Radical Philosophy Association Records"
+                },
+                "unitdate": {
+                    "normal": "1982/2010",
+                    "type": "inclusive",
+                    "value": "circa 1982-2010"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "12.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 12 record cartons and 1 manuscript box."
+                        },
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "3 websites"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in three archived websites."
+                        }
+                    ],
+                    "altrender": "part"
+                },
+                "abstract": {
+                    "value": "The records relate to both the Radical Philosophy Association and to its journal \u003cemph render=\"italic\"\u003eRadical Philosophy Review\u003c/emph\u003e, and contain correspondence, minutes, typescripts, websites, conference materials membership and financial materials, and printed ephemera and other internal documents related to its political activism, including within the American Philosophical Association."
+                },
+                "unitid": {
+                    "value": "TAM.466"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_86bfe26682d6037e768338684b330efb",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_2fa2c95e5fc9ca3e7de8a5ec24dffe84",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "To cite the archived website in this collection:\nIdentification of item, date; Collection Name; Collection Number; Wayback URL; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_44f16959f6081205b5ae1b903b140a5d",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "http://home.grandecom.net/~jackgm/RPA.html was initially selected by curators and captured through the use of The California Digital Library's Web Archiving Service in 2008 as part of the Other Left Activism Web Archive. In 2012, http://www.radicalphilosophyassociation.org/ was added to the web archive. In 2015, these websites were migrated to Archive-It. Archive-It uses web crawling technology to capture websites at a scheduled time and displays only an archived copy, from the resulting WARC file, of the website. In 2018, https://www.rpamag.org/ was added to the web archive. The accession number associated with this website is 2019.106."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_8eb62aedc3aaf3d4ceb3c077356819ac",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Founded in 1982, the Radical Philosophy Association is an international organization whose members struggle against capitalism, racism, sexism, homophobia, disability discrimination, environmental ruin, and all other forms of domination, drawing upon a variety of radical traditions including phenomenology, Marxism, anarchism, post-structuralism, post-colonial theory and environmentalism. Its efforts center on conferences and publications. The RPA also publishes the journal \u003cemph render=\"italic\"\u003eRadical Philosophy Review\u003c/emph\u003e."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_f87e6108f670d18097602a9f22234038",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The records relate to both the Radical Philosophy Association and to its journal \u003cemph render=\"italic\"\u003eRadical Philosophy Review\u003c/emph\u003e, and contain correspondence, minutes, typescripts, websites, conference materials membership and financial materials, and printed ephemera and other internal documents related to its political activism, including within the American Philosophical Association."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Philosophers |x Political activity."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Philosophers |x Societies, etc."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Philosophy |x Political aspects."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "American Philosophical Association"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref6\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eArchived Websites\u003c/unittitle\u003e\u003cphysdesc altrender=\"whole\"\u003e\u003cextent altrender=\"materialtype spaceoccupied\"\u003e3 websites\u003c/extent\u003e\u003cextent altrender=\"carrier\"\u003ein three archived websites.\u003c/extent\u003e\u003c/physdesc\u003e\u003cunitdate normal=\"2008-11-29/2008-11-29\"\u003eNovember 2008-ongoing\u003c/unitdate\u003e\u003c/did\u003e\u003cdao ns2:actuate=\"onLoad\" ns2:href=\"https://wayback.archive-it.org/6351/*/http://home.grandecom.net/~jackgm/RPA.html\" ns2:show=\"new\" ns2:title=\"Radical Philosophy Association Archived Website\" ns2:type=\"simple\"\u003e\u003cdaodesc\u003e\u003cp\u003eRadical Philosophy Association Archived Website: November 2008-January 2017\u003c/p\u003e\u003c/daodesc\u003e\u003c/dao\u003e\u003cdao ns2:actuate=\"onLoad\" ns2:href=\"https://wayback.archive-it.org/6351/*/http://www.radicalphilosophyassociation.org/\" ns2:show=\"new\" ns2:title=\"Radical Philosophy Association Archived Website\" ns2:type=\"simple\"\u003e\u003cdaodesc\u003e\u003cp\u003eRadical Philosophy Association Archived Website: January 2012-ongoing\u003c/p\u003e\u003c/daodesc\u003e\u003c/dao\u003e\u003cdao ns2:actuate=\"onLoad\" ns2:href=\"https://wayback.archive-it.org/6351/*/https://www.rpamag.org/\" ns2:show=\"new\" ns2:title=\"RPA Mag Archived Website\" ns2:type=\"simple\"\u003e\u003cdaodesc\u003e\u003cp\u003eRPA Mag Archived Website: November 2018-ongoing\u003c/p\u003e\u003c/daodesc\u003e\u003c/dao\u003e\u003cscopecontent id=\"aspace_7aab6ce9d671dd7539353c58f236a779\"\u003e\u003chead\u003eScope and Content Note\u003c/head\u003e\u003cp\u003eFounded in 1982, the Radical Philosophy Association is an international organization whose members struggle against capitalism, racism, sexism, homophobia, disability discrimination, environmental ruin, and all other forms of domination, drawing upon a variety of radical traditions including phenomenology, Marxism, anarchism, post-structuralism, post-colonial theory and environmentalism. Its efforts center on conferences and publications. The website contains their newsletter, call for papers, information on their upcoming and previous conferences, and press releases and statements on Angela Davis, Academic Freedom, Afghanistan, Iraq, Anti-Intervention Project, Colombia, and anti-racism. The RPA also publishes the journal Radical Philosophy Review. The collection also includes the website for their online publication, RPA Mag.\u003c/p\u003e\u003c/scopecontent\u003e\u003caccruals id=\"aspace_b41a0122c0f0e6c70db815de7691ea6f\"\u003e\u003chead\u003eAccruals\u003c/head\u003e\u003cp\u003eNew site crawls are accrued semiannually.\u003c/p\u003e\u003c/accruals\u003e\u003cappraisal id=\"aspace_59b90a9d06ae843f7abf8a3501205227\"\u003e\u003chead\u003eAppraisal\u003c/head\u003e\u003cp\u003eCrawl was limited to domains and subdomains of radicalphilosophyassociation.org and rpamag.org in order to remain within the collection scope and data constraints.\u003c/p\u003e\u003c/appraisal\u003e\u003cphystech id=\"aspace_d938f242eb716061539812280282b9ca\"\u003e\u003chead\u003ePhysical Characteristics and Technical Requirements\u003c/head\u003e\u003cp\u003eDue to technical or privacy issues, archived websites may not be exact copies of the original website at the time of the web crawl. Certain file types will not be captured dependent on how they are embedded in the site. Other parts of websites that the crawler has difficulty capturing includes Javascript, streaming content, database-driven content, and highly interactive content. Full-Text searches of archived websites are available at https://archive-it.org/organizations/567.\u003c/p\u003e\u003c/phystech\u003e\u003c/c\u003e"
+        }
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "wag_052"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Hyman Levine Papers \u003cnum\u003eWAG.052\u003c/num\u003e"
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-17T20:20:33\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "local",
+                        "value": "Levine, Hyman"
+                    }
+                },
+                "unittitle": {
+                    "value": "Hyman Levine Papers"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "WAG.052"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_5cfc5a4b458a9c1be3ca620857dc6d16",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_36b0fda2e8ab699f35826b012cff461a",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Hyman Levine, 1986. The accession number associated with this gift is 1986.009."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_2a9dd204f160e1128dfa1170e21fcccf",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Hyman Levine served as the Political Action Director of Local 28 of the Sheet Metal Workers International Association in 1978.  He also served on the Safety Committee of Simpson Metal at Morgan Station Post Office.  He was a member of the Sheet Metal Workers Sick and Benevolent Association, which was founded in 1906-1907 as a mutual benefit association for Jewish members of the trade.  The Benevolent Association, with two other social clubs, the Get-Together Club and the Kitchen Equipment Club, was organized as an alternative to the predominantly Irish and Italian Paramount Club that dominated Sheet Metal Workers, Local 28.  The new independent groups stressed improvements in pension and welfare funds, organizing the unorganized, contributions to the International's strike fund, and left-wing political issues in general.  The Benevolent Association dissolved in the late 1970s, with the election of an independent candidate to the Local leadership.   This collection includes incorporation papers from 1916; the \u003cemph render=\"italic\"\u003eSheet Metal Workers' Bulletin\u003c/emph\u003e, issued by the New York rank and file group; election materials; political action committee materials from 1978; arbitration files; and newspaper clippings."
+            }
+        },
+        "controlaccess": {},
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref3\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLocal 28 Meeting\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_84671b7ef54f06a3ff47fbd1e8cf2d88\" label=\"Access cd\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_84671b7ef54f06a3ff47fbd1e8cf2d88\" type=\"Cd\"\u003e1-2\u003c/container\u003e\u003ccontainer id=\"aspace_ac43b0e1cfa2f7ae5f81443b4f76da1f\" label=\"Master reel\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_a298cd05242e8dfdeea30d3cda5f5f6e\"\u003e\u003chead\u003eScope and Content Note\u003c/head\u003e\u003cp\u003eRecording of a meeting of Local 28 of the Sheet Metal Workers International Association. A prominent topic is \"lessening the effect of adverse publicity,\" and the discussion includes the union's attorney Richard N. Goodman.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e"
+        }
+    }
+}

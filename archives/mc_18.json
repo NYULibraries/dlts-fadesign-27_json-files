@@ -1,0 +1,146 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "mc_18"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the John James Stevenson Papers \u003cnum\u003eMC.18\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by New York University Archives staff. Machine-readable finding aid created by Cara Brick."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-07-02T13:56:21\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Stevenson, John J. (John James), 1841-1924"
+                    }
+                },
+                "unittitle": {
+                    "value": "John James Stevenson Papers"
+                },
+                "unitdate": {
+                    "normal": "1880/1934",
+                    "type": "inclusive",
+                    "value": "1880-1934"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 3 manuscript boxes"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "James John Stevenson was a geologist, chemist, writer, and professor at New York University (NYU). He also was class historian for NYU's Class of 1863. These papers are Stevenson's collection of materials (correspondence, photographs and biographies) regarding the Class of 1863."
+                },
+                "unitid": {
+                    "value": "MC.18"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_019ab440b7cf13cac8f45f012a90b78c",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_b54ce03545f4ee181f2f9db820e89c85",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); John James Stevenson Papers; MC 18; box number; folder number; New York University Archives, New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_f72824c4e16221cb385e603af50c8c49",
+            "head": "Biography of James John Stevenson",
+            "p": {
+                "value": "John Stevenson married twice. On April 13, 1865, he married Mary A. McGowan. He had three children by this marriage, Anna (Warner), Andrew William, and Isabella (Sommerville). After becoming a widower in 1871, Stevenson married Mary C. Ewing in 1879. They had two children, Margaretta (Denny) and Archibald. In 1904 Archibald graduated from New York University."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_5aad044ac005cd667f29b1defede2c36",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The John James Stevenson Papers include biographical sketches of 1863 class members as well as a history of the class. Correspondence between Stevenson and classmates throughout their respective careers represent the majority of this collection. Within this collection are two photographs of the Class of 1863 at a class reunion dated October 29, 1908. Other items include bound materials: a book, pamphlet, published speech and notebook. Also included within the collection is a bibliography of Stevenson's work for the years 1864-1893 and 1911-1914."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Universities and Colleges -- Alumni and alumnae."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Students"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Alumni Federation of New York University, Inc"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref18\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: Class History\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref19\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eA History of the Class of 1863\u003c/unittitle\u003e\u003cunitdate normal=\"1883/1934\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_c635de35bd4a8eb0e6e7c3e9afa44464\" label=\"Mixed Materials [31142063066909]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_c635de35bd4a8eb0e6e7c3e9afa44464\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBiographical Sketches of the Class of 1863\u003c/unittitle\u003e\u003cunitdate normal=\"1883/1934\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_baedfb652362b2993eed9a8a3a549bb4\" label=\"Mixed Materials [31142063066909]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_baedfb652362b2993eed9a8a3a549bb4\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAutobiographical Sketches of the Class of 1863\u003c/unittitle\u003e\u003cunitdate normal=\"1883/1934\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_98aa2e92832f23da339af21ec2b0b74d\" label=\"Mixed Materials [31142063066909]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_98aa2e92832f23da339af21ec2b0b74d\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries II: Correspondence\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref23\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eStevenson-Baird Correspondence\u003c/unittitle\u003e\u003cunitdate normal=\"1903/1913\" type=\"inclusive\"\u003e1903-1913\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_0e797669076f9d2bd62baa8146203570\" label=\"Mixed Materials [31142063066909]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0e797669076f9d2bd62baa8146203570\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eStevenson-Barnes Correspondence\u003c/unittitle\u003e\u003cunitdate normal=\"1903/1921\" type=\"inclusive\"\u003e1903-1921\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_7f1ca3207faf0b64275c82235e385a38\" label=\"Mixed Materials [31142063066909]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_7f1ca3207faf0b64275c82235e385a38\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eStevenson-Burnet Correspondence\u003c/unittitle\u003e\u003cunitdate normal=\"1883/1908\" type=\"inclusive\"\u003e1883-1908\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_0b31e27ab59816a151cdd78031e96426\" label=\"Mixed Materials [31142063066909]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0b31e27ab59816a151cdd78031e96426\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref26\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eStevenson-Cochran Correspondence\u003c/unittitle\u003e\u003cunitdate normal=\"1883/1914\" type=\"inclusive\"\u003e1883-1914\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_0ad3ae8197eefcd8583f7fef6ee0e212\" label=\"Mixed Materials [31142063066909]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0ad3ae8197eefcd8583f7fef6ee0e212\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eStevenson-Demarest Correspondence\u003c/unittitle\u003e\u003cunitdate normal=\"1883/1913\" type=\"inclusive\"\u003e1883-1913\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_70b8749511253c6f3d49ed4b71cdd6e0\" label=\"Mixed Materials [31142063066909]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_70b8749511253c6f3d49ed4b71cdd6e0\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref28\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eStevenson-Dripps Correspondene\u003c/unittitle\u003e\u003cunitdate normal=\"1901/1914\" type=\"inclusive\"\u003e1901-1914\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_2baba396461487b310f1365ef3c4532e\" label=\"Mixed Materials [31142063066909]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2baba396461487b310f1365ef3c4532e\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref29\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eStevenson-Hendrickson Correspondence\u003c/unittitle\u003e\u003cunitdate normal=\"1883/1917\" type=\"inclusive\"\u003e1883-1917\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_924ea1ae6f00c908bf5f94493e784a98\" label=\"Mixed Materials [31142063066909]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_924ea1ae6f00c908bf5f94493e784a98\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref30\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eStevenson-Holmes Correspondence\u003c/unittitle\u003e\u003cunitdate normal=\"1888/1913\" type=\"inclusive\"\u003e1888-1913\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_c9b0e9af689ba8668ddca751e85cbc01\" label=\"Mixed Materials [31142063066909]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_c9b0e9af689ba8668ddca751e85cbc01\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref31\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eStevenson-Ludlum Correspondence\u003c/unittitle\u003e\u003cunitdate normal=\"1903/1923\" type=\"inclusive\"\u003e1903-1923\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_4c19b05ae0ab5bf26061c64ebfd5053e\" label=\"Mixed Materials [31142063066909]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_4c19b05ae0ab5bf26061c64ebfd5053e\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref32\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eStevenson-Martin Correspondence\u003c/unittitle\u003e\u003cunitdate normal=\"1870/1922\" type=\"inclusive\"\u003e1870-1922\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_e78c291b49563aa62928011e9043b572\" label=\"Mixed Materials [31142063066909]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e78c291b49563aa62928011e9043b572\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref33\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eStevenson-Mason Correspondence\u003c/unittitle\u003e\u003cunitdate normal=\"1900/1922\" type=\"inclusive\"\u003e1900-1922\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_ac9fb4c1902b768794a778011e071463\" label=\"Mixed Materials [31142063066909]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ac9fb4c1902b768794a778011e071463\" type=\"Folder\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref34\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eStevenson-Park Correspondence\u003c/unittitle\u003e\u003cunitdate normal=\"1893/1918\" type=\"inclusive\"\u003e1893-1918\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_27a558482e5b26be65d5c395d164a6e3\" label=\"Mixed Materials [31142063066909]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_27a558482e5b26be65d5c395d164a6e3\" type=\"Folder\"\u003e15\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref35\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eStevenson-Robinson Correspondence\u003c/unittitle\u003e\u003cunitdate normal=\"1900/1913\" type=\"inclusive\"\u003e1900-1913\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_0a5a2904f0be229907a35d0c6bf95fb4\" label=\"Mixed Materials [31142063066909]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0a5a2904f0be229907a35d0c6bf95fb4\" type=\"Folder\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref36\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eStevenson-Stead Correspondence\u003c/unittitle\u003e\u003cunitdate normal=\"1883/1914\" type=\"inclusive\"\u003e1883-1914\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_b33e641c3e06ce60f4f52992a9c867e2\" label=\"Mixed Materials [31142063066909]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b33e641c3e06ce60f4f52992a9c867e2\" type=\"Folder\"\u003e17\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref37\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eStevenson-Stokes Correspondence\u003c/unittitle\u003e\u003cunitdate normal=\"1888/1918\" type=\"inclusive\"\u003e1888-1918\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_9445e6574fa92bef691d4995f297bd56\" label=\"Mixed Materials [31142063066909]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_9445e6574fa92bef691d4995f297bd56\" type=\"Folder\"\u003e18\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref38\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eStevenson-Ted Broeck Correspondence\u003c/unittitle\u003e\u003cunitdate normal=\"1883/1912\" type=\"inclusive\"\u003e1883-1912\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_c81c4f710f7c8049fd6ddeb529571676\" label=\"Mixed Materials [31142063066909]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_c81c4f710f7c8049fd6ddeb529571676\" type=\"Folder\"\u003e19\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref39\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eStevenson-Van Riper Correspondence\u003c/unittitle\u003e\u003cunitdate normal=\"1900/1918\" type=\"inclusive\"\u003e1900-1918\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_e9434e461235273b75c0e89966764133\" label=\"Mixed Materials [31142063066917]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_e9434e461235273b75c0e89966764133\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref40\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eStevenson-Walsh Correspondence\u003c/unittitle\u003e\u003cunitdate normal=\"1883/1919\" type=\"inclusive\"\u003e1883-1919\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_e7f88aeba2c33dcbe23dae071d1b6a3e\" label=\"Mixed Materials [31142063066917]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_e7f88aeba2c33dcbe23dae071d1b6a3e\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref41\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eStevenson-Williams Correspondence\u003c/unittitle\u003e\u003cunitdate normal=\"1900/1915\" type=\"inclusive\"\u003e1900-1915\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_884bb6857426eff999a900e3957555a4\" label=\"Mixed Materials [31142063066917]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_884bb6857426eff999a900e3957555a4\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref42\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries III: Photographs and Bound Materials\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref43\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePhotographs\u003c/unittitle\u003e\u003cunitdate normal=\"1908/1908\"\u003e1908\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_0ab4f5658589b6fe6f6b9ae46a12e82b\" label=\"Mixed Materials [31142063066917]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_0ab4f5658589b6fe6f6b9ae46a12e82b\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref44\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBound Materials and Books\u003c/unittitle\u003e\u003cunitdate normal=\"1883/1934\" type=\"inclusive\"\u003e1883-1934\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_28fbfb8b1f68c425b7c5774a5809a7b4\" label=\"Mixed Materials [31142063066917]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_28fbfb8b1f68c425b7c5774a5809a7b4\" type=\"Folder\"\u003e5-6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref45\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries IV: Miscellaneous\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref46\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eStevenson Miscellaneous\u003c/unittitle\u003e\u003cunitdate normal=\"1889/1917\" type=\"inclusive\"\u003e1889-1917\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_7b471ce3d488e6b5ac6ca9fda76065c7\" label=\"Mixed Materials [31142063066917]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_7b471ce3d488e6b5ac6ca9fda76065c7\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref47\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLudlum Personal Memorabilia\u003c/unittitle\u003e\u003cunitdate normal=\"1915/1924\" type=\"inclusive\"\u003e1915-1924\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_c03787b81d48c1e804cf50d2292e4a28\" label=\"Mixed Materials [31142063066917]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_c03787b81d48c1e804cf50d2292e4a28\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_e9e5d7457e301b943c5ea811f1f577a5\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence, clippings, and envelopes\u003c/unittitle\u003e\u003cunitdate normal=\"1880/1924\" type=\"inclusive\"\u003e1880-1924\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter\" id=\"aspace_38757cce351b5e203f060ac1097f8a5f\" label=\"Mixed Materials [31142063066925]\" type=\"Box\"\u003e3\u003c/container\u003e\u003ccontainer parent=\"aspace_38757cce351b5e203f060ac1097f8a5f\" type=\"Folder\"\u003e1-6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

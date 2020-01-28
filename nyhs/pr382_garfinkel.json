@@ -1,0 +1,135 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "pr382_garfinkel"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Barry and Gloria Garfinkel Collection of Photographs  \u003clb/\u003e  1946-1974  \u003clb/\u003e \u003cnum\u003ePR 382\u003c/num\u003e"
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-04-05T14:19:02\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Garfinkel , Barry H., 1928-"
+                    }
+                },
+                "unittitle": {
+                    "value": "Barry and Gloria Garfinkel collection of photographs"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "1946-1974"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "This collection consists of 39 black and white photographs by various photographers. The photographs date from 1946-1974, and feature portraits of prominent people and New York City street scenes."
+                },
+                "unitid": {
+                    "value": "PR 382"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_f6c3017168b17262382523ca920a0fba",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open to qualified researchers by appointment only."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_d963c282b7ca2c05abcf47835799eb77",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Credit line should read: Gift of Barry H. and Gloria Garfinkel"
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_32f4859ad840409b12ddf96b71f79fd1",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Gift of Barry and Gloria Garfinkel, 2017."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_16a7decabeeb3231b7948f5c157d0636",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection consists of 39 black and white photographs by various photographers, including Victor Laredo, Fritz Henle, Arnold Eagle, Jill Freedman, Bruce Davidson, Jerry Lang, N. Jay Jaffee, Fons Ianelli, Fred McDarrah, Ken Regan, Ron Galella, and Arthur Leipzig. The photographs date from 1946-1974. Some photos feature portraits of prominent people, such as Truman Capote, Bella Abzug, John Cassavetes, and Diane Keaton. Other photos capture New York City street scenes, including police officers on the beat, children playing, iconic buildings, and views in Central Park."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Celebrities -- United States -- Portraits"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Police -- New York (State) -- New York  "
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_240c2e6b06600c7b4f64ffcb39595e03\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBruce Davidson\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1965\u003c/unitdate\u003e\u003ccontainer id=\"aspace_137176da491d80031a81366a8c9bd8fd\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_137176da491d80031a81366a8c9bd8fd\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_cf51eb54be2b7f2e3bc3c237a3739093\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eTruman Capote promoting his novel \"In Cold Blood\" [3 photographs] (1965)\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_2532c2c667dc87b982101d3cad8fc584\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eArnold Eagle\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1959-1964\u003c/unitdate\u003e\u003ccontainer id=\"aspace_bf0485e137a51e9166a3665ce812fc10\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_bf0485e137a51e9166a3665ce812fc10\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_39b3c298acf59b1f618ef4e8465a1fd8\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eRehearsal for Mozart's \"The Impresario\" with Will Lee, Laura Bodnar, John Kuhn, and Arnold Gamson at the piano (1959).\u003c/p\u003e\u003cp\u003eExterior of 2 Columbus Circle, the Gallery of Modern Art, a.k.a. the Lollipop Building (1964).\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_15a99ac83aab2b55ac95de36769ffbe9\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eJill Freedman\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_64348f6305f8f4343c15cba68c8b9da0\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_64348f6305f8f4343c15cba68c8b9da0\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_518f4bb3812ad18d3ae87697ef23c615\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eFour photographs of New York City police officers working their beats\u003c/p\u003e\u003cp\u003eOne photograph of a young tattooed man in a doorway\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_d15137246d888d8148e2696f886f3220\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRon Galella\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1971\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b73e1c88a87aad356717c45fb198d608\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b73e1c88a87aad356717c45fb198d608\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_a9d54add8784cbb00b582a5721407b06\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003ethree photographs of Jackie Kennedy Onassis in Central Park, near the Reservoir, running from the photographer.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_e5d838361e4d78f32ded347308a584e2\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFritz Henle\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1946-1973\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5b2be1f1b41af5249b07495d11bf74f3\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5b2be1f1b41af5249b07495d11bf74f3\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_06ca064b9f71e29f27ed0963437cccb7\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eBowery Concert [two women from a Bowery mission playing instruments on the street] (1946)\u003c/p\u003e\u003cp\u003e\nThree photos of Alexander H. Cohen, theatrical producer (1973)\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_e0beb7cd7e4417d67c2318bc139de5c8\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFons Ianelli\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2f376ddd768602e14cf6d955e152eaf8\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2f376ddd768602e14cf6d955e152eaf8\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_4062343a491a472b2fb753cdc9691d56\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eportrait of John Kiernan [American journalist]\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_77ed4fed381363aaaedccf3a47d59afb\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eN. Jay Jaffee\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9c11e15c55976ebcb45782e273b7871c\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_9c11e15c55976ebcb45782e273b7871c\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_2e621d3dcc31bbd75409f849d3225c24\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003e5 photographs of unidentified landscapes; one image appears to be the boardwalk at Coney Island.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_d52698a15e074816d16c43527754739f\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eJerry Lang\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e1d517899c35987b040cde04d4999a96\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e1d517899c35987b040cde04d4999a96\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_41f64dd11840445908b6b29b8080cf79\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eArthur Fiedler, conductor [2 portraits]\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_7a3eef23eeb6c75b447406ca555bc017\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eVictor Laredo\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1948-1960\u003c/unitdate\u003e\u003ccontainer id=\"aspace_777a8b24f937811a522a2207cefe0fe5\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_777a8b24f937811a522a2207cefe0fe5\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_0eddd7817a1757dda9b32c0bcd339ff8\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eCentral Park Interlude [pigeon landing on a man's hand] (1948)\u003c/p\u003e\u003cp\u003eCentral Park, New York [detail of carved stone staircase] (1960)\u003c/p\u003e\u003cp\u003eEast Harlem [kids playing in a vacant lot] (1952)\u003c/p\u003e\u003cp\u003eFlatiron Building seen from Madison Square Park (1953)\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_26479d853562a96c4de426a16c876749\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eArthur Leipzig\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_16327f8ba24298397d048ac03cd7b234\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_16327f8ba24298397d048ac03cd7b234\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_2bedf1c2a4b0892a6ac19247c1f1bb3c\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eQuestion Mark Hopscotch, Blake Ave. Brooklyn [African American children playing]\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_52d984d08f760970a5708f0739f6bd92\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFred McDarrah\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_140269756648a6f61d5f242cababd8d9\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_140269756648a6f61d5f242cababd8d9\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_9ad4ba43aee61010dca608cd219a2ef2\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eRabbi Samuel Blum.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_db20d028af9a76596937e20575b53a1a\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eKen Regan\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1974, undated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f3913c51832855622d5358fdb33bc4f9\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f3913c51832855622d5358fdb33bc4f9\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_25e92a7c559c5f1d0614bbd99711150e\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eBella Abzug at City Hall on Women's Strike Day\u003c/p\u003e\u003cp\u003eA.J. Antoon, play director [4 portraits]\u003c/p\u003e\u003cp\u003eJohn Cassavetes directing the movie \"Husbands\" [on 8th Avenue and West 49th Street, 2 photos]\u003c/p\u003e\u003cp\u003eDiane Keaton [in Central Park] (1974)\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e"
+        }
+    }
+}

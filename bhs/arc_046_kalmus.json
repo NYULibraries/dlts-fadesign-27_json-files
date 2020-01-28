@@ -1,0 +1,174 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arc_046_kalmus"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Harry Kalmus papers and photographs\n                    \u003cnum\u003eARC.046\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Weatherly Stephan"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "July 16, 2010"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2016-09-13T14:19-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Kalmus, Harry, 1924-1987"
+                    }
+                },
+                "unittitle": {
+                    "value": "Harry Kalmus papers and photographs"
+                },
+                "unitdate": {
+                    "normal": "1938/1987",
+                    "type": "inclusive",
+                    "value": "1938-1987"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "4.7 linear feet"
+                        },
+                        {
+                            "value": "in two folders, two records cartons, two phases boxes, and two stereo slide boxes."
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The Harry Kalmus papers and photographs consist of materials spanning 1938 to 1987 (bulk 1947-1955) and measure 4.7 linear feet. The majority of the material is photographic in nature, containing images taken by Harry Kalmus during his career as a photographer in Brooklyn. Document types include correspondence, autograph books, printed material, photographic prints, slides, stereoscopic slides, and black-and-white negatives."
+                },
+                "unitid": {
+                    "value": "ARC.046"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid337006",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0132"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref2",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref4",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Harry Kalmus papers and photographs, ARC.046, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Natalie Kalmus and Frana Kalmus Baruch, 1991."
+            }
+        },
+        "bioghist": {
+            "id": "ref1",
+            "head": "Biographical note",
+            "p": {
+                "value": "Harry Kalmus was born in 1924 and grew up on Vermont Street in the Brooklyn neighborhood of East New York. He attended Yeshiva Toras Chaim and Thomas Jefferson High School. After serving in World War II, Kalmus returned to Brooklyn and began his career as a professional photographer. He worked for advertising agencies and corporate offices in Manhattan as well as photographing events such as weddings and bar mitzvahs in Brooklyn. In 1957, he and his family moved to the Queens neighborhood of Kew Gardens, and eventually settled in Freeport, N.Y. Kalmus died in 1987."
+            }
+        },
+        "scopecontent": {
+            "id": "ref5",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Harry Kalmus papers and photographs consist of materials spanning 1938 to 1987 (bulk 1947-1955) and measure 4.7 linear feet. The majority of the material is photographic in nature, containing images taken by Harry Kalmus during his career as a photographer in Brooklyn. Document types include correspondence, autograph books, printed material, photographic prints, slides, stereoscopic slides, and black-and-white negatives. The collection is organized in two series: \n                \u003cemph render=\"bold\"\u003ePapers\u003c/emph\u003e and \n                \u003cemph render=\"bold\"\u003ePhotographs\u003c/emph\u003e."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Bar mitzvah"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Commercial photography"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Empire State Building (New York, N.Y.)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Jews |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Weddings"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Yeshivah Toras Chaim (Brooklyn, New York, N.Y.)."
+            }
+        },
+        "otherfindaid": {
+            "id": "ref14",
+            "head": "Other Finding Aids note"
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref7\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 1: Papers\u003c/unittitle\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003e0.2 linear feet\u003c/extent\u003e\n                        \u003cextent\u003ein two folders.\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate normal=\"1938/1987\" type=\"inclusive\"\u003e1938-1987\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref9\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003eThis series contains an autograph book, correspondence, and printed materials belonging to Harry Kalmus. The autograph book dates from Kalmus's graduation from Yeshivah Toras Chaim in the late 1930s and includes the signatures of his classmates. Correspondence in the collection consists of letters to Kalmus from East New York childhood friends commending a series of photographs he took in the 1970s, titled \"Vermont Street Memorabilia.\" Printed material describes his freelance work, particularly his role as a freelance photographer for local businesses and corporations; notices of Kalmus's death are also included.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref8\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 2: Photographs\u003c/unittitle\u003e\n                    \u003cunitid\u003eV1991.011\u003c/unitid\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003e4.5 linear feet\u003c/extent\u003e\n                        \u003cextent\u003ein two records cartons, two phase boxes, and two stereo slide boxes.\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate normal=\"1947/1955\" type=\"bulk\"\u003eBulk, 1947-1955\u003c/unitdate\u003e\n                    \u003cunitdate normal=\"1935/1960\" type=\"inclusive\"\u003ecirca late 1930s-1960\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref11\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003eThe \n                        \u003cemph render=\"bold\"\u003ePhotographs\u003c/emph\u003e series consists of approximately 13,339 black-and-white negatives, 108 prints, 880 slides, 186 stereoscopic slides, and a stereoscopic viewer. The series contains both Kalmus's personal and professional photographs. Kalmus family pictures in the series document the Kalmus's wedding as well as Jewish high holy days and family gatherings. Documentary-style photographs show views of Brooklyn and Manhattan, including Ebbets Field, Coney Island, Prospect Park, Grand Army Plaza, Times Square, and the Empire State Building. A small portion of the materials relate to Kalmus's childhood neighborhood around Vermont Street in East New York, Brooklyn, including 32 black-and-white prints and 14 black-and-white negatives. Portraits, as well as some candid shots, of babies and families are interspersed throughout the series.\u003c/p\u003e\n                    \u003cp\u003eKalmus was probably best known for photographing Jewish weddings and Bar Mitzvahs in Brooklyn, particularly in the neighborhood of Crown Heights. These photographs provide rich documentation of Jewish traditions in New York City during the 1940s and 1950s. Wedding and Bar Mitzvah locations depicted in the series include Young Israel of Eastern Parkway, B'nai Jacob, the Park Sheraton, Hotel St. George, DeLuxe Palace, Franklin Manor, Twin Cantors, Empire Mansion, Mt. Eden Center, Sunrise Manor, Imperial Gardens, and Young Israel of New Lots and East New York. Bar Mitzvah boys are regularly depicted posing with the \n                        \u003cemph render=\"italic\"\u003eTenach\u003c/emph\u003e (prayer book) and \n                        \u003cemph render=\"italic\"\u003etallit\u003c/emph\u003e (prayer shawl), his parents, the cake, and friends attending the celebration. Wedding photographs show the ceremony under the \n                        \u003cemph render=\"italic\"\u003echuppah\u003c/emph\u003e (canopy), recitation of the \n                        \u003cemph render=\"italic\"\u003eSheva Brachot\u003c/emph\u003e (seven blessings), signing of the \n                        \u003cemph render=\"italic\"\u003eketubah\u003c/emph\u003e (Jewish marriage contract), the \n                        \u003cemph render=\"italic\"\u003eKiddush\u003c/emph\u003e and \n                        \u003cemph render=\"italic\"\u003eHamotzi\u003c/emph\u003e blessings with wine and \n                        \u003cemph render=\"italic\"\u003elechem mishneh\u003c/emph\u003e (two breads), \n                        \u003cemph render=\"italic\"\u003eHorah\u003c/emph\u003e (dance with bride and groom in chairs), and \n                        \u003cemph render=\"italic\"\u003eMezinke Tanz\u003c/emph\u003e (dance around the parents of the bride or groom).\u003c/p\u003e\n                    \u003cp\u003eItems in the collection are loosely arranged by format, year, and individual event. Families depicted in wedding and Bar Mitzvah photographs are identified on photograph and negative sleeves, and these names can be searched in the image database in the library.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

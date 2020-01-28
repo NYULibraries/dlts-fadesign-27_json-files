@@ -1,0 +1,134 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_443"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Carlo Tresca \"Autobiography\" Typescript \u003cnum\u003eTAM 443\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-06-06T19:13:15\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Carlo Tresca \"Autobiography\" Typescript"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(2 boxes; 334 pp.)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Carlo Tresca (1879-1943), was an Italian-born anarchist, who emigrated to the United States in 1904. He was a labor organizer, a journalist, and the editor of several Italian language radical newspapers. An opponent of both fascism and Stalinism, he was assassinated in New York City in 1943. The collection consists of a 344 pp. undated  typescript, titled \"Autobiography,\" which covers his life and political activities through the 1920s."
+                },
+                "unitid": {
+                    "value": "TAM 443"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_bcf6deb904e85be57c87f65af98a0449",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1-2"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_fe63509894a3be8b175da8616e7fb876",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_c2f0daa49ec79de4c163d16ba804f82d",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Roberta Bobba in circa 1994.  The accession number associated with this collection is 1994.026."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_bf84b9497c889fc7fd97aae557b2a622",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Carlo Tresca (1879-1943), was an Italian-born anarchist, who emigrated to the United States in 1904. He was a labor organizer, including with the Industrial Workers of the World, a journalist, and editor, notably of \u003cemph render=\"italic\"\u003eIl Proletario\u003c/emph\u003e, the official newspaper of the Italian Socialist Federation, and of \u003cemph render=\"italic\"\u003eIl Martello\u003c/emph\u003e, an anti-fascist newspaper. An opponent of both fascism and Stalinism, he was assassinated in New York City in 1943."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_97a7e75cda95c289b0f0863681f77e1b",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "Table of contents: More than love -- The seed of revolt -- L'enfant terrible -- Cloudy days -- The awakening of the peasants -- My first oration -- How I became an agitator -- The first arrest -- Jail -- Roma -- Exile -- On American shores -- Guilty -- The Church gets busy -- Roses -- Chivalry -- Lawrence - The new Babylon-- The red trains -- No god, no master -- Strikes and vigilantes -- A good fixer -- In and out -- A strange settlement -- Disorderly conducct -- How I met John Reed -- A day in the life of an agitator -- A wartime Xmas -- Mussolini -- The unemployed and the IWW -- The anarchists I -- The anarchists II -- A pioneer in undercover work -- Release from Atlanta (new story)"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Anarchists |z United States."
+                },
+                {
+                    "source": "local",
+                    "value": "Italian American anarchists."
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

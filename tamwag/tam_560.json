@@ -1,0 +1,149 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_560"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Richard Winger Collection on Progressive and Radical Political Parties \u003cnum\u003eTAM 560\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment Staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-06-20T19:33:57\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Richard Winger Collection on Progressive and Radical Political Parties"
+                },
+                "unitdate": {
+                    "normal": "1973/1991",
+                    "type": "inclusive",
+                    "value": "1973-1991"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "TAM 560"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_1e00f65001e3b9fef67639a751fe3f49",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_92f5986875b43b14fb913556ccbce6f6",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_dfe9714c0a4dc60efe4d17a5c8aee2e9",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Richard Winger Collection on Progressive and Radical Political Parties; TAM 560; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_8eeba79b365c5c504c8f6e2e52def93b",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials found in collection; provenance is unknown. The accession number associated with this collection is 2010.093."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_318016c8b4c9e168a833cbf90b6af78b",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Richard Lee Winger (1943-), of San Francisco, CA, is the publisher and editor of \u003cemph render=\"italic\"\u003eBallot Access News\u003c/emph\u003e (1985- ), and is on the editorial board of the \u003cemph render=\"italic\"\u003eElection Law Journal\u003c/emph\u003e. He publishes analysis, statistics and legal information and supports more equitable laws allowing access to the ballot for minor parties. In 1985 Winger helped found, along with several minor party representatives, including the Communist Party's Si Gerson, the Coalition for Free and Open Elections (COFOE). The group attempts to co-ordinate action and provide mutual support among the various minor parties for efforts to liberalize and reform ballot access laws."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_43c8b2f179810512adbfdc04f4eed75d",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "This small unprocessed collection contains correspondence and writings, internal documents and printed ephemera from progressive and radical political parties, spanning the years 1973-1991, including the Citizens Party, the Green Party, the National Unity Party, the Socialist Party, John Anderson's 1980 Presidential candidacy, and a file from the National Committee for Independent Political Action."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Third parties (United States politics)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Third parties (United States politics) |x History |v Sources."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Election law |z United States."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "National Unity Party (U.S.)"
+            }
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,165 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-F",
+            "value": "mss_557"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Lloyd Trufelman Collection on Artists' Television Network \u003cnum\u003eMSS.557\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Rachel Searcy"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Fales Library and Special Collections"
+                },
+                "address": {
+                    "addressline": [
+                        "Fales Library and Special Collections",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "3rd Floor",
+                        "New York, NY 10012",
+                        "Phone: (212) 998-2596",
+                        "fales.library@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-11-21T20:38:09\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Fales Library and Special Collections"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Trufelman, Lloyd"
+                    }
+                },
+                "unittitle": {
+                    "value": "Lloyd Trufelman Collection on Artists' Television Network"
+                },
+                "unitdate": {
+                    "normal": "1979/1980",
+                    "type": "inclusive",
+                    "value": "1979-1980"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": ".25 linear feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 half manuscript box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Lloyd Trufelman was active in the Downtown New York City experimental arts scene in the 1970s and 1980s, and worked with Jaime Davidovich as part of the Artists' Television Network. This collection (dated 1979-1980) consists of materials collected by Trufelman documenting the activities of the Artists' Television Network (ATN). Materials include postcards featuring art by Jaime Davidovich; press releases for \"Shock Opera,\" a mixed media work performed by ATN, Hurrah, and Youthinasia; and a copy of \u003cemph render=\"italic\"\u003eVideo\u003c/emph\u003e magazine featuring an article on Davidovich, ATN, and video artists more generally."
+                },
+                "unitid": {
+                    "value": "MSS.557"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_cd5d707b7331e8c24fdfb9e50e101697",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_40a8b1f889d9a4fe84b61c4898b1fecf",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_0cebd60591cfa47771a829a2816b37ff",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Lloyd Trufelman Collection on Artists' Television Network; MSS 557; box number; folder number; Fales Library and Special Collections, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_afdd83d18d1bd97d60db0cf238cd8c90",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Lloyd Trufelman in January 2018; the accession number associated with this gift is 2018.119."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_9f2c8efca548da48b3fb0cb86a03a341",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Lloyd Trufelman was active in the Downtown New York City experimental arts scene in the 1970s and 1980s, and worked with Jaime Davidovich as part of the Artists' Television Network."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_788d4151b6396857eabced8dd136e22e",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection (dated 1979-1980) consists of materials collected by Lloyd Trufelman documenting the activities of the Artists' Television Network (ATN). Materials include postcards featuring art by Jaime Davidovich; press releases for \"Shock Opera,\" a mixed media work performed by ATN, Hurrah, and Youthinasia; and a copy of \u003cemph render=\"italic\"\u003eVideo\u003c/emph\u003e magazine featuring an article on Davidovich, ATN, and video artists more generally."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Video art."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Cable television -- Access"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Artists and community -- New York (State) -- New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Public Access Television -- New York."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Artists' Television Network"
+            }
+        },
+        "dsc": {}
+    }
+}

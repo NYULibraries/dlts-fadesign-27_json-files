@@ -1,0 +1,190 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1985_021_durham"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Durham family papers\n                    \u003cnum\u003e1985.021\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "September 1, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-18T16:11-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Durham, Knowlton, b. 1880"
+                    },
+                    "famname": {
+                        "source": "naf",
+                        "value": "Durham family"
+                    }
+                },
+                "unittitle": {
+                    "value": "Durham family papers"
+                },
+                "unitdate": {
+                    "normal": "1273/1950",
+                    "type": "inclusive",
+                    "value": "1273-1950"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.0 Linear feet"
+                        },
+                        {
+                            "value": "in one folder and one oversize volume."
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Papers of the Durham family, who ancestors were from England, Ireland, and Scotland and immigrated to America in the 1600s and 1700s, where they settled in New York, Brooklyn, and Long Island, N.Y., as well as several other states in New England, the Mid-Atlantic, the Midwest, and the Northwest. Papers mainly relate to the Durham family's ancestry and genealogical record and contain information stretching back to at least 1273, though the majority of the genealogy materials concern individuals living in the 18th through 20th centuries. Other items relate to the professional accomplishments and personal lives of certain Durham family members living in the late 19th and early 20th centuries. These latter papers place particular emphasis on Knowlton Durham (b. 1880), a New York City lawyer. Materials in the collection include genealogical research notes and lists, correspondence among members of the Durham family, press releases, obituaries and marriage announcements, newspaper and magazine clippings, and other ephemera. Also included are Knowlton Durham's application to the Sons of the Revolution, including extensive details on his personal ancestry and its connection to the Revolutionary War; the Durham family's coat of arms; and one oversize volume containing records of what appears to be the New York City Department of Fire Prevention for the period 1938 to 1950, including records of incoming and outgoing documents and daily statistical and inspection records relating to fire prevention in Manhattan and Brooklyn. It is unknown whether the materials in this collection were compiled by a single researcher or multiple individuals, but it is presumed that the compiler(s) were related to the Durham family."
+                },
+                "unitid": {
+                    "value": "1985.021"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1006001",
+                    "label": "Text",
+                    "type": "Oversize",
+                    "value": "1985.021 1 of 1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref4",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Durham family papers, 1985.021, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Dwight B. Demeritt, Jr., date unknown. Formally accessioned in 1985."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcgft",
+                    "value": "Families |z Middle Atlantic States"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Families |z Middle West"
+                },
+                {
+                    "source": "lcgft",
+                    "value": "Families |z New England"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Families |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Families |z New York (State) |z Long Island"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Families |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcgft",
+                    "value": "Families |z Northwestern States"
+                },
+                {
+                    "source": "lcgft",
+                    "value": "Families |z United States |z Heraldry"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Fire prevention |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Fire prevention |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Genealogy "
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Lawyers |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Marriage customs and rites |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Marriage customs and rites |z New York (State) |z New York"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

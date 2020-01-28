@@ -1,0 +1,131 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "wag_145"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the James Geoghegan Papers \u003cnum\u003eWAG.145\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Maggie Schreiner"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-06-15T16:48:09\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "local",
+                        "value": "Geoghegan, James"
+                    }
+                },
+                "unittitle": {
+                    "value": "James Geoghegan Papers"
+                },
+                "unitdate": {
+                    "normal": "1937/1966",
+                    "type": "inclusive",
+                    "value": "1937-1966"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "WAG.145"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_e1f2174476aa2fc4e4edc1bf91137e36",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_9c8643bb1c746792bdb4304326ea0c47",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; James Geoghegan Papers; WAG 145; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_3bb708c6c65cf3e15f1a6a6a56276874",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by James Geoghegan in 2000. The accession number associated with this gift is 2000.016."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_251883b3d832573ca2ad5c6346b6210e",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "The first administration of Local 1-2 remained in office for seventeen years, with Paddy McGrath and Andrew McMann as president and Business Agent, and Richland and Marsini as Assistant Business Agents. The personal popularity of McGrath, combined with a system of elections which heavily favored the incumbents, assured the continuation in office of the old guard. In the mid-1950s challenges to the incumbents were mounted by a number of groups, including the United Social Club (Joe Murray), the Security Party (James Geoghegan), the Rider Avenue Committee (Sampson and McMann, who had split from the McGrath slate) and \"Steam.\" At the same time, the insurgents attempted to change the by-laws, to replace the practice of system-wide elections and appointed business agents with section-based elections for Board members and business agents - and slates for top officers. In 1958, in a marathon caucus meeting at the New Yorker Hotel, the challengers finally got together and fielded a joint slate known as \"The Coalition.\" In one of the first elections to be conducted by the American Arbitration Association; 16,000 out of 20,000 eligible voters participated. The ballots took several days to count and the opposition won by a substantial margin."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_3ab9a737c373d8369192d501e48abe29",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection contains papers related to Utility Workers of America, Local 1-2.  Documents include a history of the employee relations at Con Edison, legal papers from Consolidated Edison Company of New York v. National Labor Relations Board (1937), a copy of the union's charter, and newspaper clippings."
+            }
+        },
+        "controlaccess": {},
+        "dsc": {}
+    }
+}

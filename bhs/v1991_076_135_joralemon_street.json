@@ -1,0 +1,156 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "v1991_076_135_joralemon_street"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Photographs of the house at 135 Joralemon Street in Brooklyn Heights\n                    \u003cnum\u003eV1991.076\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Patricia Glowinski"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "Patricia Glowinski"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-28T16:21-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "Photographs of the house at 135 Joralemon Street in Brooklyn Heights"
+                },
+                "unitdate": {
+                    "normal": "1989/1989",
+                    "value": "1989"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.04 Linear feet"
+                        },
+                        {
+                            "value": "six items housed in one folder."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "V1991.076"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1052007",
+                    "label": "Graphic materials",
+                    "type": "Box",
+                    "value": "Prints by Accession 75"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref6",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref3",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Photographs of the house at 135 Joralemon Street in Brooklyn Heights, V1991.076, Box number, Object ID number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref5",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Margot Gayle, 1989."
+            }
+        },
+        "bioghist": {
+            "id": "ref9",
+            "head": "Historical note",
+            "p": {
+                "value": "The two-story-plus-attic Federal-style wooden clapboard house located a 135 Joralemon Street in Brooklyn Heights was built on or before 1833. In the mid-19th century, ornamental cast iron was added to the front porch of the house. As of 2011, this house is one of the few remaining wooden houses in Brooklyn."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Photographs of the house at 135 Joralemon Street in Brooklyn Heights consist of six black-and-white photographic prints showing exterior views of the wooden-frame Federal-style house located in the Brooklyn Heights neighborhood. The photographs focus on the front porch of the house and its decorative cast-iron grillwork that dates from the mid-19th century."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Architecture, Domestic |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Decorative cast-ironwork"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Dwellings |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Porches"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Wooden-frame houses"
+                }
+            ]
+        },
+        "otherfindaid": {
+            "id": "ref8",
+            "head": "Other Finding Aids"
+        },
+        "dsc": {}
+    }
+}

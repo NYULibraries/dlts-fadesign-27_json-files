@@ -1,0 +1,143 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1988_004_hegeman"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Hegeman family papers\n                    \u003cnum\u003e1988.004\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Patricia Glowinski"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "July 6, 2010."
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-21T14:38-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Hegeman, Rem"
+                    },
+                    "famname": {
+                        "source": "naf",
+                        "value": "Hegeman family"
+                    }
+                },
+                "unittitle": {
+                    "value": "Hegeman family papers"
+                },
+                "unitdate": {
+                    "normal": "1809/1886",
+                    "type": "inclusive",
+                    "value": "1809-1886"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.21 Linear feet"
+                        },
+                        {
+                            "value": "19 folders housed in one manuscript box."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "1988.004"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid362002",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "ARC.038-ARC.040, and 1988.004"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref2",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref4",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Hegeman family papers, 1988.004, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref21",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Peter Vojta, date unknown."
+            }
+        },
+        "bioghist": {
+            "id": "ref23",
+            "head": "Biographical note",
+            "p": {
+                "value": "Rem, James, and John L. Hegeman were brothers who descended from early Dutch settlers who immigrated to New Amsterdam (now New York City). Rem Hegeman lived in the town of Flatbush, one of original six towns of Brooklyn. His brother, John L. Hegeman lived in Melville, Long Island, N.Y. during the 1880s."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Families |z New York (State) |z Kings County"
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref6\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 1: Correspondence\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003e6.0 items\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate normal=\"1838/1845\" type=\"inclusive\"\u003e1838-1845\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref7\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003eThis series contains handwritten correspondence, dating from 1838 to 1845, addressed to or from Rem Hegeman. Included in the series is a letter from James Hegeman telling of the death of his wife and an infant child, as well as letters from William Hegeman.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref8\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 2: Certificates\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003e3.0 items\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate normal=\"1809/1878\" type=\"inclusive\"\u003e1809-1878\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref9\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003eThis series contains three certificates, 1809 to 1878. Included are two certificates of military appointment for Rem Hegeman, 1809 and 1815; and a certificate of administration for the estate of John Hegeman to Rem Hegeman, 1878.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref10\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 3: Receipts\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003ein six folders.\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate normal=\"1810/1884\" type=\"inclusive\"\u003ecirca 1800s\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref11\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003eThis series contains receipts, 1810 to 1884, and undated. Included are handwritten receipts, 1810 to 1842; tax receipts; receipts for bills and services; and funeral expense accounts and receipts.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref12\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 4: Property documents\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003e2.0 items\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate normal=\"1847/1886\" type=\"inclusive\"\u003e1847-1886\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref13\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003eThis series contains two documents including the will of John Hegeman, 1847; and a bill of sale for a market wagon, 1886.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref14\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 5: Printed materials\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003e3.0 items\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate normal=\"1832/1879\" type=\"inclusive\"\u003e1832-1879\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref15\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003eThis series contains two volumes of \n                        \u003cemph render=\"italic\"\u003eThe Daily Verse Expositor\u003c/emph\u003e, No. 4 and 5, printed in 1832; and a news clipping from \n                        \u003cemph render=\"italic\"\u003eThe Sun\u003c/emph\u003e, January 4, 1879.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

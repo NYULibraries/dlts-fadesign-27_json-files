@@ -1,0 +1,150 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "wag_286"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Ray Markey Files on the American Federation of State, County, and Municipal Employees (AFSCME), Local 1930 \u003cnum\u003eWAG.286\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Maggie Schreiner"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-07-27T20:41:13\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "local",
+                        "value": "Markey, Raymond"
+                    }
+                },
+                "unittitle": {
+                    "value": "Ray Markey Files on the American Federation of State, County, and Municipal Employees (AFSCME), Local 1930"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "8.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "9 boxes"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "WAG.286"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_d17962581ba262ae5831ffb8946db984",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "8"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_77a28ff225aeee97030a2a33aceb3149",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_6c3e211755baf400946441bab10fed6f",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Ray Markey Files on the American Federation of State, County, and Municipal Employees (AFSCME), Local 1930; WAG 286; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_e40344567b3a54dd5e53c8f4a631cbaa",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Ray Markey in 2008. The accession number 2008.028 is associated with this collection."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_997faa1197a5836b21be01e9e89f8bf9",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Raymond (Ray) Markey was the president of the New York Public Library Guild Local 1930, AFSCME from 1992 to 2004."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_7d37c88ab04798b9a868617e0761868d",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "This collection contains material pertaining to the history of the New York Public Library Guild Local 1930, AFSCME."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Library employees |x Labor unions |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Librarians |z New York (State) |z New York."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "AFSCME. Local 1930 (New York, N.Y.)"
+            }
+        },
+        "dsc": {}
+    }
+}

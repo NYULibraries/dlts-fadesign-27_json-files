@@ -1,0 +1,108 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "wag_237"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Musical Mutual Protective Union Minutes \u003cnum\u003eWAG.237\u003c/num\u003e"
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-07-18T19:39:48\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Musical Mutual Protective Union Minutes"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "WAG.237"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_7d27e318f5d49f3bb05bd40f0d08b991",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_eb5a73ec22a31d10c90e477f7cc22889",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "The provenance of this collection is unknown. The accession number associated with this collection is 1950.048."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_d96b09b4cad8b6d7c190137eb7a5bb32",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "\u003cemph render=\"bold\"\u003eThe MMPU Minutes and ledger, 1863-1910 are also available on microfilm at the library (R-7437). Researchers should use microfilm for these items. \u003c/emph\u003e\n "
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_f2dcf11e29922330b95869338ef4fe23\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eUnprocessed Records\u003c/unittitle\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_53784d93fb547ddfc826c3ee2c3ce0f4\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_687"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Robert Gruenwald Papers \u003cnum\u003eTAM 687\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Heather Mulliner"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-07-12T14:52:09\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Robert Gruenwald Papers"
+                },
+                "unitdate": {
+                    "normal": "1953/1986",
+                    "type": "inclusive",
+                    "value": "1953-1986"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "2 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 2 record cartons and 1 12-inch vinly disc"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Robert Gruenwald Papers (dates 1953-1986) consist of flyers, bulletins, periodicals, and pamphlets related to Gruenwald's involvement in labor organizing and leftist politics. Robert Gruenwald was a labor organizer and activist in leftist student politics in New York City in the 1970s and 1980s. The bulk of the collection relates to his membership in the American Postal Workers Union and the New York Metro Area Postal Workers' Union, and consists of flyers, bulletins, newspaper clippings, and mailings about union elections. The collection also contains copies periodicals inlcuding issues of \u003cemph render=\"italic\"\u003eThe American Postal Worker\u003c/emph\u003e (1974-1986), \u003cemph render=\"italic\"\u003eUnion Mail\u003c/emph\u003e (1978-1985), \u003cemph render=\"italic\"\u003eThe Worker for the New York-New Jersey Area\u003c/emph\u003e (1973-1978), \u003cemph render=\"italic\"\u003eRevolution\u003c/emph\u003e (Revolutionary Union, 1973), and \u003cemph render=\"italic\"\u003eThe Red Papers\u003c/emph\u003e (1969-1972). Pamphlets relate to a variety of topics on workers and civil rights, student activism, China, the Vietnam War, and organizations on the political left."
+                },
+                "unitid": {
+                    "value": "TAM 687"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_a4f1d9adb65cebec0fedbab2e9a33dbc",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_e3570d8b574dff8cf45644a64b44236b",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Robert Gruenwald Papers; TAM 687; box number; folder number; Tamiment Library \u0026amp; Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_de9b3f3bd84d53591242760c1a8bdfbd",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Robert Gruenwald in 2016. The accession number associated with this gift is 2016.029."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_4bdf927dac0805fdceeedce44837c01d",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Robert Gruenwald was a labor organizer and activist in leftist student politics in New York City in the 1970s and 1980s. He was a student at Columbia University in the early 1970s, organizing around anti-war and local campus issues. Later he became active in the labor movement working to promote union democracy and trade unionism. He served as a shop steward in the New York Metro Area Postal Workers Union for 5 years."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_d8e83139f14f17009cc07d16de7b0f18",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "Also included in the collection is a 1976 vinyl record of labor songs titled, \u003cemph render=\"italic\"\u003eBreak the Chains\u003c/emph\u003e, by Prarie Fire."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Postal service -- Employees -- Labor unions"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Communism -- New York (State) -- New York"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "American Postal Workers Union"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref12\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePostal Workers Union Newspapers and Elections Materials\u003c/unittitle\u003e\u003cunitdate normal=\"1978/1986\" type=\"inclusive\"\u003e1978-1986\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_d82429510066c8865396b0dfb2970f54\" label=\"Mixed Materials [31142051728775]\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref13\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"italic\"\u003eThe Worker for the New York-New Jersey Area\u003c/emph\u003e (New York, NY)\u003c/unittitle\u003e\u003cunitdate normal=\"1973/1978\" type=\"inclusive\"\u003e1973-1978\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_39abe05443a0eaf24506e0713d903eb0\" label=\"Mixed Materials [31142051728775]\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"italic\"\u003eRevolution\u003c/emph\u003e (Revolutionary Union, Chicago)\u003c/unittitle\u003e\u003cunitdate normal=\"1973/1977\" type=\"inclusive\"\u003e1973-1977\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_b53192ed409c48c4bc44e90e29232f23\" label=\"Mixed Materials [31142051728775]\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"italic\"\u003eThe Red Papers\u003c/emph\u003e, Volumes 1-7 (Revolutionary Union, Chicago)\u003c/unittitle\u003e\u003cunitdate normal=\"1969/1974\" type=\"inclusive\"\u003e1969-1974\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_2a728c23762ba173bd47ee2423c4c2eb\" label=\"Mixed Materials [31142051728775]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_abadeaa3c07b285f31141186501d0907\" label=\"Mixed Materials [31142051728767]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePamphlets and Ephemera on Leftist Politics\u003c/unittitle\u003e\u003cunitdate normal=\"1953/1978\" type=\"inclusive\"\u003e1953-1978\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_f6eb8ba8b88ee2fdaf530f5624cf0184\" label=\"Mixed Materials [31142051728767]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"italic\"\u003eBreak the Chains\u003c/emph\u003e by Prarie Fire\u003c/unittitle\u003e\u003cunitdate normal=\"1976/1976\"\u003e1976\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript Box - Letter - Half/Tall\" id=\"aspace_950fa524287d6b172b1a64a9690641ea\" label=\"Mixed Materials\" type=\"Box\"\u003eB001\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

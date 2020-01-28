@@ -1,0 +1,157 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "v1992_003"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to \n                    \u003cemph render=\"italic\"\u003eWalking Race: Heel and Toe Artists Hoof it to Coney Island\u003c/emph\u003e and two other films\n                    \u003cnum\u003eV1992.003\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by John Zarrillo"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "June 2016"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2016-09-22T16:29-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Evans, Tom, Major"
+                    }
+                },
+                "unittitle": {
+                    "value": "\n                \u003cemph render=\"italic\"\u003eWalking Race: Heel and Toe Artists Hoof it to Coney Island\u003c/emph\u003e and two other films"
+                },
+                "unitdate": {
+                    "normal": "1925/2009",
+                    "type": "inclusive",
+                    "value": "circa 1930, 2009"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "2.8 linear feet"
+                        },
+                        {
+                            "value": "in three film canisters and one flat box"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "This collection contains a 16 mm film containing three segments, circa 1930. The first segment shows a foot race from New York City Hall to Coney Island, the second shows a wedding of three brothers of the Sultan of Morocco, and the third shows showgirls auditioning for the stage. The film is silent, black-and-white, and runs five minutes and thirty seconds. It was produced by Major Tom Evans and edited by A.F. Bernadac."
+                },
+                "unitid": {
+                    "value": "V1992.003"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1476003",
+                    "label": "Moving Images",
+                    "type": "Box",
+                    "value": "1 of 1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction. The DVD copy of the film can be viewed in the library's reading room."
+            }
+        },
+        "prefercite": {
+            "id": "ref7",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); \n                \u003cemph render=\"italic\"\u003eWalking Race: Heel and Toe Artists Hoof it to Coney Island\u003c/emph\u003e and two other films, V1992.003, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref6",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Lawrence Stelter, 1992."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "This collection contains a 16 mm film containing three segments, circa 1930. The first segment shows a foot race from New York City Hall to Coney Island, the second shows a wedding of three brothers of the Sultan of Morocco, and the third shows showgirls auditioning for the stage. The film is silent, black-and-white, and runs five minutes and thirty seconds. It was produced by Major Tom Evans and edited by A.F. Bernadac."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Musicals |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Running races |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Running |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Sports |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Walking (Sports) |z New York (state) |z Kings County"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

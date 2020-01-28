@@ -1,0 +1,172 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1987_001_jar_elliott_company"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the J.A.R. Elliott Company records\n                    \u003cnum\u003e1987.001\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Gioia Stevens"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "February 2009"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-21T14:35-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Elliott, James Albert Riley, 1854-1924"
+                    }
+                },
+                "unittitle": {
+                    "value": "J.A.R. Elliott Company records"
+                },
+                "unitdate": {
+                    "normal": "1900/1952",
+                    "type": "inclusive",
+                    "value": "1900-1952"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "6.5 Linear feet"
+                        },
+                        {
+                            "value": "in six manuscript boxes and four record cartons."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "1987.001"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1090008",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "1987.001 6 of 10"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref7",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); J.A.R. Elliott Company records, 1987.001, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Mrs. Merle E. Ohlinger on behalf of herself and her sister, Mrs. Elinor Elliott Koechley, 1996."
+            }
+        },
+        "bioghist": {
+            "id": "ref4",
+            "head": "Historical Note",
+            "p": {
+                "value": "James Albert Riley (J.A.R.) Elliott (1854-1924) was one of the premier live-bird and trap shooters in America from the late 1880s until his retirement in 1915. In the late 19th century, live pigeon shooting was a popular competitive sport and Elliott was a celebrated national champion. Elliott earned a living by competing for prize money and through his longstanding employment as a representative of the Winchester Repeating Arms Company. By about 1910, shooting live birds was increasingly considered cruel and the sport began to shift to shooting clay targets or skeet shooting. Elliott's shooting career became less active and in 1911 he launched a new business venture, Elliott's Perfect Ear Protector. The ear protector, which he patented in the U.S. and eight other countries, was designed to protect the inner ear from the damage caused by the shock of loud noises, such as gun fire. The business was a commercial success and Elliott's customers ranged from local gun clubs to the U.S. military. Elliott moved from Kansas City, MO to Brooklyn, N.Y. in about 1910 and purchased a large stone mansion at 122 76th Street in the neighborhood of Bay Ridge. He died in Brooklyn on August 7, 1924."
+            }
+        },
+        "scopecontent": {
+            "id": "ref5",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The business records of the J.A.R. Elliott Company for the years 1903 to 1930 are organized alphabetically by topic in Boxes 1 to 7. Boxes 8 and 9 contain additional business records and Elliott's correspondence regarding his shooting career. Box 10 contains oversize items, including the foreign patents scrapbook."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcgft",
+                    "value": "Acoustic trauma"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Business enterprises |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Businessmen |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcgft",
+                    "value": "Ear |x Wounds and injuries"
+                },
+                {
+                    "source": "lcgft",
+                    "value": "Shooting"
+                },
+                {
+                    "source": "lcgft",
+                    "value": "Trapshooting"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "J.A.R. Elliott Company (Brooklyn, New York, N.Y.)."
+            }
+        },
+        "otherfindaid": {
+            "id": "ref9",
+            "head": "Other Finding Aids note"
+        },
+        "dsc": {}
+    }
+}

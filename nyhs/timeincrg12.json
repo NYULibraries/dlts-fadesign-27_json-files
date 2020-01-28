@@ -1,0 +1,153 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "timeincrg12"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Time Inc. \u003ctitle render=\"italic\"\u003eArchitectural Forum\u003c/title\u003e and \u003ctitle render=\"italic\"\u003eHouse \u0026amp; Home\u003c/title\u003e Editorial Records: \u003clb/\u003eManaging Editor Edgar P. Smith Files\u003clb/\u003e1952-1962\u003clb/\u003e \u003cnum\u003eMS 3009-RG 12\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Melanie Rinehart"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-11-26T21:30:50\u003c/date\u003e"
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Time Inc. \u003ctitle render=\"italic\"\u003eArchitectural Forum\u003c/title\u003e and \u003ctitle render=\"italic\"\u003eHouse \u0026amp; Home\u003c/title\u003e Editorial Records: Managing Editor Edgar P. Smith Files"
+                },
+                "unitdate": {
+                    "normal": "0/0",
+                    "type": "inclusive",
+                    "value": "1952-1962"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Linear feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 record carton"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Contains Edgar P. Smith's records regarding the evaluation and possible sale of \u003ctitle render=\"italic\"\u003eArchitectural Forum\u003c/title\u003e and \u003ctitle render=\"italic\"\u003eHouse \u0026amp; Home\u003c/title\u003e. \u003ctitle render=\"italic\"\u003eArchitectural Forum\u003c/title\u003e was a professional journal focused on design and modern architecture, and \u003ctitle render=\"italic\"\u003eHouse \u0026amp; Home\u003c/title\u003e was a trade magazine for building and buying new houses."
+                },
+                "unitid": {
+                    "value": "MS 3009-RG 12"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_ced442ee396527775c8e5304ae74dbe5",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open to qualified researchers. Materials are stored offsite and advance notice is required for use."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_a82168229b3a1dbe4d8b5b6e6628a638",
+            "head": "Preferred Citation Note",
+            "p": {
+                "value": "This record group should be cited as Time Inc. \u003ctitle render=\"italic\"\u003eArchitectural Forum\u003c/title\u003e and \u003ctitle render=\"italic\"\u003eHouse \u0026amp; Home\u003c/title\u003e Records: Edgar P. Smith Files, MS 3009-RG 12, New-York Historical Society."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_fa79c80fff01b2837977201e1df231c2",
+            "head": "Historical Note",
+            "p": {
+                "value": "Huxtable, Ada Louise. \"Architectural Forum Dropped.\" \u003ctitle render=\"italic\"\u003eNew York Times\u003c/title\u003e (New York, NY), May 28, 1964, http://www.nytimes.com/1964/05/28/architectural-forum-dropped.html?_r=0 ."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_45779e38b6f95012a545037454ac4564",
+            "head": "Scope and Contents Note",
+            "p": {
+                "value": "Contains Edgar P. Smith's files on the evaluation of finances and possible sale of \u003ctitle render=\"italic\"\u003eArchitectural Forum\u003c/title\u003e and \u003ctitle render=\"italic\"\u003eHouse \u0026amp; Home\u003c/title\u003e during his tenure as managing editor. Records include correspondence, budgets, memoranda, reports, and studies."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Corporations -- New York (State)  -- New York. "
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Corporations -- History"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Publishers and publishing -- New York (State)  -- New York. "
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Periodicals -- Publishing"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Time, inc. -- History"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref2_0ka\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eArchitectural Forum\u003c/title\u003e: Reports/Budgets\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"187185\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e187185\u003c/unitid\u003e\u003ccontainer id=\"aspace_be15fb9ba5fdd1320c8555a1ab338f23\" label=\"Mixed Materials\" type=\"Offsite-Box\"\u003e763\u003c/container\u003e\u003ccontainer parent=\"aspace_be15fb9ba5fdd1320c8555a1ab338f23\" type=\"Folder\"\u003e1-4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref3_5tr\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eArchitectural Forum\u003c/title\u003e: [General]\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"187190\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e187190\u003c/unitid\u003e\u003ccontainer id=\"aspace_b6ba7aec9f93fbe722e47bc793c3fdd3\" label=\"Mixed Materials\" type=\"Offsite-Box\"\u003e763\u003c/container\u003e\u003ccontainer parent=\"aspace_b6ba7aec9f93fbe722e47bc793c3fdd3\" type=\"Folder\"\u003e5-6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref4_rrk\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eArchitectural Forum/House \u0026amp; Home\u003c/title\u003e\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"187191\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e187191\u003c/unitid\u003e\u003ccontainer id=\"aspace_f1b4cc79736c119b1b978d7edb83e42d\" label=\"Mixed Materials\" type=\"Offsite-Box\"\u003e763\u003c/container\u003e\u003ccontainer parent=\"aspace_f1b4cc79736c119b1b978d7edb83e42d\" type=\"Folder\"\u003e7-8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref5_vme\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBuilding Division Study: [General]\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"187192\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e187192\u003c/unitid\u003e\u003ccontainer id=\"aspace_538d5e7ceb14f3b0f099ef31b9852899\" label=\"Mixed Materials\" type=\"Offsite-Box\"\u003e763\u003c/container\u003e\u003ccontainer parent=\"aspace_538d5e7ceb14f3b0f099ef31b9852899\" type=\"Folder\"\u003e9-10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref7_h5y\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBuilding Division Study: Occupancy\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"187194\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e187194\u003c/unitid\u003e\u003ccontainer id=\"aspace_b58195f0886d5bd5ca46eff4e3704dc8\" label=\"Mixed Materials\" type=\"Offsite-Box\"\u003e763\u003c/container\u003e\u003ccontainer parent=\"aspace_b58195f0886d5bd5ca46eff4e3704dc8\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref8_hiz\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBuilding Division Study: Salaries\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"187195\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e187195\u003c/unitid\u003e\u003ccontainer id=\"aspace_bb0404027c3194c6694b2455ae3dc9b4\" label=\"Mixed Materials\" type=\"Offsite-Box\"\u003e763\u003c/container\u003e\u003ccontainer parent=\"aspace_bb0404027c3194c6694b2455ae3dc9b4\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref9_6a8\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eGrimes [Walter Grimes / W. B. Grimes \u0026amp; Company]: \u003ctitle render=\"italic\"\u003eHouse \u0026amp; Home\u003c/title\u003e\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"187196\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e187196\u003c/unitid\u003e\u003ccontainer id=\"aspace_d51dce5e238347d35d5fb10d4698078a\" label=\"Mixed Materials\" type=\"Offsite-Box\"\u003e763\u003c/container\u003e\u003ccontainer parent=\"aspace_d51dce5e238347d35d5fb10d4698078a\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref10_kki\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eHouse \u0026amp; Home\u003c/title\u003e: Budget\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"187197\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e187197\u003c/unitid\u003e\u003ccontainer id=\"aspace_11fc9661f93ed16f1f26c1f232470e3a\" label=\"Mixed Materials\" type=\"Offsite-Box\"\u003e763\u003c/container\u003e\u003ccontainer parent=\"aspace_11fc9661f93ed16f1f26c1f232470e3a\" type=\"Folder\"\u003e14-15\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref11_0jx\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTime Inc. Weekly Report: 5/19/1962\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"187198\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e187198\u003c/unitid\u003e\u003ccontainer id=\"aspace_d55dac18a4665b93edf9ad3c098b295f\" label=\"Mixed Materials\" type=\"Offsite-Box\"\u003e763\u003c/container\u003e\u003ccontainer parent=\"aspace_d55dac18a4665b93edf9ad3c098b295f\" type=\"Folder\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

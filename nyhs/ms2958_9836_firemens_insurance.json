@@ -1,0 +1,92 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "ms2958_9836_firemens_insurance"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Firemen's Insurance Company Fire Insurance Policy to Anna Maria Kelly\u003clb/\u003e1833, 2016\u003clb/\u003e \u003cnum\u003eAHMC - Firemen's Insurance Company\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Larry Weimer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-07-03T20:54:29\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Firemen's Insurance Company fire insurance policy to Anna Maria Kelly"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "1833, 2016"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "3 documents"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(in one folder)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Firemen's Insurance Company policy number 11,361 issued to Anna Maria Kelly in 1833 to insure against loss or damage by fire on the frame dwelling house, adjoining kitchen, cider mill press, shed, and barns located about 1.5 miles from Newtown, Long Island on land formerly owned by William Sackett (identified by the donor as in what is now Woodside, Queens, New York City). Total insurance was $2000 for a one year period, for a premium of $13.25. The pre-printed four page form includes terms and conditions of the insurance and the list of company directors. There are fragments of two receipts attached to the form, suggesting that the policy may have been extended in future years. A note on the policy indicates it was cancelled, possibly in 1836. (The folder also includes two of the donor's research notes, prepared in 2016, about the family and property.)\n\u003clb/\u003e \u003clb/\u003e\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: \u003cextref actuate=\"onRequest\" href=\"http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph007369060\u0026amp;context=L\u0026amp;vid=NYHS\u0026amp;search_scope=nyhs\u0026amp;tab=nyhs\u0026amp;lang=en_US\"\u003eFiremen's Insurance Company fire insurance policy to Anna Maria Kelly\u003c/extref\u003e"
+                },
+                "unitid": {
+                    "value": "AHMC - Firemen's Insurance Company"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "dsc": {}
+    }
+}

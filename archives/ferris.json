@@ -1,0 +1,149 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "ferris"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Isaac Ferris Papers \u003cnum\u003eMC.76\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by University Archives staff."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-11-28T16:12:28\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Ferris, Isaac, 1798-1873"
+                    }
+                },
+                "unittitle": {
+                    "value": "Isaac Ferris Papers"
+                },
+                "unitdate": {
+                    "normal": "1816/1871",
+                    "type": "bulk",
+                    "value": "1816-1871"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one manuscript box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Isaac Ferris, 1798-1873, was a clergyman in the Reformed Dutch Church of America and the third chancellor of New York University. This collection consists of manuscripts, letters, memorabilia, and other printed material from the late 1800s. "
+                },
+                "unitid": {
+                    "value": "MC.76"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_98be81718b2f5ae5b23481147ace4d61",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_27ac1dc5aed19718eecd1caa7f69c563",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Isaac Ferris Papers; MC 76; box number; folder number; New York University Archives, New York University Libraries."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_bbae918bdb7e0bffec2ca9f8c28dcf7b",
+            "head": "Source of Acquisition",
+            "p": {
+                "value": "This collection was donated to the University Archives by Mrs. Morris P. Ferris from 1927 to 1930 and by Mrs. J. Stewart McNally from 1978 to 1980."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_40e73bb997a274f9eaca0bc0ad472efc",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Isaac Ferris, 1798-1873, was a clergyman in the Reformed Dutch Church of America and the third chancellor of New York University. He served the Second Church at Albany (1824-1836) and the Market Street Church in New York City (1836-1853) before assuming the chancellorship of New York University (then the University of the City of New York) in 1853, a position he held until 1870.  Ferris was also founder of the Rutgers Female Institute in New York (1839), member of the American Bible Society (1840-1873), founder of the New York YMCA (1852), and corresponding secretary for the Board of Foreign Missions of the Reformed Dutch Church."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_b029188e44913ad150f19faeae2fff17",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection includes manuscripts, letters, memorabilia, and printed material created by Isaac Ferris, the third chancellor of New York University."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Christianity -- United States"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "New York University -- Administration"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref2\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eList of printed sermons and speeches\u003c/unittitle\u003e\u003cunitdate normal=\"1975/1975\" type=\"inclusive\"\u003e1975\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_e32cf2a33663f1e0d64473294a85b8da\" label=\"Mixed Materials [31142062741726]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e32cf2a33663f1e0d64473294a85b8da\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref3\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCommencement Address at Columbia College\u003c/unittitle\u003e\u003cunitdate normal=\"1816/1816\" type=\"inclusive\"\u003e1816\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_6132530f76e1e70325f119842e9a35eb\" label=\"Mixed Materials [31142062741726]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_6132530f76e1e70325f119842e9a35eb\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref6\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAddress at the Opening of the Rutgers Female Institute\u003c/unittitle\u003e\u003cunitdate normal=\"1829/1829\" type=\"inclusive\"\u003e1829\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_5282ce189509984ef3d5a800b6e6a0d7\" label=\"Mixed Materials [31142062741726]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5282ce189509984ef3d5a800b6e6a0d7\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref7\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eChristmas Day poem\u003c/unittitle\u003e\u003cunitdate normal=\"1839/1839\" type=\"inclusive\"\u003e1839\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_63c9739b3efe902bc9a1bead016a123c\" label=\"Mixed Materials [31142062741726]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_63c9739b3efe902bc9a1bead016a123c\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref8\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Ecclesiastical Characteristics: A Plain Statement of the Characteristics of the Protestant Dutch Church\"; Discourse before the American Board of Commissioners for Foreign Missions\u003c/unittitle\u003e\u003cunitdate normal=\"1848/1848\" type=\"inclusive\"\u003e1848\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_826db0e02e9c6725eafec37f3d18ce01\" label=\"Mixed Materials [31142062741726]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_826db0e02e9c6725eafec37f3d18ce01\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref9\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAddress delivered on the formation of the YMCA of New York\u003c/unittitle\u003e\u003cunitdate normal=\"1852/1852\" type=\"inclusive\"\u003e1852\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_afce3e4320e653c7f4da2c158e284d35\" label=\"Mixed Materials [31142062741726]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_afce3e4320e653c7f4da2c158e284d35\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref10\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAnniversary address delivered at the New York Ophthalmic Hospital\u003c/unittitle\u003e\u003cunitdate normal=\"1857/1857\" type=\"inclusive\"\u003e1857\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_f273ab4b3cf420d5edc350dc61579efa\" label=\"Mixed Materials [31142062741726]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f273ab4b3cf420d5edc350dc61579efa\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref11\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAddress delivered at the opening of the Law Department\u003c/unittitle\u003e\u003cunitdate normal=\"1858/1858\" type=\"inclusive\"\u003e1858\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_fd6a913051cfcc27d777e14b386d17c3\" label=\"Mixed Materials [31142062741726]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_fd6a913051cfcc27d777e14b386d17c3\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref12\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"The Duties of the Times\": preached on the National Thanksgiving\u003c/unittitle\u003e\u003cunitdate normal=\"1863/1863\" type=\"inclusive\"\u003e1863\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_30a7779b725c054582f7e92142cd97e4\" label=\"Mixed Materials [31142062741726]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_30a7779b725c054582f7e92142cd97e4\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref13\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eJubilee Memorial of the American Bible Society: 1816-1866\u003c/unittitle\u003e\u003cunitdate normal=\"1867/1867\" type=\"inclusive\"\u003e1867\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_1725f10be8e453866ca813d972e1ff3d\" label=\"Mixed Materials [31142062741726]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1725f10be8e453866ca813d972e1ff3d\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSemi-Centennial Memorial Discourse of the New York Sunday School Union\u003c/unittitle\u003e\u003cunitdate normal=\"1866/1866\" type=\"inclusive\"\u003e1866\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_0849cbf7dbf42f40707f109e7c38c534\" label=\"Mixed Materials [31142062741726]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0849cbf7dbf42f40707f109e7c38c534\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAddress delivered at the Centennial Proceedings at the North Dutch Church, 1769-1869\u003c/unittitle\u003e\u003cunitdate normal=\"1869/1869\" type=\"inclusive\"\u003e1869\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_1baa0e118a84aab8bf77f90784ca110f\" label=\"Mixed Materials [31142062741726]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1baa0e118a84aab8bf77f90784ca110f\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAlumni notes to Ferris on his retirement\u003c/unittitle\u003e\u003cunitdate normal=\"1870/1870\" type=\"inclusive\"\u003e1870\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_088ca5ea8c00fe7a44c5090a7709927a\" label=\"Mixed Materials [31142062741726]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_088ca5ea8c00fe7a44c5090a7709927a\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Memorial Discourse; or, Fifty Years Ministry in the Reformed Church of America\"\u003c/unittitle\u003e\u003cunitdate normal=\"1871/1871\" type=\"inclusive\"\u003e1871\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_0ae1e0fdf728b8622ae7c409c6f6a76e\" label=\"Mixed Materials [31142062741726]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0ae1e0fdf728b8622ae7c409c6f6a76e\" type=\"Folder\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eReceipt, Alumnae Association, Rutgers Institute\u003c/unittitle\u003e\u003cunitdate normal=\"1908/1908\" type=\"inclusive\"\u003e1908\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_5aa991b414f5a36239a9b540e8d5fe4a\" label=\"Mixed Materials [31142062741726]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5aa991b414f5a36239a9b540e8d5fe4a\" type=\"Folder\"\u003e15\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLecture outline and notes, invitation to attend anniversary meeting of Philomathean \u0026amp; Eucleian Societies, correspondence, clippings\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_3d857a8fef3867d657e3ec73b4adbde8\" label=\"Mixed Materials [31142062741726]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_3d857a8fef3867d657e3ec73b4adbde8\" type=\"Folder\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence of Mrs. Morris P. Ferris\u003c/unittitle\u003e\u003cunitdate normal=\"1927/1931\" type=\"inclusive\"\u003e1927-1931\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_8dc19a219ba331569a0b8e6e9af49a8e\" label=\"Mixed Materials [31142062741726]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_8dc19a219ba331569a0b8e6e9af49a8e\" type=\"Folder\"\u003e17\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

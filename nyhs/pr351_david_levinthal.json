@@ -1,0 +1,142 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "pr351_david_levinthal"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Gude to the David Levinthal Photographs\n                    \u003clb/\u003e1994-2007\n                    \u003clb/\u003e\n                    \u003cnum\u003ePR 351\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Larry Weimer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "© 2011 New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                },
+                "date": "January 2018"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2018-03-05T16:57-0500\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "© 2011 New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Levinthal, David"
+                    }
+                },
+                "unittitle": {
+                    "value": "David Levinthal photographs"
+                },
+                "unitdate": {
+                    "value": "1994-2007"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "2.5 Linear feet"
+                        },
+                        {
+                            "value": "in one flat box"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The collection includes 45 color Polaroids taken by photographer David Levinthal of his toy constructions. The collection includes images from four of Levinthal's series: \"Baseball,\" \"Hockey,\" \"Coney Island,\" and \"Wild West.\""
+                },
+                "unitid": {
+                    "value": "PR 351"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref5",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open to qualified researchers by appointment only."
+            }
+        },
+        "prefercite": {
+            "id": "ref8",
+            "head": "Preferred Citation Note",
+            "p": {
+                "value": "Credit line: Anonymous."
+            }
+        },
+        "acqinfo": {
+            "id": "ref7",
+            "head": "Immediate Source of Acquisition Note",
+            "p": {
+                "value": "The collection was donated to N-YHS in December 2017."
+            }
+        },
+        "bioghist": {
+            "id": "ref4",
+            "head": "Biographical/Historical Note",
+            "p": {
+                "value": "(The above is based in part on Levinthal's Wikipedia entry and information his website: \n                \u003cextref ns2:actuate=\"onRequest\" ns2:href=\"http://www.davidlevinthal.com/\"\u003ehttp://www.davidlevinthal.com/\u003c/extref\u003e.)"
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "All of the photographs are untitled, but subjects are identifiable in many. In the Baseball series, many of the figures are in the uniform of the New York Yankees, though the Brooklyn Dodgers and other teams appear, as do umpires (one in argument with a manager) and a batboy. The Hockey series includes some of the great players, including Wayne Gretzky, Martin Brodeur, and Jaromir Jagr and Mark Messier in New York Rangers garb. The Coney Island series depicts a carousel, Space Ride, roller coaster, and bumper cars. The Wild West includes both placid scenes of frontiersmen in town and of Indians at their teepees and violent scenes of a hanging and a fight to what appears to be imminent death for a native American."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Miniature objects--Photographs"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Photography of sports"
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref10\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e\n                        \u003cemph render=\"italic\"\u003eBaseball\u003c/emph\u003e (23 photographs)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3735002\" type=\"Box\" label=\"Graphic materials\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1998, 2003-2004\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref11\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e\n                        \u003cemph render=\"italic\"\u003eHockey\u003c/emph\u003e (11 photographs)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3735003\" type=\"Box\" label=\"Graphic materials\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e2007\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref12\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e\n                        \u003cemph render=\"italic\"\u003eConey Island\u003c/emph\u003e (6 photographs)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3735004\" type=\"Box\" label=\"Graphic materials\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e2007\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref13\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e\n                        \u003cemph render=\"italic\"\u003eWild West\u003c/emph\u003e (5 photographs)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3735005\" type=\"Box\" label=\"Graphic materials\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1994, 1998\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

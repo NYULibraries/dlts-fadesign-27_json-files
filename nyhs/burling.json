@@ -1,0 +1,138 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "burling"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Burling Family Papers\n                    \u003clb/\u003e\n                    \u003cdate\u003e1666-2001 \u003c/date\u003e\n                    \u003cdate\u003e(bulk 1789-1860)\u003c/date\u003e\n                    \u003clb/\u003e\n                    \u003cnum\u003e\u003c/num\u003e\n                    \u003cnum\u003eMS 89\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Processed by Gregory Tavormina"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "@ 2011 New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-10-19T17:19-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "@ 2011 New-York Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "Burling Family Papers"
+                },
+                "unitdate": {
+                    "value": "1666-2001 (bulk 1789-1860)"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.0 Linear feet"
+                        },
+                        {
+                            "value": "(2 boxes)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "This collection outlines the religious, economic, and genealogical aspects of an old prominent New York family. The papers contain bonds, Burling family genealogy papers, real estate documents, certificates, illustrations, personal letters, newspaper clippings, Quaker documents, receipts, slave transactions, and wills. Bound volumes include Burling genealogies and business transactions."
+                },
+                "unitid": {
+                    "value": "MS 89"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref5",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Photocopying undertaken by staff only. Limited to twenty exposures of stable, unbound material per day. (Researchers may not accrue unused copy amounts from previous days.)"
+            }
+        },
+        "prefercite": {
+            "id": "ref7",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "This collection should be cited as Burling Family Papers, The New-York Historical Society."
+            }
+        },
+        "bioghist": {
+            "id": "ref8",
+            "head": "Biographical Note",
+            "p": {
+                "value": "The next most-represented people within the collection are William and Thomas' brother James Burling (1752-1840), and his son John Burling (1807-1870). Their presence largely takes the form of business receipts. Both worked as farmers in Purchase, New York."
+            }
+        },
+        "scopecontent": {
+            "id": "ref9",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "Certificates include a certificate of scholarship for George G.T. Burling to attend a course at Bryant \u0026amp; Stratton's International Chain of Mercantile Colleges 1864 and a certificate of inspection of George T. Burling's White Plains home dated 1919. Images include a Chinese relief rubbing and a printed trading card. Other documents include a formula for McNeil's Salve, personal letters, newspaper scrap, and a pass issued to John Burling by George Clinton."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Genealogy"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Quakers"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Real property - New York (State) - New York"
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref11\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e\u003c/unittitle\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref12\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSlave Transactions\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid489507\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid489507\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate\u003e[1802-1805]\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref13\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eQuaker Documents\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid489506\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid489506\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate\u003e[1723-1867]\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref14\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eDeeds\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid489505\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid489505\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate\u003e1666-1868\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref15\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eIndentures\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid489504\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid489504\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate\u003e1760-1818\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref16\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMortgages\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid489503\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid489503\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate\u003e1827-1924\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref17\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eBonds\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid489502\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid489502\" type=\"Folder\"\u003e6\u003c/container\u003e\n                        \u003cunitdate\u003e1828\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref18\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eBurling Family Genealogy Papers\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid489501\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid489501\" type=\"Folder\"\u003e7\u003c/container\u003e\n                        \u003cunitdate\u003e[1803-1889]\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref19\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePass Issued to John Burling by George Clinton\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid489500\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid489500\" type=\"Folder\"\u003e8\u003c/container\u003e\n                        \u003cunitdate\u003e[1700s]\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref20\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCertificates\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid489499\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid489499\" type=\"Folder\"\u003e9\u003c/container\u003e\n                        \u003cunitdate\u003e1864-1919\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref21\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eReceipts\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid489498\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid489498\" type=\"Folder\"\u003e10\u003c/container\u003e\n                        \u003cunitdate\u003e1787-1862\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref22\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eReceipts\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid489497\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid489497\" type=\"Folder\"\u003e11\u003c/container\u003e\n                        \u003cunitdate\u003e1863-1922\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref23\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eWills\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid489496\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid489496\" type=\"Folder\"\u003e12\u003c/container\u003e\n                        \u003cunitdate\u003e[1785-1870]\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref24\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePersonal Letters\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid489495\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid489495\" type=\"Folder\"\u003e13\u003c/container\u003e\n                        \u003cunitdate\u003e[Undated]\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref25\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eFormula for McNeil's Salve\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid489494\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid489494\" type=\"Folder\"\u003e14\u003c/container\u003e\n                        \u003cunitdate\u003e[1700s]\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref26\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eUndated Receipts \u0026amp; Calculation Notes\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid489493\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid489493\" type=\"Folder\"\u003e15\u003c/container\u003e\n                        \u003cunitdate\u003e[Undated]\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref27\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePainted Trading Card\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid489492\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid489492\" type=\"Folder\"\u003e16\u003c/container\u003e\n                        \u003cunitdate\u003e[1888]\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref28\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eNewspaper Scrap\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid489491\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid489491\" type=\"Folder\"\u003e17\u003c/container\u003e\n                        \u003cunitdate\u003e[1860]\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref29\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eChinese Relief Rubbing\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid489490\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid489490\" type=\"Folder\"\u003e18\u003c/container\u003e\n                        \u003cunitdate\u003e[Undated]\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref30\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eThe Burling Books (Vol. 1)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid489489\" type=\"Box\" label=\"Mixed Materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid489489\" type=\"Folder\"\u003e\u003c/container\u003e\n                        \u003cunitdate\u003e2001\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref31\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eThe Burling Books (Vol. 2)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid489488\" type=\"Box\" label=\"Mixed Materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid489488\" type=\"Folder\"\u003e\u003c/container\u003e\n                        \u003cunitdate\u003e2001\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref32\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eLedger\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid489487\" type=\"Box\" label=\"Mixed Materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid489487\" type=\"Folder\"\u003e\u003c/container\u003e\n                        \u003cunitdate\u003e1839\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref33\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eEdward Burling's Bill of Lading Book\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid489486\" type=\"Box\" label=\"Mixed Materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid489486\" type=\"Folder\"\u003e\u003c/container\u003e\n                        \u003cunitdate\u003e1723\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref34\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eBook of Calculations\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid489485\" type=\"Box\" label=\"Mixed Materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid489485\" type=\"Folder\"\u003e\u003c/container\u003e\n                        \u003cunitdate\u003e1841\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref35\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eReceipt Book\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid489484\" type=\"Box\" label=\"Mixed Materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid489484\" type=\"Folder\"\u003e\u003c/container\u003e\n                        \u003cunitdate\u003e1859\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref36\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eReceipt Book of John Burling\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid489483\" type=\"Box\" label=\"Mixed Materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid489483\" type=\"Folder\"\u003e\u003c/container\u003e\n                        \u003cunitdate\u003e1775\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

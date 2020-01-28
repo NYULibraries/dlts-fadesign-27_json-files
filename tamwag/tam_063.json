@@ -1,0 +1,159 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_063"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the William J. Cassidy Files on the Tri-State Mining District of Missouri, Kansas and Oklahoma \u003cnum\u003eTAM.063\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-04-27T20:37:49\u003c/date\u003e"
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "local",
+                        "value": "Cassidy, William J."
+                    }
+                },
+                "unittitle": {
+                    "value": "William J. Cassidy Files on the Tri-State Mining District of Missouri, Kansas and Oklahoma"
+                },
+                "unitdate": {
+                    "normal": "1925/1950",
+                    "type": "inclusive",
+                    "value": "1925-1950"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The collection contains letters and interview notes from persons involved in lead and zinc mining describing early attempts at unionization; copies of contracts between operators and locals of the International Union of Mine, Mill and Smelter Workers, CIO, mostly dating to the 1940s; clippings, and mining industry and government pamphlets on mining conditions. The material was collected by William J. Cassidy while he was writing his University of Pittsburgh doctoral dissertation completed in 1955."
+                },
+                "unitid": {
+                    "value": "TAM.063"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_5b3ff5bdb233dcbc4311356ddb4743aa",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_fb272d6415d12d0a456aeab3162568ee",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: \u003clb/\u003e\u003clb/\u003eIdentification of item, date; Collection name; Collection number; box number; folder number; \u003clb/\u003eTamiment Library/Robert F. Wagner Labor Archives \u003clb/\u003eElmer Holmes Bobst Library \u003clb/\u003e70 Washington Square South \u003clb/\u003eNew York, NY 10012, New York University Libraries."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_ad2277be7588efa4d2c2fe21a47fd8df",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by William J. Cassidy, 1969. The accession number associated with this gift is 1969.002."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_d9d1dbe09cdf08c05dc8484da35fc4af",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "William J. Cassidy compiled these materials in the course of researching and writing his doctoral dissertation, \"The Tri-State Zinc-Lead Mining Region: Growth, Problems and Prospects\" (University of Pittsburgh, 1955)."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_07aecd5c6cd2782d4938bfe3f5a77635",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The collection contains letters and interview notes from persons involved in lead and zinc mining in the Tri-State Mining District (Kansas, Missouri, Oklahoma); describing early attempts at unionization, copies of contracts between operators and locals of International Union of Mine, Mill and Smelter Workers, CIO; printed ephemera from the union and several of its locals, mostly dating to the 1940s; clippings; mining industry and government pamphlets on mining conditions and a manuscript, \"History of International Union of Mine, Mill and Smelter Workers Union Local 15,\" by Harry Blasser."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Lead miners |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Zinc mines and mining |z United States."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "International Union of Mine, Mill and Smelter Workers. Local 15 (Picher, Okla.)"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref13\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: Research Files, 1925-1950.\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref14\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBlasser, Harry, \"History of International Union of Mine, Mill and Smelter Workers Local 15\"\u003c/unittitle\u003e\u003cunitdate normal=\"1925/1950\" type=\"inclusive\"\u003eUndated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_488244ad7db2ebb667156812401f2121\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_488244ad7db2ebb667156812401f2121\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCassidy, William J.: Correspondence\u003c/unittitle\u003e\u003cunitdate normal=\"1947/1950\" type=\"inclusive\"\u003e1947 , 1950\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a8a2391823f64a9abc8e821f6dfeb5e4\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_a8a2391823f64a9abc8e821f6dfeb5e4\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCassidy, William J.: Research Notes and Interview with Melvin H. Black, M.D.\u003c/unittitle\u003e\u003cunitdate normal=\"1925/1950\" type=\"inclusive\"\u003eUndated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_bf94bde7d60f1574d4574cec8b34f1e1\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_bf94bde7d60f1574d4574cec8b34f1e1\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCherokee County (Kansas) Health Department Second Annual Report\u003c/unittitle\u003e\u003cunitdate normal=\"1941/1941\" type=\"inclusive\"\u003e1941\u003c/unitdate\u003e\u003ccontainer id=\"aspace_6b07a7115682fc1cc5356e22c47fe10e\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_6b07a7115682fc1cc5356e22c47fe10e\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eHarbaugh, M. D. : \"Labor Relations in the Tri-State Mining District.\" \u003cemph render=\"italic\"\u003eMining Congress Journal\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitdate\u003eJun 1936\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1983aebb64fb58dcb2069b9d9a561329\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1983aebb64fb58dcb2069b9d9a561329\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eHarbaugh, M. D. : \"The Tri-State Zinc and Lead Mining District in 1935.\" \u003cemph render=\"italic\"\u003eMining Congress Journal\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitdate\u003eFeb 1936\u003c/unitdate\u003e\u003ccontainer id=\"aspace_6bb31df21aecd7a7976932a86bf32153\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_6bb31df21aecd7a7976932a86bf32153\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eHubbell, A. H. \"Survey of Mining Practice 1951.\" \u003cemph render=\"italic\"\u003eEngineering and Mining Journal\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitdate normal=\"1951/1951\" type=\"inclusive\"\u003e1951\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e639b2e3480f8fa3602f8c08bc1baa43\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e639b2e3480f8fa3602f8c08bc1baa43\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eInternational Union of Mine, Mill and Smelter Workers: Printed Ephemera\u003c/unittitle\u003e\u003cunitdate normal=\"1925/1950\" type=\"inclusive\"\u003eUndated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e8874e2d828dd412bf38bd45646c8a4e\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e8874e2d828dd412bf38bd45646c8a4e\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eInternational Union of Mine, Mill and Smelter Workers. Research Department\u003c/unittitle\u003e\u003cunitdate normal=\"1946/1947\" type=\"inclusive\"\u003e1946-1947\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ea768254e9ce4912bedc79368a3b00d4\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ea768254e9ce4912bedc79368a3b00d4\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eInternational Union of Mine, Mill and Smelter Workers. Local 856. Collective Labor Agreements.\u003c/unittitle\u003e\u003cunitdate normal=\"1947/1947\" type=\"inclusive\"\u003e1947\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a3e453a76e299075a0557f07d90c6051\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_a3e453a76e299075a0557f07d90c6051\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMidwest Research Institute. Chemistry Division. \"A Survey and Scientific Analysis of the Natural Resources and Industrial Potential of the Greater Joplin (Mo.) Area\u003c/unittitle\u003e\u003cunitdate\u003eJan 5, 1950\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c8e950172f300773bab84fcb0aa149a6\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_c8e950172f300773bab84fcb0aa149a6\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"italic\"\u003eMine, Mill vs. CIO Fight Means Turmoil in Mining\u003c/emph\u003e. Reprinted from \u003cemph render=\"italic\"\u003eEngineering and Mining Journal\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitdate\u003eApr 1950\u003c/unitdate\u003e\u003ccontainer id=\"aspace_53fa7c85316628cfd962489d20aca655\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_53fa7c85316628cfd962489d20aca655\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref26\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNewspaper Clippings\u003c/unittitle\u003e\u003cunitdate normal=\"1940/1949\" type=\"inclusive\"\u003e1940-1949\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f0f3410cf8746ff94194d421e0ea41af\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f0f3410cf8746ff94194d421e0ea41af\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eShaner, Dolph: Tri-State Area Local History Pamphlets\u003c/unittitle\u003e\u003cunitdate normal=\"1925/1944\" type=\"inclusive\"\u003e1925-1944\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d8ac91c9ba480121feea0633d3cb732b\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d8ac91c9ba480121feea0633d3cb732b\" type=\"Folder\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref28\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eStatements of Witnesses\u003c/unittitle\u003e\u003cunitdate normal=\"1925/1950\" type=\"inclusive\"\u003eUndated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_078512353a2e5c6183a3c75b7a9660bb\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_078512353a2e5c6183a3c75b7a9660bb\" type=\"Folder\"\u003e15\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref29\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"italic\"\u003eTri-State Miner\u003c/emph\u003e, Vol. 1., no. 1\u003c/unittitle\u003e\u003cunitdate\u003eMay 31, 1949\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a2bc7983fb919bc5faa0679cdead8923\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_a2bc7983fb919bc5faa0679cdead8923\" type=\"Folder\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref30\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTri-State Zinc and Lead Ore Producers Association: Statement to…Frances Perkins…On Living and Working Conditions\u003c/unittitle\u003e\u003cunitdate\u003eAug 23, 1940\u003c/unitdate\u003e\u003ccontainer id=\"aspace_533591b61190f1b5b64492716fade49b\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_533591b61190f1b5b64492716fade49b\" type=\"Folder\"\u003e17\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

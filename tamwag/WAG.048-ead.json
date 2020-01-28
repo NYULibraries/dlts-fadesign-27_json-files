@@ -1,0 +1,134 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "wag_048"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "George M. Litsios Papers\n                    \u003cnum\u003eWAG.048\u003c/num\u003e\n                "
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T20:49-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Litsios, George M."
+                    }
+                },
+                "unittitle": {
+                    "value": "George M. Litsios Papers"
+                },
+                "unitdate": {
+                    "normal": "1926/1980",
+                    "type": "inclusive",
+                    "value": "1926-1980"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "3.0 linear feet"
+                        },
+                        {
+                            "value": "(3 boxes)"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "WAG.048"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "bioghist": {
+            "id": "ref5",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "George M. Litsios, the American-born son of Greek immigrants, apprenticed as a fur worker at the age of 12 and remained in the industry until retirement in 1985. Greek Fur Workers Local 70 lost its autonomy to the Furriers Joint Council after a strike in 1938 bankrupted the union. Greek furriers comprised one of seven craft locals, the rest of them Yiddish-speaking, within the Council. Litsios was active with the Greek opposition slate, under various names including the Rank and File Committee for a Clean Union which eventually succeeded in electing him to the Executive Board in 1968. He later worked as an organizer for the Council at a time when New York's fur industry had been decimated by the exportation of jobs to offshore non-union shops."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The collection consists material collected by Litsios including two minute books of Local 70, (1926-35) and election materials produced by the Rank and File Committee in the Greek language. Also included are by-laws, contracts, pamphlets, and correspondence regarding the Furriers union ca. 1960-80."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Fur workers |x Labor unions |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Fur workers |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Greek Americans |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor leaders |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor unions |x Officials and employees."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Strikes and lockouts |z New York (State) |z New York."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "International Fur Workers Union of the United States and Canada."
+            }
+        },
+        "dsc": {}
+    }
+}

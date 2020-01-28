@@ -1,0 +1,124 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "mc_119"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Collection of Theses from the Faculty of Arts and Science, Department of Economics\n                    \u003cnum\u003eMC 119\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Darren W. Johnson in 1989. Revised by Caroline Moseley in 1990. Additional description in 2014 by Connor Gaudet."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2014-12-18T10:52-0500\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Collection of Masters Theses from the Faculty of Arts and Science, Department of Economics"
+                },
+                "unitdate": {
+                    "normal": "1971/1979",
+                    "type": "inclusive",
+                    "value": "1971-1979"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "5.0 linear feet"
+                        },
+                        {
+                            "value": "(10 boxes)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "This collection contains a selection of masters theses written by students from the Department of Economics between 1971 and 1979."
+                },
+                "unitid": {
+                    "value": "MC 119"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref17",
+            "head": "Access restrictions",
+            "p": {
+                "value": "Open for access without restrictions."
+            }
+        },
+        "bioghist": {
+            "id": "ref18",
+            "head": "History of the Economics Department",
+            "p": {
+                "value": "The Department of Economics now offers undergraduate, masters, and doctoral degrees."
+            }
+        },
+        "scopecontent": {
+            "id": "ref15",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection contains a selection of masters theses written by students from the Department of Economics between 1971 and 1979. A full list of thesis authors and titles may be found at the Archives. This collection does not contain all graduate theses written by students but is, rather, a selection that was collected by the Department during this time period."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Economics."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "New York University. Department of Economics."
+            }
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref2\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eTheses (A-F)\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                    \u003ccontainer id=\"cid12305001\" type=\"Box\" label=\"Text (31142046896455)\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1971-1973\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref3\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eTheses (G-Y)\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                    \u003ccontainer id=\"cid12305002\" type=\"Box\" label=\"Text (31142046896497)\"\u003e2\u003c/container\u003e\n                    \u003cunitdate normal=\"1973/1973\"\u003e1973\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref4\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eTheses\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                    \u003ccontainer id=\"cid12305003\" type=\"Box\" label=\"Text (31142046896505)\"\u003e3\u003c/container\u003e\n                    \u003cunitdate\u003e1974\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref5\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eTheses\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                    \u003ccontainer id=\"cid12305004\" type=\"Box\" label=\"Text (31142046896513)\"\u003e4\u003c/container\u003e\n                    \u003cunitdate\u003e1975\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref6\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eTheses (A-E)\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                    \u003ccontainer id=\"cid12305005\" type=\"Box\" label=\"Text (31142046896521)\"\u003e5\u003c/container\u003e\n                    \u003cunitdate\u003e1976-1977\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref7\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eTheses (A-B)\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                    \u003ccontainer id=\"cid12305006\" type=\"Box\" label=\"Text (31142046896539)\"\u003e6\u003c/container\u003e\n                    \u003cunitdate\u003e1977-1978\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref8\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eTheses (C-Y)\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                    \u003ccontainer id=\"cid12305007\" type=\"Box\" label=\"Text (31142046896570)\"\u003e7\u003c/container\u003e\n                    \u003cunitdate\u003e1978\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref9\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eTheses (A-G)\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                    \u003ccontainer id=\"cid12305008\" type=\"Box\" label=\"Text (31142046896588)\"\u003e8\u003c/container\u003e\n                    \u003cunitdate\u003e1979\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref10\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eTheses (K-Z)\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                    \u003ccontainer id=\"cid12305009\" type=\"Box\" label=\"Text (31142046896596)\"\u003e9\u003c/container\u003e\n                    \u003cunitdate\u003e1979\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref11\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eTheses\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                    \u003ccontainer id=\"cid12305010\" type=\"Box\" label=\"Text (31142046896604)\"\u003e10\u003c/container\u003e\n                    \u003cunitdate\u003eUndated\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

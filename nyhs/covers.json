@@ -1,0 +1,130 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "covers"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Decorative Envelopes (Philatelic Covers) Collection\u003clb/\u003e1861-1989\u003clb/\u003e \u003cnum\u003ePR 301\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Susan Kriete (2013); Larry Weimer (2018)"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-12-17T21:51:38\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "New-York Historical Society collection of decorative envelopes (philatelic covers)"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "1861-1989"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.21 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 half-hollinger box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "This is a small collection compiled by New-York Historical Society of philatelic covers and stamps, issued to commemorate historical events and document postal and flight history.  The collection also includes envelopes with early advertisements for businesses, products, and professionals and professional associations and with other views."
+                },
+                "unitid": {
+                    "value": "PR 301"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_3e07f3459081b0031899af1b5dc06cd3",
+            "head": "Access restrictions",
+            "p": {
+                "value": "Available by advance appointment only.  To schedule an appointment, contact the Print Room Librarian at printroom@nyhistory.org.  \nPhotocopying undertaken by staff only. Limited to twenty exposures of stable, unbound material per day. (Researchers may not accrue unused copy amounts from previous days.)"
+            }
+        },
+        "prefercite": {
+            "id": "aspace_6dce2b4d5e0af670c0f95907d87b7ed9",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "This collection should be cited as: Decorative Envelopes (Philatelic Covers) Collection, PR 301, Department of Prints, Photographs, and Architectural Collections, The New-York Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_b8d977f6d92161f5d97cf76a1427a122",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "The collection is comprised of various donations: Gift of Pam Schafler, 2009; Gift of Leo Shear, 2010; Gift of Leslie Eimer Medeiros, 2018."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_af294ce7e84d2c753c9ce629d1c3a5fc",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Five envelopes with New York City views."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Stamp collecting -- United States"
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref2_py9\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAdvertising covers\u003c/unittitle\u003e\u003cunitdate\u003e1892-1932, undated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9b26daf2d76b79937149378005769a68\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_9b26daf2d76b79937149378005769a68\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref1_vl3\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFirst day and cacheted covers\u003c/unittitle\u003e\u003cunitdate\u003e1929-1989\u003c/unitdate\u003e\u003ccontainer id=\"aspace_286e5ec7a731b3d819203c006a90df8e\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_286e5ec7a731b3d819203c006a90df8e\" type=\"Folder\"\u003e2, 2A\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref3_66t\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFirst flight covers\u003c/unittitle\u003e\u003cunitdate\u003e1925-1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_42c31485945111266a126dfd359ce5b4\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_42c31485945111266a126dfd359ce5b4\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref4_8pm\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTax-stamps and other early stamps\u003c/unittitle\u003e\u003cunitdate\u003e1860's-1919\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2a0700454683304e20909650b0ce14f9\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2a0700454683304e20909650b0ce14f9\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref5_dz8\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCase for covers\u003c/unittitle\u003e\u003ccontainer id=\"aspace_1bf9936d9ce70f87724feb0c9f2a2fc7\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1bf9936d9ce70f87724feb0c9f2a2fc7\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_94f2b68444e7ee7c6939011f1362a162\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNew York City views\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003ecirca 1940s-1950s\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1dda6eaa512cc1be2668608b39d062e3\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1dda6eaa512cc1be2668608b39d062e3\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_57717213a51ad4b2a7859fb8f3db4f0b\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003e5 envelopes, stamped \"via air mail\", printed by Cepero Post Envelope Co. Photographic views are of City Hall (2 copies), Brooklyn Bridge and lower Manhattan skyline, Statue of Liberty, and United Nations and uptown Manhattan from across East River.\u003c/p\u003e\u003c/scopecontent\u003e\u003cacqinfo id=\"aspace_5b9b97721ab8ec6676921d5c5a6c9fd4\"\u003e\u003chead\u003eImmediate Source of Acquisition\u003c/head\u003e\u003cp\u003eGift of Leslie Eimer Medeiros, 2018.\u003c/p\u003e\u003c/acqinfo\u003e\u003c/c\u003e"
+        }
+    }
+}

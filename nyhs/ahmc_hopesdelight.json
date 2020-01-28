@@ -1,0 +1,92 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "ahmc_hopesdelight"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Hopes Delight (Brig) Log book \u003clb/\u003e  1825  \u003clb/\u003e \u003cnum\u003eAHMC - Hopes Delight (Brig)\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Marybeth Kavanagh"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-07-31T19:42:26\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Chase, Jonathan"
+                    }
+                },
+                "unittitle": {
+                    "value": "Hopes Delight (Brig) log book"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "1825"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Volumes"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Logbook of the brig Hopes Delight kept by Jonathan Chase on two voyages: New York to St. Croix and back (April-May 1825); and New York to Madeira to Oporto and back to New York (June-November 1825). Most entries pertain to the weather and routine shipkeeping. The last few entries reveal that upon arrival back in New York from Oporto, the mate and crew deserted the ship, leaving Chase alone to get the cargo unloaded and decks cleaned.\nTo request this item for research, and for fuller details about it, please read its catalog record in Bobcat, or write to  manuscripts@nyhistory.org."
+                },
+                "unitid": {
+                    "value": "AHMC - Hopes Delight (Brig)"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "dsc": {}
+    }
+}

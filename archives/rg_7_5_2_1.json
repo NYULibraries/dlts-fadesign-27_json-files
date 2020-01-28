@@ -1,0 +1,149 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "rg_7_5_2_1"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Records of the Black Alumni Network \u003cnum\u003eRG.7.5.2.1\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Stacey Flatt"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-08-08T18:37:17\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Mclaughlin, Jamila"
+                    }
+                },
+                "unittitle": {
+                    "value": "Records of the Black Alumni Network"
+                },
+                "unitdate": {
+                    "normal": "2012/2017",
+                    "type": "inclusive",
+                    "value": "2012, 2017"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": ".25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 folder in shared housing"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Records of the Black Alumni Network contain promotional material for the NYU Black Alumni Network's 2017 \"Discovering our Legacy\" programs, informational fliers, and a 2012 Milestones of Diversity publication."
+                },
+                "unitid": {
+                    "value": "RG.7.5.2.1"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_3b96b77c52301b69ae6d760aae650446",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_ff61ed761cbb634799c2aa90aff0f173",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Records of the Black Alumni Network; RG 7.5.2.1; box number; folder number; New York University Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_1f742582672f5d191516ec160efbf1a0",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Jamila Mclaughlin, November 2017. The accession number associated with this gift is 2019.072."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_59e14aed113a7285e9323ccca1bad7cd",
+            "head": "Historical Note",
+            "p": {
+                "value": "The NYU Black Alumni Network seeks to empower, connect, and celebrate the Black Community within the greater New York University network. The Black Alumni Network unites alumni and students of the NYU community in collaboration with the NYU Alumni Relations by establishing relationships, connections, and opportunities to alumni of the African diaspora."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_5853bac561a4e4cfb079e419a43abd26",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "These records contain promotional material for the Black Alumni Network's 2017 Discovering our Legacy programs, informational fliers, and a 2012 Milestones of Diversity publication."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Universities and Colleges -- Alumni and alumnae."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "New York University. Students"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_3ca14aeff4ba8567dc6961c0c07a2519\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFliers and Publications\u003c/unittitle\u003e\u003cunitdate normal=\"2012/2017\" type=\"inclusive\"\u003e2012, 2017\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_fc8c64f49d6e50a92b24b5a6c8ae7dc3\" label=\"Mixed Materials [31142062909927]\" type=\"Box\"\u003eShared University Archives 051\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

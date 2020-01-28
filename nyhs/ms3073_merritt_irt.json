@@ -1,0 +1,92 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "ms3073_merritt_irt"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Interborough Rapid Transit Company Superintendent's Journals\u003clb/\u003e1909, 1915–1916\u003clb/\u003e \u003cnum\u003eBV Merritt, Abraham Lincoln\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Joseph Ditta"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-11-30T14:07:25\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Merritt, Abraham Lincoln, 1860–1950"
+                    }
+                },
+                "unittitle": {
+                    "value": "Interborough Rapid Transit Company superintendent's journals"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "1909, 1915–1916"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "3 Volumes"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Journals kept 1909, 1915, and 1916 by Abraham Lincoln Merritt as superintendent of the Interborough Rapid Transit Company (I.R.T.), the original private operator of the New York City subway system. Merritt became superintendent of the I.R.T. in 1904, shortly before the opening of the company's original underground line on 27 October, and held that position until his retirement in 1940. To request this item for research, and for fuller details about it, please read its \u003cextref actuate=\"onRequest\" href=\"http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph006410936\u0026amp;context=L\u0026amp;vid=NYHS\u0026amp;search_scope=nyhs\u0026amp;tab=nyhs\u0026amp;lang=en_US\"\u003ecatalog record\u003c/extref\u003e, or write to manuscripts@nyhistory.org."
+                },
+                "unitid": {
+                    "value": "BV Merritt, Abraham Lincoln"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "dsc": {}
+    }
+}

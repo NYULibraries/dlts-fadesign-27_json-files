@@ -1,0 +1,155 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_454"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Sidney and Clara Solomon Papers \u003cnum\u003eTAM 454\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-06-07T20:03:24\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Sidney and Clara Solomon Papers"
+                },
+                "unitdate": {
+                    "normal": "1920/1949",
+                    "type": "inclusive",
+                    "value": "1920s-1940s"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "1 manuscript box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "This collection contains the papers of Sidney and Clara Solomon. Sidney and Clara Solomon were both New York anarchists and were members of the Vanguard Group in the 1930s and the New Trends Group in the 1940s. This collection most notably contains many letters from Emma Goldman and some other correspondence from John Dewey. The collection also contains some materials, including minutes, from the Vanguard Group and some flyers pertaining to leftist causes like Spanish labor and relief in the 1930s. The materials span from the 1920s to the 1940s."
+                },
+                "unitid": {
+                    "value": "TAM 454"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_18d1d4cb89c3d72f789f08d060904e38",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_be1fe44ac1282e2edb7083d4f67e9106",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_adf36b3a752ab373d4329f8df2b8ff6f",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Sidney and Clara Solomon Papers; TAM 454; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_b92795b2f90d80b13f051307539e9c92",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials found in collection; provenance is unknown. The accession numbers associated with this collection are 1996.004 and 2006.061."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_89b42a3f3c630675d7b168cc86b93488",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Sidney and Clara Solomon were both New York anarchists and were members of the Vanguard Group in the 1930s and the New Trends Group in the 1940s. The Vanguard Group was a New York anarcho-communist group, which published a magazine called Vanguard and dissipated during World War II."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_ea740c8aec7f15b61873179f6071eef7",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection most notably contains many letters from Emma Goldman and some other correspondence from John Dewey. The collection also contains some materials, including minutes, from the Vanguard Group and some flyers pertaining to leftist causes like Spanish labor and relief in the 1930s. The materials span from the 1920s to the 1940s."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Jewish anarchists |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Anarchism -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Spain -- History -- Civil War, 1936-1939."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Anarchism |z Spain."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "New Trends Group (U.S.)"
+            }
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,180 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_2007_005_swezey"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Kenneth M. Swezey papers\n                    \u003cnum\u003e2007.005\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "November 4, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-22T13:51-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Swezey, Kenneth M."
+                    }
+                },
+                "unittitle": {
+                    "value": "Kenneth M. Swezey papers"
+                },
+                "unitdate": {
+                    "normal": "1891/1982",
+                    "type": "inclusive",
+                    "value": "1891-1982"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "32.0 Linear feet"
+                        },
+                        {
+                            "value": "in 24 record cartons, five custom boxes, two oversize tube containers, and loose materials."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "2007.005"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1109032",
+                    "label": "Mixed materials",
+                    "type": "Carton",
+                    "value": "2007.005 22 of 32"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref8",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Kenneth M. Swezey papers, 2007.005, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref7",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Robert MacCrate, 2007."
+            }
+        },
+        "bioghist": {
+            "id": "ref5",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Kenneth M. Swezey (1905-1972) was a science and engineering writer from the neighborhood of Greenpoint in Brooklyn, N.Y. He also worked for a time with the pioneering Serbian inventor and electrical engineer Nikola Tesla (1856-1943), and wrote several pieces about Tesla and his work."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The Kenneth M. Swezey papers include Swezey's personal papers, correspondence, published and unpublished writings, printed materials, books, photographs, slides, and travel artifacts. In addition to Swezey, the collection relates to Swezey's childhood and lifelong friend, Robert MacCrate, a New York City lawyer, and the Serbian inventor Nikola Tesla, with whom Swezey worked for a time."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcgft",
+                    "value": "Electrical engineers |z United States"
+                },
+                {
+                    "source": "lcgft",
+                    "value": "Electricity"
+                },
+                {
+                    "source": "lcgft",
+                    "value": "Engineering"
+                },
+                {
+                    "source": "lcgft",
+                    "value": "Inventors |z United States"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Lawyers |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcgft",
+                    "value": "Radio"
+                },
+                {
+                    "source": "lcgft",
+                    "value": "Science"
+                },
+                {
+                    "source": "lcgft",
+                    "value": "Science writers |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Voyages and travels"
+                },
+                {
+                    "source": "lcgft",
+                    "value": "Wireless communication systems"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

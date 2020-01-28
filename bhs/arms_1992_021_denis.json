@@ -1,0 +1,192 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1992_021_denis"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Antonia Denis collection\n                    \u003cnum\u003e1992.021\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "September 2, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-22T10:29-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Denis, Antonia"
+                    }
+                },
+                "unittitle": {
+                    "value": "Antonia Denis collection"
+                },
+                "unitdate": {
+                    "normal": "1948/1983",
+                    "type": "inclusive",
+                    "value": "1948-1983"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.0 Linear feet"
+                        },
+                        {
+                            "value": "in one oversize box."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "1992.021"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "spa"
+                    }
+                },
+                "container": {
+                    "id": "cid1008001",
+                    "label": "Text",
+                    "type": "Oversize",
+                    "value": "1992.021 1 of 1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref7",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Antonia Denis collection, 1992.021, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Sara Ramirez, date unknown. Formally accessioned in 1992."
+            }
+        },
+        "bioghist": {
+            "id": "ref4",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Antonia Denis, a social and political activist, arrived in Brooklyn, N.Y. from Baja Vega, Puerto Rico during World War I. She soon became a major figure in several Brooklyn-based organizations, including La Casa de Puerto Rico, the Puerto Rican Pioneers Parade, and the Betances Democratic Club. These organizations advocated for political and social equality, celebrated Puerto Rican history and culture, and administered anti-poverty, cultural, and educational programs for Brooklyn's Puerto Rican community."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The Antonia Denis collection spans the period 1948 to 1983 and consists of correspondence, administrative documents, financial records, photocopied newspaper articles, calling cards, certificates, newsletters, pamphlets, and other ephemera relating to Denis's work with the cultural organizations La Casa de Puerto Rico and the Puerto Rican Pioneers Parade, as well as her political activism and work with the Betances Democratic Club and other organizations. A small amount of papers pertaining to Denis's personal life are also included. Several newspaper articles, while not relating directly to Denis, contain information on the general political, social, and cultural affairs of Brooklyn and New York City's Latino community. Over half the materials in the collection are written in Spanish, while the remaining items are in English."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcgft",
+                    "value": "Community activists |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Education |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Housing |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcgft",
+                    "value": "Puerto Rican women |x Political activity |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcgft",
+                    "value": "Puerto Ricans |x Education |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcgft",
+                    "value": "Puerto Ricans |x Housing |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcgft",
+                    "value": "Puerto Ricans |z New York (State) |z Kings County |x Economic conditions"
+                },
+                {
+                    "source": "lcgft",
+                    "value": "Puerto Ricans |z New York (State) |z Kings County |x Ethnic identity"
+                },
+                {
+                    "source": "lcgft",
+                    "value": "Puerto Ricans |z New York (State) |z Kings County |x Intellectual life"
+                },
+                {
+                    "source": "lcgft",
+                    "value": "Puerto Ricans |z New York (State) |z Kings County |x Politics and government"
+                },
+                {
+                    "source": "lcgft",
+                    "value": "Puerto Ricans |z New York (State) |z Kings County |x Social conditions"
+                },
+                {
+                    "source": "lcgft",
+                    "value": "Puerto Ricans |z New York (State) |z Kings County |x Social life and customs"
+                },
+                {
+                    "source": "lcgft",
+                    "value": "Puerto Ricans |z New York (State) |z Kings County |x Societies, etc."
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

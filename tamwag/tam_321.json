@@ -1,0 +1,179 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_321"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Asian American Legal Defense and Education Fund Records \u003cnum\u003eTAM 321\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-16T15:15:05\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Fung, Margaret"
+                    }
+                },
+                "unittitle": {
+                    "value": "Asian American Legal Defense and Education Fund Records"
+                },
+                "unitdate": {
+                    "normal": "1980/2000",
+                    "type": "bulk",
+                    "value": "1980-2000"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "26 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(26 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Founded in 1974, the Asian American Legal Defense and Education Fund (AALDEF) is a national organization that protects and promotes the civil rights of Asian Americans. By combining litigation, advocacy, education, and organizing, AALDEF works with Asian American communities across the country to secure human rights for all. The AALDEF focuses on critical issues affecting Asian Americans, including immigrant rights, civic participation and voting rights, economic justice for workers, language access to services, Census policy, affirmative action, youth rights and educational equity, housing and environmental justice, and the elimination of anti-Asian violence, police misconduct, and human trafficking. The Asian American Legal Defense Fund Records principally contains legal case files (many are closed), principally labor law cases, most involving restaurant and garment industry workers, but also including immigration cases. There are also labbor-related arbitration files, and subject files on the Chinatown Labor Fair, and on immigration, labor, and housing. "
+                },
+                "unitid": {
+                    "value": "TAM 321"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_86ddf7e56798b77f84c01c192c12c415",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_314c28b1089f5a56d47479d9371b7527",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by the Asian American Legal Defense and Education Fund in 2003; additional materials were found in the repository in 2014. The accession numbers associated with this collection are 2003.012 and 2014.035."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_50da781727440339c80f7a0049580f50",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "AALDEF engages in the following activities: litigates cases that have major impact on the Asian American community; provides legal resources for community-based organizations and facilitates grassroots community organizing efforts; conducts free, multilingual legal advice clinics for low-income Asian Americans and new immigrants; educates Asian Americans about their legal rights; comments on proposed legislation and governmental policies; and trains students in public interest law and encourages them to use their legal skills to serve the community."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_4edef8f4a1b95aa42a9ece8cf4f58f10",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The Asian American Legal Defense Fund Records principally contains legal case files (many are closed), principally labor law cases, most involving restaurant and garment industry workers, but also including immigration cases. There are also labbor-related arbitration files, and subject files on the Chinatown Labor Fair, and on immigration, labor, and housing."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Immigrants -- United States -- Civil rights."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Asian Americans -- Legal status, laws, etc."
+                },
+                {
+                    "source": "local",
+                    "value": "Asian American labor union members."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Clothing workers |x Labor unions |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Clothing trade |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Hospitality industry |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Asian Americans -- Civil rights."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Discrimination in employment |x Law and legislation |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Hospitality industry |x Employees |x Labor unions |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Asian Americans -- New York (State) -- New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Discrimination in employment |z New York (State) |z New York."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Asian American Legal Defense and Education Fund"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref11\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eChan, et al v. City of New York, The Department of Housing Preservation and Development of the City of New York and Chinese-American Planning Council, Inc. (Unprocessed)\u003c/unittitle\u003e\u003cunitdate normal=\"1990/1994\" type=\"inclusive\"\u003e1990-1994\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_249cc0f6ce93811b4d93c02dfe83f5ef\" label=\"Mixed Materials [31142063409901]\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref12\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eChan, et al v. City of New York, The Department of Housing Preservation and Development of the City of New York and Chinese-American Planning Council, Inc. (Unprocessed)\u003c/unittitle\u003e\u003cunitdate normal=\"1990/1994\" type=\"inclusive\"\u003e1990-1994\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_09ea375d69f0b41006c1ab129b2281fe\" label=\"Mixed Materials [31142063409935]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref13\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLin Plaintiffs vs. East River Chinese Restaurant \u003c/unittitle\u003e\u003cunitdate normal=\"1995/2000\" type=\"inclusive\"\u003e1995-2000\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_769be1a4c5660d9b3adfa5051a8cc40a\" label=\"Mixed Materials [31142063409919]\" type=\"Box\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eChung, et al v. New Silver Palace Restaurant, et al. (Unprocessed)\u003c/unittitle\u003e\u003cunitdate normal=\"2002/2002\" type=\"inclusive\"\u003e2002\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_94dc8cc1fe3dfc455c2cdd3aa062c606\" label=\"Mixed Materials [31142063409943]\" type=\"Box\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eChung, et al v. New Silver Palace Restaurant, et al. (Unprocessed)\u003c/unittitle\u003e\u003cunitdate normal=\"2000/2001\" type=\"inclusive\"\u003e2000-2001\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_d137cd82c2c01eb4e29ef1f937ada4a7\" label=\"Mixed Materials [31142063409927]\" type=\"Box\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eChung, et al v. New Silver Palace Restaurant, et al. (Unprocessed)\u003c/unittitle\u003e\u003cunitdate normal=\"2002/2002\" type=\"inclusive\"\u003e2002\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_58d6d8980b588671f5707a9e482cf086\" label=\"Mixed Materials [31142063409968]\" type=\"Box\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eChung, et al v. New Silver Palace Restaurant, et al. (Unprocessed)\u003c/unittitle\u003e\u003cunitdate normal=\"1995/2003\" type=\"inclusive\"\u003e1995, 2001-2003\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_9c1878ab221eb17adfb22d65727e7eca\" label=\"Mixed Materials [31142063410032]\" type=\"Box\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Golden Venture\" Immigration Case \u003c/unittitle\u003e\u003cunitdate normal=\"1993/1997\" type=\"inclusive\"\u003e1993-1997\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_ca031026a18ae79a5365b2320eafb24a\" label=\"Mixed Materials [31142063409869]\" type=\"Box\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Golden Venture\" Immigration Case \u003c/unittitle\u003e\u003cunitdate normal=\"1993/1997\" type=\"inclusive\"\u003e1993-1997\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_30a6fb0e8c2d6eed8729c3b095a9bc7a\" label=\"Mixed Materials [31142063409885]\" type=\"Box\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Golden Venture\" Immigration Case \u003c/unittitle\u003e\u003cunitdate normal=\"1993/1993\" type=\"inclusive\"\u003e1993\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_f7efbafe0eea223190e6455cd369ccf9\" label=\"Mixed Materials [31142063409877]\" type=\"Box\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Golden Venture\" Immigration Case \u003c/unittitle\u003e\u003cunitdate normal=\"1993/1993\" type=\"inclusive\"\u003e1993\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_6fce1e0f49212c9679538b7f890df2c6\" label=\"Mixed Materials [31142063409976]\" type=\"Box\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Golden Venture\" Immigration Case (Unprocessed)\u003c/unittitle\u003e\u003cunitdate normal=\"1994/1995\" type=\"inclusive\"\u003e1994-1995\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_bc96baeea30c667039a739f3261012ef\" label=\"Mixed Materials [31142063409893]\" type=\"Box\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eHotel, Restaurant and Club Employees and Bartenders Union, Local 6 (Hawaii Kai Restaurant) Arbitration (Unprocessed)\n\u003c/unittitle\u003e\u003cunitdate normal=\"1982/1983\" type=\"inclusive\"\u003e1982-1983\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_c0e6ebfb54c278eb6c12604ecaa62426\" label=\"Mixed Materials [31142063410024]\" type=\"Box\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eChan, et al v. Jing Fong Restaurant \u003c/unittitle\u003e\u003cunitdate normal=\"1985/2005\" type=\"inclusive\"\u003e1985-2005\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_3b1597759229b19298b1678d87bd2f2e\" label=\"Mixed Materials [31142063409984]\" type=\"Box\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eChan, et al v. Jing Fong Restaurant \u003c/unittitle\u003e\u003cunitdate normal=\"1996/1999\" type=\"inclusive\"\u003e1996-1999\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_501ca4de31eeca9052eabe29d8df5dcb\" label=\"Mixed Materials [31142063410057]\" type=\"Box\"\u003e15\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref26\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eHealth Personnel Resources, Inc v. Casillan, et al. \u003c/unittitle\u003e\u003cunitdate normal=\"1970/1987\" type=\"inclusive\"\u003e1970-1987\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_b3e9f9c69441a25e4ee1606808001d97\" label=\"Mixed Materials [31142063410040]\" type=\"Box\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTsang et al v. Jenna Lane, Inc., Zeke-N-Zoe LLC and Tradition Knits, Inc., et al (Unprocessed)\u003c/unittitle\u003e\u003cunitdate normal=\"2000/2003\" type=\"inclusive\"\u003e2000-2003\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_5d842e74d7c9d79bd19028251299e8ab\" label=\"Mixed Materials [31142063410065]\" type=\"Box\"\u003e17\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref28\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTsang, et al v. Jenna Lane, Inc., Zeke-N-Zoe LLC and Tradition Knits, Inc., et al (Unprocessed)\u003c/unittitle\u003e\u003cunitdate normal=\"1998/2001\" type=\"inclusive\"\u003e1998-2001\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_c7a99fc347d15353203159fec6671f9a\" label=\"Mixed Materials [31142063410081]\" type=\"Box\"\u003e18\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref29\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eZhao, et al v. Tracy Evans, Inc. (Unprocessed)\u003c/unittitle\u003e\u003cunitdate normal=\"1998/1999\" type=\"inclusive\"\u003e1998-1999\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_81235bc12826ac437d8159176ce42c29\" label=\"Mixed Materials [31142063410073]\" type=\"Box\"\u003e19\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref30\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eZhao, et al v. Tracy Evans, Inc. (Unprocessed)\u003c/unittitle\u003e\u003cunitdate normal=\"1998/1999\" type=\"inclusive\"\u003e1998-1999\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_49b78493a133517c28cb60a249cd981e\" label=\"Mixed Materials [31142063410016]\" type=\"Box\"\u003e20\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref31\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eWorkers Compensation Cases: Choudhury, Dumpangol, Perfetto\u003c/unittitle\u003e\u003cunitdate normal=\"1999/2002\" type=\"inclusive\"\u003e1999-2002\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_1d686ce3035528fe74a612c7f9310412\" label=\"Mixed Materials [31142063409992]\" type=\"Box\"\u003e21\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref34\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAhmed v. Hoque \nSulehria v. Coney Island Hospital \nINS Cases \nEquality Foundation v. Cinncinati  (Unprocessed)\nHughes v. Shalala (Unprocessed)\nRomer v. Evans (Unprocessed)\nUS v. Yvonne Melendez-Carrion (Unprocessed)\nBoston Firefighters Case (Unprocessed)\u003c/unittitle\u003e\u003cunitdate normal=\"1993/2002\" type=\"inclusive\"\u003e1993-2002\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_d602f8080531cd8d7736245a84609b85\" label=\"Mixed Materials [31142063410099]\" type=\"Box\"\u003e22\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref35\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAffirmative Action Cases: Bakke, De Funis (Unprocessed)\nPeter M. Lin v. (Foley Square Construction Worker EEOC Case) (Unprocessed)\u003c/unittitle\u003e\u003cunitdate normal=\"1973/1993\" type=\"inclusive\"\u003e1973-1993\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_55624dd2f527837f2c7afc6c5522689a\" label=\"Mixed Materials [31142063410107]\" type=\"Box\"\u003e23\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref36\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eWu, et al v. Henry Mui, et al (Unprocessed)\nDewey Wong Restaurant Arbitration (Unprocessed)\nShinwa Restaurant Arbitration (Unprocessed)\nHouse of Chan Arbitration (Unprocessed)\u003c/unittitle\u003e\u003cunitdate normal=\"1980/1998\" type=\"inclusive\"\u003e1980-1998\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_104be6bc18b50c3feda6369d941fbaa6\" label=\"Mixed Materials [31142063409950]\" type=\"Box\"\u003e24\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref37\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eChinatown Labor Fair\u003c/unittitle\u003e\u003cunitdate normal=\"1987/1992\" type=\"inclusive\"\u003e1987-1992\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_3fe555df765913c6b65683dca949d085\" label=\"Mixed Materials [31142063410008]\" type=\"Box\"\u003e25\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref38\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSubject Files: Immigration, Labor, Housing\u003c/unittitle\u003e\u003cunitdate normal=\"1978/2001\" type=\"inclusive\"\u003e1978-2001\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_5693b4dab30098b5f3065d0e66482932\" label=\"Mixed Materials [31142063410115]\" type=\"Box\"\u003e26\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref39\" level=\"otherlevel\" otherlevel=\"website\"\u003e\u003cdid\u003e\u003cunittitle\u003eArchived Website\u003c/unittitle\u003e\u003cunitdate\u003eSep 29, 2007-ongoing\u003c/unitdate\u003e\u003c/did\u003e\u003cdao ns2:actuate=\"onLoad\" ns2:href=\"https://wayback.archive-it.org/6351/*/http://aaldef.org/\" ns2:role=\"translation missing: en.enumerations.file_version_use_statement.service\" ns2:show=\"new\" ns2:title=\"Asian American Legal Defense Fund Archived Website\" ns2:type=\"simple\"\u003e\u003cdaodesc\u003e\u003cp\u003eAsian American Legal Defense Fund Archived Website: Sep 29, 2007-ongoing\u003c/p\u003e\u003c/daodesc\u003e\u003c/dao\u003e\u003cscopecontent id=\"aspace_9306571e3bc10ec9f4c1e91dd60724e5\"\u003e\u003chead\u003eScope and Content Note\u003c/head\u003e\u003cp\u003eFounded in 1974, the Asian American Legal Defense and Education Fund (AALDEF) is a national organization that protects and promotes the civil rights of Asian Americans. By combining litigation, advocacy, education, and organizing, AALDEF works with Asian American communities across the country to secure human rights for all.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e"
+        }
+    }
+}

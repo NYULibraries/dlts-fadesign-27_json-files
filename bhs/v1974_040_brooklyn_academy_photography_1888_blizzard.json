@@ -1,0 +1,163 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "v1974_040_brooklyn_academy_photography_1888_blizzard"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Brooklyn Academy of Photography Blizzard of 1888 photograph album\n                    \u003cnum\u003eV1974.040\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Weatherly Stephan"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "May 27, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-28T12:06-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Brooklyn Academy of Photography Blizzard of 1888 photograph album"
+                },
+                "unitdate": {
+                    "normal": "1888/1888",
+                    "value": "1888"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.2 Linear feet"
+                        },
+                        {
+                            "value": "in one manuscript box."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "V1974.040"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid810001",
+                    "label": "Graphic materials",
+                    "type": "Box",
+                    "value": "Prints by Accession 41"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref3",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Due to the album's fragile condition, users should consult digital versions of images in the collection through the library's image database."
+            }
+        },
+        "prefercite": {
+            "id": "ref7",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Brooklyn Academy of Photography Blizzard of 1888 photograph album, V1974.040, Box number, Object ID number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref6",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Source and date of acquisition for this collection are unknown."
+            }
+        },
+        "bioghist": {
+            "id": "ref2",
+            "head": "Historical note",
+            "p": {
+                "value": "The Brooklyn Academy of Photography was founded in 1887 and headquartered on Montague Street in Brooklyn Heights. In 1891, the academy merged with the Brooklyn Photographic Society, and the organization was re-named the Brooklyn Camera Club in 1896. The Brooklyn Camera Club is still active as of 2011."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "All photographs in the album were taken by members of the Brooklyn Academy of Photography, though no individual photographers are identified. Some photographs in this collection are possibly the work of academy member Adrian Vanderveer Martense, as similar or identical images of the blizzard are also found in the Adrian Vanderveer Martense collection (ARC.191)."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Blizzards |z Atlantic States"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Church buildings |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Local transit |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Row houses |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Snow removal |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Street photography |z New York (State) |z Kings County"
+                }
+            ]
+        },
+        "otherfindaid": {
+            "id": "ref5",
+            "head": "Other Finding Aids note"
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,161 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "2017_009"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Crescendo Club scrapbook \u003cnum\u003e2017.009\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Maggie Schreiner"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "Brooklyn Historical Society",
+                        "128 Pierrepont Street",
+                        "Brooklyn 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-12-03T19:22:12\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Fee, Frank E."
+                    }
+                },
+                "unittitle": {
+                    "value": "Crescendo Club scrapbook"
+                },
+                "unitdate": {
+                    "normal": "1929/1934",
+                    "type": "inclusive",
+                    "value": "1929-1934"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in two folders"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Crescendo Club was a women's glee club formed by Avrid Samuelson in 1928. The club included many Swedish-American members, and performed at a number of Swedish churches throughout Brooklyn. This collection consists of one scrapbook about the Crescendo Club, including concert announcements, programs, the organization's consitution, and newspaper clippings documenting the perfromance season of the club."
+                },
+                "unitid": {
+                    "value": "2017.009"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_cd9fc2a3d2f3570261154dd938f3f63a",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "A0143"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_4598f989310809421809f579a7b96462",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open for research without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_dc524538d80186ceed3ad9888f989538",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Crescendo Club scrapbook, 201.009, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_30292355a8572899aeffbc5f15360da2",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Doanted by Frank E. Fee Jr. in 2017."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_0017a02ae276868e7c1e47c31316ca0f",
+            "head": "Biographical / Historical",
+            "p": {
+                "value": "The Crescendo Club was a women's glee club formed by Avrid Samuelson in 1928. The club included many Swedish-American members, and performed at a number of Swedish churches throughout Brooklyn. This collection consists of one scrapbook about the Crescendo Club, which includes concert announcements, programs, the organization's consitution, and newspaper clippings documenting the perfromance season of the club."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_596aa76f4f0812697fa262fc70e7a2fc",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection consists of one scrapbook about the Crescendo Club, a women's glee club formed by Avrid Samuelson in 1928. This scrapbook was compiled by member Bertha Doris Fee and extensively annotated by club historians Gertrude E. Carlson and Myra L. Streeter. The scrapbook includes concert announcements, programs, the organization's consitution, and newspaper clippings documenting the perfromance season of the club. This collection also a small number of loose items, including additional performance programs and clippings, as well as a newsletter."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Women |x Societies and clubs"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Clubs |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Glee clubs |z New York State |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Swedish Americans |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Crescendo Club"
+            }
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "v1982_003_borough_hall_exhibit"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Borough Hall: Mirror of Change exhibit photograph collection\n                    \u003cnum\u003eV1982.003\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Weatherly Stephan"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "June 21, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-28T14:14-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Willensky, Elliot"
+                    }
+                },
+                "unittitle": {
+                    "value": "Borough Hall: Mirror of Change exhibit photograph collection"
+                },
+                "unitdate": {
+                    "normal": "1985/1989",
+                    "type": "inclusive",
+                    "value": "circa late 1980s"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.5 Linear feet"
+                        },
+                        {
+                            "value": "in two manuscript boxes."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "V1982.003"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid853003",
+                    "label": "Graphic materials",
+                    "type": "Box",
+                    "value": "Medium Format Negatives 11"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref5",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Borough Hall: Mirror of Change exhibit photograph collection, V1982.003, Box number, Object ID number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref6",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Elliot Willensky, 1982."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The Borough Hall: Mirror of Change exhibit photograph collection contains 47 items dated circa 1982. Images in the collection document artwork in the exhibit curated by Elliot Willensky, then Brooklyn Borough Historian, and held by the Brooklyn Borough President. The collection includes black-and-white prints, color negatives, color transparencies, and black-and-white transparencies. Exhibit items depicted include maps of Brooklyn, aerial views of Brooklyn, architectural drawings of Borough Hall, and various Brooklyn neighborhoods."
+            }
+        },
+        "controlaccess": {},
+        "otherfindaid": {
+            "id": "ref4",
+            "head": "Other Finding Aids note"
+        },
+        "dsc": {}
+    }
+}

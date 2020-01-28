@@ -1,0 +1,122 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "tam_233"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Yale Graduate Student Union Records\n                    \u003cnum\u003eTAM.233\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "12/28/2009"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T19:06-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Yale Graduate Student Union Records"
+                },
+                "unitdate": {
+                    "value": "ca. 1988-ca. 1992"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.75 linear feet"
+                        },
+                        {
+                            "value": "(2 boxes)"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "TAM.233"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid18985002",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1-2"
+                }
+            }
+        ],
+        "bioghist": {
+            "id": "ref2",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Yale University graduate students / graduate teaching assistants attempted to organize labor unions in the 1980s-1990s. The two key organizations were the Graduate Employees and Student Organization, and the Graduate Student Union."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The collection includes GESO Voice: newsletter of the Graduate Employees and Student Organizations, notes from meetings, findings from a graduate student employee survey, newspaper clippings, research re: other graduate student attempts to organize, statements from the Graduate Student Union and officials from Yale University and a timeline of teaching assistant solidarity at Yale. PLEASE DIRECT FURTHER INQUIRIES TO: tamiment.wagner@nyu.edu"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Graduate students |x Political activity |z Connecticut |z New Haven."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Graduate teaching assistants |x Labor unions |z Connecticut |z New Haven."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Yale University."
+            }
+        },
+        "dsc": {}
+    }
+}

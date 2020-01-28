@@ -1,0 +1,143 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "aia_034"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Marie Walsh Papers\n                    \u003cnum\u003eAIA.034\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Rebecca Altermatt"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archive"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "10/02/2009"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2014-06-13T11:06-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archive"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Walsh, Marie"
+                    }
+                },
+                "unittitle": {
+                    "value": "Marie Walsh Papers"
+                },
+                "unitdate": {
+                    "normal": "1915/1999",
+                    "type": "inclusive",
+                    "value": "1915-1999"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.5 linear feet"
+                        },
+                        {
+                            "value": "in 1 manuscript box"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The collection contains correspondence from Marie Walsh to editors of the \n                \u003cemph render=\"italic\"\u003eNew York Times\u003c/emph\u003e and members of Congress including Daniel Moynihan and Joseph Biden. Letters to the former discuss media coverage of activities of the IRA by the American press while those to Congress deal with Ms. Walsh's opposition to the Supplementary Extradition Treaty, eventually passed during the Reagan Administration. Other materials include an article authored by Ms. Walsh on the originations of Sinn Fein and proceedings from a conference held at Columbia University in 1994 on the MacBride Principles."
+                },
+                "unitid": {
+                    "value": "AIA.034"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref12",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open for research without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "ref16",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Marie Walsh Papers; AIA 034; box number; folder number; Archives of Irish America, Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "ref14",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Marie Walsh in 1999. The accession number associated with this gift is 1997.034."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The collection contains correspondence from Marie Walsh to editors of the \n                \u003cemph render=\"italic\"\u003eNew York Times\u003c/emph\u003e and members of Congress including Daniel Moynihan and Joseph Biden. Letters to the former discuss media coverage of activities of the IRA by the American press while those to Congress deal with Ms. Walsh's opposition to the Supplementary Extradition Treaty, eventually passed during the Reagan Administration. Other materials include an article authored by Ms. Walsh on the originations of Sinn Fein and proceedings from a conference held at Columbia University in 1994 on the MacBride Principles."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Discrimination in employment |z Northern Ireland."
+                },
+                {
+                    "source": "local",
+                    "value": "MacBride Principles."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Irish Republican Army."
+            }
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref4\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eArticles by\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18689003\" type=\"Box\" label=\"Mixed materials (31142054628451)\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18689003\" type=\"Folder\"\u003e1\u003c/container\u003e\n                    \u003cunitdate normal=\"1974/1981\" type=\"inclusive\"\u003e1974, 1981\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref5\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eAssociation of Catholic Trade Unionists (includes newsletter issues)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18689004\" type=\"Box\" label=\"Mixed materials (31142054628451)\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18689004\" type=\"Folder\"\u003e2\u003c/container\u003e\n                    \u003cunitdate normal=\"1969/1999\" type=\"inclusive\"\u003e1969-1970, 1999\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref3\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18689001\" type=\"Box\" label=\"Mixed materials (31142054628451)\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18689001\" type=\"Folder\"\u003e3\u003c/container\u003e\n                    \u003cunitdate normal=\"1971/1998\" type=\"inclusive\"\u003e1971-1998\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref6\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eGaelic League (Irish Language League; includes sheet music)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18689005\" type=\"Box\" label=\"Mixed materials (31142054628451)\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18689005\" type=\"Folder\"\u003e4\u003c/container\u003e\n                    \u003cunitdate normal=\"1915/1999\" type=\"inclusive\"\u003e1915, 1999\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref7\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eMacBride Principles Conference, Columbia University\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18689006\" type=\"Box\" label=\"Mixed materials (31142054628451)\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18689006\" type=\"Folder\"\u003e5\u003c/container\u003e\n                    \u003cunitdate normal=\"1994/1994\"\u003e1994\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref8\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e\"MacBride Principles Fair Employment Practices in Northern Ireland: A Status Report\" Comptroller of the City of New York.\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18689007\" type=\"Box\" label=\"Mixed materials (31142054628451)\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18689007\" type=\"Folder\"\u003e6\u003c/container\u003e\n                    \u003cunitdate normal=\"1993/1993\"\u003e1993\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

@@ -1,0 +1,149 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-F",
+            "value": "mss_469"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Koshland and Hertzmann Family Manuscript Cookbook Collection \u003cnum\u003eMSS.469\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Andrea Kutsenkow"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Fales Library and Special Collections"
+                },
+                "address": {
+                    "addressline": [
+                        "Fales Library and Special Collections",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "3rd Floor",
+                        "New York, NY 10012",
+                        "Phone: (212) 998-2596",
+                        "fales.library@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-07-05T19:04:12\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "file",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Fales Library and Special Collections"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Hertzmann, Elizabeth K."
+                    }
+                },
+                "unittitle": {
+                    "value": "Koshland and Hertzmann Family Manuscript Cookbook Collection"
+                },
+                "unitdate": {
+                    "normal": "1900/1978",
+                    "type": "inclusive",
+                    "value": "1900-1978"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.75 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 manuscript box and 1 small card box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Koshland and Hertzmann Family Manuscript Cookbook Collection contains materials created by Berta G. Koshland and her daughter Elizabeth K. Hertzmann, two women who were professionally trained in the art of German cooking. The collection, which dates between the early and mid-20th century, contains a box of loose recipes and four bound manuscript cookbooks, as well as an illustrated journal Hertzmann kept while attending high school."
+                },
+                "unitid": {
+                    "value": "MSS.469"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "ger"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_8227ea3645e0d1fb2acb651982e856c0",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_7fe172ed006e4ea813ef707cb64c7627",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Koshland and Hertzmann Family Manuscript Cookbook Collection; MSS 469; box number; folder number; Fales Library and Special Collections, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_935c3ac84fa7083daa38d3f2c613594a",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Peter Hertzmann in July 2016. The accession number associated with this gift is 2017.003."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_59237aff3f209f9fb7c54c83a3d37548",
+            "head": "Biographical / Historical",
+            "p": {
+                "value": "Berta Guggenheimer Koschland trained professionally at the one of Germany’s many cooking schools, the Münchner Kochschule (Munich Cooking School), as did her daughter, Elisabeth Regina Koschland. Upon arriving in the United States, Berta Guggenheimer Koschland went by the name Bertha G. Koshland, and her daughter, after marrying in 1939, became Elizabeth K. Hertzmann. Their personal cookbooks and loose recipes were eventually handed down to Peter Hertzmann, Elizabeth Hertzmann’s son."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_98f29d51d2bc48c5e6550b9864843862",
+            "head": "Content Description",
+            "p": {
+                "value": "The Koshland and Hertzmann Family Manuscript Cookbook Collection, which dates between the early and mid-20th century, contains four bound manuscript cookbooks with handwritten recipes, notes, and inserts by Elizabeth K. Hertzmann, her mother Berta G. Koschland, or in some cases, both women. One of the four books specifically relates to Koschland’s studies at the Münchner Kochschule between 1900 and 1905. In addition to the cookbooks, the collection also contains an early, illustrated journal kept by Hertzmann while in high school, as well as a box of loose recipes. This collection documents quotidian German cooking during this time period, and Germany’s influence on American cuisine."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Cooking. -- Germany -- 20th century"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Cooking, American"
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_f0389fe219e6d901d59297dec84ca2be\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eHertzmann, Elizabeth -- Gymnasium (High School) Illustrated Journal\u003c/unittitle\u003e\u003cunitdate normal=\"1927/1931\" type=\"inclusive\"\u003e1927-1931\u003c/unitdate\u003e\u003ccontainer id=\"aspace_bf86ccc6429abb4db52302e0aa6d91fd\" label=\"Mixed Materials (31142063162112)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_bf86ccc6429abb4db52302e0aa6d91fd\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_0d6dc4817a0c17ae2e8b3153c903f550\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eKoshland, Berta and Hertzmann, Elizabeth -- Manuscript Cookbook\u003c/unittitle\u003e\u003cunitdate normal=\"1962/1962\" type=\"inclusive\"\u003e1962, undated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5edc8bd02735add1a35a8183cbcaeae3\" label=\"Mixed Materials (31142063162112)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5edc8bd02735add1a35a8183cbcaeae3\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_d15c68f9f8a626e9ff654e77bf8fdbad\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eKoshland, Berta and Hertzmann, Elizabeth -- Manuscript Cookbook\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b98c366920fd89c46724bfc0fc47e05e\" label=\"Mixed Materials (31142063162112)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b98c366920fd89c46724bfc0fc47e05e\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_18a7537d5390447afabdca29205611ab\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRecipe Box\u003c/unittitle\u003e\u003cunitdate normal=\"1972/1972\" type=\"inclusive\"\u003e1972, undated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_68c9104311b8544ce283c0ccc16197d9\" label=\"Mixed Materials (31142063162104)\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

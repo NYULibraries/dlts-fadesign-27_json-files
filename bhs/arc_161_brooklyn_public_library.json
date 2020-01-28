@@ -1,0 +1,164 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arc_161_brooklyn_public_library"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Brooklyn Public Library publications\n                    \u003cnum\u003eARC.161\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Patricia Glowinski"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "December 20, 2010."
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-28T10:34-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Brooklyn Public Library publications"
+                },
+                "unitdate": {
+                    "normal": "1898/1965",
+                    "type": "inclusive",
+                    "value": "1898-1965"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "2.71 Linear feet"
+                        },
+                        {
+                            "value": "in six and one half manuscript boxes."
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The Brooklyn Public Library (BPL) publications span the years 1898 to 1965 and are housed in six and one half manuscript boxes. Materials represented in the collection include annual reports; bulletins; newsletters; book lists (bibliographies); and miscellaneous programs, publications, and ephemera. The formation of the Brooklyn Public Library (BPL) system was approved by the New York State legislature in 1892 and was officially organized in 1897. As of 2010, the BPL system consisted of 60 locations including the Central Library, the Business Library, and 58 branch libraries located throughout Brooklyn."
+                },
+                "unitid": {
+                    "value": "ARC.161"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid615001",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "ARC.161 Box 6 of 7"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref2",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref5",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Brooklyn Public Library publications, ARC.161, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Source and date of acquisition for this collection are unknown."
+            }
+        },
+        "bioghist": {
+            "id": "ref1",
+            "head": "Historical note",
+            "p": {
+                "value": "As of 2010, the BPL system consisted of 60 locations including the Central Library, the Business Library (located on the border of the Brooklyn Heights and Downtown Brooklyn neighborhoods), and 58 branch libraries located throughout Brooklyn (18 of which are Carnegie libraries). The BPL system also ranked as the fifth largest library system in the United States, with the Central Library seeing over one million visitors at its Grand Army Plaza location on the northern edge of Prospect Park."
+            }
+        },
+        "scopecontent": {
+            "id": "ref6",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Box 7 contains: Two issues of the publication, \n                \u003cemph render=\"italic\"\u003eBrooklyn Public Library Monthly\u003c/emph\u003e, for November 1899 (Vol. 1, No. 2) and December 1899 (Vol. 1, No. 3); copies of \n                \u003cemph render=\"italic\"\u003eThe Brooklyn Public Library and Reading-Rooms Bulletin of New Books\u003c/emph\u003e, January 1879 to 1901; a publication titled: \n                \u003cemph render=\"italic\"\u003eBrooklyn Public Library—Agreement entered into between the City of New York and the representatives of Andrew Carnegie for the Erection of Branch Libraries in the Borough of Brooklyn, 1901\u003c/emph\u003e; an event program for the cornerstone laying of the first Carnegie Branch of the Brooklyn Public Library (in Williamsburg), November 28, 1903; a report from A.D.F. Hamlin, consulting architect, to the committee having charge of the erection of Carnegie Library buildings in the Borough of Brooklyn, 1901; a pamphlet containing instructions to architects regarding Carnegie Branch Libraries in Brooklyn; annual reports of the Board of Directors of The Brooklyn Library, 1896 to 1900; three annual reports for BPL, 1965 to 1968; copies of \n                \u003cemph render=\"italic\"\u003eBPL Newsletter \u003c/emph\u003e(bound), September 1957 to June 1959 (the newsletter is for BPL staff); a 1941 proposal for the construction and maintenance of a new downtown branch of BPL; typed monthly book lists with the heading \"New Books Recently Added\", for the year 1934; and miscellaneous publications, programs, and ephemera."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Carnegie libraries |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Library administration |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Library architecture"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Public libraries |v Book lists"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Public libraries |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Brooklyn Public Library."
+            }
+        },
+        "dsc": {}
+    }
+}

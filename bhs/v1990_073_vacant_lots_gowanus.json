@@ -1,0 +1,132 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "v1990_073_vacant_lots_gowanus"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Photographs of vacant lots in Gowanus\n                    \u003cnum\u003eV1990.073\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Patricia Glowinski"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "September 20, 2011."
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-28T16:10-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "Photographs of vacant lots in Gowanus"
+                },
+                "unitdate": {
+                    "value": "circa 1920"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.02 Linear feet"
+                        },
+                        {
+                            "value": "two items housed in one folder."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "V1990.073"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1033005",
+                    "label": "Graphic materials",
+                    "type": "Box",
+                    "value": "Prints by Accession 73"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref5",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref3",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Photographs of vacant lots in Gowanus, V1990.073, Box number, Object ID number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref4",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Source and date of acquisition for this collection are unknown. The collection was formally accessioned in 1990."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Photographs of vacant lots in Gowanus consist of two modern black-and-white photographic prints (reproductions) of Library of Congress photographs showing vacant lots in the Gowanus neighborhood of Brooklyn, circa 1920. The photographs show the area near 2nd Street and 4th Avenue and include views of vacant lots, views of distant buildings surrounding the lots, and views of people working in the lots."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Vacant lands |z New York (State) |z New York"
+                }
+            ]
+        },
+        "otherfindaid": {
+            "id": "ref7",
+            "head": "Other Finding Aids"
+        },
+        "dsc": {}
+    }
+}

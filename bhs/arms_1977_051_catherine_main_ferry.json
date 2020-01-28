@@ -1,0 +1,157 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "arms_1977_051_catherine_main_ferry"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Catherine and Main Street Ferry Company records \u003cnum\u003e1977.051\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Matthew Gorham"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "Brooklyn Historical Society",
+                        "128 Pierrepont Street",
+                        "Brooklyn 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-08-26T19:30:23\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Bowne, Samuel"
+                    }
+                },
+                "unittitle": {
+                    "value": "Catherine and Main Street Ferry Company records"
+                },
+                "unitdate": {
+                    "normal": "1812/1845",
+                    "type": "inclusive",
+                    "value": "1812-1845"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.63 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one full manuscript box and one half manuscript box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The records that directly pertain to the ferry company include account books, bills for construction and repair, inspection certificates, and receipt books for wages paid to employees. Also included is a lease agreement issued by Samuel Bowne to Andrew Lake for a parcel of land in Manhattan; a petition from the freeholders of the city of Brooklyn to a circuit judge regarding a dispute with the owner of a distillery on Brooklyn's waterfront; and a broadside announcing the Whig party candidates for Election Day, 1842."
+                },
+                "unitid": {
+                    "value": "1977.051"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_8a8b4b44e32a25f58affd8586b33dfd1",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "2"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_f98c9b5823073ed27d6d528bf1a7b466",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_4fc2bbac8d7a2fcf18012321bc402586",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Catherine and Main Street Ferry Company records, 1977.051, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_ae55e05d1c9f1148bb09d54b1d0b6e1b",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Gift of Mrs. Edwin J. Ward, June 1922."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_33f18233f0f890312c8a1f742942ec89",
+            "head": "Historical note",
+            "p": {
+                "value": "The Catherine and Main Street Ferry Company was established in 1811 by Samuel Bowne for the purpose of operating a ferry line that connected Catherine Street in Manhattan to Main Street in Brooklyn across the East River. This particular ferry line, originally known as the New Ferry,  was first established in 1795 to supplement the service of the Fulton Ferry, which had been the first ferry to provide service between Brooklyn and Manhattan (1). Bowne operated the ferry until 1852, when he sold the company to Cyrus P. Smith and William F. Bulkley (2). The ferry was subsequently purchased the following year by the Union Ferry Company of Brooklyn, whose one-cent fare rendered the Catherine and Main Street Ferry Company and several other ferry companies uncompetitive (3)."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_ce7a924926a0a2da0c872065052f03cb",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Catherine and Main Street Ferry Company records measure 0.42 linear feet and span the period 1812 to 1845. The records that directly pertain to the ferry company include account books, bills for construction and repair, inspection certificates, and receipt books for wages paid to employees. Also included is a lease agreement issued by Samuel Bowne to Andrew Lake for a parcel of land in Manhattan; a petition from the freeholders of the city of Brooklyn to a circuit judge regarding a dispute with the owner of a distillery on Brooklyn's waterfront; and a broadside announcing the Whig party candidates for Election Day, 1842."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Ferries |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Transportation |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Ferries |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Catherine and Main Street Ferry Company (Brooklyn, New York, N.Y.)"
+            }
+        },
+        "dsc": {}
+    }
+}

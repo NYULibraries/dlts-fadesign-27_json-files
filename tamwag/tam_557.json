@@ -1,0 +1,147 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_557"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Charles A. Barker Annotated Bibliography for \u003cemph render=\"italic\"\u003eHenry George\u003c/emph\u003e \u003cnum\u003eTAM 557\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Peter Filardo"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-06-19T20:42:30\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Charles A. Barker Annotated Bibliography for \u003cemph render=\"italic\"\u003eHenry George\u003c/emph\u003e"
+                },
+                "unitdate": {
+                    "value": "1951, undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "TAM 557"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_e7cc78504bd19c2836c7e59d55af10b9",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_732711f7e18326cfc7d298d7fc66c0e4",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_ad4db5aed73c794ae5aa0bb0486defab",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Charles A. Barker Annotated Bibliography for \u003cemph render=\"italic\"\u003eHenry George\u003c/emph\u003e; TAM 557; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_b0f3ddf300a9ac3542323255c91cfcfe",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials found in collection; provenance is unknown. The accession number associated with this collection is 2010.081."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_845425a9abaa9fe5ce417121ff2c93ed",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Charles A. Barker (1904-1993) was a pacifist and historian at Johns Hopkins University, 1945-1972. The author of several books, he is best known for \u003cemph render=\"italic\"\u003eHenry George\u003c/emph\u003e (1955), a biography of Henry George (1839-1897). Henry George was a politician and political economist who was the most influential proponent of the land value tax, also known as the \"single tax\" on land. In 1886 Henry George campaigned for mayor of New York City as the candidate of the United Labor Party, the short-lived political society of the Central Labor Union."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_8f02e50d02b75404e7b1ef2e7611b86f",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection contains Charles A. Barker's annotated bibliography (on 3x5 index cards) for the book \u003cemph render=\"italic\"\u003eHenry George\u003c/emph\u003e (1955; Oxford University Press, 696 pp.) The bibliography also covers related subjects, including socialism."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Single tax."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Third parties (United States politics)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialism."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Mayors |z New York (State) |z New York |x Election."
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

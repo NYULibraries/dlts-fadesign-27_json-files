@@ -1,0 +1,141 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "pr347_seley"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the John E. Seley Ground Zero Photographs\n                    \u003clb/\u003e2001\n                    \u003clb/\u003e\n                    \u003cnum\u003ePR 347\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Joseph Ditta"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "© 2011 New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2017-11-30T13:55-0500\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "© 2011 New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Seley, John E."
+                    }
+                },
+                "unittitle": {
+                    "value": "John E. Seley Ground Zero photographs"
+                },
+                "unitdate": {
+                    "value": "2001"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.01 Linear feet"
+                        },
+                        {
+                            "value": "(in 1 folder)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Seventy-seven digital images documenting the destruction of the World Trade Center at Ground Zero in the two months following the terrorist attack of September 11, 2001. The photographer, John E. Seley, is a professor of Urban Planning and Geography at The City University of New York Graduate Center."
+                },
+                "unitid": {
+                    "value": "PR 347"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "\n                \u003cemph render=\"bold\"\u003eNOTE: Researchers may not view the images directly from the CD, but must consult the thumbnail printouts instead.\u003c/emph\u003e"
+            }
+        },
+        "prefercite": {
+            "id": "ref3",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Credit line (for exhibition labels): John E. Seley."
+            }
+        },
+        "acqinfo": {
+            "id": "ref4",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Gift of John E. Seley, October 2011."
+            }
+        },
+        "bioghist": {
+            "id": "ref9",
+            "head": "Biographical/Historical Note",
+            "p": {
+                "value": "John E. Seley, PhD (University of Pennsylvania), is a professor of Urban Planning and Geography at The City University of New York Graduate Center. His wife is New York State Senator Liz Kreuger."
+            }
+        },
+        "scopecontent": {
+            "id": "ref7",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "According to John E. Seley (in an Email message dated September 2, 2011), he assembled a CD of pictures taken by himself and several firefighters in the two months following the terrorist attack of September 11, 2001. Some photos were shot inside the office of Seeley's father-in-law on the 21st floor of the World Financial Center, \"an office made famous in a picture of a beam sticking out of the building.\" Seeley wrote that he had \"not seen any other pictures of that office from inside.\""
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "September 11 Terrorist Attacks, 2001 -- Pictorial works"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "World Trade Center (New York, N.Y.) -- Pictorial works"
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref11\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeventy-seven digital photographs [one CD + 13-page paper printout of thumbnails] of Ground Zero taken between September 12 and circa November 12, 2001\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3474001\" type=\"Folder\" label=\"Graphic materials\"\u003e1 of 1\u003c/container\u003e\n                    \u003cunitdate\u003e2001\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003caccessrestrict id=\"ref12\"\u003e\n                    \u003chead\u003eAccess Restrictions\u003c/head\u003e\n                    \u003cp\u003e\n                        \u003cemph render=\"bold\"\u003eResearchers may not view the images directly from the CD, but must consult the thumbnail printouts instead.\u003c/emph\u003e\u003c/p\u003e\n                \u003c/accessrestrict\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

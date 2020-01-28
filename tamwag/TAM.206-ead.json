@@ -1,0 +1,126 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "tam_206"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Camp Wo-Chi-Ca Records\n                    \u003cnum\u003eTAM.206\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "11/5/2010"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T19:00-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Camp Wo-Chi-Ca Records"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.5 linear feet"
+                        },
+                        {
+                            "value": "(1 box)"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "TAM.206"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid19352001",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "bioghist": {
+            "id": "ref4",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Camp Wo-Chi-Ca, also known as Workers Childrens Camp, was a summer camp for children located in New Jersey. Established in 1934, and politically associated with the Communist Party, the camp was distinct from other summer camps of the time in that it was co-educational and attracted an extremely diverse population."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The collection consists mostly of printed circulars from the 1940's such as the Daily Wo-Chi-Can and the Wo-Ki-Mag, some of which document visits of figures such as Paul Robeson and Woody Guthrie. Songbooks and Benefit Concert programs are also included. PLEASE DIRECT FURTHER INQUIRIES TO: tamiment.wagner@nyu.edu"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Camps |z New Jersey |x History."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Communism and culture |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialism and youth |z United States."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Camp Wo-Chi-Ca (N.J.)."
+            }
+        },
+        "dsc": {}
+    }
+}

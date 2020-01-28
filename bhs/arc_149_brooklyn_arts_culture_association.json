@@ -1,0 +1,148 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arc_149_brooklyn_arts_culture_association"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Brooklyn Arts and Culture Association publications\n                    \u003cnum\u003eARC.149\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Weatherly Stephan"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "December 21, 2010"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-28T10:29-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Brooklyn Arts and Culture Association publications"
+                },
+                "unitdate": {
+                    "normal": "1969/1997",
+                    "type": "inclusive",
+                    "value": "1969-1997"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.21 Linear feet"
+                        },
+                        {
+                            "value": "in one half manuscript box."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "ARC.149"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid562002",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "ARC.149 1 of 1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref2",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref3",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Brooklyn Arts and Culture Association publications, ARC.149, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref5",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Source and date of acquisition for the collection are unknown."
+            }
+        },
+        "bioghist": {
+            "id": "ref6",
+            "head": "Historical note",
+            "p": {
+                "value": "The Brooklyn Arts and Culture Association (\"BACA\") was founded in 1966 to promote local cultural programs and organize arts programming in the borough of Brooklyn. BACA partnered with the Brooklyn Institute of Arts and Sciences in 1969 and received steady financial support throughout the 1970s. The organization grew into a granting agency in 1980, and became known as the Brooklyn Arts Council in 1987."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Brooklyn Arts and Culture Association publications date from 1969 to 1997 and measure 0.21 linear feet. The collection consists primarily of the Association's monthly calendar, which provided a comprehensive list of cultural events in the borough. Also included is one copy of the Association's newsletter, \n                \u003cemph render=\"italic\"\u003eBrooklyn's Where Its At\u003c/emph\u003e, spotlighting local artists and performances, and press releases for exhibits and performances."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Arts |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Performing arts |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Brooklyn Institute of Arts and Sciences."
+            }
+        },
+        "dsc": {}
+    }
+}

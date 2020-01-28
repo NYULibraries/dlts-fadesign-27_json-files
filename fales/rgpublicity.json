@@ -1,0 +1,128 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-F",
+            "value": "rgpublicity"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Riot Grrrl Publicity Collection\u003clb/\u003e1992-1996\u003clb/\u003e \u003cnum\u003eMSS.316\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Rachel Greer and Rachel Peddersen, 2011."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Fales Library and Special Collections"
+                },
+                "address": {
+                    "addressline": [
+                        "Fales Library and Special Collections",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "3rd Floor",
+                        "New York, NY 10012",
+                        "Phone: (212) 998-2596",
+                        "fales.library@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-05-19T20:35:36\u003c/date\u003e"
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Fales Library and Special Collections"
+                    }
+                },
+                "unittitle": {
+                    "value": "Riot Grrrl Publicity Collection"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "1992-1996"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.2 Linear Feet"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "MSS.316"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_2887516de44fb8e9907df8b4350e38da",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_e920432ba459685a9296d3c1cc35098e",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the\nfollowing form:\u003clb/\u003e\u003clb/\u003e\nIdentification of item,  date (if known);Riot Grrrl Publicity Collection; MSS 316; box number; folder number; Fales Library and Special Collections, New York University Libraries."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_3f6e6b5db0d6ee84236b6107a59b089c",
+            "head": "Scope and Content",
+            "p": {
+                "value": "The Riot Grrrl Publicity Collection consists of magazine and newspaper articles published about Bikini Kill and the Riot Grrrl Movement in the early to mid 1990s."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Riot grrrl movement."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Feminism."
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref15\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003ePublicity\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref1\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eArticles, Etc. (1 of 2)\u003c/unittitle\u003e\u003cunitdate normal=\"1992/1992\" type=\"inclusive\"\u003e1992\u003c/unitdate\u003e\u003ccontainer id=\"aspace_239e19f9049f64f684a2c6121d57fe94\" label=\"Mixed Materials (31142054880334)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_239e19f9049f64f684a2c6121d57fe94\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref2\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eArticles, Etc. (2 of 2)\u003c/unittitle\u003e\u003cunitdate normal=\"1992/1992\" type=\"inclusive\"\u003e1992\u003c/unitdate\u003e\u003ccontainer id=\"aspace_bf2f33fccf189fef0a7e133f50c0562f\" label=\"Mixed Materials (31142054880334)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_bf2f33fccf189fef0a7e133f50c0562f\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref3\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eArticles, Etc. (1 of 2) \u003c/unittitle\u003e\u003cunitdate normal=\"1993/1993\" type=\"inclusive\"\u003e1993\u003c/unitdate\u003e\u003ccontainer id=\"aspace_cb66f8e494295a348e0d98f68b0206b8\" label=\"Mixed Materials (31142054880334)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_cb66f8e494295a348e0d98f68b0206b8\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref4\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eArticles, Etc. (2 of 2)\u003c/unittitle\u003e\u003cunitdate normal=\"1993/1993\" type=\"inclusive\"\u003e1993\u003c/unitdate\u003e\u003ccontainer id=\"aspace_030e3f563649a7c86c746c63f6301b97\" label=\"Mixed Materials (31142054880334)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_030e3f563649a7c86c746c63f6301b97\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref5\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eArticles, Etc. \u003c/unittitle\u003e\u003cunitdate normal=\"1994/1994\" type=\"inclusive\"\u003e1994\u003c/unitdate\u003e\u003ccontainer id=\"aspace_3bfef769ace79b1f50dfd504a9c32517\" label=\"Mixed Materials (31142054880334)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_3bfef769ace79b1f50dfd504a9c32517\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref6\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eArticles, Etc. \u003c/unittitle\u003e\u003cunitdate normal=\"1995/1996\" type=\"inclusive\"\u003e1995-1996\u003c/unitdate\u003e\u003ccontainer id=\"aspace_127bda5d3491a69828e51c06b3d07737\" label=\"Mixed Materials (31142054880334)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_127bda5d3491a69828e51c06b3d07737\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref7\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eArticles, Etc. \u003c/unittitle\u003e\u003cunitdate normal=\"1998/1998\" type=\"inclusive\"\u003e1998\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9ae77a3e2372383f5d865e0dbacb8f86\" label=\"Mixed Materials (31142054880334)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_9ae77a3e2372383f5d865e0dbacb8f86\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref8\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eArticles, Etc. \u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_242013c0d44b1d869233926f144bcf54\" label=\"Mixed Materials (31142054880334)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_242013c0d44b1d869233926f144bcf54\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

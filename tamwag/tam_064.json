@@ -1,0 +1,163 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_064"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Progressive Librarians Council Correspondence \u003cnum\u003eTAM.064\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-04-30T18:01:27\u003c/date\u003e"
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Progressive Librarians Council Correspondence"
+                },
+                "unitdate": {
+                    "normal": "1939/1944",
+                    "type": "bulk",
+                    "value": "1939-1944"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Progressive Librarians Council (1939-1944) was a Communist-led professional association. The collection contains correspondence and a few other items."
+                },
+                "unitid": {
+                    "value": "TAM.064"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_6c3230b143cc9de956a0e9e857b63f3d",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_0b19731df3963675ecea9f743c149a7d",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: \u003clb/\u003e\u003clb/\u003eIdentification of item, date; Collection name; Collection number; box number; folder number; \u003clb/\u003eTamiment Library/Robert F. Wagner Labor Archives \u003clb/\u003eElmer Holmes Bobst Library \u003clb/\u003e70 Washington Square South \u003clb/\u003eNew York, NY 10012, New York University Libraries."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_61027e1d6d307f0e0262bbabbfa9a49c",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Transferred from the Rand School Archives, 1962. The accession number associated with this collection is 1962.012."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_55803c492ac4ab1029a09294db2a5f7a",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "The Progressive Librarians Council (1939-1944) was a professional association that followed the political leadership of the Communist Party."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_2eb2f2c41a3942bcbb03ea2e4bfff021",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The correspondence, much of it routine, is almost entirely with librarians (PLC members and others), and relates to the publication of the P.L.C. Bulletin, and to the promotion of open, efficient libraries, as well as progressive legislation, civil rights and links with organized labor. A few letters contain discussion of issues relating to the American Library Association. Principal correspondents are Theodore E. Norton (chairman), Edwin Castagna (vice-chairman) and Bertha Schulman (secretary-treasurer). There is also correspondence with Homero Seris and Juan Viceris, two Spanish librarians living in exile in Mexico, who received financial assistance from the PLC. The collection also contains constitutions, speeches and statements by Norton, and a few items relating to the British Columbia Library Association."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Library science |Z United States |X Societies, etc."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Progressivism (United States politics)."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Libraries and communism -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Libraries |z Spain."
+                }
+            ],
+            "corpname": {
+                "source": "ingest",
+                "value": "P.L.C. bulletin."
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref13\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eInventory\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref14\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eBritish Columbia Library Association\u003c/unittitle\u003e\u003cunitdate normal=\"1930/1944\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_691102eb65ae947a6b89c4806033a74b\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_691102eb65ae947a6b89c4806033a74b\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eConstitutions\u003c/unittitle\u003e\u003cunitdate normal=\"1941/1941\" type=\"inclusive\"\u003e1941 , undated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_142e70d0735944a16753391c207b56a3\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_142e70d0735944a16753391c207b56a3\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence (Pre-History \u0026amp; Founding)\u003c/unittitle\u003e\u003cunitdate normal=\"1930/1939\" type=\"inclusive\"\u003e1930 , 1938-1939\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c87762c4558282288651b21e63560bb3\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_c87762c4558282288651b21e63560bb3\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\u003cunitdate normal=\"1940/1940\" type=\"inclusive\"\u003e1940\u003c/unitdate\u003e\u003ccontainer id=\"aspace_86ae4b6075ce27dd84bd44f4f06013bd\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_86ae4b6075ce27dd84bd44f4f06013bd\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\u003cunitdate normal=\"1941/1941\" type=\"inclusive\"\u003e1941\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ed7a13b86052fbe0957188a0fdab4920\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ed7a13b86052fbe0957188a0fdab4920\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence (Aid to Spanish Refugee Librarians Homero Seris \u0026amp; Juan Viceris)\u003c/unittitle\u003e\u003cunitdate normal=\"1930/1944\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5f3da5dc3ea121b1d7b9ddc8bf5465c6\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5f3da5dc3ea121b1d7b9ddc8bf5465c6\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\u003cunitdate normal=\"1942/1942\" type=\"inclusive\"\u003eJan 1942-Jun 1942\u003c/unitdate\u003e\u003ccontainer id=\"aspace_da45efc0c505962b4496c03e92fbee01\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_da45efc0c505962b4496c03e92fbee01\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\u003cunitdate normal=\"1942/1942\" type=\"inclusive\"\u003eJul 1942-Dec 1942\u003c/unitdate\u003e\u003ccontainer id=\"aspace_6eeeb053d09da2129f627ab543717d82\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_6eeeb053d09da2129f627ab543717d82\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\u003cunitdate normal=\"1943/1943\" type=\"inclusive\"\u003e1943\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9f2c8c7217710b903a95cb4ee4f31f6f\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_9f2c8c7217710b903a95cb4ee4f31f6f\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\u003cunitdate normal=\"1944/1944\" type=\"inclusive\"\u003e1944\u003c/unitdate\u003e\u003ccontainer id=\"aspace_6427fcd6a678784028b4d9ab738f0c54\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_6427fcd6a678784028b4d9ab738f0c54\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eNorton, Theodore E. : Speeches \u0026amp; Statements\u003c/unittitle\u003e\u003cunitdate normal=\"1930/1952\" type=\"inclusive\"\u003eca.1940-1942\u003c/unitdate\u003e\u003ccontainer id=\"aspace_3e325f91ce3e658fd93c7485295cfb2c\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_3e325f91ce3e658fd93c7485295cfb2c\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

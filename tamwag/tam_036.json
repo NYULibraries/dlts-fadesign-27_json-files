@@ -1,0 +1,147 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_036"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Sol Feinstone Papers and Historical Documents Collection \u003cnum\u003eTAM.036\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment Staff, 2010; Maggie Schreiner, 2014"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-04-24T14:13:18\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Feinstone, Sol, 1888-1980"
+                    }
+                },
+                "unittitle": {
+                    "value": "Sol Feinstone Papers and Historical Documents Collection"
+                },
+                "unitdate": {
+                    "normal": "1770/1950",
+                    "type": "inclusive",
+                    "value": "1770-1950"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 manuscript box and 1 oversize flat box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Sol Feinstone was a socialist, successful businessman, and a collector of historical documents. This collection contains correspondence between Sol Feinstone and Roman Rosdolsky, primarily in connection with  Rosdolsky's manuscript \"Friedrich Engeles und das Problem der Geschichtslosen Volker.\" The collection also contains twenty-eight documents including signed letters by notable figures such as Eugene V. Debs, Petr Kropotkin, Vladimir Illich Lenin, and notes by Karl Marx. There are also approximately a dozen documents associated with the French Revolution and a surveyor's report from 1770 of Blidworth, England."
+                },
+                "unitid": {
+                    "value": "TAM.036"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_264f4f251fdb4b90e6d0dacc4a76af82",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_39454e9190e5abc5270119db4b535597",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Sol Feinstone Papers and Historical Documents Collection; TAM 036; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_90f5a5f887d2381315b01276266a166c",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Sol Feinstone in 1959. The accession number associated with this gift is 1959.002."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_e55acc16f20c1bb373ace689f1fe84bf",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Sol Feinstone, born Solomon Bialagrudsky in 1888 in Lithuania, migrated to the United States in 1902. A socialist, he became a successful businessman and a collector of historical documents."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_8523dc01834d6ebcc4bb1bdf729dff13",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection contains correspondence between Sol Feinstone and Roman Rosdolsky, primarily in connection with  Rosdolsky's manuscript \"Friedrich Engeles und das Problem der Geschichtslosen Volker.\" This manuscript was first published in German in 1964 as \u003cemph render=\"italic\"\u003eFriedrich Engels und das Problem der \"Geschictsloen\" Volker (Die Nationalitatenfrage inder Revolution 1849-1849 im Lichte der \"Neuen Rheinischen Zeitung\"\u003c/emph\u003e), and in English in 1986 as \u003cemph render=\"italic\"\u003eEngels and the \"Nonhistoric\" Peoples: The National Question in the Revolution of 1848\u003c/emph\u003e. The collection also contains twenty-eight documents including signed letters by notable figures such as Eugene V. Debs, Petr Kropotkin, Vladimir Illich Lenin, and notes by Karl Marx. There are also approximately a dozen documents associated with the French Revolution and a surveyor's report from 1770 of Blidworth, England."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Anarchists."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialists."
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref8\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: Papers\u003c/unittitle\u003e\u003cunitdate normal=\"1948/1950\" type=\"inclusive\"\u003e1948-1950\u003c/unitdate\u003e\u003c/did\u003e\u003cc id=\"aspace_ref9\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence (regarding Roman Rosdolsky manuscript)\u003c/unittitle\u003e\u003cunitdate normal=\"1948/1950\" type=\"inclusive\"\u003e1948-1950\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1ffe159a26100589ceeeb22db05ccae1\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1ffe159a26100589ceeeb22db05ccae1\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref10\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRosdolsky, Roman: Manuscript (I)\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_06167bf8220cab4683fa3e125651d1f0\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_06167bf8220cab4683fa3e125651d1f0\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref11\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRosdolsky, Roman: Manuscript (II)\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_0f3aa2e9d622cee2f2e48d001bcbc8f4\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0f3aa2e9d622cee2f2e48d001bcbc8f4\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref12\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries II: Historical Documents\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref35\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAntoinette, Marie\u003c/unittitle\u003e\u003cunitdate normal=\"1786/1786\" type=\"inclusive\"\u003e1786\u003c/unitdate\u003e\u003ccontainer id=\"aspace_fa4602631b28a3d6cc7f1586de71f28e\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_fa4602631b28a3d6cc7f1586de71f28e\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref13\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBellamy, Edward\u003c/unittitle\u003e\u003cunitdate normal=\"1880/1880\" type=\"inclusive\"\u003ecirca 1880\u003c/unitdate\u003e\u003ccontainer id=\"aspace_311b788730278aa97f0c4c02c7167fc9\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_311b788730278aa97f0c4c02c7167fc9\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref34\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ele Brun, Charles Francoise\u003c/unittitle\u003e\u003cunitdate normal=\"1800/1800\" type=\"inclusive\"\u003e1800\u003c/unitdate\u003e\u003ccontainer id=\"aspace_61654784b61241d537ae2ace9e390814\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_61654784b61241d537ae2ace9e390814\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref33\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDebs, Eugene\u003c/unittitle\u003e\u003cunitdate normal=\"1922/1922\" type=\"inclusive\"\u003e1922\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2837bd277ce879eb1a1c665f8240f0e0\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_2837bd277ce879eb1a1c665f8240f0e0\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref32\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFouquier-Tinville, Antoine Quentin\u003c/unittitle\u003e\u003cunitdate normal=\"1793/1793\" type=\"inclusive\"\u003e1793\u003c/unitdate\u003e\u003ccontainer id=\"aspace_cf5d3ba58d43fb33e47096dc53d033c0\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_cf5d3ba58d43fb33e47096dc53d033c0\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eGohier, Louis Gerome\u003c/unittitle\u003e\u003cunitdate normal=\"1793/1793\" type=\"inclusive\"\u003e1793\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e2b1dbd4bf4582cf98fda35bc269b5bf\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e2b1dbd4bf4582cf98fda35bc269b5bf\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref31\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eGorky, Maxim\u003c/unittitle\u003e\u003cunitdate normal=\"1925/1925\" type=\"inclusive\"\u003e1925\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7f73b957c5baaa57ebed553187501f23\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_7f73b957c5baaa57ebed553187501f23\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eHerzen, Alexander\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9b946a04cc55bb8eae3b7bd890fbcbb0\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_9b946a04cc55bb8eae3b7bd890fbcbb0\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref30\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eHitler, Adolph\u003c/unittitle\u003e\u003cunitdate normal=\"1935/1935\" type=\"inclusive\"\u003e1935\u003c/unitdate\u003e\u003ccontainer id=\"aspace_cb20d0e0e06586abc70e32f0cf742ec3\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_cb20d0e0e06586abc70e32f0cf742ec3\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref29\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eJomini, Antoine Henri\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c80c6d475dae95aaddef6c4e2a334818\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_c80c6d475dae95aaddef6c4e2a334818\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eKropotkin, Petr\u003c/unittitle\u003e\u003cunitdate normal=\"1895/1909\" type=\"inclusive\"\u003e1895-1909\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2fa9969de215871a5d6d2afad11973f3\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2fa9969de215871a5d6d2afad11973f3\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref26\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLaboulaye, Edouard Rene Lefebvre\u003c/unittitle\u003e\u003cunitdate normal=\"1875/1875\" type=\"inclusive\"\u003e1875\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ddff255c17c1dcdd82fc70281d0cd324\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_ddff255c17c1dcdd82fc70281d0cd324\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref28\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLenin, Nickolai\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_99ba064bc2ede698f3451fae92e789a8\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_99ba064bc2ede698f3451fae92e789a8\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLouis XVI of France\u003c/unittitle\u003e\u003cunitdate normal=\"1781/1781\" type=\"inclusive\"\u003e1781\u003c/unitdate\u003e\u003ccontainer id=\"aspace_52102ea1430fa55c1059956b0e2f3dce\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_52102ea1430fa55c1059956b0e2f3dce\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMarat, Jean Paul\u003c/unittitle\u003e\u003cunitdate normal=\"1797/1797\" type=\"inclusive\"\u003e1797\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e87af3522adab4d1f92894f82108f2e2\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_e87af3522adab4d1f92894f82108f2e2\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMarx, Karl\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5bb4134d088cc3b023bff14a547c4de4\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5bb4134d088cc3b023bff14a547c4de4\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRevelliere-Lepeaux, Louis Marie de la\u003c/unittitle\u003e\u003cunitdate normal=\"1813/1813\" type=\"inclusive\"\u003e1813\u003c/unitdate\u003e\u003ccontainer id=\"aspace_0654611c0cd4daecc42114b36fc608e5\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_0654611c0cd4daecc42114b36fc608e5\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRiqueti, Honore Gabriel (comte de Mirabeau)\u003c/unittitle\u003e\u003cunitdate normal=\"1775/1775\" type=\"inclusive\"\u003e1775\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b0834a5ade1e0942da5165a585faa227\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b0834a5ade1e0942da5165a585faa227\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRobespierre, Maximillian\u003c/unittitle\u003e\u003cunitdate normal=\"1793/1793\" type=\"inclusive\"\u003e1793\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2b818f8220b655c9a66ded39a41666bb\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_2b818f8220b655c9a66ded39a41666bb\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSaliceti, Antoine Cristophe\u003c/unittitle\u003e\u003cunitdate normal=\"1796/1796\" type=\"inclusive\"\u003e1796\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4c0ac8e27ae82d87785f4b367002317a\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_4c0ac8e27ae82d87785f4b367002317a\" type=\"Folder\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSurveyor's Report: Blidsworth, England\u003c/unittitle\u003e\u003cunitdate normal=\"1770/1770\" type=\"inclusive\"\u003e1770\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4a00e555ba96b4657f9bf9de85195a31\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_4a00e555ba96b4657f9bf9de85195a31\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTroupes Francaise\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9ea09ebccb7320a40d3fc84a535d7457\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_9ea09ebccb7320a40d3fc84a535d7457\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

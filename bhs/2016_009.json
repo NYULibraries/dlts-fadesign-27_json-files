@@ -1,0 +1,149 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "2016_009"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the fragments of the deed from Indians to Lion Gardiner\n                    \u003cnum\u003e2016.009\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by John Zarrillo"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "January 2016"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2016-09-12T10:10-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "Fragments of the deed from Indians to Lion Gardiner"
+                },
+                "unitdate": {
+                    "normal": "1639/1663",
+                    "type": "inclusive",
+                    "value": "circa 1639-1663"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.01 linear feet"
+                        },
+                        {
+                            "value": "in one folder"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Lion Gardiner (1599-1663) was an English colonist who founded the first English settlement on Long Island, New York. In 1639 he purchased an island from the Montaukett tribe on the eastern end of Long Island (today known as Gardiners Island). The collection contains fragments of what is believed to be a deed from the Indians to Lion Gardiner, circa 1639-1663. Presumably the deed is for Gardiners Island or other nearby property."
+                },
+                "unitid": {
+                    "value": "2016.009"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1391001",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0021"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref4",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref6",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Fragments of the deed from Indians to Lion Gardiner, 2016.009, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref2",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Immediate source of acquisition unknown. Formally accessioned in January 2016."
+            }
+        },
+        "bioghist": {
+            "id": "ref8",
+            "head": "Biographical note",
+            "p": {
+                "value": "Lion Gardiner (1599-1663) was an English colonist who founded the first English settlement on Long Island, New York. In 1639 he purchased an island from the Montaukett tribe on the eastern end of Long Island (today known as Gardiners Island)."
+            }
+        },
+        "scopecontent": {
+            "id": "ref9",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Fragments of what is believed to be a deed from the Indians to Lion Gardiner, circa 1639-1663. Presumably the deed is for Gardiners Island or other property on the eastern end of Long Island. There are nine pieces in total. Included in the file is a Long Island Historical Society envelope which once contained the fragments."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Indians of North America |z New York (State) |z Long Island"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Montauk Indians"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Long Island Historical Society."
+            }
+        },
+        "dsc": {}
+    }
+}

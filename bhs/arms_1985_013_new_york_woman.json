@@ -1,0 +1,152 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1985_013_new_york_woman"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the \n                    \u003cemph render=\"italic\"\u003eThe New York Woman \u003c/emph\u003e magazine collection\n                    \u003cnum\u003e1985.013\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "September 22, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-18T16:09-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "\n                \u003cemph render=\"italic\"\u003eThe New York Woman \u003c/emph\u003e magazine collection"
+                },
+                "unitdate": {
+                    "normal": "1936/1937",
+                    "type": "inclusive",
+                    "value": "1936-1937"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.34 Linear feet"
+                        },
+                        {
+                            "value": "in one oversize box."
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "This collection contains approximately 30 issues of \n                \u003cemph render=\"italic\"\u003eThe New York Woman\u003c/emph\u003e spanning September 16, 1936 to March 31, 1937. \n                \u003cemph render=\"italic\"\u003eThe New York Woman\u003c/emph\u003e was a weekly women's magazine published in New York City during the 1930s. The magazine's focus was on fashion, home furnishings, entertainment, and special articles reflecting women's interests."
+                },
+                "unitid": {
+                    "value": "1985.013"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1039003",
+                    "label": "Text",
+                    "type": "Oversize",
+                    "value": "1985.013 1 of 1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref5",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); \n                \u003cemph render=\"italic\"\u003eThe New York Woman \u003c/emph\u003e magazine collection, 1985.013, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref6",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Source and date of accquisition unknown. Formally accessioned in 1985."
+            }
+        },
+        "bioghist": {
+            "id": "ref3",
+            "head": "Historical Note",
+            "p": {
+                "value": "\n                \u003cemph render=\"italic\"\u003eThe New York Woman\u003c/emph\u003e was a weekly women's magazine published in New York City during the 1930s. The magazine's focus was on fashion, home furnishings, entertainment, and special articles reflecting women's interests. The magazine's editor was James Monahan."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "Approximately 30 issues of \n                \u003cemph render=\"italic\"\u003eThe New York Woman\u003c/emph\u003e magazine, spanning September 16, 1936 to March 31, 1937."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Women |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Women |z New York (State) |z New York |x Social conditions"
+                },
+                {
+                    "source": "lcgft",
+                    "value": "Women's periodicals, American |z New York (State) |z New York"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

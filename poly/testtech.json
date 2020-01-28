@@ -1,0 +1,91 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "value": "testtech"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "test tech report\n                    \u003cnum\u003eRG.031\u003c/num\u003e\n                "
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Poly Archives \u0026amp; Special Collections at Bern Dibner Library of Science and Technology"
+                },
+                "address": {
+                    "addressline": [
+                        "Bern Dibner Library of Science and Technology",
+                        "5 MetroTech Center",
+                        "Brooklyn, New York, 11201",
+                        "718-260-3943",
+                        "archives@library.poly.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2016-02-26T16:58-0500\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Poly Archives \u0026amp; Special Collections at Bern Dibner Library of Science and Technology"
+                    }
+                },
+                "unittitle": {
+                    "value": "Guide to the Microwave Research Institute Technical Reports"
+                },
+                "unitdate": {
+                    "normal": "1942/1970",
+                    "type": "inclusive",
+                    "value": "1942-1970"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.0 Linear feet"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "RG.031"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Physics"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Polytechnic Institute of Brooklyn. Microwave Research Institute."
+            }
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref20\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries I: 1942-1950\u003c/unittitle\u003e\n                    \u003corigination label=\"creator\"\u003e\n                        \u003ccorpname rules=\"dacs\" source=\"naf\"\u003ePolytechnic Institute of Brooklyn. Microwave Research Institute.\u003c/corpname\u003e\n                    \u003c/origination\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref8\" level=\"item\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eJunction Effect of Two Unequal Matched Coaxial Lines, PIBMRI-2-42\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid327002\" type=\"Volume\" label=\"Books\"\u003ePIBMRI-2-42\u003c/container\u003e\n                        \u003cunitdate\u003e1942 September\u003c/unitdate\u003e\n                        \u003corigination label=\"creator\"\u003e\n                            \u003cpersname rules=\"dacs\" source=\"naf\" role=\"Author (aut)\"\u003eWeber, Ernst\u003c/persname\u003e\n                        \u003c/origination\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref22\" level=\"item\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eTheory of Coaxial Attenuators, PIBMRI-8-42\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid327007\" type=\"Volume\" label=\"Books\"\u003ePIBMRI-8-42\u003c/container\u003e\n                        \u003cunitdate\u003e1942 September 21\u003c/unitdate\u003e\n                        \u003corigination label=\"creator\"\u003e\n                            \u003cpersname rules=\"dacs\" source=\"local\" role=\"Author (aut)\"\u003eGriemsmann, John W. E. \u003c/persname\u003e\n                        \u003c/origination\u003e\n                        \u003corigination label=\"creator\"\u003e\n                            \u003cpersname rules=\"dacs\" source=\"naf\" role=\"Author (aut)\"\u003eWeber, Ernst\u003c/persname\u003e\n                        \u003c/origination\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref10\" level=\"item\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eLossless Coaxial Exponential Tapers, PIBMRI-15-43\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid327003\" type=\"Volume\" label=\"Books\"\u003ePIBMRI-15-43\u003c/container\u003e\n                        \u003cunitdate\u003e1943 May 20\u003c/unitdate\u003e\n                        \u003corigination label=\"creator\"\u003e\n                            \u003cpersname rules=\"dacs\" source=\"local\" role=\"Author (aut)\"\u003ePeskin, Edward\u003c/persname\u003e\n                        \u003c/origination\u003e\n                        \u003corigination label=\"creator\"\u003e\n                            \u003cpersname rules=\"dacs\" source=\"naf\" role=\"Author (aut)\"\u003eWeber, Ernst\u003c/persname\u003e\n                        \u003c/origination\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref16\" level=\"item\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eNotes on the Use of Bolometers for Ultra-High Frequency Attenuation Measurements, PIBMRI-22-43\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid327004\" type=\"Volume\" label=\"Books\"\u003ePIBMRI-22-43\u003c/container\u003e\n                        \u003cunitdate\u003e1943 June 2\u003c/unitdate\u003e\n                        \u003corigination label=\"creator\"\u003e\n                            \u003cpersname rules=\"dacs\" source=\"local\" role=\"Author (aut)\"\u003eEbert, John\u003c/persname\u003e\n                        \u003c/origination\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref18\" level=\"item\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eThe 1B2 Bolometer Terminal, PIBMRI-23-43\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid327005\" type=\"Volume\" label=\"Books\"\u003ePIBMRI-23-43\u003c/container\u003e\n                        \u003cunitdate\u003e1943 June 11\u003c/unitdate\u003e\n                        \u003corigination label=\"creator\"\u003e\n                            \u003cpersname rules=\"dacs\" source=\"local\" role=\"Author (aut)\"\u003eEbert, John\u003c/persname\u003e\n                        \u003c/origination\u003e\n                        \u003corigination label=\"creator\"\u003e\n                            \u003cpersname rules=\"dacs\" source=\"local\" role=\"Author (aut)\"\u003eJohnson, Stanley\u003c/persname\u003e\n                        \u003c/origination\u003e\n                        \u003corigination label=\"creator\"\u003e\n                            \u003cpersname rules=\"dacs\" source=\"naf\" role=\"Author (aut)\"\u003eWeber, Ernst\u003c/persname\u003e\n                        \u003c/origination\u003e\n                    \u003c/did\u003e\n                    \u003ccontrolaccess\u003e\n                        \u003ccorpname rules=\"dacs\" source=\"naf\"\u003eArmed Services Technical Information Agency (U.S.).\u003c/corpname\u003e\n                    \u003c/controlaccess\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref1\" level=\"item\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eThe Reactance of a Symmetrical Pair of Strips in Rectangular Waveguide, PIBMRI-1158-63\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid327006\" type=\"Volume\" label=\"Books\"\u003ePIBMRI-1158-63\u003c/container\u003e\n                        \u003cunitdate\u003e1963 April 23\u003c/unitdate\u003e\n                        \u003corigination label=\"creator\"\u003e\n                            \u003cpersname rules=\"dacs\" source=\"local\" role=\"Author (aut)\"\u003eLewin, L\u003c/persname\u003e\n                        \u003c/origination\u003e\n                    \u003c/did\u003e\n                    \u003ccontrolaccess\u003e\n                        \u003ccorpname rules=\"dacs\" source=\"local\"\u003eAir Force Cambridge Research Laboratories.\u003c/corpname\u003e\n                    \u003c/controlaccess\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

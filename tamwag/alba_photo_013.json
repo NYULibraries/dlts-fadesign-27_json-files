@@ -1,0 +1,106 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "alba_photo_013"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Devere Allen: Slides \u003cnum\u003eALBA.PHOTO.013\u003c/num\u003e"
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-07-19T15:27:35\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "local",
+                        "value": "Allen, Marie H."
+                    }
+                },
+                "unittitle": {
+                    "value": "Devere Allen: Slides"
+                },
+                "unitdate": {
+                    "normal": "1931/1931",
+                    "type": "inclusive",
+                    "value": "1931"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "ALBA.PHOTO.013"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_94408925c0ea695b7b684a8af5ca847b",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are closed."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_d0669270ceaef5aff057639cb3a11198",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Collection of (67) colorized glass slides, c. 3x4\", Photographed in part and assembled by Devere Allen in Spain, April 1931. Taken in Madrid, Barcelona, and other locations. Includes images of voting, crowds, soldiers, aftermath of political violence, cultural sites and everyday life.  For a more detailed description of the slides see the letters of Marie H. Allen, Devere Allen's wife.  The letters, written in 1973 and 1975 can be found in the Spanish Refugee Aid Collection (Tamiment #326), New York Office Records, Correspondence, \"A\" and in the ALBA accessions file."
+            }
+        },
+        "controlaccess": {},
+        "dsc": {}
+    }
+}

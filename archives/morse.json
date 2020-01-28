@@ -1,0 +1,138 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "morse"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to Samuel F.B. Morse Papers\n                    \u003cnum\u003eMC 10\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Bayrd Still and Tom Frusciano. Electronic version prepared by Jackie Rider."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-01-26T10:22-0500\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Still, Bayrd"
+                    }
+                },
+                "unittitle": {
+                    "value": "Samuel F.B. Morse Papers"
+                },
+                "unitdate": {
+                    "normal": "1838/1984",
+                    "type": "inclusive",
+                    "value": "1838-1984, undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.5 linear feet"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "MC 10"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref34",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open for research without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "ref35",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Publishes citations should take the following form: Identification of item, date (if known), Samuel F.B. Morse Papers; MC 10, box number, folder number, New York University Archives, New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "ref31",
+            "head": "Biographical/Historical note",
+            "p": {
+                "value": "When the University Building on Washington Square opened in 1835, Morse rented space there for lodgings and to house a studio and laboratory for his experiments in photography and telegraphy. Morse left the University Building in 1841 but continued his association as professor of fine arts until his retirement in 1871. Although Morse's connection with the University has been described as \"nominal,\" he maintained close contact with certain faculty members and emphasized his professorial connection. He died April 2, 1872, in New York."
+            }
+        },
+        "scopecontent": {
+            "id": "ref30",
+            "head": "Scope and Contents",
+            "p": {}
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Art |x Study and teaching."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Education |x Study and Teaching |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Inventions"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Photography."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "University of the City of New York."
+            }
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref1\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eInventory\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref2\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eInventories of Morse letters and paintings at NYU\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid10603001\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid10603001\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"1972/1983\" type=\"inclusive\"\u003e1972-1983\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref13\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eBiographical summaries and notes\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid10603002\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid10603002\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate normal=\"1901/1972\" type=\"inclusive\"\u003e1901-1972\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref14\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMorse as artist\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid10603003\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid10603003\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate normal=\"1932/1984\" type=\"inclusive\"\u003e1932-1984\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref15\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMorse's association with the University of the City of New York (now New York University)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid10603004\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid10603004\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate normal=\"1838/1984\" type=\"inclusive\"\u003e1838-1984\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref16\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eInvention of the telegraph and exhibitions thereof\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid10603005\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid10603005\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate normal=\"1838/1965\" type=\"inclusive\"\u003e1838-1965\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref17\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMorse's experiments with photography\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid10603006\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid10603006\" type=\"Folder\"\u003e6\u003c/container\u003e\n                        \u003cunitdate normal=\"1840/1980\" type=\"inclusive\"\u003e1840-1980\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref18\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eWill and report of funeral--\n                            \u003cemph render=\"italic\"\u003eNew York Times\u003c/emph\u003e clipping\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid10603007\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid10603007\" type=\"Folder\"\u003e7\u003c/container\u003e\n                        \u003cunitdate normal=\"1872/1872\"\u003e1872\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref19\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMorse family: letter, Edward L. Morse to Miss [?] Solomons\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid10603008\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid10603008\" type=\"Folder\"\u003e8\u003c/container\u003e\n                        \u003cunitdate normal=\"1903/1903\"\u003e1903\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref20\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMorse Chair of Fine Arts at NYU: miseellaneous notes and Council minutes (excerpts)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid10603009\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid10603009\" type=\"Folder\"\u003e9\u003c/container\u003e\n                        \u003cunitdate normal=\"1932/1983\" type=\"inclusive\"\u003e1932-1935, 1983\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref21\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMorse Plaque or \"tablet\" on Main Building at NYU\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid10603010\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid10603010\" type=\"Folder\"\u003e10\u003c/container\u003e\n                        \u003cunitdate normal=\"1932/1983\" type=\"inclusive\"\u003e1932-1935, 1983\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref22\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eProposal of Morse celebration\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid10603011\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid10603011\" type=\"Folder\"\u003e11\u003c/container\u003e\n                        \u003cunitdate normal=\"1936/1936\"\u003e1936\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref23\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eE.J. Nally collection of Morse memorabilia\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid10603012\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid10603012\" type=\"Folder\"\u003e12\u003c/container\u003e\n                        \u003cunitdate normal=\"1941/1941\"\u003e1941\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref24\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCentennial celebration of 1844 demonstration of telegraph, May 14, 1944\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid10603013\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid10603013\" type=\"Folder\"\u003e13\u003c/container\u003e\n                        \u003cunitdate normal=\"1944/1944\"\u003e1944\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref25\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence of Theodore F. Jones (historian of NYU) re Morse\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid10603014\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid10603014\" type=\"Folder\"\u003e14\u003c/container\u003e\n                        \u003cunitdate normal=\"1929/1946\" type=\"inclusive\"\u003e1929-1946\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref26\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSamuel F.B. Morse Medal\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid10603015\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid10603015\" type=\"Folder\"\u003e15\u003c/container\u003e\n                        \u003cunitdate normal=\"1838/1984\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref27\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMorse Telegraph Club, Inc.\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid10603016\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid10603016\" type=\"Folder\"\u003e16\u003c/container\u003e\n                        \u003cunitdate normal=\"1942/1982\" type=\"inclusive\"\u003e1942-1982\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref28\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eLocust Grove: Young-Morse historic site\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid10603017\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid10603017\" type=\"Folder\"\u003e17\u003c/container\u003e\n                        \u003cunitdate normal=\"1982/1982\"\u003e1982\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref29\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMorse Society: correspondence with Herbert C Morse II\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid10603018\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid10603018\" type=\"Folder\"\u003e18\u003c/container\u003e\n                        \u003cunitdate normal=\"1983/1983\"\u003e1983\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

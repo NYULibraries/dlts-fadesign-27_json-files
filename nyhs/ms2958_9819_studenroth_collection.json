@@ -1,0 +1,96 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "ms2958_9819_studenroth_collection"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Studenroth Collection of Historical Documents\u003clb/\u003e1800-1859\u003clb/\u003e \u003cnum\u003eAHMC - Studenroth, Zachary\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Larry Weimer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-12-30T21:10:00\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Studenroth, Zachary N."
+                    }
+                },
+                "unittitle": {
+                    "value": "Studenroth collection of historical documents"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "1800-1859"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "48 item(s)"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 2 folders"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "A collection of documents compiled by Zachary N. Studenroth. The bulk of the collection is comprised of 45 invoices. 31 of these relate to purchases of ribbons, gloves, buttons, belts, suspenders and other articles of clothing and fabrics by Law \u0026amp; Todd (William Law and James L. Todd, dry goods merchants at 12 Cedar, New York City) in 1934-1935. Another 12 invoices are for Rossman \u0026amp; McKinstry's purchases in 1858-1859, primarily of casks of Rochelle ochre, Havre ochre, Venetian red, indigo, white lead, and other materials. There is also one 1800 invoice and an unrelated 1858 invoice. In addition there are three other unrelated documents: A reprint version of the 1833 first number of the newspaper The Sun (the item is in fragments); an August 1841 transmittal letter from Munson I. Lockwood, Clerk of the Prison at Mount Pleasant, New York, (Sing Sing) to Comptroller John A. Collier at Albany regarding the monthly accounts, though the accounts themselves are not in the collection; and an undated, but likely circa 1831, letter from B. F. Williams to an addressee who appears to be Silas Wright, the New York state Comptroller. As the administrator of the estate of Benjamin Stocker of Salina, New York, Williams is seeking to settle a sale of real estate in Salina held by the estate.\u003clb/\u003e \n\n\u003clb/\u003eTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: \u003cextref actuate=\"onRequest\" href=\"http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph006336070\u0026amp;context=L\u0026amp;vid=NYHS\u0026amp;search_scope=nyhs\u0026amp;tab=nyhs\u0026amp;lang=en_US\"\u003eStudenroth collection of historical documents.\u003c/extref\u003e"
+                },
+                "unitid": {
+                    "value": "AHMC - Studenroth, Zachary"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "dsc": {}
+    }
+}

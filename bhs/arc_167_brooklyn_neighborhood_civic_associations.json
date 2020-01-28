@@ -1,0 +1,157 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "arc_167_brooklyn_neighborhood_civic_associations"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Brooklyn neighborhood associations and civic organizations publications \u003cnum\u003eARC.167\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Patricia Glowinski"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "Brooklyn Historical Society",
+                        "128 Pierrepont Street",
+                        "Brooklyn 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-11-01T13:50:25\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Brooklyn neighborhood associations and civic organizations publications"
+                },
+                "unitdate": {
+                    "normal": "1970/1999",
+                    "type": "bulk",
+                    "value": "1970-1999"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1.67 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in four manuscript boxes."
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Brooklyn neighborhood associations and civic organizations publications span the years 1881 to 2010 and are housed in three manuscript boxes. Materials represented in the collection include annual reports, reports, newsletters, yearbooks, and programs. The bulk of the collection consists of newsletters dating from the 1970s through the 1990s."
+                },
+                "unitid": {
+                    "value": "ARC.167"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_c7cae21dde36509154877e6162286469",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "4"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_8e34db88baecdfdd32661c591b17c0d0",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_76a7ce1c1bb82419b35b0cc58d4db22e",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Brooklyn neighborhood associations and civic organizations publications, ARC.167, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_5a46dbfcaed0f54cf857720e0a2bd7c0",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Source and date of acquisition for this collection are unknown."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_8d52395615d3b3134d214a95ccc8aedd",
+            "head": "Historical note",
+            "p": {
+                "value": "Throughout the boroughs, as the middle and upper classes grew, property values within the middle and upper class neighborhoods rose. Rising property values often led to gentrification, discrepancies in public services amongst the neighborhoods, and the displacement of long-time residents. As some neighborhoods thrived, others declined. With the rise of the historic preservation movement, such as the Municipal Art Society's work in the 1950s and 1960s to preserve historic structures and neighborhoods throughout New York City, many new neighborhood associations and civic organizations drew inspiration from the movement and modeled their community organizing after it. For example, the Brooklyn Heights Association, the oldest ongoing neighborhood association in New York City (since 1910), succeeded in making Brooklyn Heights the first Historic District in New York City in 1965. From the 1960s onward, neighborhood associations and civic organizations have greatly influenced city policies and have played an important role in the preservation, restoration, and development of neighborhoods."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_6dfc6bea056a7cb9c64fb5d411ff05cc",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "\u003cemph render=\"italic\"\u003eCenter for Holocaust Studies Newsletters\u003c/emph\u003e (1986-1988)"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Urban renewal |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Community development |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Neighborhood government |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Citizens' associations |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Center for Holocaust Studies"
+            }
+        },
+        "dsc": {}
+    }
+}

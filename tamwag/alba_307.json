@@ -1,0 +1,147 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "alba_307"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Owen Jefferson Smith FBI File \u003cnum\u003eALBA.307\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Heather Mulliner"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-02-16T17:08:40\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Owen Jefferson Smith FBI File"
+                },
+                "unitdate": {
+                    "normal": "1941/1952",
+                    "type": "inclusive",
+                    "value": "1941-1952"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": ".25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one half manuscript box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Owen Jefferson Smith was an entomologist who joined the International Brigades in 1937. Smith was under FBI surveillance between 1941 and 1952 for suspicion of communism and distributing communist literature. Smith’s FBI file contains government surveillance documents of Smith during his work with the Congress of Industrial Organizations (CIO), and as a graduate student at Ohio State. The file also includes a transcript of Smith’s statement to the FBI regarding his Communist Party affiliation."
+                },
+                "unitid": {
+                    "value": "ALBA.307"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_1f8f89cad18c54dc9a01a1a85a694254",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_f00d91321ad2b59e12bb1b6b9f193530",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to users without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_f3a47f763d7d97bcb605c2f2d5c52c86",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Owen Jefferson Smith FBI File; ALBA 307; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_1aa49e1231e7b0c99f1b5b3b7d6a3166",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by the Abraham Lincoln Brigade Archives, January 2018. The accession number associated with this gift is 2018.014."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_3ae84840e13ddc1d46254e9cae614d77",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Owen Jefferson Smith was born in Moore, Montana in 1909, and grew up in Iowa. He received an MS in entomology from University of New Hampshire in 1933, and from 1933 to 1937 performed research in entomology at the New Hampshire State Agricultural Experiment Station. He enlisted in the International Brigades in March 1937 and fought for the loyalist forces in Spain for 22 months. During that time, he achieved the rank of Captain and fought at the battles of Jarama, Brunete, Belchite, and the Ebro Offensive. He began his career in the Brigade in the infantry, but was hospitalized after being wounded in the chest in August 1937. During his recovery he served as an administrative officer in the American hospitals in Spain. Smith resumed fighting in March 1938, and returned to the United States in December 1938. Between 1940 and 1948 he worked in labor relations as a field organizer for the Congress of Industrial Organizations (CIO), and later went on to receive a PhD in entomology from Ohio State University in 1950. Smith was under FBI surveillance between 1941 and 1952 for suspicion of communism and distributing communist literature."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_313774f02e5126b79abe66fb86559ef8",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Owen Jefferson Smith FBI File contains government surveillance reports about Smith dated 1941-1952. Files document FBI surveillance during his work with the Congress of Industrial Organizations (CIO), and as a graduate student at Ohio State University. The file also includes a transcript of Smith’s statement to the FBI regarding his Communist Party affiliation."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Communism -- United States -- 20th century"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Anti-communist movements -- United States."
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

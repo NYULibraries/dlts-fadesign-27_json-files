@@ -1,0 +1,143 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_249"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Hertz Burgin History of Jewish Labor Movement Typescript \u003cnum\u003eTAM 249\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-08T19:51:20\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Hertz Burgin History of Jewish Labor Movement Typescript"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "TAM 249"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_7eb1123a153ca7c34ca580f8484c6fc0",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_dfc425301cebfcaf8e1c4b242b997e8d",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_7850258fdd8f98ec8c40f38e69de6831",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Provenance unknown. The accession number associated with this gift is 1950.165."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_73ef0573f4d74a4be701246acdac8769",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Hertz Burgin (b. 1870) was the author of \u003cemph render=\"italic\"\u003eDie Geshiskhte fun der Idisher Arbayter Bevegung in Amerika, Rusland un England\u003c/emph\u003e (Feraynigte idishe geverkshaften, New York, 1915), i.e..\"The History of the Jewish Labor Movement."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_569e4b3c0f2562a8bdf0b5b2ae646426",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "Contains a typescript, \"History of the Jewish Labor Movement,\" \"translated from the Yiddish by a student assistant\" (1962; 301 pp.)."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Labor Zionism |x History."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Jewish labor unions |z Russia |x History."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Jewish labor unions |z United States |x History."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Jewish labor unions |z England |x History."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "International Jewish Labor Bund"
+            }
+        },
+        "dsc": {}
+    }
+}

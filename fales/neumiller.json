@@ -1,0 +1,137 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-F",
+            "value": "neumiller"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Thomas G. Neumiller Papers\u003clb/\u003eca. 1965-1997\u003clb/\u003e \u003cnum\u003eMSS.032\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Marvin Taylor, 1997. Finding aid updated by Lisa Darms, 2009."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Fales Library and Special Collections"
+                },
+                "address": {
+                    "addressline": [
+                        "Fales Library and Special Collections",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "3rd Floor",
+                        "New York, NY 10012",
+                        "Phone: (212) 998-2596",
+                        "fales.library@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-06-16T14:13:45\u003c/date\u003e"
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Fales Library and Special Collections"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Neumiller, Thomas G."
+                    }
+                },
+                "unittitle": {
+                    "value": "Thomas G. Neumiller Papers"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "ca. 1965-1997"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Linear Feet"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "MSS.032"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_c9d3fa0489483651f6fd9bae069c7267",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_94f65a9e84dd63e6cf159b99b1f31198",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the\nfollowing form:\u003clb/\u003e\u003clb/\u003e\nIdentification of item,  date (if known); Thomas Neumiller Papers; MSS 32; box number; folder number; Fales Library and Special Collections, New York University Libraries."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_d740f9fdcb27249d40f7895d81502334",
+            "head": "Provenance",
+            "p": {
+                "value": "The Thomas G. Neumiller Papers were donated to The Fales Library and Special Collections at New York University on April 28, 1997."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_d64aca6e5bf0b62357d3a1681a5930aa",
+            "head": "Biographical Note",
+            "p": {
+                "value": "\"Paid Notice: Deaths NEUMILLER, THOMAS G.\", \u003cemph render=\"italic\"\u003eThe New York Times\u003c/emph\u003e, April 23, 1998"
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_06aa90db3957b4c538e9fc916cd2e7ee",
+            "head": "Scope and Content note",
+            "p": {
+                "value": "The collection consists of letters, printed materials, photographs, drawings, clippings, and other materials Thomas Neumiller assembled to compliment letters he received from two women who he knew, Friedelind Wagner and Margaret Hamilton."
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref1\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: Friedelind Wagner Materials\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref3\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence: Friedelind Wagner to Thomas Neumiller\u003c/unittitle\u003e\u003ccontainer id=\"aspace_ad503da93ead3e1bbbf90621aa8fa934\" label=\"Mixed Materials (31142054901130)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ad503da93ead3e1bbbf90621aa8fa934\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref4\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence: Thomas Neumiller to Friedelind Wagner (carbons)\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_8f8a8d7d0ba7f51cb2a55e443b8ab954\" label=\"Mixed Materials (31142054901130)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_8f8a8d7d0ba7f51cb2a55e443b8ab954\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref5\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence: Hanne-Lore Kuhse to Thomas Neumilller\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2c3e852020dcc5ff86bcc21b6cc7c743\" label=\"Mixed Materials (31142054901130)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2c3e852020dcc5ff86bcc21b6cc7c743\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref6\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSubject Folder: Friedelind Wagner Master Classes: brochures, etc.\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ac989990d0217b9d43cbd77918f62c0f\" label=\"Mixed Materials (31142054901130)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ac989990d0217b9d43cbd77918f62c0f\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref7\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSubject Folder: Friedelind Wagner Biographical materials\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ffffb412e802d8461b564b357927fab3\" label=\"Mixed Materials (31142054901130)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ffffb412e802d8461b564b357927fab3\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref8\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSubject Folder: Friedelind Wagner at Wheelock College\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7dd325af12ced794f40c069c3fec994c\" label=\"Mixed Materials (31142054901130)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_7dd325af12ced794f40c069c3fec994c\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref10\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePhotographs:\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_90a2005b70b22a5e296d6555d27927c5\" label=\"Mixed Materials (31142054901130)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_90a2005b70b22a5e296d6555d27927c5\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_ce015bb50f241209438960c14d0590c5\"\u003e\u003chead\u003eGeneral\u003c/head\u003e\u003cp\u003ea. Cosima and Siegfried Wagner\u003clb/\u003e\nb. Familie S. Wagner\u003clb/\u003e\nc. Friedelind and Winifred Wagner, signed by both\u003clb/\u003e\nd. two promotional photographs of Friedelind Wagner\u003clb/\u003e\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003cc id=\"aspace_ref12\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePhotographs: Master Class members\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1966\u003c/unitdate\u003e\u003ccontainer id=\"aspace_0ff52aa6d736bbef11cdc27ea832f678\" label=\"Mixed Materials (31142054901130)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0ff52aa6d736bbef11cdc27ea832f678\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref13\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eArt works: two watercolor sketches for sets by John Dew\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_beee169ca688dc71531a3261a205574c\" label=\"Mixed Materials (31142054901130)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_beee169ca688dc71531a3261a205574c\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eClippings: Bayreuth\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b0d3ac70d898c60df35c135e77724fee\" label=\"Mixed Materials (31142054901130)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b0d3ac70d898c60df35c135e77724fee\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eClippings: Bayreuth, primarily about the centennial\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_32736d9b17deb5acf9ca55e83fdaf123\" label=\"Mixed Materials (31142054901130)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_32736d9b17deb5acf9ca55e83fdaf123\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMiscellaneous \u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f8ddb110af601793562f9ee3dc69d58e\" label=\"Mixed Materials (31142054901130)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f8ddb110af601793562f9ee3dc69d58e\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref2\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries II: Margaret Hamilton Materials\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref17\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence: Margaret Hamilton to Thomas Neumiller\u003c/unittitle\u003e\u003ccontainer id=\"aspace_24d452e639c08f4a2dc7abcd64035506\" label=\"Mixed Materials (31142054901130)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_24d452e639c08f4a2dc7abcd64035506\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePrinted materials about Margaret Hamilton\u003c/unittitle\u003e\u003ccontainer id=\"aspace_d68afbaac6c43cc2e2303b21b7d6fe48\" label=\"Mixed Materials (31142054901130)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d68afbaac6c43cc2e2303b21b7d6fe48\" type=\"Folder\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePhotographs: six stills of Hamilton as the Wicked Witch of the West in The Wizard of Oz. One copy inscribed. \u003c/unittitle\u003e\u003ccontainer id=\"aspace_558fd45028510833f571799b2438def2\" label=\"Mixed Materials (31142054901130)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_558fd45028510833f571799b2438def2\" type=\"Folder\"\u003e15\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

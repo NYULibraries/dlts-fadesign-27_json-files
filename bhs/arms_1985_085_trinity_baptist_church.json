@@ -1,0 +1,156 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1985_085_trinity_baptist_church"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Trinity Baptist Church ledger\n                    \u003cnum\u003e1985.085\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Weatherly Stephan"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "November 10, 2010"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-18T17:01-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Trinity Baptist Church ledger"
+                },
+                "unitdate": {
+                    "normal": "1874/1915",
+                    "type": "inclusive",
+                    "value": "1874-1915"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.0 Linear feet"
+                        },
+                        {
+                            "value": "in one oversize box."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "1985.085"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid502002",
+                    "label": "Text",
+                    "type": "Oversize",
+                    "value": "1985.085 Box 1 of 1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref4",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Trinity Baptist Church ledger, 1985.085, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Harold J. Manson, date unknown."
+            }
+        },
+        "bioghist": {
+            "id": "ref2",
+            "head": "Historical note",
+            "p": {
+                "value": "Trinity Baptist Church was established in 1875. During the church's first two years, congregants met at Ridgewood Hall on Broadway in the Bedford-Stuyvesant neighborhood of Brooklyn. In 1877, Trinity's chapel opened, located on Greene Avenue between Patchen Avenue and Broadway in Bedford-Stuyvesant. The majority of the founding congregation was comprised of members from the Willoughby Avenue Baptist Church."
+            }
+        },
+        "scopecontent": {
+            "id": "ref6",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection consists of one ledger, dated 1874 to 1915 and measuring one linear foot. The ledger contains a membership roll of the Trinity Baptist Church, listing member names, baptism dates, dates of acceptance to and dismissal from the church, and member addresses."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Baptists |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Church membership |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Church records and registers"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Religious institutions |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Willoughby Avenue Baptist Church (Brooklyn, New York, N.Y.)."
+            }
+        },
+        "dsc": {}
+    }
+}

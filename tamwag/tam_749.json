@@ -1,0 +1,163 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_749"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Marilyn Young Papers \u003cnum\u003eTAM.749\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Heather Mulliner"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-08-03T22:17:48\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Young, Marilyn Blatt"
+                    }
+                },
+                "unittitle": {
+                    "value": "Marilyn Young Papers"
+                },
+                "unitdate": {
+                    "normal": "1972/2002",
+                    "type": "inclusive",
+                    "value": "1972-2002"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "2 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 record carton, 1 manuscript box, and 1 half manuscript box."
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Marilyn Young Papers (dated 1972–2002) consist of writings and research files of New York University historian Marilyn B. Young. Marilyn Young was an historian of foreign policy whose work focused on United States foreign policy in Asia during the Cold War. Her papers consist of research files and writings related to her scholarship on US Cold War policy and the Vietnam War. Her papers also include correspondence, articles, and drafts related to China, the Korean War, 1940s Japan, Women's Rights in the US, and American policy in Guatemala and El Salvador in the 1980s."
+                },
+                "unitid": {
+                    "value": "TAM.749"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_4fcb3044e97a58a4b0ae733891b8bdb7",
+                    "label": "Mixed Materials [31142063576386]",
+                    "type": "Box",
+                    "value": "3"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_3969843ed72512712d1da0fcfbc98dfd",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to users without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_d9f25692a81db077f848fc1e3b713d03",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Marilyn Young Papers; TAM 749; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_e60cbba22273c324dd145d3842cd2ebe",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Lauren and Michael Young in December 2017. The accession number associated with this gift is 2018.084"
+            }
+        },
+        "bioghist": {
+            "id": "aspace_bd75df400a2d278e7b95b424f933f8eb",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Marilyn B. Young (1937-2017) was a professor of American History at New York University. Her work focused on the history of foreign relations, in particular the Vietnam War and US Cold War policy in Asia. She was the founder of NYU's Women Studies Department, and served as co-director of the Tamiment Library's Center for the United States and the Cold War."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_317e9e5082d63a573e0e722c87b3ca59",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Marilyn Young Papers (dated 1972–2002) consist of writings, research files, and course materials of New York University historian Marilyn B. Young. Young's papers consist of research files and writings related to her scholarship on US Cold War policy and the Vietnam War. Her research files on Vietnam include a small amount of collected primary sources, notes, and article drafts, as well as lecture notes for course she taught on the Vietnam War. Her papers also contain lecture notes and drafts on a variety of other topics including the Korean War, Japan, women in China, women's rights, and El Salvador and Guatemala in the 1980s. Her papers feature a small amount of correspondence related to Young's scholarship, exam questions, and seminar syllabi. Her paper also include draft of an essay Young wrote in 2002 about Ground Zero and American foreign policy after the September 11, 2001 terrorist attacks."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Historians -- United States"
+                },
+                {
+                    "source": "lcsh",
+                    "value": " Women scholars -- United States"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Vietnam War, 1961-1975."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Korean War, 1950-1953."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Cold War."
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

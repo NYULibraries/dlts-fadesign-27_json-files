@@ -1,0 +1,149 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "mc_61"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Charles Adler, Jr. Papers \u003cnum\u003eMC 61\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Claire Wolford."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-02-12T15:27:56\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Adler, Charles, Jr., 1899-1980"
+                    }
+                },
+                "unittitle": {
+                    "value": "Charles Adler, Jr. Papers"
+                },
+                "unitdate": {
+                    "normal": "1946/1951",
+                    "type": "bulk",
+                    "value": "1946-1951"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.05 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one half manuscript box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "This collection contains the correspondence and patents pertaining to a number of Charles Adler, Jr.'s inventions, including aircraft lights, horns, and proximity lights."
+                },
+                "unitid": {
+                    "value": "MC 61"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_3fd4b467a5db1f2e121cc57f9d813bfc",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_aebb618580c9f38220a76346063d4f34",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; The Charles Adler, Jr., Papers; MC 61; box number; folder number; New York University Archives; New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_64eaa999d3908f530339c2f7c7433146",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials found in collection; provenance is unknown."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_c3834555540e31aeacd3234502704e77",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Charles Adler, Jr. was an inventor and engineer born in 1899 in Baltimore, Maryland. He attended John Hopkins University and briefly joined the army. Later he joined the Maryland and Pennsylvania Railroad and there developed safety devices. In 1928 he designed the first audible traffic horn. He was granted over 60 patents in his lifetime, 10 of which he donated to the government. He was a member of the Maryland State Aviation Commission and the Maryland Traffic Safety Commission."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_ee512e7bf59a37629c413106f08d324d",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection is made up of three folders containing the papers related to patents of Charles Adler, Jr., ranging from 1936 to 1952. There are letters and sketches, as well as patents for aircraft lights, proximity lights, and safety horns."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Patents"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "United States. Department of the Army"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref1\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence and Patents for Aircraft Lights\u003c/unittitle\u003e\u003cunitdate normal=\"1936/1952\" type=\"inclusive\"\u003e1936-1952\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_402c934f1a4d5998b50497c1e9d47288\" label=\"Mixed Materials [31142062745800]\" type=\"Box\"\u003eShared University Archives 008\u003c/container\u003e\u003ccontainer parent=\"aspace_402c934f1a4d5998b50497c1e9d47288\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref2\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePatent for Aircraft Horn\u003c/unittitle\u003e\u003cunitdate normal=\"1946/1947\" type=\"inclusive\"\u003e1946-1947\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_be07e8b87eca3ec829b902d2351c2c0a\" label=\"Mixed Materials [31142062745800]\" type=\"Box\"\u003eShared University Archives 008\u003c/container\u003e\u003ccontainer parent=\"aspace_be07e8b87eca3ec829b902d2351c2c0a\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref3\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePatent for Aircraft Proximity Lights \u003c/unittitle\u003e\u003cunitdate normal=\"1948/1951\" type=\"inclusive\"\u003e1948-1951\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_a37984e389b17587d033508956b02a1b\" label=\"Mixed Materials [31142062745800]\" type=\"Box\"\u003eShared University Archives 008\u003c/container\u003e\u003ccontainer parent=\"aspace_a37984e389b17587d033508956b02a1b\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

@@ -1,0 +1,146 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_546"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Vito Marcantonio FOIA Files \u003cnum\u003eTAM 546\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment Staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-06-19T18:30:39\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Lieberman, Donna"
+                    }
+                },
+                "unittitle": {
+                    "value": "Vito Marcantonio FOIA Files"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.75 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(2 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Vito Marcantonio (1902-1954), who received his law degree from New York University in 1931, was an American Labor Party leader and U.S. Congressmen representing East Harlem, New York, 1935-1937 (as a Republican), and 1939-1951 (American Labor Party). This collection contains six United States Federal Bureau of Investigation (FBI) files obtained under the Freedom of Information Act and one U.S. State Department document. "
+                },
+                "unitid": {
+                    "value": "TAM 546"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_17fc2ca2a0a116536780e9f45895b4a4",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "2"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_dcbf3b95cfe2c023fbc1545185d53f7e",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_72526431315c22f776876b48f0bf108f",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Vito Marcantonio FOIA Files; TAM 546; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_2d1f95b0d3a14022ee99434754d7d620",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Vito Marcantonio (1902-1954), who received his law degree from New York University in 1931, was an American Labor Party leader and U.S. Congressmen representing East Harlem, New York, 1935-1937 (as a Republican), and 1939-1951 (American Labor Party), who was also known for generally being politically close to the Communist Party (he opposed U.S. entry into the Korean War), and as an advocate for the rights of Italian Americans, Puerto Ricans, and African Americans."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_1fd1e68240e82eeddefd3f9525e13b7c",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Contains six United States Federal Bureau of Investigation (FBI) files obtained under the Freedoom of Information Act and one U.S. State Department document, all pertaining to Vito Marcantonio."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Radicals -- New York (State) -- New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Legislators |z United States."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "American Labor Party of the State of New York"
+            }
+        },
+        "dsc": {}
+    }
+}

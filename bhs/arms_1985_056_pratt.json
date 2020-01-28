@@ -1,0 +1,211 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "arms_1985_056_pratt"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Pratt Institute collection \u003cnum\u003e1985.056\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Collection processed by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "Brooklyn Historical Society",
+                        "128 Pierrepont Street",
+                        "Brooklyn 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-05-17T17:20:04\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Pratt Institute collection"
+                },
+                "unitdate": {
+                    "normal": "1888/2004",
+                    "type": "inclusive",
+                    "value": "1888-2004"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "5.3 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in thirteen manuscript boxes and one oversize box."
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Pratt Insitute collection spans the period 1888 to 2004 and contains printed items and ephemera from Pratt Institute. Pratt Institute was founded in the Brooklyn neighborhood of Clinton Hill in 1887 by wealthy oil merchant and philanthropist Charles Pratt."
+                },
+                "unitid": {
+                    "value": "1985.056"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_e46de5029e7b485c66531063aa5a2b1f",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "1985.056 1 of 14"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_444a1c75833aaf15e34d27b339037495",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_8d10bd7ce313ec19e9d30fd39c65c25c",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Pratt Institute collection, 1985.056, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_59f81b4afc6f570ad4f81de776a10ec6",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Acquired in 1985, donor unknown."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_d2a15c2f5470f507dbfcab95aa1393d1",
+            "head": "Historical Note",
+            "p": {
+                "value": "Pratt Institute was founded in the Brooklyn neighborhood of Clinton Hill in 1887 by wealthy oil merchant and philanthropist Charles Pratt. Originally from New England, Pratt moved to New York in early adulthood and later established his own successful oil business, Charles Pratt and Company, in 1867. He soon expanded his interests and acquired the Astral Oil Works refinery in the Brooklyn neighborhood of Williamsburg. In 1874, Pratt partnered with John D. Rockefeller, head of Standard Oil, and became co-owner of a consortium of petroleum refineries along the Brooklyn waterfront. Though he was highly successful, Pratt always lamented his limited amount of formal education, and established Pratt Insititute in order to provide young people with hands-on educational opportunities in industrial trades and engineering. Likely modeled after Cooper Union, the school founded in Manhattan by businessman and inventor Peter Cooper in 1859, Pratt Institute granted admission to both men and women regardless of race, and supplemented its core curriculum with courses in science and art. It also featured Brooklyn's first free library, aptly named the Pratt Institute Free Library, which served both students and faculty at Pratt as well as the general public. Since its founding, Pratt has achieved national recognition as one of New York City's distinguished educational institutions, and its main building and library were landmarked in 1981. As of 2010, Pratt functions as a private arts college, having discontinued its industrial and engineering programs in 1993. Pratt offers courses at its original Brooklyn campus as well as its satellite campuses in Manhattan and Utica in Central New York, and grants undergraduate and graduate degrees in architecture, art and design, the liberal arts, and library and information science."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_1f4a7d24d42fb55a502565a9f6664d01",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Pratt Insitute collection spans the period 1888 to 2004 and contains printed items and ephemera from Pratt Institute. The collection has been arranged into seven series:"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Alumnae and alumni"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Art schools |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "College students |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Education, Higher |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Education, Humanistic |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Engineering schools |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Libraries |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Library administration |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Library schools |z New York (State) |z Kings County |x Administration"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Library schools |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Professional education |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Technical institutes |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Universities and colleges |x Alumni and alumnae |z New York (State) |z Kings County |x Societies, etc."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Universities and colleges |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Universities and colleges |z New York (State) |z Kings County |x Administration"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Universities and colleges |z New York (State) |z Kings County |x Faculty"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Urban renewal |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Pratt Institute. Free Library"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref11_z35\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries 1: Catalogs\u003c/unittitle\u003e\u003cphysdesc altrender=\"whole\"\u003e\u003cextent altrender=\"materialtype spaceoccupied\"\u003e0.31 Linear Feet\u003c/extent\u003e\u003cextent altrender=\"carrier\"\u003ein three folders.\u003c/extent\u003e\u003c/physdesc\u003e\u003cunitdate\u003e1888-1904, 1937, 1965-1974\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_80604258f5c92b5270d72637963ce637\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThis series contains comprehensive Pratt Institute catalogs for the period 1888 to 1904, and a small number of course catalogs and bulletins for individual departments and programs spanning the period 1892 to 1974.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref7_6q2\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries 2: Pratt Institute Free Library materials\u003c/unittitle\u003e\u003cphysdesc altrender=\"whole\"\u003e\u003cextent altrender=\"materialtype spaceoccupied\"\u003e0.99 Linear Feet\u003c/extent\u003e\u003cextent altrender=\"carrier\"\u003ein 11 folders.\u003c/extent\u003e\u003c/physdesc\u003e\u003cunitdate normal=\"1894/1943\" type=\"inclusive\"\u003e1894-1943\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_9a87b312ba55eb1654a48798a1ec00ca\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThis series contains published annual reports of the Pratt Institute Free Library for the periods 1897 to 1913 and 1922 to 1941. Beginning in 1923, the publications also include the annual reports of the Pratt Institute School of Library Science. Additional items in this series include library booklists and bulletins for the period 1894 to 1943, and handbooks of the Graduates' Association of the School of Library Science for the period 1912 to 1919.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref10_b3y\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries 3: Periodicals\u003c/unittitle\u003e\u003cphysdesc altrender=\"whole\"\u003e\u003cextent altrender=\"materialtype spaceoccupied\"\u003e3.16 Linear Feet\u003c/extent\u003e\u003cextent altrender=\"carrier\"\u003ein 23 folders and 1 oversize box.\u003c/extent\u003e\u003c/physdesc\u003e\u003cunitdate\u003e1889-1905, 1958-1986\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_6799614975c123ecfa5bd6eba09c5ad2\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThis series contains various periodicals published by Pratt Institute, including newsletters and bulletins covering a wide variety of administrative, educational, and community issues for the year 1904 and the period spanning 1958 to 1986. Also included are issues of the \u003cemph render=\"italic\"\u003ePratt Institute Record\u003c/emph\u003e and \u003cemph render=\"italic\"\u003ePratt Institute Monthly\u003c/emph\u003e containing annual reports from Pratt's various offices and departments for the period 1889 to 1905. One Pratt Institute annual report for the 1979 to 1980 school year is separately housed in an oversize box.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref9_aif\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries 4: Yearbooks\u003c/unittitle\u003e\u003cphysdesc altrender=\"whole\"\u003e\u003cextent altrender=\"materialtype spaceoccupied\"\u003e0.5 Linear Feet\u003c/extent\u003e\u003cextent altrender=\"carrier\"\u003ein four folders.\u003c/extent\u003e\u003c/physdesc\u003e\u003cunitdate normal=\"1918/1970\" type=\"inclusive\"\u003e1918-1970\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_aaaa2c68a0cfdd4f264218080c3816cd\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThis series contains four Pratt Institute yearbooks. They date from 1918, 1936, 1963, and 1970.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref8_t3y\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries 5: Alumni materials\u003c/unittitle\u003e\u003cphysdesc altrender=\"whole\"\u003e\u003cextent altrender=\"materialtype spaceoccupied\"\u003e0.52 Linear Feet\u003c/extent\u003e\u003cextent altrender=\"carrier\"\u003ein eight folders.\u003c/extent\u003e\u003c/physdesc\u003e\u003cunitdate normal=\"1958/1973\" type=\"inclusive\"\u003e1958-1973\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_7d353c2c8d47e8dab78d6281e2a40e04\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThis series mainly contains several issues of the Pratt alumni magazine \u003cemph render=\"italic\"\u003ePratt Alumnus\u003c/emph\u003e for the period 1958 to 1973. Also included are two alumni reports from 1965 and 1971, and a program from an alumni dinner in 1966.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref12_zfv\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries 6: Ephemera\u003c/unittitle\u003e\u003cphysdesc altrender=\"whole\"\u003e\u003cextent altrender=\"materialtype spaceoccupied\"\u003e0.05 Linear Feet\u003c/extent\u003e\u003cextent altrender=\"carrier\"\u003ein one folder.\u003c/extent\u003e\u003c/physdesc\u003e\u003cunitdate normal=\"1889/2004\" type=\"inclusive\"\u003e1889-1915, 1958-2004\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_6b0633e848f3b89542e4dfa8d8b2e202\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThis series contains programs pertaining to various events at Pratt Institute, including commencements, inaugurations, and exhibitions occurring intermittently throughout the period 1898 to 2004; one promotional booklet from 1966; and pamphlets containing speeches delivered by various presidents of Pratt Institute from 1959 to 1970. Also included are a pamphlet on the Pratt Institute Neighborhood Association, a student charitable organization, circa 1900; and pamphlets on the Thrift Savings, Loan and Building Fund, a program established by Charles Pratt to assist students with financial and housing issues, dating from 1889 to 1915. Other miscellaneous items are included in the series.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14_63k\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries 7: Pratt Institute Area Slum Clearance report\u003c/unittitle\u003e\u003cphysdesc altrender=\"whole\"\u003e\u003cextent altrender=\"materialtype spaceoccupied\"\u003e0.05 Linear Feet\u003c/extent\u003e\u003cextent altrender=\"carrier\"\u003ein one folder.\u003c/extent\u003e\u003c/physdesc\u003e\u003cunitdate\u003e1953\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_aa0d29318c47939582211bca18f84dae\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThis series contains one item, a report on the proposed clearance of slums in the area surrounding Pratt Institute, issued by the New York City Committee on Slum Clearance in 1953.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e"
+        }
+    }
+}

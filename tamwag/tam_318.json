@@ -1,0 +1,143 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_318"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Marvin Markman Papers \u003cnum\u003eTAM 318\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-15T20:20:03\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Marvin Markman Papers"
+                },
+                "unitdate": {
+                    "value": "1960s"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "3 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(3 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "TAM 318"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_a6c942e6a928f80c2f9579c1046d8b79",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1-3"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_0010033c461eda895b08b28bbb4666ad",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_13f8e88b110f16f83481be54a73f8058",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Provenance unknown. The accession number associated with this collection is 1950.247."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_7f8107d064cec075b3503f15641755fc",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Marvin Markman (d. 2002) was a Communist Party member, and was also the Executive Vice President of Advance, a radical youth organization. Markman later became a public school teacher in New York City and a leader of the Party's rank and file activism in the United Federation of Teachers, via the Teachers Action Caucus, and in the American Federation of Teachers, via the United Action Caucus."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_ec439e5b4669203ed346d0d42fb0328e",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection consists of subject files and correspondence relating to Advance, as well as court transcripts and documents relating to trials of Marvin Markman and his associates before the Subversive Activities Control Board in the 1960s."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Communist trials -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Jewish communists -- New York (State) -- New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialism and youth -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Communists -- United States."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "United States. Subversive Activities Control Board"
+            }
+        },
+        "dsc": {}
+    }
+}

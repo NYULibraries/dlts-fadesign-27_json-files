@@ -1,0 +1,144 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arc_168_early_brooklyn_libraries"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Early Brooklyn libraries collection\n                    \u003cnum\u003eARC.168\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Matthew Gorham"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "January 4, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-12-12T15:36-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Early Brooklyn libraries collection"
+                },
+                "unitdate": {
+                    "normal": "1852/1901",
+                    "type": "inclusive",
+                    "value": "1852-1901"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.3 Linear feet"
+                        },
+                        {
+                            "value": "in 1 manuscript box"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "ARC.168"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid575001",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "ARC.168 1 of 1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref4",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Early Brooklyn libraries collection, ARC.168, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "One booklet containing the articles of association and a subscription list of the Brooklyn Athenaeum and Reading Room was the gift of J.S. Burke, 1900. The source and date of acquisition for the remaining items in the collection are unknown."
+            }
+        },
+        "bioghist": {
+            "id": "ref5",
+            "head": "Historical note",
+            "p": {
+                "value": "In 1888, the Pratt Institute established the first free public library in Brooklyn. This was followed by the opening of several more free public libraries, including the Bay Ridge Free Library and the Long Island Free Library on Atlantic Avenue in Brooklyn. Following the New York State Assembly's approval of the establishment of the Brooklyn Public Library, the Brooklyn Common Council passed a resolution approving its establishment in 1896, and the development of the library system continued throughout the 20th century with the help of a $1.6 million donation from Andrew Carnegie to build 21 branch locations."
+            }
+        },
+        "scopecontent": {
+            "id": "ref6",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Early Brooklyn libraries collection spans the years 1865 to 1901 and measures 0.3 linear feet. The collection is comprised of materials that document the development and operation of independently-operated public libraries in Brooklyn prior to the establishment of the Brooklyn Public Library System in 1892. The bulk of materials in the collection pertain to the Mercantile Library of Brooklyn, which include detailed catalogs of materials in the library and bulletins announcing new book acquisitions. Also included are the constitution and first annual report of the Brooklyn Library Association of the Eastern District; newsletters of the Pratt Institute Free Library, the Bay Ridge Free Library, and the Long Island Free Library; the constitution and by-laws of the Law Library in Brooklyn; articles of association, subscription lists, and publications of the Brooklyn Athanaeum and Reading Room; and a catalog of the Library of Schools in the Eastern District."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Libraries |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Pratt Institute. Free Library."
+            }
+        },
+        "dsc": {}
+    }
+}

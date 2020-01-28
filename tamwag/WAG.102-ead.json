@@ -1,0 +1,170 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "wag_102"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Preliminary Inventory to the United Tradeswomen Records\n                    \u003cnum\u003eWAG.102\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Jane Latour"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T21:13-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "United Tradeswomen Records"
+                },
+                "unitdate": {
+                    "normal": "1979/1984",
+                    "type": "inclusive",
+                    "value": "1979-1984"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.0 linear feet"
+                        },
+                        {
+                            "value": "(2 boxes)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "United Tradeswomen was founded in 1979 as an outgrowth of activity surrounding the entrance of women into the construction trades in New York City. Overt resistance to the entrance of women, persistent discrimination in hiring, and the on-going need for support for those women in the trades, prompted several women to organize the group. These records include meeting minutes, organizational correspondence, informational leaflets and handouts, program announcements and posters, newsletters, and internal memos."
+                },
+                "unitid": {
+                    "value": "WAG.102"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref5",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open for research without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "ref38",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: \n                \u003clb/\u003e\n                \u003clb/\u003eIdentification of item, date; Collection name; Collection number; box number; folder number; \n                \u003clb/\u003eTamiment Library/Robert F. Wagner Labor Archives \n                \u003clb/\u003eElmer Holmes Bobst Library \n                \u003clb/\u003e70 Washington Square South \n                \u003clb/\u003eNew York, NY 10012, New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "ref8",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "The structure of the organization was democratic and participatory, with a commitment to consensus decision-making. Division of labor was allocated to committees with responsibility for tasks such as outreach, publicity, fund raising and programming. Responsibility for setting priorities and maintaining momentum rested with the core group of leaders. Despite its commitment to broad-based decision making and shared leadership, personality clashes and diverging political opinions generated divisions within the organization. In addition, the stress and “burn out” attendant upon the lives of women in the trades, ultimately led to the demise of the organization. In spite of its disintegration, the trades women who pioneered the entrance of females into the construction industry in New York City almost unanimously acknowledge the contribution made to their efforts by United Tradeswomen. The confluence between the Women's Movement and the movement into new areas of employment for that generation of women produced a vitality and purposefulness that resulted in real economic gains for that small percentage of women who penetrated the male bastion of the construction trades."
+            }
+        },
+        "scopecontent": {
+            "id": "ref9",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The Collection documents the women's struggle to gain entrance, skills, jobs, and fair treatment. The wit, humor, resourcefulness and tenacity that allowed them to succeed is well reflected in the program announcements and informational flyers designed by the activists of UT."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Construction industry |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Minority labor union members."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Sex discrimination in employment |x Construction industry |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Sex role in the work environment x| Construction industry |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Women construction workers |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Women labor union members |v Statistics."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Women labor union members |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Working class |x Education."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "United Tradeswomen (New York, N.Y.)."
+            }
+        },
+        "dsc": {
+            "value": "\n            \u003cc01 id=\"ref13\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries I: Administrative, Membership Activities and Publications.\u003c/unittitle\u003e\n                \u003c/did\u003e\n                \u003cc02 id=\"ref14\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eUnited Tradeswomen - Committee Notes, Minutes\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid136514\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid136514\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"1979/1984\" type=\"inclusive\"\u003e1979-1984\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref15\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eUT - Newsletters\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid136513\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid136513\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate normal=\"1979/1984\" type=\"inclusive\"\u003e1979-1984\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref16\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eUT - Flyers\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid136512\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid136512\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate normal=\"1979/1984\" type=\"inclusive\"\u003e1979-1984\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref17\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eUT - Membership Activities #1\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid136511\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid136511\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate normal=\"1979/1984\" type=\"inclusive\"\u003e1979-1984\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref18\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eUT - Membership Activities #2 - Apprenticeship\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid136510\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid136510\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate normal=\"1979/1984\" type=\"inclusive\"\u003e1979-1984\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref19\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eUT - Membership Activities #3 - Jobs Committee\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid136509\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid136509\" type=\"Folder\"\u003e6\u003c/container\u003e\n                        \u003cunitdate normal=\"1979/1984\" type=\"inclusive\"\u003e1979-1984\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref20\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eUT - Membership Activities #4 - Carpenters' Committee\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid136508\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid136508\" type=\"Folder\"\u003e7\u003c/container\u003e\n                        \u003cunitdate normal=\"1979/1984\" type=\"inclusive\"\u003e1979-1984\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref21\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eUT - Membership Activities #5 - UDC \u0026amp; Convention Center\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid136507\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid136507\" type=\"Folder\"\u003e8\u003c/container\u003e\n                        \u003cunitdate normal=\"1979/1984\" type=\"inclusive\"\u003e1979-1984\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref22\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eUT - New York City Hiring, Bureau of Labor Statistics\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid136506\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid136506\" type=\"Folder\"\u003e9\u003c/container\u003e\n                        \u003cunitdate normal=\"1979/1984\" type=\"inclusive\"\u003e1979-1984\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref23\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries II: Advocacy.\u003c/unittitle\u003e\n                \u003c/did\u003e\n                \u003cc02 id=\"ref24\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAdvocacy - New York - WITT (Women In The Trades)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid136505\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid136505\" type=\"Folder\"\u003e10\u003c/container\u003e\n                        \u003cunitdate normal=\"1979/1984\" type=\"inclusive\"\u003e1979-1984\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref25\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAdvocacy - New York - Committee For Women In Non-Traditional Jobs\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid136504\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid136504\" type=\"Folder\"\u003e11\u003c/container\u003e\n                        \u003cunitdate normal=\"1979/1984\" type=\"inclusive\"\u003e1979-1984\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref26\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAdvocacy - New York - Women In Apprenticeship/NEW (Non-Traditional Employment for Women)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid136503\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid136503\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"1979/1984\" type=\"inclusive\"\u003e1979-1984\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref27\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAdvocacy - New York - All Craft\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid136502\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid136502\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate normal=\"1979/1984\" type=\"inclusive\"\u003e1979-1984\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref28\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAdvocacy - New York - Fight Back\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid136501\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid136501\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate normal=\"1979/1984\" type=\"inclusive\"\u003e1979-1984\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref29\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAdvocacy - New York - Working Women's Institute\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid136500\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid136500\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate normal=\"1979/1984\" type=\"inclusive\"\u003e1979-1984\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref30\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAdvocacy - Boston - (WICP) Women In Non-Traditional Jobs\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid136499\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid136499\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate normal=\"1979/1984\" type=\"inclusive\"\u003e1979-1984\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref31\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAdvocacy - Washington, D.C. - Blue Collar Trades Women, Women's Work Force\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid136498\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid136498\" type=\"Folder\"\u003e6\u003c/container\u003e\n                        \u003cunitdate normal=\"1979/1984\" type=\"inclusive\"\u003e1979-1984\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref32\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAdvocacy - California - Tradeswomen, Inc.\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid136497\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid136497\" type=\"Folder\"\u003e7\u003c/container\u003e\n                        \u003cunitdate normal=\"1979/1984\" type=\"inclusive\"\u003e1979-1984\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref33\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAdvocacy - Other (PA, MN)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid136496\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid136496\" type=\"Folder\"\u003e8\u003c/container\u003e\n                        \u003cunitdate normal=\"1979/1984\" type=\"inclusive\"\u003e1979-1984\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref34\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAdvocacy - Brochures, Fact Sheets, Newsletters\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid136495\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid136495\" type=\"Folder\"\u003e9\u003c/container\u003e\n                        \u003cunitdate normal=\"1979/1984\" type=\"inclusive\"\u003e1979-1984\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n            \u003c/c01\u003e\n        "
+        }
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "mc_91"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to Eva el Masri Sidhom Memoirs  \u003cnum\u003eMC 91\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Leslie Barnes"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-01-23T15:37:39\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Sidhom, Eva el Masri"
+                    }
+                },
+                "unittitle": {
+                    "value": "Eva el Masri Sidhom Memoirs"
+                },
+                "unitdate": {
+                    "normal": "1980/1986",
+                    "type": "inclusive",
+                    "value": "circa 1980-1986"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.05 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one half manuscript box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Eva el Masri Dishom was a librarian at New York University for eleven years. This collection contains a bound copy of Eva el Masri Dishom's \"Memoirs of an Egyptian American or The Life Story of the First Co-ed at the American University in Cairo.\""
+                },
+                "unitid": {
+                    "value": "MC 91"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_bb413767c543a116ce32bdf6cea65d36",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_b1a91974b6e656526b14ad60620dd224",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Collection name; Collection number; box number; folder number; Repository Name, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_19f501e593514c186989213907c0c82f",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Youssef Sidhom in 1986."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_6d1a020940d3a4d27ecac8216773fb73",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Sidhom and her husband were active in the Coptic community. They established the Coptic Association of America and helped found the first NYC-area Coptic church in Jersey City in the early 1960s."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_97e9cff73c2b6e67f91773af25abbc3b",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection is comprised of a bound copy of Eva el Masri Sidhom's \"Memoirs of an Egyptian American or The Life Story of the First Co-ed at the American University in Cairo,\" and two notes related to the accession. The memoir explores Sidhom's early childhood in Egypt, her education, participation in the International Women's Movement, her career as a librarian, and life with her husband. Most notably are her chapters related to being the first woman to attend and graduate from the American University in Cairo and becoming a United States Citizen."
+            }
+        },
+        "controlaccess": {
+            "corpname": {
+                "source": "naf",
+                "value": "New York University. Libraries"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref1\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMemoirs of an Egyptian American or The Life Story of the First Co-ed at the American University in Cairo\u003c/unittitle\u003e\u003cunitdate normal=\"1980/1986\" type=\"inclusive\"\u003ecirca 1980-1986\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_0441f07e60bb56b400047818622f1b5f\" label=\"Mixed Materials [31142062745792]\" type=\"Box\"\u003eShared University Archives 006\u003c/container\u003e\u003ccontainer parent=\"aspace_0441f07e60bb56b400047818622f1b5f\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

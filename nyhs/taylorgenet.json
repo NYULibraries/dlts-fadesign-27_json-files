@@ -1,0 +1,139 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "taylorgenet"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Taylor \u0026amp; Genet Letters\n                    \u003clb/\u003e\n                    \u003cdate\u003e 1796-1882 \u003c/date\u003e\n                    \u003cdate\u003e\u003c/date\u003e\n                    \u003clb/\u003e\n                    \u003cnum\u003e\u003c/num\u003e\n                    \u003cnum\u003eMS 613\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Jan Hilley"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "@ 2011 New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-04T15:03-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "@ 2011 New-York Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "The Taylor \u0026amp; Genet Letters"
+                },
+                "unitdate": {
+                    "value": "1796 - 1882"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.5 Linear feet"
+                        },
+                        {
+                            "value": "(1 box)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Correspondence involving members of several families who emigrated to America in the late eighteenth century -- Taylor and Gazzam, from England, and Genet, from France. The majority of letters are those of Joseph Gazzam Taylor and his wife, Elizabeth Tallmadge Taylor between 1834 and 1873. There are also a significant number of letters belonging to Joseph Taylor's parents, William Taylor, Jr. and Mary Alice Gazzam Taylor, dated from 1796 through 1842."
+                },
+                "unitid": {
+                    "value": "MS 613"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref5",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Photocopying undertaken by staff only. Limited to twenty exposures of stable, unbound material per day. (Researchers may not accrue unused copy amounts from previous days.)"
+            }
+        },
+        "prefercite": {
+            "id": "ref7",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "This collection should be cited as Taylor \u0026amp; Genet Letters, The New-York Historical Society."
+            }
+        },
+        "bioghist": {
+            "id": "ref8",
+            "head": "Biographical Note"
+        },
+        "scopecontent": {
+            "id": "ref11",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "Most of the letters are in good condition. The ink has faded on some of them and there are those with handwriting that is difficult to decipher, in particular those with cross-writing."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Family -- United States"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Pioneers -- Iowa"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Riots -- Pennsylvania -- Philadelphia"
+                }
+            ],
+            "corpname": {
+                "source": "ingest",
+                "value": "Newark college"
+            }
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref13\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e\u003c/unittitle\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref14\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eLetters Received, William Taylor, Jr.\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid504614\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid504614\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate\u003e1837-1842, Undated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref15\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eLetters Received, Mary Alice Gazzam Taylor\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid504613\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid504613\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate\u003e1796-1827, Undated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref16\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eLetters Received, Joseph Gazzam Taylor\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid504612\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid504612\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate\u003e1834-1839\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref17\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eLetters Received, Joseph Gazzam Taylor\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid504611\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid504611\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate\u003e1841-1844\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref18\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eLetters Received, Joseph Gazzam Taylor\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid504610\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid504610\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate\u003e1845-1852, Undated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref19\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eLetters Received, Elizabeth M. Tallmadge Taylor\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid504609\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid504609\" type=\"Folder\"\u003e6\u003c/container\u003e\n                        \u003cunitdate\u003e1839-1849\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref20\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eLetters Received, Elizabeth M. Tallmadge Taylor\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid504608\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid504608\" type=\"Folder\"\u003e7\u003c/container\u003e\n                        \u003cunitdate\u003e1852-1873, Undated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref21\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eLetters Received, Thomas William Taylor\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid504607\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid504607\" type=\"Folder\"\u003e8\u003c/container\u003e\n                        \u003cunitdate\u003e1843-1854\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref22\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eLetters Received, Benjamin Cook Taylor\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid504606\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid504606\" type=\"Folder\"\u003e9\u003c/container\u003e\n                        \u003cunitdate\u003e1844\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref23\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eLetters Received, Othniel Hart Taylor\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid504605\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid504605\" type=\"Folder\"\u003e10\u003c/container\u003e\n                        \u003cunitdate\u003e1838-1848\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref24\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eLetters Received, Isaac Ebenezer and Eliza Mollen Taylor\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid504604\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid504604\" type=\"Folder\"\u003e11\u003c/container\u003e\n                        \u003cunitdate\u003e1837-1855, Undated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref25\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence, A. Rivers Taylor\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid504603\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid504603\" type=\"Folder\"\u003e12\u003c/container\u003e\n                        \u003cunitdate\u003e1852-1882, Undated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref26\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence/Orders, Clinton T. Taylor\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid504602\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid504602\" type=\"Folder\"\u003e13\u003c/container\u003e\n                        \u003cunitdate\u003e1864-1866\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref27\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eLetters Received, Phillip Burrows\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid504601\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid504601\" type=\"Folder\"\u003e14\u003c/container\u003e\n                        \u003cunitdate\u003e1840-1846\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref28\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMiscellaneous Correspondence and Papers, Taylor \u0026amp; Genet Family\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid504600\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid504600\" type=\"Folder\"\u003e15\u003c/container\u003e\n                        \u003cunitdate\u003e1842-1861, Undated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

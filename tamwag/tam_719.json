@@ -1,0 +1,163 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_719"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "James Wechsler Research Files on Hugo Gellert \u003cnum\u003eTAM 719\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Heather Mulliner"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-07-16T16:18:11\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Wechsler, James"
+                    }
+                },
+                "unittitle": {
+                    "value": "James Wechsler Research Files on Hugo Gellert"
+                },
+                "unitdate": {
+                    "normal": "1943/2007",
+                    "type": "inclusive",
+                    "value": "1943-1975, 1994-2007"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1.75 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 record carton, 1 manuscript box, and 1 half manuscript box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The James Wechsler Research Files on Hugo Gellert contain Federal Bureau of Investigation's (FBI) files on artist Hugo Gellert. They include two sets of files on Gellert from the main FBI office as well as two small sets of FBI files related to individuals associated with Gellert including that of his brother Otto Gellert, and fellow artist Anton Refregier. Hugo Gellert was a communist graphic artist who is most well-known for his depictions of working-class struggle and artwork supporting organized labor. His work appeared in a number of radical publications including the \u003cemph render=\"italic\"\u003eMasses\u003c/emph\u003e, the \u003cemph render=\"italic\"\u003eLiberator\u003c/emph\u003e, and the \u003cemph render=\"italic\"\u003eNew Masses\u003c/emph\u003e, as well as mainstream periodicals like the \u003cemph render=\"italic\"\u003eNew Yorker\u003c/emph\u003e."
+                },
+                "unitid": {
+                    "value": "TAM 719"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_99c6de299f7013f554189749312c53d2",
+                    "label": "Mixed Materials [31142063122892]",
+                    "type": "Box",
+                    "value": "3"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_914724b20dd1139ed0b1ef50858639cb",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_f3846d647546b2a922cc1a885adac891",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; James Wechsler Research Files on Hugo Gellerts; TAM 719; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_94eed1b4b593b3d22aed3dd292973a25",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by James Wechsler in 2017. The accession number associated with this gift is 2017.011."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_b5eb5c6eacbe8dba0067b525d7a51373",
+            "head": "Biographical / Historical",
+            "p": {
+                "value": "Hugo Gellert was a communist graphic artist whose work appeared in a number of radical publications including the \u003cemph render=\"italic\"\u003eMasses\u003c/emph\u003e, the \u003cemph render=\"italic\"\u003eLiberator\u003c/emph\u003e, and the \u003cemph render=\"italic\"\u003eNew Masses\u003c/emph\u003e. His is most well-known for his depictions of working-class struggle and artwork supporting organized labor."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_1d2872b994bd77f1416bbf3722f7ce5a",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The James Wechsler Research Files on Hugo Gellert primarily consist of Federal Bureau of Investigation's (FBI) files on artist Hugo Gellert. The collection includes two sets of files on Gellert from the main FBI office: File 100-19719, Sections 1-4, and the New York regional office: File 100-NY-9645, Serials 1-1015. The collection also contains a small amount of correspondence between James Wechsler the Federal Bureau of Investigation regarding Wechsler's Freedom of Information Act (FOIA) requests to obtain access to Gellert's files. Also included among these materials are two small sets of FBI files related to individuals associated with Gellert including that of his brother Otto Gellert, and fellow artist Anton Refregier."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Communism and art -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Painters -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Mural painting and decoration -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Politics in art."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Intelligence service -- United States"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

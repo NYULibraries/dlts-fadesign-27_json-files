@@ -1,0 +1,139 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "karlvogel"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Karl Vogel Papers Relating to His Construction of a Model of the U.S. Frigate Constitution\n                    \u003clb/\u003e1924-1930\n                    \u003clb/\u003e\n                    \u003cnum\u003eMS 3030\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Larry Weimer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "© 2011 New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                },
+                "date": "July 2017"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2017-07-24T11:30-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "© 2011 New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Vogel, Karl, M.D."
+                    }
+                },
+                "unittitle": {
+                    "value": "Karl Vogel papers relating to his construction of a model of the U.S. Frigate \n                \u003cemph render=\"italic\"\u003eConstitution\u003c/emph\u003e"
+                },
+                "unitdate": {
+                    "value": "1924-1930"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.21 Linear feet"
+                        },
+                        {
+                            "value": "in one document box"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The collection includes drawings, photographs, notes, and correspondence related to Karl Vogel's construction in 1927 of a one-eighth inch to the foot scale model of the U.S. Frigate \n                \u003cemph render=\"italic\"\u003eConstitution\u003c/emph\u003e. The correspondence primarily includes letters, many with drawings, from Lieutenant-Colonel William F. Spicer of the Navy."
+                },
+                "unitid": {
+                    "value": "MS 3030"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid2935001",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref4",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open to qualified researchers."
+            }
+        },
+        "prefercite": {
+            "id": "ref7",
+            "head": "Preferred Citation Note",
+            "p": {
+                "value": "This collection should be cited as the Karl Vogel papers relating to his construction of a model of the U.S. Frigate Constitution, MS 3030, New-York Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref6",
+            "head": "Immediate Source of Acquisition Note",
+            "p": {
+                "value": "Gift from Karl Vogel, M.D., February 1967. Vogel's papers were donated to N-YHS as a complement to his principal donation, made at the same time, of the model of the \n                \u003cemph render=\"italic\"\u003eConstitution\u003c/emph\u003e he constructed (likely accession 1967.8). The model was deaccessioned in June 2009."
+            }
+        },
+        "scopecontent": {
+            "id": "ref9",
+            "head": "Scope and Contents Note",
+            "p": {
+                "value": "Other reference material includes typescripts of letters written by Charles Edward Fleming on board the \n                \u003cemph render=\"italic\"\u003eConstitution\u003c/emph\u003e in 1835-1837. There are also photographs of the U.S. frigate \n                \u003cemph render=\"italic\"\u003eConstitution\u003c/emph\u003e, of a model of it, and of the \n                \u003cemph render=\"italic\"\u003e\"Constitution\u003c/emph\u003e as built for moving pictures.\" There are also three photographs of the U.S.S. \n                \u003cemph render=\"italic\"\u003eConstellation.\u003c/emph\u003e"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Ship models"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Constitution (Frigate)."
+            }
+        },
+        "dsc": {}
+    }
+}

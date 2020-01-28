@@ -1,0 +1,164 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_244"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Revolutionary Workers Headquarters Records \u003cnum\u003eTAM 244\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-08T18:17:11\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Revolutionary Workers Headquarters Records"
+                },
+                "unitdate": {
+                    "normal": "1976/1980",
+                    "type": "inclusive",
+                    "value": "1976-1980"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in two manuscript boxes."
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "TAM 244"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_6e2c42ea1d3fb4d6250b5af565517c49",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1-2"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_bd2f13d4cfaa8b52e7f7b05c3066dc69",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_d9722705234a73ee21eed79a16335e51",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Revolutionary Workers Headquarters Records; TAM 244; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_7521c27bfe984ea81fdfe5626919b1c2",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Provenance unknown. The accession number associated with this gift is 1950.219."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_94b197c87eb63d73fe390721310d3e5e",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "The Revolutionary Workers Headquarters (RWH) was a U.S. Marxist-Leninist-Maoist organization that formed out of a split from the Revolutionary Communist Party in 1977. Two years after the death of Mao Zedong, the majority of the Revolutionary Communist Party, led by Bob Avakian, felt that the Chinese government had adopted revisionist policies, while the minority, which supported the then current regime of the Community Party of China (CCP), established the RWH. Subsequently, RWH merged with the Bay Area Communist Union, the League of Revolutionary Struggle, and other organizations to from the Committee to Unite Marxist-Leninists. The RWH was active in the labor movement, struggles of oppressed nationalities, the women's movement, the student movement, and the struggle for divestiture from companies doing business in apartheid South Africa. It was directly involved with founding of the Progressive Student Network."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_6769f2edbd2eea0350398b29457f2b18",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection contains meeting reports, circulars, bulletins, leaflets and position papers of national, local, and district units."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Communism -- California."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Communism -- United States."
+                },
+                {
+                    "source": "local",
+                    "value": "Maoism |z California."
+                },
+                {
+                    "source": "local",
+                    "value": "Maoist parties |z United States."
+                },
+                {
+                    "source": "local",
+                    "value": "Maoism -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Communist parties |z United States."
+                },
+                {
+                    "source": "local",
+                    "value": "Maoism."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Revolutionary Workers Headquarters of the RCP"
+            }
+        },
+        "dsc": {}
+    }
+}

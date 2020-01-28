@@ -1,0 +1,134 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "pr390_gerald_geerlings"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Gerald K. Geerlings Prints\u003clb/\u003e1975-1976\u003clb/\u003e \u003cnum\u003ePR 390\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Larry Weimer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-03-29T15:55:56\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Geerlings, Gerald K. (Gerald Kenneth), 1897-"
+                    }
+                },
+                "unittitle": {
+                    "value": "Gerald K. Geerlings prints"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "1975-1976"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1.5 Linear feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one flat file"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Eleven prints of New York City scenes of the 1970s, drawn, printed and signed by Gerald K. Geerlings (1897-1998)."
+                },
+                "unitid": {
+                    "value": "PR 390"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_cab976101a85284997eced885a304729",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to qualified researchers by appointment only. To schedule an appointment, contact the Print Room Librarian at printroom@nyhistory.org."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_d9b843455a15b1f11efc87fb49de612e",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Credit line: Gift of Jeannette Flamm Brockman in memory of Bella Trachtenberg, a native New Yorker who loved and appreciated New York City and visited many of its locales."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_aee154c27151232aa468ed06949c8f7a",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Gift of Jeannette Flamm Brockman, 2019."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_85c9ef3e7116273c925ebfb330f6800f",
+            "head": "Biographical / Historical",
+            "p": {
+                "value": "(The above note was based on the biographical note found on the website of \u003cextref actuate=\"onRequest\" href=\"https://kiechelart.com/artist/gerald-geerlings/\"\u003eKiechel Fine Art Gallery.\u003c/extref\u003e)"
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_a02f781870462935eda270460bf15474",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The container list includes the title of all prints in the collection. The title shown is that noted in pencil by Geerlings on the print. The scope note beneath each title includes in quotation marks the more literal description of the scene depicted as included in the original print by Geerlings. Additional description of the scene that was added by the processing archivist is shown in the note outside of quotation marks."
+            }
+        },
+        "controlaccess": {},
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ee576e7b3dd4d90e88cfb9b53e76530b\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph title=\"italic\"\u003eAcropolis Americana\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitdate\u003e1975\u003c/unitdate\u003e\u003ccontainer id=\"aspace_189a30d638c9c650d0789ba96afd9e51\" label=\"Graphic Materials\" type=\"Folder\"\u003eFF-1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_5525e094151be20d84c62f9c1fb28497\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003e\"Lincoln Center, New York\"\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_00e7c7255a5babd28d616a9e2d02fcad\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph title=\"italic\"\u003eAspirations Unlimited\u003c/emph\u003e (2 prints)\u003c/unittitle\u003e\u003cunitdate\u003e1975\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2e33a6286bb9477b6071d67d6c70bea4\" label=\"Graphic Materials\" type=\"Folder\"\u003eFF-1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_4ef25419ee4f0a2b505ba255e5f97ca8\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003e\"Nieuw Amsterdam, 1656 - New York, 1975\". View of colonial New York, with modern lower Manhattan skyline behind in mist (with World Trade Center towers).\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_d67dfb5f0032b6c5d602ace7c2177f07\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph title=\"italic\"\u003eHail Utopia!\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitdate\u003e1975\u003c/unitdate\u003e\u003ccontainer id=\"aspace_bfb142b60000abdfa72788b7b2fa5691\" label=\"Graphic Materials\" type=\"Folder\"\u003eFF-1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_09a6cf40e1cb9f257cf8586b2730ec4f\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003e\"Central Park South, New York\". Park interior with city buildings rising in the distance.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_d473f472fef8b91d2aec10245a57824a\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph title=\"italic\"\u003eOld Fort, New Fortresses\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitdate\u003e1975\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7eeaa82376f0098b8ea241feff82ae9b\" label=\"Graphic Materials\" type=\"Folder\"\u003eFF-1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_3b6ae5a1f6962ea749550bde5ddecae9\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003e\"The Battery, New York\" with a \"Phantom Warship, circa 1730\" in harbor at bottom right. Includes view of Fort Clinton, with lower Manhattan buildings behind.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_8cd04afdfd0b58501c0e2a80229aaec8\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph title=\"italic\"\u003eSing Hallelujah!\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitdate\u003e1975\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e0b345480da92cc4ed85d954c6fb8abe\" label=\"Graphic Materials\" type=\"Folder\"\u003eFF-1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_64cd4870530ce4351957414fc937febb\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003e\"Central Park, New York\". Park interior with city buildings rising in the distance.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_1b050b500f5733a77644e13b090c89a2\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph title=\"italic\"\u003eBicentennial Neighbors\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitdate\u003e1976\u003c/unitdate\u003e\u003ccontainer id=\"aspace_867d32f734d21bcf2d6ec4031c713964\" label=\"Graphic Materials\" type=\"Folder\"\u003eFF-1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_bd7c1c23108d6e0b07505d74a9faad0b\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003e\"Water and Broad Streets, Lower Manhattan\"\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_c1f6dd52a9e98ce72951a0ea81595d99\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph title=\"italic\"\u003eBicentennial Oasis\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitdate\u003e1976\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f17cadc39f63f780d24842b917aa79ad\" label=\"Graphic Materials\" type=\"Folder\"\u003eFF-1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_05a69a4fc4adb0ecebdf6585eeb9e663\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003e\"Hanover Square, Lower Manhattan\"\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_61fbc69861acc5f744f6cfcd3b848e7e\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph title=\"italic\"\u003eDawn of a New Era\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitdate\u003e1976\u003c/unitdate\u003e\u003ccontainer id=\"aspace_6ddd7685cd65a03eca4fa46ce9b985eb\" label=\"Graphic Materials\" type=\"Folder\"\u003eFF-1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_e0a1fd7dc8a00d7606b7b7687bb627e6\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003e\"Gen. Washington Bade Farewell to His Officers Here at Fraunces Tavern, Lower Manhattan, 4th December 1783\"\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_de302074bff727e5b1f81d54ff2dadf2\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph title=\"italic\"\u003eMidtown Oasis\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitdate\u003e1976\u003c/unitdate\u003e\u003ccontainer id=\"aspace_47ff5dbd44925da7ccdf0382aa749955\" label=\"Graphic Materials\" type=\"Folder\"\u003eFF-1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_6ac7bec4ed075528c62ae54d2ccec72a\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003e\"Avenue of the Americas, North of West 49th Street, New York\"\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_4e09a40299513d69c7dec914d878a55c\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph title=\"italic\"\u003eOld Spire, New Towers\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitdate\u003e1976\u003c/unitdate\u003e\u003ccontainer id=\"aspace_3510efa24e33d46ec790268a0b137811\" label=\"Graphic Materials\" type=\"Folder\"\u003eFF-1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_f0cfc7acfd0b28dc6bef233e8e007dac\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003e\"St. Paul's, Trinity Parish, Erected 1766. Broadway at Fulton Street, New York.\" World Trade Center towers rise behind St. Paul's.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e"
+        }
+    }
+}

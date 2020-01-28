@@ -1,0 +1,137 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_636"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Benjamin Doctorich Photographs and Blueprints of New York City Hall \u003cnum\u003eTAM 636\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Erika Gottfried"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-06-28T20:41:52\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Benjamin Doctorich Photographs and Blueprints of New York City Hall"
+                },
+                "unitdate": {
+                    "normal": "1954/1956",
+                    "type": "inclusive",
+                    "value": "1954-1956"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.75 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one manuscript box and two oversize folders"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "TAM 636"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_8c1330b91eeb4733bb7ab392a0313b90",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_189d5ae389b19597ebc7afd01740caa7",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_06b50a3df89b3994213a0a03dac6c036",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Benjamin Doctorich Photographs and Blueprints; TAM 641; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_e7a8b81810fd1fd3b0c662e6fffddff8",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Douglas Kahan in 2001. The accession number associated with this gift is 2013.040."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_d7e0b9edf776e5ef8ef76062c57d8a57",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Doctorich may have worked for Shreve, Lamb, and Harmon Associates, a prominent architectural firm best known for designing the Empire State Building."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_9b4236f31b0f6f4628baee71a5a8e2fb",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The drawings consist of blueprints and working drawings that appear to have been produced by by the contractor that performed the work and/or the architectural firm that produced the designs for the job (the Republic-United Stone Corporation and the architectural firm of Shreve, Lamb, and Harmon, respectively--the names of each appear on the drawings) and they were submitted to and approved by the New York City Department of Public Works. "
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Construction projects."
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

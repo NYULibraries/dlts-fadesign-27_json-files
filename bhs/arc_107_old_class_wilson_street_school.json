@@ -1,0 +1,156 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arc_107_old_class_wilson_street_school"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Old First Class of Wilson Street School records\n                    \u003cnum\u003eARC.107\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Weatherly Stephan"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "September 17, 2010"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-23T10:39-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Old First Class of Wilson Street School records"
+                },
+                "unitdate": {
+                    "normal": "1873/1942",
+                    "type": "inclusive",
+                    "value": "1873-1942"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "2.0 Linear feet"
+                        },
+                        {
+                            "value": "in six manuscript boxes and one short-top box."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "ARC.107"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid483002",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "ARC.107 Box 6"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref3",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref5",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Old First Class of Wilson Street School records, ARC.107, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref4",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of John Anderson, Jr. and R.N. Field, 1936."
+            }
+        },
+        "bioghist": {
+            "id": "ref2",
+            "head": "Historical note",
+            "p": {
+                "value": "The Old First Class was an alumni association for graduates of the Wilson Street School, also known as P.S. 16 and the Leonard Dunkly School, located at 157 Wilson Street in the Williamsburg neighborhood of Brooklyn, N.Y. The organization was founded in 1873 upon the retirement of a popular teacher, Miss Emma J. Dunkly. Founding members of the Old First Class were primarily from the 1868 graduating class, but membership was open to all pre-1870 graduates of P.S. 16. One notable member of the Old First Class, among many Brooklyn businessmen and civil servants, was Frederick W. Wurster, the last Mayor of the City of Brooklyn from 1896 to 1898. The Old First Class held yearly banquets, serving as class reunions, and advocated for the continued maintenance and growth of P.S. 16. Membership dwindled as members aged; by the time of the 50th anniversary in 1923, only 22 of its 63 members were still living."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection, dated 1873 to 1942 and housed in six manuscript boxes and one short-top box, contains the business records of the Old First Class. Materials in the collection document the organization's membership, officers, annual meetings, and activities. The bulk of the collection consists of correspondence, including letters, postcards, telegrams, and memos, from 1896 to 1923; treasurers' files dated 1873 to 1916; and minute books from 1873 to 1931. The balance of the manuscript material includes news clippings, committee reports, member lists, and the organization's various rules and regulations. Visual material includes cabinet cards, group portraits, printing plates, and photographs depicting members of the Old First Class, Principal Leonard Dunkly, and the Wilson Street School. These visual items were likely used as illustrations in Old First Class publications. Items relating specifically to the Old First Class annual banquets include printed programs, receipts, speeches, class poems and songs, printing plates, and printed notices and announcements."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Alumnae and alumni"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Clubs |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Public schools |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Public schools |z New York (State) |z New York"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Wilson Street School (Brooklyn, New York, N.Y.) ."
+            }
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_791"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Soviet Union Postage Stamp Album \u003cnum\u003eTAM.791\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Kate Fisher"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-03-28T13:48:28\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Soviet Union Postage Stamp Album"
+                },
+                "unitdate": {
+                    "normal": "1972/1976",
+                    "type": "inclusive",
+                    "value": "1972-1976"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": ".25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 half manuscript box."
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "This postage stamp album dates from 1972 to 1976, and contains stamps with images of the Soviet space program, indigenous animals, and political leaders."
+                },
+                "unitid": {
+                    "value": "TAM.791"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_84d1086793ae22b4fb38fd146df14894",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_8da28402239445af9a391cdba5c5cc56",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Soviet Union Postage Stamp Album; TAM 791; box number; folder number or item identifier; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_89b0b3eefdfd812beb3e2aa233954908",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "There is no documentation concerning the provenance of these materials. The accession number associated with this donation is 2019.031."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_49dae32c9a1f6738261bbfd59b022ea2",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection consists of a postage stamp album from 1972 to 1976, and contains stamps with images of the Soviet space program, indigenous animals, and political leaders."
+            }
+        },
+        "controlaccess": {},
+        "dsc": {
+            "value": "\u003cc id=\"aspace_30fceef384340c35eb84b618930cf185\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePostage Stamp Album\u003c/unittitle\u003e\u003cunitdate normal=\"1972/1976\" type=\"inclusive\"\u003e1972-1976\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_a673e3ca08b1fe0a7c92549b874f337b\" label=\"Mixed Materials [31142063340999]\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

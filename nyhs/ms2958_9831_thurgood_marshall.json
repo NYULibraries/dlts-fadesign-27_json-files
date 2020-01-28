@@ -1,0 +1,95 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "ms2958_9831_thurgood_marshall"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Thurgood Marshall Signature\u003clb/\u003e1976 April 15\u003clb/\u003e \u003cnum\u003eAHMC - Marshall, Thurgood\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Larry Weimer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-04-24T19:54:07\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Marshall, Thurgood, 1908-1993"
+                    }
+                },
+                "unittitle": {
+                    "value": "Thurgood Marshall signature"
+                },
+                "unitdate": {
+                    "value": "1976 April 15"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "2 items"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one folder "
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Two items of Supreme Court of the United States stationery: a small notecard with the autograph of Justice Thurgood Marshall and the mailing envelope, postmarked Washington, D.C., on April 15, 1976, sent to Mr. Robert A. Smith of Long Island City, NY, with return address stamped \"Chambers of Justice Thurgood Marshall.\"\u003clb/\u003e \u003clb/\u003e\n\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: \u003cextref actuate=\"onRequest\" href=\"http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph007336947\u0026amp;context=L\u0026amp;vid=NYHS\u0026amp;search_scope=nyhs\u0026amp;tab=nyhs\u0026amp;lang=en_US\"\u003eThurgood Marshall signature\u003c/extref\u003e"
+                },
+                "unitid": {
+                    "value": "AHMC - Marshall, Thurgood"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "dsc": {}
+    }
+}

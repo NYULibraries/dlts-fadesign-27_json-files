@@ -1,0 +1,148 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "alba_photo_165"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Irving Weissman Photograph Collection \u003cnum\u003eALBA.PHOTO.165\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Evan Daniel"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-07-19T18:56:35\u003c/date\u003e"
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Weissman, Irving, 1913-1998"
+                    }
+                },
+                "unittitle": {
+                    "value": "Irving Weissman Photographs"
+                },
+                "unitdate": {
+                    "normal": "1937/1991",
+                    "type": "inclusive",
+                    "value": "1937-1991"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Irving Weissman (1913-1998) was a labor activist and a member of the Young Communist League before he went to fight in the Spanish Civil War. In Spain he trained and fought with the MacKenzie-Papineau Battalion. Many of the images in this collection were acquired by Weissman in the course of his service with the MacKenzie-Papineau Battalion in Spain. The collection contains combat and non-combat photographs, portraits, images of Czechoslovakian volunteers interned at the Gurs Concentration Camp in France, the U.S. veterans' fiftieth anniversary trip to Spain and a veterans memorial meeting."
+                },
+                "unitid": {
+                    "value": "ALBA.PHOTO.165"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_17afae53dd5af8663c54c64d4b7bf62b",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Materials are open to researchers. Please contact the Tamiment Library \u0026amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_57d96530580464697b266fea4ab9f02c",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: \u003clb/\u003e\u003clb/\u003eIdentification of item, date; Collection name; Collection number; box number; folder number; \u003clb/\u003eTamiment Library/Robert F. Wagner Labor Archives \u003clb/\u003eElmer Holmes Bobst Library \u003clb/\u003e70 Washington Square South \u003clb/\u003eNew York, NY 10012, New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_b48ba8701a7bc97613769a78235b2606",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Weissman departed for Spain on the SS American Importer on May 8, 1937. In Spain, he trained with the MacKenzie-Papineau Battalion and went into action with that battalion on the Aragon front and at Fuentes de Ebro in September and October 1937. Weissman fell ill at the end of October and was sent with a delegation of the 15th International Brigade to Barcelona, where he performed guard duties while he recovered. He rejoined the MacKenzie-Papineau Battalion in December 1937. Weissman left Spain on December 15, 1938."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_e644ced51da97b3f84021752bcd7195f",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "\u003cemph render=\"bold\"\u003eSeries II: Negatives\u003c/emph\u003e. Ten negatives containing images of Peter Frye, Hy Stone, Czechoslovakian volunteers at the Gurs Concentration Camp in France, VALB Fiftieth Anniversary Trip, Florida Veterans, Irish Veterans, a painting of Anthony and Edna Toney, and an unidentified couple. Eight of the ten negatives match prints in the collection."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Spain -- History -- Civil War, 1936-1939."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Spain. Ejercito Popular de la Republica. Abraham Lincoln Battalion"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref14\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I. Photographs\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref15\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eContact Sheets: 7 sheets, all showing a Veterans Memorial Gathering. (Among the veterans pictured are: Steve Nelson, George Brodsky, Norman Berkowitz, Stanley Postek, George Watt, Abraham Osheroff, Albert Prago, Al Koslow, Moe Fishman, John Koblich, Abe Smorodin, Hy Wallach, Adolf (Buster) Ross, George A. Cullinen Jr., Stephen Zak, Pete Smith, Court Bevensee, John Tisa, Louis Gordon, John Tisa, John Robinson, John Toutoloff, James Yates, Oscar Hunter, Irving Weissman, Nat Gross, and Ken Graeber.)\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e{1970s or 1980s]\u003c/unitdate\u003e\u003ccontainer id=\"aspace_fcd42d8db4630beca04842165ad3fb74\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_fcd42d8db4630beca04842165ad3fb74\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCzechoslovakian Volunteers: Gurs Concentration Camp, France\u003c/unittitle\u003e\u003cunitdate normal=\"1927/1947\" type=\"inclusive\"\u003eca.1937-1937\u003c/unitdate\u003e\u003ccontainer id=\"aspace_427b9561967b1b03ea2ea36366d84e3d\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_427b9561967b1b03ea2ea36366d84e3d\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDamaged/Shelled Buildings: Belchite\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1991\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_82c345b210204a168a66e2edbf4264c5\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_82c345b210204a168a66e2edbf4264c5\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFiftieth Anniversary Veterans Trip: Orrin Feldt (far left), Joe Hautaneimi (second from right)\u003c/unittitle\u003e\u003cunitdate normal=\"1987/1987\" type=\"inclusive\"\u003e1987\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d39ab8911cb62e9436e11c8a1f57b36f\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d39ab8911cb62e9436e11c8a1f57b36f\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFlorida Veterans: (Back Row) Mike Jimenez, Norman Berkowitz, Bill Rappaport, Irving Gold, Milt Felson, Marvin Penn (Canadian), Tom Keenan, John Tisa; (Front Row) Hy Hirsch, Rubin Erlich, Rose Wachsman (Sorkin), Joe Aznar, Lake Worth Florida\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eMar 24, 1990\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d632d894860d17ccfc409b33aa55ebcc\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d632d894860d17ccfc409b33aa55ebcc\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFrye, Peter: Portrait, post-SCW\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1991\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_20bda6e3fcc1317a1c743f3222752db5\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_20bda6e3fcc1317a1c743f3222752db5\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eGoldring, Ben: Portrait, post-SCW\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1991\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_8c715c685aa50259585d225e11807f27\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_8c715c685aa50259585d225e11807f27\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLabor History News: Memorial to Irish Veterans, Spain\u003c/unittitle\u003e\u003cunitdate normal=\"1991/1991\" type=\"inclusive\"\u003e1991\u003c/unitdate\u003e\u003ccontainer id=\"aspace_295ff4a39c77b09b46795ac67d5f48af\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_295ff4a39c77b09b46795ac67d5f48af\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLabor History News: Veterans on Cover\u003c/unittitle\u003e\u003cunitdate normal=\"1991/1991\" type=\"inclusive\"\u003e1991\u003c/unitdate\u003e\u003ccontainer id=\"aspace_57edfb7bba6e97bda7d1585df6ad21dc\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_57edfb7bba6e97bda7d1585df6ad21dc\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMemorial to Jewish Volunteers Killed in Spain, Barcelona\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1991\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d6a008a093a435bb0c8da8f0327b275a\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d6a008a093a435bb0c8da8f0327b275a\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNoble, Marion: with Robert Steck, post-SCW\u003c/unittitle\u003e\u003cunitdate normal=\"1941/1941\" type=\"inclusive\"\u003e1941\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9eb0158401ba74c8e604cd478aafe85d\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_9eb0158401ba74c8e604cd478aafe85d\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref26\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eShuman, Jack: with anti-Fascist Posters, post-SCW\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1991\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e354a8119e944f7f2f35fe564e03ec94\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e354a8119e944f7f2f35fe564e03ec94\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSpanish Civilians: Celia, Murcia\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eMay 1937\u003c/unitdate\u003e\u003ccontainer id=\"aspace_33a883ef69cce40dbd08e43c78b6c868\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_33a883ef69cce40dbd08e43c78b6c868\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref28\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eStone, Hy: Behind the Lines, Rest and Relaxation, Jarama\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eJun 1937\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1bfd06fff57e1a62b035f03c3c4d229b\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1bfd06fff57e1a62b035f03c3c4d229b\" type=\"Folder\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref29\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eToney, Anthony: Painting of Anthony and Edna Toney\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1991\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d6a5384660f82b001c82170bf84e2bf3\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d6a5384660f82b001c82170bf84e2bf3\" type=\"Folder\"\u003e15\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref30\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eVeterans: Art Taylor, Marion Noble, Phil Raymond, Robert Steck, Seattle, WA\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eOct 1967\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e30c9f0726b25a66b79b4482d3a0d01a\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e30c9f0726b25a66b79b4482d3a0d01a\" type=\"Folder\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref31\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eVALB: Anti-Apartheid March\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eJun 14, 1986\u003c/unitdate\u003e\u003ccontainer id=\"aspace_3170bb6f7ec2482f5fbdf4c5781f60c2\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_3170bb6f7ec2482f5fbdf4c5781f60c2\" type=\"Folder\"\u003e17\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref32\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eVeterans Memorial Meeting\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1991\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4bf1d1333341ece8e7386319318c3153\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_4bf1d1333341ece8e7386319318c3153\" type=\"Folder\"\u003e18\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref33\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eVeterans Memorial Meeting: Charles Clements (l) Steve Nelson (r)\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1991\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_0a26ce977f1a84d7778c9d598bb0db65\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0a26ce977f1a84d7778c9d598bb0db65\" type=\"Folder\"\u003e19\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref34\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eVeterans Memorial Meeting: Charles Clements, Steve Nelson, Harry Fisher, Henry Foner\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1991\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ee7e4043d7b2315123bc8ab9925f0755\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ee7e4043d7b2315123bc8ab9925f0755\" type=\"Folder\"\u003e20\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref35\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eVeterans Memorial Meeting: Frances Patai\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1991\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9d3b538ac7edb6f556acd4d5a1c9420d\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_9d3b538ac7edb6f556acd4d5a1c9420d\" type=\"Folder\"\u003e21\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref36\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eVeterans Memorial Meeting: Marty Balter (l) Steve Nelson (r)\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1991\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_8129f47a00b07c165b6bb1551c7b8808\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_8129f47a00b07c165b6bb1551c7b8808\" type=\"Folder\"\u003e22\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref37\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eVeterans Memorial Meeting: Moe Fishman (standing), Steve Nelson (being hugged), Charles Clements (hugging Nelson)\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1991\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2821d5ad0c9b112a6746d6b5796c7f02\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2821d5ad0c9b112a6746d6b5796c7f02\" type=\"Folder\"\u003e23\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref38\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eVeterans Memorial Meeting: Moe Fishman and Unidentified Men\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1991\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4a37ba0c23afed484f0871c3887e24bf\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_4a37ba0c23afed484f0871c3887e24bf\" type=\"Folder\"\u003e24\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref39\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eVeterans Memorial Meeting: (l to r) Ruth Epstein, Jacob Epstein, Jack Bjoze, Clarence Kailin, Dave Engleson, Jess Wallach, Blas Padrino (rear), Len Levenson, Ruby Schneiderman, Charles Nusser, Bill Sennett\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1991\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_6a3e49c71ab635b717c0a9d3a02049e9\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_6a3e49c71ab635b717c0a9d3a02049e9\" type=\"Folder\"\u003e25\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref40\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eVeterans Memorial Meeting: Steve Nelson\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1991\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_81a72690182da56d5c62cf4e755444b7\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_81a72690182da56d5c62cf4e755444b7\" type=\"Folder\"\u003e26\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref41\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eVeterans Monument: Sierra de Pandols\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1991\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f7d07b53334edec30c9acc72f619fa36\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f7d07b53334edec30c9acc72f619fa36\" type=\"Folder\"\u003e27\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref42\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eWeissman, Irving: Portrait, post-SCW\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1991\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_657c6169f9757becad875e3ce6318887\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_657c6169f9757becad875e3ce6318887\" type=\"Folder\"\u003e28\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref43\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eWeissman, Irving: Portrait, Spain\u003c/unittitle\u003e\u003cunitdate normal=\"1927/1948\" type=\"inclusive\"\u003eca.1937-1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_dda51090249703554fbefb6df8a47bb3\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_dda51090249703554fbefb6df8a47bb3\" type=\"Folder\"\u003e29\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref44\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eWinston, Henry: with Oscar Hunter, Yusif Story, Randall (Pete) Smith, Len Levenson, U.S.\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eMay 12, 1980\u003c/unitdate\u003e\u003ccontainer id=\"aspace_0ca343974f2d7b122b4f8512320d4f8a\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0ca343974f2d7b122b4f8512320d4f8a\" type=\"Folder\"\u003e30\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref45\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNegative: Czechoslovakian Volunteers, Gurs Concentration Camp, France\u003c/unittitle\u003e\u003cunitdate normal=\"1927/1948\" type=\"inclusive\"\u003eca.1937-1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_cde56323475a9c0c537f3f0d43e85c22\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_cde56323475a9c0c537f3f0d43e85c22\" type=\"Folder\"\u003e31\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref46\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries II. Negatives\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref47\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNegative: Fiftieth Anniversary Veterans Trip, Orrin Feldt (far left), Joe Hautaneimi (second from right)\u003c/unittitle\u003e\u003cunitdate normal=\"1987/1987\" type=\"inclusive\"\u003e1987\u003c/unitdate\u003e\u003ccontainer id=\"aspace_249139af7636916d6eb134ce3cea88d8\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_249139af7636916d6eb134ce3cea88d8\" type=\"Folder\"\u003e32\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref48\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNegative: Florida Veterans\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eMar 24, 1990\u003c/unitdate\u003e\u003ccontainer id=\"aspace_582f9dc6747f29109880e9a66250f356\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_582f9dc6747f29109880e9a66250f356\" type=\"Folder\"\u003e33\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref49\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNegative: Hy Stone, Behind the Lines, Rest and Relaxation, Jarama\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eJun 1937\u003c/unitdate\u003e\u003ccontainer id=\"aspace_eaf04477644cae15a465fb1382bbffa8\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_eaf04477644cae15a465fb1382bbffa8\" type=\"Folder\"\u003e34\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref50\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNegative: Labor History News, Memorial to Irish Veterans\u003c/unittitle\u003e\u003cunitdate normal=\"1991/1991\" type=\"inclusive\"\u003e1991\u003c/unitdate\u003e\u003ccontainer id=\"aspace_28f6dc0e8f12730ca1291d81608ef209\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_28f6dc0e8f12730ca1291d81608ef209\" type=\"Folder\"\u003e35\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref51\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNegative: Labor History News, Veterans on Cover\u003c/unittitle\u003e\u003cunitdate normal=\"1991/1991\" type=\"inclusive\"\u003e1991\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ec4442c4760308374bd1cb81baf9055c\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ec4442c4760308374bd1cb81baf9055c\" type=\"Folder\"\u003e36\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref52\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNegative: Peter Frye, Portrait\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1991\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_68497af6a5859ff88d740b2f786f4864\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_68497af6a5859ff88d740b2f786f4864\" type=\"Folder\"\u003e37\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref53\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNegative: Painting of Anthony and Edna Toney\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1991\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a13f9a76b1cc27dff81910d3a33030e8\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_a13f9a76b1cc27dff81910d3a33030e8\" type=\"Folder\"\u003e38\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref54\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNegative: Unidentified Couple\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1991\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_bb2de69ccd11ecf8f509561328085951\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_bb2de69ccd11ecf8f509561328085951\" type=\"Folder\"\u003e39\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

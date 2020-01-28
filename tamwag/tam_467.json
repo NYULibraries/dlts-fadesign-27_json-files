@@ -1,0 +1,133 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_467"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "N. D. Avksentiev Papers \u003cnum\u003eTAM 467\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-06-11T18:40:24\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "N. D. Avksentiev Papers"
+                },
+                "unitdate": {
+                    "normal": "1920/1949",
+                    "type": "inclusive",
+                    "value": "circa 1920s-1940s"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "TAM 467"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_0ef1a944fa981d0ef1504e9b864e66bd",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_6400fc015d4944be7d26532150cfa2be",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_a5fcd6dbae221767407bf45803d211c0",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials found in collection; provenance is unknown. The accession number associated with this collection in 1950.285."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_2c64cb65739a093a392bc1b39cae7c1d",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "N. D. (Nikolai) Avksentiev (1878-1943) was a key figure in the right wing of the Social Revolutionary Party, who played a leading role in the Duma after the February 1917 revolution in Russia and held several positions in the Kerensky government.  Arrested by the Bolshevik authorities in December 1917, he fled from Moscow to Omsk, where he and several other SR leaders participated in the attempt to set up a coalition Directorate, dominated by Admiral Kolchak.  Soon falling out with his right-wing \"allies,\" he fled again, under the protection of the British military authorities, by way of Vladivostok to Paris, where he lived and wrote as a political emigre and was active in the Freemason movement.  After the fall of France in 1940, he and his wife Berthe came to the United States, with the assistance of the Jewish Labor Committee and the American Federation of Labor, on an emergency visitors visa."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_8b7325f375b39df33f88f2611aa67df4",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection consists of draft sections of a typescript memoir and essays on Russian and Soviet history, in Russian, and an autobiographical sketch in French. Also included is a file of material on Avksentiev's memorial gathering in New York City in 1943."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Exiles |z Russia."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Socialist Revolutionary Party (Russia)"
+            }
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "ray"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Ray Family Papers\n                    \u003clb/\u003e 1794 - 1889 \n                    \u003clb/\u003e\n                    \u003cnum\u003eMS 513\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Ashley Todd"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "© 2011 New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                },
+                "date": "2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-12-13T11:49-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "© 2011 New-York Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "Ray Family Papers"
+                },
+                "unitdate": {
+                    "value": "1794-1889"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.75 Linear feet"
+                        },
+                        {
+                            "value": "(2 boxes)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The Ray Family was a prominent New York City family in the nineteenth century. Family members include Cornelius Ray (1755-1827), Robert Ray (1794-1879), Richard Ray (1799-1836) and Robert Ray Hamilton (1851-1890), the great grandson of Alexander Hamilton and primary member of the family featured in this collection. The majority of the materials concern a scandal Hamilton was the victim of, between August and November 1889, when a woman named Evangeline (Eva) Mann falsely led him to believe he was the father of a baby, Beatrice, who she had reportedly purchased from a midwife."
+                },
+                "unitid": {
+                    "value": "MS 513"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref5",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to qualified researchers."
+            }
+        },
+        "prefercite": {
+            "id": "ref8",
+            "head": "Preferred Citation note",
+            "p": {
+                "value": "This collection should be cited as the Ray Family Papers, MS 513, The New-York Historical Society."
+            }
+        },
+        "bioghist": {
+            "id": "ref2",
+            "head": "Biographical/Historical note",
+            "p": {
+                "value": "In May 1890 Hamilton left New York to take part in a hunting trip in the West. However, he soon made headlines again when he was found drowned in Yellowstone National Park's Snake River that September."
+            }
+        },
+        "scopecontent": {
+            "id": "ref7",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "This collection contains correspondence, deeds and business records from the Ray Family, primarily belonging to or concerning Robert Ray Hamilton, the great grandson of Alexander Hamilton. The majority of the materials date from a four month period in 1889 following a scandal involving Robert Ray Hamilton and Evangeline (Eva) Mann, a woman he secretly married after she falsely led him to believe that he was the father of a baby, Beatrice, who she had reportedly purchased from a midwife."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Foundlings--New York (State)--New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Scandals --United States"
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref9\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries I: Ray Family\u003c/unittitle\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref26\"\u003e\n                    \u003chead\u003eScope and Contents note\u003c/head\u003e\n                    \u003cp\u003eThis series contains materials including deeds, bills, estate and account statements and notes pertaining to various members of the Ray Family, including Cornelius Ray, Robert Ray, Schuyler Hamilton, Schuyler Hamilton, Jr., Robert Ray Hamilton, Nathalie Baylies and Richard King.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n                \u003cc id=\"ref20\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCornelius Ray, Business Papers\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid563011\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid563011\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate\u003e1794-1833\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref21\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eDeeds\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid563012\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid563012\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate\u003e1825-37\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref22\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eDeeds and Business Papers\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid563013\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid563013\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate\u003e1844-56\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref23\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eDeeds and Business Papers\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid563014\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid563014\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate\u003e1868-82, undated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref25\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eEstate of Robert Ray, Vouchers and Drafts\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid563016\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid563016\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate\u003e1880-84\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref24\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eTax Bills\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid563015\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid563015\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate\u003e1832-52\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref1\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries II: Robert Ray Hamilton\u003c/unittitle\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref27\"\u003e\n                    \u003chead\u003eScope and Contents note\u003c/head\u003e\n                    \u003cp\u003eThis series contains materials pertaining to Robert Ray Hamilton. The majority of the materials concern a scandal Hamilton was the victim of, between August and November 1889, when a woman named Evangeline (Eva) Mann falsely led him to believe he was the father of a baby, Beatrice, who she had reportedly purchased from a midwife. Only months after Hamilton secretly married her because of this claim, the truth of the situation was released publicly, resulting in family, friends and the public sending telegrams and writing letters to Hamilton expressing their sympathy for him, outrage at the situation and/or interest in adopting Beatrice. In addition to the correspondence regarding the scandal is the subpoena directing Hamilton to appear in court for Eva's trial, held in September 1889. This series also contains business correspondence regarding Hamilton's work as a lawyer and real estate agent, as well as bills resulting from his efforts to furnish the Republican Headquarters in New York City.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n                \u003cc id=\"ref19\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eBills for Furnishing the Republican Headquarters\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid563010\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid563010\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate\u003e1888-89\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref10\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eBusiness Correspondence\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid563001\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid563001\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate\u003e1868-89\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref11\" level=\"item\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence from Family\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid563002\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid563002\" type=\"Folder\"\u003e6\u003c/container\u003e\n                        \u003cunitdate\u003eAug. - Nov. 1889\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref12\" level=\"item\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence from Friends\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid563003\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid563003\" type=\"Folder\"\u003e7\u003c/container\u003e\n                        \u003cunitdate\u003eAug. - Nov. 1889\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref13\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence from the Public\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid563004\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid563004\" type=\"Folder\"\u003e8\u003c/container\u003e\n                        \u003cunitdate\u003eAug. 1889\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref14\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence from the Public\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid563005\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid563005\" type=\"Folder\"\u003e9\u003c/container\u003e\n                        \u003cunitdate\u003eSept. 1889\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref30\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence from the Public\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid564001\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid564001\" type=\"Folder\"\u003e10\u003c/container\u003e\n                        \u003cunitdate\u003eSept. 1889\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref15\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence from the Public\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid563006\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid563006\" type=\"Folder\"\u003e11\u003c/container\u003e\n                        \u003cunitdate\u003eOct. - Nov. 1889\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref16\" level=\"item\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence from the Public\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid563007\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid563007\" type=\"Folder\"\u003e12\u003c/container\u003e\n                        \u003cunitdate\u003e1889, undated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref17\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSubpoena\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid563008\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid563008\" type=\"Folder\"\u003e13\u003c/container\u003e\n                        \u003cunitdate\u003eSept. 1889\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref18\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eTelegrams\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid563009\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid563009\" type=\"Folder\"\u003e14\u003c/container\u003e\n                        \u003cunitdate\u003eAug. - Oct. 1889\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

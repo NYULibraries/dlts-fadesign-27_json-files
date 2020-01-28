@@ -1,0 +1,138 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_411"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Dan Georgakas Papers on Motion Pictures \u003cnum\u003eTAM 411\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamimen staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-29T20:18:04\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Dan Georgakas Papers on Motion Pictures"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Dan Georgakas is an anarchist,labor historian, scholar of Greek-American redicalism, and of motion pictures. Coauthor of Detroit: I Do Mind Dying and coeditor of the  Encyclopedia of the American Left and he is a long time member of the  Cineaste editorial board, and has taught part time at New York University and Queens College. The collection contains correspondence, manuscripts and subject files, most pertaining to Latin American cinema and his work for Cineaste."
+                },
+                "unitid": {
+                    "value": "TAM 411"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_af73cbc86cd460c3423b88f938189efb",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_ff26f616900b510aba16c63319666aae",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_41647dafd4feedc6abf54d132cc5d3e4",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials found in collection; provenance is unknown. The accession number associated with this gift is 1950.270."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_eeed867cdd50a49159dedb70317bfbfc",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Dan Georgakas is an anarchist,labor historian, scholar of Greek-American redicalism, and of motion pictures. Coauthor of \u003cemph render=\"italic\"\u003eDetroit: I Do Mind Dying\u003c/emph\u003e and coeditor of the \u003cemph render=\"italic\"\u003eEncyclopedia of the American Left\u003c/emph\u003e and he is a long time member of the \u003cemph render=\"italic\"\u003eCineaste\u003c/emph\u003e editorial board, and has taught part time at New York University and Queens College."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_a550c3a75bd7bd9717d852a4e1f2f4f0",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection contains correspondence, manuscripts and subject files, most pertaining to Latin American cinema and his work for \u003cemph render=\"italic\"\u003eCineaste\u003c/emph\u003e."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Motion pictures |z Latin America."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Motion pictures."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Cineaste"
+            }
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_269"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Judy Clark and Gilda Zwerman Correspondence \u003cnum\u003eTAM.269\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Maggie Schreiner"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-07-16T13:07:41\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Clark, Judy Alice"
+                    }
+                },
+                "unittitle": {
+                    "value": "Judy Clark and Gilda Zwerman Correspondence"
+                },
+                "unitdate": {
+                    "normal": "1986/1988",
+                    "type": "inclusive",
+                    "value": "1986-1988"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 record carton"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "TAM.269"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_ca1fb3bf126f61884909f674e2e1d64b",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_d37367043aef07cd802a73bfaa26bd33",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Judy Clark and Gilda Zwerman Correspondence is restricted until 2063."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_60c8c141a07f31e70f6a98e7bc34b464",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Judy Clark and Gilda Zwerman Correspondence; TAM 269; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_a2778756a6014477bd9f03db6cdf9bb9",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials found in collection, provenance is unknown. The accession number related to this collection is 1950.086."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_8beadcc13b0e613a2dc92f7ee901d4e9",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Clark underwent a profound transformation in prison, ultimately renouncing her status as a political prisoner. During the 1980s Clark  engaged in education and counseling around the AIDS epidemic, and has adovcated for college programs at Bedford Hills."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Guerrillas |z United States |x History |z 20th century."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Political prisoners -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Trials (Political crimes and offenses) -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Political crimes and offenses |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Terrorists |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Women radicals |z United States."
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

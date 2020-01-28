@@ -1,0 +1,141 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_471"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Walter Rosenblum Unitarian Service Committee Papers  \u003cnum\u003eTAM 471\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-06-11T18:50:13\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Walter Rosenblum Unitarian Service Committee Papers"
+                },
+                "unitdate": {
+                    "value": "1946"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 2 folders."
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The collection includes personal papers, clippings, and ephemera documenting in a general way Walter Rosenblum's work for the Unitarian Service Committee in Toulouse and Saint-Jean de Luz, France (1946). "
+                },
+                "unitid": {
+                    "value": "TAM 471"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_3a016bfbb231c76ebf7ede76e444a262",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "MS001"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_90c6880a84f8442ed2677a5da8cdffcd",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_ef3d2dc8ced75cf7c3fe3dfc5718f208",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Collection name; Collection number; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_19498106cdb5bf1821b9e9f9a7abdd51",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Naomi Rosenblum in 2009.  The accession number associated with this gift is 2009.013."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_43dae30a4a5df680db3add07cf88c9ed",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "In the spring of 1946, the Unitarian Service Committee (USC) in Boston hired the American photographer\nWalter Rosenblum (b. 1919) to document its extensive refugee relief work in Europe. In France, Rosenblum visited the USC rest home at St. Goin (Aquitane); the Walter B. Cannon Memorial Hospital and recreation center in\nToulouse; the Camp Clairac (Lot-et-Garonne) for underprivileged French and Spanish children; the Meillon Rest Home in Pau, which housed Spanish Nazi victims; and a summer camp and canteen in Les Andelys (Normandie). Starting in October, his photos began appearing regularly in the Unitarians' monthly magazine, the \u003cemph render=\"italic\"\u003eChristian Register\u003c/emph\u003e. Rosenblum had been a U.S. Army Signal Corp combat photographer, and took the first motion picture footage of the Dachau concentration camp. Born in 1919 into a poor Jewish immigrant family living on New York's Lower East Side, in 1937 he joined the Film and Photo League, a Communist-associated popular front organization."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_ed063d3479d2260eaa10acff3433eeeb",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The collection includes personal papers, clippings, and ephemera documenting in a general way Walter Rosenblum's work for the Unitarian Service Committee in Toulouse and Saint-Jean de Luz, France (1946)."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Reconstruction (1939-1951) |z France."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Unitarian Service Committee"
+            }
+        },
+        "dsc": {}
+    }
+}

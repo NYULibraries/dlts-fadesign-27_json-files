@@ -1,0 +1,137 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1974_129_bergen"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Teunis G. Bergen illustrated map\n                    \u003cnum\u003e1974.129\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "October 28, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-05-01T15:23-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Bergen, Teunis G., 1806-1881"
+                    }
+                },
+                "unittitle": {
+                    "value": "Teunis G. Bergen illustrated map"
+                },
+                "unitdate": {
+                    "normal": "1815/1835",
+                    "type": "inclusive",
+                    "value": "circa 1825"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.67 Linear feet"
+                        },
+                        {
+                            "value": "in one oversize box."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "1974.129"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1097002",
+                    "label": "Graphic materials",
+                    "type": "Oversize",
+                    "value": "OS-26"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref3",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref2",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Teunis G. Bergen illustrated map, 1974.129, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "bioghist": {
+            "id": "ref5",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Teunis G. Bergen (1806-1881) was a Brooklyn surveyor and historian who served as New Utrecht town supervisor from 1836 to 1859 and as a Democratic congressman from the Second District."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "A hand-colored, illustrated map of part of the town of Flatbush in Brooklyn, made by Teunis G. Bergen while he attended school in Flatbush (presumably at Erasmus Hall Academy)."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Surveyors |z New York (State) |z Kings County"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

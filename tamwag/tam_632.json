@@ -1,0 +1,139 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_632"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Tamiment Library Vietnam War Protest Collection \u003cnum\u003eTAM 632\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Rachel Searcy"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-06-28T19:49:50\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Tamiment Library Vietnam War Protest Collection"
+                },
+                "unitdate": {
+                    "normal": "1968/1971",
+                    "type": "inclusive",
+                    "value": "1968-1971"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 manuscript box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Tamiment Library, a special collection documenting the history of United States labor, radicalism, and progressive social action, accumulated this artificial collection of documents concerning protests against the Vietnam War from numerous sources during the early 21st century. This collection consists of memoranda, correspondence, ephemera, and newspaper clippings concerning protests against the Vietnam War, including acts of opposition by physicians and members of the military. "
+                },
+                "unitid": {
+                    "value": "TAM 632"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_ca2e6d517ab514691c0689a5e192cf2f",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_e9f4d26e87f758f227f64d97fa7a99e8",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Tamiment Library Vietnam War Protest Collection; TAM 632; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_54c001355338e75a5075cc236f4db75d",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials found in collection; provenance is unknown. The accession number associated with this collection is NPA.2004.015."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_e418a188d53c77821a2f5573809e1585",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "The Tamiment Library, a special collection documenting the history of United States labor, radicalism, and progressive social action, accumulated this artificial collection of documents concerning protests against the Vietnam War from numerous sources during the early 21st century."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_09a8487b2f0d909d1c93b537cf0768d6",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "This collection consists of memoranda, correspondence, ephemera, and newspaper clippings concerning protests against the Vietnam War, including acts of opposition by physicians and members of the military."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Vietnam War, 1961-1975 |x Protest movements |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Vietnam War, 1961-1975 |x Protest movements |z United States |v Newspapers."
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref1\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCitizens' Commission of Inquiry on US War Crimes in Vietnam\u003c/unittitle\u003e\u003cunitdate normal=\"1970/1970\" type=\"inclusive\"\u003e1970\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_5e0931da3880868161d5e34f92a1f327\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5e0931da3880868161d5e34f92a1f327\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref2\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eEphemera\u003c/unittitle\u003e\u003cunitdate normal=\"1971/1971\" type=\"inclusive\"\u003e1971\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_59b137164c77fc2f552539f68a73d19c\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_59b137164c77fc2f552539f68a73d19c\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref3\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eGI Protests\u003c/unittitle\u003e\u003cunitdate normal=\"1971/1971\" type=\"inclusive\"\u003e1971\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_956a002d9dd7a1a07ed900168c862760\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_956a002d9dd7a1a07ed900168c862760\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref4\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eHealth Policy Advisory Center\u003c/unittitle\u003e\u003cunitdate normal=\"1970/1971\" type=\"inclusive\"\u003e1970-1971\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_11ccb324e9512d1d601ac4d6cda3a463\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_11ccb324e9512d1d601ac4d6cda3a463\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref5\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLiberation News Service\u003c/unittitle\u003e\u003cunitdate normal=\"1970/1971\" type=\"inclusive\"\u003e1970-1971\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_2ae3535e2eabc2d5debb9be7aebb1a49\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2ae3535e2eabc2d5debb9be7aebb1a49\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref6\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNewspaper Clippings\u003c/unittitle\u003e\u003cunitdate normal=\"1970/1971\" type=\"inclusive\"\u003e1970-1971\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_3982cf86db032dce0ad756703ab7391d\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_3982cf86db032dce0ad756703ab7391d\" type=\"Folder\"\u003e6-7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref7\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePhysicians for Social Responsibility\u003c/unittitle\u003e\u003cunitdate normal=\"1967/1971\" type=\"inclusive\"\u003e1967-1971\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_99c460487f71fac2685e981119a0dbd3\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_99c460487f71fac2685e981119a0dbd3\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

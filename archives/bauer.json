@@ -1,0 +1,153 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "bauer"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Marion Eugenie Bauer Papers \u003cnum\u003eMC.3\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Rohinie Jayatilaka, 1982."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-06-11T14:47:40\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Bauer, Marion, 1882-1955"
+                    }
+                },
+                "unittitle": {
+                    "value": "Marion Eugenie Bauer Papers"
+                },
+                "unitdate": {
+                    "normal": "1936/1957",
+                    "type": "inclusive",
+                    "value": "1936-1957"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one manuscript box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Marion Eugenie Bauer (1887-1955) was a composer and teacher, born in Walla Walla, Washington, who became the first woman faculty member of the Music Department at New York University (NYU). The papers consist of unpublished manuscripts of Bauer's proposed books, articles, and speeches. Some published material and biographical information is included."
+                },
+                "unitid": {
+                    "value": "MC.3"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_fb18f1f0897419e9be7f58a821bb57d9",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_9d9dc795f8f9182f4df079e427f53171",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Marion Eugenie Bauer Papers; MC 3; box number; folder number; New York University Archives, New York University Libraries."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_01963fbbefc12e1dac3cd62c9ea86187",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Gift of Harrison Potter via Frank Walker."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_0928e97bc49d41fda735955acd55d0e2",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Marion Bauer was a gifted composer, lecturer, editor, critic and writer. The collection of papers that have survived from these years document her career as a professional musician."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_aeb30e111edea0a078ce8f867ff1e53c",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "Two additional manuscripts, lacking titles as well as pagination, also form a part of the Bauer Papers. One of these manuscripts regards the subject of music through the ages (folder 19); it is incomplete and also not dated. Here Marion Bauer treats the development of music from about the ninth century onwards through the twentieth century. She considers a variety of subjects including forms of music (part music, motets and madrigals, the birth of the opera and new instrumental forms); types of musicians (troubadours, minnesingers, etc.); particular composers (Bach, Handel, Beethoven, Mozart and others); and she also discusses the development of music in relation to Classicism, Romanticism, Nationalism and Impressionism. The second manuscript concerns the National Federation of the Music Clubs (folder 20); this document is presumably complete and the contents pertaining to the Young Composers Contest of 1947 suggest that it may have been a speech that Marion Bauer gave in 1947. \"Contemporary Trends in 'Choral Compositions\" (folder 21) is apparently the complete manuscript of a talk for the New York Federation of Music Clubs, which took place in Binghamton, New York, on April 20-23, 1938. \"A List of Contemporary Piano Music: Grade II and Grade III\" (folder 22) and \"American Piano Music\" (folder 23) are two manuscripts in the collection, which appear to be complete, although there is no indication that some of these manuscripts were actually published."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Music -- Instruction"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Opera."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "New York University. Department of Music"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref18\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eBiographical Information: Who's Who in America, 1956-1957 \"In Memory of Marion Bauer,\" by Frederic Stoessel, n.d. Keynotes, April 1951 re: Town Hall concert honoring Marion Bauer and presenting her works, May 8, 1951.\u003c/unittitle\u003e\u003cunitdate normal=\"1951/1957\" type=\"inclusive\"\u003e1951-1957\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_b5d12dc814d28ae3aa1727a7915a00f5\" label=\"Mixed Materials [31142063004819]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b5d12dc814d28ae3aa1727a7915a00f5\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Titans of Music\" Working ideas for \"Titans of Music\" Manuscripts and typewritten proposals Miscellaneous notes Letter, Marjorie M. Mayer, G.P. Putnam's Sons to Marion Bauer, 18 May, 1951: offering suggestions for proposed book.\u003c/unittitle\u003e\u003cunitdate\u003e1951\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_45c6639eddb01c3e4942f0086dc7fa93\" label=\"Mixed Materials [31142063004819]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_45c6639eddb01c3e4942f0086dc7fa93\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eProposed \"Preface\" or \"Introduction\" 2 copies, pages 1-6 typed; 1 manuscript copy\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_27552b8721fa48a5bd01d2310e7771c7\" label=\"Mixed Materials [31142063004819]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_27552b8721fa48a5bd01d2310e7771c7\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eProposed Chapter I: Monteverdi (2 versions): Who was Monteverdi? -incomplete, pages 1-1-9 only Monteverdi, Musical Pioneer -2 pages., presumably complete - 2 copies\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_f9c92cb908d14752d633f08ab4d44698\" label=\"Mixed Materials [31142063004819]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f9c92cb908d14752d633f08ab4d44698\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eProposed Chapter IV: \"Beethoven: The Prometheus of Music\" - 4 pages - 3 copies typed; 1 manuscript copy\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_809c7f12015e570425809033e6d6979e\" label=\"Mixed Materials [31142063004819]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_809c7f12015e570425809033e6d6979e\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eProposed Chapter VI: \"Brahms and the Schummans\" -incomplete, pages 1-8 only - 3 typed copies\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_6381abe85b50daa302ed5cdcd8ef9f6a\" label=\"Mixed Materials [31142063004819]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_6381abe85b50daa302ed5cdcd8ef9f6a\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Modern Creators Of Music: A Survey Of Contemporary Music And Its Makers\"\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_5338f685078686951d921be8b2780c5b\" label=\"Mixed Materials [31142063004819]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5338f685078686951d921be8b2780c5b\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eProposed Contents - 3 typed pages Proposed Part I, Chapter I: \"Prelude\" -complete, 17 typed pages\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_99a60a6d5a82bf7dfe7a9bcdc5acc315\" label=\"Mixed Materials [31142063004819]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_99a60a6d5a82bf7dfe7a9bcdc5acc315\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref26\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eProposed Part I, Chapter II: \"Berlioz: Innovator and Prophet\" complete, 39 typed pages\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_32453ea4b650c204c7851e6f5cfa6162\" label=\"Mixed Materials [31142063004819]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_32453ea4b650c204c7851e6f5cfa6162\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eProposed Part I, Chapter III: \"Music of the Future: Liszt and Wagner -26 page manuscript, presumably complete; pages 5-8 \" typed Bauer Mss.-4\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_6c3fc57af62471677387c50521a16a17\" label=\"Mixed Materials [31142063004819]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_6c3fc57af62471677387c50521a16a17\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref28\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Some Social Aspects of Music: Its Purpose and Place\" - Proposed Contents and Title Page - 2 typed pages\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_02aedc73e368415d74bf68def19c092d\" label=\"Mixed Materials [31142063004819]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_02aedc73e368415d74bf68def19c092d\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref29\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eProposed Part I, Chapter I: \"The Functions of Music: Social, Cultural, Popular, Professional, Educational, etc.\" - complete, 9 typed pages\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_d6173460da4e83abe0d1cf442ff632aa\" label=\"Mixed Materials [31142063004819]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d6173460da4e83abe0d1cf442ff632aa\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref30\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eProposed Part I, Chapter II: \"Music as a Common Language: A Bond Between Nations\" -complete, 13 typed pages\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_d880c1bec3dd280cd38225da6a84ef63\" label=\"Mixed Materials [31142063004819]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d880c1bec3dd280cd38225da6a84ef63\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref31\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eProposed Part I, Chapter III: \"Music in Therapy and Industry\" -complete, 13 typed pages\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_4afdd2442c2e92b71845c5468d0f4ad3\" label=\"Mixed Materials [31142063004819]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_4afdd2442c2e92b71845c5468d0f4ad3\" type=\"Folder\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref32\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eProposed Part I, Chapter IV: \"Music's Place in Religion (Religion's Influence on Music)\" -complete, 30 typed pages\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_77085d5f69903ea27d4a0c548937c7c3\" label=\"Mixed Materials [31142063004819]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_77085d5f69903ea27d4a0c548937c7c3\" type=\"Folder\"\u003e15\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref33\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Who Was Monteverdi?\" -presumably unpublished; complete Introduction, Chapters I through X, 72 typed pages, n.d.\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_edc7dcf018d3020dd96f5479f8ed839d\" label=\"Mixed Materials [31142063004819]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_edc7dcf018d3020dd96f5479f8ed839d\" type=\"Folder\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref34\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"The Literary Liszt\" -complete, 44 typed pages; manuscript of article published in Musical Quarterly, 22: 3: 295-313, July 1936.\u003c/unittitle\u003e\u003cunitdate\u003e1936\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_75db5b9e278981698fe9bd097d7c0fdb\" label=\"Mixed Materials [31142063004819]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_75db5b9e278981698fe9bd097d7c0fdb\" type=\"Folder\"\u003e18\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref45\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Who Was Monteverdi?\" -presumably unpublished; Chapters XI-XIX and Epilogue, 73 typed pages, n.d.\u003c/unittitle\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_f18eb231fad4c537598fe230d7a41868\" label=\"Mixed Materials [31142063004819]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f18eb231fad4c537598fe230d7a41868\" type=\"Folder\"\u003e17\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref35\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"The Virtuoso: Franz Liszt - The Indefatigable Vagabond\" - presumably incomplete, 16 typed pages, n.d.\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_3f12b5e11f3aace69b8f8b990d450d53\" label=\"Mixed Materials [31142063004819]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_3f12b5e11f3aace69b8f8b990d450d53\" type=\"Folder\"\u003e19\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref36\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eManuscript re: Music Through the Ages -incomplete, 13 leaves typed, n.d.\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_be54d3fd95a32477a8c743f5e71bf7a2\" label=\"Mixed Materials [31142063004819]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_be54d3fd95a32477a8c743f5e71bf7a2\" type=\"Folder\"\u003e20\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref37\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eManuscript re: the National Federation of the Music Clubs, may have been a speech; presumably complete, 6 leaves - typed; c. 1947\u003c/unittitle\u003e\u003cunitdate\u003e1947\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_41c2ea9ca50340d1c7d6d5c81c49f226\" label=\"Mixed Materials [31142063004819]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_41c2ea9ca50340d1c7d6d5c81c49f226\" type=\"Folder\"\u003e21\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref38\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Contemporary Trends in Choral Compositions\" -talk for New York Federation of Music Clubs, Binghamton, New York, April 20-23, 1938; presumably complete, 12 typed pages\u003c/unittitle\u003e\u003cunitdate\u003e1938\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_61fe96799ee8be36cd5a7892424eae27\" label=\"Mixed Materials [31142063004819]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_61fe96799ee8be36cd5a7892424eae27\" type=\"Folder\"\u003e22\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref39\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"A List of Contemporary Piano Music: Grade II and III\" presumably complete, 5 typed pages\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_00a9d62d1e24cc2aad9155f1f3658414\" label=\"Mixed Materials [31142063004819]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_00a9d62d1e24cc2aad9155f1f3658414\" type=\"Folder\"\u003e23\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref40\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"American Piano Music\" -presumably complete, 24 typed pages\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_7adab6e5814da892407bf6c4c0ec3f6f\" label=\"Mixed Materials [31142063004819]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_7adab6e5814da892407bf6c4c0ec3f6f\" type=\"Folder\"\u003e24\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

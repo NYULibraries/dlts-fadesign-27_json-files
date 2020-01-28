@@ -1,0 +1,158 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-F",
+            "value": "signal"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Signal Archive\u003clb/\u003e\u003cdate\u003eca. 1963-1965 \u003c/date\u003e\u003clb/\u003e \u003cnum\u003eMSS.024\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Amber Creger in 1999. Finding aid created by Colin Wells, 2009."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Fales Library and Special Collections"
+                },
+                "address": {
+                    "addressline": [
+                        "Fales Library and Special Collections",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "3rd Floor",
+                        "New York, NY 10012",
+                        "Phone: (212) 998-2596",
+                        "fales.library@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-06-16T13:43:51\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Fales Library and Special Collections"
+                    }
+                },
+                "unittitle": {
+                    "value": "Signal Archive"
+                },
+                "unitdate": {
+                    "normal": "1963/1965",
+                    "type": "inclusive",
+                    "value": "ca. 1963-1965"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The \u003cemph render=\"italic\"\u003eSignal\u003c/emph\u003e Archive contains correspondence and manuscripts submitted to the journal's editor, Bret Rohmer.  \u003cemph render=\"italic\"\u003eSignal\u003c/emph\u003e was a literary journal focused primarily on poetry.  Three issues were produced between 1963 and 1965.  Many of the authors are notable figures in Beat poetry, the New York School, and the Black Mountain poets."
+                },
+                "unitid": {
+                    "value": "MSS.024"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_ba62876bc9348eab25933bfa2d5f1e7c",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_5150006b6f9681fce2842a93f9da4a70",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the\nfollowing form:\u003clb/\u003e\u003clb/\u003e\nIdentification of item,  date (if known); \u003cemph render=\"italic\"\u003eSignal\u003c/emph\u003e Archive; MSS 024; box number; folder number; Fales Library and Special Collections, New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_db53010796d0546d33c3b6c870b25eb5",
+            "head": "Historical Note",
+            "p": {
+                "value": "\u003cemph render=\"italic\"\u003eSignal: A Quarterly Review\u003c/emph\u003e was a literary journal published by the Brownstone Press in New York focusing primarily on poetry.  Three issues were produced between 1963 and 1965.  Many of the authors are notable figures associated with Beat poetry, the New York School, and the Black Mountain poets.  Signal's chief editor was Bret Rohmer and the co-editors were Diane Di Prima and Paul Z. Panish."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_1008b428e0b35650e8667aee0d4342aa",
+            "head": "Scope and Content note",
+            "p": {
+                "value": "The \u003cemph render=\"italic\"\u003eSignal\u003c/emph\u003e Archive contains correspondence and manuscripts submitted to the journal's editor, Bret Rohmer.  Notable authors of manuscript submissions include Hart Crane, Diane Di Prima, Kirby Doyle, LeRoi Jones, Ron Loewinsohn, David Meltzer, W.S. Merwin, Frank O'Hara, Joel Oppenheimer, Michael Rumaker, John Thomas, John Wieners, and Paul Zweig."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Poetry |y 20th century |v Periodicals."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Poetry, Modern |y 20th century."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "American poetry |y 20th century |v Periodicals."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Beat generation."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Black Mountain school (Group of poets)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "American literature |y 20th century."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "American poetry |y 20th century."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Small presses -- New York (State) -- New York"
+                },
+                {
+                    "source": "local",
+                    "value": "Downtown writers."
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref1\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_a0286908d17ef77a47f713bf3c78729c\"\u003e\u003chead\u003eScope and Content\u003c/head\u003e\u003cp\u003eThis series contains correspondence and manuscripts submitted to Bret Rohmer.\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_ref4\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence from: Unidentified.\n\u003c/unittitle\u003e\u003cunitdate normal=\"1963/1963\" type=\"inclusive\"\u003e1963\u003c/unitdate\u003e\u003ccontainer id=\"aspace_fc2fed2edbf50b013ec7ddb8499d8b28\" label=\"Mixed Materials (31142054900306)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_fc2fed2edbf50b013ec7ddb8499d8b28\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref5\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eManuscript: Ashley, L.R.N.\n\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_6fcc5e998e49fdc0a11edc3ac0e0880d\" label=\"Mixed Materials (31142054900306)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_6fcc5e998e49fdc0a11edc3ac0e0880d\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref6\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eManuscript: Basara, Bob.\n\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1963\u003c/unitdate\u003e\u003ccontainer id=\"aspace_22273f46f35a014103058171da6c57a3\" label=\"Mixed Materials (31142054900306)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_22273f46f35a014103058171da6c57a3\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref7\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eManuscript: Crane, Hart.\n\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d7fd079426549b5021d8d173ca6fc981\" label=\"Mixed Materials (31142054900306)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d7fd079426549b5021d8d173ca6fc981\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref8\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eManuscript: Dawson, Fielding.\n\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_83b456cce5bf325926b1eb89a08ae943\" label=\"Mixed Materials (31142054900306)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_83b456cce5bf325926b1eb89a08ae943\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref41\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eManuscript: Di Prima, Diane.\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1b1d7b7d7d9ae565aca0feeeec2d7006\" label=\"Mixed Materials (31142054900306)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1b1d7b7d7d9ae565aca0feeeec2d7006\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref13\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eManuscript: Doyle, Kirby.\n\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1963\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9f9bef66e4baea4df2d117801eddb79b\" label=\"Mixed Materials (31142054900306)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_9f9bef66e4baea4df2d117801eddb79b\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eManuscript: Insect Trust.\n\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_15989de02c5ddace9e2909381a5858e2\" label=\"Mixed Materials (31142054900306)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_15989de02c5ddace9e2909381a5858e2\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eManuscript: Irwin, Jed.\n\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1963\u003c/unitdate\u003e\u003ccontainer id=\"aspace_3bac9013f38482b94290eba09d4e88c4\" label=\"Mixed Materials (31142054900306)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_3bac9013f38482b94290eba09d4e88c4\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eManuscript: Jonas, Steve.\n\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1963\u003c/unitdate\u003e\u003ccontainer id=\"aspace_29c4471e4f786b3c014952df8ac5df68\" label=\"Mixed Materials (31142054900306)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_29c4471e4f786b3c014952df8ac5df68\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eManuscript: Jones, LeRoi.\n\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7f50346668120a392c8ac5e72d04b783\" label=\"Mixed Materials (31142054900306)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_7f50346668120a392c8ac5e72d04b783\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eManuscript: Kleinbard, David J.\n\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_fa6e13ac5a5ab16ca54cdfb527a0ddee\" label=\"Mixed Materials (31142054900306)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_fa6e13ac5a5ab16ca54cdfb527a0ddee\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eManuscript: Lansing, Gerrit.\n\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e7b3072281b095280d19cee2a6636cb9\" label=\"Mixed Materials (31142054900306)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e7b3072281b095280d19cee2a6636cb9\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eManuscript: Levy, William J.\n\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_668951606f76fc717950e07dbe4f20e4\" label=\"Mixed Materials (31142054900306)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_668951606f76fc717950e07dbe4f20e4\" type=\"Folder\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eManuscript: Lima, Frank.\n\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_63f09803286bec985342e74d2b92bc74\" label=\"Mixed Materials (31142054900306)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_63f09803286bec985342e74d2b92bc74\" type=\"Folder\"\u003e15\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eManuscript: Loewinsohn, Ron.\n\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e3bc37a94f4e3887b94101bc35e56709\" label=\"Mixed Materials (31142054900306)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e3bc37a94f4e3887b94101bc35e56709\" type=\"Folder\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eManuscript: Matson, Clive.\n\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1963\u003c/unitdate\u003e\u003ccontainer id=\"aspace_8eac48f3a390cda3b666c518092cda9c\" label=\"Mixed Materials (31142054900306)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_8eac48f3a390cda3b666c518092cda9c\" type=\"Folder\"\u003e17\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eManuscript: Meltzer, David.\n\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_abbf84b2ffb5bc93f735aaf62c07582d\" label=\"Mixed Materials (31142054900306)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_abbf84b2ffb5bc93f735aaf62c07582d\" type=\"Folder\"\u003e18\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eManuscript: Merwin, W.S.\n\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1963\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e3dda76906e1775af796c835f78a3080\" label=\"Mixed Materials (31142054900306)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e3dda76906e1775af796c835f78a3080\" type=\"Folder\"\u003e19\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref26\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eManuscript: O'Hara, Frank.\n\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ef216414b0a33e82a62c02abac308454\" label=\"Mixed Materials (31142054900306)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ef216414b0a33e82a62c02abac308454\" type=\"Folder\"\u003e20\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eManuscript: Oppenheimer, Joel.\n\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5682b3f788cb85e8aec48da66539b312\" label=\"Mixed Materials (31142054900306)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5682b3f788cb85e8aec48da66539b312\" type=\"Folder\"\u003e21\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref28\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eManuscript: Parish, Paul Z.\n\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_6c09bc0f48b995e871abd4e0996e4ad1\" label=\"Mixed Materials (31142054900306)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_6c09bc0f48b995e871abd4e0996e4ad1\" type=\"Folder\"\u003e22\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref29\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eManuscript: Passage, Charles.\n\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_759f1eb87684985e1d56b855308db1d9\" label=\"Mixed Materials (31142054900306)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_759f1eb87684985e1d56b855308db1d9\" type=\"Folder\"\u003e23\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref30\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eManuscript: Rohmer, Bret.\n\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_818ed1447b6867649824fbd73a44866f\" label=\"Mixed Materials (31142054900306)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_818ed1447b6867649824fbd73a44866f\" type=\"Folder\"\u003e24\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref31\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eManuscript: Rumaker, Michael.\n\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c5558e1e7be82abd4e4d9afd0807df32\" label=\"Mixed Materials (31142054900306)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_c5558e1e7be82abd4e4d9afd0807df32\" type=\"Folder\"\u003e25\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref32\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eManuscript: Thomas, John.\n\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_99b5ae4f6388bdc69d79e076f02aec10\" label=\"Mixed Materials (31142054900306)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_99b5ae4f6388bdc69d79e076f02aec10\" type=\"Folder\"\u003e26\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref33\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eManuscript: Waring, James.\n\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_8484bd053dec1a7dd424fa5fba974108\" label=\"Mixed Materials (31142054900306)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_8484bd053dec1a7dd424fa5fba974108\" type=\"Folder\"\u003e27\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref34\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eManuscript: Wieners, John.\n\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1963\u003c/unitdate\u003e\u003ccontainer id=\"aspace_8c6348763f3305e184ce038836b26f38\" label=\"Mixed Materials (31142054900306)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_8c6348763f3305e184ce038836b26f38\" type=\"Folder\"\u003e28\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref35\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eManuscript: Zuk, Raymond Williams.\n\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_84a1ab88b6e5a4c9870eeafcfdfd49bd\" label=\"Mixed Materials (31142054900306)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_84a1ab88b6e5a4c9870eeafcfdfd49bd\" type=\"Folder\"\u003e29\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref36\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eManuscript: Zweig, Paul. \n\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_6d72f52a1545d9d6d23359299e6f8f3d\" label=\"Mixed Materials (31142054900306)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_6d72f52a1545d9d6d23359299e6f8f3d\" type=\"Folder\"\u003e30\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

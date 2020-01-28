@@ -1,0 +1,161 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_2016_002_gross"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Adolph and Lillian Gross scrapbooks\n                    \u003cnum\u003e2016.002\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Katherine Palm"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "May 2016"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2016-07-28T09:51-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "Adolph and Lillian Gross scrapbooks"
+                },
+                "unitdate": {
+                    "normal": "1917/1959",
+                    "type": "inclusive",
+                    "value": "1917-1959"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "3.5 linear feet"
+                        },
+                        {
+                            "value": "in one manuscript box and one oversize flat box"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The collection comprises three scrapbooks compiled by twentieth-century Brooklyn florist Adolph Gross and his wife, Lillian, relating to Gross' charitable work on behalf of hospitalized veterans and other causes as a florist and community leader. The collection contains photographs, newsclippings, and a small amount of correspondence and documentation."
+                },
+                "unitid": {
+                    "value": "2016.002"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1488001",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1 of 2"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref7",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Adolph and Lillian Gross scrapbooks, 2016.002, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Dr. Howard M. Cohen, 2016."
+            }
+        },
+        "bioghist": {
+            "id": "ref9",
+            "head": "Biographical note",
+            "p": {
+                "value": "Adolph Gross (1888-1959) was a florist who served in World War I and became active in Brooklyn business and community affairs during the mid-twentieth century. His shop, Gross Florists, was located at 298 Kingston Avenue in Brooklyn, New York. He served as president of the Metropolitan Retail Florists' Association and was a trustee of the New York Florists' Club. Gross was particularly active in veterans' welfare work and was a leader in the Kings County American Legion, the Democratic Veterans Organization, and the Hospitalized American Servicemen's Committee. He died in 1959 in a veterans' hospital in Brooklyn and was survived by his widow, Lillian, his sister, Mrs. Anna Edwards, and his brother, Sol."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The collection comprises three scrapbooks that contain approximately 130 black-and-white photographic prints, newsclippings (1917-1956), an obituary for Adolph Gross, and a small amount of correspondence, including five telegrams. The photographs appear to be chiefly the work of professional photographers working for local newspapers or the Armed Forces Public Information Office. The photographs appear to capture events relating to Adolph Gross' charitable work on behalf of veterans as a member of the Hospitalized Service Men's Committee and the National Foundation for Infantile Paralysis (March of Dimes). Such events include observation of May 19th, Armed Services Day, and a Veterans Day baseball celebration at Ebbets Field on June 11, 1953. Subjects of photographs include civilians participating in such charitable work, servicemen and women, and floral arrangements."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Charity organization |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Florist shops |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Soldiers |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Veterans |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Veterans |z New York (State) |z Kings County |x Societies, etc."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Armed Forces Public Information Office."
+            }
+        },
+        "dsc": {}
+    }
+}

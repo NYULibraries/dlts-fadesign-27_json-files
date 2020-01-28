@@ -1,0 +1,165 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arc_278_hulbert_collection"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Mrs. Milan Hulbert collection of colonial British America and early United States of America papers\n                    \u003cnum\u003eARC.278\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik and Larry Weimer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "December 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-12-12T15:09-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Hulbert, Milan, Mrs."
+                    }
+                },
+                "unittitle": {
+                    "value": "Mrs. Milan Hulbert collection of colonial British America and early United States of America papers"
+                },
+                "unitdate": {
+                    "normal": "1698/1846",
+                    "type": "inclusive",
+                    "value": "1698-1846"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "2.6 Linear feet"
+                        },
+                        {
+                            "value": "in two flat boxes and one manuscript box."
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The Hulbert collection (1698-1846) consists principally of late eighteenth century documents related to colonial British America. The collection also includes documents from the American Revolution and early national period. The collection holds papers related to the British military presence in North America, including statistical reports (i.e., returns) for troops for several months in 1760 and documents compiled by Frederick de Deimar in connection with the Corps of Hussars (1779-1781) he raised for the British during the American Revolution. Non-military matters include correspondence, chiefly from Goldsbrow Banyar, Register of Prerogative Court and deputy to George Clark, Secretary of the Colony of New York, concerning a dispute among colonial New York officials over their respective rights to collect and receive patent and other fees (1766-1770). There are papers concerning the Bahamas (1795-1796), including correspondence, principally to and from colonial agent George Chalmers, and minutes of the Legislative Council. Among the other documents in the collection are land grants and indentures, a will, court filings, and other documents from New York State, Rhode Island, South Carolina, Virginia, and West Florida. Several of these documents still have a large wax seal tied to them."
+                },
+                "unitid": {
+                    "value": "ARC.278"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref5",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref4",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Mrs. Milan Hulbert collection of colonial British America and early United States of America papers, ARC.278, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref2",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Mrs. Milan Hulbert, 1866. Mrs. Hulbert was the wife of a director of the Long Island Historical Society (now the Brooklyn Historical Society)."
+            }
+        },
+        "scopecontent": {
+            "id": "ref11",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "In addition to these subjects, the collection includes various other British colonial military papers, including naval orders, reports of promotions, Order in Council concerning troops in Newfoundland (1698), and an act punishing those assisting Royal Navy deserters (1760). Other than military matters, the collection includes land grants and indentures, a will, court filings, and other documents from New York State, Rhode Island, South Carolina, Virginia, and West Florida. Several of these legal documents, which primarily concern property matters of various types, including enslaved African-Americans in Virginia, still have a large wax seal tied to them."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Land titles |z New York (State)"
+                },
+                {
+                    "source": "lcgft",
+                    "value": "Land titles |z South Carolina"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Land titles |z West Florida"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Legal documents |z Rhode Island"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Legal documents |z Virginia"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Real property |z New York (State)"
+                },
+                {
+                    "source": "lcgft",
+                    "value": "Real property |z South Carolina"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Real property |z West Florida"
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref13\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNew York: Patent Fee Dispute (15 total folders)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1138001\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid1138001\" type=\"Folder\"\u003e1-14\u003c/container\u003e\n                    \u003cunitdate normal=\"1766/1770\" type=\"inclusive\"\u003e1766-1770\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref14\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNew York: Patent Fee Dispute (oversize)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1138002\" type=\"Box\" label=\"Text\"\u003e2\u003c/container\u003e\n                    \u003ccontainer parent=\"cid1138002\" type=\"Folder\"\u003e1\u003c/container\u003e\n                    \u003cunitdate normal=\"1766/1770\" type=\"inclusive\"\u003e1766-1770\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref15\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNew York: Notarized Testimonies (3)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1138003\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid1138003\" type=\"Folder\"\u003e15\u003c/container\u003e\n                    \u003cunitdate normal=\"1765/1812\" type=\"inclusive\"\u003e1765, 1812\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref16\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNew York: Land Grants (with fragile seals)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1138004\" type=\"Box\" label=\"Text\"\u003e3\u003c/container\u003e\n                    \u003ccontainer parent=\"cid1138004\" type=\"Folder\"\u003e1\u003c/container\u003e\n                    \u003cunitdate normal=\"1786/1792\" type=\"inclusive\"\u003e1786, 1792\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003codd id=\"ref18\"\u003e\n                    \u003chead\u003eGeneral note\u003c/head\u003e\n                    \u003cp\u003e1) Land grant to Jacob Walton in Township 18, Washington and Montgomery counties (1786). 2) Land grant to Joseph Moroney in Pompey Township, Montgomery County (1792).\u003c/p\u003e\n                \u003c/odd\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref30\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNew York: Miscellaneous\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1138012\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid1138012\" type=\"Folder\"\u003e16\u003c/container\u003e\n                    \u003cunitdate normal=\"1745/1832\" type=\"inclusive\"\u003e1745, 1822-circa 1832\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003codd id=\"ref31\"\u003e\n                    \u003chead\u003eGeneral note\u003c/head\u003e\n                    \u003cp\u003eIncludes two items of correspondence concerning the conveyance of an African-American slave from New York to his owner in Philadelphia (1745); three printed documents concerning politics (an Andrew Jackson 1832 campaign poster from Suffolk County, an 1822 parody of state officials, and an undated elector ballot); and an undated portion of a state assemby bill concerning Kings County.\u003c/p\u003e\n                \u003c/odd\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref19\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eRhode Island: Legal Matters\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1138005\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid1138005\" type=\"Folder\"\u003e17\u003c/container\u003e\n                    \u003cunitdate normal=\"1738/1766\" type=\"inclusive\"\u003e1752-1766\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003codd id=\"ref20\"\u003e\n                    \u003chead\u003eGeneral note\u003c/head\u003e\n                    \u003cp\u003eIncludes a County Clerk's 1752 transcription from the records of a 1722 will; print of appellant's case in Brown vs. Allen and Cheever (1738); and documents related to various cases, including Whitman vs. Whitman (circa 1751) and Freebody vs. Brenton (1765).\u003c/p\u003e\n                \u003c/odd\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref21\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSouth Carolina: Payment to General Assemblyman Robert Lark\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1138006\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid1138006\" type=\"Folder\"\u003e18\u003c/container\u003e\n                    \u003cunitdate normal=\"1777/1777\"\u003e1777\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref22\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSouth Carolina: Land Indenture, Purchase (2)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1138007\" type=\"Box\" label=\"Text\"\u003e3\u003c/container\u003e\n                    \u003ccontainer parent=\"cid1138007\" type=\"Folder\"\u003e2\u003c/container\u003e\n                    \u003cunitdate normal=\"1777/1787\" type=\"inclusive\"\u003e1777, 1787\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref27\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eVirginia: Baptismal Statement\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1138009\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid1138009\" type=\"Folder\"\u003e19\u003c/container\u003e\n                    \u003cunitdate normal=\"1746/1746\"\u003e1746\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref32\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eBahamas: Minutes of Legislative Council\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1138013\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid1138013\" type=\"Folder\"\u003e21\u003c/container\u003e\n                    \u003cunitdate normal=\"1795/1796\" type=\"inclusive\"\u003e1795-1796\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref23\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eVirginia: Legal Matters\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1138008\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid1138008\" type=\"Folder\"\u003e20\u003c/container\u003e\n                    \u003cunitdate\u003e1740-1766\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003codd id=\"ref24\"\u003e\n                    \u003chead\u003eGeneral note\u003c/head\u003e\n                    \u003cp\u003eIncludes four printed documents: Respondent's case in Rogers vs. Spalding (1740), Appellant's case in King vs. Lewis and Burwell (1754), and both cases in Corbin vs. Lomax (1766).\u003c/p\u003e\n                \u003c/odd\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref25\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eVirginia: Legal Matters (oversize, with fragile seals)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1138010\" type=\"Box\" label=\"Text\"\u003e3\u003c/container\u003e\n                    \u003ccontainer parent=\"cid1138010\" type=\"Folder\"\u003e3\u003c/container\u003e\n                    \u003cunitdate normal=\"1746/1777\" type=\"inclusive\"\u003e1746-1777\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003codd id=\"ref26\"\u003e\n                    \u003chead\u003eGeneral note\u003c/head\u003e\n                    \u003cp\u003eIncludes Lilly vs. Tabb dispute over slaves (1746); Lookright vs. Thomas Mann Randolph (1749); Corbin vs. Lomax (1764); Lee vs. Hunter (1777).\u003c/p\u003e\n                \u003c/odd\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref28\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eWest Florida: Land Grants, Petitions\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1138011\" type=\"Box\" label=\"Text\"\u003e3\u003c/container\u003e\n                    \u003ccontainer parent=\"cid1138011\" type=\"Folder\"\u003e4\u003c/container\u003e\n                    \u003cunitdate normal=\"1770/1781\" type=\"inclusive\"\u003e1770-1781\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003codd id=\"ref29\"\u003e\n                    \u003chead\u003eGeneral note\u003c/head\u003e\n                    \u003cp\u003eIncludes land grants (1770, 1772) and affidavits concerning protection from Indians at Natchez (1779-1781).\u003c/p\u003e\n                \u003c/odd\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref33\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eBahamas: Colonial Agent Correspondence\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1138014\" type=\"Box\" label=\"Text\"\u003e2\u003c/container\u003e\n                    \u003ccontainer parent=\"cid1138014\" type=\"Folder\"\u003e2\u003c/container\u003e\n                    \u003cunitdate normal=\"1795/1796\" type=\"inclusive\"\u003e1795-1796\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref34\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eEngland: Miscellaneous\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1139003\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid1139003\" type=\"Folder\"\u003e22\u003c/container\u003e\n                    \u003cunitdate normal=\"1764/1846\" type=\"inclusive\"\u003e1764-1846\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003codd id=\"ref35\"\u003e\n                    \u003chead\u003eGeneral note\u003c/head\u003e\n                    \u003cp\u003eIncludes an order to assess land taxes in Bristol County (1764); notes of a debate, apparently in a Committee of British lords, concerning the rights and relationship of Parliament to the American colonies (1766); invoices for shipments (1766, 1808); correspondence (1772, 1790); an appendix from printed material of a map of Lord Viscount Nelson's naval action at Castle Bokier (1798); broadside \"Letter from the Queen to the King\" identifying grievances (1820); and printed \"Report from the Committee on the Dublin and Kingstown Extensio Railway Bill\" (1846).\u003c/p\u003e\n                \u003c/odd\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref36\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eBritish Military Records: Correspondence, Orders, etc.\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1138015\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid1138015\" type=\"Folder\"\u003e23\u003c/container\u003e\n                    \u003cunitdate normal=\"1698/1756\" type=\"inclusive\"\u003e1698, 1744, 1756\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref37\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eBritish Military Records: Correspondence, Orders, etc.\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1138016\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid1138016\" type=\"Folder\"\u003e24\u003c/container\u003e\n                    \u003cunitdate normal=\"1760/1767\" type=\"inclusive\"\u003e1760-1767\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref38\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eBritish Military Records: Monthly Return of His Majesty's Forces Under the Command of His Excellency Major General Amherst (6 returns: Jan-May, Aug)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1138017\" type=\"Box\" label=\"Text\"\u003e2\u003c/container\u003e\n                    \u003ccontainer parent=\"cid1138017\" type=\"Folder\"\u003e3\u003c/container\u003e\n                    \u003cunitdate normal=\"1760/1760\"\u003e1760\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref40\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eBritish Military Records: Monthly Return of His Majesty's Forces in North America (3 returns: Sep-Nov)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1138018\" type=\"Box\" label=\"Text\"\u003e2\u003c/container\u003e\n                    \u003ccontainer parent=\"cid1138018\" type=\"Folder\"\u003e4\u003c/container\u003e\n                    \u003cunitdate normal=\"1760/1760\"\u003e1760\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref41\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eBritish Military Records: Monthly Return of the 22nd, Eight Companies of the 40th, and 45th Regiments, Company of Artillery and Proventials, Louisbourg\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1138019\" type=\"Box\" label=\"Text\"\u003e2\u003c/container\u003e\n                    \u003ccontainer parent=\"cid1138019\" type=\"Folder\"\u003e5\u003c/container\u003e\n                    \u003cunitdate normal=\"1760/1760\"\u003eJune 1760\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref42\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eBritish Military Records: Monthly Return of the 45th Regiment, Two Companies of Artillery and Provential Regiment, Louisbourg\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1138020\" type=\"Box\" label=\"Text\"\u003e2\u003c/container\u003e\n                    \u003ccontainer parent=\"cid1138020\" type=\"Folder\"\u003e6\u003c/container\u003e\n                    \u003cunitdate normal=\"1760/1760\"\u003eSept 1760\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref43\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eBritish Military Records: Correspondence, Orders, etc.\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1138021\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid1138021\" type=\"Folder\"\u003e25\u003c/container\u003e\n                    \u003cunitdate normal=\"1777/1777\"\u003e1777\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref45\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eBritish Military Records: Return of the 1st Battalion Marines, Halifax (April)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1138022\" type=\"Box\" label=\"Text\"\u003e2\u003c/container\u003e\n                    \u003ccontainer parent=\"cid1138022\" type=\"Folder\"\u003e7\u003c/container\u003e\n                    \u003cunitdate normal=\"1776/1776\"\u003e1776\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref46\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eBritish Military Records: Correspondence, Orders, etc.\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1139004\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid1139004\" type=\"Folder\"\u003e26\u003c/container\u003e\n                    \u003cunitdate normal=\"1780/1781\" type=\"inclusive\"\u003e1780-1781\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref51\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eBritish Military Records: Regimental Pay Orders\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1138025\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid1138025\" type=\"Folder\"\u003e27\u003c/container\u003e\n                    \u003cunitdate normal=\"1788/1788\"\u003e1787-1788\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref53\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eBritish Military Records: Correspondence\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1138026\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid1138026\" type=\"Folder\"\u003e28\u003c/container\u003e\n                    \u003cunitdate normal=\"1790/1790\"\u003e1790\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref52\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eCorps of Hussars: Enlistment Certifications\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1138027\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid1138027\" type=\"Folder\"\u003e29\u003c/container\u003e\n                    \u003cunitdate normal=\"1779/1781\" type=\"inclusive\"\u003e1779-1781\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref54\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eCorps of Hussars: Correspondence, etc.\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1139001\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid1139001\" type=\"Folder\"\u003e30\u003c/container\u003e\n                    \u003cunitdate normal=\"1779/1791\" type=\"inclusive\"\u003e1779-1791\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref55\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eCorps of Hussars: General Roll taken from Muster Rolls\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1139002\" type=\"Box\" label=\"Text\"\u003e2\u003c/container\u003e\n                    \u003ccontainer parent=\"cid1139002\" type=\"Folder\"\u003e8\u003c/container\u003e\n                    \u003cunitdate normal=\"1781/1781\"\u003eMay 1781\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref48\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eCorps of Hussars: Account of the Corps of Hussars Raised in North America . . . in the Year 1779, 1780, and 1781 . . .\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid1138023\" type=\"Box\" label=\"Text\"\u003e2\u003c/container\u003e\n                    \u003ccontainer parent=\"cid1138023\" type=\"Folder\"\u003e9\u003c/container\u003e\n                    \u003cunitdate normal=\"1781/1781\"\u003ecirca 1781\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003codd id=\"ref49\"\u003e\n                    \u003chead\u003eGeneral note\u003c/head\u003e\n                    \u003cp\u003eIncludes a comprehensive accounting of men who served and their clothing and equipment. The oversize item is in several fragments.\u003c/p\u003e\n                \u003c/odd\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

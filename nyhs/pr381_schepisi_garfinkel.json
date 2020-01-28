@@ -1,0 +1,149 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "pr381_schepisi_garfinkel"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Holly Schepisi and Paul Garfinkel Collection of Photographs  \u003clb/\u003e 1945-1985  \u003clb/\u003e \u003cnum\u003ePR 381\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Marybeth Kavanagh"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-05-01T16:04:19\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Garfinkel, Paul C."
+                    }
+                },
+                "unittitle": {
+                    "value": "Holly Schepisi and Paul Garfinkel collection of photographs"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "1945-1985"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "2 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 2 boxes"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "This collection, assembled and donated by Holly Schepisi and Paul Garfinkel, consists of photographs from three discrete photographers/photo agencies: the Black Star Agency's images of prominent people and events (1975-1984); André de Dienes' portraits of Marilyn Monroe (1945-1953); and photojournalist Ken Regan's images of the ABC-TV newsroom (1981-1983) and the Kennedy family (1971-1985)."
+                },
+                "unitid": {
+                    "value": "PR 381"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_98d6618b81aadb759664f20c1e5e745d",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open to qualified researchers by appointment only."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_1119c4b53df78f225431bb95e2024216",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "The collection should be cited as: Holly Schepisi and Paul Garfinkel Collection of Photographs, PR 381, Department of Prints, Photographs, and Architectural Collections, New-York Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_4597c8c576eafc632a2acc4c239ffb4f",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Gift of Holly Schepisi and Paul Garfinkel, 2014."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_5960ee6eb590ffff7335d4c96cbd9cb9",
+            "head": "Biographical / Historical",
+            "p": {
+                "value": "André de Dienes (1913-1985) was a Hungarian American fashion photographer best known for his early portraits of the actress Marilyn Monroe."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_5c66a4d4433a236130353ab248ece1c8",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The final set are photographs by photojournalist Ken Regan, including behind the scenes images of ABC News broadcasts, 1981-1983, and photographs of the extended Kennedy family at work, at political and social events, and at the family compound, 1971-1985. Most of these images are of Ted Kennedy, though there are also photos of Jackie Kennedy Onassis, John F. Kennedy Jr., Caroline Kennedy, Joe Kennedy Jr., and Pat Lawford."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Celebrities -- Portraits"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Politicians"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Black Star (Picture agency)"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_db6fe639f21e08b276a776baa37c96b1\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: Black Star Agency photographs\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1975-1984\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_b8045a32ff4e76604f139a2a6e62fdf0\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003econtains images of prominent people and events of the 1970s and 1980s.\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_08f4ff814b3cbe20403e0f1a7e052f93\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePortraits A-B\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1975-1983\u003c/unitdate\u003e\u003ccontainer id=\"aspace_72b83e718f66821c99757cf1357e2cb2\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_72b83e718f66821c99757cf1357e2cb2\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_a8a474d75227afe8b166d46da2b5850d\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eWoody Allen\u003c/p\u003e\u003cp\u003eAnn-Margret\u003c/p\u003e\u003cp\u003eJulie Anderson\u003c/p\u003e\u003cp\u003eYuri Andropov\u003c/p\u003e\u003cp\u003eYasser Arafat\u003c/p\u003e\u003cp\u003eDesi Arnaz Jr.\u003c/p\u003e\u003cp\u003eBrigitte Bardot\u003c/p\u003e\u003cp\u003eMikhail Baryshnikov\u003c/p\u003e\u003cp\u003ePatricia Bellwood\u003c/p\u003e\u003cp\u003eCandace Bergen\u003c/p\u003e\u003cp\u003eMarlon Brando\u003c/p\u003e\u003cp\u003eJerry Brown\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_8ba3689d00af0407eb8ca86d324e4e9b\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePortraits C-D\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1977-1984\u003c/unitdate\u003e\u003ccontainer id=\"aspace_378c825b16884f6b4f8867f036d2cccf\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_378c825b16884f6b4f8867f036d2cccf\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_6b67d9fc568a1f08e7a344002cfb8a41\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eShakira Caine\u003c/p\u003e\u003cp\u003eJimmy Carter and family\u003c/p\u003e\u003cp\u003eFidel Castro\u003c/p\u003e\u003cp\u003eCyd Charisse\u003c/p\u003e\u003cp\u003eJoan Collins\u003c/p\u003e\u003cp\u003eFrancis Ford Coppola\u003c/p\u003e\u003cp\u003ePatti Davis\u003c/p\u003e\u003cp\u003eDeng Xiaoping\u003c/p\u003e\u003cp\u003eBo Derek\u003c/p\u003e\u003cp\u003eAna De Sade\u003c/p\u003e\u003cp\u003eAngie Dickinson\u003c/p\u003e\u003cp\u003eRobert Duvall\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_7c5bf5e0e884f9754af0c4c8438ccaf8\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePortraits E-G\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1977-1983\u003c/unitdate\u003e\u003ccontainer id=\"aspace_21ed770d1e7bdffe692afcdaed2dfd41\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_21ed770d1e7bdffe692afcdaed2dfd41\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_0566535d5e09c433653be7c3d12be416\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eBlake Edwards\u003c/p\u003e\u003cp\u003eMorgan Fairchild (with Prince Alberto of Monaco)\u003c/p\u003e\u003cp\u003eFarrah Fawcett\u003c/p\u003e\u003cp\u003eJane Fonda\u003c/p\u003e\u003cp\u003eJodie Foster\u003c/p\u003e\u003cp\u003eRichard Gere\u003c/p\u003e\u003cp\u003eIndira Gandhi (with Prince Charles)\u003c/p\u003e\u003cp\u003eMel Gibson\u003c/p\u003e\u003cp\u003ePrincess Caroline Grimaldi of Monaco\u003c/p\u003e\u003cp\u003ePrincess Stephanie Grimaldi of Monaco\u003c/p\u003e\u003cp\u003eAndrei Gromyko\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_05616d24ad6a3c3812152e90a689b6df\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePortraits H-L\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1977-1984\u003c/unitdate\u003e\u003ccontainer id=\"aspace_26458325e67a7e83e834befd050f37c6\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_26458325e67a7e83e834befd050f37c6\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_2fb9478ad7cc058004f73ac83a808994\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eCharlton Heston\u003c/p\u003e\u003cp\u003eFinola Hughes\u003c/p\u003e\u003cp\u003eDiane Keaton\u003c/p\u003e\u003cp\u003eKennedy Family\u003c/p\u003e\u003cp\u003eAyatollah Khomeini\u003c/p\u003e\u003cp\u003eEd Koch\u003c/p\u003e\u003cp\u003eJerry Lewis\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_89ac0f27af3fdec89444b066aa3845d2\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePortraits M-N \u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1977-1982\u003c/unitdate\u003e\u003ccontainer id=\"aspace_3014a1e788225b67f3d8aa76e84ae6f2\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_3014a1e788225b67f3d8aa76e84ae6f2\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_6251103c5827b25db574681c86307a6b\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eShirley Maclaine\u003c/p\u003e\u003cp\u003eNorman Mailer\u003c/p\u003e\u003cp\u003eFrancois Mitterand\u003c/p\u003e\u003cp\u003eWalter Mondale\u003c/p\u003e\u003cp\u003eDudley Moore\u003c/p\u003e\u003cp\u003eMary Tyler Moore\u003c/p\u003e\u003cp\u003eRoger Moore\u003c/p\u003e\u003cp\u003eEd Muskie\u003c/p\u003e\u003cp\u003ePaul Newman with Joanne Woodward\u003c/p\u003e\u003cp\u003eRalph Nader\u003c/p\u003e\u003cp\u003eJack Nicholson\u003c/p\u003e\u003cp\u003eRichard Nixon\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_1e73b34b7a1b0bfc3013650e83c081d3\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePortraits O-R\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1978-1983\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d8b206045e36ccc576691e966957f481\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d8b206045e36ccc576691e966957f481\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_a8288f3336bcc4c69d09307529d65e55\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eLaurence Olivier\u003c/p\u003e\u003cp\u003eChristina Onassis\u003c/p\u003e\u003cp\u003eJackie Kennedy Onassis with Caroline Kennedy and JFK Jr.\u003c/p\u003e\u003cp\u003eTatum O'Neal\u003c/p\u003e\u003cp\u003eRichard Pryor\u003c/p\u003e\u003cp\u003eEden Pastora [Nicaraguan political figure]\u003c/p\u003e\u003cp\u003eRonald and Nancy Reagan with Ron Reagan\u003c/p\u003e\u003cp\u003eGinger Rogers\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_3f8fa76ce70e036cc97b243cd92dd1d2\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePortraits S-Z\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1978-1984\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d94ddc97336ed690ebbe04b7bc4b2e1a\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d94ddc97336ed690ebbe04b7bc4b2e1a\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_e9c2df35b49912cedded7c85362051c7\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eTom Selleck\u003c/p\u003e\u003cp\u003eJane Seymour\u003c/p\u003e\u003cp\u003eBrooke Shields\u003c/p\u003e\u003cp\u003eSylvester Stallone\u003c/p\u003e\u003cp\u003eRod Steiger\u003c/p\u003e\u003cp\u003eMeryl Streep\u003c/p\u003e\u003cp\u003eBarbra Streisand\u003c/p\u003e\u003cp\u003eMother Teresa\u003c/p\u003e\u003cp\u003eHeather Thomas\u003c/p\u003e\u003cp\u003eLily Tomlin\u003c/p\u003e\u003cp\u003eJohn Travolta\u003c/p\u003e\u003cp\u003eLinn Ullman\u003c/p\u003e\u003cp\u003eJohn Wayne\u003c/p\u003e\u003cp\u003eOrson Welles\u003c/p\u003e\u003cp\u003eMae West\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_4a2355b74cb9441f2f5b45a43c0c828d\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBritish Royal Family\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1977-1983\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d28c269dc81288b2e6edcb1b0c94d5e1\" label=\"Graphic Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_d28c269dc81288b2e6edcb1b0c94d5e1\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_2b63b17c337c7aff0da985c4d93bbfa9\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003ePrince Andrew\u003c/p\u003e\u003cp\u003ePrince Charles\u003c/p\u003e\u003cp\u003ePrince Edward\u003c/p\u003e\u003cp\u003ePrince Philip\u003c/p\u003e\u003cp\u003ePrince William\u003c/p\u003e\u003cp\u003ePrincess Anne\u003c/p\u003e\u003cp\u003ePrincess Diana\u003c/p\u003e\u003cp\u003eQueen Elizabeth\u003c/p\u003e\u003cp\u003e\n*includes wedding photos of Prince Charles and Princess Diana\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_365107f19cdf6202b36075bfdabf88da\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eEgypt-Israel Peace Treaty\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1977-1979\u003c/unitdate\u003e\u003ccontainer id=\"aspace_506c63719ef8b3a30f1b4a8a4d481291\" label=\"Graphic Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_506c63719ef8b3a30f1b4a8a4d481291\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_d3284ad2385bfb6ae6211277491e89b5\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eimages of President Anwar Sadat of Egypt, Prime Minister Menachem Begin of Israel, and U.S. President Jimmy Carter, and U.S. Secretary of State Cyrus Vance during the peace negotiations between Egypt and Israel.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_7e75af4fb2fc1e89fbbf22eabd0f2308\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eVietnam Veterans\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1981-1983\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f00ddd9cc6387548716d97cb78b23bad\" label=\"Graphic Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_f00ddd9cc6387548716d97cb78b23bad\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_22e0a40b07b7cbad7030e87f9ba3099e\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003ephotos of people, including veterans, visiting the Vietnam Veterans Memorial Wall in Washington D.C. One photo of an injured Vietnam veteran running a marathon.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_c6cb631d21361e6dbf73cbf643ce2a69\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries II: André de Dienes photographs\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1945-1953\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_0044af5e502381f34ea7827fb771a44c\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003e14 images of Marilyn Monroe. Also includes certificates of authenticity from the curator and manager of the de Dienes archive, Chuck Murphy.\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_f1e3c5b8c21413932efb57e98f2a1796\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMarilyn Monroe\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1945-1953\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c991c9f41329b5ea482bcdf8590201a8\" label=\"Graphic Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_c991c9f41329b5ea482bcdf8590201a8\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_1e7f4bc115d1df5dfb7e1a9f76d2c395\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries III: Ken Regan photographs\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1971-1985\u003c/unitdate\u003e\u003c/did\u003e\u003cc id=\"aspace_c8d68a32ce1367ff73db888c4d457205\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eABC News Broadcasting\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1981-1983\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2bf2ef7aa9ad948cbb7e92eda30551cc\" label=\"Graphic Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_2bf2ef7aa9ad948cbb7e92eda30551cc\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_fc99a0cc076c26e6f1d5d4a4714c3662\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003ebehind the scenes images of ABC News.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_96e0b87c4d1825569b40718dd1dade61\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eKennedy Family\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1971-1985\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2fdf25d59a13bb2d480e2c2ef4f70377\" label=\"Graphic Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_2fdf25d59a13bb2d480e2c2ef4f70377\" type=\"Folder\"\u003e6-9\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_44b70f30b6fa34801ea2281797228579\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003ephotographs of the extended Kennedy family at work, at political and social events, and at the family compound. Most of the images are of Ted Kennedy.  Also included are photos of Jackie Kennedy Onassis, John F. Kennedy Jr., Caroline Kennedy, Joe Kennedy Jr., and Pat Lawford.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

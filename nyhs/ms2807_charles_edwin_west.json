@@ -1,0 +1,149 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "ms2807_charles_edwin_west"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Charles Edwin West Scrapbooks \u003clb/\u003e1838-1898\u003clb/\u003e \u003cnum\u003eMS 2807\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Larry Weimer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2020-01-24T16:53:49\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "West, Charles Edwin, 1809-1900"
+                    }
+                },
+                "unittitle": {
+                    "value": "Charles Edwin West scrapbooks"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "circa 1838-1898"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "4 Linear feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 4 record cartons"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "32 scrapbooks and loose papers maintained by Charles Edwin West (1809-1900), an administrator at the Rutgers Female Institute (1839-1951), Buffalo Female Academy (1851-1860), and Brooklyn Heights Seminary (1860-1889) who was especially known for his inclusion of mathematics and science in his educational programs for women. The scrapbooks are primarily filled with newspaper clippings, but there is also a sizable amount of ephemera. The scrapbooks are subject-oriented and relate to education, science, art and literature, and necrologies."
+                },
+                "unitid": {
+                    "value": "MS 2807"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_285776e4386125d1cdc8902d18100a0c",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to qualified researchers."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_76aa5ec2a81e1e92fb9d86e4d7657a4b",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "This collection should be cited as the Charles Edwin West scrapbooks, MS 2807, New-York Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_fa6a80d5f9fa9db7d11b3f15fda50eee",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials were found on collection shelves in January 2020. The source of the acquisition is unknown."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_04a2e8b3381a011227f3a4f99687b9a8",
+            "head": "Biographical / Historical",
+            "p": {
+                "value": "In 1843, West married Elizabeth Giles (1816-1864). He remained at Rutgers Female Institute for 12 years before moving to Buffalo to start a new school for women in 1851. After nine years at the Buffalo Female Academy, in 1960 he moved to Brooklyn and took charge of the Brooklyn Heights Seminary, where he remained for 29 years. West retired in 1889, continuing to live at 76 Pierrepont Street in Brooklyn and summering in Buffalo. He died in 1900."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_ee1b495e42825926df047f7d78d5a861",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection includes 32 subject-oriented scrapbooks and several folders of loose documents maintained by Charles E. West. The bulk of the documents are newspaper clippings, but a sizable amount of ephemera can be found as well. Much of this ephemera relates to the Rutgers Female Institute and, later, Rutgers Female College. Overall, the scrapbooks concern education (e.g., school administration, finances, notable teachers, principals and other educational figures, and perhaps especially women in education as students, teachers and administrators); scientific matters (microscopy, astronomy); art, archaeology, culture, and literary matters; and obituaries (necrologies) of those well-known and those more likely to have been known personally by West. Individual volumes are noted below in the container list."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Learned institutions and societies"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Women -- Education"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Rutgers Female Institute (New York, N.Y.)"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_24437e693721265dcf6a58eb65eb9642\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRutgers Female Institute (7 folders)\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1838-1864, 1897\u003c/unitdate\u003e\u003ccontainer id=\"aspace_af9b56eaca62c4f8f9104e4755288bb4\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_af9b56eaca62c4f8f9104e4755288bb4\" type=\"Folder\"\u003e1-7\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_9dfa7b0f6098ad7e495c08355b9d2543\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eDocuments found together in a loose leaf binder. Includes published Act of Incorporation and By-laws (1938); address of Isaac Ferris at opening (1939); catalogue of library books (1849); a handwrtten list of students by department, categorized primarily by attendance (1851); programs, newspaper accounts, and tickets for various commencements (1841-1862); ephemera and clippings related to examinations, lectures, reunions, and other school matters (1841-1864); a farewell poem to West; a few letters (1838-1848); Boston's report on the use of medals (prizes) for recognizing educational accomplishment (1848); and West's recollections in 1897 of the founding of the Brooklyn Female Academy (1840s-50s).\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_b91818cacd4db8308bd6681fef97648e\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRutgers Female College\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1870-1888\u003c/unitdate\u003e\u003ccontainer id=\"aspace_55dee934d8945c6a40ac605ed64cdbe3\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_55dee934d8945c6a40ac605ed64cdbe3\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_846711695dd8882bf7fe0c42fc7fbd89\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eIncludes a statement of the \"System of Instruction\" (1886); program for the school year 1887-88; charter (as of 1888); commencement program (1886); financial solicitation letter (1871); and tickets for various commencement and related events.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_f4e8a74d4b48d33aa069608728d6eb04\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Circulars, etc.\"\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1840s-1850s\u003c/unitdate\u003e\u003ccontainer id=\"aspace_50ae08a2dbeb295d7663988a5c476aa7\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_50ae08a2dbeb295d7663988a5c476aa7\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_ea6803115c825ddd15fa2dc857b8251a\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eIncludes a broad range of printed circulars, advertisements, receipts, form letters, business cards, commencement admission tickets, and financial solicitations. The materials are from educational institutions (e.g. Perry Academy; Orange, NJ, Female Seminary; Young Ladies Institute of Pittsfield, Mass.; City University of New York), lecturers, scientific associations (Smithsonian Institution, American Association for the Advancement of Science) product manufacturers (e.g., reaping and mowing machine, school furniture, Abbott's horometer), book advertisements, and much more. Includes some letters.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_7c0ded6aa3dd5bb9a3d014548769e833\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"New England Society of Brooklyn\" (9 folders)\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1846-1893\u003c/unitdate\u003e\u003ccontainer id=\"aspace_761115b88b7c894e17745b1e913b1c7b\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_761115b88b7c894e17745b1e913b1c7b\" type=\"Folder\"\u003e10-18\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_4f076c252efb0d506adb5e6bd8b66f95\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eVirtually all the documents from this scrapbook were loose, and the scrapbook binding was broken. The binder was discarded and the documents foldered roughly as found throughout the scrapbook. In addition to the Society of Brooklyn, there is material on the New England Society of Buffalo, Pilgrim Day generally, and the Pilgrim Statue in Central Park. There is also ephemera on other organizations West was a member of, especially the Hamilton Club and the Rembrandt Club, as well as some related to the Century Association, Long Island Historical Society, American Astronomical Society, and others. The earliest document is the booklet \"Confession of Faith and Covenant of the Church of the Puritans\" (1846), with its principles, rules and by-laws.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_a396f2b5f22b39ebc3be82797cd219f0\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"American Numismatic and Archaeological Society\"\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1882-1898\u003c/unitdate\u003e\u003ccontainer id=\"aspace_0e226e67e60be741e74054d29b71e51f\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0e226e67e60be741e74054d29b71e51f\" type=\"Folder\"\u003e19\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_aad8f9cdeb3bf93b4d94155220c3d39b\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eClippings concerning coins and meetings of the Society. There are many circulars, invitations, receipts, and letters related to the Society, with some concerning the Grolier Club and the Bailey Microscopial Club. Holds a booklet \"The Feuardent Collection of Antiquities, Coins and Gems\" offered for sale at 30 Lafayette Place (1880); a brochure \"Coins of the New Testament\" published by Marcus Ward \u0026amp; Co, with textured images of the coins; and the catalog for Scott \u0026amp; Company's 55th auction sale of coins (1883). This scrapbook was cataloged at one time at N-YHS with the call phrase \"BV West, Charles.\"\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_d58952b22f506f16efbcf33198b2e904\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAgriculture and Breeding\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1857, 1870s-1880s\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4a7884c5104ce152c842441111e5e52e\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_4a7884c5104ce152c842441111e5e52e\" type=\"Folder\"\u003e20\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_77cfe20dacb07f9372cf8237a8e25010\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eClippings concerning prizes awarded at the Erie County, N.Y., and Agricultural Society fairs, trotting horse sales, and other such matters. Includes a ribbon from the 1857 New York State Agricultural Society, Buffalo.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_9f0a6df7e17fd95856c14502bf822ee9\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Feuardent \u0026amp; Cesnola Controversy\"\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1878, 1882-1884\u003c/unitdate\u003e\u003ccontainer id=\"aspace_01804bf0557cb30ae20f54a949814422\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_01804bf0557cb30ae20f54a949814422\" type=\"Folder\"\u003e21\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_de98f2eb04d082088bc75b366a101bbe\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eRelates to charges that Cypriot antiquities at the Metropolitan Museum of Art were fraudulent. Mostly clippings with one original letter from Gaston L. Feuardent transmitting a transcription of a letter from G.W. Stillman.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_3cb582977f23c0c6a71332fb248f38aa\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Education No. [?]\"\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1879-1891\u003c/unitdate\u003e\u003ccontainer id=\"aspace_761c670132c2e6ba020a4ae3338f87a6\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_761c670132c2e6ba020a4ae3338f87a6\" type=\"Volume\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_c0713453cfe1aa74a64a57e37f67eff1\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Education No. 111[?]\" \u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1884-1892\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a8f2a79bfa39d0d32ea055bdf6f64e81\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_a8f2a79bfa39d0d32ea055bdf6f64e81\" type=\"Volume\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_56ffbee9613904fb8e8fe2b1ef8ba3dc\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Education No. 11-[?]\" \u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1876-1892\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d689f7964e7cf24fc9ead075aa1999af\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_d689f7964e7cf24fc9ead075aa1999af\" type=\"Volume\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_8a8ab140775bea13a1d994837e47d957\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eIncludes, among other topics, the dedication of the new chapter house at the Buffalo Female Academy (1884), which West attended and made remarks at; his remarks are summarized and recorded in some of the articles. The volume includes many items of ephemera (invitations, commencement programs, a brochure advertising lectures by George Willis Cooke on British women in literature, etc.). One letter to West from the New York Local Committee of Harvard Examinations for Women transmits a circular describing changes to the exams (1876).\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ddd270d51a17be7de841074d1a7c90f9\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eEducation\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1864-1896\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5fbc4f3691eeea25ab05ca917087a297\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_5fbc4f3691eeea25ab05ca917087a297\" type=\"Volume\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_62d631ee65b9e7ccfe3d1d6c7a37666f\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eIncludes clippings (and some ephemera) on, among other topics, the death of West's wife, Elizabeth, in 1864; dinners and other events honoring West (some articles include his remarks); and the death of Mary A. Brigham (1830-1889), a longtime teacher at Brooklyn Heights Seminary, who was killed in a train wreck shortly after being named president of Mount Holyoke Seminary and Female College.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_061ae691ca9dc126f8250cfe710e0e42\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eEducation\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1889-1899\u003c/unitdate\u003e\u003ccontainer id=\"aspace_937f58baaadb530ee95175beae955d14\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_937f58baaadb530ee95175beae955d14\" type=\"Volume\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_f8ac7e81ab2244eab4f953faffac6720\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003ePrimarily includes biographical sketches and articles on education, including women's education. Two articles at the front of the volume are biographical notes on West.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_e12e2a3ef5c294c33c8668c507e41759\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Andover Theology, etc.\"\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1886-1888\u003c/unitdate\u003e\u003ccontainer id=\"aspace_12c289c46c1d02bfa43f871ca4760c4a\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_12c289c46c1d02bfa43f871ca4760c4a\" type=\"Volume\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_c42b3600a7b9f34e16f1793679c84a56\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eClippings concerning the \"Andover\" school of theology (a belief in \"probation after death\") within Congregationalism, and various other theological matters.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_cf4cd31e2bb7780199eeaed185de425b\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eHenry Ward Beecher\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1879-1891\u003c/unitdate\u003e\u003ccontainer id=\"aspace_659c887d0ee0ae1318a69fb67e60b16d\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_659c887d0ee0ae1318a69fb67e60b16d\" type=\"Volume\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_8b9ea9b89dc78dec1d7411733fa22207\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eClippings primarily concerning the death of Beecher and the building of a memorial to him. Some original invitations and related letters concerning a meeting of the Brooklyn Clerical Union featuring the Rev. Dr. Joseph Parker.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_fe95d513f3073eb5ed8dc57b64f3f3b1\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTravel Accounts from Philadelphia Public Ledger\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1880s-1890s\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9e734d624cb3571500f0f478c1f1e886\" label=\"Mixed Materials\" type=\"Box\"\u003e3\u003c/container\u003e\u003ccontainer parent=\"aspace_9e734d624cb3571500f0f478c1f1e886\" type=\"Volume\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_c2ad9633681729e0983e8f92b29f7cce\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003ePrimarily includes clippings of two serialized travel accounts, the first (1890) through New York State, Vermont, and New Hampshire, and the second (1892) along the coast from Massachusetts to Prince Edward Island in Canada. There are a small number of other clippings, including those concerning President James Garfield.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_f8ab3d7ee0911286bd982e0b7054940e\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eChina, Japan, Korea\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1883-1887\u003c/unitdate\u003e\u003ccontainer id=\"aspace_0776719a4520369cc4657b25927a3bce\" label=\"Mixed Materials\" type=\"Box\"\u003e3\u003c/container\u003e\u003ccontainer parent=\"aspace_0776719a4520369cc4657b25927a3bce\" type=\"Volume\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_d2d042cb32509c63e3500ea5c59e9641\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Japan\"\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1879-1886\u003c/unitdate\u003e\u003ccontainer id=\"aspace_0d3148a89c5501791ba215420fad8b33\" label=\"Mixed Materials\" type=\"Box\"\u003e3\u003c/container\u003e\u003ccontainer parent=\"aspace_0d3148a89c5501791ba215420fad8b33\" type=\"Volume\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_c642adc5201aedaecc60d51c334b66cd\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"China and Korea\"\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1879-1888\u003c/unitdate\u003e\u003ccontainer id=\"aspace_3c48bfe103632fd2e9c45dfa82a3e063\" label=\"Mixed Materials\" type=\"Box\"\u003e3\u003c/container\u003e\u003ccontainer parent=\"aspace_3c48bfe103632fd2e9c45dfa82a3e063\" type=\"Volume\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_06ce9d38f5b70e844ccde58834de281b\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eScience and Microscopy\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1872-1880s\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d65231eaece8ffe1578fdc9e7d776966\" label=\"Mixed Materials\" type=\"Box\"\u003e3\u003c/container\u003e\u003ccontainer parent=\"aspace_d65231eaece8ffe1578fdc9e7d776966\" type=\"Volume\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_569f36d6f3104b0c96cc370260ab436a\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMicroscopic and Telescopic\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1852-1891\u003c/unitdate\u003e\u003ccontainer id=\"aspace_20a90470ad50bfd8e051e56dbd962631\" label=\"Mixed Materials\" type=\"Box\"\u003e3\u003c/container\u003e\u003ccontainer parent=\"aspace_20a90470ad50bfd8e051e56dbd962631\" type=\"Volume\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_3df2e441f73b9937b0d76d836f9b6acd\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003ePrimarily clippings, but also has a ribbon \"American Society of Microscopists, Chautauqua, N.Y., 1886\" with image, and also the meeting's exhibition list and the reprint of West's remarks at the meeting \"Forty Years' Acquaintance with the Microscope and Microscopists\"; booklet \"On the Preservation of Animal Substances\" by Henry Goadby, inscribed by the author to West (1852); booklet \"A Theory of the Constitution of the Sun\" by Charles S. Hastings, inscribed by the author to West (1880); and a printed \"Table Showing the Actual Magnifying Power of Thirty-Five Microscopial Objectives of Various Makers\" by the Bailey Microscopial Club (1870).\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_c5703a7b996715859e9a39cab8090c34\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Natural History\"\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1873-1882\u003c/unitdate\u003e\u003ccontainer id=\"aspace_be1204220d4e861dd1b5bd069bdddd3e\" label=\"Mixed Materials\" type=\"Box\"\u003e3\u003c/container\u003e\u003ccontainer parent=\"aspace_be1204220d4e861dd1b5bd069bdddd3e\" type=\"Volume\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_7e3989ed1453226282c4eb097a48dd96\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Archaeology\"\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1878-1881\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c2b77bab4ab5c31a8d3463f6280f001d\" label=\"Mixed Materials\" type=\"Box\"\u003e3\u003c/container\u003e\u003ccontainer parent=\"aspace_c2b77bab4ab5c31a8d3463f6280f001d\" type=\"Volume\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_8fd4d833284745bf9c85bf57a769c038\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eClippings on various Roman, Greek, and other archaeological matters. Includes an announcement card, with image, concerning the placement of the Alexandrian obelisk (\"Cleopatra's Needle\") in Central Park by Henry H. Gorringe (1881).\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_894aa55b84b0b6b2186e4be93573d86b\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Astronomy\"\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1869-1887\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c4e27535363c6058a08e79ab47730ace\" label=\"Mixed Materials\" type=\"Box\"\u003e3\u003c/container\u003e\u003ccontainer parent=\"aspace_c4e27535363c6058a08e79ab47730ace\" type=\"Volume\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_33919a151fbd57fc3aea8c088920d8cc\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eArt\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1878-1887\u003c/unitdate\u003e\u003ccontainer id=\"aspace_31ee530e0cbaec8cad264297f46447f8\" label=\"Mixed Materials\" type=\"Box\"\u003e3\u003c/container\u003e\u003ccontainer parent=\"aspace_31ee530e0cbaec8cad264297f46447f8\" type=\"Volume\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_656bbc60b2140abaa771be8f0adbd725\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eVarious (2 volumes)\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1866-1893\u003c/unitdate\u003e\u003ccontainer id=\"aspace_db07684fe705d2aa451a5540e7ab82ed\" label=\"Mixed Materials\" type=\"Box\"\u003e3\u003c/container\u003e\u003ccontainer parent=\"aspace_db07684fe705d2aa451a5540e7ab82ed\" type=\"Volume\"\u003e11-12\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_26429fb06f7c42e1efc0f73e049931ab\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003ePrimarily includes clippings on libraries, books, collections, and public lectures.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_e4caf52b43a8ced4626bd0e6345766e4\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Necrology\" (8 volumes)\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1880-1898\u003c/unitdate\u003e\u003ccontainer id=\"aspace_afd8961162a49531e1de2c959c59fd80\" label=\"Mixed Materials\" type=\"Box\"\u003e4\u003c/container\u003e\u003ccontainer parent=\"aspace_afd8961162a49531e1de2c959c59fd80\" type=\"Volume\"\u003e1-8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

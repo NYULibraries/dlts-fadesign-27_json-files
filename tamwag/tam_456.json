@@ -1,0 +1,133 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_456"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Frank J. Donner Papers on the House Committee on Un-American Activities \u003cnum\u003eTAM 456\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-06-07T20:24:55\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Frank J. Donner Papers on the House Committee on Un-American Activities"
+                },
+                "unitdate": {
+                    "normal": "1958/1966",
+                    "type": "inclusive",
+                    "value": "circa 1958-1966"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 manuscript box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "TAM 456"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_02a4fce9c261b6e655a011369f50d8b2",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_85ced82bafa251e037518e33dcb3e136",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_69de9627c7b5f2c76d1b50217b2f18bd",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials found in collection; provenance is unknown. The accession number associated with this collection is 1950.167."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_5ae16c32c3757e1c4f00988dd3309e43",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "This collection contains the papers of Frank J. Donner (1911-1993), author of \u003cemph render=\"italic\"\u003eThe Un-Americans\u003c/emph\u003e, an account of HUAC's abuse of power and its opposition."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_95d8f10d71624f64670a61bc38bd25f0",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The papers contain collected clippings, editorials, and reports on the hearings, hearing transcripts, related flyers and newsletters and correspondence with Donner."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Anti-communist movements -- United States."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "United States. Congress. House. |b Committee on Un-American Activities"
+            }
+        },
+        "dsc": {}
+    }
+}

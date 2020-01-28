@@ -1,0 +1,96 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "ms2958_9782_kassebart"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Henry Kassebart Abstract of Property Title\u003clb/\u003e1892?\u003clb/\u003e \u003cnum\u003eAHMC Kassebart, Henry\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Larry Weimer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-07-18T13:57:01\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Kassebart, Henry"
+                    }
+                },
+                "unittitle": {
+                    "value": "Henry Kassebart abstract of property title (1776-1892)"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "1892?"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": ".01 Linear feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 folder"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Title abstract for a plot of land on West 21st street (now number 309, near 8th avenue) in Manhattan borough of New York City. The abstracts begin in 1776 with the conveyance to Mary Clark, upon the death of her husband Thomas Clark, the farm at Greenwich called \"Chelsea.\" The abstracts end in 1892 with the conveyance of a lot on the former Clark farm to Henry Kassebart from Philip and Ann E. Wagner. For more information and to request this item, see the \u003cextref actuate=\"onRequest\" href=\"http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph005937232\u0026amp;context=L\u0026amp;vid=NYHS\u0026amp;search_scope=nyhs\u0026amp;tab=nyhs\u0026amp;lang=en_US\"\u003ecatalog record,\u003c/extref\u003e or write to manuscripts@nyhistory.org."
+                },
+                "unitid": {
+                    "value": "AHMC Kassebart, Henry"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "dsc": {}
+    }
+}

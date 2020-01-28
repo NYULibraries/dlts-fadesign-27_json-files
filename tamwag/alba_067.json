@@ -1,0 +1,152 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "alba_067"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the James Lardner Papers \u003cnum\u003eALBA.067\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Jessica Weglein and Elizabeth Compa"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-07-20T17:20:39\u003c/date\u003e"
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Lardner, James, 1914-1938"
+                    }
+                },
+                "unittitle": {
+                    "value": "James Lardner Papers"
+                },
+                "unitdate": {
+                    "normal": "1938/1938",
+                    "type": "bulk",
+                    "value": "bulk"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "James Lardner (1914-1938) was a journalist who enlisted in the Abraham Lincoln Brigade to fight against Franco's rebel forces in Spain. In March of 1938 Lardner traveled to Barcelona and after observing the war first hand, resolved to enlist in the Abraham Lincoln Brigade. He was killed in action in September 1938. The collection consist chiefly of correspondence; most of it produced by Lardner during his time in Paris and Spain and addressed to his mother Ellis and his brother Ring."
+                },
+                "unitid": {
+                    "value": "ALBA.067"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_6aecfaa8e484207d3cf1514f1b77c5c5",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Materials are open to researchers. Please contact the Tamiment Library \u0026amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_258d28473e3dec8cf712c50ded04ee29",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: \u003clb/\u003e\u003clb/\u003eIdentification of item, date; Collection name; Collection number; box number; folder number; \u003clb/\u003eTamiment Library/Robert F. Wagner Labor Archives \u003clb/\u003eElmer Holmes Bobst Library \u003clb/\u003e70 Washington Square South \u003clb/\u003eNew York, NY 10012, New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_04d3a5e08679f0b57b8165e21ce0ccea",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "\u003clist\u003e\u003citem\u003eLardner, Ring, Jr. \u003ctitle render=\"italic\"\u003eThe Lardners: My Family Remembered\u003c/title\u003e. (New York: Harper \u0026amp; Row Publishers, 1976.)\u003c/item\u003e\u003citem\u003eSheean, Vincent. \u003ctitle render=\"italic\"\u003eNot Peace but a Sword.\u003c/title\u003e(New York: Doubleday, Doran \u0026amp; Company, 1939.)\u003c/item\u003e\u003c/list\u003e "
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_07ece5d407d48dfe4494d72c2711fa91",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "Additional materials are clippings of articles about Lardner by Heywood Broun and Vincent Sheean; and an International Brigade citation made out to Lardner with a colorful battlefield graphic on the verso."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Spain -- History -- Civil War, 1936-1939."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Ebro River, Battle of the, Spain, 1938."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Spain. Ejercito Popular de la Republica. Abraham Lincoln Battalion"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref13\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eInventory\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref14\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eLardner, James: Outgoing correspondence\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eJan 1938-Mar 1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4bcfdd417343f63dc75e96396a6394f9\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_4bcfdd417343f63dc75e96396a6394f9\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eLardner, James: Outgoing correspondence\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eMay 1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_6459f514fdd24d6b61ec9ae732db5919\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_6459f514fdd24d6b61ec9ae732db5919\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eLardner, James: Outgoing correspondence\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eJun 1938-Jul 1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e896d9b2dd2acb90f89e4bc3bb1c8206\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e896d9b2dd2acb90f89e4bc3bb1c8206\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eLardner, James: Outgoing correspondence\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eAug 1938-Sep 1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_aa5ead546a3b41f09c6c03deabdf4fe6\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_aa5ead546a3b41f09c6c03deabdf4fe6\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCárdenas, Juan F. de\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eOct 1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d8466b1b5986ef5e24c0208cfcb4f621\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d8466b1b5986ef5e24c0208cfcb4f621\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eGordon, David\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eFeb 1948\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9296c5cb2e90a39b61cba592d56d9e07\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_9296c5cb2e90a39b61cba592d56d9e07\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eHemingway, Ernest\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eOct 1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a4007cc095cc1000e212962951fd7097\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_a4007cc095cc1000e212962951fd7097\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eLardner, Ellis (Mrs. Ring)\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eMay 1938-Jun 1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_687f2c65418e36bf7c0f41523aa14be2\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_687f2c65418e36bf7c0f41523aa14be2\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eMurra, John\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eNov 1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_dead2dfbd6366877520412458d7da30f\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_dead2dfbd6366877520412458d7da30f\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eService, Elman\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eNov 1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b58eba4ac5f31957b575a90f36b50d07\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b58eba4ac5f31957b575a90f36b50d07\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eSheean, Diana\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eMay 1938-Jul 1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_39569785296d083e414254b6bde95acc\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_39569785296d083e414254b6bde95acc\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eSheean, Vincent\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eMay 1938-Jan 1939\u003c/unitdate\u003e\u003ccontainer id=\"aspace_41842e73e71efb82bf8a2e6759056768\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_41842e73e71efb82bf8a2e6759056768\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref26\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCertificate: International Brigades Citation\u003c/unittitle\u003e\u003cunitdate normal=\"1938/1938\" type=\"inclusive\"\u003e1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c508d998c6903c5a7905ebbfa40aa234\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_c508d998c6903c5a7905ebbfa40aa234\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eClippings\u003c/unittitle\u003e\u003cunitdate normal=\"1938/1939\" type=\"inclusive\"\u003e1938-1939\u003c/unitdate\u003e\u003ccontainer id=\"aspace_8085a3403bb05d640fa4589d02e1ad99\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_8085a3403bb05d640fa4589d02e1ad99\" type=\"Folder\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

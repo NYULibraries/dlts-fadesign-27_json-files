@@ -1,0 +1,146 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1987_050_frucht_navy_yard"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Solomon C. Frucht Brooklyn Navy Yard ephemera\n                    \u003cnum\u003e1987.050\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by John Zarrillo"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "March 2015"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2015-03-20T15:23-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Frucht, Solomon C., 1906-1979"
+                    }
+                },
+                "unittitle": {
+                    "value": "Solomon C. Frucht Brooklyn Navy Yard ephemera"
+                },
+                "unitdate": {
+                    "normal": "1934/1963",
+                    "type": "inclusive",
+                    "value": "1934 to 1963"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.01 linear feet"
+                        },
+                        {
+                            "value": "in one folder"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Contains ephemera which belonged to Solomon C. Frucht while he was employed by the U.S. Navy at the Brooklyn Navy Yard from 1934 to 1963. The ephemera includes invitations, receipts, and material related to civil service retirement benefits."
+                },
+                "unitid": {
+                    "value": "1987.050"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1268002",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0085"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref2",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref5",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Solomon C. Frucht Brooklyn Navy Yard ephemera, 1987.050, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref4",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Michael and Naomi Frucht, 1987."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Navy-yards and naval stations |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Postemployment benefits"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "United States. Navy"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "New York Naval Shipyard."
+            }
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1985_114_graham_home"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Graham Home for Old Ladies annual reports and publications\n                    \u003cnum\u003e1985.114\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "November 16, 2010"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-21T11:46-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Graham Home for Old Ladies annual reports and publications"
+                },
+                "unitdate": {
+                    "normal": "1852/1958",
+                    "type": "inclusive",
+                    "value": "1852-1958"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.83 Linear feet"
+                        },
+                        {
+                            "value": "in two manuscript boxes."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "1985.114"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid507004",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "1985.114 1 of 2"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref4",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref6",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Graham Home for Old Ladies annual reports and publications, 1985.114, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref5",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Source and date of acquisition unknown. Formally accessioned in 1985."
+            }
+        },
+        "bioghist": {
+            "id": "ref2",
+            "head": "Historical Note",
+            "p": {
+                "value": "The Graham Home for Old Ladies was founded in 1851 by lawyer John Bell Graham (d. 1853), under the name of the Brooklyn Society for the Relief of Respectable, Aged, Indigent Females. The Society served as a place of refuge for \"elderly women, accustomed through life to comforts and refinement, who in their later years found themselves without relatives or adequate resources\" (1). The Society's building, the construction of which was funded by Graham and donations from several Brooklyn churches, opened for service in 1852 at Washington and Dekalb Avenues in the Brooklyn neighborhood of Clinton Hill. All applicants admitted by the Society had to meet specific requirements concerning \"the propriety of her conduct and the respectability of her character\" (2). The Society's name legally changed to the Graham Home for Old Ladies in 1899. The Graham Home operated in accordance with its original mission for well over a century after its founding, but by the 1980s it had dissolved. Its building was largely left abandoned and dilapidated until 2000, when it was purchased by the BRP Development Corporation, which restored the building and converted it into an upscale condominium complex."
+            }
+        },
+        "scopecontent": {
+            "id": "ref3",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Graham Home for Old Ladies annual reports and publications span the period 1852 to 1958. Annual reports feature summaries of the Home's yearly activities, expenditures, and endowments, as well as listings of board members, managers, staff, and committees; the Home's certificate of incorporation, constitution, and bylaws; rules and regulations; application procedures; listings of monetary and material donors; and listings of annual subscribers and life members. The reports do not feature the names of residents being accommodated at the Home. Additional publications included in the collection include a commemorative booklet published to coincide with the Home's 100th anniversary, and three copies of an informational booklet on the Home published by the Kings County Trust Company, copyright 1958."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Old age homes |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Old age homes |z New York (State) |z Kings County |x Administration"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Old age homes |z New York (State) |z Kings County |x History"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Graham Home for Old Ladies."
+            }
+        },
+        "dsc": {}
+    }
+}

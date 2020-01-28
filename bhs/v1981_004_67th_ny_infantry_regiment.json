@@ -1,0 +1,149 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "v1981_004_67th_ny_infantry_regiment"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the 67th New York Infantry Regiment portrait album\n                    \u003cnum\u003eV1981.004\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Weatherly Stephan"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "June 1, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2016-08-25T15:43-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "67th New York Infantry Regiment portrait album"
+                },
+                "unitdate": {
+                    "normal": "1850/1890",
+                    "type": "inclusive",
+                    "value": "circa 1860 to 1880"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.2 linear feet"
+                        },
+                        {
+                            "value": "in one album"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The album consists of cartes-de-visite and tintypes showing officers of the 67th New York Infantry Regiment as well as other Union Army officers during the Civil War era. Individuals are identified in the album, and a name index is enclosed."
+                },
+                "unitid": {
+                    "value": "V1981.004"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid816001",
+                    "label": "Graphic materials",
+                    "type": "Item",
+                    "value": "Album (V1981.004)"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref6",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); 67th New York Infantry Regiment portrait album, V1981.004, Box number, Object ID number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref5",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Frederic Bowen Lincoln, 1931."
+            }
+        },
+        "bioghist": {
+            "id": "ref9",
+            "head": "Historical note",
+            "p": {
+                "value": "The 67th New York Infantry Regiment, also known as the First Long Island Regiment and Beecher's Regiment, was active during the Civil War. The regiment was largely composed of Brooklyn residents."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The 67th New York Infantry Regiment portrait album dates from circa 1862 to 1865 and contains 80 items. The album consists of cartes-de-visite and tintypes showing officers of the 67th New York Infantry Regiment as well as other Union Army officers during the Civil War era. Individuals are identified in the album, and a name index is enclosed."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Veterans |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "United States. Army. New York Infantry Regiment, 67th (1861-1864)."
+            }
+        },
+        "otherfindaid": {
+            "id": "ref3",
+            "head": "Other Finding Aids note"
+        },
+        "dsc": {}
+    }
+}

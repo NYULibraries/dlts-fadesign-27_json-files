@@ -1,0 +1,138 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "value": "jasik"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Henry Jasik Papers\n                    \u003cnum\u003eRG.029\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Lindsay Anderberg"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Poly Archives \u0026amp; Special Collections at Bern Dibner Library of Science and Technology"
+                },
+                "address": {
+                    "addressline": [
+                        "Bern Dibner Library of Science and Technology",
+                        "5 MetroTech Center",
+                        "Brooklyn, New York, 11201",
+                        "718-260-3943",
+                        "archives@library.poly.edu"
+                    ]
+                },
+                "date": "November 7, 2014"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2014-11-07T14:45-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Poly Archives \u0026amp; Special Collections at Bern Dibner Library of Science and Technology"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Jasik, Henry"
+                    }
+                },
+                "unittitle": {
+                    "value": "Guide to the Henry Jasik Papers, 1948-1987"
+                },
+                "unitdate": {
+                    "normal": "1948/1987",
+                    "type": "inclusive",
+                    "value": "1948-1987"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.5 Linear feet"
+                        },
+                        {
+                            "value": "2 boxes"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Henry Jasik (1919-1977) was a prominent scientist in the field of antenna engineering. After completing his doctoral studies in Electrical Engineering at the Polytechnic Institute of Brooklyn in 1953, he went on to found his own company, Jasik Laboratories, Inc. Jasik maintained his ties to Polytechnic, working closely with the Microwave Research Institute throughout his career. His Antenna Engineering Handbook, first published in 1961, is still widely referenced today."
+                },
+                "unitid": {
+                    "value": "RG.029"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref20",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open for research without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "ref22",
+            "head": "Preferred Citation note",
+            "p": {
+                "value": "Identification of item, date; RG-029: Henry Jasik Papers; box number, folder number; Poly Archives \u0026amp; Special Collections at Bern Dibner Library of Science and Technology."
+            }
+        },
+        "bioghist": {
+            "id": "ref1",
+            "head": "Biographical/Historical note",
+            "p": {
+                "value": "Source: “Dedication.” Antenna Engineering Handbook: Third Edition, Richard Johnson, ed., McGraw-Hill, New York, 1993."
+            }
+        },
+        "scopecontent": {
+            "id": "ref18",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The collection also contains biographical information about Jasik, his connection to Polytechnic's Microwave Research Institute, and memoranda detailing the donation of Jasik's library to the Polytechnic Institute of New York."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Antennas (electronics)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Electrical engineering"
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref2\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries I: Notes and Reports\u003c/unittitle\u003e\n                    \u003cunitdate normal=\"1949/1987\" type=\"inclusive\"\u003e1949-1987\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref3\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eJasik Library donation to Polytechnic Institute of New York\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid262039\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid262039\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate\u003e1982, 1987\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref4\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAntenna Engineering Handbook outline, notes, and correspondence\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid262040\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid262040\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate normal=\"1954/1961\" type=\"inclusive\"\u003e1954-1961\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref5\" level=\"item\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eHenry Jasik Papers notebook (contains articles, correspondence, and proposals)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid262041\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid262041\" type=\"item\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"1948/1968\" type=\"inclusive\"\u003e1948-1968\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref6\" level=\"item\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eHenry Jasik Fundamentals of Antennas notebook\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid262042\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid262042\" type=\"item\"\u003e2\u003c/container\u003e\n                        \u003cunitdate\u003ecirca 1965\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref7\" level=\"item\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eJasik Laboratories Progress Report notebook\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid262043\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid262043\" type=\"item\"\u003e3\u003c/container\u003e\n                        \u003cunitdate normal=\"1960/1960\"\u003e1960\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref8\" level=\"item\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eJasik Laboratories Technical Proposal notebook\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid262044\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid262044\" type=\"item\"\u003e4\u003c/container\u003e\n                        \u003cunitdate normal=\"1965/1965\"\u003e1965\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref9\" level=\"item\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAntenna, Antenna Systems, Engineering \u0026amp; Analysis notebook\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid262045\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid262045\" type=\"item\"\u003e5\u003c/container\u003e\n                        \u003cunitdate\u003ecirca 1967\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref10\" level=\"item\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eGeneral Theory of Communication, by Arthur E. Lammel (Microwave Research Institute)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid262046\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid262046\" type=\"item\"\u003e6\u003c/container\u003e\n                        \u003cunitdate normal=\"1949/1949\"\u003e1949\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref11\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries II: Albums and Binders\u003c/unittitle\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref12\" level=\"item\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eHenry Jasik Paper on X-Ray binder (articles and notes)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid262047\" type=\"Box\" label=\"Text\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid262047\" type=\"item\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"1964/1978\" type=\"bulk\"\u003eBulk, 1964-1978\u003c/unitdate\u003e\n                        \u003cunitdate normal=\"1934/1986\" type=\"inclusive\"\u003e1934-1986\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref13\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eHenry Jasik Paper on X-Ray binder (articles and notes)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid262048\" type=\"Box\" label=\"Text\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid262048\" type=\"item\"\u003e2\u003c/container\u003e\n                        \u003cunitdate normal=\"1971/1986\" type=\"inclusive\"\u003e1971-1986\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref14\" level=\"item\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eHenry Jasik Publicity album (clippings, photographs, product advertisements)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid262049\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid262049\" type=\"item\"\u003e3\u003c/container\u003e\n                        \u003cunitdate normal=\"1955/1964\" type=\"inclusive\"\u003e1955-1964\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref15\" level=\"item\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAntennas for Radio Astronomy Research album (photographs, articles)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid262050\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid262050\" type=\"item\"\u003e4\u003c/container\u003e\n                        \u003cunitdate normal=\"1958/1987\" type=\"inclusive\"\u003e1958-1987\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref16\" level=\"item\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMiscellaneous Antennas and Associated Components album (photographs)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid262051\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid262051\" type=\"item\"\u003e5\u003c/container\u003e\n                        \u003cunitdate\u003ecirca 1960s\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

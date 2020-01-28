@@ -1,0 +1,164 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1986_023_episcopal_churches"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Episcopal Churches of Brooklyn collection\n                    \u003cnum\u003e1986.023\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Patricia Glowinski"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "November 22, 2010."
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-21T14:19-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Episcopal Churches of Brooklyn collection"
+                },
+                "unitdate": {
+                    "normal": "1832/1985",
+                    "type": "inclusive",
+                    "value": "1832-1985"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.83 Linear feet"
+                        },
+                        {
+                            "value": "in two manuscript boxes."
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The Episcopal Church in America was organized following the end of the American Revolutionary War when it was forced to separate from the Church of England because, according to English canon law, no clergy could be consecrated without taking an Oath of Allegiance to the English Crown. Under the new church organization in America, the first Anglican services were held in Brooklyn in 1784. The Episcopal Churches of Brooklyn collection spans the years 1832 to 1985 and contains records or materials relating to 16 Episcopal churches that were once or are still located in Brooklyn, N.Y. Included in the collection are church programs, annual reports, membership lists, yearbooks, directories, and newsletters. The yearbooks are of particular interest as they often contain membership lists."
+                },
+                "unitid": {
+                    "value": "1986.023"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid516002",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "1986.023 2 of 2"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref2",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref4",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Episcopal Churches of Brooklyn collection, 1986.023, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "This collection was formally accessioned in 1986, donor unknown."
+            }
+        },
+        "bioghist": {
+            "id": "ref1",
+            "head": "Historical note",
+            "p": {
+                "value": "There are two official names for the church: The Episcopal Church and The Protestant Episcopal Church in the United States of America. Until the mid-19th century, Episcopal churches in America used Protestant Episcopal in their official names. After the mid-19th century many churches dropped the word Protestant."
+            }
+        },
+        "scopecontent": {
+            "id": "ref6",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Churches represented in the collection include: Christ Church (both the original Bedford Avenue location and the current Clinton Street location); Church of St. Mark (also known as St. Mark's); Church of the Atonement; Church of the Good Shepherd; Church of the Messiah; Church of the Nativity; Church of the Redeemer; Church of the Reformation; St. Bartholomew's Church; St. James Church; St. John's Episcopal Church; St. Luke's Episcopal Church (now known as the Church of St. Luke and St. Matthew); St. Mary's Episcopal Church; St. Michael's Episcopal Church; St. Paul's Episcopal Church; and St. Peter's Episcopal Church."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Church anniversaries |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Church membership |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Episcopal Church |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Episcopalians |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Religious institutions |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "St. Peter's Episcopal Church (Brooklyn, New York, N.Y.)."
+            }
+        },
+        "dsc": {}
+    }
+}

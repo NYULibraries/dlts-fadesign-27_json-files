@@ -1,0 +1,149 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "tam_421"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Edward Carpenter Letters and Postcards\n                    \u003cnum\u003eTAM.421\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Peter Meyer Filardo"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "11/212009"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T19:40-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Carpenter, Edward, 1844-1929."
+                    }
+                },
+                "unittitle": {
+                    "value": "Edward Carpenter Letters and Postcards"
+                },
+                "unitdate": {
+                    "normal": "1880/1923",
+                    "type": "inclusive",
+                    "value": "1880-1923"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.1 linear feet"
+                        },
+                        {
+                            "value": "(1 box)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Edward Carpenter was a British socialist writer and poet, known for his advocacy of natural living, and for his writings on homosexuality and his open espousal of this identity. The collection contains letters and postcards, and printed ephemera."
+                },
+                "unitid": {
+                    "value": "TAM.421"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid18849005",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref5",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open for research without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "ref21",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: \n                \u003clb/\u003e\n                \u003clb/\u003eIdentification of item, date; Collection name; Collection number; box number; folder number; \n                \u003clb/\u003eTamiment Library/Robert F. Wagner Labor Archives \n                \u003clb/\u003eElmer Holmes Bobst Library \n                \u003clb/\u003e70 Washington Square South \n                \u003clb/\u003eNew York, NY 10012, New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "ref8",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "\n                \u003clist\u003e\n                    \u003citem\u003eAdapted from Philip Taylor’s \"Biographical Note,\" at the Edward Carpenter Archive website. http://edwardcarpenter.net/index.htm\u003c/item\u003e\n                \u003c/list\u003e"
+            }
+        },
+        "scopecontent": {
+            "id": "ref9",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "Contains three letters to, and one letter from Bertram Lloyd (aka \"Wolfie\"); one letter and two postcards to Harold Munro of the Poetry Bookshop, London; three letters and nine postcards to Grant Richards of London, pertaining to Carpenter’s desire to have Richards publish his \n                \u003ctitle render=\"italic\"\u003eThe Story of Eros and Psyche\u003c/title\u003eand his \n                \u003ctitle render=\"italic\"\u003eIolaus: an Anthology of Friendship\u003c/title\u003e; nine letters to Miss Annie Riley, first of Sheffield, later of Jamaica Plain, Massachusetts; a clipping from the Evening Standard noting Carpenter’s 80th birthday, and a brochure from the Edward Carpenter International Memorial Trust. All the letters and postcards are signed."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Socialists |z Great Britain."
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\n            \u003cc01 id=\"ref13\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eLetters and Postcards\u003c/unittitle\u003e\n                \u003c/did\u003e\n                \u003cc02 id=\"ref14\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eLloyd, Bertram [aka E. Bertram, aka \"Wolfie\"]: Letters (to, from) \n                            \u003clb/\u003eContents: \n                            \u003clb/\u003e- 1. B.L. [ALS] to E.C., undated, in German, on both sides of a sheet measuring 2.75\" x 7.125\" \n                            \u003clb/\u003e- 2. E.C to E.B.L., postcard, 26 Jan 1920, [ALS] \n                            \u003clb/\u003e- 3. E.C.[?] to \"My Dear Wolfie\" 2 Jan 1921, [ALS] \n                            \u003clb/\u003e- 4. E.C. to \"Dear Wolfie,\" 1 Dec 1923 [copy by Lloyd]\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid41188\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid41188\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"1880/1923\" type=\"inclusive\"\u003eundated , 1920-1923\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref15\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMunro, Harold [The Poetry Bookshop, 35 Devonshire St., London]: Letter and Two Postcards to [ALS]\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid41187\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid41187\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate\u003eApr 29, 1914 , May 1, 1914 , Apr 25, 1916\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref16\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePrinted Ephemera [2 items] \n                            \u003clb/\u003eContents: \"Scholar Recluse 80 To-Day\" Evening Standard 29 Aug 1924; Edward Carpenter International Memorial Appeal [brochure, 1932]\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid41186\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid41186\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate normal=\"1924/1932\" type=\"inclusive\"\u003e1924 , 1932\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref17\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eRichards, Grant, 1872-1948 [9 Henrietta St., London], Three Letters and Nine Postcards to [all signed]. \n                            \u003clb/\u003eContents: eleven of these [2 ltrs, 9 postcards] pertain to EC’s desire to have GR publish his \n                            \u003ctitle render=\"italic\"\u003eThe Story of Eros and Psyche\u003c/title\u003e; the 12th item [ltr, May 10, 1901] pertains to EC’s desire to have GR publish his \n                            \u003ctitle render=\"italic\"\u003eIolaus: an Anthology of Friendship\u003c/title\u003e\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid41185\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid41185\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate\u003eJan 14, 1899-Jul 29, 1901\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref18\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eRiley, Annie, Miss: Nine Letters to [ALS] \n                            \u003clb/\u003eContents: three are addressed to AR in Sheffield, England, six to AR in Massachusetts (Townsend Centre, Jamaica Plain); the last letter is addressed to Nurse A.P. Riley\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid41184\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid41184\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate\u003e[Aug 14, 1880?]-Jan 14, 1899\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n            \u003c/c01\u003e\n        "
+        }
+    }
+}

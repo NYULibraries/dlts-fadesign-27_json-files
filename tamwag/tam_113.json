@@ -1,0 +1,143 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_113"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the John B. Andrews Papers \u003cnum\u003eTAM.113\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-09T18:19:07\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "local",
+                        "value": "Stein, Leon"
+                    }
+                },
+                "unittitle": {
+                    "value": "John B. Andrews Papers"
+                },
+                "unitdate": {
+                    "normal": "1906/1908",
+                    "type": "inclusive",
+                    "value": "1906-1908"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "2 boxes"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "TAM.113"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_bc1c83c28571b764447f780fa5e446fe",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_15f66b8a0ad861a5ec66e33b577a661e",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Leon Stein at an unknown date. The accession number associated with this gift is 1984.012."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_36d979d6a45be124a3284c985c910639",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "John B. Andrews (1880-1943) was a labor historian, secretary of the American Association for Labor Legislation (1905-1942), and author. He studied at the University of Wisconson (B.A. 1904). He founded and edited the \u003cemph render=\"italic\"\u003eAmerican Labor Legislation Review\u003c/emph\u003e, authored \u003cemph render=\"italic\"\u003eDocumentory History of Industrial Democracy\u003c/emph\u003e, Vol. IX and X (1910-1911), \u003cemph render=\"italic\"\u003ePrinciples of Legislation\u003c/emph\u003e (1916), \u003cemph render=\"italic\"\u003eHistory of Labor in the United States\u003c/emph\u003e (1918), and numerous government reports."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_c3a7e92160475d0a2efd2e1ea1439198",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Folder 1. P.h.D. Exam (1908), Andrews and Sumner. \nFolder 2. Financial Statement for A.B.I.R., 1907 to 1908. \nFolder 3. Newspaper articles from Woman's Work Series. \nFolder 4. Notes and outline (\"Labor Politics\"). \nFolder 5. Newspaper articles on Mail Order Business. \nFolder 6. Newspaper articles on Employers' Associations. \nFolder 7. Notes for Bibliography. \nFolder 8. Notes on Wages. \nFolder 9. Notes on \"Mrs. Rodgers,\" 1886, union organizer. \nFolder 10. Notes on Letterhead, written in London 1910."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Labor laws and legislation -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor unions -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor |z United States |v Newspapers."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Knights of Labor"
+            }
+        },
+        "dsc": {}
+    }
+}

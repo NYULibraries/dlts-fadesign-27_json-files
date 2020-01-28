@@ -1,0 +1,184 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1985_116_medical_society"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Medical Society of the County of Kings collection\n                    \u003cnum\u003e1985.116\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "November 17, 2010"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-21T11:47-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Medical Society of the County of Kings collection"
+                },
+                "unitdate": {
+                    "normal": "1852/1956",
+                    "type": "inclusive",
+                    "value": "1852-1956"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.42 Linear feet"
+                        },
+                        {
+                            "value": "in one manuscript box."
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The Medical Society of the County of Kings was established in 1822 as a regulating body for the practice of medicine in Kings County. Throughout the 19th and 20th centuries, the Society was instrumental in facilitating the exchange of information among medical professionals. The Medical Society of the County of Kings collection spans the period 1852 to 1956 and contains publications and ephemera pertaining to the Society, its library, and its affiliated medical centers. Items include annual reports, statutes and manuals, transactions and proceedings, newsletters, brochures, pamphlets, and programs."
+                },
+                "unitid": {
+                    "value": "1985.116"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid513001",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "1985.116 1 of 1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref3",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref6",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Medical Society of the County of Kings collection, 1985.116, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref5",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Source and date of acquisition unknown. Formally accessioned in 1985."
+            }
+        },
+        "bioghist": {
+            "id": "ref1",
+            "head": "Historical Note",
+            "p": {
+                "value": "In 1870, the Society began establishing specialized sections, with the Brooklyn Pathological Society being the first. Several more were to follow in the ensuing decades. In the 1920s, the Society took on an educational role as well, providing graduate extension courses at the Long Island College of Medicine and holding highly attended lecture series at its building on Bedford Avenue. In 1933, the Society's name was legally changed to the Medical Society of the County of Kings and Academy of Medicine of Brooklyn to reflect its dual professional and educational roles, and it remained a vital resource for Brooklyn physicians throughout the rest of the 20th century. As of 2010, the Society continues to function as a regulating organization for Brooklyn medical professionals, examining and defending the credentials of its member physicans and encouraging the dissemination of accurate medical knowledge. The Society is now based in the Brooklyn neighborhood of Bay Ridge."
+            }
+        },
+        "scopecontent": {
+            "id": "ref8",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Newsletters are comprised of the Society's monthly bulletin for the years 1935 and 1936. Additional ephemera constitutes a small number of items, including a 1956 pamphlet containing a brief history of the Society, brochures and programs containing updates on the general activities of the Society and its library for the period circa 1900 to 1924, and a souvenir program for the annual music and dance event at the Williamsburgh Hospital for the year 1909."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Diseases |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Hospitals |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Medical care |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Medical ethics |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Medical laws and legislation |z New York (State)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Medical libraries |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Medicine |x Practice |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Medicine |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Medicine |z New York (State) |z Kings County |x Societies, etc."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Physicians |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Williamsburgh Hospital (Brooklyn, New York, N.Y.)."
+            }
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,200 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1973_254_charles_e_scriven"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Charles E. Scriven collection on Brooklyn history\n                    \u003cnum\u003e1973.254\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "March 24, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-05-01T15:21-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Scriven, Charles E., 1848?-1936"
+                    }
+                },
+                "unittitle": {
+                    "value": "Charles E. Scriven collection on Brooklyn history"
+                },
+                "unitdate": {
+                    "normal": "1865/1925",
+                    "type": "inclusive",
+                    "value": "circa 1875 to 1915"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.84 Linear feet"
+                        },
+                        {
+                            "value": "in two manuscript boxes."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "1973.254"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid693003",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "1973.254 1 of 2"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref4",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref5",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Charles E. Scriven collection on Brooklyn history, 1973.254, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref2",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Frederick Heyer, 1937."
+            }
+        },
+        "bioghist": {
+            "id": "ref3",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Charles E. Scriven (1848?-1936) was a printer whose business, Charles Scriven and Co., was located at 74 Beekman Street in Manhattan. Scriven lived at 149 Snyder Avenue in the Brooklyn neighborhood of Flatbush, and was involved in Flatbush civic life, serving as Recording Secretary of the Flatbush Taxpayers' Association and as Past High Priest of the Flatbush Chapter of the Royal Arch Masons. Scriven was also a local historian who extensively documented the history of Brooklyn, with particular emphasis on Flatbush."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Charles E. Scriven collection on Brooklyn history spans the period circa 1875 to 1915 and is comprised of materials either written or compiled by Scriven in the course of documenting the history of Brooklyn from the colonial period up to the early 20th century, with particular emphasis on the neighborhood of Flatbush. Materials include typed original essays and transcriptions of articles and essays from various sources; news clippings; correspondence; and ephemera relating to a wide range of subjects such as banking, churches, civic organizations, government, homesteads, landmarks, libraries, public schools, public transit, public utilities, and realty development. Specific subjects strongly represented include the consolidation of New York City in 1898, Erasmus Hall High School, the Flatbush Carnegie Library (later the Flatbush branch of the Brooklyn Public Library), the Flatbush Taxpayers' Association, Melrose Hall homestead, the Prison Ship Martyrs' Monument in Fort Greene Park, and the public water supply, among many others. There are also numerous references to African Americans in Brooklyn, including a transcription of an article from \n                \u003cemph render=\"italic\"\u003eThe Rural\u003c/emph\u003e concerning an investigation into the murder of an African American in 1872. A small portion of the collection expands its focus beyond Brooklyn and relates to the history of the greater New York City area, such as papers on the origins of New York City street names and news clippings containing items of citywide historical interest."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "African Americans |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Annexation (Municipal government) |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Banks and banking |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Church buildings |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Citizens' associations |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Dwellings |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Libraries |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Local transit |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Monuments |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "local",
+                    "value": "Prison Ship Martyrs' Monument (Brooklyn, New York, N.Y.)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Public schools |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Public utilities |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Real property |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Water-supply |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Melrose Hall (Brooklyn, New York, N.Y.)."
+            }
+        },
+        "dsc": {}
+    }
+}

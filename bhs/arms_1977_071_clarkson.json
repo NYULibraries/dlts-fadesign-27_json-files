@@ -1,0 +1,137 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1977_071_clarkson"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Clarkson family papers\n                    \u003cnum\u003e1977.071\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Matthew Gorham"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "May 23, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-09T13:51-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Muhlenberg, William Augustus, 1796-1877"
+                    }
+                },
+                "unittitle": {
+                    "value": "Clarkson family papers"
+                },
+                "unitdate": {
+                    "normal": "1793/1869",
+                    "type": "inclusive",
+                    "value": "1793-1869"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.1 linear feet"
+                        },
+                        {
+                            "value": "in one folder"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "1977.071"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid796004",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0032"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref5",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Clarkson family papers, 1977.071, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref4",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Henry Bergen, 1919."
+            }
+        },
+        "bioghist": {
+            "id": "ref3",
+            "head": "Biographical note",
+            "p": {
+                "value": "Matthew Clarkson (1758-1825) was an American military officer during the American Revolution and lived in New York City. Matthew Clarkson, Jr. (1796-1883) was a resident of Flatbush. Charles P. McIlvaine (1799-1873) was rector of St. Ann's Church in Brooklyn from 1827 to 1833. William A. Muhlenberg (1796-1877) was an Episcopal minister in Flushing and New York City. Cyrus Bull was secretary of St. Ann's Church."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The Clarkson family papers span the period 1793 to 1869, while the bulk of materials derive from the period 1812 to 1815. The papers consist of correspondence, certificates, and news articles relating to the Clarkson family. 18 letters are from Matthew Clarkson to his son Matthew Clarkson, Jr., 1812-1815. 14 of the letters were received by Matthew Clarkson, Jr. from Bishop Charles P. Mcilvaine, Rev. William A Muhlenberg, and Cyrus Bull, 1833-1870. There are also six newspaper clippings on the death of Matthew Clarkson, Sr.; a petition of Matthew Clarkson, Sr. to the New York State Legislature, 1784; resolutions of the State University of New York regarding Matthew Clarkson, Sr., 1794; and certificates, legal documents, and other ephemera."
+            }
+        },
+        "controlaccess": {},
+        "dsc": {}
+    }
+}

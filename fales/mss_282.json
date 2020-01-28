@@ -1,0 +1,142 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-F",
+            "value": "mss_282"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Dawn Eden Papers \u003cnum\u003eMSS.282\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Jennifer E. Neal"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Fales Library and Special Collections"
+                },
+                "address": {
+                    "addressline": [
+                        "Fales Library and Special Collections",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "3rd Floor",
+                        "New York, NY 10012",
+                        "Phone: (212) 998-2596",
+                        "fales.library@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-08-27T18:21:52\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Fales Library and Special Collections"
+                    }
+                },
+                "unittitle": {
+                    "value": "Dawn Eden Papers"
+                },
+                "unitdate": {
+                    "normal": "1993/1999",
+                    "type": "bulk",
+                    "value": "1993-1999"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 record carton and 1 half legal manuscript box"
+                        },
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "22 videocassettes (vhs)"
+                        }
+                    ],
+                    "altrender": "part"
+                },
+                "abstract": {
+                    "value": "Dawn Eden Goldstein (b. 1968), an American author and journalist, began writing about rock music under the abbreviated name, Dawn Eden, in 1985. She graduated from New York University with a degree in Communications in 1989. During her tenure as a rock journalist, Goldstein interviewed numerous musicians including Harry Nilsson, Brian Wilson, Del Shannon, and Lesley Gore. She also held editorial positions for the New York Post and the Daily News. This collection documents Goldstein's early career as a rock journalist and includes several interviews from \"Videowave,\" a Manhattan cable music television show produced by Alan Abramowitz that pre-dated MTV. Materials include 22 video recordings of \"Videowave\" interviews featuring Dawn Eden, ephemera, flyers, photographs, press releases, and promotional materials."
+                },
+                "unitid": {
+                    "value": "MSS.282"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_2c17079264da10dd9ceafdb310470bd1",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_7a407382f12b229d8067ed5a516c85af",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Dawn Eden Papers; MSS 282; box number; folder number; Fales Library and Special Collections, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_115b8a6601445300a66e4f0a2c0c80ab",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Dawn Eden Goldstein in 2010. The accession number associated with this gift is 2010.282."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_9b0bcbb929d13bb88d7a39d89218607d",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Source: http://dawneden.blogspot.com/p/blog-page.html"
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_2186fc3fd2e813149410bf0294a9114d",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection documents Goldstein's early career as a rock journalist from 1981-1999 and includes several interviews on 22 VHS tapes from \"Videowave,\" a Manhattan cable music television show produced by Alan Abramowitz that pre-dated MTV. Material includes ephemera that document shows at CBGB, musicians and bands including the Fuzztones and Del Shannon, benefit concerts and memorial services, set lists, and various event post cards. There are also press kits for Valentine Smith; press releases and articles related to Ben Vaughn Combo and Peter Stamphel; They Might Be Giants Posters; and flyers, photographs, and promotional materials related to various bands including NY Pop Circus, Mod Lang, The Love Delegation, Richard Lloyd, Bill Lloyd, Insanity, Hoodoo Gurus, The Dream Syndicate, Del-Lords, Deep Six, and Das Damen."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Music journalists"
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_a3390848a6137919e0d00b6fe30a9f32\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eVideowave interviews [VHS]\u003c/unittitle\u003e\u003cunitdate normal=\"1993/1999\" type=\"inclusive\"\u003e1993-1999\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_348a5e265e3b0766a49df7fadbcba81e\" label=\"Videos [31142063610573]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_348a5e265e3b0766a49df7fadbcba81e\" type=\"Folder\"\u003e1-22\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_f86b21759d2e7c1b1a78a0af50212831\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eEphemera\u003c/unittitle\u003e\u003cunitdate normal=\"1985/1989\" type=\"inclusive\"\u003ecirca 1985-1989\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_d29530b9c67e0b9453e90ae7c53b4377\" label=\"Mixed Materials [31142062732576]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_d29530b9c67e0b9453e90ae7c53b4377\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_7b864fbcfde62a369b4d9e3f7cac546c\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePromotional materials, press\u003c/unittitle\u003e\u003cunitdate normal=\"1981/1988\" type=\"inclusive\"\u003ecirca 1981-1988\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_c967446d83f85467b3567cb5fe1998c4\" label=\"Mixed Materials [31142062732576]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_c967446d83f85467b3567cb5fe1998c4\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_aaef6290b2abfc4c95b1ba0f651d62c4\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePress, flyers, and photographs\u003c/unittitle\u003e\u003cunitdate normal=\"1984/1994\" type=\"inclusive\"\u003ecirca 1984-1994\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_96624b999205959c7479283d24fac3f3\" label=\"Mixed Materials [31142062732576]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_96624b999205959c7479283d24fac3f3\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_d15db5af38e6034f91431eb941ded7f1\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eThey Might Be Giants posters\u003c/unittitle\u003e\u003cunitdate normal=\"1985/1985\"\u003e1985\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_0dc260a4a11bc208e14cf7ff9a69011e\" label=\"Mixed Materials [31142062732576]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_0dc260a4a11bc208e14cf7ff9a69011e\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_4729d7d684fcbf494cab6b4ee8663d81\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNY Pop Circus flyers and photograph\u003c/unittitle\u003e\u003cunitdate normal=\"1997/1997\"\u003e1997, undated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_3733db1193d092be22e13dce9a1cc159\" label=\"Mixed Materials [31142062732576]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_3733db1193d092be22e13dce9a1cc159\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

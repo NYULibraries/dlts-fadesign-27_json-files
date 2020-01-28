@@ -1,0 +1,151 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "v1991_084_shellens_gallery_construction"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Shellens Gallery construction photographs\n                    \u003cnum\u003eV1991.084\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Patricia Glowinski"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "September 30, 2011."
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-28T16:21-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Vitols, Arthur"
+                    }
+                },
+                "unittitle": {
+                    "value": "Shellens Gallery construction photographs"
+                },
+                "unitdate": {
+                    "normal": "1988/1988",
+                    "value": "1988"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.04 Linear feet"
+                        },
+                        {
+                            "value": "11 items housed in one folder."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "V1991.084"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1052008",
+                    "label": "Graphic materials",
+                    "type": "Box",
+                    "value": "Prints by Accession 75"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref5",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref3",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Shellens Gallery construction photographs, V1991.084, Box number, Object ID number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref7",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Source and date of acquisition for this collection are unknown. The collection was formally accessioned in 1991."
+            }
+        },
+        "bioghist": {
+            "id": "ref4",
+            "head": "Historical note",
+            "p": {
+                "value": "The Shellens Gallery is located on the first floor of Brooklyn Historical Society's landmarked building in the Brooklyn Heights neighborhood. In 1988, the architectural firm Jan Hird Pokorny Associates lead and completed the restoration and construction of the 4,000 square foot auditorium and gallery space."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Shellens Gallery construction photographs document the restoration and construction of the Shellens Gallery that is located within the Brooklyn Historical Society building. The collection includes 10 black-and-white 8 x 10 inch prints, one contact sheet, one 5 x 7 inch print, and negatives. Taken in March of 1988 by Arthur Vitols, the photographs show interior views of workers, scaffolding, and portions of the gallery under construction. There is also one photograph of exhibit builder and furniture maker Ethan Intrater at his shop standing next to a model of the Brooklyn Bridge."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Architecture |x Conservation and restoration"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Brooklyn Historical Society (Brooklyn, New York, N.Y.)."
+            }
+        },
+        "otherfindaid": {
+            "id": "ref8",
+            "head": "Other Finding Aids"
+        },
+        "dsc": {}
+    }
+}

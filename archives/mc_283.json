@@ -1,0 +1,157 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "mc_283"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the C. William Britcher Thesis \u003cnum\u003eMC.283\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Rachel Searcy"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-01-09T15:08:31\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Britcher, C. William"
+                    }
+                },
+                "unittitle": {
+                    "value": "C. William Britcher Thesis"
+                },
+                "unitdate": {
+                    "normal": "1952/1952",
+                    "type": "inclusive",
+                    "value": "1952"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": ".25 linear feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 half manuscript box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "C. William Britcher was a student at New York University's School of Public Administration in the early 1950s. This collection consists of a single item, Britcher's 1952 thesis for his Master of Public Administration titled \"Quality Control of Small Lots.\""
+                },
+                "unitid": {
+                    "value": "MC.283"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_86c741f3a90f8161c1fa30a5af640052",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_3b1c02b9e6345ab965cfd16a1f26b7af",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_87676105d90b5bcc1fa29a3a475f9f71",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; C. William Britcher Thesis; MC 283; box number; folder number; New York University Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_d639f8727174906f9548a4d383c6b7cd",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Mary Britcher, C. William Britcher's widow, in September 2017; the accession number associated with this gift is 2017.053."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_a658a58b1103c2ad57752df9958fd342",
+            "head": "Biographical Note",
+            "p": {
+                "value": "C. William Britcher was a student at New York University's School of Public Administration in the early 1950s."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_2902227ca5763449d41fda4dc41a2099",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection consists of a single item, C. William Britcher's 1952 thesis for his Master of Public Administration at New York University titled \"Quality Control of Small Lots.\""
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Quality control"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Industrial statistics"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Sampling (Statistics) -- Case studies"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_035"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Preliminary Inventory to the Workingmen's Co-operative Publishing Association Records \u003cnum\u003eTAM.035\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-04-24T14:11:24\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Workingmen's Co-operative Publishing Association Records"
+                },
+                "unitdate": {
+                    "normal": "1908/1915",
+                    "type": "bulk",
+                    "value": "1908-1915"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(2 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Workingmen's Cooperative Publishing Association was a socialist organization affiliated with the Socialist Party of New York, and the governing board of \u003cemph render=\"italic\"\u003eNew York Call\u003c/emph\u003e, a socialist daily newspaper, published between 1908 and 1923, which was eventually prohibited from second-class mailing status by the Postmaster General of the United States for violating provisions of the Espionage Law in 1917. The collection consists of correspondence, by-laws, organizational papers and membership lists, and some printed material created by the Association and other Socialist organizations. The material largely relates to pubishing business matters, fund raising schemes, and staff and editorial difficulties. Most of the correspondence is that of financial secretary Julius Gerber. Other correspondents include W. J. Ghent and Algernon Lee.\n"
+                },
+                "unitid": {
+                    "value": "TAM.035"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_3a26f91673d6668e809caa309cbe079b",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1-2"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_f8b87c9b3b3a93bb45aeeac69bd4f423",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_151ea35ef25f2f0c0dbf9697b7f309ce",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Workingmen's Co-operative Publishing Association Records; TAM 035; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_3f25dc7a747299294d802f754b46d1ba",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials found in repository; provenance is unknown. The accession number associated with this collection is 1950.097."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_5a2a3c3f6caa1d164a2b553b8e30ed55",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "The Workingmen's Cooperative Publishing Association was a socialist organization affiliated with the Socialist Party of New York, and the governing board of \u003cemph render=\"italic\"\u003eNew York Call\u003c/emph\u003e, a socialist daily newspaper, published between 1908 and 1923 (also known as the \u003cemph render=\"italic\"\u003eNew York Evening Call\u003c/emph\u003e). The \u003cemph render=\"italic\"\u003eCall\u003c/emph\u003e was eventually prohibited from second-class mailing status by the Postmaster General of the United States for violating provisions of the Espionage Law in 1917."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_925afd97e3ec6ba5a15ee2436c205836",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection primarily consists of correspondence, by-laws, organizational papers and membership lists created by the Association. There is also some printed material created by the Association and other Socialist organizations. The documents span from 1908 to 1920. The material largely relates to business matters concerning the publication of the \u003cemph render=\"italic\"\u003eNew York Call\u003c/emph\u003e, fund raising schemes, and staff and editorial difficulties. Most of the correspondence is that of financial secretary Julius Gerber. Other correspondents include S. John Block, W. J. Ghent, Ben Hanford and Algernon Lee."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Publishers and publishing -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialism -- United States -- Periodicals."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialism -- United States."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Workingmen's Co-operative Publishng Association"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref3\" level=\"otherlevel\" otherlevel=\"Box\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence (Part 1)\u003c/unittitle\u003e\u003cunitdate normal=\"1908/1911\" type=\"inclusive\"\u003e1908-1911\u003c/unitdate\u003e\u003ccontainer id=\"aspace_89e9bd871d671691b64fff9b19a503f5\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref4\" level=\"otherlevel\" otherlevel=\"Box\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence (Part 2), Printed Matter, Miscellaneous, Constitution and Membership Lists\u003c/unittitle\u003e\u003cunitdate normal=\"1906/1920\" type=\"inclusive\"\u003e1906-1920\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5f6fb06f3763d53a163ad2a4759f56f4\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

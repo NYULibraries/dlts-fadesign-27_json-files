@@ -1,0 +1,144 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "wag_126"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Asian Labor Resource Center Records  \u003cnum\u003eWAG.126\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-06-13T19:49:18\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Asian Labor Resource Center Records"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "2 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(2 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The collection contains documents related to the New York City based organization Asia Labor Resource Center. It contain a number of research materials on Asian-American labor relations in New York City, Boston, and California. These materials consist of subject files; which include clippings, printed material and correspondence; relating to immigration, labor, women's issues, Asian student organizations, and health services. Other files in this collection contain minutes and administrative materials from the Asian Labor Resource Center, including materials relating to the First and Second Asian Labor Conferences at Cornell University (1988-1989). Many of the materials in this collection were created by Asian Labor Resource Center organizer and labor activist May Chen. "
+                },
+                "unitid": {
+                    "value": "WAG.126"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_ca877b1d178726e1c03ec677f185752b",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_44ebfa4257a71e42a5c13cd5d1ca5e42",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Asian Labor Resource Center Records; WAG 126; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_187210ebfb518e82f1e098d90154d3ce",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Most likely donated by the Asian Labor Resource Center in the late 1980's, however, the provenance of this collection is unconfirmed. The accession number associated with this gift is 1950.156."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_11d6e09154bce8a1d0bb940881d07bbd",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection contains documents related to the New York City based organization Asia Labor Resource Center. It contain a number of research materials on Asian-American labor relations in New York City, Boston, and California. These materials consist of subject files; which include clippings, printed material and correspondence; relating to immigration, labor, women's issues, Asian student organizations, and health services. Other files in this collection contain minutes and administrative materials from the Asian Labor Resource Center, including materials relating to the First and Second Asian Labor Conferences at Cornell University (1988-1989). Many of the materials in this collection were created by Asian Labor Resource Center organizer and labor activist May Chen."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "local",
+                    "value": "Asian American labor union members."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Asian American women |x Social conditions."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Asian Americans |x Employment."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor unions |x Public relations |z New York (State) |z New York."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Asian Labor Resource Center"
+            }
+        },
+        "dsc": {}
+    }
+}

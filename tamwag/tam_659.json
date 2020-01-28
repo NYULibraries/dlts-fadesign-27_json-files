@@ -1,0 +1,148 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_659"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to Social Revolution and Socialist Review Periodicals \u003cnum\u003eTAM 659\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Emma Sarconi"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-07-09T14:19:12\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Social Revolution and Socialist Review Periodicals"
+                },
+                "unitdate": {
+                    "normal": "1970/1981",
+                    "type": "inclusive",
+                    "value": "1970-1981"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.75 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 2 manuscript boxes"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "\u003ctitle render=\"italic\"\u003eSocialist Revolution\u003c/title\u003e (changed to \u003ctitle render=\"italic\"\u003eSocialist Review\u003c/title\u003e) was a left wing periodical established in San Francisco in 1970 as a voice for socialist discourse. The magazine addressed issues surrounding feminism, gender and sexuality, international affairs, social justice, political and economic systems, cultural theory, and postmodern critical theory. The collection is comprised of thirty-two issues of \u003ctitle render=\"italic\"\u003eSocialist Revolution\u003c/title\u003e from March 1970 through February 1980, not inclusive. Prevelant themes covered by the collection center on issues of socialist discourse, including feminism, Chicano politics, the anti-nucelear movement, Marxism, and Eurocommunism.\n"
+                },
+                "unitid": {
+                    "value": "TAM 659"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_bd000db37b9ee7e50d58e8b7183a92e2",
+                    "label": "Mixed Materials [31142051724824]",
+                    "type": "Box",
+                    "value": "2"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_809c21a715305eed52d5530b32e26ec5",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_4352bbbdc655e1c4ec8952c9249b18b8",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Social Revolution and Socialist Review Periodicals; TAM 659; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_8fefe10451c5fb5c3246b766b74ee14c",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Jeff Eagan in 2014. The accession number associated with this gift is 2014.178."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_54bea2f62681621ae881fa99bc35489b",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "source: http://library.temple.edu/scrc/socialist-review-records"
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_8b933c23fff5e4f2691f8f3ccf358131",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The collection is comprised of thirty-two issues of \u003ctitle render=\"italic\"\u003eSocialist Revolution\u003c/title\u003e and \u003ctitle render=\"italic\"\u003eSocialist Review\u003c/title\u003e from March 1970 through February 1980, not inclusive. Prevelant themes covered by the collection center on issues of socialist discourse, including feminism, Chicano politics, the anti-nucelear movement, Marxism, and Eurocommunism."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Civil rights and socialism |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialism -- United States -- Newspapers."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialism -- United States -- Periodicals."
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

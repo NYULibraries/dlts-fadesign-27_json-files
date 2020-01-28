@@ -1,0 +1,157 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_412"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Carole Turbin Collection on Women's Liberation \u003cnum\u003eTAM 412\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Peter Filardo"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-29T20:24:28\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Carole Turbin Collection on Women's Liberation"
+                },
+                "unitdate": {
+                    "normal": "1968/1975",
+                    "type": "inclusive",
+                    "value": "1968-1975, undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "TAM 412"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_747892b4d3102e9c073b17d02c7ecb1c",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_19b00cf4fea56ff428d53a39ca380ceb",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_862ec6bc06e24e2bcdf25711bbbdb5dc",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Carole Turbin Collection on Women's Liberation; TAM 412; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_ab26703073d61f977a27b03f64cf76fb",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Carole Turbin, date unknown. The accession number associated with this gift is 1950.274."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_cf36d7e7f6ce523d9b39100207e7f126",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Carole Turbin was a feminist activist in New York City in the 1960s and 1970s. She is also the author of \u003cemph render=\"italic\"\u003eWoman's Work and Woman's Rights\u003c/emph\u003e (1978)."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_18a78e027bdc3fe459e932f3e010b74b",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The collection contains feminist and socialist-feminist materials produced by various organizations from the late 1960s through the mid-1970s, including essays, meeting notes, reports, membership lists, and printed ephemera. Several periodicals and pamphlets have been separated for cataloging. There are nine folders: Congress to Unite Women; Essays; The Feminist Press; New York Radical Feminists (includes membership lists); Redstockings: Socialist-Feminist Groups; The Women's Center (New York City); Women's National Abortion Campaign."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Feminism -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Feminists |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Feminists -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialist feminism."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Feminism -- New York (State) -- New York."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "New York Radical Feminists"
+            }
+        },
+        "dsc": {}
+    }
+}

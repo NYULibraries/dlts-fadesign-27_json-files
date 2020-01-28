@@ -1,0 +1,124 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "poly_rg_042"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Polytechnic President's Office Records, 1990s \u003cnum\u003eRG.042\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Zoe Blecher-Cohen"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Poly Archives at Bern Dibner Library of Science and Technology"
+                },
+                "address": {
+                    "addressline": [
+                        "Poly Archives",
+                        "Bern Dibner Library of Science and Technology",
+                        "5 MetroTech Center",
+                        "Brooklyn 11201",
+                        "646-997-3943",
+                        "dibner.library@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-11-20T16:26:55\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Poly Archives at Bern Dibner Library of Science and Technology"
+                    }
+                },
+                "unittitle": {
+                    "value": "Polytechnic President's Office Records, 1990s"
+                },
+                "unitdate": {
+                    "normal": "1995/1997",
+                    "type": "bulk",
+                    "value": "1995-1997"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "RG.042"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_1c82adb0c77fa6a37e073209a62616f6",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_8106f67b8e7059571457153cde285956",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open for research without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_804ae53382917a0f206077398af1287f",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; RG-042: Polytechnic President's Office Records, 1990s; box number; folder number; Poly Archives \u0026amp; Special Collections at Bern Dibner Library of Science and Technology, New York University Libraries."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_2045300f71f0f64448989a645c2dd8aa",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials were transferred from the President's Office in the Jacobs Administrative Building on 6/29/2017."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_fc6b2ca262d29122dd75a23d1010530e",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Materials are mostly media and design related including layouts for brochures and documents from the 1996-1997 Poly logo contest."
+            }
+        },
+        "controlaccess": {},
+        "dsc": {
+            "value": "\u003cc id=\"aspace_7542f3dea0c97d411e56fab1016d257c\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBranding\u003c/unittitle\u003e\u003cunitdate normal=\"2004/2004\"\u003e2004, undated\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_fbb201d1013885df72be247194037e92\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_fbb201d1013885df72be247194037e92\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_362a0cc3be7a2f96fee873bd0b9c2c31\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMiscellaneous Projects\u003c/unittitle\u003e\u003cunitdate normal=\"1995/1997\" type=\"inclusive\"\u003e1995-1997, undated\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_a58a1565d25535ca953ad1abac0101ee\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_a58a1565d25535ca953ad1abac0101ee\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_da4b461c840e43ca4c2249060c0858fe\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eWorld Wide Web/Internet\u003c/unittitle\u003e\u003cunitdate normal=\"1995/1997\" type=\"inclusive\"\u003e1995-1997, undated\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_e0002fa93b0201ba35718d9e10b2088a\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e0002fa93b0201ba35718d9e10b2088a\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_5bbce6dcb809667847fcd1eaacb877dd\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e[Logo contest submissions]\u003c/unittitle\u003e\u003cunitdate normal=\"1996/1996\"\u003e1996\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_a91d47e03c2bda95ea6c51f9f95ffabb\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_a91d47e03c2bda95ea6c51f9f95ffabb\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_75918876424b83fe10cb209b2887416b\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLogo\u003c/unittitle\u003e\u003cunitdate normal=\"1996/1997\" type=\"inclusive\"\u003e1996-1997\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_68c2c27a6c64dc566ca49a33aaf61a51\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_68c2c27a6c64dc566ca49a33aaf61a51\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_7ea8d97e33c1ee0254f78b5114bfebbf\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAlum[n]us of the Month\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_e88cb76658dc7ccb2e2968b95d3b6d18\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e88cb76658dc7ccb2e2968b95d3b6d18\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_55b290b9cf166ec2a50cf6e2e1385799\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e[Miscellaneous]\u003c/unittitle\u003e\u003cunitdate normal=\"1988/1988\"\u003e1988, undated\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_194617e1f9606f80b37ff56b5cb67991\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_194617e1f9606f80b37ff56b5cb67991\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_4f132f25144fc542d771d9fd14dc4619\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLeadership Seminar Series\u003c/unittitle\u003e\u003cunitdate normal=\"1994/1997\" type=\"inclusive\"\u003e1994-1997\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_484fb67948828bf62ee197906bc35195\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_484fb67948828bf62ee197906bc35195\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_d24c7976353dbf0da833164d6580cdd1\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eArt\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_030bd7ad3c863f93f7c8739ceaf945ca\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_030bd7ad3c863f93f7c8739ceaf945ca\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_40d63ad81067b09073dbaaa8792054bc\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePremises \u0026amp; Promises Booklet\u003c/unittitle\u003e\u003cunitdate normal=\"1992/1996\" type=\"inclusive\"\u003e1992-1996\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_abb7b95138c0540ac7480b9aa5b503b5\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_abb7b95138c0540ac7480b9aa5b503b5\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_7dfb108c20d5c422a8941567a6acb42b\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSmall Business brochure\u003c/unittitle\u003e\u003cunitdate normal=\"1994/1994\"\u003e1994, undated\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_3d1e36e94a0f95e69fcfe0bd311f3650\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_3d1e36e94a0f95e69fcfe0bd311f3650\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_72e20e34c3f7c52eb03dd1abf71d206a\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e[DeGaeta Loan Brochure]\u003c/unittitle\u003e\u003cunitdate normal=\"1996/1997\" type=\"inclusive\"\u003e1996-1997\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_949ba964dea1a699d73ba453a8542d7e\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_949ba964dea1a699d73ba453a8542d7e\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_4651a6525b2281e4ee4cc8aa041694bb\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePolytechnic University\u003c/unittitle\u003e\u003cunitdate normal=\"1995/1997\" type=\"inclusive\"\u003e1995-1997, undated\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_63be70e6b70c86bcb90b0bbbc857ccc5\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_63be70e6b70c86bcb90b0bbbc857ccc5\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_b25b533dbb4717ca5033dc25ff5ecec6\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eUndergraduate Degree Programs - Electrical Eng. brochures\u003c/unittitle\u003e\u003cunitdate normal=\"1996/1996\"\u003e1996, undated\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_209633c8fe7a1f8ab25bb1d415290607\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_209633c8fe7a1f8ab25bb1d415290607\" type=\"Folder\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_3d39107042b42052071f9f3694e7036a\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eComputer \u0026amp; Info Science Undergrad \u0026amp; Grad brochures\u003c/unittitle\u003e\u003cunitdate normal=\"1996/1996\"\u003e1996, undated\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_e16e62a70bbae5c69b4be377c632dbab\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e16e62a70bbae5c69b4be377c632dbab\" type=\"Folder\"\u003e15\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_a25604e84ddee6ad5e0f1726946f2754\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eHonors Program brochures '96 - Electrical Eng. Department\u003c/unittitle\u003e\u003cunitdate normal=\"1996/1996\"\u003e1996, undated\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_a6251e77cd39268e8fc7a58b1272b975\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_a6251e77cd39268e8fc7a58b1272b975\" type=\"Folder\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_39cacbb32b11d4ae81c0f5a3b28c77a1\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePrelaw Program/Tech \u0026amp; the law\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_21230b7dba19c9421b17d3dae348c943\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_21230b7dba19c9421b17d3dae348c943\" type=\"Folder\"\u003e17\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_f83ba8c19a6f63051ddeb00c67b87cad\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCivil \u0026amp; Environmental Eng. Undergrad brochures\u003c/unittitle\u003e\u003cunitdate normal=\"1995/1995\"\u003e1995, undated\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_7a2382484e119a757199ebe3cd2b34ff\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_7a2382484e119a757199ebe3cd2b34ff\" type=\"Folder\"\u003e18\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_61b1cea3e9102e525e7cd276ef1aa69c\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eGraduate Studies flyers - Civil \u0026amp; Environmental Eng.\u003c/unittitle\u003e\u003cunitdate normal=\"1996/1996\"\u003e1996, undated\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_36179e5225bf330c53146d1918caee39\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_36179e5225bf330c53146d1918caee39\" type=\"Folder\"\u003e19\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_05f48820625a6cfe15433c33343c3b43\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e[Artist's Rendering of 5 Metrotech]\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_1b567c6cf389b833065ff870c7f9e20c\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1b567c6cf389b833065ff870c7f9e20c\" type=\"Folder\"\u003e20\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ab59197bee5c817dc9b45a0a44717360\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCampaign materials - plainspoke\u003c/unittitle\u003e\u003cunitdate normal=\"1997/1997\"\u003e1997, undated\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_137621f5845dea77cc9c6ca1c2d502db\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_137621f5845dea77cc9c6ca1c2d502db\" type=\"Folder\"\u003e21\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_60ee02fa41e495b9e61493041de9522d\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePolytechnic Fund materials 97\u003c/unittitle\u003e\u003cunitdate normal=\"1997/1997\"\u003e1997, undated\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_034795e5787c2231061e0911fe95e13b\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_034795e5787c2231061e0911fe95e13b\" type=\"Folder\"\u003e22\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_7550be58c451ce6506cb9b679a092115\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCareer '97 materials - Brooklyn Campus\u003c/unittitle\u003e\u003cunitdate normal=\"1997/1997\"\u003e1997\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_46449a5bd5d59850ce5d09e5a05eb354\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_46449a5bd5d59850ce5d09e5a05eb354\" type=\"Folder\"\u003e23\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_65dfcf2ce3b9acda5206442ba95a41df\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e[Chemical \u0026amp; Engineering News - 75th Anniversary Issue]\u003c/unittitle\u003e\u003cunitdate normal=\"1998/1998\"\u003e1998\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_47c3b480ba6d1e1390e6db46df93a5b0\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_47c3b480ba6d1e1390e6db46df93a5b0\" type=\"Folder\"\u003e24\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ae733bda221d7084f371f08d8a5ef1a7\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eGraduate Degree Programs flyers - Electrical Eng.\u003c/unittitle\u003e\u003cunitdate normal=\"1996/1996\"\u003e1996, undated\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_2869f5528009d9a26e1ffbd480a7ed25\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2869f5528009d9a26e1ffbd480a7ed25\" type=\"Folder\"\u003e25\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_99e872c43a573ffa821565fa70bf8799\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeal\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_4c3e19dd882308fec74cfc67ef167610\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_4c3e19dd882308fec74cfc67ef167610\" type=\"Folder\"\u003e26\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ac2e6c56c1118f28b293547c171a9ea0\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLogos - stats\u003c/unittitle\u003e\u003cunitdate normal=\"1992/1992\"\u003e1992, undated\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_8c837ad25c9ad71839fb9f973ebcf4da\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_8c837ad25c9ad71839fb9f973ebcf4da\" type=\"Folder\"\u003e27\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_61824db66e5c74f118066ced01739ccc\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e[Miscellaneous]\u003c/unittitle\u003e\u003cunitdate normal=\"1997/1997\"\u003e1997, undated\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_91312f9a085d58f9c7fb276136315a2d\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_91312f9a085d58f9c7fb276136315a2d\" type=\"Folder\"\u003e28\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_9ec82f158c6bedbe791ee8b27d403e07\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e9708-17 [1997 Journal Artwork]\u003c/unittitle\u003e\u003cunitdate normal=\"1997/1997\"\u003e1997\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_fba9f337e4a9c968b83a5d291ced2d61\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_fba9f337e4a9c968b83a5d291ced2d61\" type=\"Folder\"\u003e29\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_000e082e20ae0836347ee37e97fff4a1\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e1996 Journal Artwork\u003c/unittitle\u003e\u003cunitdate normal=\"1996/1996\"\u003e1996\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_66cf143d883db2fcd6b58dd1bff45646\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_66cf143d883db2fcd6b58dd1bff45646\" type=\"Folder\"\u003e30\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_2c6a149b67a8f43b142a5c9c0cfacbc4\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e1995 Journal Artwork\u003c/unittitle\u003e\u003cunitdate normal=\"1995/1995\"\u003e1995\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_5ff5b9496a76c5d29c20394a91dc8ba8\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5ff5b9496a76c5d29c20394a91dc8ba8\" type=\"Folder\"\u003e31\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_7edd6a713caed131d1dd0c47aabab4c4\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eART\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_701e80cff3efdd215fbec677f3363b4b\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_701e80cff3efdd215fbec677f3363b4b\" type=\"Folder\"\u003e32\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_76ea4ce180cc180544a92dabae4102ea\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTimeline draft 1/97\u003c/unittitle\u003e\u003cunitdate normal=\"1993/1993\"\u003e1993, 1997, undated\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_a88abd39a45a82960881d3fbafaa22bf\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_a88abd39a45a82960881d3fbafaa22bf\" type=\"Folder\"\u003e33\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_0eaa6fedfae0eecd1ef04c863dc5adf6\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eHumanities \u0026amp; Social Sciences Undergrad brochures\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_3140fe39709a5250c3aeedefd8569216\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_3140fe39709a5250c3aeedefd8569216\" type=\"Folder\"\u003e34\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_5f8b734ed27213bf5e428f00436c40d0\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMechanical, Aero, \u0026amp; Manuf. Eng. Dept.\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_198dece0cd0181df5d56a838a7dc48b3\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_198dece0cd0181df5d56a838a7dc48b3\" type=\"Folder\"\u003e35\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ab58903ba9b2078ce8e802abce9c74e7\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCenter for Finance \u0026amp; Technology Course Booklet\u003c/unittitle\u003e\u003cunitdate normal=\"1996/1996\"\u003e1996, undated\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_838a5fab6f7530f7dfa5e110e92487b4\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_838a5fab6f7530f7dfa5e110e92487b4\" type=\"Folder\"\u003e36\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

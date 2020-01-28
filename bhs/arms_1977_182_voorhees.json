@@ -1,0 +1,156 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1977_182_voorhees"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Wheeler N. Voorhees collection\n                    \u003cnum\u003e1977.182\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "June 2, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-09T16:36-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Voorhees, Wheeler N., d. 1946"
+                    }
+                },
+                "unittitle": {
+                    "value": "Wheeler N. Voorhees collection"
+                },
+                "unitdate": {
+                    "normal": "1766/1935",
+                    "type": "inclusive",
+                    "value": "1766-1935"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.13 linear feet"
+                        },
+                        {
+                            "value": "in three folders."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "1977.182"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid817005",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0046"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref6",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Wheeler N. Voorhees collection, 1977.182, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Arthur J. Latham, 1949."
+            }
+        },
+        "bioghist": {
+            "id": "ref5",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Wheeler N. Voorhees (d. 1946) was a Brooklyn resident who worked as an engineer. He was also an amateur genealogist and a member of the Kings County Historical Society."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "This collection consists of various genealogical papers and legal documents collected or created by Wheeler N. Voorhees and spanning the period 1766 to 1935. The bulk of the collection includes correspondence, receipts, mortgages, bonds, and genealogical papers pertaining to Martin Schoonmaker, the first postmaster of the town of Gravesend and later the Kings County Deputy Commissioner of Juries, and his wife, Eliza. Additional items include papers and clippings relating to the history of the Voorhees family of the Brooklyn town of Flatlands, particularly concerning the earliest generations to emigrate from the Netherlands; and various legal documents pertaining to property holdings and decedents' estates in the Brooklyn towns of Gravesend and Bushwick, and the town of Jamaica in Queens County. Remaining items in the collection include an outline of a lecture given by Wheeler N. Voorhees on historic Kings Highway, and an invitation to the lecture; a photostat copy of an English translation of a Dutch text on immigrating to New Netherland (later New York), featuring maps of various parts of the region; a photograph of a memorial to the settlers of Gravesend; and a copy of the \n                \u003cemph render=\"italic\"\u003eKings County Historical Society Magazine\u003c/emph\u003e."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Decedents' estates |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Families |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Genealogy "
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Immigrants |z New York (State) |z Kings County"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

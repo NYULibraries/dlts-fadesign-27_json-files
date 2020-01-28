@@ -1,0 +1,164 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-F",
+            "value": "once"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "The Guide to Once: A One Shot Magazine Archive\u003clb/\u003e\u003cdate calendar=\"gregorian\" era=\"ce\"\u003e1966-1967 \u003c/date\u003e\u003cnum\u003eMSS 20\u003c/num\u003e \u003cnum\u003eMSS.020\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Processed by Amber Creger"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Fales Library and Special Collections"
+                },
+                "address": {
+                    "addressline": [
+                        "Fales Library and Special Collections",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "3rd Floor",
+                        "New York, NY 10012",
+                        "Phone: (212) 998-2596",
+                        "fales.library@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-06-14T15:55:03\u003c/date\u003e"
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Fales Library and Special Collections"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Once: A One Shot Magazine Archive"
+                },
+                "unitdate": {
+                    "normal": "1966/1967",
+                    "type": "inclusive",
+                    "value": "1966-1967"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Once and Etc. Archive consists of correspondence with and manuscripts sent to Once's editor and contributor, Tom Clark. The collection includes material from noted writers and figures, including: Allen Ginsberg, Gerard Malanga, Robert Creeley and George Plimpton."
+                },
+                "unitid": {
+                    "value": "MSS.020"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_6924a4ce94372bb30b801390ca550123",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_cd58aa435d9ecae6a5ca1f33eb5f4333",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form:\u003clb/\u003e\u003clb/\u003eIdentification of item, date (if known); The Once and Etc. Archive; MSS 020; box number; folder number; \u003caddress\u003e\u003caddressline\u003eFales Library and Special Collections\u003c/addressline\u003e\u003c/address\u003e , New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_66d92e683c643aac722fca5b8b1a2bfc",
+            "head": "Historical/Biographical Note:",
+            "p": {
+                "value": "\u003clist\u003e\u003citem\u003e Contemporary Authors Online. The Gale Group, 2001. Reproduced in Biography Resource Center. Farmington Hills, Mich.: The Gale Group. 2002. [http://www.galenet.com/servlet/BioRC]\u003c/item\u003e\u003citem\u003e A One Shot Magazine. Brightlingsea England : T. Clark, [1966]. Vol. 1, no. 1. \u003c/item\u003e\u003c/list\u003e "
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_0af29791755420b55a8fd041aeb7ed4e",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": " Included also are manuscripts submitted to Clark for inclusion in the magazine. The Once and Etc. Archive's correspondence and manuscripts originate from many notable poets and literati of the period, including: Robert Creeley, Allen Ginsberg, Ed Sanders, Gerard Malangra, among many others (see container list). "
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Small presses |z England |z Brightlingsea."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Poets, American -- 20th century"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Publishers and publishing |z England |z Brightlingsea."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Authors, American -- 20th century"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Literature, Modern -- 20th century."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Literature, Experimental"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "American poetry |y 20th century."
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref11\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: Correspondence\u003c/unittitle\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_d73da3cbce4a78fa15985d57734f93d4\"\u003e\u003chead\u003eScope and Contents note\u003c/head\u003e\u003cp\u003eThe series is contained in one box and materials are arranged alphabetically.\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_ref12\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence from: Acconci, Vito Hanibal-\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1a923545e9c78ab051a9c76e67438835\" label=\"Mixed Materials (31142054862621)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1a923545e9c78ab051a9c76e67438835\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref13\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence from: Benedikt, Michael\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_8e3c763b80e0e99a8dff88cf73d5ae0b\" label=\"Mixed Materials (31142054862621)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_8e3c763b80e0e99a8dff88cf73d5ae0b\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence from: Berkson, Bill\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a1f77694b822c156d5568270fefa16c2\" label=\"Mixed Materials (31142054862621)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_a1f77694b822c156d5568270fefa16c2\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence from: Berrigan, Ted\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_11bf8f7bd160a31f8d1d7f4479268063\" label=\"Mixed Materials (31142054862621)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_11bf8f7bd160a31f8d1d7f4479268063\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence from: Boyle, Kay\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9d6baa638cde2f575ea2932ab29dc0d9\" label=\"Mixed Materials (31142054862621)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_9d6baa638cde2f575ea2932ab29dc0d9\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence from: Brautigan, Richard\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7f95cb411298f5d134ef36a31a313ce4\" label=\"Mixed Materials (31142054862621)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_7f95cb411298f5d134ef36a31a313ce4\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence from: Brodey, Jim\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_606bae39fe2a47a305db3a4addf96486\" label=\"Mixed Materials (31142054862621)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_606bae39fe2a47a305db3a4addf96486\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence from: Brownstein, Michael\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_34e2c8a830a6f4f1fd208aa250b2fd5c\" label=\"Mixed Materials (31142054862621)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_34e2c8a830a6f4f1fd208aa250b2fd5c\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence from: Carroll, Paul\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9af71bd10170d5f563f46ef0162fd216\" label=\"Mixed Materials (31142054862621)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_9af71bd10170d5f563f46ef0162fd216\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence from: Ceravolo, Joseph\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_0e0079d3f84db61ee23886088fc80843\" label=\"Mixed Materials (31142054862621)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0e0079d3f84db61ee23886088fc80843\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence from: Creeley, Robert\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1184dd0044becab2bb6809905e4e0bb0\" label=\"Mixed Materials (31142054862621)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1184dd0044becab2bb6809905e4e0bb0\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence from: Dawson, Fielding\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c8dddf417d3cb75743365db66c218475\" label=\"Mixed Materials (31142054862621)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_c8dddf417d3cb75743365db66c218475\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence from: Dine, Jim; di Prima, Diane\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4f181d09a6420559ef7eefd6469f3eab\" label=\"Mixed Materials (31142054862621)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_4f181d09a6420559ef7eefd6469f3eab\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence from: Dorn, Edward; Eigner, Larry; Elmslie, Kenward\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_52466f006a186809ce96c7983ca57e9e\" label=\"Mixed Materials (31142054862621)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_52466f006a186809ce96c7983ca57e9e\" type=\"Folder\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref26\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence from: Fainlight, Larry\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_0986a75cfcad6858d7d013901978c640\" label=\"Mixed Materials (31142054862621)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0986a75cfcad6858d7d013901978c640\" type=\"Folder\"\u003e15\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence from: Gallup, Dick\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_eb6c4f2892d73efb17784b6649cc19d3\" label=\"Mixed Materials (31142054862621)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_eb6c4f2892d73efb17784b6649cc19d3\" type=\"Folder\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref28\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence from: Ginsberg, Allen\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_57499eb547bcc3270534f4b63663887f\" label=\"Mixed Materials (31142054862621)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_57499eb547bcc3270534f4b63663887f\" type=\"Folder\"\u003e17\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref29\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence from: Giorno, John\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5028c38998871086accf4ed48d339462\" label=\"Mixed Materials (31142054862621)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5028c38998871086accf4ed48d339462\" type=\"Folder\"\u003e18\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref30\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence from: Guest, Barbara; Hall, Donald\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_942f805dc4ee18a39618987c687b816e\" label=\"Mixed Materials (31142054862621)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_942f805dc4ee18a39618987c687b816e\" type=\"Folder\"\u003e19\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref31\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence from: Harwood, Lee\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ee8020c79797c9f66ca4aa6809aa5184\" label=\"Mixed Materials (31142054862621)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ee8020c79797c9f66ca4aa6809aa5184\" type=\"Folder\"\u003e20\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref32\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence from: Jones, Leroi; Kaplan, Allan\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_354a38ebc404ca137cc2c761d50415d5\" label=\"Mixed Materials (31142054862621)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_354a38ebc404ca137cc2c761d50415d5\" type=\"Folder\"\u003e21\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref33\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence from: Koch, Kenneth\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ef4a1a8ecd36966e511e925fcb1f897c\" label=\"Mixed Materials (31142054862621)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ef4a1a8ecd36966e511e925fcb1f897c\" type=\"Folder\"\u003e22\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref34\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence from: Lamantia, Philip; MacAdams, Lewis\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_0c8bd949fb667d684af90cf104286932\" label=\"Mixed Materials (31142054862621)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0c8bd949fb667d684af90cf104286932\" type=\"Folder\"\u003e23\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref35\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence from: Malanga, Gerard\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_8b614e648df6ba7b90b85f6b590f2fa1\" label=\"Mixed Materials (31142054862621)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_8b614e648df6ba7b90b85f6b590f2fa1\" type=\"Folder\"\u003e24\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref36\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence from: Matthews, Harry\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f414ab51e1dc36d05296c7d69bdaa108\" label=\"Mixed Materials (31142054862621)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f414ab51e1dc36d05296c7d69bdaa108\" type=\"Folder\"\u003e25\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref37\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence from: Mayer, Bernadette; Niedecker, Lorine\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_0d7f13a19f21a810ee114ed43fcaa09a\" label=\"Mixed Materials (31142054862621)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0d7f13a19f21a810ee114ed43fcaa09a\" type=\"Folder\"\u003e26\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref38\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence from: Pelieu, Claude\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1f6d80c357313ac7bc2519ee4854b5ea\" label=\"Mixed Materials (31142054862621)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1f6d80c357313ac7bc2519ee4854b5ea\" type=\"Folder\"\u003e27\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref39\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence from: Perreault, John\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_50b312a1b15570f49cf1349d5ba057e2\" label=\"Mixed Materials (31142054862621)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_50b312a1b15570f49cf1349d5ba057e2\" type=\"Folder\"\u003e28\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref40\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence from: Plimpton, George; Sanders, Ed\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f1626fdcbe151958de3cd145605f79fa\" label=\"Mixed Materials (31142054862621)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f1626fdcbe151958de3cd145605f79fa\" type=\"Folder\"\u003e29\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref41\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence from: Schjeldahl, Peter\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b0ccc8e49c058a4f8b540e12b6a60833\" label=\"Mixed Materials (31142054862621)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b0ccc8e49c058a4f8b540e12b6a60833\" type=\"Folder\"\u003e30\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref42\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence from: Shapiro, David\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4a5693e7250d98f9da4fdd0e7db57879\" label=\"Mixed Materials (31142054862621)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_4a5693e7250d98f9da4fdd0e7db57879\" type=\"Folder\"\u003e31\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref43\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence from: Torregian, Sotere\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c5d1d61f192f8016ff54ef8445f886d6\" label=\"Mixed Materials (31142054862621)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_c5d1d61f192f8016ff54ef8445f886d6\" type=\"Folder\"\u003e32\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref44\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence from: Towle, Tony\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b5dda60b698c2aec4cd0dbef387f5698\" label=\"Mixed Materials (31142054862621)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b5dda60b698c2aec4cd0dbef387f5698\" type=\"Folder\"\u003e33\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref45\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence from: Veitch, Tom\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_0c5a06af236b4abad405659dd8e9a0b8\" label=\"Mixed Materials (31142054862621)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0c5a06af236b4abad405659dd8e9a0b8\" type=\"Folder\"\u003e34\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref46\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence from: Waldman, Anne\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f592d9d7fe53a5a85b19e1efaed85e66\" label=\"Mixed Materials (31142054862621)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f592d9d7fe53a5a85b19e1efaed85e66\" type=\"Folder\"\u003e35\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref47\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence from: Warsh, Lewis\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1b844714585d4da7781db775c6e1fb5e\" label=\"Mixed Materials (31142054862621)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1b844714585d4da7781db775c6e1fb5e\" type=\"Folder\"\u003e36\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref48\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence from: Wieners, John\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2f630aa1c764c9d23a6f422a344753d8\" label=\"Mixed Materials (31142054862621)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2f630aa1c764c9d23a6f422a344753d8\" type=\"Folder\"\u003e37\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref49\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence from: Unidentified\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_6ae10c262a49f8569247ce7656b1091f\" label=\"Mixed Materials (31142054862621)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_6ae10c262a49f8569247ce7656b1091f\" type=\"Folder\"\u003e38\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

@@ -1,0 +1,239 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "aia_027"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Peter F. Dolan Photographs\n                    \u003cnum\u003eAIA.027\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Kate Feighery"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "April 17, 2012"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-07-26T10:20-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Dolan, Peter F."
+                    }
+                },
+                "unittitle": {
+                    "value": "Peter F. Dolan Photographs"
+                },
+                "unitdate": {
+                    "normal": "1932/1989",
+                    "type": "inclusive",
+                    "value": "1932-1989"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.0 linear feet"
+                        },
+                        {
+                            "value": "in 1 record carton"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "AIA.027"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref64",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open for research without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "ref63",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: \n                \u003clb/\u003e\n                \u003clb/\u003eIdentification of item, date; Peter F. Dolan Photograph Collection; AIA.027; box number; folder number; Archives of Irish America/Tamiment Library, New York University."
+            }
+        },
+        "bioghist": {
+            "id": "ref61",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Peter F. Dolan (1942-2011) was an Irish-American photographer. Born in the Inwood neighborhood of Manhattan on November 8, 1942, he attended both Manhattan Prep and Manhattan College. Throughout his life, he worked to document the political and social life of Irish and Irish-Americans in New York City through photography. Although a freelance photographer, his work has appeared in such publications as the \n                \u003cemph render=\"italic\"\u003eIrish Echo\u003c/emph\u003e and the \n                \u003cemph render=\"italic\"\u003eIrish Advocate\u003c/emph\u003e. His photography studio and apartment were located in Inwood, and many of his photographs depict Irish life in that neighborhood. In addition to his photographic interests, Dolan was also interested in Irish music, particularly in the Irish tenor John McCormack. He was the secretary of the John McCormack Society of America, and donated his collection on John McCormack to the Boston College Library. He lived in New York City from birth through the 1990s, working at Keshkerrigan, a now-closed Irish-language book store on the Lower East Side, and in the office of Bronx Borough President Fernando Ferrer, and hosted Friday-night Irish music sessions in the Eagle Tavern (now closed) on 14th Street. Later in his life, he moved to Connecticut, and died in Hartford on January 2, 2011."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "Dolan provided handwritten descriptions of the majority of the photos in the collection. Most descriptions note the date, the event, and if known, identify the people in the photograph. Often, there are individuals indentified in these descriptive notes who are not mentioned in the folder titles. Although Dolan worked on a freelance basis, some of his photographs were published in Irish-American newspapers, and the description notes if the photograph was published."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Civil rights demonstrations |v Pictorial works."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Demonstrations |v Pictorial works."
+                },
+                {
+                    "source": "local",
+                    "value": "Feis."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Gaelic football."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Human rights |z Ireland."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Hunger strikes |z Northern Ireland."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Inwood (New York, N.Y.) |x History |v Pictorial works. "
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Irish Americans"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Irish Americans |x Ethnic identity."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Irish Americans |x Music.         "
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Irish Americans |x Politics and government"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Irish Americans |x Social life and customs.                         "
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Irish Americans |x Societies, etc."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Irish Americans |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Irish Americans |z New York (State) |z New York |x Politics and government."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Irish in America. "
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Irish Northern Aid Committee"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Irish |x Music."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Irish |z United States |x Societies"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Music festivals."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Musicians |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Parades |z New York (State) |z New York |v Pictorial works."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Parades."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Peace movements |z Northern Ireland."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Photographers |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Picketing |v Pictorial works."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Saint Patrick's Day."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "United Irish Counties Association of N.Y."
+            }
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref2\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries I: Parades\u003c/unittitle\u003e\n                    \u003cunitdate\u003e1977-1989\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref69\"\u003e\n                    \u003chead\u003eScope and Content Note\u003c/head\u003e\n                    \u003cp\u003eThe photos in these series are mostly group shots of parade committee meetings or groups marching in various parades. If the shots are with smaller groups of people, they are usually of the parade marshall or aides.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n                \u003cc id=\"ref5\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSt. Patrick's Day Parade Committee Meetings\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740003\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740003\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate\u003e1977-1985\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref6\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSt. Patrick's Day Parade\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740004\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740004\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate\u003e1978-1985\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref7\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eRockaway Beach St. Patrick's Day Parade\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740005\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740005\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate\u003e1984\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref8\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eBrooklyn Irish American Parade\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740006\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740006\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate\u003e1987-1989\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref9\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries II: Politics \u0026amp; Protests\u003c/unittitle\u003e\n                    \u003cunitdate\u003e1974-1989\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref70\"\u003e\n                    \u003chead\u003eScope and Content Note\u003c/head\u003e\n                    \u003cp\u003eThe photos in these series consist mainly of group shots at protests and picket lines in New York City. The majority of the people in the photos are not identified, although occassionaly there will be a shot of a more well-known speaker at a rally, like Paul O'Dwyer or Bernadette Devlin.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n                \u003cc id=\"ref12\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eStagg Commemorations\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740008\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740008\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate\u003e1974-1975\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref13\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSargent Shriver with Washington Heights Sandhogs\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740009\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740009\" type=\"Folder\"\u003e6\u003c/container\u003e\n                        \u003cunitdate\u003e1975\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref14\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAnti-Carey Demonstrations\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740010\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740010\" type=\"Folder\"\u003e7\u003c/container\u003e\n                        \u003cunitdate\u003e1977\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref15\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMatilde Tone Commemoration\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740011\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740011\" type=\"Folder\"\u003e8\u003c/container\u003e\n                        \u003cunitdate\u003e1978\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref16\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePadraig Pearse Commemoration\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740012\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740012\" type=\"Folder\"\u003e9\u003c/container\u003e\n                        \u003cunitdate\u003e1979\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref17\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eIrish Republican Club\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740013\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740013\" type=\"Folder\"\u003e10\u003c/container\u003e\n                        \u003cunitdate\u003e1979-1980\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref18\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eHunger Strike Demonstrations, New York City\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740014\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740014\" type=\"Folder\"\u003e11\u003c/container\u003e\n                        \u003cunitdate\u003e1979-1983\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref19\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eIrish National Caucus\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740015\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740015\" type=\"Folder\"\u003e12\u003c/container\u003e\n                        \u003cunitdate\u003e1979-1986\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref20\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eNORAID Demonstrations\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740016\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740016\" type=\"Folder\"\u003e13\u003c/container\u003e\n                        \u003cunitdate\u003e1979-1987\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref21\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eJoe Doherty Demonstrations\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740017\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740017\" type=\"Folder\"\u003e14\u003c/container\u003e\n                        \u003cunitdate\u003e1980-1988\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref22\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eTWU Strike\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740018\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740018\" type=\"Folder\"\u003e15\u003c/container\u003e\n                        \u003cunitdate\u003e1981\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref23\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eProtest against Prince of Wales Visit\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740019\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740019\" type=\"Folder\"\u003e16\u003c/container\u003e\n                        \u003cunitdate\u003e1981\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref24\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eIrish Solidarity Day\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740020\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740020\" type=\"Folder\"\u003e17\u003c/container\u003e\n                        \u003cunitdate\u003e1981-1986\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref25\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePolitical Protests\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740021\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740021\" type=\"Folder\"\u003e18\u003c/container\u003e\n                        \u003cunitdate\u003e1981-1989\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref26\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eProtest, Black Watch Regiment, Madison Square Garden\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740022\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740022\" type=\"Folder\"\u003e19\u003c/container\u003e\n                        \u003cunitdate\u003e1982\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref27\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eConferences\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740023\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740023\" type=\"Folder\"\u003e20\u003c/container\u003e\n                        \u003cunitdate\u003e1982-1983\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref28\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSpecial Envoy to Northern Ireland\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740024\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740024\" type=\"Folder\"\u003e21\u003c/container\u003e\n                        \u003cunitdate\u003e1983\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref29\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries III: Social Life\u003c/unittitle\u003e\n                    \u003cunitdate\u003e1974-1988\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref71\"\u003e\n                    \u003chead\u003eScope and Content Note\u003c/head\u003e\n                    \u003cp\u003eThe photos in this series deal with special events in the Irish-American community in and around New York City. The majority of these are group shots of various social events. Individuals are identified in accompanying notes when known.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n                \u003cc id=\"ref30\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCultural Events\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740025\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740025\" type=\"Folder\"\u003e22\u003c/container\u003e\n                        \u003cunitdate\u003e1974-1986\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref31\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMusic Festival, Floyd Bennet Field, Brooklyn\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740026\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740026\" type=\"Folder\"\u003e23\u003c/container\u003e\n                        \u003cunitdate\u003e1975\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref32\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eNew York County Association Events\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740027\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740027\" type=\"Folder\"\u003e24\u003c/container\u003e\n                        \u003cunitdate\u003e1975-1985\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref33\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMt. Carmel Cemetery Restoration\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740028\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740028\" type=\"Folder\"\u003e25\u003c/container\u003e\n                        \u003cunitdate\u003e1976-1982\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref34\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eIrish Freedom Show\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740029\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740029\" type=\"Folder\"\u003e26\u003c/container\u003e\n                        \u003cunitdate\u003e1977-1982\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref35\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAncient Order of Hibernians, New York\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740030\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740030\" type=\"Folder\"\u003e27\u003c/container\u003e\n                        \u003cunitdate\u003e1977-1986\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref36\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eEmerald Society of the Courts of New York\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740031\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740031\" type=\"Folder\"\u003e28\u003c/container\u003e\n                        \u003cunitdate\u003e1979-1985\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref37\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eReligious Events\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740032\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740032\" type=\"Folder\"\u003e29\u003c/container\u003e\n                        \u003cunitdate\u003e1979-1988\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref38\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMary from Dungloe Competition, Brooklyn\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740033\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740033\" type=\"Folder\"\u003e30\u003c/container\u003e\n                        \u003cunitdate\u003e1981\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref39\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eThe Society of the Friendly Sons of St. Patrick\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740034\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740034\" type=\"Folder\"\u003e31\u003c/container\u003e\n                        \u003cunitdate\u003e1981-1986\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref40\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eGaelic Athletic Association (GAA) of New York Teams and Events\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740035\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740035\" type=\"Folder\"\u003e32\u003c/container\u003e\n                        \u003cunitdate\u003e1982-1984\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref41\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eKelly Games\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740036\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740036\" type=\"Folder\"\u003e33\u003c/container\u003e\n                        \u003cunitdate\u003e1983-1984\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref42\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eUnited Irish Counties Association Events\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740037\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740037\" type=\"Folder\"\u003e34\u003c/container\u003e\n                        \u003cunitdate\u003e1983-1987\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref43\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eThe Great Irish Fair, Coney Island\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740038\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740038\" type=\"Folder\"\u003e35\u003c/container\u003e\n                        \u003cunitdate\u003e1985-1987\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref44\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries IV: People and Places\u003c/unittitle\u003e\n                    \u003cunitdate\u003e1973-1987\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref72\"\u003e\n                    \u003chead\u003eScope and Content Note\u003c/head\u003e\n                    \u003cp\u003eThis series consists of close-up photographs of individuals or small groups, many of which taken in the Inwood neighborhood of Manhattan.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n                \u003cc id=\"ref45\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePortraits\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740039\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740039\" type=\"Folder\"\u003e36\u003c/container\u003e\n                        \u003cunitdate\u003e1973-1985\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref46\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eBernadette Devlin and Liam Kelly\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740040\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740040\" type=\"Folder\"\u003e37\u003c/container\u003e\n                        \u003cunitdate\u003e1974\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref47\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eInwood, Manhattan: Neighborhood Life\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740041\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740041\" type=\"Folder\"\u003e38\u003c/container\u003e\n                        \u003cunitdate\u003e1974-1986\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref48\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eEagle Tavern\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740042\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740042\" type=\"Folder\"\u003e39\u003c/container\u003e\n                        \u003cunitdate\u003e1975-1981\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref49\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eThe Bronx\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740043\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740043\" type=\"Folder\"\u003e40\u003c/container\u003e\n                        \u003cunitdate\u003e1975-1982\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref50\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eLiam O'Leary\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740044\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740044\" type=\"Folder\"\u003e41\u003c/container\u003e\n                        \u003cunitdate\u003e1978-1986\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref51\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eRockaway\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740045\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740045\" type=\"Folder\"\u003e42\u003c/container\u003e\n                        \u003cunitdate\u003e1979-1980\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref52\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMusicians, Portraits\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740046\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740046\" type=\"Folder\"\u003e43\u003c/container\u003e\n                        \u003cunitdate\u003e1979-1987\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref53\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eNora Connolly O'Brien\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740047\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740047\" type=\"Folder\"\u003e44\u003c/container\u003e\n                        \u003cunitdate\u003e1980\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref54\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries V: Photos by Other People\u003c/unittitle\u003e\n                    \u003cunitdate\u003e1932-1981\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref55\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePaul Delaney, Image of Great-Grandfather\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740048\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740048\" type=\"Folder\"\u003e45\u003c/container\u003e\n                        \u003cunitdate\u003eunknown\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref56\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003e28th Annual UICA Irish Ball\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740049\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740049\" type=\"Folder\"\u003e46\u003c/container\u003e\n                        \u003cunitdate\u003e1932\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref57\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eJohn McCormack Archive Photos\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740050\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740050\" type=\"Folder\"\u003e47\u003c/container\u003e\n                        \u003cunitdate\u003e[1930s]\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref58\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eKathleen Cooke Drawing \u0026amp; Sculpture\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740051\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740051\" type=\"Folder\"\u003e48\u003c/container\u003e\n                        \u003cunitdate\u003eunknown\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref59\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eHunger Striker Patsy O'Hara\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740052\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740052\" type=\"Folder\"\u003e49\u003c/container\u003e\n                        \u003cunitdate\u003e1981\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref60\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eJosephine Patricia Smith\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21740053\" type=\"Box\" label=\"Photographs\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21740053\" type=\"Folder\"\u003e50\u003c/container\u003e\n                        \u003cunitdate\u003eunknown\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

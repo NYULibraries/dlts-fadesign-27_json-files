@@ -1,0 +1,148 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "alba_029"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Lawrence Cane Papers \u003cnum\u003eALBA.029\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Wendy Scheir"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-07-20T14:39:46\u003c/date\u003e"
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Cane, Lawrence, 1912-1976"
+                    }
+                },
+                "unittitle": {
+                    "value": "Lawrence Cane Papers"
+                },
+                "unitdate": {
+                    "normal": "1937/1938",
+                    "type": "inclusive",
+                    "value": "1937-1938"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Lawrence Cane (1912-1976), who changed his name from Lawrence Cohen in 1939, sailed for Spain in July 1936 to join the International Brigades. There, as part of the Canadian MacKenzie-Papineau Battalion, he saw heavy combat. He returned to the United States in December 1938. Cane was later decorated for bravery in action in World War II. The collection consists of materials from Cane's time in Spain, and includes military citations, artifacts and papers, identity books, and memorabilia."
+                },
+                "unitid": {
+                    "value": "ALBA.029"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_b429bb491b0d9cbce28c670e92b3f51e",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Materials are open to researchers. Please contact the Tamiment Library \u0026amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_a1b29f2fe1870a625f9b214cbcc20e4c",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: \u003clb/\u003e\u003clb/\u003eIdentification of item, date; Collection name; Collection number; box number; folder number; \u003clb/\u003eTamiment Library/Robert F. Wagner Labor Archives \u003clb/\u003eElmer Holmes Bobst Library \u003clb/\u003e70 Washington Square South \u003clb/\u003eNew York, NY 10012, New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_c35e3941e9720b35ae8dd34fe9b01505",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "\u003clist\u003e\u003citem\u003eLawrence Cane. Fighting Fascism in Europe: The World War II Letters of an American Veteran of the Spanish Civil War. Edited by David E. Cane, Judy Barrett Litoff, and David C. Smith. New York: Fordham University Press, 2003.\u003c/item\u003e\u003citem\u003eGeiser, Carl. Prisoners of the Good Fight: The Spanish Civil War 1936-1939. Westport, CT: Lawrence-Hill and Company, 1986.\u003c/item\u003e\u003c/list\u003e "
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_7e21b283334312e73b568c28df19c713",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "\u003cemph render=\"bold\"\u003eSeries I, Spanish Civil War\u003c/emph\u003econsists of materials from Cane's year in Spain. Items include military citations, artifacts and papers, and memorabilia such as Cane's third class berthing pass onto the S.S. Ausonia for his return to the United States. Also included are several identity books; Cane's Carnet Militar and Spanish Communist Party membership book contain photographs of him."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Spain -- History -- Civil War, 1936-1939."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Spain. Ejercito Popular de la Republica. Brigada Internacional, XV"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref15\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: Spanish Civil War\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref16\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eArtifacts: Patch; ribbons\u003c/unittitle\u003e\u003cunitdate normal=\"1928/1948\" type=\"inclusive\"\u003eca.1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f8f76aa46a7cc55eb7e0fae6e1166c92\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f8f76aa46a7cc55eb7e0fae6e1166c92\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCitations; honors; testimonial\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1938\" type=\"inclusive\"\u003eundated , Sep 1938-Nov 1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e6aae3b89e937c82a37c874e2090b77a\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e6aae3b89e937c82a37c874e2090b77a\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eEphemera: Invitations to political rallies; berthing card\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eOct 1938-Dec 1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_695434a81285d7f983ce0a09d298431f\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_695434a81285d7f983ce0a09d298431f\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMilitary and political identity books and papers\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eAug 1937-Dec 1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_fd9624d431dd97ea77453ea70424b51c\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_fd9624d431dd97ea77453ea70424b51c\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMilitary instruction booklet: \"Consejos a los Soldados\" (annotated, in Spanish)\u003c/unittitle\u003e\u003cunitdate normal=\"1928/1948\" type=\"inclusive\"\u003eca.1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_54874f3cf447bc62156778fb2868f1f0\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_54874f3cf447bc62156778fb2868f1f0\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

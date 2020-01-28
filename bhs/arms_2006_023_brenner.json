@@ -1,0 +1,166 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_2006_023_brenner"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Jacob Brenner papers\n                    \u003cnum\u003e2006.023\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Quinn Lai"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "October 2006"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-22T11:52-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Woodruff, Timothy L.,  (Timothy Lester), 1858-1913"
+                    }
+                },
+                "unittitle": {
+                    "value": "Jacob Brenner papers"
+                },
+                "unitdate": {
+                    "normal": "1884/1921",
+                    "type": "inclusive",
+                    "value": "1884-1921"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "2.18 Linear feet"
+                        },
+                        {
+                            "value": "in two manuscript boxes and one oversize box."
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "This collection contains documents and news clippings of Jacob A. Brenner (1857-1921), former Brooklyn magistrate and Kings County Commissioner of Jurors. The collection chiefly relates to Brenner's numerous appointments in the Kings County judicial system and his membership in the Republican Party, as well as personal materials regarding the death of his wife, Louise (Blumenau) Brenner."
+                },
+                "unitid": {
+                    "value": "2006.023"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1014005",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "2006.023 3 of 3"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref7",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Jacob Brenner papers, 2006.023, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref6",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Source and date of acquisition unknown. Formally accessioned in 2006."
+            }
+        },
+        "bioghist": {
+            "id": "ref5",
+            "head": "Biographical Note",
+            "p": {
+                "value": "A quick succession of deaths within a period of four years marked the Brenner family: Simon Brenner (September 7, 1898), Caroline Brenner (September 22, 1900), and Louise Brenner (February 21, 1902). Jacob Brenner died on October 17, 1921 of heart disease while giving a speech at Temple Beth-Elohim. He is buried at Mount Neboh Cemetery in the Cypress Hills neighborhood of Brooklyn."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "Series 1 contains correspondence and newspaper articles about Brenner's professional duties and affairs. Series 2 chiefly contains correspondence received by Brenner upon the deaths of his parents, Simon and Caroline, and his wife, Louise."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcgft",
+                    "value": "Courts |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Judges |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Lawyers |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Temple Beth-Elohim (Brooklyn, New York, N.Y.)."
+            }
+        },
+        "otherfindaid": {
+            "id": "ref9",
+            "head": "Other Finding Aids note"
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref10\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 1: Business and political life\u003c/unittitle\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003e0.42 Linear feet\u003c/extent\u003e\n                        \u003cextent\u003ein one manuscript box.\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate normal=\"1896/1921\" type=\"inclusive\"\u003e1896-1921\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref12\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003eThis series contains correspondence and newspaper articles about Brenner's professional duties and affairs. The correspondence includes congratulatory letters upon Brenner's judicial appointments, as well as correspondence documenting the efforts he made in assisting members of the Brooklyn community in obtaining employment. The newspaper articles provide details on the political strategies and judicial decisions made by Brenner during his tenure as magistrate. This series also includes material about Brenner's membership in the Kings County Federal Republican Party, as well as his association with United States Senator Chauncey M. Depew (1834-1928) and New York State Lieutenant Governor Timothy L. Woodruff (1858-1913).\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref11\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 2: Personal and family life\u003c/unittitle\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003e1.76 Linear feet\u003c/extent\u003e\n                        \u003cextent\u003ein one manuscript box and one oversize box.\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate normal=\"1884/1921\" type=\"inclusive\"\u003e1884-1921\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref13\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003eThis series chiefly contains correspondence received by Brenner upon the deaths of his parents, Simon and Caroline, and his wife, Louise. Also included are letters from Brenner's daughter Rose as a young girl to the Brenner family while she was traveling, items relating to Brenner's chairmanship at Temple Beth-Elohim, and newspaper articles about Brenner's death that were collected by his children after his death in 1921. The non-English language materials of this collection are also included in this series and are comprised of two letters in German, a German song sheet, and a Hebrew prayer pamphlet published on the occasion of Sir Moses Montefiore's 95th birthday in 1884. Box 3 holds oversized newspapers and newsletters, and also brittle and incomplete newspaper clippings.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

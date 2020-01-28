@@ -1,0 +1,141 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_2006_032_lutheran_hospital"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Lutheran Hospital of Brooklyn collection\n                    \u003cnum\u003e2006.032\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Matthew Gorham"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "October 28, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-22T13:50-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Lutheran Hospital of Brooklyn collection"
+                },
+                "unitdate": {
+                    "normal": "1881/1978",
+                    "type": "inclusive",
+                    "value": "1881-1978"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.84 Linear feet"
+                        },
+                        {
+                            "value": "in two manuscript boxes"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "2006.032"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1094002",
+                    "label": "Mixed materials",
+                    "type": "Bin",
+                    "value": "2006.032 1 of 2"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "acqinfo": {
+            "id": "ref4",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Edward P. Horan, 2006."
+            }
+        },
+        "bioghist": {
+            "id": "ref3",
+            "head": "Historical note",
+            "p": {
+                "value": "The Lutheran Hospital of Brooklyn was founded in 1881 and was located at 22 Junius Street in the East New York neighborhood of Brooklyn. The hospital closed its doors in 1978 and its buildings were razed during the 1980's."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The Luthern Hospital of Brooklyn collection spans the period 1881 to 1978 and measures 0.82 linear feet. The collection contains newsletters, newspaper clippings concerning the hospital, fundraising seals, and other printed ephemera. The bulk of the collection consists of over 200 black and white photographs of the hospital, its patients, and its staff. A large portion of the photos date from the 1950s and depict hospital patients, staff and board members, and events held at the hospital. Also included are photographs depicting the construction of a new hospital building in 1927."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Hospitals |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Lutherans |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Lutheran Hospital (Brooklyn, New York, N.Y.)."
+            }
+        },
+        "dsc": {}
+    }
+}

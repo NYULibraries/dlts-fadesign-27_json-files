@@ -1,0 +1,145 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "2016_032"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Brooklyn Wharf and Warehouse Co. private ledger \u003cnum\u003e2016.032\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Maggie Schreiner"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "Brooklyn Historical Society",
+                        "128 Pierrepont Street",
+                        "Brooklyn 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-11-30T16:07:54\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Brooklyn Wharf and Warehouse Co. private ledger"
+                },
+                "unitdate": {
+                    "normal": "1895/1900",
+                    "type": "inclusive",
+                    "value": "1895-1900"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.18 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 half manuscript box."
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Brooklyn Wharf and Warehouse Co. was a New York corporation that was involved in the business of storage, wharfage, and warehousing, and owned property in Brooklyn. This collection includes one handwritten financial ledger."
+                },
+                "unitid": {
+                    "value": "2016.032"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_93ab555b3a93f90aa941a1f30b9e1552",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_da6f07a381c5ffb184d3919fdc773af6",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "This collection is available for use without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_992761c20feda267bfd1956a7ab6ae93",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Brooklyn Wharf and Warehouse Co. private ledger, 2016.032, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_52f047fecb92bef60e64d032ba78b218",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "This ledger was found in the repository, with no accompaning information about provenance."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_31911990eb57f67c05063fcc2d2d5df9",
+            "head": "Biographical / Historical",
+            "p": {
+                "value": "The Brooklyn Wharf and Warehouse Co. was a New York corporation that was involved in the business of storage, wharfage, and warehousing, and owned property in Brooklyn stretching approximately 2 ¼ miles along the waterfront from above the Brooklyn Bridge to the Erie Basin on Gowanus Bay."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_77c5dc87651d89cba60469c08081339d",
+            "head": "Content Description",
+            "p": {
+                "value": "The ledger contains handwritten entries accounting for a variety of financial occurrences, such as profit and losses, salaries, rents, and dredging from the period of approximately 1895-1900."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Waterfronts |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Warehouses |z New York (State) |z Kings County"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

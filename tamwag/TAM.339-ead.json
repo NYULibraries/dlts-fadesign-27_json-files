@@ -1,0 +1,144 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "tam_339"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Michael Gold: Peter V. Cacchione Manuscripts\n                    \u003cnum\u003eTAM.339\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Peter Filardo"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "11/25/2009"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T19:32-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Gold, Michael, 1893-1967"
+                    }
+                },
+                "unittitle": {
+                    "value": "Michael Gold: Peter V. Cacchione Manuscripts"
+                },
+                "unitdate": {
+                    "value": "c. 1948-c. 1974"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.75 linear feet"
+                        },
+                        {
+                            "value": "(3 boxes boxes)"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "TAM.339"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid18876001",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1-3"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref5",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open for research without restrictions."
+            }
+        },
+        "acqinfo": {
+            "id": "ref10",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Separated from the Simon W. Gerson Papers (Tamiment 073)"
+            }
+        },
+        "bioghist": {
+            "id": "ref4",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Michael (Mike) Gold (1894-1967) was a noted Jewish Communist author and journalist. Peter V. Cacchione (1897-1947) was an Italian American Communist politician raised in Sayre, a Pennsylvania mining community, head of the Brooklyn (New York, N.Y.) section of the Communist Party, and who was elected to New York’s City Council in 1941, where he served until his death."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "3 “Pete was a little guy who made a little history\" (49 leaves), c. 1948; also includes a memorandum by Simon W. Gerson; c.1974"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "City council members |z New York (State) |z New York |v Drama."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Communists |z United States |v Drama."
+                },
+                {
+                    "source": "local",
+                    "value": "Italian American communists |v Drama."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Stevedores |z New York (State) |z New York |v Drama."
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

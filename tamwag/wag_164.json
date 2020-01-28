@@ -1,0 +1,171 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "wag_164"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Julius Manson Papers \u003cnum\u003eWAG.164\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-06-20T18:46:03\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Manson, Julius, 1907-1998"
+                    }
+                },
+                "unittitle": {
+                    "value": "Julius Manson Papers"
+                },
+                "unitdate": {
+                    "normal": "1940/1979",
+                    "type": "bulk",
+                    "value": "1940-1979"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "40.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 40 record cartons, 1 folder in a shared box and 1 folder in a flat-file drawer"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Julius J. Manson (1907-1988) was a New York City professor and labor mediator and arbitrator.  The Julius Manson Papers include notes, correspondence, publications, research materials, articles, and photographs and are primarily from the 1940s through the 1970s."
+                },
+                "unitid": {
+                    "value": "WAG.164"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_da0bfc85bd2eeece024dffa534539d4a",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_6891708b34d85c3231931d9f138a04f8",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Julius Manson Papers; WAG 164; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_dcb41663a3b973f113ed10ef1a1a05f2",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials found in repository; provenance is unknown. The accession numbers associated with this colletion are 1986.007, 1986.013 and NPA.2001.003."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_d47d19b2595a5aeed8b43dee2899bb9d",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Manson was involved with the international Esperanto movement, representing the Universal Esperanto Association of the United Nations in the 1980s and 1990s.  He was a founding member of the Three Arrows Cooperative Society and served as its president during 1937-1938.  His first wife, Minnie Kaplan, died in 1941.  After World War II, he married Elizabeth Robinson Butzner."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_c45c744d58fed20e74884e5c352a7f7f",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Julius Manson Papers primarily relate to Manson's work as a professor and labor mediator and arbitrator.  There are some materials related to his involvement in the movement for the international adoption of Esperanto.  Materials include notes, correspondence, publications, research materials, articles, and photographs and are primarily from the 1940s through the 1970s."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Labor movement -- New York (State)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Grievance arbitration."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Esperanto"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Collective bargaining -- New York (State)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor unions -- New York (State)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor laws and legislation -- New York (State)"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Three Arrows Cooperative Society, Inc."
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref3\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMixed pamphlets, related materials. Documents from the National Academy of Arbitrators NAA, National Center for the Study of Collective Bargaining in Higher Education (conference materials. directory). One arbitration case: Shell Co. \u0026amp; I.A.M.\u003c/unittitle\u003e\u003ccontainer id=\"aspace_c2f67e0c7b509bd54fba1dc376567b86\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref4\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTwo labor arbitration cases: Shell \u0026amp; IAM, American Fed. of Government Employees. Documents from the National Center for Study of Coll. Bargaining, Old Timers labor fraternity. Faculty documents from Baruch College. Personal calendars (1960s).Mixed journals, pamphlets from the labor movement, UN.\u003c/unittitle\u003e\u003ccontainer id=\"aspace_e7b1b0d18d3d42189d30c284afe68e29\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref5\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLabor arbitration cases. Dissertation, school papers, notes (1950s). Autobiography of Carol Manson, papers of Minnie Kaplan. Socialist pamphlets, newsletters (1930s),labor law notes (1940s).\u003c/unittitle\u003e\u003ccontainer id=\"aspace_21fa21bf2da7c79d0805d97547bd073e\" label=\"Mixed Materials\" type=\"Box\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref6\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDocuments on Turkey aid (1960s), trip to Turkey (primarily logistical). Adoption case, arbitration cases involving civic service, AF GE, International Brotherhood of Electrical Workers. Documents irom Three Arrows Coop Society, NY State Board of Mediation. Minutes from National Committee for Rural Schools. Non-print items: photograph, pin.\u003c/unittitle\u003e\u003ccontainer id=\"aspace_cc2afd27c3dd82a74db57d9c61228861\" label=\"Mixed Materials\" type=\"Box\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref7\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNew School bulletins (1950s), CUNY, Baruch College materials. Socialist pamphlets, labor newspaper clippings, materials (1960s). Correspondence primarily regarding labor mediation (1950s-1960s).\u003c/unittitle\u003e\u003ccontainer id=\"aspace_8efc437542c5c1096fb8b5e1aa220a07\" label=\"Mixed Materials\" type=\"Box\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref8\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eList of Manson's contacts. Turkey Aid documents. General correspondence (from1964). Labor arbitration case materials, bulk of which deals with AWOL and theftcase, Rivas case. Journals.\u003c/unittitle\u003e\u003ccontainer id=\"aspace_a76033c90413af0d403b998cc5c44cd8\" label=\"Mixed Materials\" type=\"Box\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref9\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePersonal materials, including Manson articles, lectures, speeches. Course documents, including course syllabi, correspondence with New School, graduate school papers, bulletins, UN World College documents. Newspaper clippings regarding labor(1940s-60s). Non-print items: photographs.\u003c/unittitle\u003e\u003ccontainer id=\"aspace_2db405f52fb12ceab4e413925300859e\" label=\"Mixed Materials\" type=\"Box\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref10\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNew York State Mediation Board: correspondence, notes, documents American Arbitration Association. Empire State College, Baruch College course materials. Correspondence (1975-76). One arbitration case: AFGE, I.N.S. Union pamphlets, including ILGW and WTUL.\n\u003c/unittitle\u003e\u003ccontainer id=\"aspace_a510c1a07b7d54f37c31cdc4211a894b\" label=\"Mixed Materials\" type=\"Box\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref11\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLt. Carlson case (Manson assisted in defense against Antisemitism charges. Socialist songbooks. Records of trip to Turkey (1960s). Turkish government contract. Labor arbitration cases including United Auto Workers, Federal Employees Metal Trades Council. Diego Rivera postcard set. Pamphlets. Non-print items include: pin, I.D. tags, audiotapes on seminars, meetings. \u003c/unittitle\u003e\u003ccontainer id=\"aspace_aa5e44897874d4b2dea3dab8a71b49fc\" label=\"Mixed Materials\" type=\"Box\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref12\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLabor relations, arbitration, mediation: correspondence, resumes, clippings, pamphlets. Turkey labor assistance reports, correspondence. Three Arrows membership list. New York State Dept. of Labor pamphlets. \u003c/unittitle\u003e\u003ccontainer id=\"aspace_37dac03ea5062418c46a3b2f631c0a89\" label=\"Mixed Materials\" type=\"Box\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref13\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence re: WPA strike (1935). Electrical Workers New Deal Group circulars. Book proposal: Labor Arbitration in the U.S. General arbitration correspondence. Appointment letter to NYU faculty. Biographical materials. Turkish Mediation, Arbitration Team correspondence. Newsletters, clippings. Handwritten manuscript on socialism by Algernon Lee. Arbitration memoranda. Non-print items: Photographs (mostly Manson). \u003c/unittitle\u003e\u003ccontainer id=\"aspace_4dc1064096cf9e4c722a7832d51bef95\" label=\"Mixed Materials\" type=\"Box\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLabor relations, law, education papers, pamphlets, clippings, notes, publications. Socialist Party pamphlet (1930). Radio program transcript on atom bomb. WWH Army correspondence and papers from Italian training institute (1945). Political writing by Manson (1948). National Conference for Clarifying the Constitution by Amendment Symposium paper (1937). Rand School of Social Science brochures. Personal correspondence and writings. Biographical materials. Papers re: Frank Schechter Estate. National Committee for Rural Schools correspondence. Passover and other religious booklets. American Veterans Committee paper. Non-print items: Marquee poster for Independent Labor Conference for G.I.s (c. 1948). \u003c/unittitle\u003e\u003ccontainer id=\"aspace_ae29adc7e31e242017b12cf08003b289\" label=\"Mixed Materials\" type=\"Box\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLabor relations, law, education papers, pamphlets, clippings, notes, publications. International Longshoremen and United Steelworkers labor disputes. League for Industrial Democracy brochures. International trade union information. New School papers. \u003c/unittitle\u003e\u003ccontainer id=\"aspace_5ecdb1a193c118daa400de96ef47b7ab\" label=\"Mixed Materials\" type=\"Box\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLabor relations, education papers, pamphlets, clippings, notes, publications. National Committee for Rural Schools minutes, correspondence, luncheon programs, other materials. Baltimore desegregation pamphlet. League for Industrial Democracy, NAACP, and other educational reform materials. Waterfront Commission of New York Harbor regulations, papers. Student recommendations, term papers on engineering unions. National War Labor Board materials. \u003c/unittitle\u003e\u003ccontainer id=\"aspace_015cbec27c54b68ee9177f1d8ed73010\" label=\"Mixed Materials\" type=\"Box\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePersonal correspondence. ERISA briefs (1979). Academic papers. New York State Board of Mediation materials. Maimonides Medical Center notes, correspondence. Hospital arbitration. District #65/Franklin Textiles arbitration materials. \u003c/unittitle\u003e\u003ccontainer id=\"aspace_22fafd81c041d385bfe1d0dfde745dfe\" label=\"Mixed Materials\" type=\"Box\"\u003e15\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNYS Board of Mediation agendas, case materials, correspondence, history, memos, minutes, notes, statistics. Clippings (1961). \"The Crisis of the American Trade Union Movement,\" report by Solomon Barkin. Dept. of Labor annual reports and materials. Grievance procedure, managerial philosophy, ethical culture, and pamphlets. Urban League for Greater New York materials. Union newspapers. Labor law materials. Labor and Civil Rights materials. National Academy of Arbitrators publications. \n\u003c/unittitle\u003e\u003ccontainer id=\"aspace_4b6c8159c351bc449c9c1386a1d74944\" label=\"Mixed Materials\" type=\"Box\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eWollman Lecture materials. Taylor Law paper and materials — Oswego (1969). Rabin talk. Assoc. of Labor Mediation Agencies materials. Newspapers. \"The Afﬂuent Afﬂiction\" (speech). NY State Labor Relations Board briefs and materials. 1965 calendar pages. College-Level Examination Program Booklet. Mediation Study. Empire State Evaluation Data (1974). NYC Employee Relations Program report (1963). Pamphlets. Course materials. \"Labor Relations at Columbia Univ.\" (paper). Grievance materials. Misc. correspondence and notes. \u003c/unittitle\u003e\u003ccontainer id=\"aspace_08b1005fccf95456693cd070a94223df\" label=\"Mixed Materials\" type=\"Box\"\u003e17\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTurkey travel materials, notes, correspondence, pamphlets, reports. NY State Labor Relations Board briefs and materials. Clippings re: Men in Uniform. CUNY budget and materials. Institute for Labor Relations proposal (Baruch College). \"What's New in Collective Bargaining Negotiations and Contracts\" newsletters. UF CT documents. \"Legislative Digest\" reports. Taylor Law materials. Board of Education materials. Newspapers, newsletters, pamphlets, booklets. Marathon Oil Co. annual report (1972). Analysis of SEEK Budget (spreadsheet). League for Industrial Democracy materials. \"Jewish-American Unionism, Its Birth Pangs and Contribution to the General American Labor Movement\" (pamphlet). Labor Mediation Exam (1954). Labor racketeering clippings. \u003c/unittitle\u003e\u003ccontainer id=\"aspace_20777f00e85fbe23208596d70b22f2cf\" label=\"Mixed Materials\" type=\"Box\"\u003e18\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eGovernor's Committee on Public Employee Relations Report (1968). National Committee for Rural Schools leaﬂet. Council Against Communist Aggression literature. Turkish materials. NJ Public Relations Employment Commission arbitration. Union booklets. Institute of Public Administration papers. Course materials. Newspapers. Pamphlets, newsletters, newspapers. Taft-Hartley paper. Manson diplomas, credentials and biographical materials. NYS School of Industrial Relations materials. Columbia Univ. Seminar on Labor Minutes. Esperanto Society materials. \u003c/unittitle\u003e\u003ccontainer id=\"aspace_fe908ca920f63a4c366268e546425fb0\" label=\"Mixed Materials\" type=\"Box\"\u003e19\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCourse materials. Arbitration correspondence. Pension plan bills and information. Court reform information. CUNY Grievance Procedure Manual W/drafts, notes, outlines, research, correspondence. Council Against Communist Aggression newsletters. \u003c/unittitle\u003e\u003ccontainer id=\"aspace_ae32c931e200f7be6aae607175a62fc8\" label=\"Mixed Materials\" type=\"Box\"\u003e20\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Mediators as Arbitrators\" (Manson article). Mediation Board materials. Arbitration cases. Public Employment Relations Board newsletter and materials. Rutgers Univ. Sociology Dept. materials. \n\u003c/unittitle\u003e\u003ccontainer id=\"aspace_91f46f0f5e374f9b57d02572ee328d2e\" label=\"Mixed Materials\" type=\"Box\"\u003e21\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCUNY United Federation of College Teachers contract course materials. Grievance procedures. CUNY Grievance Procedure Manual w/drafts, notes, outlines, research, correspondence. Chancellor's Advisory Committee on the Status of Women at CUNY booklet. Ofﬁce of Collective Bargaining press releases and materials. National Center for the Study of Collective Bargaining in Higher Education materials. Three Arrows Anniversary Journal (1976). Pamphlets. League for Industrial Democracy materials. MTA Arbitration materials (1977). US Dept. of Labor statistics. \n\u003c/unittitle\u003e\u003ccontainer id=\"aspace_58958dd3ff8602536092fd75b9d90bb4\" label=\"Mixed Materials\" type=\"Box\"\u003e22\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePocketbook Workers Union arbitration materials. \n\u003c/unittitle\u003e\u003ccontainer id=\"aspace_212143f4bc6f94dff2f07982bcab58ec\" label=\"Mixed Materials\" type=\"Box\"\u003e23\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref26\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eArbitration cases. \"How One Company Prepares For Collective Bargaining: A Step- by Step Guide.\" Resumes. Course materials. Clippings on labor issues. Martin Luther King, Jr. Scholarship Fund applications. University of Florence materials (c. 1945). Student Work. NYS Board of Mediation strike reports. National Academy of Arbitrators materials. \u003c/unittitle\u003e\u003ccontainer id=\"aspace_4f061c073381d26e2be69864d68dec3e\" label=\"Mixed Materials\" type=\"Box\"\u003e24\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBiographical data. Liberal Party materials. Spanish language materials. Postcards. United Hatters International materials. Pamphlets. World University materials. Workman's Circle circulars. Notes. Correspondence. Esperanto dictionary. \"Reunion of Old Timers\" testimonial luncheon program. Correspondence. US Court of Appeals petitions. Mediation reports, articles. Rutgers Univ. arbitration materials. Course materials. \"The Negro and the Labor Movement\" (paper). CUNY cases/ grievances. CUNY contract.\u003c/unittitle\u003e\u003ccontainer id=\"aspace_7d7238752ae952b407a78df3832863d9\" label=\"Mixed Materials\" type=\"Box\"\u003e25\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref28\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCUNY salary schedules and materials. Bureau of Higher Educ. contracts and papers. Baruch College faculty publications. Lab technician salary and beneﬁts info. Michigan Bureau of Labor Statistics publication. Mediation materials. Public Employee Collective Bargaining materials. Legislative Conference: Workshop. \u003c/unittitle\u003e\u003ccontainer id=\"aspace_f09a35ec85907bfc322f3de588df7b56\" label=\"Mixed Materials\" type=\"Box\"\u003e26\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref29\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLabor lecture notes and materials. Cornell teaching certiﬁcate. \"Bar, Bench and Table\" (published play). Mediation materials. Testimonial Album honoring Manson (1956). \"Automation\" New School Seminar materials (1962). \"Economic Trends and Outlook\" newsletter. \"The Constitution and Social Issues,\" Charles Beard (pamphlet). Clippings. Course materials. National Committee for Rural Schools materials. NYS Labor Relations Bureau materials. \"The New Leader\" (pamphlets). Articles on science/medicine. \"Internal Union Affairs and the Need for Training Leaders\" (paper). NYU Conference on Labor. Statements by labor representatives. Clippings. League for Industrial Democracy correspondence. \"Goals for Workers' Education\" (paper). \u003c/unittitle\u003e\u003ccontainer id=\"aspace_544e892f9eff12bd891b8bc6d65deef2\" label=\"Mixed Materials\" type=\"Box\"\u003e27\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref30\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence. Port of Authority arbitration materials. Bakers Union arbitration materials. Workshop on Labor Relations meeting notes. Clippings. Nurses Association materials. \"Manual for an Economic Security Programs\" (State Nurses Association guide). \"Problems and Standards in Labor Arbitration: A Study of the New York State Experience,\" Manson dissertation (1955). NYS Board of Mediation \"Table of Cases\" and other materials. \u003c/unittitle\u003e\u003ccontainer id=\"aspace_051e9beaebb4718ca0930cefcf17c132\" label=\"Mixed Materials\" type=\"Box\"\u003e28\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref31\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFiles: Pensions. Personal data. Personnel 1956. Police Commissioners. Population. Productivity. Quotations. Radio \u0026amp; Television. Rand School. Retirement. Right-to- Work Laws. Ratings 1952. Schmeitz, Eric J. Sherman Act 1890. Shop Steward Training. Social Security. Social Service Agencies. Speeches—New School—Labor Management. Luncheon: Carey \u0026amp; Blanchard. Stark, Louis Memorial Fund. State Labor Relations Boards. Strikes. Taft-Hartley Act. Taxation. Teaching materials. Three Arrows. Thruway Project. Textile Unions and Industry. Time and Motion study. Transit. Tripartite Agencies. Unemployment Insurance. Union ﬁles. Uvi1ler— Correspondence. Veterans Affairs. Wages. Welfare. Workers Education and Training. \u003c/unittitle\u003e\u003ccontainer id=\"aspace_0b5cd7a2680a1e6684563c2c18ecae1b\" label=\"Mixed Materials\" type=\"Box\"\u003e29\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref32\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eArbitration proceedings. Student work. American Arbitration Association materials. \u003c/unittitle\u003e\u003ccontainer id=\"aspace_d651bb6056c68edf274f2704f8be89e1\" label=\"Mixed Materials\" type=\"Box\"\u003e30\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref33\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eArbitration proceedings. National Academy of Arbitrators correspondence and materials. Student work. Manson selective service papers (1942). Three Arrows materials. Workmen's Circle correspondence. National Committee for Rural Schools. \"Index to Some Key and Unusual Decisions of the National Labor Relations Board and the Courts\" (1940). \"Automobile Facts\" (newsletter). Clippings. Press releases. \u003c/unittitle\u003e\u003ccontainer id=\"aspace_0b6e771d1b9e227fa03b7d5400252c17\" label=\"Mixed Materials\" type=\"Box\"\u003e31\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref34\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCourse materials. Labor mediation materials. Correspondence. Clippings. Pamphlets. US Court of Appeals racial integration materials. Columbia labor materials. Assoc. of State Mediation Agencies proceedings. Comparative labor law materials. Student work. New School Labor Management Luncheon materials and C. W. Kinsman papers. \u003c/unittitle\u003e\u003ccontainer id=\"aspace_eed03f22d6dbd435bebb9f761d39bace\" label=\"Mixed Materials\" type=\"Box\"\u003e32\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref35\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLabor mediation writings, notes, reports, correspondence, publications. HIP annual report (1960). Course materials. Pamphlets. Clippings. Correspondence. International labor relations materials. NYS Board of Mediation personnel (1950). NYU 8th Annual Conference on Labor Outline of Lectures (1953). NYU materials. Job evaluation materials. Files: Health and Welfare. Health Insurance. Hospitals. Housing 1955-1956, 1954. Hudson Shore Labor School. Human Relations and Psychology. Human Relations Case Studies. Industrial Relations Research Association. Industries—1 95 6. Inter-American Study Conference. International ﬁles. \u003c/unittitle\u003e\u003ccontainer id=\"aspace_0c5ec429e964ebd09c1b32fc63a38267\" label=\"Mixed Materials\" type=\"Box\"\u003e33\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref36\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMalcolm X Assassination clippings scrapbook. Socialist Workers Party publications, correspondence, clippings. Trotsky and other pamphlets. \"International Socialist Review\" and \"Young Socialist\" periodicals. \u003c/unittitle\u003e\u003ccontainer id=\"aspace_e6ba74a4bea355423cc49f9ecf9cab57\" label=\"Mixed Materials\" type=\"Box\"\u003e34\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref37\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eUnion newsletter. \"Reﬂections Upon Labor Arbitration,\" by Archibald Cox. Student work. \"Problems and Standards in Labor Arbitration: A Study of New York State Experience,\" Manson dissertation (195 5). \u003c/unittitle\u003e\u003ccontainer id=\"aspace_3a737b6e1a4d8687179060411df38c4d\" label=\"Mixed Materials\" type=\"Box\"\u003e35\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref38\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eStaff meetings materials. NYS Board of Mediation materials. Mediation cases. Correspondence. Federal Mediation and Conciliation Service press releases. \"The Goals of Higher Adult Education, a Working Conference,\" materials. National Committee for Rural Schools minutes and materials. Joint Legislation Committee on Industrial and Labor Relations materials. Mid-Atlantic Regional Conference: The President's Committee on Education Beyond the High School proceedings.\u003c/unittitle\u003e\u003ccontainer id=\"aspace_7a0573b2e9d6189b26704ba20b6bb1ba\" label=\"Mixed Materials\" type=\"Box\"\u003e36\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref39\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eClippings. National Center for the Study of Collective Bargaining in Higher Education newsletter. Labor law notes. State mediation cases. NYS Mediation Board materials. \u003c/unittitle\u003e\u003ccontainer id=\"aspace_7953e16da44a6305517eb2f08967e20d\" label=\"Mixed Materials\" type=\"Box\"\u003e37\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref40\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAssorted pamphlets and materials, including: Economics of Collective Bargaining, Labor relations, Longshore Industry, Lardner Grifﬁn Act, Assoc. of State Mediation Agencies, Actors' Equity, Federal Mediation and Conciliation Service, foreign delegations, France. Arbitration cases. Spanish language materials. Department of Labor newsletter. \u003c/unittitle\u003e\u003ccontainer id=\"aspace_b8d0eeb81d355f7d1fb35ea5aff73139\" label=\"Mixed Materials\" type=\"Box\"\u003e38\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref41\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence. National Academy of Arbitrators materials. NYS Board of Mediation materials. National Committee for Rural Schools materials. Workmen's Circle and union newsletters. Liberal Party materials. Clippings. Pamphlets. Course materials. American Socialist Society By-Laws. Bibliography index cards for dissertation. Civil service material. Mediator job descriptions.\u003c/unittitle\u003e\u003ccontainer id=\"aspace_8714b60420622e06fbd5b58150e362eb\" label=\"Mixed Materials\" type=\"Box\"\u003e39\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref42\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNYS Board of Mediation annual reports, cases, statistics, Civil Service lists, correspondence, memos, personnel information, other materials. University of Buffalo correspondence and materials. Clippings. Pamphlets. \u003c/unittitle\u003e\u003ccontainer id=\"aspace_b51b8cd8b75e870521d33c832656bf49\" label=\"Mixed Materials\" type=\"Box\"\u003e40\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref43\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePhotographs: Portraits and Conferences\u003c/unittitle\u003e\u003ccontainer id=\"aspace_dde064595b7644e72057b712ca39670c\" label=\"Mixed Materials\" type=\"Box\"\u003eA006\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref55\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePhotographs: John P. Boland Dinner\u003c/unittitle\u003e\u003cunitdate normal=\"1941/1942\" type=\"inclusive\"\u003e1941-1942\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ace39e0bec6278c17f2e3889bf8e0f67\" label=\"Mixed Materials\" type=\"Box\"\u003eXOS003\u003c/container\u003e\u003ccontainer parent=\"aspace_ace39e0bec6278c17f2e3889bf8e0f67\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref56\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePhotograph: Panoramic of Unidentified Group\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c14c7298f21f53ba24473e5af2c6d95d\" label=\"Photographs\" type=\"Flat-file\"\u003e7\u003c/container\u003e\u003ccontainer parent=\"aspace_c14c7298f21f53ba24473e5af2c6d95d\" type=\"Drawer\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

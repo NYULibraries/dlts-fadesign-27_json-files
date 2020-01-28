@@ -1,0 +1,152 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arc_156_brooklyn_engineers_club"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Brooklyn Engineers' Club publications\n                    \u003cnum\u003eARC.156\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Patricia Glowinski"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "December 17, 2010."
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2016-12-19T11:21-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Brooklyn Engineers' Club publications"
+                },
+                "unitdate": {
+                    "normal": "1897/1973",
+                    "type": "inclusive",
+                    "value": "1897-1973"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.67 linear feet"
+                        },
+                        {
+                            "value": "in four manuscript boxes."
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The Brooklyn Engineers' Club publications span the years 1897 to 1973 and are housed in four manuscript boxes. Included in the collection are annual proceedings and monthly bulletins published by the Club. The Brooklyn Engineers' Club was incorporated on December 29, 1896. The purpose of the Club was to promote social and professional intercourse and to advance engineering knowledge and practice. Membership consisted of four levels: Corporate, Associate, Non-resident, and Honorary members. Corporate and Associate members were required to either live or work in one of the five boroughs of New York City. The Brooklyn Engineers' Club clubhouse was located at 117 Remsen Street (between Clinton and Henry Streets) in the neighborhood of Brooklyn Heights. As of 2010, the brownstone building was the home to Congregation B’nai Avraham and to Kiddie Korner Preschool."
+                },
+                "unitid": {
+                    "value": "ARC.156"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid554004",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "ARC.156 4 of 4"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref2",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref4",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Brooklyn Engineers' Club publications, ARC.156, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Gift of the Brooklyn Engineers' Club, date unknown, and Kathy Russo, 2011."
+            }
+        },
+        "bioghist": {
+            "id": "ref1",
+            "head": "Historical note",
+            "p": {
+                "value": "The Brooklyn Engineers' Club was incorporated on December 29, 1896. The purpose of the Club was to promote social and professional intercourse and to advance engineering knowledge and practice. Membership consisted of four levels: Corporate, Associate, Non-resident, and Honorary members. Corporate and Associate members were required to either live or work in one of the five boroughs of New York City. The Brooklyn Engineers' Club clubhouse was located at 117 Remsen Street (between Clinton and Henry Streets) in the neighborhood of Brooklyn Heights. As of 2010, the brownstone building was the home to Congregation B’nai Avraham and to Kiddie Korner Preschool."
+            }
+        },
+        "scopecontent": {
+            "id": "ref6",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Box 4 contains: Brooklyn Engineers' Club \n                \u003cemph render=\"italic\"\u003eBulletin\u003c/emph\u003e, 1929 to 1956 and \n                \u003cemph render=\"italic\"\u003eThe Brooklyn Engineer\u003c/emph\u003e, 1956 to 1973."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Engineering |x Societies, etc."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Engineers |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Brooklyn Engineers' Club."
+            }
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "pr401_fried"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Louis H. Fried Photographs  \u003clb/\u003e  1930-1939  \u003clb/\u003e \u003cnum\u003ePR 401\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Marybeth Kavanagh"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-08-14T14:25:43\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Fried, Louis H."
+                    }
+                },
+                "unittitle": {
+                    "value": "Louis H. Fried photographs"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "1930-1939"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "47 items"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 folder"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "This collection consists of 47 black and white photographs of New York City.  The photographs were taken by amateur photographer Louis H. Fried between 1930 and 1939."
+                },
+                "unitid": {
+                    "value": "PR 401"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_340ca5f18aa44a76ba21673142be882b",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open to qualified researchers by appointment only."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_1065ba67b5e628824813c48a90ebc01f",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "The collection should be cited as: Louis H. Fried Photographs, PR 401, Department of Prints, Photographs, and Architectural Collections, New-York Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_201cf6abbd54e5d7a5dd036790cc6024",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Gift of Sharon Ziv, 2019."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_a4599ca5b76649acee2a3bc8e2360f1e",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Most of the images have handwritten captions and dates."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Buildings -- New York (State)  -- New York. "
+                },
+                {
+                    "source": "ingest",
+                    "value": "Parades -- New York (State) -- New York   -- Photographs"
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_a2d368a0d5dab0a1ca9b98d66b43fc2a\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003ePhotographs\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1930-1939\u003c/unitdate\u003e\u003ccontainer id=\"aspace_71262d89fbc67153450aa6525de452c5\" label=\"Graphic Materials\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_03cd5be402bb67e1533baaa00c92f0e4\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003e47 photographs of New York City.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e"
+        }
+    }
+}

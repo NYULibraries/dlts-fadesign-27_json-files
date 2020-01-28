@@ -1,0 +1,137 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_776"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Collection of African Colonial Collectible Sticker Albums \u003cnum\u003eTAM.776\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Jasmine Sykes-Kunk"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-02-27T14:40:10\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Collection of African Colonial Collectible Sticker Albums"
+                },
+                "unitdate": {
+                    "normal": "1920/1975",
+                    "type": "inclusive",
+                    "value": "circa 1920-1975, undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "2.0 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 manuscript box, 1 half manuscript box, 1 flat box and 2 oversize flat folders"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The materials in this collection are primarily albums to hold collectible stickers and stamps. Some of the albums were made by corporations as promotional and educational tools to market their products. The albums all depict life, people, and landscapes of European colonies in Africa, with the bulk of albums focused on the Democratic Republic of Congo (formerly known as the Belgian Congo)."
+                },
+                "unitid": {
+                    "value": "TAM.776"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "mul"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_1cd3619dcae67dd14f5ef56315c8e745",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_579c1ae890a90970740a694ce5403f88",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Collection of African Colonial Collectible Sticker Albums; TAM 776; box number; folder number or item identifier; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_b0386038e2fabd6a1d62bb8789f16426",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "There is no documentation concerning the acquisition of these materials. The accession number associated with this collection is 2019.014."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_d9b1da4131f414cb93add5c62ccbdbab",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection also includes an undated poster for a student protest of colonialism, a promotional poster about rubber plantations in the Belgian Congo, and three prints illustrating life in the colonies of Kenya and Rhodesia."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Cigarette cards"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Imperialism."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Colonies--Africa"
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_9db4898428165f46f431fa0f822a7527\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMilitary Uniforms of the British Empire Overseas\u003c/unittitle\u003e\u003cunitdate normal=\"1930/1940\" type=\"inclusive\"\u003ecirca 1930-1940, undated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_c92e8e209f8a18a043410630ebcd7295\" label=\"Mixed Materials [31142063349412]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_c92e8e209f8a18a043410630ebcd7295\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_83dc0ba395dc0c1370fa9af1af67e048\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAlbum Congo\u003c/unittitle\u003e\u003cunitdate normal=\"1930/1960\" type=\"inclusive\"\u003ecirca 1930-1960, undated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_96701e406e7f05da9f19fdd5df1804a2\" label=\"Mixed Materials [31142063349412]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_96701e406e7f05da9f19fdd5df1804a2\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_31c8685ed555fdcd391798b058805ae1\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAfrika\u003c/unittitle\u003e\u003cunitdate normal=\"1952/1952\"\u003e1952\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_5b7e35e249d3c011d3feb26f7d175107\" label=\"Mixed Materials [31142063349412]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5b7e35e249d3c011d3feb26f7d175107\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_3cdb49c4be3e0eda7c165c67d2620f09\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBelgisch Congo Geschiedenis en Ontwikkeling\u003c/unittitle\u003e\u003cunitdate normal=\"1920/1960\" type=\"inclusive\"\u003ecirca 1920-1960\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_7c7926d7c10b2bc14d369f71b6859281\" label=\"Mixed Materials [31142063349412]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_7c7926d7c10b2bc14d369f71b6859281\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_73d9c619aa71ccd9e53f6036be12060d\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAfrica Albums\u003c/unittitle\u003e\u003cunitdate normal=\"1960/1970\" type=\"inclusive\"\u003e1960s, undated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_03875155f8ef9c8ff2db0dd329093840\" label=\"Mixed Materials [31142063349412]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_03875155f8ef9c8ff2db0dd329093840\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_18f4b3c6fb5b3990774d1dc3856d28f1\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePeople of the World Albums\u003c/unittitle\u003e\u003cunitdate normal=\"1940/1960\" type=\"inclusive\"\u003e1940-1960, undated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_d3b86559e59afc2bc71af57b8bce0eac\" label=\"Mixed Materials [31142063349412]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d3b86559e59afc2bc71af57b8bce0eac\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_a473c10ecdcf787b99e9f5573956fc06\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePeople of the World Albums\u003c/unittitle\u003e\u003cunitdate normal=\"1960/1970\" type=\"inclusive\"\u003e1960s\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_e09dc0a340f97d9f51a2625c9b4a3cb7\" label=\"Mixed Materials [31142063349412]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e09dc0a340f97d9f51a2625c9b4a3cb7\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_272aec33edea4d07c63b8f2381c584fa\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eVoyage de Sa Majesté le Roi Baudoin Premier au Congo Belge en 1955\u003c/unittitle\u003e\u003cunitdate normal=\"1955/1959\" type=\"inclusive\"\u003ecirca 1955, undated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_11ff505468951685028796a6c021c5ac\" label=\"Mixed Materials [31142063349420]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_11ff505468951685028796a6c021c5ac\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_43579fb4bb0ce8f15894eea89117a3a4\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBelgisch Congo Belge Albums\u003c/unittitle\u003e\u003cunitdate normal=\"1940/1950\" type=\"inclusive\"\u003e1940s, undated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_12fbb6989fc0305f43c4dfa3304d6858\" label=\"Mixed Materials [31142063349420]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_12fbb6989fc0305f43c4dfa3304d6858\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_2244211bd71904cb736f7cf3a39a8b97\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCosmorama de Africa\u003c/unittitle\u003e\u003cunitdate normal=\"1950/1970\" type=\"inclusive\"\u003e1950-1970, undated\u003c/unitdate\u003e\u003ccontainer altrender=\"Flat Box - 12 x 15.25 lengthwise\" id=\"aspace_5885f4e84945da029b5093cb22126997\" label=\"Mixed Materials [31142063349438]\" type=\"Box\"\u003e3\u003c/container\u003e\u003ccontainer parent=\"aspace_5885f4e84945da029b5093cb22126997\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_36dc1c470460a17894c7a0b0b8b71bdb\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDeutsche Kolonien\u003c/unittitle\u003e\u003cunitdate normal=\"1935/1935\"\u003e1935\u003c/unitdate\u003e\u003ccontainer altrender=\"Flat Box - 12 x 15.25 lengthwise\" id=\"aspace_d73f91dfe857d6f37c9acc620e2d2c80\" label=\"Mixed Materials [31142063349438]\" type=\"Box\"\u003e3\u003c/container\u003e\u003ccontainer parent=\"aspace_d73f91dfe857d6f37c9acc620e2d2c80\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_210acf08554e3c193e644703b1193d41\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNotre Congo Album\u003c/unittitle\u003e\u003cunitdate normal=\"1948/1948\"\u003e1948\u003c/unitdate\u003e\u003ccontainer altrender=\"Flat OS Box - 17 - lengthwise\" id=\"aspace_7bd3cae6d5554d1daac9fd5d45028730\" label=\"Mixed Materials\" type=\"Box\"\u003eShared Tamiment 054\u003c/container\u003e\u003ccontainer parent=\"aspace_7bd3cae6d5554d1daac9fd5d45028730\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_82504bf2e38c450443054c4f59e2e344\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAfrican Colonial Prints and Poster\u003c/unittitle\u003e\u003cunitdate normal=\"1940/1960\" type=\"inclusive\"\u003e1940-1960, undated\u003c/unitdate\u003e\u003ccontainer altrender=\"Flat OS Box - 17 - lengthwise\" id=\"aspace_171851f3d729aecee727237f8dc3fe43\" label=\"Mixed Materials [31142046746791]\" type=\"Box\"\u003eShared Tamiment 048\u003c/container\u003e\u003ccontainer parent=\"aspace_171851f3d729aecee727237f8dc3fe43\" type=\"Folder\"\u003e  11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_57bcedf3c614a0963f4d7e6e07a57912\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBelgisch Kong Poster\u003c/unittitle\u003e\u003cunitdate normal=\"1940/1946\" type=\"inclusive\"\u003ecirca 1945, undated\u003c/unitdate\u003e\u003ccontainer altrender=\"Oversize Folder - Half Case\" id=\"aspace_f26880111890ce5c5279d261eba62345\" label=\"Mixed Materials [31142062673382]\" type=\"Folder\"\u003e12 Right\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

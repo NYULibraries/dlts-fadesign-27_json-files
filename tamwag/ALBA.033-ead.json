@@ -1,0 +1,141 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "alba_033"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Papers of Bernard N. Danchik\n                    \u003cnum\u003eALBA.033\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Wendy Scheir, September 2004"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "2009"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-28T16:24-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Danchik, Bernard N., 1915-1938"
+                    }
+                },
+                "unittitle": {
+                    "value": "Bernard N. Danchik Papers"
+                },
+                "unitdate": {
+                    "normal": "1936/1937",
+                    "type": "inclusive",
+                    "value": "1936-1937"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.5 linear feet"
+                        },
+                        {
+                            "value": "(3 boxes)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Bernard N. Danchik was a New York City clerk and gymnast who traveled to Barcelona, Spain in 1936 with eight other American athletes to participate in the People’s Olympics, which were being held in protest against the Berlin Olympics in Nazi Germany. On July 19, the day the People’s Olympics were set to begin, fighting broke out on the streets in Barcelona, marking the beginning of the Spanish Civil War. The People’s Olympics were canceled, and Danchik returned home with many photographs and souvenirs to commemorate all that he had witnessed."
+                },
+                "unitid": {
+                    "value": "ALBA.033"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref5",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open for research without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "ref36",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: \n                \u003clb/\u003e\n                \u003clb/\u003eIdentification of item, date; Collection name; Collection number; box number; folder number; \n                \u003clb/\u003eTamiment Library/Robert F. Wagner Labor Archives \n                \u003clb/\u003eElmer Holmes Bobst Library \n                \u003clb/\u003e70 Washington Square South \n                \u003clb/\u003eNew York, NY 10012, New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "ref8",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "All through his journey to the People's Olympics, Danchik kept a journal, and collected mementos, souvenirs and photographs. When he got home, he compiled these into a scrapbook along with letters and news articles about all that he had witnessed."
+            }
+        },
+        "scopecontent": {
+            "id": "ref9",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "Series II, Spanish Civil War Letters, consists of letters Lou Dalton and Jerry Weinberg wrote to Danchik from Spain. Dalton, an ambulance driver, writes about witnessing emergency surgery and describes the International Brigades base at Albacete, while Weinberg conveys his strong anti-Trotsky feelings."
+            }
+        },
+        "controlaccess": {
+            "corpname": {
+                "source": "local",
+                "value": "Workers Olympics."
+            }
+        },
+        "dsc": {
+            "value": "\n            \u003cc01 id=\"ref14\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries I: People's Olympics\u003c/unittitle\u003e\n                \u003c/did\u003e\n                \u003cc02 id=\"ref15\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAmerican team (photographic negative)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid55256\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid55256\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate\u003eJul 1936\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref16\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eBurley, Charles\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid55255\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid55255\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate normal=\"1936/1937\" type=\"inclusive\"\u003eundated , Nov 1936\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref17\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCommittee on Fair Play in Sports: Correspondence\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid55254\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid55254\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate\u003eMay 1936-Jul 1936\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref18\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCommittee on Fair Play in Sports: Press Release\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid55253\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid55253\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate\u003eJul 1936\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref19\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eDanchik, Bernard: Correspondence\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid55252\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid55252\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate\u003eJul 1936\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref20\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eDanchik, Bernard: Passport and \"Notice to Bearer of Passports\" (pamphlet)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid55251\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid55251\" type=\"Folder\"\u003e6\u003c/container\u003e\n                        \u003cunitdate\u003eMar 1936-Jul 1936\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref21\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eLaGuardia, Fiorello: Telegram of Good Wishes to Departing Team\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid55250\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid55250\" type=\"Folder\"\u003e7\u003c/container\u003e\n                        \u003cunitdate\u003eJul 2, 1936\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref22\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eList of American Team Names with Descriptions\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid55249\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid55249\" type=\"Folder\"\u003e8\u003c/container\u003e\n                        \u003cunitdate normal=\"1936/1937\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref23\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eList of Team Names, with U.S. Affiliations (pencil)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid55248\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid55248\" type=\"Folder\"\u003e9\u003c/container\u003e\n                        \u003cunitdate normal=\"1936/1937\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref24\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eNewspaper Clippings\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid55247\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid55247\" type=\"Folder\"\u003e10\u003c/container\u003e\n                        \u003cunitdate normal=\"1936/1937\" type=\"inclusive\"\u003e1936-1937\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref25\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eOlimpiada Popular de Barcelona: Press Release\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid55246\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid55246\" type=\"Folder\"\u003e11\u003c/container\u003e\n                        \u003cunitdate\u003eJul 1936\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003cc03 id=\"ref26\" level=\"otherlevel\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eOlympic Gymnastics Tryouts: Program and Score Card\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid55245\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                            \u003ccontainer parent=\"cid55245\" type=\"Folder\"\u003e12\u003c/container\u003e\n                            \u003cunitdate\u003eJun 1936\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c03\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref27\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eProgram of Sporting Events for the Peoples Olympiad\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid55244\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid55244\" type=\"Folder\"\u003e13\u003c/container\u003e\n                        \u003cunitdate\u003eJul 1936\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref28\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eThomas, Norman: Telegram to Olimpiada Barcelona\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid55243\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid55243\" type=\"Folder\"\u003e14\u003c/container\u003e\n                        \u003cunitdate\u003eJul 1936\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref29\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eZimmerman, Charles/Dressmakers Union, Local 22: Telegram\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid55242\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid55242\" type=\"Folder\"\u003e15\u003c/container\u003e\n                        \u003cunitdate\u003eJul 1936\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref30\" level=\"item\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eScrapbook (with photographs and ephemera; condition fragile)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid55241\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003cunitdate normal=\"1936/1936\"\u003e1936\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref31\" level=\"item\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eOlimpiada Barcelona athletic jacket; pennant; armband; uniform tank; uniform jersey\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid55240\" type=\"Box\" label=\"Mixed materials\"\u003e3\u003c/container\u003e\n                        \u003cunitdate normal=\"1936/1936\"\u003e1936\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref32\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries II: Spanish Civil War Letters\u003c/unittitle\u003e\n                \u003c/did\u003e\n                \u003cc02 id=\"ref33\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eDalton, Lou\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid55239\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid55239\" type=\"Folder\"\u003e16\u003c/container\u003e\n                        \u003cunitdate\u003eJul 1937-Aug 1937\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref34\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eWeinberg, Jerry\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid55238\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid55238\" type=\"Folder\"\u003e17\u003c/container\u003e\n                        \u003cunitdate\u003eApr 1937-May 1937\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n            \u003c/c01\u003e\n        "
+        }
+    }
+}

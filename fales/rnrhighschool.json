@@ -1,0 +1,177 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-F",
+            "value": "rnrhighschool"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Melbourne Rock 'n' Roll High School Archive\u003clb/\u003e1991-1998\u003clb/\u003e \u003cnum\u003eMSS.325\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Liza Harrell-Edge, 2011."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Fales Library and Special Collections"
+                },
+                "address": {
+                    "addressline": [
+                        "Fales Library and Special Collections",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "3rd Floor",
+                        "New York, NY 10012",
+                        "Phone: (212) 998-2596",
+                        "fales.library@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-05-19T19:59:15\u003c/date\u003e"
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Fales Library and Special Collections"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Milne, Lachlan"
+                    }
+                },
+                "unittitle": {
+                    "value": "Melbourne Rock 'n' Roll High School Archive"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "1991-1998"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(2 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "MSS.325"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_173807f985866f3c2049f6c41022197c",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_918ca2f23e1288b02d17ba55ca2e99c8",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the\nfollowing form:\u003clb/\u003e\u003clb/\u003e\nIdentification of item,  date (if known); Melbourne Rock n Roll Highschool Archive; MSS 325; box number; folder number; Fales Library and Special Collections, New York University Libraries."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_f04f47e874618b2a51ff392cb4a20cdc",
+            "head": "Provenance",
+            "p": {
+                "value": "The collection was donated to Fales by Lachlan Milne in 2010."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_e6d7dc228ba3ecde8b9cc91c0a6b5019",
+            "head": "Historical Note",
+            "p": {
+                "value": "- Milne, Lachlan. Email correspondence, February 2012"
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_ae72b3cda1921d1ebf11c0acddfca8f3",
+            "head": "Scope and Content",
+            "p": {
+                "value": "The Melbourne Rock 'n' Roll Highschool Archive contains administrative materials, including grant applications and a student application; promotional materials including flyers, stickers and tickets for performances by associated bands; issues of Rock 'n' Roll High School Newsletter; press about Rock 'n' Roll High School including issues of Polymer News and Westinghouse Magazine; media, including CDs, audiocassettes and a 7\" vinyl of recordings by bands involved with Rock 'n' Roll High School."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Music |x Social aspects."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Musicians -- 1990-2000"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Rock music."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Rock musicians."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Women rock musicians."
+                },
+                {
+                    "source": "local",
+                    "value": "Rock music |z Australia."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Riot grrrl movement."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Hecate (Musical group)."
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref1\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: Administrative, Promotional, and Press\u003c/unittitle\u003e\u003cphysdesc altrender=\"whole\"\u003e\u003cextent altrender=\"materialtype spaceoccupied\"\u003e1.5 Linear Feet\u003c/extent\u003e\u003cextent altrender=\"carrier\"\u003e(2 boxes)\u003c/extent\u003e\u003c/physdesc\u003e\u003c/did\u003e\u003cc id=\"aspace_ref8\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAdministrative\u003c/unittitle\u003e\u003ccontainer id=\"aspace_58b6a06f18938264d2c99dd6771135e2\" label=\"Mixed Materials (31142054898203)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_58b6a06f18938264d2c99dd6771135e2\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref5\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFlyers and Promotional Materials\u003c/unittitle\u003e\u003ccontainer id=\"aspace_01bf29a3396659d444f4ae3a1ceeefb3\" label=\"Mixed Materials (31142054898203)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_01bf29a3396659d444f4ae3a1ceeefb3\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref7\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRock 'n' Roll High School Newsletters\u003c/unittitle\u003e\u003cunitdate normal=\"1991/1995\" type=\"inclusive\"\u003e1991-1993, 1995\u003c/unitdate\u003e\u003ccontainer id=\"aspace_83c8396ef744289fce59ca232cfde63c\" label=\"Mixed Materials (31142054898203)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_83c8396ef744289fce59ca232cfde63c\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref6\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePress\u003c/unittitle\u003e\u003ccontainer id=\"aspace_db5cd4749e3178b95fbbb9f5cd97a057\" label=\"Mixed Materials (31142054898203)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_db5cd4749e3178b95fbbb9f5cd97a057\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref46\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLiner notes from Melbourne Rock 'n' Roll High School Vol. 1\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e485c0344297c663772f5f0337d1ec0c\" label=\"Mixed Materials (31142054898203)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e485c0344297c663772f5f0337d1ec0c\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_8ba35a9eaa98666b2ad962d0093c1f25\"\u003e\u003chead\u003eGeneral\u003c/head\u003e\u003cp\u003eFrom original ID: 325.0016. See access copy: ID 325.0019.\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref2\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries II: Audio\u003c/unittitle\u003e\u003c/did\u003e\u003caccessrestrict id=\"aspace_158731f9c246c2c4a3a0a96ba8c85a80\"\u003e\u003chead\u003eConditions Governing Access\u003c/head\u003e\u003cp\u003eAccess copies may not be available, please ask a Fales archivist.\u003c/p\u003e\u003c/accessrestrict\u003e\u003carrangement id=\"aspace_1b2132f298fda087d003b19c2d981ccb\"\u003e\u003chead\u003eArrangement\u003c/head\u003e\u003cp\u003eThe following series preserves analog and digital audio recordings arranged alphabetically.\u003c/p\u003e\u003c/arrangement\u003e\u003cc id=\"aspace_ref9\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eBabes in Toyland - To Mother (Catatonic, Mad Pilot, Primug, Laugh my Head off, Spit to See the Shine, Ripe, Quiet Room)\u003c/unittitle\u003e\u003cunitid\u003eID: 325.0001\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e8d125ab0982e39179124374ccd321da\" label=\"Media (31142063602646)\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_e8d125ab0982e39179124374ccd321da\" type=\"Media\"\u003eID: 325.0001\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_25e0830f6e78c76d318714f63deaa25e\"\u003e\u003chead\u003eGeneral\u003c/head\u003e\u003cp\u003eFormat: audiocassette\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003cc id=\"aspace_ref11\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eBindi\u003c/unittitle\u003e\u003cunitid\u003eID: 325.0002\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_3602dceba7558df1934fb8773053fb38\" label=\"Media (31142063602646)\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_3602dceba7558df1934fb8773053fb38\" type=\"Media\"\u003eID: 325.0002\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_6b61ef687fe6625b37182ccaf1f4273c\"\u003e\u003chead\u003eGeneral\u003c/head\u003e\u003cp\u003eFormat: audiocassette\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003cc id=\"aspace_ref34\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eBindi\u003c/unittitle\u003e\u003cunitid\u003eID: 325.0013\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003e1998\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d1719f48628d31868c6970aa149bd497\" label=\"Media (31142063602646)\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_d1719f48628d31868c6970aa149bd497\" type=\"Media\"\u003eID: 325.0013\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_6952feb49e179f626f8b0235d01cff16\"\u003e\u003chead\u003eGeneral\u003c/head\u003e\u003cp\u003eFormat: CD\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eblinde SPECTATOR\u003c/unittitle\u003e\u003cunitid\u003eID: 325.0004\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2e034d4acbb6fedf44d12bc0ecf490b9\" label=\"Media (31142063602646)\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_2e034d4acbb6fedf44d12bc0ecf490b9\" type=\"Media\"\u003eID: 325.0004\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_ce57f61fe86cd0d7c564ad56a45801e6\"\u003e\u003chead\u003eGeneral\u003c/head\u003e\u003cp\u003eFormat: audiocassette\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003cc id=\"aspace_ref13\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eCraw - blimey...\u003c/unittitle\u003e\u003cunitid\u003eID: 325.0003\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_91a1d87ce9c7e3b1b3fb0f6ba72a8f57\" label=\"Media (31142063602646)\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_91a1d87ce9c7e3b1b3fb0f6ba72a8f57\" type=\"Media\"\u003eID: 325.0003\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_49f7b5f00e145c748b6cac0679294ec4\"\u003e\u003chead\u003eGeneral\u003c/head\u003e\u003cp\u003eFormat: audiocassette\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eHecate\u003c/unittitle\u003e\u003cunitid\u003eID: 325.0005\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003e1995\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2a9e0de31c2e0cc1b7efac48438937b2\" label=\"Media (31142063602646)\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_2a9e0de31c2e0cc1b7efac48438937b2\" type=\"Media\"\u003eID: 325.0005\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_33ae5e09dc626c7258103f9ba7bcbd3e\"\u003e\u003chead\u003eGeneral\u003c/head\u003e\u003cp\u003eFormat: audiocassette\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003cc id=\"aspace_ref36\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eHecate\u003c/unittitle\u003e\u003cunitid\u003eID: 325.0014\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003e1996\u003c/unitdate\u003e\u003ccontainer id=\"aspace_3312dbbe1aba14d76ec93ee8873c6133\" label=\"Media (31142063602646)\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_3312dbbe1aba14d76ec93ee8873c6133\" type=\"Media\"\u003eID: 325.0014\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_b1a6e31caf06067cc8afaba86c341cf8\"\u003e\u003chead\u003eGeneral\u003c/head\u003e\u003cp\u003eFormat: CD\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003cc id=\"aspace_ref38\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eLitany - peculiar world\u003c/unittitle\u003e\u003cunitid\u003eID: 325.0015\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003e1998\u003c/unitdate\u003e\u003ccontainer id=\"aspace_cd78de87261bbe145758a947c54603b1\" label=\"Media (31142063602646)\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_cd78de87261bbe145758a947c54603b1\" type=\"Media\"\u003eID: 325.0015\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_bb710e2c3be4646ef8555ec64883b2e5\"\u003e\u003chead\u003eGeneral\u003c/head\u003e\u003cp\u003eFormat: CD\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eMALL\u003c/unittitle\u003e\u003cunitid\u003eID: 325.0006\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a5b52b562262992bccd01de28d16e7db\" label=\"Media (31142063602646)\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_a5b52b562262992bccd01de28d16e7db\" type=\"Media\"\u003eID: 325.0006\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_21052d70a9e87dcf296698242804d68b\"\u003e\u003chead\u003eGeneral\u003c/head\u003e\u003cp\u003eFormat: audiocassette\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003cc id=\"aspace_ref44\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eMelbourne Rock'n'Roll Highschool Archive\u003c/unittitle\u003e\u003cunitid\u003eID: 325.0018\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e4ad0c26ac019f98b5bafcda354b7f11\" label=\"Media (31142063602646)\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_e4ad0c26ac019f98b5bafcda354b7f11\" type=\"Media\"\u003eID: 325.0018\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_3e96c85ee4a5fc3f48b586128f5ee629\"\u003e\u003chead\u003eGeneral\u003c/head\u003e\u003cp\u003eContents: scanned docs, some music in digital format [per annotations]\u003c/p\u003e\u003cp\u003eFormat: DVD-R\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eMidget Stooges\u003c/unittitle\u003e\u003cunitid\u003eID: 325.0007\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d14cfdb5c442967be1f8e080e077140e\" label=\"Media (31142063602646)\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_d14cfdb5c442967be1f8e080e077140e\" type=\"Media\"\u003eID: 325.0007\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_d780af8e7c7bfd9f7339cd82b46f4018\"\u003e\u003chead\u003eGeneral\u003c/head\u003e\u003cp\u003eFormat: audiocassette\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003cc id=\"aspace_ref40\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eRock 'n' Roll High School Vol. 1\u003c/unittitle\u003e\u003cunitid\u003eID:325.0019\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_44ed482093b84345f6303b4896b83e66\" label=\"Media (31142063602646)\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_44ed482093b84345f6303b4896b83e66\" type=\"Media\"\u003eID:325.0019\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_13b9ee1164f484bcc9357c95bb41eb42\"\u003e\u003chead\u003eGeneral\u003c/head\u003e\u003cp\u003eContents: Hecate - Private School, Bindi - Cheers, Protea - Limehouse, Smurfblood - Tugboat, Hecate - Rapunzel, Camden - Beauty Queern, Spot the Beast - Over the Edge, Leviathan - Eve of Execution, Blinde Spectators - Catch Me (Alone), Snodra - Sitting, Bindi - Crazybitch, Gritty Kitty - Chainsawed Emotions, Midget Stooges - Shithouse, Four - Crazy, Smurfblood - Cure Ticket, Blinde Spectators - No, Spot the Best - Body Bag\u003c/p\u003e\u003cp\u003eFormat: CD\u003c/p\u003e\u003cp\u003eTRT: 00:57:08\u003c/p\u003e\u003cp\u003eOriginal Format: CD\u003c/p\u003e\u003cp\u003eSource: Box 2, Media ID 326.0016\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003cc id=\"aspace_ref42\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eRock 'n' Roll High School Vol. 2\u003c/unittitle\u003e\u003cunitid\u003eID: 325.0017\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9a63b1962258f4b09afca6f7b47aca71\" label=\"Media (31142063602646)\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_9a63b1962258f4b09afca6f7b47aca71\" type=\"Media\"\u003eID: 325.0017\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_422acb189d440495566a4e044182dbfd\"\u003e\u003chead\u003eGeneral\u003c/head\u003e\u003cp\u003eFormat: CD\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eRock 'n' Roll High School - Order v. 2 - 2nd one\u003c/unittitle\u003e\u003cunitid\u003eID: 325.0009\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_33bec4c09e118b94951d7f8dd97c70f2\" label=\"Media (31142063602646)\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_33bec4c09e118b94951d7f8dd97c70f2\" type=\"Media\"\u003eID: 325.0009\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_30760ab60c17adc5203faafcafadbb3f\"\u003e\u003chead\u003eGeneral\u003c/head\u003e\u003cp\u003eFormat: audiocassette\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eRock 'n' Roll High School Vol. 3 Sampler\u003c/unittitle\u003e\u003cunitid\u003eID: 325.0010\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_614bbe2c54591f35d1d223dd25a853e0\" label=\"Media (31142063602646)\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_614bbe2c54591f35d1d223dd25a853e0\" type=\"Media\"\u003eID: 325.0010\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_756fd53177983632534f59e1df46f0a7\"\u003e\u003chead\u003eGeneral\u003c/head\u003e\u003cp\u003eFormat: audiocassette\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eSour Puss\u003c/unittitle\u003e\u003cunitid\u003eID: 325.0008\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003e1995\u003c/unitdate\u003e\u003ccontainer id=\"aspace_94996df58cabdb61bb2c3db90e60f26b\" label=\"Media (31142063602646)\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_94996df58cabdb61bb2c3db90e60f26b\" type=\"Media\"\u003eID: 325.0008\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_966f9375bab89115915922c65659ac10\"\u003e\u003chead\u003eGeneral\u003c/head\u003e\u003cp\u003eFormat: audiocassette\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003cc id=\"aspace_ref29\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eSpot the Beast\u003c/unittitle\u003e\u003cunitid\u003eID: 325.0011\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003e1995\u003c/unitdate\u003e\u003ccontainer id=\"aspace_822b217f7309efa036b1cf789fbfe035\" label=\"Media (31142063602646)\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_822b217f7309efa036b1cf789fbfe035\" type=\"Media\"\u003eID: 325.0011\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_fdfc6b7ac10e572a4702a6b32d37c3a7\"\u003e\u003chead\u003eGeneral\u003c/head\u003e\u003cp\u003eFormat: audiocassette\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003cc id=\"aspace_ref31\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eSpot the Beast\u003c/unittitle\u003e\u003cunitid\u003eID: 325.0012\u003c/unitid\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2b66ef91bbaad6be6e28ad2445f8b46b\" label=\"Media (31142063602646)\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_2b66ef91bbaad6be6e28ad2445f8b46b\" type=\"Media\"\u003eID: 325.0012\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_f3f5e6470a682ca877b82a16224158f1\"\u003e\u003chead\u003eGeneral\u003c/head\u003e\u003cp\u003eFormat: audiocassette\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

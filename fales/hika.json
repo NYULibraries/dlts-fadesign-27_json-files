@@ -1,0 +1,174 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-F",
+            "value": "hika"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Hika Archive\u003clb/\u003e\u003cdate\u003eca. 1966 \u003c/date\u003e\u003clb/\u003e \u003cnum\u003eMSS.015\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Amber Creger, February 1999. Finding aid updated by Zachary Dabbs and Lawrence Giffin, 2009."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Fales Library and Special Collections"
+                },
+                "address": {
+                    "addressline": [
+                        "Fales Library and Special Collections",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "3rd Floor",
+                        "New York, NY 10012",
+                        "Phone: (212) 998-2596",
+                        "fales.library@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-06-13T19:51:39\u003c/date\u003e"
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Fales Library and Special Collections"
+                    }
+                },
+                "unittitle": {
+                    "value": "\u003ctitle render=\"italic\"\u003eHika\u003c/title\u003e Archive"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "1966"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The \u003ctitle render=\"italic\"\u003eHika\u003c/title\u003e Archive consists of correspondence and manuscripts sent to \u003ctitle render=\"italic\"\u003eHika\u003c/title\u003e editor Michael Kirchberger. Noted contributors to the magazine include Carol Bergé, Allen Ginsberg, and Jim Harrison."
+                },
+                "unitid": {
+                    "value": "MSS.015"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_373686a2cb7618340086822eaaebc011",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_b2e1478a753db7592bfecd87ca868d5a",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the\nfollowing form:\u003clb/\u003e\u003clb/\u003e\nIdentification of item,  date (if known); Hika Archive; MSS 15; box number; folder number; Fales Library and Special Collections, New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_005ee4c4b105c7b915bffdb3237667c7",
+            "head": "Historical  Note",
+            "p": {
+                "value": "Sources:\u003clb/\u003e \nKenyon College: Student Life: Film and Media,(http://www.kenyon.edu/x11583.xml) Accessed November 23, 2009\u003clb/\u003e \n\u003ctitle render=\"italic\"\u003e60 Years of Hika\u003c/title\u003e, Kenyon College Archives, 1990.\u003clb/\u003e"
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_8548357720bbdb7505e7fb3b33a239a5",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The\u003cemph render=\"italic\"\u003eHika \u003c/emph\u003e Archive consists of one box of correspondence and manuscripts submitted to Hika editor Michael Kirchberger."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Literature, Experimental |x Periodicals."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "American poetry |y 20th century."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Avant-garde (Aesthetics)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "American literature |y 20th century."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Small presses -- New York (State) -- New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Poets, American -- 20th century"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Authors, American -- 20th century"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "American fiction -- 20th century"
+                },
+                {
+                    "source": "local",
+                    "value": "Downtown writers."
+                }
+            ],
+            "corpname": {
+                "source": "ingest",
+                "value": "The Hika Archive"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref12\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: Correspondence to Michael Kirchberger\u003c/unittitle\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_d68dfb3e1cb8b47b140e1341de9c7791\"\u003e\u003chead\u003eScope and Contents note\u003c/head\u003e\u003cp\u003eSeries I consists of one box of correspondence and manuscripts sent to Hika.\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_ref13\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eAldan, Daisy\u003clb/\u003e Bergé, Carol\u003clb/\u003e Dawson, Robert\u003clb/\u003e Dawson, Ruth\u003clb/\u003e\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1966\u003c/unitdate\u003e\u003ccontainer id=\"aspace_93166bae4e984ab0cbbf43175bb283e3\" label=\"Mixed Materials (31142054900496)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_93166bae4e984ab0cbbf43175bb283e3\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eFeldman, Irving\u003clb/\u003e Galler, David\u003clb/\u003e Ginsberg, Allen\u003clb/\u003e Greenberg, Jerrold\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1966\u003c/unitdate\u003e\u003ccontainer id=\"aspace_de1bbef49f9a08da6191d004c8c4cc55\" label=\"Mixed Materials (31142054900496)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_de1bbef49f9a08da6191d004c8c4cc55\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eHarrison, Jim\u003clb/\u003e Hazel, Robert\u003clb/\u003e Kessler, Milton\u003clb/\u003e Lardas, Konstantinos\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1966\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2e65c64fb8374e8acb5001d55f18b286\" label=\"Mixed Materials (31142054900496)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2e65c64fb8374e8acb5001d55f18b286\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eLarsen, Carl\u003clb/\u003e Leveson, David\u003clb/\u003e Levy, D.A.\u003clb/\u003e Moss, Howard\u003clb/\u003e\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1966\u003c/unitdate\u003e\u003ccontainer id=\"aspace_830537fa62cbe67fc58c2449f7526ca8\" label=\"Mixed Materials (31142054900496)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_830537fa62cbe67fc58c2449f7526ca8\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eOssman, David\u003clb/\u003e Planz, Allen\u003clb/\u003e Scully, Jim\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1963\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5af138ee86b2daca5202fe52b7e4a722\" label=\"Mixed Materials (31142054900496)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5af138ee86b2daca5202fe52b7e4a722\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eSquires, Radcliffe\u003clb/\u003e Swenson, May\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1966\u003c/unitdate\u003e\u003ccontainer id=\"aspace_abcb8bfafcb78ac06dc5c986f09d6222\" label=\"Mixed Materials (31142054900496)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_abcb8bfafcb78ac06dc5c986f09d6222\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

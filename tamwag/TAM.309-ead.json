@@ -1,0 +1,123 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "tam_309"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Young People's Socialist League Records\n                    \u003cnum\u003eTAM.309\u003c/num\u003e\n                "
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "11/14/2010"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T19:21-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Young People's Socialist League Records"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.5 linear feet"
+                        },
+                        {
+                            "value": "(1 box)"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "TAM.309"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid20031001",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "bioghist": {
+            "id": "ref4",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "The Young People’s Socialist League (YPSL) has been the name of the youth section of the Socialist Party USA (SP). It originated in New York City in 1907 as the Young People's Socialist Federation, however, by 1918 it became known as the YPSL (members were often referred to as Yipsels). In the 1930s, the majority of the YPSL membership sided with the Militant faction within the Socialist Party, led by Norman Thomas, against the more moderate \"Old Guard\" linked to the garment industry unions, the Rand School, and the SP's periodical, the \n                \u003cemph render=\"italic\"\u003eNew Leader\u003c/emph\u003e, which withdrew from the SP in 1936 to form the Social Democratic Federation. In that same year, U.S. Trotskyists entered the SP and the YPSL en masse in an attempt to win them to their political program, and within the YPSL, they had considerable success. A number of Yipsels, such as sociologist Daniel Bell, would go on to become prominent intellectuals, in particular within the anti-communist left. The YPSL continued to exist, with some periodic mergers with other organizations and related name changes, into the 1980s, with Trotskyists, and former Trotskyists, playing an important role."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "37 Youth (Circle 8 Seniors, Bronx) DEC 1935"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Communism |z United States"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialism and youth |z United States."
+                },
+                {
+                    "source": "local",
+                    "value": "Trotskyism |z United States."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Young People's Socialist League."
+            }
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "tam_056_008"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Socialist Assemblymen Papers\n                    \u003cnum\u003eTAM.056.008\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "2009"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T17:14-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Socialist Assemblymen Papers"
+                },
+                "unitdate": {
+                    "normal": "1920/1920",
+                    "value": "1920"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.0 linear feet"
+                        },
+                        {
+                            "value": "(3 boxes)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "In 1920, five Socialist Party Assemblymen were expelled from the New York State Assembly on the grounds that membership in the Socialist Party constituted disloyalty to the United States. This collection consists of several documents and numerous supporting letters, all related to the unsuccessful campaign to reverse the expulsion. \n                \u003cemph render=\"bold\"\u003eNote: this collection has been microfilmed, and researchers must use the microfilm copy (R-7124, reel 12).\u003c/emph\u003e"
+                },
+                "unitid": {
+                    "value": "TAM.056.008"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid19203004",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1-3"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref5",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Access restrictions: Open for research without restrictions. However, patrons must use microfilm (Film R-7124, Reel 12)."
+            }
+        },
+        "prefercite": {
+            "id": "ref58",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: \n                \u003clb/\u003e\n                \u003clb/\u003eIdentification of item, date; Collection name; Collection number; box number; folder number; \n                \u003clb/\u003eTamiment Library/Robert F. Wagner Labor Archives \n                \u003clb/\u003eElmer Holmes Bobst Library \n                \u003clb/\u003e70 Washington Square South \n                \u003clb/\u003eNew York, NY 10012, New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "ref8",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "During the infamous Red Scare of 1920, five Socialist Party Assemblymen were expelled from the New York State Assembly on the grounds that membership in the Socialist Party constituted disloyalty to the United States. These assemblymen (August Claessens, Samuel A. De Witt, Samuel Orr, Charles Solomon, and Louis Waldman), in conjunction with the Socialist Party, attempted to overturn the Assembly action and be seated as duly elected representatives of their respective assembly districts. To assist the assemblymen in their fight, the Socialist Party organized a special committee for the purpose of raising funds and holding meetings on the case. The New York State Bar Association also appointed a special committee composed of Charles Evans Hughes, Ogden Mills, and Joseph Proskauer to plead for the seating of the assemblymen. These efforts were unsuccessful, however, as the State Assembly refused to reverse its earlier decision."
+            }
+        },
+        "scopecontent": {
+            "id": "ref9",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The researcher should also note that an error was made in the targeting for this collection. On each frame, the word \"Series\" appears adjacent to the frame number. This term should actually be interpreted as \"Collection\"."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Socialists |z United States."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "New York (State). Legislature. Assembly."
+            }
+        },
+        "dsc": {
+            "value": "\n            \u003cc01 id=\"ref13\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003ePapers\u003c/unittitle\u003e\n                \u003c/did\u003e\n                \u003cc02 id=\"ref14\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eResolution on the Socialist Assemblymen by the State Assembly,\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid129984\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid129984\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"1920/0000\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref15\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eFilm R-7124, Reel 12: Frame VIII:1\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref16\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eStatement on the Assembly Action by the State Executive Committee of the Socialist Party,\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid129983\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid129983\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate normal=\"1920/1920\"\u003e1920\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref17\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eFilm R-7124, Reel 12: Frame VIII:2\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref18\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eResolution Against the Assembly Action by the Board of Aldermen of the City of New York,\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid129982\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid129982\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate normal=\"1920/1920\"\u003e1920\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref19\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eFilm R-7124, Reel 12: Frame VIII:3\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref20\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAssembly Judiciary Committee: In The Matter of Louis Waldman, August Claessens, Samuel A. DeWitt, Samuel Orr, and Charles Solomon. Brief of Special Committee Appointed by the Association of the Bar of the City of New York,\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid129981\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid129981\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate normal=\"7325/7325\"\u003eJan 20, 1920\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref21\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eFilm R-7124, Reel 12: Frame VIII:4\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref22\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eContribution Correspondence, A\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid129980\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid129980\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate normal=\"1919/1920\" type=\"inclusive\"\u003e1919-1920\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref23\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eFilm R-7124, Reel 12: Frame VIII:5\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref24\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eContribution Correspondence, B\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid129979\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid129979\" type=\"Folder\"\u003e6\u003c/container\u003e\n                        \u003cunitdate normal=\"1920/1920\"\u003e1920\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref25\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eFilm R-7124, Reel 12: Frame VIII:6\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref26\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eContribution Correspondence, C\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid129978\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid129978\" type=\"Folder\"\u003e7\u003c/container\u003e\n                        \u003cunitdate normal=\"1920/1920\"\u003e1920\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref27\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eFilm R-7124, Reel 12: Frame VIII:7\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref28\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eContribution Correspondence, D-F\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid129977\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid129977\" type=\"Folder\"\u003e8\u003c/container\u003e\n                        \u003cunitdate normal=\"1920/1920\"\u003e1920\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref29\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eFilm R-7124, Reel 12: Frame VIII:8\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref30\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eContribution Correspondence, G-H\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid129976\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid129976\" type=\"Folder\"\u003e9\u003c/container\u003e\n                        \u003cunitdate normal=\"1920/1920\"\u003e1920\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref31\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eFilm R-7124, Reel 12: Frame VIII:9\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref32\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eContribution Correspondence, I-J\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid129975\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid129975\" type=\"Folder\"\u003e10\u003c/container\u003e\n                        \u003cunitdate normal=\"1920/1920\"\u003e1920\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref33\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eFilm R-7124, Reel 12: Frame VIII:10\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref34\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eContribution Correspondence, K-L\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid129974\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid129974\" type=\"Folder\"\u003e11\u003c/container\u003e\n                        \u003cunitdate normal=\"1920/1920\"\u003e1920\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref35\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eFilm R-7124, Reel 12: Frame VIII:11\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref36\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eContribution Correspondence, M\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid129973\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid129973\" type=\"Folder\"\u003e12\u003c/container\u003e\n                        \u003cunitdate normal=\"1920/1920\"\u003e1920\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref37\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eFilm R-7124, Reel 12: Frame VIII:12\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref38\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eContribution Correspondence, N-P\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid129972\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid129972\" type=\"Folder\"\u003e13\u003c/container\u003e\n                        \u003cunitdate normal=\"1920/1920\"\u003e1920\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref39\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eFilm R-7124, Reel 12: Frame VIII:13\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref40\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eContribution Correspondence, R\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid129971\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid129971\" type=\"Folder\"\u003e14\u003c/container\u003e\n                        \u003cunitdate normal=\"1920/1920\"\u003e1920\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref41\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eFilm R-7124, Reel 12: Frame VIII:14\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref42\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eContribution Correspondence, Sac-Sno\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid129970\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid129970\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"1920/1920\"\u003e1920\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref43\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eFilm R-7124, Reel 12: Frame VIII:15\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref44\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eContribution Correspondence, Soc-Swe\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid129969\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid129969\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate normal=\"1920/1920\"\u003e1920\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref45\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eFilm R-7124, Reel 12: Frame VIII:16\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref46\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eContribution Correspondence, T-V\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid129968\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid129968\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate normal=\"1920/1920\"\u003e1920\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref47\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eFilm R-7124, Reel 12: Frame VIII:17\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref48\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eContribution Correspondence, Wag-Wor\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid129967\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid129967\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate normal=\"1920/1920\"\u003e1920\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref49\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eFilm R-7124, Reel 12: Frame VIII:18\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref50\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eContribution Correspondence, Wor-Wry\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid129966\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid129966\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate normal=\"1920/1920\"\u003e1920\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref51\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eFilm R-7124, Reel 12: Frame VIII:19\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref52\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eContribution Correspondence, Y-Z, anonymous\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid129965\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid129965\" type=\"Folder\"\u003e6\u003c/container\u003e\n                        \u003cunitdate normal=\"1920/1920\"\u003e1920\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref53\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                        \u003cp\u003eFilm R-7124, Reel 12: Frame VIII:20\u003c/p\u003e\n                    \u003c/odd\u003e\n                \u003c/c02\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref59\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eFragile Originals\u003c/unittitle\u003e\n                \u003c/did\u003e\n                \u003cc02 id=\"ref60\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eFragile Originals from Box 1\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid19203005\" type=\"Box\" label=\"Mixed materials\"\u003e3\u003c/container\u003e\n                        \u003ccontainer parent=\"cid19203005\" type=\"Folder\"\u003e1\u003c/container\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref61\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eFragile Originals from Box 2\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid19203006\" type=\"Box\" label=\"Mixed materials\"\u003e3\u003c/container\u003e\n                        \u003ccontainer parent=\"cid19203006\" type=\"Folder\"\u003e2\u003c/container\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n            \u003c/c01\u003e\n        "
+        }
+    }
+}

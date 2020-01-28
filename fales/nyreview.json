@@ -1,0 +1,152 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-F",
+            "value": "nyreview"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the \u003cemph render=\"italic\"\u003eNew York Review\u003c/emph\u003e Archive \u003clb/\u003e\u003cdate calendar=\"gregorian\" era=\"ce\"\u003e1957-1958 \u003c/date\u003e\u003clb/\u003e\u003cnum\u003eMSS 19 \u003c/num\u003e \u003cnum\u003eMSS.019\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Processed by: Amber Creger, 1999."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Fales Library and Special Collections"
+                },
+                "address": {
+                    "addressline": [
+                        "Fales Library and Special Collections",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "3rd Floor",
+                        "New York, NY 10012",
+                        "Phone: (212) 998-2596",
+                        "fales.library@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-06-14T15:52:00\u003c/date\u003e"
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Fales Library and Special Collections"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "\u003cemph render=\"italic\"\u003eNew York Review\u003c/emph\u003e Archive"
+                },
+                "unitdate": {
+                    "normal": "1957/1958",
+                    "type": "inclusive",
+                    "value": "1957-1958"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The \u003cemph render=\"italic\"\u003eNew York Review\u003c/emph\u003e Archive is a small collection of correspondence to the \u003cemph render=\"italic\"\u003eNew York Review\u003c/emph\u003e's editor, Peter McCurtin. McCurtin edited the \u003cemph render=\"italic\"\u003eNew York Review\u003c/emph\u003e with William Atkins in 1958."
+                },
+                "unitid": {
+                    "value": "MSS.019"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_b1ea26a0ba89f7aae7a2ca43d6b85965",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_84a4b16949634159dc26d55563c0f9cd",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form:\u003clb/\u003e\u003clb/\u003eIdentification of item, date (if known); The New York Review Archive; MSS 019; box number; folder number; \u003caddress\u003e\u003caddressline\u003eFales Library and Special Collections\u003c/addressline\u003e\u003c/address\u003e , New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_c0fca95b9b4f4bdd9b907423423ff157",
+            "head": "Historical/Biographical Note:",
+            "p": {
+                "value": "\u003clist\u003e\u003citem\u003e\u003c/item\u003e\u003citem\u003e\u003c/item\u003e\u003citem\u003e\u003c/item\u003e\u003citem\u003e\u003c/item\u003e\u003c/list\u003e "
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_5f24bf88b6333c43da1fa9e383b87632",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "Series I: Correspondence: includes a copy of the \u003cemph render=\"italic\"\u003eNew York Review\u003c/emph\u003e (box 1, folder 1)."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Small presses -- New York (State) -- New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Literature |x History and criticism |v Periodicals."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Literature |v Periodicals."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "New York Review (1958)"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref11\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: Correspondence\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref12\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"italic\"\u003eNew York Review\u003c/emph\u003e, Spring, 1958, ed. McCurtain and Atkins.\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1957-1958\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1d5433c7de4efcdbf0db1a0bf5da2b66\" label=\"Mixed Materials (31142054900504)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1d5433c7de4efcdbf0db1a0bf5da2b66\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref13\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence to McCurtain: A-C.\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1957-1958\u003c/unitdate\u003e\u003ccontainer id=\"aspace_6508a7df4af19ff0974bc24ab48e52c4\" label=\"Mixed Materials (31142054900504)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_6508a7df4af19ff0974bc24ab48e52c4\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence to McCurtain: D-K.\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1957-1958\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5d8e1d5c41a4f0fca6870efa99e09555\" label=\"Mixed Materials (31142054900504)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5d8e1d5c41a4f0fca6870efa99e09555\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence to McCurtain: L-M.\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1957-1958\u003c/unitdate\u003e\u003ccontainer id=\"aspace_53e4f1b09949169a0a0b8ac9c8375aa5\" label=\"Mixed Materials (31142054900504)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_53e4f1b09949169a0a0b8ac9c8375aa5\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence to McCurtain: N-P.\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1957-1958\u003c/unitdate\u003e\u003ccontainer id=\"aspace_db7111b660bc613265e8b76bda76cea3\" label=\"Mixed Materials (31142054900504)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_db7111b660bc613265e8b76bda76cea3\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence to McCurtain: R-Z.\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1957-1958\u003c/unitdate\u003e\u003ccontainer id=\"aspace_90223a6b640d01b715da1ee315b83b1c\" label=\"Mixed Materials (31142054900504)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_90223a6b640d01b715da1ee315b83b1c\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

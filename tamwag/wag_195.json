@@ -1,0 +1,103 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "wag_195"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Women Hospital Workers Study Records \u003cnum\u003eWAG.195\u003c/num\u003e"
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-06-28T18:46:10\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Women Hospital Workers Study Records"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "WAG.195"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_4aa46d18026f37e974a38a7926994d7a",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_54f9a5a3871344c9acf5569b7cac8543",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "The provenance of this collection is unknown. The accession number associated with this collection is 1950.055."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_75f284e297263d0b81c4a4a3587acc50",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Women Hospital Workers Study was conducted by the Center for Education and Research of the Coalition of Labor Women in 1978 and 1979 in order to better understand the problems facing women hospital employees.  The study was performed in cooperation with the Service Employees International Union (SEIU) and the New York City Central Labor Council and was funded by a grant from the Ford Foundation.  The collection contains completed survey forms.\nINVENTORY AVAILABLE IN REPOSITORY; CONTACT: tamiment.wagner@nyu.edu"
+            }
+        },
+        "dsc": {}
+    }
+}

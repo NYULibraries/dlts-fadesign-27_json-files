@@ -1,0 +1,92 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "ms2958_9806_evergreens_gray"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Evergreens Cemetery Lot Deed to Frank and Lizzie Gray\u003clb/\u003e1881-1944\u003clb/\u003e  \u003cnum\u003eAHMC Evergreens Cemetery\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Larry Weimer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-07-18T13:19:52\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Evergreens Cemetery lot deed to Frank and Lizzie Gray, and other documents"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "1881, 1900, 1929, 1944"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": ".01 Linear feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one folder"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Four documents: 1) a duplicate of the indenture (deed number 4596) for lot number 158 in the Lake View section of The Evergreens (Evergreens Cemetery) in Kings and Queens counties, New York, to Frank Gray and his wife, Lizzie (or Elizabeth). The original deed was dated 18 April 1881; this notarized duplicate dates from 22 March 1929. 2) The envelope from The Evergreens Cemetery that held the deed. 3) An envelope from the Walter B. Cooke funeral home in the Bronx, New York, labeled as holding a deed to Emma Hayes for Evergreens lot 158 in the Lake View section; the envelope is dated 6 December 1944, but the referenced deed is not with the papers. The envelope held the following document only. 4) A receipted invoice dated 13 May 1900 (stamped and signed as paid on 31 May 1900) from Oscar A. Boch, undertaker and embalmer in Greenpoint, Brooklyn, to Mrs. Emma Hayes for funeral expenses of Alonzo E. Hayes. These charges included removal from hospital, embalming, a coffin, top board, a hearse and coach to Cedar Grove cemetery, and a new grave.  For more information and to request this item, see the \u003cextref actuate=\"onRequest\" href=\"http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph006207382\u0026amp;context=L\u0026amp;vid=NYHS\u0026amp;search_scope=nyhs\u0026amp;tab=nyhs\u0026amp;lang=en_US\"\u003ecatalog record,\u003c/extref\u003e or write to manuscripts@nyhistory.org."
+                },
+                "unitid": {
+                    "value": "AHMC Evergreens Cemetery"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "dsc": {}
+    }
+}

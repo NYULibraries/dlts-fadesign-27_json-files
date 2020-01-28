@@ -1,0 +1,144 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arc_062_third_ward_enlistment_committee"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Third Ward Enlistment Committee records\n                    \u003cnum\u003eARC.062\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Patricia Glowinski"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "July 21, 2010."
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-22T15:02-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Studwell, John J. "
+                    }
+                },
+                "unittitle": {
+                    "value": "Third Ward Enlistment Committee records"
+                },
+                "unitdate": {
+                    "normal": "1862/1871",
+                    "type": "inclusive",
+                    "value": "1862-1871"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.1 Linear feet"
+                        },
+                        {
+                            "value": "in three folders."
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Before the first Union conscription law was enacted in March of 1863, it was left to state and local officials to fill Union troop quotas. In the state of New York, cities were allocated troop quotas. At the time of the Civil War, both the City of New York and the City of Brooklyn were comprised of small political units, or wards, that were in turn allocated troop quotas. The Third Ward Enlistment Committee was responsible for filling the ward's quotas. Post war, as of 1867, Third Ward boundaries consisted of what is now part of the neighborhoods of Brooklyn Heights, Boerum Hill, Cobble Hill, and Park Slope. The Third Ward Enlistment Committee records, housed in three folders, include a treasurer's account book, 1862 to 1871; a volunteer's journal, 1862; and three subscription journals for troop quotas, 1862."
+                },
+                "unitid": {
+                    "value": "ARC.062"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid348003",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0128"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref2",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref4",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Third Ward Enlistment Committee records, ARC.062, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Gift of Irving D. Mead, 1922."
+            }
+        },
+        "bioghist": {
+            "id": "ref1",
+            "head": "Historical Note",
+            "p": {}
+        },
+        "scopecontent": {
+            "id": "ref5",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The subscription journals are inscribed with the following text: \"At a Meeting of the Citizens of the Third Ward, held at the Polytechnic Institute, on Tuesday Evening, August 26th, 1862, for the purpose of adopting such measures as may be deemed necessary to aid in raising the quota of troops apportioned to the Ward, the following Subscriptions were made.\" Following the inscription is a list of names of members appointed to solicit subscriptions, as well as several officers of the Committee (B.D. Skillman, Chairman; A.V. Blake, Secretary; and John J. Studwell, Treasurer). Each journal lists the names of financial donors and the amount of money donated. The journals belonged to M. Daniel Chauncey, S. Ryder, and Ezra M. Frost."
+            }
+        },
+        "controlaccess": {
+            "corpname": {
+                "source": "local",
+                "value": "Third Ward Enlistment Committee (Brooklyn, New York, N.Y.)."
+            }
+        },
+        "dsc": {}
+    }
+}

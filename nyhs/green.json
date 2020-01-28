@@ -1,0 +1,131 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "green"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Andrew Haswell Green Collection\n                    \u003clb/\u003e\n                    \u003cdate\u003e1843-1911 \u003c/date\u003e\n                    \u003cdate\u003e\u003c/date\u003e\n                    \u003clb/\u003e\n                    \u003cnum\u003e\u003c/num\u003e\n                    \u003cnum\u003eMS 264\u003c/num\u003e\n                "
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "@ 2011 New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-10-25T15:38-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "@ 2011 New-York Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "Andrew Haswell Green Collection"
+                },
+                "unitdate": {
+                    "value": "1843-1911"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.43 Linear feet"
+                        },
+                        {
+                            "value": "(1 box)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The collection includes materials by planner and preservationist Andrew Haswell Green and others documenting Green's career and service to New York City. The materials in this collection form the basis for John Foord's 1913 \n                \u003ctitle ns2:type=\"simple\" render=\"italic\"\u003eLife and Public Services of Andrew Haswell Green\u003c/title\u003e."
+                },
+                "unitid": {
+                    "value": "MS 264"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref4",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Photocopying undertaken by staff only. Limited to twenty exposures of stable, unbound material per day. (Researchers may not accrue unused copy amounts from previous days.)"
+            }
+        },
+        "prefercite": {
+            "id": "ref6",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "This collection should be cited as Andrew Haswell Green Collection, The New-York Historical Society."
+            }
+        },
+        "bioghist": {
+            "id": "ref7",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Andrew Haswell Green (1820-1903) was an influential city official, preservationist, and reformer, who played crucial roles in determining the plans of Central Park and the institutions bordering it, the restoring of fiscal control after the excesses of the Tweed Ring, and the consolidation of New York's boroughs in 1898."
+            }
+        },
+        "scopecontent": {
+            "id": "ref10",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "Among the diaries' entries are those mentioning a Temperance Convention of African-Americans held in Catskill, NY, in 1844; and the forming of his law partnership with Samuel J. Tilden in 1845."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Agriculture"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Politics, Practical "
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref12\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e\u003c/unittitle\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref13\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eLetters from Green to his sisters in Worcester, Massachusetts\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid493628\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid493628\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate\u003e1843-1886\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref14\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eDiaries in three volumes\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid493627\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid493627\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate\u003e1843-1886\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref15\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eLetter from Central Park Commissioners to Mayor A. Oakley Hall on their leaving office\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid493626\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid493626\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate\u003e1879 Apr 9\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref16\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eTypescript of \"A Year's Record of a Reformer as Comptroller of New York City\" (author unidentified)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid493625\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid493625\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate\u003e1872\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref17\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePrinted and manuscipt items\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid493624\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid493624\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate\u003e1874-1910, undated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref18\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eTypescript account of Green's career as City Comptroller, by Henry Mann\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid493623\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid493623\" type=\"Folder\"\u003e6\u003c/container\u003e\n                        \u003cunitdate\u003e1903\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref19\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eTypescript account of Green's role as Central Park Commissioner, by Henry Mann\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid493622\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid493622\" type=\"Folder\"\u003e7\u003c/container\u003e\n                        \u003cunitdate\u003e1903\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref20\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eManuscript notes by Foord on Green's diaries\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid493621\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid493621\" type=\"Folder\"\u003e8\u003c/container\u003e\n                        \u003cunitdate\u003e1911, undated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref21\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAccount of Green's role in the consolidation of New York City (manuscript and printed)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid493620\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid493620\" type=\"Folder\"\u003e9\u003c/container\u003e\n                        \u003cunitdate\u003eUndated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003codd id=\"ref22\"\u003e\n                        \u003chead\u003eGeneral note\u003c/head\u003e\n                    \u003c/odd\u003e\n                    \u003cphystech id=\"ref23\"\u003e\n                        \u003chead\u003ePhysical Characteristics and Technical Requirements note\u003c/head\u003e\n                    \u003c/phystech\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

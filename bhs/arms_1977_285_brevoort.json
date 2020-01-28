@@ -1,0 +1,168 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1977_285_brevoort"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Brevoort family papers\n                    \u003cnum\u003e1977.285\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Robert Sink"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "October 5, 1978"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-10T14:08-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Brevoort, James Carson, 1818-1887"
+                    },
+                    "famname": {
+                        "source": "local",
+                        "value": "Brevoort family"
+                    }
+                },
+                "unittitle": {
+                    "value": "Brevoort family papers"
+                },
+                "unitdate": {
+                    "normal": "1760/1879",
+                    "type": "inclusive",
+                    "value": "1760-1879"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.42 linear feet"
+                        },
+                        {
+                            "value": "in one manuscript box."
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The Brevoort family papers contain materials documenting the personal and business affairs of four generations of the Brevoort family, a prosperous family of Dutch origin who lived in both Manhattan and Brooklyn. The collection spans the period 1760 to 1879 (bulk dates 1828 to 1847) and contains correspondence, legal documents (estate records, wills, bonds, land conveyances and deeds, and business documents), miscellaneous printed material, genealogical notes, and one scrapbook. The majority of the collection concerns Henry Brevoort, Jr. (1782-1848), in particular his property that was located in what is today the West Village neighborhood of Manhattan; James Carson Brevoort (1818-1887); and Henry L. Brevoort (1849-1895). The genealogical notes include information on the Brevoort family, as well as the Lefferts family of Brooklyn, among others."
+                },
+                "unitid": {
+                    "value": "1977.285"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid635001",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "1977.285 1 of 1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref8",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref6",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Brevoort family papers, 1977.285, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref12",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Gift of Ruth Wright Brevoort, 1967."
+            }
+        },
+        "bioghist": {
+            "id": "ref4",
+            "head": "Biographical note",
+            "p": {
+                "value": "James Carson Brevoort's only child, Henry L. Brevoort (1849-1895), followed his father's interest in engineering and became one of the country's foremost patent and invention lawyers, with a client list that included Westinghouse, Western Union, and the New York and Brooklyn Bridge Company. He was also a founder in 1890 of the Brevoort Savings Bank in Brooklyn."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The balance of the collection consists of genealogical notes, miscellaneous printed material, and a few non-Brevoort items including two pamphlets; a broadside; certificates; a 1791 petition for a cemetery in New Utrecht in Brooklyn; an 1830 playbill; Henry L. Brevoort's scrapbook of news clippings, many on engineering, 1868 to 1874; and detailed Brevoort family genealogical notes, which also include many references to the Lefferts family of Brooklyn."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Families |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Families |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Genealogy "
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Real property |z New York (State) |z New York"
+                }
+            ]
+        },
+        "otherfindaid": {
+            "id": "ref10",
+            "head": "Other Finding Aids"
+        },
+        "dsc": {}
+    }
+}

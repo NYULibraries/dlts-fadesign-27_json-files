@@ -1,0 +1,136 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "wag_271"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Harry Kelber Papers \u003cnum\u003eWAG.271\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Rachel Schimke"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-07-26T19:16:55\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "local",
+                        "value": "Kelber, Harry, 1914-2013"
+                    }
+                },
+                "unittitle": {
+                    "value": "Harry Kelber Papers"
+                },
+                "unitdate": {
+                    "normal": "1980/2005",
+                    "type": "inclusive",
+                    "value": "1980, 1992-2005"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 record carton"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Harry Kelber (1914-2013) was a union activist and labor historian known for his critiques of the labor movement's leadership. This collection contains correspondence, pamphlets, flyers, printouts of on-line newsletters, and videotapes and DVDs related to Harry Kelber's work as a labor journalist, labor historian, and advocate of union democracy."
+                },
+                "unitid": {
+                    "value": "WAG.271"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_8932aa9673c502e6cfd0ab789d444066",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_6b4766123fe8253529e298c6eff45d9a",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Harry Kelber Papers; WAG 271; Box number; Folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_13a1067d12a812fc74d421a5c3cf9e85",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "A photograph of Harry Kelber was found in the repository in 2014; provenance unknown. The accession number associated with this item is 2014.063."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_0dd47fd07a54f312362283ee1051d369",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Kelber's autobiography, \u003cemph render=\"italic\"\u003eMy 70 Years in the Labor Movement\u003c/emph\u003e, was published in 2006."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_af2a4934c4c1e6a9f362da3d707df86a",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection contains correspondence, pamphlets, flyers, printouts of on-line newsletters, and videotapes and DVDs related to Harry Kelber's work as a labor journalist, labor historian, and advocate of union democracy."
+            }
+        },
+        "controlaccess": {},
+        "dsc": {
+            "value": "\u003cc id=\"aspace_10413864a0f84ea69dcc37f70b98a1c0\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eUnprocessed Records\u003c/unittitle\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_e90cfe982fb003fb7f7e7cb5e3df9ef4\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

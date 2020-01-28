@@ -1,0 +1,123 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "wag_295"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Naomi Allen Papers on the Transport Workers Union of America, Local 100 \u003cnum\u003eWAG.295\u003c/num\u003e"
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-07-30T20:25:01\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "local",
+                        "value": "Allen, Naomi"
+                    }
+                },
+                "unittitle": {
+                    "value": "Naomi Allen Papers on the Transport Workers Union of America, Local 100"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "4 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(4 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "WAG.295"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_01fe7aecceabb6d5cb891b102c57eedf",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_d1d25994440817a3c7ba1ca22f273a93",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Naomi Allen Paper on the Transport Workers Union of America, Local 100; WAG 295; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_06feeab31c9be580b351062e4cdd75be",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Naomi Allen, 2008. The accession number associated with this gift is 1985.005."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_a5bf863dcbe008662e8542b41c6729a1",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Records contain materials relating to Naomi Allen's involvement with the Local 100 of the Transport Workers Union of America in the 1990s."
+            }
+        },
+        "controlaccess": {
+            "corpname": {
+                "source": "naf",
+                "value": "Transport Workers Union of America. Local 100"
+            }
+        },
+        "dsc": {}
+    }
+}

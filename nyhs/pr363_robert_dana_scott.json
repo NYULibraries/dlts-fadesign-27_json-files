@@ -1,0 +1,146 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "pr363_robert_dana_scott"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Robert Dana Scott Photographs\n                    \u003clb/\u003e2006-2016\n                    \u003clb/\u003e\n                    \u003cnum\u003ePR 363\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Larry Weimer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                },
+                "date": "May 2018"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2018-05-31T14:27-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Scott, Robert Dana, 1951-"
+                    }
+                },
+                "unittitle": {
+                    "value": "Robert Dana Scott photographs"
+                },
+                "unitdate": {
+                    "value": "2006-2016"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.0 Linear feet"
+                        },
+                        {
+                            "value": "in one record carton"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The collection includes six albums of color photographs by Robert Dana Scott. The subjects of the albums are street art/murals at 5 Pointz in Long Island City, Queens, and in Bushwick, Brooklyn; street people/homeless and bookshops in Manhattan; boats on the East River; and the lights and street life of Times Square."
+                },
+                "unitid": {
+                    "value": "PR 363"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref4",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Most of the photographs include small captions, usually on the reverse, which are commonly obscured by the enclosures. Patrons may not remove the photographs from their enclosures, but need to request assistance from the Reference Librarian for the Department of Prints, Photographs and Architectural Collections."
+            }
+        },
+        "prefercite": {
+            "id": "ref7",
+            "head": "Preferred Citation Note",
+            "p": {
+                "value": "Credit line: Robert Dana Scott."
+            }
+        },
+        "acqinfo": {
+            "id": "ref6",
+            "head": "Immediate Source of Acquisition Note",
+            "p": {
+                "value": "The albums were gifts of the photographer, Robert Dana Scott, received over time from 2011-2017."
+            }
+        },
+        "bioghist": {
+            "id": "ref22",
+            "head": "Biographical/Historical Note",
+            "p": {
+                "value": "Robert Dana Scott (born 1951) is a New York City resident, living on 42nd Street."
+            }
+        },
+        "scopecontent": {
+            "id": "ref9",
+            "head": "Scope and Contents Note",
+            "p": {
+                "value": "The collection includes 6 albums of 4 x 6 inch color photographs by Robert Dana Scott. Each album is centered on a theme and subject matter concerning some aspect of New York City, including street art/murals at 5 Pointz in Long Island City, Queens, and in Bushwick, Brooklyn; street people/homeless in Manhattan; bookshops; East River scenes; and the lights and street life of Times Square."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Bookstores -- New York (State) -- New York -- Photographs"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Graffiti -- New York (State) -- New York -- Photographs"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Street art -- New York (State) -- New York -- Photographs"
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref20\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e\"5 Pointz\"\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid4229023\" type=\"Box\" label=\"Graphic materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid4229023\" type=\"Album\"\u003e-\u003c/container\u003e\n                    \u003cunitdate\u003e2006-2013\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref21\"\u003e\n                    \u003chead\u003eScope and Contents Note\u003c/head\u003e\n                    \u003cp\u003eIncludes about 93 4 x 6 inch color photographs from the mural space in Long Island City, Queens, known as 5 Pointz. (The murals were painted over by the building's owner and developer in 2013.)\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref10\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e\"Times Square\"\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid4229018\" type=\"Box\" label=\"Graphic materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid4229018\" type=\"Album\"\u003e-\u003c/container\u003e\n                    \u003cunitdate\u003e2010\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref11\"\u003e\n                    \u003chead\u003eScope and Contents Note\u003c/head\u003e\n                    \u003cp\u003eIncludes an album with 171 4 x 6 inch color photographs of Times Square scenes in 2010. Includes night scenes of the Times Square signage and other lights. Includes tour buses and tourists (Holland soccer fans, zombie convention attendees in costume), signage (e.g., hotels, subway, restaurants, Broadway shows and theatres, adult entertainment venues, Police Department, McDonald's, Ripley's, Madame Tussaud's), buildings, crowds of people, costumed street performers/actors (e.g., Naked Cowboy, Naked Cowgirl, Elmo, tin man), police on duty, pedicabs, news crawls on the sides of buildings, street vendors, protests/demonstrations (e.g., anti-abortion, against meat-eating (PETA), pro-North Korea). Most scenes are from the summer; a few include snowy streets.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref16\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e\"Misery of the Metropolis: Photographs of Beggars and Battered Souls on the Streets of Manhattan\"\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid4229021\" type=\"Box\" label=\"Graphic materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid4229021\" type=\"Album\"\u003e-\u003c/container\u003e\n                    \u003cunitdate\u003e2015\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref17\"\u003e\n                    \u003chead\u003eScope and Contents Note\u003c/head\u003e\n                    \u003cp\u003eIncludes 76 4 x 6 inch color photographs from September 2015 of street people sleeping on sidewalks and alcoves, with signs requesting help or cups for donations, and with bags or carts with their possessions.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref12\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e\"Book Shops of Manhattan\"\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid4229019\" type=\"Box\" label=\"Graphic materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid4229019\" type=\"Album\"\u003e-\u003c/container\u003e\n                    \u003cunitdate\u003e2016\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref13\"\u003e\n                    \u003chead\u003eScope and Contents Note\u003c/head\u003e\n                    \u003cp\u003eIncludes 97 4 x 6 inch color photographs of bookshops in early 2016: storefronts, signage, street sales, some interiors. Includes, among others, Argosy, Alabaster, Mysterious, Mast, Book-Off (interiors), Corner, Strand, Shakespeare, Ursus, Bauman, Quest, Left Bank, East Village, Dashwood, Mercer Street, St. Mark's, Book Cellar, La Casa Azul, Crawford Doyle, Logos, Posman, Westsider, Book Culture, McNally Jackson (interiors), 192 Books, Strand stalls in Central Park, Center for Fiction, Rizzoli (interiors), Three Lives, various Barnes \u0026amp; Noble (interiors). Includes a statement of Scott's purpose.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref18\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e\"Bushwick Street Art\"\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid4229022\" type=\"Box\" label=\"Graphic materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid4229022\" type=\"Album\"\u003e-\u003c/container\u003e\n                    \u003cunitdate\u003e2016\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref19\"\u003e\n                    \u003chead\u003eScope and Contents Note\u003c/head\u003e\n                    \u003cp\u003eIncludes 90 4 x 6 inch color photographs from April 2016 of street art (i.e., murals on buildings, fencing, and doorway grates). The photos were taken on various streets in Bushwick, Brooklyn, especially Troutman, St. Nicholas, Flushing, Morgan, and Wyckoff. Includes a statement of Scott's purpose.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref14\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e\"East River Boat \u0026amp; Ship Traffic\"\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid4229020\" type=\"Box\" label=\"Graphic materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid4229020\" type=\"Album\"\u003e-\u003c/container\u003e\n                    \u003cunitdate\u003e2016\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref15\"\u003e\n                    \u003chead\u003eScope and Contents Note\u003c/head\u003e\n                    \u003cp\u003eIncludes 69 4 x 6 inch color photographs of East River scenes from late 2016. Includes tugboats, Circle Line and other tour boats, barges, New York Water Taxi, fishing boats, and others. Includes scenes of buildings, bridges, highways, and the Pepsi Cola sign along the river.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "shaw"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Lewis E. Shaw Papers \u003clb/\u003e1917-1922 (bulk 1917-1919)\u003clb/\u003e \u003cnum\u003eMS 671.1\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Megan Hahn"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-11-09T15:13:09\u003c/date\u003e"
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Shaw, Lewis E., -1926"
+                    }
+                },
+                "unittitle": {
+                    "value": "Lewis E. Shaw papers"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "1917-1922 (Bulk 1917-1919)"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.3 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Lewis E. Shaw served as a 1st Lieutenant in the 369th Infantry Regiment of the United States Army (known as the Harlem Hellfighters) during World War I. His letters to his mother, dated November 12, 1917 to January 27, 1919, tell of his experiences with the American Expeditionary Forces (AEF) in France."
+                },
+                "unitid": {
+                    "value": "MS 671.1"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_ce97414a352c325f6cd8f004ea939600",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Photocopying undertaken by staff only. Limited to twenty exposures of stable, unbound material per day. (Researchers may not accrue unused copy amounts from previous days.)"
+            }
+        },
+        "prefercite": {
+            "id": "aspace_ee09bb60fdd7cc3e8eeebf995aebf1a5",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "This collection should be cited as Lewis E. Shaw Papers, MS 671.1, the New-York Historical Society."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_9da48b07291cb92dc7de19358e8a2211",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Lewis E. Shaw served as a 1st Lieutenant in the 369th Infantry Regiment of the United States Army (known as the Harlem Hellfighters) during World War I."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_236de8186e3ad5f13a9e0c3dc2fc2f77",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "There are 36 letters in this collection from Shaw to his mother, Mrs. C. N. Shaw, in New York and Worcester, MA; and one letter in French from M. A. Thornton to Shaw. The collection also contains official papers regarding Shaw's military career, a map of Ypres, and one picture postcard captioned \"Major Dayton and staff\" with Colored Troops of the American Expeditionary Force. In the postcard, Ann Shaw Davis, daughter of the author and donor of the material, identifies her father as the man with the mustache on horseback behind Major Dayton. According to Mrs. Davis, her father was killed in an automobile accident while coming home from officers' training in 1926."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Military education -- France."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "World War, 1914-1918 -- Participation, African American."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "World War, 1914-1918 -- Personal narratives, American."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "United States. Army. Infantry Regiment, 369th"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref12_i08\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLetters, November 12, 1917-June 17, 1918\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1917-1918\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d7decca5423b91dc1ef1a4cde4b7ee05\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d7decca5423b91dc1ef1a4cde4b7ee05\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref13_7rc\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLetters and postcard, July 1, 1918-Jan. 27, 1919\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1918-1919\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ae1046ca0de9f61e07e1134a06a48fb4\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ae1046ca0de9f61e07e1134a06a48fb4\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14_naf\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eOfficial Papers and Map of Ypres\u003c/unittitle\u003e\u003ccontainer id=\"aspace_ee9299685892f544667ff2887c0b2423\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ee9299685892f544667ff2887c0b2423\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "ricci"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the John Ricci Papers\n                    \u003cnum\u003eMC 156\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Jackie Rider."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                },
+                "date": "3-10-2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2013-03-14T15:21-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "John Ricci Papers"
+                },
+                "unitdate": {
+                    "normal": "1920/1980",
+                    "type": "inclusive",
+                    "value": "1920-1980"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.5 linear feet"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "This collection contains photographs, memorabilia, and correspondence relating to John Ricci's tenure as a professor of chemistry at New York University."
+                },
+                "unitid": {
+                    "value": "MC 156"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref11",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open for research without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "ref12",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: Identification of item, date (if known), John Ricci Papers, MC 156, folder number, New York University Archives, New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "ref15",
+            "head": "Biography of John Ricci",
+            "p": {
+                "value": "He wrote more than 70 research articles, most in the \n                \u003cemph render=\"italic\"\u003eJournal of the American Chemical Society\u003c/emph\u003e. He also authored two books: \n                \u003cemph render=\"italic\"\u003eThe Phase Rule and Heterogeneous Equilibrium\u003c/emph\u003e and \n                \u003cemph render=\"italic\"\u003eHydrogen Ion Concentration, New Concepts in a Systematic Treatment.\u003c/emph\u003e"
+            }
+        },
+        "scopecontent": {
+            "id": "ref14",
+            "head": "Scope and Content",
+            "p": {
+                "value": "The collection consists primarily of photographs taken during and honoring Ricci's teaching career at New York University. Most are of Department of Chemistry faculty and students. Included are some photos of the University Heights Campus. The collection also contains items from Ricci's student days at NYU during the 1920s and correspondence related to Ricci's appointment to several New York City councils and academic honorary societies."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "local",
+                    "value": "New York University |x Special events."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "New York University. University Heights Campus."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Phi Beta Kappa. Alpha of New York (New York University)."
+            }
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref16\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries I\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref1\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eHonorary Fraternity Keys of John Ricci\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid10633001\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid10633001\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"1920/1931\" type=\"inclusive\"\u003e1920-1931\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref2\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003e1926 Commencement Program and NYU Class Day Program\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid10633002\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid10633002\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate normal=\"1926/1926\"\u003e1926\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003cc id=\"ref35\" level=\"item\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eNYU Class Day Program\u003c/unittitle\u003e\n                            \u003clangmaterial\u003e\n                                \u003clanguage langcode=\"eng\"/\u003e\n                            \u003c/langmaterial\u003e\n                            \u003ccontainer id=\"cid10636014\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                            \u003ccontainer parent=\"cid10636014\" type=\"Folder\"\u003e2\u003c/container\u003e\n                            \u003ccontainer parent=\"cid10636014\" type=\"item\"\u003e1\u003c/container\u003e\n                            \u003cunitdate normal=\"1926/1926\"\u003e1926\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref3\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eUniversity Heights Chemistry Faculty 1924, 1932\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid10633003\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid10633003\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate normal=\"1924/1932\" type=\"inclusive\"\u003e1924-1932\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003cc id=\"ref17\" level=\"item\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eDepartment of Chemistry, 1924\u003c/unittitle\u003e\n                            \u003clangmaterial\u003e\n                                \u003clanguage langcode=\"eng\"/\u003e\n                            \u003c/langmaterial\u003e\n                            \u003ccontainer id=\"cid10636001\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                            \u003ccontainer parent=\"cid10636001\" type=\"Folder\"\u003e3\u003c/container\u003e\n                            \u003ccontainer parent=\"cid10636001\" type=\"item\"\u003e1\u003c/container\u003e\n                            \u003cunitdate normal=\"1924/1924\"\u003e1924\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                    \u003cc id=\"ref18\" level=\"item\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eDepartment of Chemistry, 1932\u003c/unittitle\u003e\n                            \u003clangmaterial\u003e\n                                \u003clanguage langcode=\"eng\"/\u003e\n                            \u003c/langmaterial\u003e\n                            \u003ccontainer id=\"cid10636002\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                            \u003ccontainer parent=\"cid10636002\" type=\"Folder\"\u003e3\u003c/container\u003e\n                            \u003ccontainer parent=\"cid10636002\" type=\"item\"\u003e2\u003c/container\u003e\n                            \u003cunitdate normal=\"1932/1932\"\u003e1932\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                    \u003cc id=\"ref19\" level=\"item\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eDepartment of Chemistry, a.\u003c/unittitle\u003e\n                            \u003clangmaterial\u003e\n                                \u003clanguage langcode=\"eng\"/\u003e\n                            \u003c/langmaterial\u003e\n                            \u003ccontainer id=\"cid10636003\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                            \u003ccontainer parent=\"cid10636003\" type=\"Folder\"\u003e3\u003c/container\u003e\n                            \u003ccontainer parent=\"cid10636003\" type=\"item\"\u003e3\u003c/container\u003e\n                            \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                    \u003cc id=\"ref20\" level=\"item\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eDepartment of Chemistry, b.\u003c/unittitle\u003e\n                            \u003clangmaterial\u003e\n                                \u003clanguage langcode=\"eng\"/\u003e\n                            \u003c/langmaterial\u003e\n                            \u003ccontainer id=\"cid10636004\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                            \u003ccontainer parent=\"cid10636004\" type=\"Folder\"\u003e3\u003c/container\u003e\n                            \u003ccontainer parent=\"cid10636004\" type=\"item\"\u003e4\u003c/container\u003e\n                            \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref4\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eRicci with Prof. H. Austin Taylor and Prof. Milton Burton\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid10633004\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid10633004\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate normal=\"1960/1960\"\u003e1960\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003cc id=\"ref25\" level=\"item\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eJohn E. Ricci\u003c/unittitle\u003e\n                            \u003clangmaterial\u003e\n                                \u003clanguage langcode=\"eng\"/\u003e\n                            \u003c/langmaterial\u003e\n                            \u003ccontainer id=\"cid10636008\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                            \u003ccontainer parent=\"cid10636008\" type=\"Folder\"\u003e4\u003c/container\u003e\n                            \u003ccontainer parent=\"cid10636008\" type=\"item\"\u003e1\u003c/container\u003e\n                            \u003cunitdate normal=\"1960/1960\"\u003e1960\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                    \u003cc id=\"ref26\" level=\"item\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eNichols Hall, a.\u003c/unittitle\u003e\n                            \u003clangmaterial\u003e\n                                \u003clanguage langcode=\"eng\"/\u003e\n                            \u003c/langmaterial\u003e\n                            \u003ccontainer id=\"cid10636009\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                            \u003ccontainer parent=\"cid10636009\" type=\"Folder\"\u003e4\u003c/container\u003e\n                            \u003ccontainer parent=\"cid10636009\" type=\"item\"\u003e2\u003c/container\u003e\n                            \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                    \u003cc id=\"ref27\" level=\"item\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eNichols Hall, b.\u003c/unittitle\u003e\n                            \u003clangmaterial\u003e\n                                \u003clanguage langcode=\"eng\"/\u003e\n                            \u003c/langmaterial\u003e\n                            \u003ccontainer id=\"cid10636010\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                            \u003ccontainer parent=\"cid10636010\" type=\"Folder\"\u003e4\u003c/container\u003e\n                            \u003ccontainer parent=\"cid10636010\" type=\"item\"\u003e3\u003c/container\u003e\n                            \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref5\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003e35 Year Service Award to Ricci\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid10633005\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid10633005\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate normal=\"1967/1967\"\u003e1967\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref6\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eFirst Ricci Teaching Award to Arthur Tringali\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid10633006\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid10633006\" type=\"Folder\"\u003e6\u003c/container\u003e\n                        \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref7\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSecond Ricci Teaching Award to Aidan Young\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid10633007\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid10633007\" type=\"Folder\"\u003e7\u003c/container\u003e\n                        \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref8\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eRicci Symposium and Dinner\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid10633008\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid10633008\" type=\"Folder\"\u003e8\u003c/container\u003e\n                        \u003cunitdate normal=\"1983/1983\"\u003e1983\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref9\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eRicci Correspondence\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid10633009\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid10633009\" type=\"Folder\"\u003e9\u003c/container\u003e\n                        \u003cunitdate normal=\"1925/1942\" type=\"inclusive\"\u003e1925-1942\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref29\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries II\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                    \u003cunitdate normal=\"1973/1973\"\u003e1973\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref30\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence, notes\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid11530001\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid11530001\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"1973/1973\"\u003e1973\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref31\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePhotographs\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid11530002\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid11530002\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003cc id=\"ref32\" level=\"item\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eUniversity Heights Campus, Chemistry Lab\u003c/unittitle\u003e\n                            \u003clangmaterial\u003e\n                                \u003clanguage langcode=\"eng\"/\u003e\n                            \u003c/langmaterial\u003e\n                            \u003ccontainer id=\"cid10636011\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                            \u003ccontainer parent=\"cid10636011\" type=\"Folder\"\u003e2\u003c/container\u003e\n                            \u003ccontainer parent=\"cid10636011\" type=\"item\"\u003e1\u003c/container\u003e\n                            \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                    \u003cc id=\"ref33\" level=\"item\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eUniversity Heights Campus, quadrangle\u003c/unittitle\u003e\n                            \u003clangmaterial\u003e\n                                \u003clanguage langcode=\"eng\"/\u003e\n                            \u003c/langmaterial\u003e\n                            \u003ccontainer id=\"cid10636012\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                            \u003ccontainer parent=\"cid10636012\" type=\"Folder\"\u003e2\u003c/container\u003e\n                            \u003ccontainer parent=\"cid10636012\" type=\"item\"\u003e2\u003c/container\u003e\n                            \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                    \u003cc id=\"ref34\" level=\"item\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eUniversity Heights Campus, aerial view\u003c/unittitle\u003e\n                            \u003clangmaterial\u003e\n                                \u003clanguage langcode=\"eng\"/\u003e\n                            \u003c/langmaterial\u003e\n                            \u003ccontainer id=\"cid10636013\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                            \u003ccontainer parent=\"cid10636013\" type=\"Folder\"\u003e2\u003c/container\u003e\n                            \u003ccontainer parent=\"cid10636013\" type=\"item\"\u003e3\u003c/container\u003e\n                            \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                    \u003cc id=\"ref36\" level=\"item\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eSpring weekend, campus\u003c/unittitle\u003e\n                            \u003clangmaterial\u003e\n                                \u003clanguage langcode=\"eng\"/\u003e\n                            \u003c/langmaterial\u003e\n                            \u003ccontainer id=\"cid10655001\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                            \u003ccontainer parent=\"cid10655001\" type=\"Folder\"\u003e2\u003c/container\u003e\n                            \u003ccontainer parent=\"cid10655001\" type=\"item\"\u003e4\u003c/container\u003e\n                            \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

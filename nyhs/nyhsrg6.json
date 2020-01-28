@@ -1,0 +1,142 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "nyhsrg6"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the New-York Historical Society Field Exploration Committee Photographs\n                    \u003clb/\u003e1891-1930s\n                    \u003clb/\u003e\n                    \u003cnum\u003eNYHS-RG 6\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Margaret Kaczorowski"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                },
+                "date": "December 2016"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2018-05-23T17:14-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "New-York Historical Society Field Exploration Committee photographs"
+                },
+                "unitdate": {
+                    "value": "1891-1930s"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "4.33 Linear feet"
+                        },
+                        {
+                            "value": "in 17 containers of various sizes"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The New-York Historical Society Field Exploration Committee photographs record group primarily includes images of materials resulting from the excavations for historical artifacts conducted by members of the Committee, mostly in the early twentieth century. These images are primarily from sites in upper Manhattan and the Bronx and include such materials as buttons from American and British uniforms and coins from the Revolutionary War and War of 1812. Also included are images of Native American materials discovered. These materials informed and illustrated the many articles written by William L. Calver and Reginald P. Bolton and published in N-YHS's \n                \u003cemph render=\"italic\"\u003eQuarterly Bulletin\u003c/emph\u003e during the Committee’s existence from 1917-1938. The record group also includes a catalogue of objects compiled by Calver, with handwritten descriptions and drawings."
+                },
+                "unitid": {
+                    "value": "NYHS-RG 6"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref25",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open to qualified researchers."
+            }
+        },
+        "prefercite": {
+            "id": "ref27",
+            "head": "Preferred Citation Note",
+            "p": {
+                "value": "This record group should be cited as New-York Historical Society Field Exploration Committee photographs (NYHS-RG 6), The New-York Historical Society."
+            }
+        },
+        "bioghist": {
+            "id": "ref2",
+            "head": "Biographical/Historical Note",
+            "p": {
+                "value": "\n                \u003cemph render=\"italic\"\u003eHistory written with pick and shovel: military buttons, belt-plates, badges and other relics excavated from Colonial, Revolutionary, and War of 1812 camp sites by the Field Exploration Committee of the New-York Historical Society\u003c/emph\u003e. By William Louis Calver and Reginald Pelham Bolton, with an introd. by Richard J. Koke; compiled and indexed by Roberta Leighton. New-York Historical Society, 1950. (This is a compilation of Calver and Bolton’s work published in the \n                \u003cemph render=\"italic\"\u003eBulletin\u003c/emph\u003e.)"
+            }
+        },
+        "scopecontent": {
+            "id": "ref3",
+            "head": "Scope and Contents Note",
+            "p": {}
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Archaeology"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Buttons"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Learned institutions and societies -- New York (State) -- New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Military uniforms"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "New-York Historical Society. -- Archives"
+            }
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref1\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eImage Files \u0026amp; Writings\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid2249005\" type=\"Box\" label=\"Mixed materials\"\u003e1a\u003c/container\u003e\n                    \u003ccontainer parent=\"cid2249005\" type=\"Folder\"\u003e1-17\u003c/container\u003e\n                    \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref36\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eCatalogue of Field Exploration Material, Compiled by William L. Calver\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid3583001\" type=\"Box\" label=\"Mixed materials\"\u003e1b\u003c/container\u003e\n                    \u003ccontainer parent=\"cid3583001\" type=\"Folder\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1930s?\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref37\"\u003e\n                    \u003chead\u003eScope and Contents Note\u003c/head\u003e\n                    \u003cp\u003eThis item was transferred to the archives from the Museum Department in December 2017; in the Museum, the object was inventoried under number INV.5765.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref5\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNegatives, 5504-5508, 21473-49215. Glass, 5 x 7\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid2249004\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                    \u003ccontainer parent=\"cid2249004\" type=\"Envelope\"\u003e1-18\u003c/container\u003e\n                    \u003cunitdate\u003e1902-1920\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref7\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNegatives 40971-43902. Glass, 3 x 4\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid2253001\" type=\"Box\" label=\"Mixed materials\"\u003e3\u003c/container\u003e\n                    \u003ccontainer parent=\"cid2253001\" type=\"Envelope\"\u003e1-8\u003c/container\u003e\n                    \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref29\"\u003e\n                    \u003chead\u003eScope and Contents Note\u003c/head\u003e\n                    \u003cp\u003eNegatives are of watercolor drawings photographed by William L. Calver.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref18\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNegatives 39281-39306. Glass, 4 x 5\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid2253012\" type=\"Box\" label=\"Mixed materials\"\u003e4\u003c/container\u003e\n                    \u003ccontainer parent=\"cid2253012\" type=\"Envelope\"\u003e1-25\u003c/container\u003e\n                    \u003cunitdate\u003e1912-1921\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref34\"\u003e\n                    \u003chead\u003eScope and Contents Note\u003c/head\u003e\n                    \u003cp\u003eSubjects include West Point, NY and Inwood.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref17\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNegatives 39308-39687. Glass, 4 x 5\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid2253011\" type=\"Box\" label=\"Mixed materials\"\u003e5\u003c/container\u003e\n                    \u003ccontainer parent=\"cid2253011\" type=\"Envelope\"\u003e1-21\u003c/container\u003e\n                    \u003cunitdate\u003e1903-1920\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref33\"\u003e\n                    \u003chead\u003eScope and Contents Note\u003c/head\u003e\n                    \u003cp\u003eSubjects include Indian Falls, Cold Spring, NY, Inwood, Washington Heights, and Hunt's Point Road.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref16\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNegatives 39688-40147. Glass, 4 x 5\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid2253010\" type=\"Box\" label=\"Mixed materials\"\u003e6\u003c/container\u003e\n                    \u003ccontainer parent=\"cid2253010\" type=\"Envelope\"\u003e1-20\u003c/container\u003e\n                    \u003cunitdate\u003e1909-1925\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref32\"\u003e\n                    \u003chead\u003eScope and Contents Note\u003c/head\u003e\n                    \u003cp\u003eSubjects include American Block House, Fort Putnam, Lusk Reservoir (West Point, NY), and Washington Heights areas.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref15\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNegatives 40148-40205. Glass, 4 x 5\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid2253009\" type=\"Box\" label=\"Mixed materials\"\u003e7\u003c/container\u003e\n                    \u003ccontainer parent=\"cid2253009\" type=\"Envelope\"\u003e1-23\u003c/container\u003e\n                    \u003cunitdate\u003e1905-1925\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref31\"\u003e\n                    \u003chead\u003eScope and Contents Note\u003c/head\u003e\n                    \u003cp\u003eNegatives of Constitution Island, Hunt's Point Burial ground, and Inwood (upper Manhattan).\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref14\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNegatives 40206-40304. Glass, 4 x 5\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid2253008\" type=\"Box\" label=\"Mixed materials\"\u003e8\u003c/container\u003e\n                    \u003ccontainer parent=\"cid2253008\" type=\"Envelope\"\u003e1-22\u003c/container\u003e\n                    \u003cunitdate\u003e1906-1925\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref13\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNegatives 40305-40338. Glass, 4 x 5\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid2253007\" type=\"Box\" label=\"Mixed materials\"\u003e9\u003c/container\u003e\n                    \u003ccontainer parent=\"cid2253007\" type=\"Envelope\"\u003e1-24\u003c/container\u003e\n                    \u003cunitdate\u003e1916-1934\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref12\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNegatives 40340-40790. Glass, 4 x 5\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid2253006\" type=\"Box\" label=\"Mixed materials\"\u003e10\u003c/container\u003e\n                    \u003ccontainer parent=\"cid2253006\" type=\"Envelope\"\u003e1-22\u003c/container\u003e\n                    \u003cunitdate\u003e1905-1923\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref11\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNegatives 40791-41393. Glass, 4 x 5\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid2253005\" type=\"Box\" label=\"Mixed materials\"\u003e11\u003c/container\u003e\n                    \u003ccontainer parent=\"cid2253005\" type=\"Envelope\"\u003e1-21\u003c/container\u003e\n                    \u003cunitdate\u003e1916-1925\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref10\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNegatives 41394-42071. Glass, 4 x 5\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid2253004\" type=\"Box\" label=\"Mixed materials\"\u003e12\u003c/container\u003e\n                    \u003ccontainer parent=\"cid2253004\" type=\"Envelope\"\u003e1-21\u003c/container\u003e\n                    \u003cunitdate\u003e1905-1925\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref9\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNegatives 42072-43482. Glass, 4 x 5\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid2253002\" type=\"Box\" label=\"Mixed materials\"\u003e13\u003c/container\u003e\n                    \u003ccontainer parent=\"cid2253002\" type=\"Envelope\"\u003e1-19\u003c/container\u003e\n                    \u003cunitdate\u003e1905-1921\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref8\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNegatives 43483-44315. Glass, 4 x 5\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid2253003\" type=\"Box\" label=\"Mixed materials\"\u003e14\u003c/container\u003e\n                    \u003ccontainer parent=\"cid2253003\" type=\"Envelope\"\u003e1-22\u003c/container\u003e\n                    \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref30\"\u003e\n                    \u003chead\u003eScope and Contents Note\u003c/head\u003e\n                    \u003cp\u003eNegatives of military uniforms (badges and sword belt plates).\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref19\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNegatives 2847-60543. Film, 5 x 7\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid2253013\" type=\"Box\" label=\"Mixed materials\"\u003e15\u003c/container\u003e\n                    \u003ccontainer parent=\"cid2253013\" type=\"Envelope\"\u003e1-60\u003c/container\u003e\n                    \u003cunitdate\u003e1892-1926\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref35\"\u003e\n                    \u003chead\u003eScope and Contents Note\u003c/head\u003e\n                    \u003cp\u003eSubjects include Inwood Hill Park and Fort Washington.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref20\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNegatives 32084- 48734. Glass, 8 x 10; 34757. Film, 8 x 10\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid2253014\" type=\"Box\" label=\"Mixed materials\"\u003e16\u003c/container\u003e\n                    \u003ccontainer parent=\"cid2253014\" type=\"Envelope\"\u003e1-16\u003c/container\u003e\n                    \u003cunitdate\u003e1891-1923\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

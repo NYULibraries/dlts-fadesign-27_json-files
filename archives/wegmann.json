@@ -1,0 +1,144 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "wegmann"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Edward Wegmann Notebook \u003cnum\u003eMC.59\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Jacqueline Rider"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-06-05T14:16:38\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Wegmann, Edward, 1850-1935"
+                    }
+                },
+                "unittitle": {
+                    "value": "Edward Wegmann Notebook"
+                },
+                "unitdate": {
+                    "normal": "1893/1893",
+                    "value": "1893"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 items"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Edward Wegmann was a special lecturer in the School of Engineering of the University of the City of New York (now New York University). This collection consists of a lecture he delivered to engineering students in 1893."
+                },
+                "unitid": {
+                    "value": "MC.59"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_03d6d08c16e68c7f3df06c9778360201",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_a5bc5c07d9d63f5e54bf4e6571639eec",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known), Edward Wegmann Notebook, MC 59, New York University Archives, New York University Libraries."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_2eb742b239a6b2e6d5ffa3fc5d91d364",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials were transferred from Gould Memorial Library at an unspecified date."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_82a6101b62e35e2dbe226922eed10429",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Wegmann died January 4, 1935, in Yonkers, NY, at the age of 84."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_0731b72eac75199c743e61b64c5c845b",
+            "head": "Scope and Content",
+            "p": {
+                "value": "The Edward Wegmann Notebook consists of one handwritten notebook of a lecture Wegmann delivered to engineering students at New York University on March 20, 1893."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Water-supply engineering  -- New York -- History"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "New York University. School of Engineering and Science"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref10\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eEdward J. Wegmann, Jr. Notebook\u003c/unittitle\u003e\u003cunitdate normal=\"1893/1893\" type=\"inclusive\"\u003e1893\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter - Half\" id=\"aspace_1a9fe580667ec6ec4c8a87c2e8d71890\" label=\"Mixed Materials [31142062742419]\" type=\"Box\"\u003eShared University Archives 009\u003c/container\u003e\u003ccontainer parent=\"aspace_1a9fe580667ec6ec4c8a87c2e8d71890\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

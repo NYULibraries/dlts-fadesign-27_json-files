@@ -1,0 +1,138 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_448"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Vicki Morris Photographs and \u003cemph render=\"italic\"\u003eDaily World\u003c/emph\u003e Clippings \u003cnum\u003eTAM 448\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-06-06T20:47:14\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Vicki Morris Photographs and \u003cemph render=\"italic\"\u003eDaily World\u003c/emph\u003e Clippings"
+                },
+                "unitdate": {
+                    "value": "1960s-1990s"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Vicki Morris was a reporter and editorilist for the Daily World as well as the daughter of George Morris, the Communist Party labor secretary. This small collection contains many clippings of articles and editorials of Morris's work as well as photographs of Morris."
+                },
+                "unitid": {
+                    "value": "TAM 448"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_5cdddc188aadcb4f2583ebbb8c9d42be",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_4fef0e703aee12a1d86343fb07355473",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_f26152fc9f75079f21924b3e300ac8ee",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Helen and George Morris in circa 1996.  The accession number associated with this gift is 1997.070."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_e5b95e9b679c20c55a2095d83152af8b",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Vicki Morris was a reporter and editorialist for the Communist Party, USA newspaper the \u003cemph render=\"italic\"\u003eDaily World\u003c/emph\u003e (established 1968) and its successor, the \u003cemph render=\"italic\"\u003ePeople's Daily World\u003c/emph\u003e, and the daughter of George Morris (1903-), an author, labor journalist, and the chair of the Labor Commission of the Communist Party, USA."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_c42ab387820528ed0bc8d81d95d9ea20",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection contains clippings of Vicki Morris's articles and editorials as well as photos of Morris."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Women communists -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Journalism, Communist -- United States."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Daily World (New York, N.Y.)"
+            }
+        },
+        "dsc": {}
+    }
+}

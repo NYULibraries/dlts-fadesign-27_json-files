@@ -1,0 +1,150 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_538"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Murray Bookchin Manuscript for Free Cities: Communalism and the Left \u003cnum\u003eTAM 538\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Peter Filardo"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-06-18T19:15:30\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Murray Bookchin Manuscript for \u003cemph render=\"italic\"\u003eFree Cities: Communalism and the Left\u003c/emph\u003e"
+                },
+                "unitdate": {
+                    "value": "2008"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box; 80 pages)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Murray Bookchin (1921-2006) was an American anarchist and social ecologist. This collection contains the manuscript for his final book, \u003cemph render=\"italic\"\u003eFree Cities: Communalism and the Left\u003c/emph\u003e, published by Pluto Press in 2008."
+                },
+                "unitid": {
+                    "value": "TAM 538"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_32da6b5e0537b12ac878398903946459",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_14d20c06a9fa47de5a3cd47b7d964402",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_356884d8a2270420ce4d30149a91a32e",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Murray Bookchin Manuscript for\u003cemph render=\"italic\"\u003e Free Cities: Communalism and the Left\u003c/emph\u003e; TAM 538; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_ff3ee286a8c92a9159182884260e25e9",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Eirik Eiglad, editor of \u003cemph render=\"italic\"\u003eFree Cities: Communalism and the Left\u003c/emph\u003e, in 2010. The accession number associated with this gift is 2010.041."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_6aecb5afaa2a7907a1be8da465d157b7",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Murray Bookchin (1921-2006) was an American anarchist and social ecologist. Formerly a Communist and Trotskyist, he later became an anarchist and a founder of the social ecology movement, which seeks to combine insights from anarchism (and from the Marxian Left) with ecological concerns."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_310ce47c619597e447b2217201e80206",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "Table of Contents: Editor's preface: Creating free cities -- Introduction, by Murray Bookchin -- The ecological crisis and the need to remake society -- Nationalism and the \"National Question\" -- Nationalism and the great revolutions --The historical importance of the city -- Anarchism as individualism -- Anarchism, power, and government -- The revolutionary politics of libertarian municipalism -- The future of the left -- Toward a communalist approach -- Endnotes."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Municipal government."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Anarchism."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Social ecology."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "City planning."
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

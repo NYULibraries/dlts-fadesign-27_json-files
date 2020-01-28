@@ -1,0 +1,160 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_2007_042_blackout"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to 1977 Blackout Slide Collection\n                    \u003cnum\u003e2007.042\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Katherine Christensen."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "March 2008"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-08-15T12:47-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "1977 Blackout Slide Collection"
+                },
+                "unitdate": {
+                    "normal": "1977/1978",
+                    "type": "inclusive",
+                    "value": "1977-1978"
+                },
+                "physdesc": {
+                    "label": "Physical Description",
+                    "extent": [
+                        {
+                            "value": "0.25 Linear feet"
+                        },
+                        {
+                            "value": "in 1 35mm slide box"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "These images were captured in the months after the July 13th Blackout of 1977. They were taken by two photographers and cover various locations in the neighborhood of Bushwick. They are predominately potographs of burned-out houses, apartments and stores. Some of the images show the fires being fought while others show the subsequent destruction or the reconstruction of the ruins."
+                },
+                "unitid": {
+                    "value": "2007.042"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref14",
+            "head": "Copyright",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref8",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, 1977; 1977 Blackout Slide Collection, 1977.042, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref6",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "The slides were donated by Sister Elizabeth “Betty” Nichols, a community leader in Bushwick. The slides were given to her by the two photographers. As she was only able to identify one of the photographers, who is unsure that and of the photographs are his work, her account in somewhat in question."
+            }
+        },
+        "bioghist": {
+            "id": "ref3",
+            "head": "Historical Note",
+            "p": {
+                "value": "Curvin, R. and Porter, B. (1979). Blackout Looting! New York City, July 13, 1977. New York: Gardner Press, p. 135 Ibid, p. 26 Ibid, p. 42-43 Ibid, p. 44 Ibid, p. 60 Ibid, p. 69 Ibid, p. 64 Ibid, p. 135 Ibid, p. 45"
+            }
+        },
+        "scopecontent": {
+            "id": "ref10",
+            "head": "Scope and Content",
+            "p": {
+                "value": "Photographic Slides of Bushwick after the 1977 New York City Blackout, 1977-1978, undated: The slides were taken on multiple dates by two photographers. As a result, they are scattered around the neighborhood and occasionally feature the same location on a different date or from a different perspective. Some street signs are visible and other locations can be determined based on proximity to images in other slides or to prominent landmarks. The dates associated with the slides are determined by the development process, and not the capture of the image. There were at least three developments in July of 1977, at least two in August of 1977, one in June of 1978, and one more which is not dated. The slides, in all but the undated development, are successively numbered. The images predominately depict structures which suffered damage during the looting and fires which occurred during the blackout. Frequently there are groups of people within the scenes and occasionally these people are the focus. Item level description is available."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Arson"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Civil disobedience"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Documentary photography"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Electric power failures |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Fire fighters |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Pillage |z New York (State) |z New York"
+                }
+            ]
+        },
+        "otherfindaid": {
+            "id": "ref12",
+            "head": "Other Finding Aids"
+        },
+        "dsc": {}
+    }
+}

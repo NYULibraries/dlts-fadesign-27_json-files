@@ -1,0 +1,104 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_230"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Susan Bondurant Papers \u003cnum\u003eTAM 230\u003c/num\u003e"
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-03T19:57:51\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Susan Bondurant Papers"
+                },
+                "unitdate": {
+                    "normal": "1971/1990",
+                    "type": "inclusive",
+                    "value": "1971-1990"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "3 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "3 boxes"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "TAM 230"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_cbf2aa15f12c31d445b663e4fdbb2ace",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "3"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_f3ecceb13655493e7fba76aeb0243373",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_3ed83f52258167384deae1a578eafee7",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Provenance unknown; most likely donated by Susan Bondurant. The accession number associated with this collection is 1950.190."
+            }
+        },
+        "dsc": {}
+    }
+}

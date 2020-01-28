@@ -1,0 +1,126 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "tam_101"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "David Gordon Papers\n                    \u003cnum\u003eTAM.101\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "11/15/2010"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T17:36-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Gordon, David, 1909-1973"
+                    }
+                },
+                "unittitle": {
+                    "value": "David Gordon Papers"
+                },
+                "unitdate": {
+                    "value": "1920s-1970s, undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "9.0 linear feet"
+                        },
+                        {
+                            "value": "(10 Boxes)"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "TAM.101"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid20018001",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1-10"
+                }
+            }
+        ],
+        "bioghist": {
+            "id": "ref3",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "David Gordon (1909-1973), a Communist trade unionist, author, editor and journalist, was born in the Ukraine, and immigrated to the U.S. when he was three. In 1924, he was convicted of obscenity for writing the poem \"America\" (published in the \n                \u003cemph render=\"italic\"\u003eDaily Worker\u003c/emph\u003e, the Communist Party USA's newspaper) which compared America to a whorehouse. Gordon was paroled to the University of Wisconsin Experimental College where he had a Zona Gale literary scholarship and studied for two years. He became active in the trade union movement and was appointed an organizer for the Paper, Pulp and Sulphite Workers Union, then became a Communist Party organizer in Toledo where he was involved in the Autolite strike of 1934. From 1936-1938, Gordon served with the Abraham Lincoln Brigade during the Spanish Civil War and thereafter was temporarily held in a concentration camp on the French border. In September 1942, he entered the United States Army where he wrote press releases about soldiers' families and feelings which were published in the subjects' hometown newspapers. He also wrote recommendations for medals. Throughout the 1950s and 1960s he wrote feature articles for medical journals and was active in teaching communist ideology and history. He was an editor of \n                \u003cemph render=\"italic\"\u003eAmerican Dialog\u003c/emph\u003e a Communist-initiated cultural periodical, and served on the Cultural Commission of the Communist Party USA. In 1970, Gordon became the cultural editor of the Communist Party's newspaper, then titled the \n                \u003cemph render=\"italic\"\u003ePeople's Daily World\u003c/emph\u003e. He made several trips to Cuba and wrote extensively on his experiences. Shortly before his death on June 21, 1973, he toured the Soviet Union."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "FOR FURTHER INQUIRIES, CONTACT: tamiment.wagner@nyu.edu"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Jewish communists |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Journalism, Communist |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "World War, 1939-1945 |x Journalism, Military |z United States."
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

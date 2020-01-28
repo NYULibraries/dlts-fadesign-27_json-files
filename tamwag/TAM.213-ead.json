@@ -1,0 +1,123 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "tam_213"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "American Veterans Committee: FOIA Files\n                    \u003cnum\u003eTAM.213\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "12/09/2009"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T19:02-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "American Veterans Committee: FOIA Files"
+                },
+                "unitdate": {
+                    "value": "1940s-1950s"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "3.0 linear feet"
+                        },
+                        {
+                            "value": "(3 boxes)"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "TAM.213"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid18925001",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1-3"
+                }
+            }
+        ],
+        "scopecontent": {
+            "id": "ref3",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The American Veterans Committee (AVC) was founded in 1944, during World War II, as a liberal veterans organization and an alternative to groups such as the American Legion and the Veterans of Foreign Wars. With the motto \"Citizens first, veterans second,\" the AVC supported a range of liberal causes: for example, it challenged military segregation and maintained racially integrated chapters in Southern states. Although it had 100,000 member by 1947, it was targeted as a \"Communist front\" organization (i.e., one under the control of the Communist Party, USA), and in response the AVC ousted prominent Communist members and chapters, and subsequently voted to close its membership to members of all totalitarian parties. This bitter struggle resulted in a decline in membership, with AVC rolls falling to 20,000 by 1948, although continued to support liberal causes until it disbanded in 2003. The collection contains United States Air Force Office of Special Investigation files (lacking any apparent system of arrangement) from the 1940s-1950s obtained in the 1990s under the Freedom of Information Act by Marvin E. Gettleman, emeritus professor of history at Brooklyn Polytechnic Institute. PLEASE DIRECT FURTHER INQUIRIES TO: tamiment.wagner@nyu.edu"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Anti-communist movements |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Civil rights |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Veterans |z United States |x Political activity |y 1945-1960."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "World War, 1939-1945 |x Veterans."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Communist Party of the United States of America."
+            }
+        },
+        "dsc": {}
+    }
+}

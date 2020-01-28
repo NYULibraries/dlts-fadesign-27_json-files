@@ -1,0 +1,92 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "ms2958_9820_seaman_protection_kelly"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Seaman's Protection Certificate;\u003clb/\u003eReceipt for Share in Club Boat \"Nautilus\"\u003clb/\u003e1840, 1862\u003clb/\u003e \u003cnum\u003eAHMC - Seamen's Protection, Kelly\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Larry Weimer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-10-03T16:41:48\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Seaman's protection certificate and receipt for one share in club boat \"Nautilus\""
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "1840, 1862"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "2 items"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one folder"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Two unrelated documents. A seaman's protection certificate issued in 1862 by Schuyler Cobb, the Collector of the District of Penobscot, Maine, to Michael Kelly, who was born in New York City about 1838. In the certificate, the collector describes Kelly's identifying physical charactistics and certifies that Kelly is an American citizen. An 1840 receipt from John R. Bleecker of New York for ten dollars paid by William Shermin(?) for one share in the club boat \"Nautilus.\"\u003clb/\u003e \n\n\u003clb/\u003eTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat:\u003cextref actuate=\"onRequest\" href=\"http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph006336106\u0026amp;context=L\u0026amp;vid=NYHS\u0026amp;search_scope=nyhs\u0026amp;tab=nyhs\u0026amp;lang=en_US\"\u003eSeaman's protection certificate and receipt for one share in club boat \"Nautilus\"\u003c/extref\u003e"
+                },
+                "unitid": {
+                    "value": "AHMC - Seamen's Protection, Kelly"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "dsc": {}
+    }
+}

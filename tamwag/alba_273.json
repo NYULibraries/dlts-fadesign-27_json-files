@@ -1,0 +1,105 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "alba_273"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Max Schwartz Papers \u003cnum\u003eALBA.273\u003c/num\u003e"
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-07-18T19:42:35\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "ingest",
+                        "value": "Bush, Irene"
+                    }
+                },
+                "unittitle": {
+                    "value": "Max Schwartz Papers"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "ALBA.273"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_3fb347fd72933246d3a0311621f7fabc",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open to researchers. Please contact the Tamiment Library \u0026amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_7480d2e69856aec21310669db3e9892f",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection includes transcribed journal entries and letters written by Max Schwartz (1913-1938), a veteran of the Abraham Lincoln Brigade.  The journal entries date from December 12, 1937 to January 27, 1938.  Schwartz left for Spain on January 27, 1938.  The materials include correspondence from Schwartz to his sister Lillian Schwartz of Brooklyn, New York and a photo of Schwartz in Spain.  The correspondence dates from October 1937 to February  19, 1938.  Also included is a letter dated January 6, 1939 from Lillian Schwartz to the Secretary of State in Washington, DC concerning her search for information regarding the whereabouts of her brother.  Max Schwartz was killed in Gandesa, Spain in April of 1938."
+            }
+        },
+        "controlaccess": {},
+        "dsc": {}
+    }
+}

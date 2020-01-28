@@ -1,0 +1,156 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1973_249_john_lorimer_worden"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the John Lorimer Worden collection\n                    \u003cnum\u003e1973.249\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "April 20, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-08T14:53-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Worden, John Lorimer, 1818-1897"
+                    }
+                },
+                "unittitle": {
+                    "value": "John Lorimer Worden collection"
+                },
+                "unitdate": {
+                    "normal": "1862/1899",
+                    "type": "inclusive",
+                    "value": "1862-1899"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.1 Linear feet"
+                        },
+                        {
+                            "value": "in one folder."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "1973.249"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid734003",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0011"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref3",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref5",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); John Lorimer Worden collection, 1973.249, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref4",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Presumed to be a gift of the Alexander M. White family, date unknown. The collection was formally accessioned in 1973."
+            }
+        },
+        "bioghist": {
+            "id": "ref2",
+            "head": "Biographical Note",
+            "p": {
+                "value": "John Lorimer Worden (1818-1897), a resident of Westchester County, N.Y., was a U.S. Naval officer who commanded the \n                \u003cemph render=\"italic\"\u003eU.S.S. Monitor\u003c/emph\u003e during the Civil War. His commanding of the \n                \u003cemph render=\"italic\"\u003eMonitor\u003c/emph\u003e in its battle against the Confederate States ship \n                \u003cemph render=\"italic\"\u003eVirginia\u003c/emph\u003e (formerly the \n                \u003cemph render=\"italic\"\u003eC.S.S. Merrimack\u003c/emph\u003e) during the Battle of Hampton Roads in 1862 was integral in maintaining the Union Army's blockade of Norfolk Harbor. After the War, Worden continued to serve the Navy and was promoted to the rank of Rear Admiral."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "This collection spans the period 1862 to 1899 and contains a small assortment of materials relating to John Lorimer Worden and his commanding of the \n                \u003cemph render=\"italic\"\u003eU.S.S. Monitor\u003c/emph\u003e during the Civil War. Materials also relate to the \n                \u003cemph render=\"italic\"\u003eMonitor\u003c/emph\u003e's designers, Cornelius S. Bushnell and John Ericsson, and the Continental Iron Works of Greenpoint in Brooklyn, where the \n                \u003cemph render=\"italic\"\u003eMonitor\u003c/emph\u003e was built. Items include correspondence, obituaries, and several published pamphlets containing histories, memorial tributes, reports, and sermons."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Hampton Roads, Battle of, Va., 1862"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Ships"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Soldiers"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Virginia (Ironclad)."
+            }
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "alba_252"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Thomas Petrella Papers \u003cnum\u003eALBA.252\u003c/num\u003e"
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-08-29T15:36:57\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Petrella, Thomas, 1907-1937?"
+                    }
+                },
+                "unittitle": {
+                    "value": "Thomas Petrella Papers"
+                },
+                "unitdate": {
+                    "normal": "1930/1948",
+                    "type": "inclusive",
+                    "value": "1930-1948"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "ALBA.252"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_b2ae547172f352aee774520d2e0a8ece",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open to researchers. Please contact the Tamiment Library \u0026amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_aa0f8e2ebbcc9e1dbfb0ca540f228739",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Thomas Petrella (1907-1937?) was born in Buffalo, New York and was educated at Harvard.  He traveled to Europe in March of 1937 and joined the International Brigades as an American volunteer.  According to his life insurance company, he was last seen wounded in a Red Cross camp in October 1937.  This small collection includes Petrella's birth certificate, letters from the Department of State, and the Veterans of the Abraham Lincoln Brigade to his mother, a letter from the French government confirming Petrella's death in 1937, a life insurance claim form, and a letter from a friend of Mr. Petrella's to his mother."
+            }
+        },
+        "dsc": {}
+    }
+}

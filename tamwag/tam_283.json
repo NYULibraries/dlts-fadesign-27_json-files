@@ -1,0 +1,160 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_283"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Reunion of Old Timers Records, 1947-1989 \u003cnum\u003eTAM 283\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-11T14:57:43\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Reunion of Old Timers Records"
+                },
+                "unitdate": {
+                    "normal": "1947/1999",
+                    "type": "inclusive",
+                    "value": "1947-1989"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "2 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 2 record cartons"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Reunion of Old Timers was founded in 1941 by veteran members of the labor struggle. The Reunion was established to honor distinguished individuals involved in the labor and socialist movements and to provide financial aid to members and institutions in need. In 1998 the organization changed its name to Reunion for Tomorrow. This partially processed collection consists of minutes, correspondence, dinner programs, financial records, membership lists and communications with the membership. Of particular interest to researchers is the network of friendships among labor and socialist activists revealed in these papers."
+                },
+                "unitid": {
+                    "value": "TAM 283"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_91dcd31bf596308ecf335f47da0c9182",
+                    "label": "Mixed Materials [31142063295292]",
+                    "type": "Box",
+                    "value": "2"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_98d3c573a63317510d389535c2e14991",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_52eb1d9aec2af5e9a88a21d532864d75",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: \u003clb/\u003e\u003clb/\u003eIdentification of item, date; Reunion of Old Timers Records; TAM 283; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_e7eea490436125e00a94576a67909e5d",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by the Reunion of Oldtimers in 1989. The accession number associated with this gift is 1989.009."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_a766e9965ae4a54297d83f75f0e37928",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "After the death of Charles Grossman in 1979, the Reunion continued under the leadership of Morris S. Novik. The first big event of this administration was the sponsorship of the Charles Zimmerman scholarship in 1981. This scholarship provided for two $250.00 cash awards - one for a student entering college and one for a student entering the labor force. In addition, an AFL-CIO educational program was launched to stress the significance of Samuel Gompers and the labor movement in U.S. history. Similar projects were promoted in New York City schools in honor of Meyer London, Benjamin Schlesinger, William Green, A. Philip Randolph, and George Meany. In 1998 the organization changed its name to Reunion for Tomorrow."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_162494f5e838ba9713242cecbe887246",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection consists of minutes, correspondence, dinner programs, financial records, membership lists and communications with the membership. Of particular interest to researchers is the network of friendships among labor and socialist activists revealed in these papers. The correspondence of Marx Lewis, former secretary to Meyer London, to Charles Grossman, for example, documents Lewis' own political observations and activities, and those of the milieux from which he came, between 1963 and Grossman's death in 1979. The collection also contains thick files, mostly for individual years in the 1980s."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Labor unions |x Officials and employees |x Societies, etc."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialists |z United States |x Societies, etc."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Jewish socialists -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor movement -- United States -- History"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Reunion of Old Timers"
+            }
+        },
+        "otherfindaid": {
+            "id": "aspace_6e525a72287ceb2d943a77e0364da61f",
+            "head": "Other Finding Aids"
+        },
+        "dsc": {}
+    }
+}

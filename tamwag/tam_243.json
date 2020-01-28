@@ -1,0 +1,171 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_243"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Herman Singer Papers \u003cnum\u003eTAM.243\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-04-22T20:57:35\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "ingest",
+                        "value": "Sam, Judith Singer."
+                    }
+                },
+                "unittitle": {
+                    "value": "Herman Singer Papers"
+                },
+                "unitdate": {
+                    "normal": "1940/2001",
+                    "type": "inclusive",
+                    "value": "1940-2001"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "5.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 4 record cartons, 2 manuscript boxes and 1 half manuscript box."
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Herman Singer (1915-2001) was an editor of the \u003cemph render=\"italic\"\u003eNew Leader\u003c/emph\u003e from 1945-1950. He worked for Radio Free Europe (RFE) and collected documents relating to his work on Calverton, Socialist Party history, NY Call/SDF, the Newspaper Guild-Free Europe Unit, and \u003cemph render=\"italic\"\u003eFree Europe Guild News\u003c/emph\u003e. He corresponded regularly with  Bob Rindel, Sam Solon, Tom Berger, Calverton and other editors and publishers."
+                },
+                "unitid": {
+                    "value": "TAM.243"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_b526cbff655068b496f3f89ecfdf2705",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_7aa905c831c3430cedd52257ef2daf63",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Herman Singer Papers; TAM 243; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_7dc0647fb56bc7edff2b735b357f818a",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials donated by Judith Singer Sam in 2002 and 2005. Judith Singer Sam sent a gift of four cartons of the papers of Herman Singer containing materials related to his literary career and political activities, and his work for Radio Free Europe in 2002. Singer Sam also send materials related to Bob Rindl, Sam Solon, and Calverton in 2005. The accession number associated with these gifts are 2002.016. An additional accession was donated in January 2019 by Judy Sam. The accession number associated with this accretion is 2019.045."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_c72f57df45b8a2087bacd452711ee0b2",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Herman Singer (1915-2001) was an editor of the \u003cemph render=\"italic\"\u003eNew Leader\u003c/emph\u003e from 1945-1950. He worked for Radio Free Europe (RFE) and was active in their alumni organization, the Society of International Broadcasters. He edited the publication \u003cemph render=\"italic\"\u003eEast Europe\u003c/emph\u003e in the 1960s and 1970s wrote on V. F. Calverton, proletarian literature and Socialist Party history, and reviewed books and films."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_384c509c68c4e41f365bd79ced3ee82d",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection contains correspondence and documents relating to his work on Calverton, Socialist Party history, NY Call/SDF, the Newspaper Guild-Free Europe Unit, and \u003cemph render=\"italic\"\u003eFree Europe Guild News\u003c/emph\u003e. Also included is correspondence with Bob Rindel, Sam Solon, Calverton and various editors and publishers. Accretion 2019 contains documents and clippings from his work within \u003cemph render=\"italic\"\u003eThe Call\u003c/emph\u003e and his correspondence with Tom Berger."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Socialism and literature |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Working class in literature."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialist parties -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Communism and literature -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialists -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialism -- United States -- History."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialism -- United States -- Newspapers."
+                }
+            ],
+            "corpname": {
+                "source": "ingest",
+                "value": "The socialist call."
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref7\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCalverton, Socialist Party history, Radio Free Europe, East Europe; Max Nomad - \u003cemph render=\"italic\"\u003eAspects of Revolt\u003c/emph\u003e, J.T. Farrell\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"586657\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e586657\u003c/unitid\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_c52000c30948a46a3e0b89a3969b9d43\" label=\"Mixed Materials [31142062758720]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_d18fcfe689206a293aed7699d57b65f8\" label=\"Mixed Materials [31142062758746]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_380309a37d746aaead4dd1dab9ec2269\"\u003e\u003chead\u003eScope and Content Note\u003c/head\u003e\u003cp\u003eThis box contains correspondence, including correspondence to Joseph Freeman, research materials, and literary correspondence with publishers.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref9\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"italic\"\u003eNew York Call\u003c/emph\u003e, Socialist Party/SDF; East Europe; Newspaper Guild - Free Europe Unit, including Free Europe Guild News\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"586658\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e586658\u003c/unitid\u003e\u003cunitdate normal=\"1940/1969\" type=\"inclusive\"\u003e1940s-1960s\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_68c14f296047ca9471ae4338b0cb430b\" label=\"Mixed Materials [31142062758746]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_d636e4bfe92ac3412c1d78b8a4be721e\" label=\"Mixed Materials [31142062758738]\" type=\"Box\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_704dc8283e3afda33f0bec1fcdcc2a5e\"\u003e\u003chead\u003eScope and Content Note\u003c/head\u003e\u003cp\u003eThis box contains Socialist party internal documents, correspondence, and a partial book length typescript on labor and management.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref10\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSociety of International Broadcasters\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"586659\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e586659\u003c/unitid\u003e\u003cunitdate normal=\"1970/1989\" type=\"inclusive\"\u003e1970s-1980s\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_38b4517745977cdebb199dc579298baf\" label=\"Mixed Materials [31142062722395]\" type=\"Box\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref11\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e2005 Accession\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"586660\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e586660\u003c/unitid\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_51469345f3ce9b1aacc693e415446d40\" label=\"Mixed Materials [31142062722403]\" type=\"Box\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

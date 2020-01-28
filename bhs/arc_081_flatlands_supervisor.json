@@ -1,0 +1,148 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arc_081_flatlands_supervisor"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Supervisor of the Town of Flatlands account books\n                    \u003cnum\u003eARC.081\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Patricia Glowinski"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "August 17, 2010."
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-22T15:13-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Voorhees, John A."
+                    }
+                },
+                "unittitle": {
+                    "value": "Supervisor of the Town of Flatlands account books"
+                },
+                "unitdate": {
+                    "normal": "1817/1886",
+                    "type": "inclusive",
+                    "value": "1817-1886"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.14 Linear feet"
+                        },
+                        {
+                            "value": "in three volumes."
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The Town of Flatlands was one of the original six towns in what is now Brooklyn, N.Y. The land on which Flatlands was founded was acquired by Dutch settlers from the Canarsie (sometimes spelled Canarsee), the original inhabitants of the area, in 1636. By 1647, the Dutch were calling the area Nieuw Amersfoort (New Amersfoort). In 1661, New Netherland Director-General Peter Stuyvesant granted New Amersfoort the right to local rule. By 1664, the British had taken control of New Netherland and changed the name of New Amersfoort to Flatlands. The Supervisor of the Town of Flatlands account books, measuring .14 linear feet in three volumes, span the years 1817 to 1886. Entries in all volumes record the name of the Supervisor, the amount of money received, date received, what the money was received for, and the signature of the payee."
+                },
+                "unitid": {
+                    "value": "ARC.081"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid395001",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0127"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref2",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref4",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Supervisor of the Town of Flatlands account books, ARC.081, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Gift of G.A. Baker \u0026amp; Co., date unknown."
+            }
+        },
+        "bioghist": {
+            "id": "ref1",
+            "head": "Historical note",
+            "p": {
+                "value": "Today, Flatlands is a neighborhood in Brooklyn. Its approximate borders run between Nostrand and Ralph Avenues (West to East) and between Avenues H to T (North to South)."
+            }
+        },
+        "scopecontent": {
+            "id": "ref6",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "\n                \u003cemph render=\"bold\"\u003eVolume 3\u003c/emph\u003e spans September 20, 1876 through November 6, 1886. John L. Ryder served as Supervisor of the Town of Flatlands. Volume 3 pertains only to teacher wages and library expenses for School Districts No. 1, 2, and 3."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Municipal government |z New York (State) |z Kings County"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

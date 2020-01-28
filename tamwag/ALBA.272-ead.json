@@ -1,0 +1,143 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "alba_272"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Lini M. De Vries Papers\n                    \u003cnum\u003eALBA.272\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Kelli Piotrowski"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "10/23/09"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T09:23-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "De Vries, Lini M."
+                    }
+                },
+                "unittitle": {
+                    "value": "Lini M. De Vries Papers"
+                },
+                "unitdate": {
+                    "normal": "1940/2009",
+                    "type": "inclusive",
+                    "value": "1940s-2009 (bulk 1940s-1960s)"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.5 linear feet"
+                        },
+                        {
+                            "value": " (1 box)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Lini M. De Vries (1905-1982) was a nurse, public health administrator, author and educator who served as a nurse with the Medical Bureau to Aid Spanish Democracy (AMB) during the Spanish Civil War. The collection contains correspondence, clippings, a literary draft, and Federal Bureau of Investigation (FBI) files obtained through the Freedom of Information Act (FOIA)."
+                },
+                "unitid": {
+                    "value": "ALBA.272"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref4",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open for research without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "ref6",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: \n                \u003clb/\u003e\n                \u003clb/\u003eIdentification of item, date; Collection name; Collection number; box number; folder number; \n                \u003clb/\u003eTamiment Library/Robert F. Wagner Labor Archives \n                \u003clb/\u003eElmer Holmes Bobst Library \n                \u003clb/\u003e70 Washington Square South \n                \u003clb/\u003eNew York, NY 10012, New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "ref10",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Lini De Vries died on March 27, 1982, in Ridgewood, New Jersey."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "\n                \u003cemph render=\"bold\"\u003eNote to Researcher:\u003c/emph\u003e An extensive collection of Lini De Vries' papers are held at the Schlesinger Library, Radcliffe Institute for Advanced Study at Harvard University."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Public health nurses."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Public health nursing |z Mexico."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Medical Bureau to Aid Spanish Democracy."
+            }
+        },
+        "dsc": {
+            "value": "\n            \u003cc01 id=\"ref11\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries I: Subject Files, 1940s-2009.\u003c/unittitle\u003e\n                \u003c/did\u003e\n                \u003cc02 id=\"ref13\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eBiographical Files\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid18752001\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid18752001\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"1940/2009\" type=\"inclusive\"\u003e1940s, 1960s, 2008-2009\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref14\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eBook Reviews (clippings)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid18752002\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid18752002\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate normal=\"1959/2007\" type=\"inclusive\"\u003e1959, 2007\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref15\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCertificate of Death\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid18752003\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid18752003\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate normal=\"1982/1982\"\u003eMar 27, 1982\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref16\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence: Copyright Permission Requests\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid18752004\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid18752004\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate normal=\"1987/1995\" type=\"inclusive\"\u003e1987, 1995\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref17\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence: Fredericka I. Martin to \n                            \u003cemph render=\"italic\"\u003eThe Volunteer\u003c/emph\u003e\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid18752005\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid18752005\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate normal=\"1982/1982\"\u003eMay 17, 1982\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref18\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence: Freedom of Information Act Requests\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid18752006\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid18752006\" type=\"Folder\"\u003e6\u003c/container\u003e\n                        \u003cunitdate normal=\"1997/1999\" type=\"inclusive\"\u003e1997-1999\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref19\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eFreedom of Information Act Files\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid18752007\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid18752007\" type=\"Folder\"\u003e7\u003c/container\u003e\n                        \u003cunitdate normal=\"1940/1970\" type=\"inclusive\"\u003e1940s-1970s\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref20\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eLiterary Manuscript: Draft of \n                            \u003cemph render=\"italic\"\u003eThe People of the Mountains: Health Education among Indian Communities in Oaxaca, Mexico\u003c/emph\u003e\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid18752008\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid18752008\" type=\"Folder\"\u003e8\u003c/container\u003e\n                        \u003cunitdate normal=\"1968/1968\"\u003eOct 21, 1968\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref21\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMargolis, Paul: \"Dr. Pike's Spanish War,\" Proposal Submitted to Bard College [incomplete]\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid18752009\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid18752009\" type=\"Folder\"\u003e9\u003c/container\u003e\n                        \u003cunitdate normal=\"1976/1976\"\u003eApr 1976\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref22\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eObituaries (clippings)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid18752010\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid18752010\" type=\"Folder\"\u003e10\u003c/container\u003e\n                        \u003cunitdate normal=\"1982/1982\"\u003e1982\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n            \u003c/c01\u003e\n        "
+        }
+    }
+}

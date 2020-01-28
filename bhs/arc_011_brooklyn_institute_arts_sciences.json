@@ -1,0 +1,128 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "arc_011_brooklyn_institute_arts_sciences"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Records of the Brooklyn Institute of Arts and Science \u003cnum\u003eARC.011\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Flora A. Rodriguez"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "Brooklyn Historical Society",
+                        "128 Pierrepont Street",
+                        "Brooklyn 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-06-13T13:55:24\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Brooklyn Institute of Arts and Sciences records"
+                },
+                "unitdate": {
+                    "normal": "1843/1979",
+                    "type": "inclusive",
+                    "value": "1843-1979"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "10 Cubic Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in thirteen manuscript boxes"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Brooklyn Institute of Arts and Sciences evolved from the Brooklyn Apprentices' Library Association formed in 1823, largely through the efforts of Augustus Graham.  In 1825 the Marquis de Lafayette laid the cornerstone of a new building on Washington Street -- a memorable occasion for a young witness named Walt Whitman.  The Library was renamed the Brooklyn Institute in 1843 and remained essentially the same until about 1888 when a greatly expanded program into many branches of science and art was initiated.  Approximately 85% of the collection consists of publications, hard and softbound (including programs and exhibition catalogs), and the remainder correspondence and financial records.  Very few of the materials pre-date the 1890 fire and consolidation; a few of the items surviving include an 1843 exhibition catalog and the 1857 Apprentice's Library catalog, as well as several music programs."
+                },
+                "unitid": {
+                    "value": "ARC.011"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_39dad8eb768ebbaeb8f3c6603b5d3a04",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_f7bd0104d5342c7cd75cec179c9ff2be",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Collection Title, Call or Accession number, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_b906e2286cb45bf86caab496b7ddcd2e",
+            "head": "Historical note"
+        },
+        "scopecontent": {
+            "id": "aspace_304707e801a112ec1fa8a878e3e38a34",
+            "head": "Scope and Contents note"
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Music education"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Museums"
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref9_lye\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries 1: BIA\u0026amp;S General Administration\u003c/unittitle\u003e\u003cunitdate normal=\"1857/1973\" type=\"inclusive\"\u003e1857-1973\u003c/unitdate\u003e\u003ccontainer id=\"aspace_42b9dcc5626acf276e6550a11307ad9d\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer id=\"aspace_d71d5f652540f2486675f7f225f06a95\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer id=\"aspace_7c6c1ea4b2aa87e643eef2effe7e428f\" label=\"Mixed Materials\" type=\"Box\"\u003e3\u003c/container\u003e\u003ccontainer id=\"aspace_8ee393a021fbc4e3446cd9099e1b7b02\" label=\"Mixed Materials\" type=\"Box\"\u003e5\u003c/container\u003e\u003ccontainer id=\"aspace_b710085557ab2ffaa8c0bbd5b02e9b05\" label=\"Mixed Materials\" type=\"Box\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_8b07ad812471ffdb8ec433c30ed241c2\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003eThis series comprises documents pertaining to the General Administration Division of BIA\u0026amp;S. Included are historical documents pertaining to the founding and early development of the institution; acts of incorporation, by-laws, and statements of purpose; annual reports and financial documents originating from the Office of the Treasurer.  The materials in this series span the dates 1857-1973.\u003c/scopecontent\u003e\u003carrangement id=\"aspace_8357e572088335a7eae89d65a3abd152\"\u003e\u003chead\u003eArrangement\u003c/head\u003e\u003cp\u003eContained within boxes 1-3, 5, and 9.\u003c/p\u003e\u003c/arrangement\u003e\u003c/c\u003e\u003cc id=\"aspace_ref11_ii0\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries 2: Education Division\u003c/unittitle\u003e\u003cunitdate normal=\"1860/1979\" type=\"inclusive\"\u003e1860-1979\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e78b71eeacf6d9ccdfc3c91d624a8a91\" label=\"Mixed Materials\" type=\"Box\"\u003e4\u003c/container\u003e\u003ccontainer id=\"aspace_179685af7f3d172a353ec02f33b5fcc5\" label=\"Mixed Materials\" type=\"Box\"\u003e5\u003c/container\u003e\u003ccontainer id=\"aspace_cf11c9116f5d80567eb588d9e89b950e\" label=\"Mixed Materials\" type=\"Box\"\u003e6\u003c/container\u003e\u003ccontainer id=\"aspace_55dc76d927b231b492b4d81c5fd29448\" label=\"Mixed Materials\" type=\"Box\"\u003e7\u003c/container\u003e\u003ccontainer id=\"aspace_c7aef5d70dd57231514ca711e44c7a26\" label=\"Mixed Materials\" type=\"Box\"\u003e8\u003c/container\u003e\u003ccontainer id=\"aspace_f972ad3497fa387ba5452711a0ede99d\" label=\"Mixed Materials\" type=\"Box\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_57d37f21874539a0a4d29c1ad9d0f601\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003eThis series comprises materials related to the BIA\u0026amp;S Department of Education. It includes Prospectii of the Department of Education, copies of the weekly \u003cemph render=\"italic\"\u003eBulletin of the Brooklyn Institute of Arts and Sciences\u003c/emph\u003e, as well as records of the individual departments of the education division. Strongly represented are materials pertaining to the Brooklyn Academy of Music (BAM), including by-laws, correspondence, event programs and calendars, and copies of the \u003cemph render=\"italic\"\u003eBrooklyn Academy of Music Monthly Guide and Review\u003c/emph\u003e.  Also included are records of the Brooklyn Ballet Association, the Women's Committee for the Boston Symphony Orchestra Concerts in Brooklyn, the Tanglewood Excursion, the BIA\u0026amp;S Department of Zoology, and other miscellaneous documents pertaining to the education division.\u003c/scopecontent\u003e\u003carrangement id=\"aspace_b97f74d0fc28cc330ee7edc13dc55507\"\u003e\u003chead\u003eArrangement\u003c/head\u003e\u003cp\u003eContained within boxes 4-8, and 10.\u003c/p\u003e\u003c/arrangement\u003e\u003c/c\u003e\u003cc id=\"aspace_ref13_l1o\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries 3: Museums\u003c/unittitle\u003e\u003cunitdate normal=\"1843/1976\" type=\"inclusive\"\u003e1843-1976\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7c57adb5b762fe5d2d32a71ab49d0808\" label=\"Mixed Materials\" type=\"Box\"\u003e11\u003c/container\u003e\u003ccontainer id=\"aspace_d9f0251499b4578752deabb883adaf2d\" label=\"Mixed Materials\" type=\"Box\"\u003e12\u003c/container\u003e\u003ccontainer id=\"aspace_46bc85a0788380f29fdc1859321c4342\" label=\"Mixed Materials\" type=\"Box\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_e3d24bc12b4a8dcd6a21a7773a37c430\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003eThe series comprises records of the museums division of BIA\u0026amp;S.  Included are correspondence, financial records, catalogs and programs, and other publications.  Additionally, there are materials pertaining specifically to the Children's Museum, as well as materials related to the 50th anniversary of the Brooklyn Museum.\u003c/scopecontent\u003e\u003carrangement id=\"aspace_635a3ddb10bef106004ffca87a5537b3\"\u003e\u003chead\u003eArrangement\u003c/head\u003e\u003cp\u003eContained within boxes 11-13.\u003c/p\u003e\u003c/arrangement\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15_5vw\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries 4: Brooklyn Botanic Garden\u003c/unittitle\u003e\u003cunitdate normal=\"1912/1921\" type=\"inclusive\"\u003e1912-1921\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ea9f416ed7a216d53f792fdad77537a8\" label=\"Mixed Materials\" type=\"Box\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003carrangement id=\"aspace_a9d976b9ffb7a9650842cb8959b5ba1f\"\u003e\u003chead\u003eArrangement\u003c/head\u003e\u003cp\u003eContained within box 13.\u003c/p\u003e\u003c/arrangement\u003e\u003cscopecontent id=\"aspace_77832071ac15a76ae4db48675dd14f61\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThe series includes miscellaneous publications of the Brooklyn Botanic Garden, spanning the dates 1912-1921.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e"
+        }
+    }
+}

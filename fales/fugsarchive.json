@@ -1,0 +1,166 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-F",
+            "value": "fugsarchive"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to The Fugs Archive \u003cnum\u003eMSS.013\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tania Friedel, April 1999."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Fales Library and Special Collections"
+                },
+                "address": {
+                    "addressline": [
+                        "Fales Library and Special Collections",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "3rd Floor",
+                        "New York, NY 10012",
+                        "Phone: (212) 998-2596",
+                        "fales.library@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-03-09T21:48:40\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Fales Library and Special Collections"
+                    }
+                },
+                "unittitle": {
+                    "value": "Fugs Archive"
+                },
+                "unitdate": {
+                    "normal": "1963/1971",
+                    "type": "inclusive",
+                    "value": "ca. 1963-1971"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.75 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 2 box"
+                        },
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "4 audiocassettes"
+                        }
+                    ],
+                    "altrender": "part"
+                },
+                "abstract": {
+                    "value": "The Fugs Archive is a part of the Avant Garde Collection at Fales Library, New York University. The Fugs Archive is a collection of correspondence and manuscripts about band members Ed Sanders, Tuli Kupferberg, and Ken Weaver. Materials are arranged in alphabetical and chronological order."
+                },
+                "unitid": {
+                    "value": "MSS.013"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_4c36a505f0e383e99a294665207bdb7a",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open to researchers. Appointments are necessary for the use of manuscript and archival collections."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_abc111cc59254678a48a46d11809c9f0",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Fugs Archives; MSS 013; box number; folder number; Fales Library \u0026amp; Special Collections, New York University University."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_d983a5f836b124406f7b31f7d45146b1",
+            "head": "Historical Note",
+            "p": {
+                "value": "The Fugs consisted of three members: Tuli Kupferberg, native New Yorker and \"one of the leading Anarchist theorists of our time,\" Ken Weaver, humorist and poet, and Ed Sanders, poet and leader of the group."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_3830f97a469607ddb87f41708431070b",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The Fugs Archive consists of correspondence, manuscripts, flyers, newsclippings, and publications dating between 1963-1971."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Rock musicians."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Rock music."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Rock groups."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Performance art."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Experimental theater -- 20th century"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Avant-garde (Aesthetics)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "American poetry -- 20th century."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Poets, American -- 20th century."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Fugs (Musical group)"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref11\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: Correspondence, Manuscripts, Flyers, Newsclippings, and Publications\u003c/unittitle\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_e13677ecddf5aabf968acaa4024219de\"\u003e\u003chead\u003eScope and Contents note\u003c/head\u003e\u003cp\u003eSeries 1 contains 1 box of correspondence and manuscripts written by the Fugs, various flyers, newsclippings and publications.\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_ref12\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eList of archive\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_215d940c69e04df1d366c68d7df7570c\" label=\"Mixed Materials (31142054862639)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_215d940c69e04df1d366c68d7df7570c\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref13\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eBiography\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a6f9c866237ece294a3ecbafe6a99621\" label=\"Mixed Materials (31142054862639)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_a6f9c866237ece294a3ecbafe6a99621\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence and manuscripts: Kupferberg, Tuli\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_828cb65818eeda75e70581bd2a20bade\" label=\"Mixed Materials (31142054862639)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_828cb65818eeda75e70581bd2a20bade\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence and manuscripts: Sanders, Ed\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a680a5ce7471902ef575beece9e29bbb\" label=\"Mixed Materials (31142054862639)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_a680a5ce7471902ef575beece9e29bbb\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence and manuscripts: Weaver, Ken\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4d277a1bf185af2bfd8e3a0c68e84bc1\" label=\"Mixed Materials (31142054862639)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_4d277a1bf185af2bfd8e3a0c68e84bc1\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eAnnouncements regarding Ed Sanders\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_8291a75d73105d6611db9769685495af\" label=\"Mixed Materials (31142054862639)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_8291a75d73105d6611db9769685495af\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eArchive 76: \u003ctitle render=\"italic\"\u003eThe Marijuana Newsletter\u003c/title\u003e, Issue 2; March 15, 1965\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1965\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a9eb90a963720ae3b7e53607d2422326\" label=\"Mixed Materials (31142054862639)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_a9eb90a963720ae3b7e53607d2422326\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_71bddc71ec8b305685f15c0bc6848025\"\u003e\u003chead\u003eSeparated Materials Note\u003c/head\u003e\u003cp\u003eThe Marijuana Newsletter has been removed to the Fales stacks. It can be located in the NYU Bobcat online catalog.\u003c/p\u003e\u003c/odd\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eArchive 80: A Valorium edition of the entire extant works of Thales\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_cb661e3edff4b199459fceb873d8c74d\" label=\"Mixed Materials (31142054862639)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_cb661e3edff4b199459fceb873d8c74d\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eArchive 84: Maxims and aphorisms from the letters of D.H. Lawrence, compiled by Marguerite Harris\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5697c1ae0d1db7280ebda964d33bdd19\" label=\"Mixed Materials (31142054862639)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5697c1ae0d1db7280ebda964d33bdd19\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eArchive 95, 97, 98: Ed Sanders catalogues 3, 4.5, 6\u003c/unittitle\u003e\u003ccontainer id=\"aspace_3303ee5f837ef7153f451e6004591ca0\" label=\"Mixed Materials (31142054862639)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_3303ee5f837ef7153f451e6004591ca0\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eESP-Disk order form\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_fa1c73e41d41574afd2c9b5665e22269\" label=\"Mixed Materials (31142054862639)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_fa1c73e41d41574afd2c9b5665e22269\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eFugs flip\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_fa85ff5b384f92d0bef85d69586e50f2\" label=\"Mixed Materials (31142054862639)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_fa85ff5b384f92d0bef85d69586e50f2\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eFlyers\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d3e21a83fa949ac80162bc5336b9c523\" label=\"Mixed Materials (31142054862639)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d3e21a83fa949ac80162bc5336b9c523\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eLogo\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5f98dd3d689ebfa9d49e9d85364d8e04\" label=\"Mixed Materials (31142054862639)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5f98dd3d689ebfa9d49e9d85364d8e04\" type=\"Folder\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref26\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003ePhoto\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_48ef625d33fbd9507993af7426880337\" label=\"Mixed Materials (31142054862639)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_48ef625d33fbd9507993af7426880337\" type=\"Folder\"\u003e15\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003ePoets at the Metro\u003c/title\u003e, vol. VIII, November 1963\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1963\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ce1484852664ef4f4206d34be7472342\" label=\"Mixed Materials (31142054862639)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ce1484852664ef4f4206d34be7472342\" type=\"Folder\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref28\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eTransatlantic news and transatlantic letters\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5345151b4f3af5e979cfc15db2ceb442\" label=\"Mixed Materials (31142054862639)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5345151b4f3af5e979cfc15db2ceb442\" type=\"Folder\"\u003e17\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref29\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eSanders truckstop [bio]\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_98f8b459767170f3e987cbc6c8dba0a7\" label=\"Mixed Materials (31142054862639)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_98f8b459767170f3e987cbc6c8dba0a7\" type=\"Folder\"\u003e18\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref30\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eNewsclips\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_24d823b6040f0ffead3b83fa3fa55317\" label=\"Mixed Materials (31142054862639)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_24d823b6040f0ffead3b83fa3fa55317\" type=\"Folder\"\u003e19\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref31\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eNewsclip composit\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e[1966]\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f0191b3f2dfa571ccf4370dbfcb32dbc\" label=\"Mixed Materials (31142062893220)\" type=\"Folder\"\u003e3 Right\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref32\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eThe Fugs poster regarding ESP disk--black and white\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_be113714ed5175a0673ba797be81cfad\" label=\"Mixed Materials (31142062893220)\" type=\"Folder\"\u003e3 Right\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref33\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eThe Fugs poster regarding ESP disk--color\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9344863bb0ed8d67f64f9caa8c65b290\" label=\"Mixed Materials (31142062893220)\" type=\"Folder\"\u003e3 Right\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_4f5a9a9a92563cfd518516573e39a966\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries II: Audio\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ad18599c65df78c01e4fed303b9f3498\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eEd Sanders Interview\u003c/unittitle\u003e\u003cunitid\u003ecuid6288\u003c/unitid\u003e\u003cunitdate normal=\"1968-10-01/1968-10-01\" type=\"inclusive\"\u003e1968-10-01\u003c/unitdate\u003e\u003cunitdate normal=\"2018-02/2018-02\" type=\"inclusive\"\u003e2018-02\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4c06e24fc6281a6645d295d4eba07925\" label=\"Audio (31142063430188)\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_4c06e24fc6281a6645d295d4eba07925\" type=\"Reel\"\u003ecuid6288\u003c/container\u003e\u003ccontainer id=\"aspace_de663ba671b8f5cb27bfcdd8995b2a8a\" label=\"Digital_access_copy\" type=\"E-records\"\u003efales_MSS013\u003c/container\u003e\u003ccontainer parent=\"aspace_de663ba671b8f5cb27bfcdd8995b2a8a\" type=\"E-records\"\u003efales_MSS013_cuid6288\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_2bdee96c60d67248dc1898b808a086d4\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eAn audio recording of an interview with Fugs member, Ed Sanders, that occured in London in 1968.\u003c/p\u003e\u003c/scopecontent\u003e\u003cphystech id=\"aspace_3fa7f0ec773d8c7f40dfae28360ab894\"\u003e\u003chead\u003ePhysical Characteristics and Technical Requirements\u003c/head\u003e\u003cp\u003eOriginal format: 1/4\" Open Reel Audio, Duration: 66 min.\u003c/p\u003e\u003c/phystech\u003e\u003c/c\u003e\u003cc id=\"aspace_c923895ee3423cefc338269e3c80e91c\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eKen Weaver, Taken from Notebooks [Reel 1] \u003c/unittitle\u003e\u003cunitid\u003ecuid6289\u003c/unitid\u003e\u003cunitdate normal=\"1969-02-06/1969-02-06\" type=\"inclusive\"\u003e1969-02-06\u003c/unitdate\u003e\u003cunitdate normal=\"2018-02/2018-02\" type=\"inclusive\"\u003e2018-02\u003c/unitdate\u003e\u003ccontainer id=\"aspace_064a5ad49a4747066079b481897b730d\" label=\"Audio (31142063430188)\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_064a5ad49a4747066079b481897b730d\" type=\"Reel\"\u003ecuid6289\u003c/container\u003e\u003ccontainer id=\"aspace_36c238a01c9f6ce363115d6c1406e94f\" label=\"Digital_access_copy\" type=\"E-records\"\u003efales_MSS013\u003c/container\u003e\u003ccontainer parent=\"aspace_36c238a01c9f6ce363115d6c1406e94f\" type=\"E-records\"\u003efales_MSS013_cuid6289\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_db707909a94f92f043a3797dd3d2dc37\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eAn audio recording of Fugs member, Ken Weaver, titled \"Taken from notebooks,\" on February 6th, 1969, recorded in New York City from 6pm-6:30pm.\u003c/p\u003e\u003c/scopecontent\u003e\u003cphystech id=\"aspace_269b1b3d30a02282837b41885046b1df\"\u003e\u003chead\u003ePhysical Characteristics and Technical Requirements\u003c/head\u003e\u003cp\u003eOriginal format: 1/4\" Open Reel Audio, Duration: 49 min.\u003c/p\u003e\u003c/phystech\u003e\u003c/c\u003e\u003cc id=\"aspace_871e98237c339d95c20a83e4038ffbaf\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eKen Weaver, Cinematograph Montage, El Campo Texas High School Stories [Reel 2] \u003c/unittitle\u003e\u003cunitid\u003ecuid6290\u003c/unitid\u003e\u003cunitdate normal=\"1969/1969\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003cunitdate normal=\"2018-02/2018-02\" type=\"inclusive\"\u003e2018-02\u003c/unitdate\u003e\u003ccontainer id=\"aspace_66f20d6ed2e1297f44bb417743ba04c9\" label=\"Audio (31142063430188)\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_66f20d6ed2e1297f44bb417743ba04c9\" type=\"Reel\"\u003ecuid6290\u003c/container\u003e\u003ccontainer id=\"aspace_4871120e89fc1c6869d0bc39255ae2b3\" label=\"Digital_access_copy\" type=\"E-records\"\u003efales_MSS013\u003c/container\u003e\u003ccontainer parent=\"aspace_4871120e89fc1c6869d0bc39255ae2b3\" type=\"E-records\"\u003efales_MSS013_cuid6290\u003c/container\u003e\u003c/did\u003e\u003cphystech id=\"aspace_3fe31fbe18968359a85a8061c0da1e43\"\u003e\u003chead\u003ePhysical Characteristics and Technical Requirements\u003c/head\u003e\u003cp\u003eOriginal format: 1/4\" Open Reel Audio, Duration: 49 min.\u003c/p\u003e\u003c/phystech\u003e\u003c/c\u003e\u003cc id=\"aspace_ac341268aa5ea521ba0d9fbb1e47b79b\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eKen Weaver, American TV Stories, The Hog Man [Reel 3] \u003c/unittitle\u003e\u003cunitid\u003ecuid6291\u003c/unitid\u003e\u003cunitdate normal=\"1969-02-06/1969-02-06\" type=\"inclusive\"\u003e1969-02-06\u003c/unitdate\u003e\u003cunitdate normal=\"2018-02/2018-02\" type=\"inclusive\"\u003e2018-02\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ef6e4f33491f74715c4ad56d6858ac8d\" label=\"Audio (31142063430188)\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_ef6e4f33491f74715c4ad56d6858ac8d\" type=\"Reel\"\u003ecuid6291\u003c/container\u003e\u003ccontainer id=\"aspace_06938ae363d0811687d4fc549b60e955\" label=\"Digital_access_copy\" type=\"E-records\"\u003efales_MSS013\u003c/container\u003e\u003ccontainer parent=\"aspace_06938ae363d0811687d4fc549b60e955\" type=\"E-records\"\u003efales_MSS013_cuid6291\u003c/container\u003e\u003c/did\u003e\u003codd id=\"aspace_9364b9a61bc5015cf0614f9bada8a719\"\u003e\u003chead\u003eGeneral\u003c/head\u003e\u003cp\u003eRecorded at 9:45pm on February 6th, 1969.\u003c/p\u003e\u003c/odd\u003e\u003cphystech id=\"aspace_f1c58c4ba2da160b311fca3cf07b5ae7\"\u003e\u003chead\u003ePhysical Characteristics and Technical Requirements\u003c/head\u003e\u003cp\u003eOriginal format: 1/4\" Open Reel Audio, Duration: 50 min.\u003c/p\u003e\u003c/phystech\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_0a73c612f84337a1b5d15349d25ae70d\" level=\"otherlevel\" otherlevel=\"website\"\u003e\u003cdid\u003e\u003cunittitle\u003eArchived website\u003c/unittitle\u003e\u003cphysdesc altrender=\"whole\"\u003e\u003cextent altrender=\"materialtype spaceoccupied\"\u003e1 websites\u003c/extent\u003e\u003cextent altrender=\"carrier\"\u003ein 1 archived website.\u003c/extent\u003e\u003c/physdesc\u003e\u003cunitdate type=\"inclusive\"\u003eMarch 2017- ongoing\u003c/unitdate\u003e\u003c/did\u003e\u003cdao ns2:actuate=\"onLoad\" ns2:href=\"https://wayback.archive-it.org/6129/*/http://www.thefugs.com/\" ns2:role=\"translation missing: en.enumerations.file_version_use_statement.service\" ns2:show=\"new\" ns2:title=\"Archived website of the Fugs\"\u003e\u003cdaodesc\u003e\u003cp\u003eArchived website of the Fugs\u003c/p\u003e\u003c/daodesc\u003e\u003c/dao\u003e\u003caccruals id=\"aspace_5e2a2b25934390bf8fca4be95f79c861\"\u003e\u003chead\u003eAccruals\u003c/head\u003e\u003cp\u003eNew site crawls are accrued semiannually.\u003c/p\u003e\u003c/accruals\u003e\u003cappraisal id=\"aspace_08de20f9f5080d8444d639f35567b76b\"\u003e\u003chead\u003eAppraisal\u003c/head\u003e\u003cp\u003eRobots.txt (a piece of code designed to limit crawler activity within a website) was ignored with the permission of the content owner. \n \nCrawl was limited to domains and subdomains of http://www.thefugs.com/ in order to remain within the collection scope and data constraints.\u003c/p\u003e\u003c/appraisal\u003e\u003c/c\u003e"
+        }
+    }
+}

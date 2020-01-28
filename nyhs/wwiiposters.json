@@ -1,0 +1,139 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "wwiiposters"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the New-York Historical Society Collection of World War II Posters\u003clb/\u003e1941-1946\u003clb/\u003e \u003cnum\u003ePR 55-8\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Larry Weimer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-09-26T17:49:01\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "New-York Historical Society collection of World War II posters"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "1941-1946"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "46 Linear feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in about 60 flat file folders, one roll, and several matted posters"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "About 500 posters related to various aspects of the United States' mobilization during World War II. Topics include recruitment, war bonds, general war support, production, conservation, the need to avoid speaking freely about military matters, and more."
+                },
+                "unitid": {
+                    "value": "PR 55-8"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_75129a8016231a3eee547639f5f4e552",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Some of the materials, as noted in the containr list, are fragile and are restricted. Arrangements must be made in advance to allow for review by Conservation."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_c85cd0082fac351e38772a8f4fdd59ab",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "This collection should be cited as The New-York Historical Society Collection of World War II Posters, PR 55-8, Department of Prints, Photographs, and Architectural Collections, The New-York Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_ee9f80ffb9dd85ddca267300f856258c",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "The collection was compiled over time by New-York Historical Society from various donations and purchases."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_f09b192800e55e1b56c311225fe1c1a6",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Most of the posters were produced by the U.S. government, though there are many produced by corporate or other private interests. Most of the posters are oriented to a national audience; a few are from New York City and have a local target audience is local. The collection also holds some posters from Canada and, to a lesser extent, the United Kingdom."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "War posters, American."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "World War, 1939-1945 -- Canada -- Posters."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "World War, 1939-1945 -- United States -- Posters."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "World War, 1939-1945 -- War work."
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_aed2baddd39f1783971cd6898f8bbca7\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eWar Bonds and Stamps (4 folders)\u003c/unittitle\u003e\u003ccontainer id=\"aspace_9679df7a8800880131e795376e2b57b5\" label=\"Graphic Materials\" type=\"Folder\"\u003eFlat File\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_852d96900e60f11a6c5b9f639b8c970b\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAnti-Conversation Campaign (3 folders)\u003c/unittitle\u003e\u003ccontainer id=\"aspace_16d7fbc4325c0a5714f33a4c5f91bf5b\" label=\"Graphic Materials\" type=\"Folder\"\u003eFlat File\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_626afbaceb329eaf241461c021250d24\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003ePosters on the theme of not discussing military or defense matters (e.g., \"no loose talk\") in order to avoid inadvertently providing information to the enemy.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_3f753ddcd53c01fd132c69d0138fa691\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eConservation (3 folders)\u003c/unittitle\u003e\u003ccontainer id=\"aspace_54fe41def3a39393ac3a45698d8fe3c2\" label=\"Graphic Materials\" type=\"Folder\"\u003eFlat File\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_f219c347052b55081ea12534a28f7f0f\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eConservation\u003c/unittitle\u003e\u003ccontainer id=\"aspace_56554691fe0d46b4b52e6918acc5b325\" label=\"Graphic Materials\" type=\"Folder\"\u003eFlat Oversize\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_9d4e9a9d3114edd9110fdcd986491cd5\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRubber Conservation\u003c/unittitle\u003e\u003ccontainer id=\"aspace_37d9aa4438872a7d587598b78b8ae4c6\" label=\"Graphic Materials\" type=\"Folder\"\u003eFlat File\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_91a34ea40ae168e3f05db5582bef1a4b\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003ePosters by the Bureau of Home Economics, U.S. Department of Agriculture\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_9f1acb3d536d7263588686dad1c0176d\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAnti-Inflation Campaign (Rationing)\u003c/unittitle\u003e\u003ccontainer id=\"aspace_3e574514f3a7647c2a4e27c826fe8b16\" label=\"Graphic Materials\" type=\"Folder\"\u003eFlat File\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_9318d912d51589e8a24b49535bbd74cb\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRecruitment (2 folders)\u003c/unittitle\u003e\u003ccontainer id=\"aspace_5bee3caf5deec6764d72a767f78f5502\" label=\"Graphic Materials\" type=\"Folder\"\u003eFlat File\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_39e427bbb3f02c5ee50b92095bcab94c\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eNurse Corps; Women's Army Auxiliary Corps (WAACS, and see also WAACS folder below); and general military service.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_e8732a3bdf193d077758d4aeee1e28fb\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRecruitment\u003c/unittitle\u003e\u003ccontainer id=\"aspace_36edf002fca22cae12036ed5b0248026\" label=\"Graphic Materials\" type=\"Folder\"\u003eFlat Oversize\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_2494ec0058de32d58b0961f7d1889c0c\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eWomen's Army Auxiliary Corps (WAACs)\u003c/unittitle\u003e\u003ccontainer id=\"aspace_787b7e002b3df982f36d09097c68e16d\" label=\"Graphic Materials\" type=\"Folder\"\u003eFlat File\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_6e9bfc800524f3f75244d251afe75281\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eSee also Recruitment folder above.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_beda72b33901c7d7d2194c83781c4a81\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSafety\u003c/unittitle\u003e\u003ccontainer id=\"aspace_9279378b046121380e4a94418ded790b\" label=\"Graphic Materials\" type=\"Folder\"\u003eFlat File\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_88693249914616ade1a23c739e3569e1\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Joe Dope\" Safety Campaign\u003c/unittitle\u003e\u003ccontainer id=\"aspace_0fc9e9380c35298a6cc37ac8990b919a\" label=\"Graphic Materials\" type=\"Folder\"\u003eFlat File\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_d37e1226e410441f6f693ecfeecb1c5b\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eArtist: Will Eisner.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_323dd28755b11fd1137f84c2f70e4c04\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eProduction\u003c/unittitle\u003e\u003ccontainer id=\"aspace_cd6601da9d476368f86e193c4a9b8919\" label=\"Graphic Materials\" type=\"Folder\"\u003eFlat File\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_f5ab7c3d311c1d776aae5d576a5ea690\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eSome of the posters in the folder are by the Committee to Defend America by Aiding the Allies.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_23b805b04187832ff52afe29826d6806\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eProduction\u003c/unittitle\u003e\u003ccontainer id=\"aspace_0f545b8e0a285f1aca798dff9fe9141e\" label=\"Graphic Materials\" type=\"Folder\"\u003eFlat Oversize\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_76fc999f35f2803cbf8cdea44b2c633b\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eArmy E Navy [Excellence]\u003c/unittitle\u003e\u003ccontainer id=\"aspace_8068ef6c9433d0ba7728c9c1cc867944\" label=\"Graphic Materials\" type=\"Folder\"\u003eFlat File\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_8c62522dffe599e7445c8b92dcd586f0\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003ePosters from companies noting their excellence in providing products to the military. The bulk of the posters are from the Auto-Ordnance Corporation, the manufacturer of the Thompson submachine gun, or Tommy gun. Two other companies are represented: Nabisco/National Biscuit Company and Burroughs Wellcome \u0026amp; Co.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ccae64764dc349fa9577c121dc3d5260\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eWomen. Homefront Workforce\u003c/unittitle\u003e\u003ccontainer id=\"aspace_0b8adcf654098c2d75b16194614becef\" label=\"Graphic Materials\" type=\"Folder\"\u003eFlat File\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_f1c1e84c8838fd39e6df7d93d61f2db9\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003ePosters advocating employment in the workforce in support of the war effort; workplace safety specifically geared to women.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_67b0a7cda51927b6b440f5350d329fea\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCivilian Defense (2 folders)\u003c/unittitle\u003e\u003ccontainer id=\"aspace_ca2407fa0c8e8326df14c15494dd3139\" label=\"Graphic Materials\" type=\"Folder\"\u003eFlat File\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_dff224d6e72fa4a7cc7356b080a55877\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eAt least one of these posters was produced by the Committee to Defend America by Aiding the Allies.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_9564380479f5dd5d9cd89eec85aa3e3e\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAmerican Patriotism\u003c/unittitle\u003e\u003ccontainer id=\"aspace_c0a0c01e4f6ad7ba21f1d7fcf9d8996f\" label=\"Graphic Materials\" type=\"Folder\"\u003eFlat File\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_9cc019c092efe3167059d5639088da7b\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThemes of liberty, patriotism, and the like for war support.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_151cb3fb5cd401cb36a248f2decb2f3e\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAllied Unity Against the Enemy\u003c/unittitle\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_7dfe1a5fcacc9c1bc3efd4da3c21432b\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eR. Hoe \u0026amp; Company National War Poster Competition Winners\u003c/unittitle\u003e\u003ccontainer id=\"aspace_50a6d03e05baf8edd6ba3e92cc443503\" label=\"Graphic Materials\" type=\"Folder\"\u003eFlat File\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_00cca803fff48c718466270464c9121e\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eCompetition held at the Museum of Modern Art (MOMA), c Conducted under the auspices of Artists for Victory Inc.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_39eccbbb9c69e5a6587a326bdb8c9dd9\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePosters Incorporating Norman Rockwell Paintings\u003c/unittitle\u003e\u003ccontainer id=\"aspace_5a62f824acc2367b13b312df62a39054\" label=\"Graphic Materials\" type=\"Folder\"\u003eFlat File\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_96b4bb1fa664e9c4323564db67d5edde\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eForeign (3 folders)\u003c/unittitle\u003e\u003ccontainer id=\"aspace_c304bcb311c3a29934c26c3af6e5679e\" label=\"Graphic Materials\" type=\"Folder\"\u003eFlat File\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_78ceee01728bfd322d7bf39f59aee3cc\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eFrom Canada and the United Kingdom.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_e8e8c7ce43b702642d5b3aa15a30bebd\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRed Cross (2 folders)\u003c/unittitle\u003e\u003ccontainer id=\"aspace_819ceee9dcf8bd91c3d1a3b3ff3d2ada\" label=\"Graphic Materials\" type=\"Folder\"\u003eFlat File\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_5aaebc559000829f91c0b6de305b027f\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Camouflage Blinds the Enemy\" Campaign\u003c/unittitle\u003e\u003ccontainer id=\"aspace_d6ec0634a470ca0ef8d1fb761c0781f1\" label=\"Graphic Materials\" type=\"Folder\"\u003eFlat File\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_0ce44b3af0724082e814fd27b58d7d99\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCampaigns for Donations\u003c/unittitle\u003e\u003ccontainer id=\"aspace_1ae6ac4fe7f3d05c7373a362dd88346a\" label=\"Graphic Materials\" type=\"Folder\"\u003eFlat File\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_0eb96e8c10b20df16616d4ef8fe1a5c5\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBook-related\u003c/unittitle\u003e\u003ccontainer id=\"aspace_54cc88a6feee4269f3bd4bf4ca259c54\" label=\"Graphic Materials\" type=\"Folder\"\u003eFlat File\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_7747ec2ed0081e9e247fbbd9c494111c\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eOne poster using a Nazi book burning as a reason to support the war effort and other posters calling for book donations.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_a049abc47304f129845af2e74687d4ec\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNavy Training. Aircraft Recognition Tests\u003c/unittitle\u003e\u003ccontainer id=\"aspace_545888561d12a6a7b7866eab56794eb3\" label=\"Graphic Materials\" type=\"Folder\"\u003eFlat File\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_23b77106d34e17bb1acdb4c60cf2abc4\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNavy Training. Equipment Maintenance (2 folders)\u003c/unittitle\u003e\u003ccontainer id=\"aspace_4f3cc42c232381bb5b819475138a7609\" label=\"Graphic Materials\" type=\"Folder\"\u003eFlat File\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_d818e44244ac32ef776ed3e14d76d55a\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAir Force / Navy\u003c/unittitle\u003e\u003ccontainer id=\"aspace_1d724c257c418164b560944d59e7b014\" label=\"Graphic Materials\" type=\"Folder\"\u003eFlat File\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_855b3027ed2fa96795ecec3317875484\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eRelates to the military services generally.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_e373fee8fcf725ef2dd8b254125ecb1e\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCar Cards (2 folders)\u003c/unittitle\u003e\u003ccontainer id=\"aspace_a18b5d8624ea186676088428537a2f2a\" label=\"Graphic Materials\" type=\"Folder\"\u003eFlat File\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_516e42ead684abb0ffdb06a8d0b1d8ca\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMessage Banners\u003c/unittitle\u003e\u003ccontainer id=\"aspace_b5b99511a378d00e0c249932e6c487a3\" label=\"Graphic Materials\" type=\"Folder\"\u003eFlat File\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_2cf77117b5d461004c753e3e53eabfc9\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Official Navy Poster\"\u003c/unittitle\u003e\u003ccontainer id=\"aspace_2ec8c2474976b65a5bd0ef541c889878\" label=\"Graphic Materials\" type=\"Folder\"\u003eFlat Oversize\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_6bbd903432e5a3debedf6495cdc76830\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eSeries of posters produced by the Navy, many if not all with a focus on the Pacific theater and the need to defeat the Japanese.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_3db74f4e7427bb598c17a67d5776c503\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eUnsorted / Miscellaneous (2 folders)\u003c/unittitle\u003e\u003ccontainer id=\"aspace_96890612035ad7bf5738cf45eb05f2ad\" label=\"Graphic Materials\" type=\"Folder\"\u003eFlat File\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_70e252ae103e72755daec1d6e2ef9f26\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eAmong the various topics here are: buy bonds; religious themed reasons for war support; safety; general military service-related; anti-conversation/loose talk; interamerican cooperation (cartoons of Latin American characters confronting Nazis); and a New York Central Railroad notice of train service suspensions to conserve coal.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_39c793a0dd5eac57ab8537b44112b994\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eUnsorted / Miscellaneous\u003c/unittitle\u003e\u003ccontainer id=\"aspace_adafbce56aea0e27057f6b00fae8e4ce\" label=\"Graphic Materials\" type=\"Folder\"\u003eFlat Oversize\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_71903269178a8dd60722d26b0d729a04\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eTopics include, among others, general war support/patriotism, buy bonds, civil defense, anti-conversation/loose talk, R. Hoe competition posters, and general military service.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_47fb11e29ab67eea5a24f26203baa583\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMatted Posters (3 drawers)\u003c/unittitle\u003e\u003ccontainer id=\"aspace_ccc697a964bff9cc03a5eee6d884830b\" label=\"Graphic Materials\" type=\"Folder\"\u003eFlat File\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_fb3850b6c350d8df07ac5e6170773ed9\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003ePosters matted for a WWII poster exhibition at N-YHS in 1990-91.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_559b3148759414ccf79bee5424ce7687\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRolled Posters\u003c/unittitle\u003e\u003ccontainer id=\"aspace_8d5b1353f8f54bfd0597f07616934faf\" label=\"Graphic Materials\" type=\"Roll\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_1551250e2f904c37576ca3a8dca15be5\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eDamaged, fragile items, which include landing craft posters.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_1257aab3b17af44ca2a6dbcb047f16ea\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eUnsorted Posters (12 folders) (RESTRICTED)\u003c/unittitle\u003e\u003ccontainer id=\"aspace_027c6c7ab237b8abde178bd4cb59eae9\" label=\"Graphic Materials\" type=\"Folder\"\u003eFlat File\u003c/container\u003e\u003c/did\u003e\u003caccessrestrict id=\"aspace_b39fb6fdc59cff7f6d60663830a1cf14\"\u003e\u003chead\u003eConditions Governing Access\u003c/head\u003e\u003cp\u003eThese posters relate to various subjects. Many are fragile and torn. Many are unsorted, mixed with WWI era posters that are also fragile. Access must be arranged in advance and coordinated with Conservation.\u003c/p\u003e\u003c/accessrestrict\u003e\u003c/c\u003e"
+        }
+    }
+}

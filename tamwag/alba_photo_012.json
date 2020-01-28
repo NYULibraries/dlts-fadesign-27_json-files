@@ -1,0 +1,148 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "alba_photo_012"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the James Neugass Photograph Collection \u003cnum\u003eALBA.PHOTO.012\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Evan Daniel"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-09-07T14:13:11\u003c/date\u003e"
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Neugass, James, 1905-1949"
+                    }
+                },
+                "unittitle": {
+                    "value": "James Neugass Photographs"
+                },
+                "unitdate": {
+                    "normal": "1937/1938",
+                    "type": "inclusive",
+                    "value": "1937-1938"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "James Neugass (1905-1949) was a writer who served as an ambulance driver during the Spanish Civil War. The images in this collection were accrued by Neuglass in the course of his work in Spain. The collection contains prints of soldiers at the front, relaxing behind the lines, and engaging in their daily activities. The collection also contains images of Spanish civilians, damaged/shelled buildings, injured soldiers and casualties."
+                },
+                "unitid": {
+                    "value": "ALBA.PHOTO.012"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_ecc275e448d6aab085f777a106b3d49c",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Materials are open to researchers. Please contact the Tamiment Library \u0026amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_8eeba369a2e3839032515a9f6e7c0ff9",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: \u003clb/\u003e\u003clb/\u003eIdentification of item, date; Collection name; Collection number; box number; folder number; \u003clb/\u003eTamiment Library/Robert F. Wagner Labor Archives \u003clb/\u003eElmer Holmes Bobst Library \u003clb/\u003e70 Washington Square South \u003clb/\u003eNew York, NY 10012, New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_3465adde3ee9f194d4f0c3397d906e6e",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "\u003clist\u003e\u003citem\u003eNelson, Cary. The Wound and the Dream (University of Illinois Press, 2002)\u003c/item\u003e\u003c/list\u003e "
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_799d5c11048d1731425213c049891978",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "\u003cemph render=\"bold\"\u003eSeries I: Prints\u003c/emph\u003e. The 41 black and white prints are arranged alphabetically by topic. All were taken in Spain during the Civil War. The collection contains prints of nurses, soldiers at the Jarama front, relaxing behind the lines at Teruel, and engaging in their daily activities. The collection also contains images of Spanish civilians, damaged/shelled buildings in Barcelona and Lerida, medical tents, injured soldiers and casualties of war. Two of the prints are credited to Prensa Extranjera Censurado."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Spain -- History -- Civil War, 1936-1939."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Spain. Ejercito Popular de la Republica. Abraham Lincoln Battalion"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref14\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: Photographs\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref15\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAt the Front: Combat (including Jarama Front)\u003c/unittitle\u003e\u003cunitdate normal=\"1928/1948\" type=\"inclusive\"\u003eca.1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5354dfe8f14ae11f1c97075a11f7499f\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5354dfe8f14ae11f1c97075a11f7499f\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAt the Front: Non-Combat\u003c/unittitle\u003e\u003cunitdate normal=\"1928/1948\" type=\"inclusive\"\u003eca.1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_fb582b91d87bd289dfb1fdc731498153\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_fb582b91d87bd289dfb1fdc731498153\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBehind the Lines: Rest and Relaxation\u003c/unittitle\u003e\u003cunitdate normal=\"1928/1948\" type=\"inclusive\"\u003eca.1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ca3ef4496771ea249471547faf32c15d\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ca3ef4496771ea249471547faf32c15d\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBombed/Shelled Buildings: Barcelona and Lerida\u003c/unittitle\u003e\u003cunitdate normal=\"1928/1948\" type=\"inclusive\"\u003eca.1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_08c0e6f501a4b03207fbc2614e786ca9\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_08c0e6f501a4b03207fbc2614e786ca9\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCasualties\u003c/unittitle\u003e\u003cunitdate normal=\"1928/1948\" type=\"inclusive\"\u003eca.1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e78dc42a0e3319d700da764177e4b480\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e78dc42a0e3319d700da764177e4b480\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFortifications\u003c/unittitle\u003e\u003cunitdate normal=\"1928/1948\" type=\"inclusive\"\u003eca.1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d9f5fe2d34d5863dfa6cfdcabea0600b\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d9f5fe2d34d5863dfa6cfdcabea0600b\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eGroup: Unidentified\u003c/unittitle\u003e\u003cunitdate normal=\"1928/1948\" type=\"inclusive\"\u003eca.1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5e1d6c24e3b52aebd334eba578b31be7\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5e1d6c24e3b52aebd334eba578b31be7\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eInjured Soldiers\u003c/unittitle\u003e\u003cunitdate normal=\"1928/1948\" type=\"inclusive\"\u003eca.1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_617e5562c772c309aa4b71af49516a69\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_617e5562c772c309aa4b71af49516a69\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMedical: Nurses\u003c/unittitle\u003e\u003cunitdate normal=\"1928/1948\" type=\"inclusive\"\u003eca.1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_661b3ed3e258ca36c9186af7ce287676\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_661b3ed3e258ca36c9186af7ce287676\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMedical: Tents\u003c/unittitle\u003e\u003cunitdate normal=\"1928/1948\" type=\"inclusive\"\u003eca.1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_bdad788be85dd572b1f9ebb28e2f4b86\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_bdad788be85dd572b1f9ebb28e2f4b86\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eReport on Bombardment at Taracon\u003c/unittitle\u003e\u003cunitdate normal=\"1928/1948\" type=\"inclusive\"\u003eca.1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_95e091817254b0dcb6bdb7073eef40cd\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_95e091817254b0dcb6bdb7073eef40cd\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref26\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSpanish Civilians: Campesinos\u003c/unittitle\u003e\u003cunitdate normal=\"1928/1948\" type=\"inclusive\"\u003eca.1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a8ce8a0b2ee9e7b23ae3e24bad8ce31d\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_a8ce8a0b2ee9e7b23ae3e24bad8ce31d\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSpanish Civilians: Workers, Fisherman\u003c/unittitle\u003e\u003cunitdate normal=\"1928/1948\" type=\"inclusive\"\u003eca.1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4ae6179e18094e050acf7822a16a4029\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_4ae6179e18094e050acf7822a16a4029\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref28\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSpanish Civilians: Workers, Laundrywomen\u003c/unittitle\u003e\u003cunitdate normal=\"1928/1948\" type=\"inclusive\"\u003eca.1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_82e21181cdd7926eeb61efa0c9ea7bb4\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_82e21181cdd7926eeb61efa0c9ea7bb4\" type=\"Folder\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref29\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSpanish Countryside/Panoramas\u003c/unittitle\u003e\u003cunitdate normal=\"1928/1948\" type=\"inclusive\"\u003eca.1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1a8cbcbbf97c1cacbd7c267e317fab9b\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1a8cbcbbf97c1cacbd7c267e317fab9b\" type=\"Folder\"\u003e15\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref30\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSpanish Villages\u003c/unittitle\u003e\u003cunitdate normal=\"1928/1948\" type=\"inclusive\"\u003eca.1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5d654e869f70e7eb8534197927841b43\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5d654e869f70e7eb8534197927841b43\" type=\"Folder\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref31\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eVehicles\u003c/unittitle\u003e\u003cunitdate normal=\"1928/1948\" type=\"inclusive\"\u003eca.1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ff551558808c80783297ee453f6e86db\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ff551558808c80783297ee453f6e86db\" type=\"Folder\"\u003e17\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref32\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eVehicles: Ambulance\u003c/unittitle\u003e\u003cunitdate normal=\"1928/1948\" type=\"inclusive\"\u003eca.1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_3f2eb587e0e18e345af81f8a891afef1\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_3f2eb587e0e18e345af81f8a891afef1\" type=\"Folder\"\u003e18\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

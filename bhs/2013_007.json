@@ -1,0 +1,141 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "2013_007"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Leigh Celentano collection of Hurricane Sandy aftermath photographs \u003cnum\u003e2013.007\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Mary Mann"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "Brooklyn Historical Society",
+                        "128 Pierrepont Street",
+                        "Brooklyn 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-07-31T20:06:48\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Celentano, Leigh"
+                    }
+                },
+                "unittitle": {
+                    "value": "Leigh Celentano collection of Hurricane Sandy aftermath photographs"
+                },
+                "unitdate": {
+                    "value": "2012"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "60.6 Megabytes"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "38 born-digital images in JPEG format"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Leigh Celentano collection of Hurricane Sandy aftermath photographs collection comprises 38 born-digital photographic images taken by Leigh Celentano in the days after Hurricane Sandy landed in New York City in October 2019. These images document the after effects of the storm as well as relief efforts in Brooklyn, Queens and Staten Island."
+                },
+                "unitid": {
+                    "value": "2013.007"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_3a7d0f5d1a3e4d04dcf3ae1a27f37a18",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Access to digital materials is available on-site in the Othmer Reading Room. Requests to access born-digital materials must be made in advance by emailing library@brooklynhistory.org."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_de939e4f7a6aa4a1126fc3c0dbf6df2f",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item/Descriptive title, date [YYYY]; Leigh Celentano collection of Hurricane Sandy aftermath photographs, 2013.007; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_f3866f19d3e087f3d028b8cb5a7256e5",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "The 38 born-digital images from the Leigh Celentano collection of Hurricane Sandy aftermath photographs were donated to the Brooklyn Historical Society by Leigh Celentano in 2013."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_a535c500c4a646d9e3e06da363853697",
+            "head": "Biographical / Historical",
+            "p": {
+                "value": "Hurricane Sandy landed in New York City on Tuesday, October 30th, 2012. Approximately 2.2 million residents lost electricity for at least a full day if not longer, and hundreds of thousands of buildings were damaged by considerable flooding, particularly in Lower Manhattan, Long Island, Staten Island, and coastal areas of Queens and Brooklyn. Economic losses in New York City were estimated to be roughly $19 billion; notably, the Stock Exchange was closed for two days, the first two-day closure since the Great Blizzard of 1888. At least 53 people died in New York as a result of the storm."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_68b5af9f5646914ea8518d1220f9bef5",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection comprises 38 digital photographic images taken by Leigh Celentano to document the after effects of Hurricane Sandy, as well as relief efforts. Locations include unidentified areas of Staten Island, the Rockaways in Queens, and the following Brooklyn neighborhoods: Williamsburg, Greenpoint, Red Hook and Sunset Park. Extensive damages caused by the wind and the water are captured in images of downed trees and streetlights, torn fences, flood-affected buildings, and street debris. Relief efforts documented in these photographs include cyclists transporting supplies and groups of people distributing clothing."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Hurricane damage |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Hurricane Sandy, 2012"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

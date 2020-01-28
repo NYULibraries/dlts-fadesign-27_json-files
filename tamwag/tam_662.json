@@ -1,0 +1,151 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_662"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to June Nash Papers on Bolivia  \u003cnum\u003eTAM 662\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Emma Sarconi"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-07-09T15:21:49\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "June Nash Papers on Bolivia"
+                },
+                "unitdate": {
+                    "normal": "1970/1970",
+                    "type": "inclusive",
+                    "value": "circa 1970"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 record carton"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "June Nash is a social and feminist anthropologist and Distinguished Professor Emerita at the City University of New York (CUNY) who conducted extensive field work throughout the United States and Latin America, especially in Bolivia, Mexico and Guatemala. This collection includes field notes, diaries, lectures, papers, interviews, and Nash's published writings focusing on communities of tin miners working in Bolivia in 1970. Written in Spanish and English, these materials cover both the experience of the miners and Nash herself, and include accounts of daily activites in the mine, past strikes, speeches to workers assemblies, and complaints about working conditions in the mine. "
+                },
+                "unitid": {
+                    "value": "TAM 662"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "spa"
+                    }
+                },
+                "container": {
+                    "id": "aspace_03238960255d490753348ece465b303b",
+                    "label": "Mixed Materials [31142051724808]",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_693584233aebda7c9df709fb32c29609",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_5f072c39ba0cf5e9af97c237409fcc41",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; June Nash Papers on Bolivia; TAM 662; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_5de90488d4eb6ae300bcd51363749d0a",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Sinclair Thomson on behalf of June Nash in 2014. The accession number associated with this gift is 2014.175."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_8d2eb72b3831c8ca7b41b8e627c1b87b",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "June Nash is a social and feminist anthropologist and Distinguished Professor Emerita at the City University of New York (CUNY) who has written and conducted extensive field work throughout the United States and Latin America, especially in Bolivia, Mexico and Guatemala. She has also been a part of feminist and working class social movements such as the Mexican Zapatista Army of National Liberation. Her 1979 book \u003ctitle render=\"italic\"\u003eWe Eat the Mines and the Mines Eat Us\u003c/title\u003e details working conditions of Bolivian tin mines in the mid twentieth century. Nash's ethnography focuses on working-class mining community to better understand the connection between Bolivia's proletariat and indigenous classes, the basis for the labor solidarity movement in Bolivia, and the radicalism that was emerging in the country at the time."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_6a8ef4c668084d290cf2a6afec109877",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "This collection includes field notes, diaries, lectures, papers, interviews, and published writings focusing on the community of tin miners working in Bolivia in 1970. Written in Spanish and English, these materials cover both the experience of the miners and Nash herself, and include accounts of daily activites in the mine, past strikes, speeches to workers assemblies, and complaints about working conditions in the mines."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Labor unions |z Bolivia"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Anthropologists   -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Tin mines and mining"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Tin miners |z Bolivia."
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

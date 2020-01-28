@@ -1,0 +1,153 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "mc_265"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Jeffrey Leeds Collection on NYU Glee Club \u003cnum\u003eMC.265\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Rachel Searcy"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-03T20:57:26\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Leeds, Jeffrey"
+                    }
+                },
+                "unittitle": {
+                    "value": "Jeffrey Leeds Collection on NYU Glee Club"
+                },
+                "unitdate": {
+                    "normal": "1964/1968",
+                    "type": "bulk",
+                    "value": "1964-1968"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 manuscript box and 1 oversize flat box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Jeffrey Leeds is an actor, producer, and alumnus of New York University with a Bachelor of Arts in Psychology and Master of Science in Public Administration. He was a member of the NYU Glee Club and the original Vice President of the NYU Choral Arts Alumni Club. The Jeffrey Leeds Papers (dated 1936-2000) consist of materials created and collected by Jeffrey Leeds documenting his participation in the New York University Glee Club and other aspects of the university's musical organizations. Materials include performance programs, audio recordings, photographs, and other ephemera. The collection also includes Leeds' Glee Club blazer."
+                },
+                "unitid": {
+                    "value": "MC.265"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_44e0a7d822c964cfb14627f2dafadfd3",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open for use without restrictions. This collection contains audiovisual materials that have not been digitized. Please contact the University Archives if you wish to access these materials."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_3df44f6f41612d7fc15bcf1468f676b9",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Jeffrey Leeds Collection on NYU Glee Club; MC 265; box number; folder number; New York University Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_8ee137959bd5293b53c9553a630aebda",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Jeffrey Leeds in July 2016; the accession number associated with this gift is 2016.026."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_8afc85be2893f9a5708aaedcee43bc77",
+            "head": "Biographical / Historical",
+            "p": {
+                "value": "Jeffrey Leeds is an actor and producer, and as of 2016 is the President of the All Out Arts Board of Directors. Leeds is an alumnus of New York University with a Bachelor of Arts in Psychology and Master of Science in Public Administration. He was a member of the NYU Glee Club and the original Vice President of the NYU Choral Arts Alumni Club."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_47d8a7ad785aca2172c01ef1444e8203",
+            "head": "Content Description",
+            "p": {
+                "value": "The Jeffrey Leeds Papers (dated 1936-2000) consist of materials created and collected by Jeffrey Leeds documenting his participation in the New York University Glee Club and other aspects of the university's musical organizations. Materials include performance programs, audio recordings, photographs, and other ephemera. The collection also includes Leeds' Glee Club blazer and 11 photographs taken by Arthur Smithline documenting student musical group activities in the 1930s."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Student activities."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Glee clubs"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "New York University. Glee Club"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ecdf7273ea03833de05dded7abcc62c7\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNYU Glee Club Scrapbook\u003c/unittitle\u003e\u003cunitid\u003ecuid393\u003c/unitid\u003e\u003cunitdate normal=\"1964/1968\" type=\"inclusive\"\u003e1964-1968\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_eeb3f37ae419cfcbf4937975490fc2cb\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_eeb3f37ae419cfcbf4937975490fc2cb\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_9cdc7834bd03c30bb726279c84704880\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNYU Alumni Student Lounge Furniture Plan\u003c/unittitle\u003e\u003cunitid\u003ecuid395\u003c/unitid\u003e\u003cunitdate normal=\"1987-09-03/1987-09-03\"\u003e1987-09-03\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_92f223265ef62619b6a9362654c0e63a\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_92f223265ef62619b6a9362654c0e63a\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_084305291364298a3ecfd6fc12f7e78a\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePerformance Programs\u003c/unittitle\u003e\u003cunitid\u003ecuid396\u003c/unitid\u003e\u003cunitdate normal=\"1973/2000\" type=\"inclusive\"\u003e1973-2000\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_9e929ed95c8c4718088468a141f36961\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_9e929ed95c8c4718088468a141f36961\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_04457c21cb8e17ee10399eeb77d2659c\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eHistory of the NYU Glee Club\u003c/unittitle\u003e\u003cunitid\u003ecuid397\u003c/unitid\u003e\u003cunitdate normal=\"1936/2000\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_d0688db40c3e23cb8a6b552761fb62fe\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d0688db40c3e23cb8a6b552761fb62fe\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_09064abbf213f12c393e560da64addbf\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePhotographs by Arthur Smithline\u003c/unittitle\u003e\u003cunitid\u003ecuid398\u003c/unitid\u003e\u003cunitdate normal=\"1936/1937\" type=\"inclusive\"\u003ecirca 1936-1937\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_1429cc2586a77e50cdb4a0ad04ec520e\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1429cc2586a77e50cdb4a0ad04ec520e\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_da33975a99be7d606337fe3cde9d794b\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePerformance Photograph with Annotations\u003c/unittitle\u003e\u003cunitid\u003ecuid399\u003c/unitid\u003e\u003cunitdate normal=\"1936/2000\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_9d0a047b01833b9490b77c442a3de160\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_9d0a047b01833b9490b77c442a3de160\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_05c69dcc87446a21dc63848e38880746\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNew York University Glee Club 110th Anniversary Concert Including \"A Tribute to Alfred M. Greenfield\" Audiocassette\u003c/unittitle\u003e\u003cunitid\u003ecuid329\u003c/unitid\u003e\u003cunitdate normal=\"1983-05-07/1983-05-07\"\u003e1983-05-07\u003c/unitdate\u003e\u003cunitdate normal=\"2018-02/2018-02\"\u003e \u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_04cf110a9655c79284ff512ba0ecb689\" label=\"Audio\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_04cf110a9655c79284ff512ba0ecb689\" type=\"Cassette\"\u003ecuid329\u003c/container\u003e\u003ccontainer id=\"aspace_20a5fcecc3afc05bd91bf0446c4948c5\" label=\"Digital_access_copy\" type=\"E-records\"\u003enyuarchives_MC265\u003c/container\u003e\u003ccontainer parent=\"aspace_20a5fcecc3afc05bd91bf0446c4948c5\" type=\"E-records\"\u003ecuid329\u003c/container\u003e\u003ccontainer altrender=\"CD Box - 6  x 15\" id=\"aspace_cd2d735d1e50165a48b8f009d1aa1a4e\" label=\"Access cd\" type=\"Box\"\u003eACCESS 16\u003c/container\u003e\u003ccontainer parent=\"aspace_cd2d735d1e50165a48b8f009d1aa1a4e\" type=\"Disk\"\u003e18\u003c/container\u003e\u003ccontainer altrender=\"CD Box - 6  x 15\" id=\"aspace_01066ab61b0482f0273dd00b15ec3161\" label=\"Access cd\" type=\"Box\"\u003eACCESS 16\u003c/container\u003e\u003ccontainer parent=\"aspace_01066ab61b0482f0273dd00b15ec3161\" type=\"Disk\"\u003e19\u003c/container\u003e\u003c/did\u003e\u003cphystech id=\"aspace_08013ded42d1ea5f386dd2c2677a7462\"\u003e\u003chead\u003ePhysical Characteristics and Technical Requirements\u003c/head\u003e\u003cp\u003e1/8\" audiocassette, 94 min.\u003c/p\u003e\u003c/phystech\u003e\u003c/c\u003e\u003cc id=\"aspace_631565c0a58236d9ecbb50a23b0b6631\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNew York University 125th Anniversary Choral Concert Audiocassette\u003c/unittitle\u003e\u003cunitid\u003ecuid330\u003c/unitid\u003e\u003cunitdate normal=\"1998-04-25/1998-04-25\"\u003e1998-04-25\u003c/unitdate\u003e\u003cunitdate normal=\"2018-02-08/2018-02-08\"\u003e \u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_7825d5169f5d36e216cb4127018b9c93\" label=\"Audio\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_7825d5169f5d36e216cb4127018b9c93\" type=\"Cassette\"\u003ecuid330\u003c/container\u003e\u003ccontainer id=\"aspace_979c605be3e511d5a2542ad81e7abfc8\" label=\"Digital_access_copy\" type=\"E-records\"\u003enyuarchives_MC265\u003c/container\u003e\u003ccontainer parent=\"aspace_979c605be3e511d5a2542ad81e7abfc8\" type=\"E-records\"\u003ecuid330\u003c/container\u003e\u003ccontainer altrender=\"CD Box - 6  x 15\" id=\"aspace_04fb1d9ac0e780f3a24454cc9ad3a003\" label=\"Access cd\" type=\"Box\"\u003eACCESS 16\u003c/container\u003e\u003ccontainer parent=\"aspace_04fb1d9ac0e780f3a24454cc9ad3a003\" type=\"Disk\"\u003e20\u003c/container\u003e\u003ccontainer altrender=\"CD Box - 6  x 15\" id=\"aspace_17650e63364337c377ddd7ff6030afbd\" label=\"Access cd\" type=\"Box\"\u003eACCESS 16\u003c/container\u003e\u003ccontainer parent=\"aspace_17650e63364337c377ddd7ff6030afbd\" type=\"Disk\"\u003e21\u003c/container\u003e\u003c/did\u003e\u003cphystech id=\"aspace_462c674c0e4ed3a088aa3a3bcdfce5fe\"\u003e\u003chead\u003ePhysical Characteristics and Technical Requirements\u003c/head\u003e\u003cp\u003e1/8\" audiocassette, 99 min.\u003c/p\u003e\u003c/phystech\u003e\u003c/c\u003e\u003cc id=\"aspace_b7f41bd7cc67013c5fb17b8069bbb95a\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNew York University Glee Club Varsity Quartet \"The Subway\" Vinyl Record\u003c/unittitle\u003e\u003cunitid\u003ecuid331\u003c/unitid\u003e\u003cunitdate normal=\"1941/1941\"\u003e1941\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_61e85fd7b5028dc49e4f8b1f88571bbf\" label=\"Audio\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_61e85fd7b5028dc49e4f8b1f88571bbf\" type=\"Disc\"\u003ecuid331\u003c/container\u003e\u003ccontainer id=\"aspace_f66ac530a76f10422ced9f96ab08a8b1\" label=\"Digital_access_copy\" type=\"E-records\"\u003enyuarchives_MC265\u003c/container\u003e\u003ccontainer parent=\"aspace_f66ac530a76f10422ced9f96ab08a8b1\" type=\"E-records\"\u003ecuid331\u003c/container\u003e\u003ccontainer altrender=\"CD Box - 6  x 15\" id=\"aspace_cde9c91e3813af11a7bbe11624c24311\" label=\"Access cd\" type=\"Box\"\u003eACCESS 16\u003c/container\u003e\u003ccontainer parent=\"aspace_cde9c91e3813af11a7bbe11624c24311\" type=\"Disk\"\u003e22\u003c/container\u003e\u003c/did\u003e\u003cphystech id=\"aspace_c80974616b622df1ca8fc3e38bda0fd7\"\u003e\u003chead\u003ePhysical Characteristics and Technical Requirements\u003c/head\u003e\u003cp\u003eVinyl record, 6 min.\u003c/p\u003e\u003c/phystech\u003e\u003c/c\u003e\u003cc id=\"aspace_4320f2f457324673a7a180bb6a003138\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eGlee Club Blazer\u003c/unittitle\u003e\u003cunitid\u003ecuid394\u003c/unitid\u003e\u003cunitdate normal=\"1964/1968\" type=\"inclusive\"\u003e1964-1968\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a94aef0b6a6c4e140d92535e5b9e62d3\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

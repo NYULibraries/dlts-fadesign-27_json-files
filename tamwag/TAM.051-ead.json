@@ -1,0 +1,138 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "tam_051"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "New American Movement Records\n                    \u003cnum\u003eTAM.051\u003c/num\u003e\n                "
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "12/13/2010"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T17:08-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "New American Movement Records"
+                },
+                "unitdate": {
+                    "value": "c. 1971-c. 1982"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "19.5 linear feet"
+                        },
+                        {
+                            "value": "(20 boxes)"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "TAM.051"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid20279001",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1-20"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref6",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open for research without restrictions. \n                \u003cemph render=\"bold\"\u003eNOTE: This collection is stored offsite, and advance notice is required for use.\u003c/emph\u003e"
+            }
+        },
+        "bioghist": {
+            "id": "ref5",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "The New American Movement (NAM), a self-identified \"new type\" of socialist organization, held its founding convention in Minneapolis, Minnesota in 1972. Established largely by veterans of the New Left, NAM wanted to move beyond the activism of the 1960s and rejected a Communist \"vanguard party\" approach to organizing. The group was opposed to the Vietnam War and called for the impeachment of President Richard M. Nixon. NAM's overarching goal was to create a democratic socialist society, characterized by racial, sexual and economic equality. In 1982, the organization joined with the Democratic Socialist Organizing Committee, led by Michael Harrington, to form the Democratic Socialists of America."
+            }
+        },
+        "scopecontent": {
+            "id": "ref4",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "Publications, printed ephemera, internal documents, and some correspondence of Marvin Gettleman, donor of this box of materials [bulk 1970s]"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "New Left |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialism and youth |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialist feminism."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialist parties |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Student movements |z United States."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "New American Movement (Organization)."
+            }
+        },
+        "dsc": {}
+    }
+}

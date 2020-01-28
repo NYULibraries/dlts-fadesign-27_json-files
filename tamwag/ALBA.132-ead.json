@@ -1,0 +1,94 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "alba_132"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Tom Sarbaugh Research Files\n                    \u003cnum\u003eALBA.132\u003c/num\u003e\n                "
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-28T16:45-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "ingest",
+                        "value": "Sarbaugh, Tom."
+                    }
+                },
+                "unittitle": {
+                    "value": "Tom Sarbaugh Research Files"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "2.25 linear feet"
+                        },
+                        {
+                            "value": "(5 boxes)"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "ALBA.132"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "Tom Sarbaugh, a bibliographer and historian of the air war in Spain, compiled extensive files of material on aviation during the Spanish Civil War. He contributed copies of much of his research material to the Abraham Lincoln Brigade Archives when they were housed at Brandeis University (before 2001). The collection includes correspondence, most of it with Victor Berch, Archivist of the ALBA collections at Brandeis, published and unpublished articles, bibliographies and bibliography cards, copies of documents, lists, and translations (most by Sarbaugh, some by others). Items by Sarbaugh include: \"Spanish Civil War Aviators in Literature and Popular Fiction\" and \"Hidden History: Catalan Women Pilots for the Spanish Republic\" (1987)."
+            }
+        },
+        "controlaccess": {},
+        "dsc": {}
+    }
+}

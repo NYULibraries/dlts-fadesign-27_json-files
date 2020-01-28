@@ -1,0 +1,124 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "amfamily"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to An American Family DVD Collection\n                    \u003clb/\u003e1973\n                    \u003clb/\u003e\n                    \u003cnum\u003eMSS 210\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Ashley Todd, July 2010."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "© 2009 Fales Library and Special Collections"
+                },
+                "address": {
+                    "addressline": [
+                        "Fales Library and Special Collections",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY 10012",
+                        "Phone: (212) 998-2596",
+                        "Email: fales.library@nyu.edu"
+                    ]
+                },
+                "date": "7/16/2010"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2010-07-19T14:28-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "© 2009 Fales Library and Special Collections"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Raymond, Susan"
+                    }
+                },
+                "unittitle": {
+                    "value": "An American Family DVD Collection"
+                },
+                "unitdate": {
+                    "value": "1973"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.25 linear feet"
+                        },
+                        {
+                            "value": "(12 DVDs)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The An American Family Collection consists of 12 one-hour episodes of the 12-hour documentary, \"An American Family,\" that debuted on PBS-TV in early 1973. It consists of 12 DVDs."
+                },
+                "unitid": {
+                    "value": "MSS 210"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref4",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers. Material may be viewed in reading room only. Appointments are necessary for the use of manuscript and archival collections."
+            }
+        },
+        "prefercite": {
+            "id": "ref6",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form:\n                \u003clb/\u003e\n                \u003clb/\u003e Identification of episode, 1973; An American Family DVD Collection; MSS 210; Fales Library and Special Collections, New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "ref3",
+            "head": "Historical Note",
+            "p": {
+                "value": "In 1971 filmmakers Alan and Susan Raymond spent seven months documenting the day-to-day lives of the Loud family of Santa Barbara, CA, including parents William C. “Bill” and Pat Loud and their children Lance, Kevin, Grant, Delilah, and Michele. The resulting 12-hour documentary, \"An American Family,\" debuted on PBS-TV in early 1973. The show captivated millions of viewers worldwide with its then-unconventional depiction of middle class American family life that encompassed the \"real-life drama\" of marital tensions and subsequent divorce, a son's openly gay life, and the effects of the changing concepts of the American family structure. Breaking apart from the traditional American family model of harmony and ideality portrayed in fictional televison sitcoms of the early 1970s like \"The Brady Bunch,\" the novelty and innovation of \"An American Family\" not only pioneered reality television, but also set the tone for the more complex family models exhibited in later shows such as \"Roseanne\" and \"The Simpsons.\""
+            }
+        },
+        "scopecontent": {
+            "id": "ref7",
+            "head": "Scope and Content note",
+            "p": {
+                "value": "The collection is comprised of 12 one-hour episodes that document the Loud's day-to-day life during seven months of 1971."
+            }
+        },
+        "controlaccess": {},
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref8\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries I: Videos\u003c/unittitle\u003e\n                    \u003cunitdate\u003e1971\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref9\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAn American Family, Episode #101\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid16307001\" type=\"Shelf\" label=\"Media\"\u003eMedia\u003c/container\u003e\n                        \u003ccontainer parent=\"cid16307001\" type=\"Media\"\u003eID: 210.0001\u003c/container\u003e\n                        \u003cunitdate\u003e1971\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref10\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAn American Family, Episode #102\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid16307002\" type=\"Shelf\" label=\"Media\"\u003eMedia\u003c/container\u003e\n                        \u003ccontainer parent=\"cid16307002\" type=\"Media\"\u003eID: 210.0002\u003c/container\u003e\n                        \u003cunitdate\u003e1971\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref11\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAn American Family, Episode #103\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid16307003\" type=\"Shelf\" label=\"Media\"\u003eMedia\u003c/container\u003e\n                        \u003ccontainer parent=\"cid16307003\" type=\"Media\"\u003eID: 210.0003\u003c/container\u003e\n                        \u003cunitdate\u003e1971\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref12\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAn American Family, Episode #104\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid16307004\" type=\"Shelf\" label=\"Media\"\u003eMedia\u003c/container\u003e\n                        \u003ccontainer parent=\"cid16307004\" type=\"Media\"\u003eID: 210.0004\u003c/container\u003e\n                        \u003cunitdate\u003e1971\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref13\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAn American Family, Episode #105\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid16307005\" type=\"Shelf\" label=\"Media\"\u003eMedia\u003c/container\u003e\n                        \u003ccontainer parent=\"cid16307005\" type=\"Media\"\u003eID: 210.0005\u003c/container\u003e\n                        \u003cunitdate\u003e1971\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref14\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAn American Family, Episode #106\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid16307006\" type=\"Shelf\" label=\"Media\"\u003eMedia\u003c/container\u003e\n                        \u003ccontainer parent=\"cid16307006\" type=\"Media\"\u003eID: 210.0006\u003c/container\u003e\n                        \u003cunitdate\u003e1971\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref15\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAn American Family, Episode #107\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid16307007\" type=\"Shelf\" label=\"Media\"\u003eMedia\u003c/container\u003e\n                        \u003ccontainer parent=\"cid16307007\" type=\"Media\"\u003eID: 210.0007\u003c/container\u003e\n                        \u003cunitdate\u003e1971\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref16\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAn American Family, Episode #108\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid16307008\" type=\"Shelf\" label=\"Media\"\u003eMedia\u003c/container\u003e\n                        \u003ccontainer parent=\"cid16307008\" type=\"Media\"\u003eID: 210.0008\u003c/container\u003e\n                        \u003cunitdate\u003e1971\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref17\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAn American Family, Episode #109\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid16307009\" type=\"Shelf\" label=\"Media\"\u003eMedia\u003c/container\u003e\n                        \u003ccontainer parent=\"cid16307009\" type=\"Media\"\u003eID: 210.0009\u003c/container\u003e\n                        \u003cunitdate\u003e1971\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref18\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAn American Family, Episode #110\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid16307010\" type=\"Shelf\" label=\"Media\"\u003eMedia\u003c/container\u003e\n                        \u003ccontainer parent=\"cid16307010\" type=\"Media\"\u003eID: 210.0010\u003c/container\u003e\n                        \u003cunitdate\u003e1971\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref19\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAn American Family, Episode #111\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid16307011\" type=\"Shelf\" label=\"Media\"\u003eMedia\u003c/container\u003e\n                        \u003ccontainer parent=\"cid16307011\" type=\"Media\"\u003eID: 210.0011\u003c/container\u003e\n                        \u003cunitdate\u003e1971\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref20\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAn American Family, Episode #112\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid16307012\" type=\"Shelf\" label=\"Media\"\u003eMedia\u003c/container\u003e\n                        \u003ccontainer parent=\"cid16307012\" type=\"Media\"\u003eID: 210.0012\u003c/container\u003e\n                        \u003cunitdate\u003e1971\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

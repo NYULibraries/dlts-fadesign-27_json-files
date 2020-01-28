@@ -1,0 +1,94 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "alba_076"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "David Miller Papers\n                    \u003cnum\u003eALBA.076\u003c/num\u003e\n                "
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-28T16:32-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Miller, David, 1908-1977"
+                    }
+                },
+                "unittitle": {
+                    "value": "David Miller Papers"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.0 linear feet"
+                        },
+                        {
+                            "value": "(2 boxes)"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "ALBA.076"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "David Miller, a lawyer from the Bronx, joined the Communist Party in 1932 sailed for Spain in April 1938. In the course the war he conducted radio broadcasts from Albacete and Madrid for the Voice of Spain. The collection consists of transcriptions of letters from Miller to David or \"Davedith\" (nickname for his cousin David Wohl and Wohl's wife, Edith), to \"Dan\" and to \"D,\" not otherwise identified. The letters, transcribed after the Spanish Civil War, are lengthy and provide details of his trip to Spain, descriptions of places and people he encountered -- both foreign volunteers and Spaniards -- conditions of service life, combat, his political philosophy, and a wealth of other details, including dialogue. Miller was especially diligent in reporting on Jewish volunteers and Jewish issues. The material is organized in 3 series: Dear Dan, Dear David, and Dear D and Misc. Among the miscellaneous is a handwritten key to the identity of those mentioned by nickname in his letters; a list in date order summarizing the contents of each letter; a chronology of letters written; and a copy of a typescript, \"Letter from Spain,\" which offers some explanation of the circumstances under which the letters were composed."
+            }
+        },
+        "controlaccess": {},
+        "dsc": {}
+    }
+}

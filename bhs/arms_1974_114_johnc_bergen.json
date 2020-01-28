@@ -1,0 +1,164 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1974_114_johnc_bergen"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the John C. Bergen papers\n                    \u003cnum\u003e1974.114\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Larry Weimer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "December 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-12-14T13:20-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Bergen, John C."
+                    }
+                },
+                "unittitle": {
+                    "value": "John C. Bergen papers"
+                },
+                "unitdate": {
+                    "normal": "1827/1894",
+                    "type": "inclusive",
+                    "value": "1827-1894"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.0 Linear feet"
+                        },
+                        {
+                            "value": "in one flat box"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "John C. Bergen (1826-1907) was a farmer on Bergen's Island in Flatlands, Kings County, New York (now part of Brooklyn). His papers include pages from his diary (1846-1848, 1854); an account book with daybook and other transactional entries (1827-1835, 1865-1894); and Bergen's 1866 federal tax return. The diary entries focus principally on daily farming activities, hunting (including at Barren Island), weather, and bringing goods to market in Brooklyn and other Kings County towns, with references to illnesses, participation in town meetings, Bible readings, and other aspects of daily rural life. A farmhand named John J. who appears frequently in the diary's 1840s entries is, judging from an 1854 entry, an African-American."
+                },
+                "unitid": {
+                    "value": "1974.114"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1140001",
+                    "label": "Text",
+                    "type": "Item",
+                    "value": "1 folder, 1 bound item"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref6",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref10",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); John C. Bergen papers, 1974.114; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref8",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "The collection was a gift to the Long Island Historical Society (now Brooklyn Historical Society) in 1930 from Rev. John Tallmadge Bergen (likely John C. Bergen's son)."
+            }
+        },
+        "bioghist": {
+            "id": "ref2",
+            "head": "Biographical/Historical note",
+            "p": {
+                "value": "John C. Bergen (1826-1907) lived on the family farm on Bergen's Island in Flatlands, Kings County, New York, until 1890. He was the son of Cornelius Bergen (1798-1865). (See page 357 of Teunis G. Bergen's \n                \u003cemph render=\"italic\"\u003eThe Bergen Family\u003c/emph\u003e in the BHS library at call number CS71.B47.1876. Also see the obituary from the \n                \u003cemph render=\"italic\"\u003eBrooklyn Eagle\u003c/emph\u003e of June 8, 1907, a copy of which is also found at page 357 in the above book.)"
+            }
+        },
+        "scopecontent": {
+            "id": "ref3",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection includes pages from a diary (1846-1848, 1854) maintained by Flatlands farmer John C. Bergen; an account book with daybook entries (1827-1835), records of various transactions, such as sales of farm produce and purchase of manure and other supplies (1865-1872), and notes on cow births (1882-1894); one loose page of an account book (1872-1874); and Bergen's 1866 federal tax return. The diary entries focus principally on daily farming activities, hunting (including at Barren Island), weather, and bringing goods to market in Brooklyn and other Kings County towns, with references to illnesses, participation in town meetings, and other aspects of daily rural life. A farmhand named John J. who appears frequently in the diary's 1840s entries is, judging from an 1854 entry, an African-American. The 1854 pages include lists of daily family and \"secret\" Bible readings."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "African Americans |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Agriculture |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Farmers |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Farms |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Markets |z New York (State) |z New York"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

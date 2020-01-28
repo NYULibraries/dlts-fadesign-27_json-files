@@ -1,0 +1,94 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "alba_273"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Max Schwartz Papers\n                    \u003cnum\u003eALBA.273\u003c/num\u003e\n                "
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T09:23-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Schwartz, Max, 1913-1938"
+                    }
+                },
+                "unittitle": {
+                    "value": "Max Schwartz Papers"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.25 linear feet"
+                        },
+                        {
+                            "value": "(1 box)"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "ALBA.273"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The collection includes transcribed journal entries and letters written by Max Schwartz (1913-1938), a veteran of the Abraham Lincoln Brigade. The journal entries date from December 12, 1937 to January 27, 1938. Schwartz left for Spain on January 27, 1938. The materials include correspondence from Schwartz to his sister Lillian Schwartz of Brooklyn, New York and a photo of Schwartz in Spain. The correspondence dates from October 1937 to February 19, 1938. Also included is a letter dated January 6, 1939 from Lillian Schwartz to the Secretary of State in Washington, DC concerning her search for information regarding the whereabouts of her brother. Max Schwartz was killed in Gandesa, Spain in April of 1938."
+            }
+        },
+        "controlaccess": {},
+        "dsc": {}
+    }
+}

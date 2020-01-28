@@ -1,0 +1,164 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_2008_021_squibb"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Edward R. Squibb collection\n                    \u003cnum\u003e2008.021\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "November 7, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2015-03-20T13:26-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Squibb, Edward Robinson, 1819-1900"
+                    }
+                },
+                "unittitle": {
+                    "value": "Edward R. Squibb collection"
+                },
+                "unitdate": {
+                    "normal": "1832/1979",
+                    "type": "inclusive",
+                    "value": "1832-1979"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "2.75 linear feet"
+                        },
+                        {
+                            "value": "in one manuscript box and two custom boxes"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "This collection contains materials relating to Edward R. Squibb, his family, and his company, Squibb Pharmaceuticals. Items include correspondence, a family bible, books, pamphlets, additional printed materials, and nine antique pharmaceutical containers."
+                },
+                "unitid": {
+                    "value": "2008.021"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1111003",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1 of 3"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref6",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Edward R. Squibb collection, 2008.021, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Marion Belcher, 2008."
+            }
+        },
+        "bioghist": {
+            "id": "ref4",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Edward Robinson Squibb (1819-1900) was a physician and chemist. He was born in Wilmington, DE and attended Jefferson Medical College in Philadelphia, PA. Shortly after graduating, he was appointed a surgeon in the United States Navy. He then ran a medical station at the Brooklyn Navy Yard in Brooklyn, N.Y. before opening his own pharmaceutical company, Squibb Pharmaceuticals, in Brooklyn. The company later became E.R. Squibb \u0026amp; Sons, and eventually became part of the major pharmaeutical company Bristol-Myers Squibb."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "A more detailed inventory is available in the collection's accession file."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Chemists |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Families |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Pharmaceutical industry |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Physicians |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "E.R. Squibb \u0026amp; Sons."
+            }
+        },
+        "dsc": {}
+    }
+}

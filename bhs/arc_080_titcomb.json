@@ -1,0 +1,146 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arc_080_titcomb"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Mary A.Titcomb scrapbooks\n                    \u003cnum\u003eARC.080\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Patricia Glowinski"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "August 17, 2010."
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-22T15:12-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Titcomb, Mary A., 1830-1910"
+                    }
+                },
+                "unittitle": {
+                    "value": "Mary A. Titcomb scrapbooks"
+                },
+                "unitdate": {
+                    "normal": "1865/1881",
+                    "type": "inclusive",
+                    "value": "1865-1881"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.5 Linear feet"
+                        },
+                        {
+                            "value": "in three full manuscript boxes and one half manuscript box."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "ARC.080"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid393001",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "ARC.080 4 of 4"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref2",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref4",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Mary A. Titcomb scrapbooks, ARC.080, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Gift of Mary A. Titcomb, date unknown."
+            }
+        },
+        "bioghist": {
+            "id": "ref1",
+            "head": "Biographical note",
+            "p": {
+                "value": "Mary A. Titcomb was born December 30, 1830. She attended Mount Holyoke Female Seminary, now Mount Holyoke College, in South Hadley, MA and graduated in 1850. Following graduation, Titcomb began her career as a teacher and writer. From 1850-1856, Titcomb taught at Mount Holyoke Female Seminary. She then taught at Rutgers Female Institute, in New York City, until 1861. From 1865-1881, Titcomb wrote several weekly magazine series for Harper \u0026amp; Brothers, publishers of \n                \u003cemph render=\"italic\"\u003eHarper's Weekly\u003c/emph\u003e and \n                \u003cemph render=\"italic\"\u003eHarper's Bazar\u003c/emph\u003e (now called \n                \u003cemph render=\"italic\"\u003eHarper's Bazaar\u003c/emph\u003e). \"Mrs. Typeset's Diary\" (1867-1870), a fictional series, was published in \n                \u003cemph render=\"italic\"\u003eHarper's Bazar\u003c/emph\u003e. Titcomb also wrote two weekly news and gossip series for Harper \u0026amp; Brothers. \"Saying and Doings\" (1870-1881) was published in \n                \u003cemph\u003eHarper's Bazar\u003c/emph\u003e and \"Home and Foreign Gossip\" (1865-1881) was published in \n                \u003cemph render=\"italic\"\u003eHarper's Weekly\u003c/emph\u003e. Titcomb died in 1910."
+            }
+        },
+        "scopecontent": {
+            "id": "ref6",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The scrapbooks contain the complete run of all three of the weekly series written by Titcomb."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Women authors, American"
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref7\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 1: \"Mrs. Typeset's Diary\"\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003e0.2 Linear feet\u003c/extent\u003e\n                        \u003cextent\u003ein one volume.\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate normal=\"1867/1870\" type=\"inclusive\"\u003e1867-1870\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref10\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003eThis series chronicles Titcomb's weekly fictional series, \"Mrs. Typeset's Diary,\" published in \n                        \u003cemph render=\"italic\"\u003eHarper's Bazar\u003c/emph\u003e, 1867-1870.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref8\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 2: \"Sayings and Doings\"\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003e0.4 Linear feet\u003c/extent\u003e\n                        \u003cextent\u003ein two volumes.\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate normal=\"1870/1881\" type=\"inclusive\"\u003e1870-1881\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref11\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003eThis series chronicles \"Sayings and Doings,\" published in \n                        \u003cemph render=\"italic\"\u003eHarper's Bazar\u003c/emph\u003e, 1870-1881. Its focus was local, national, and international news and gossip.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref9\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 3: \"Home and Foreign Gossip\"\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003e0.8 Linear feet\u003c/extent\u003e\n                        \u003cextent\u003ein four volumes.\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate normal=\"1865/1880\" type=\"inclusive\"\u003e1865-1880\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref12\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003eThis series chronicles \"Home and Foreign Gossip,\" published in \n                        \u003cemph render=\"italic\"\u003eHarper's Weekly\u003c/emph\u003e, 1865-1880. Its focus was local, national, and international news and gossip.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

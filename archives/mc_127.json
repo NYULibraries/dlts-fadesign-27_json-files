@@ -1,0 +1,129 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "mc_127"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Howard Cann Collection \u003cnum\u003eMC 127\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Jennifer E. Neal"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-06-12T19:22:22\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Cann, Howard"
+                    }
+                },
+                "unittitle": {
+                    "value": "Howard Cann Collection"
+                },
+                "unitdate": {
+                    "normal": "1915/1991",
+                    "type": "inclusive",
+                    "value": "1915-1991"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "3 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 2 flat boxes"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Howard Cann coached basketball for thirty-five years at New York University, from 1923-1958."
+                },
+                "unitid": {
+                    "value": "MC 127"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_58cff32a6cd1f174e9eb457198f40ed8",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Access to the Howard Cann Collection is restricted until materials are arranged and described by an archivist."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_ae2a954cfe550a03f0128906f6424d5a",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Howard Cann Collection; MC 127; box number; folder number or item identifier; New York University Archives, New York University."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_72eb5b3185b8a6eef9c3d93c97373220",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Howard Goodsell Cann was a college basketball and football player, and an Olympic shot putter. He coached basketball for thirty-five years at New York University, from 1923-1958. Materials in this collection include certificates, awards, and diplomas from various athletic associations honoring Cann's career as an athlete and coach. There are also certificates of honor from Cann's naval service and an American flag."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_d75ea411b45b912a81117b9f84bbe9e4",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "These materials contain mainly certificates, awards and diplomas from various athletic associations honoring Howard Cann's career as an athlete and coach. Included as well are certificates of honor from Cann's naval service and an American flag."
+            }
+        },
+        "controlaccess": {},
+        "dsc": {}
+    }
+}

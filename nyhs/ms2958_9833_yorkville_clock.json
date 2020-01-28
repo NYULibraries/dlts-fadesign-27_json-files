@@ -1,0 +1,92 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "ms2958_9833_yorkville_clock"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Neighbors Restoring the Historic Yorkville Clock Records\u003clb/\u003e1998-2001\u003clb/\u003e \u003cnum\u003eAHMC - Yorkville Clock\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Larry Weimer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-05-07T13:31:28\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Neighbors Restoring the Historic Yorkville Clock records"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "1998-2001"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": ".2 Linear feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 3 folders, one of which is oversize"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Records maintained by Erin Gray, a member of the ad hoc committee Neighbors Restoring the Historic Yorkville Clock. The documents include fundraising brochures, photographs, minutes of two committee meetings (October 14, 1999, and March 7, 2000), descriptions of the clock reinstallation and re-dedication written by Margot Gayle, correspondence to Erin Gray from Gayle and others, publicity and news clippings, four \"I am a friend of cast iron architecture\" buttons, and three oversize elevations and detail plans prepared by Historical Arts \u0026amp; Casting for refurbishing the clock. Photographs include those of the clock during its reinstallation; Margot Gayle, Erin Gray and others at the clock shortly after its reinstallation; Gayle and Gray resetting the clock's time; a metalworker affixing a plaque to the pedestal; and a contact sheet and negatives of the work underway at the restorer's workshop.\u003clb/\u003e \u003clb/\u003e\n\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: \u003cextref actuate=\"onRequest\" href=\"http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph007344431\u0026amp;context=L\u0026amp;vid=NYHS\u0026amp;search_scope=nyhs\u0026amp;tab=nyhs\u0026amp;lang=en_US\"\u003eNeighbors Restoring the Historic Yorkville Clock records.\u003c/extref\u003e"
+                },
+                "unitid": {
+                    "value": "AHMC - Yorkville Clock"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "dsc": {}
+    }
+}

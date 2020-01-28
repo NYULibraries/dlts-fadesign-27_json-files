@@ -1,0 +1,145 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "tam_185"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Fanny Simon Papers\n                    \u003cnum\u003eTAM.185\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "12/14/2009"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T18:50-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Simon, Fanny, 1903-1989"
+                    }
+                },
+                "unittitle": {
+                    "value": "Fanny Simon Papers"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "13.0 linear feet"
+                        },
+                        {
+                            "value": "(13 boxes)"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "TAM.185"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid18948001",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1-12"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref5",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open for research without restrictions, except where prohibited by the fragile physical condition of much of the material. \n                \u003cemph render=\"bold\"\u003eNOTE: This collection is housed offsite and advance notice is required for use.\u003c/emph\u003e"
+            }
+        },
+        "bioghist": {
+            "id": "ref7",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Fanny Simon (1903-1989) was a labor organizer, economist, and socialist. She emigrated from Poland in 1913. After receiving a graduate degree in economics from Columbia University, she became a founder in 1936 of the New York Teachers Guild, taught at James Monroe High School in Brooklyn, N.Y., retiring in 1963. and remained an activist in the Guild's successor, the United Federation of Teachers, serving on its Women's Rights Committee, and was also a founder of the Coalition of Labor Union Women. After her retirement, she traveled throughout Latin America, training labor leaders and wrote the apparently unpublished book-length manuscript, \"The Labor Movement in Latin America.\" She was a member of the board of the Workers Defense League, served as the Socialist Party U.S.'s representative in international organizations and forums, and was an associate of Socialist Party head Norman Thomas."
+            }
+        },
+        "scopecontent": {
+            "id": "ref3",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The papers contain Simon's clippings and research notes on labor in Latin America, her travel diaries, correspondence, and manuscripts. There is no description of the contents of any of the twelve individual boxes that comprise the collection. \n                \u003cemph render=\"bold\"\u003eNOTE: This collection is housed offsite and advance notice is required for use.\u003c/emph\u003e PLEASE DIRECT FURTHER INQUIRIES TO: tamiment.wagner@nyu.edu"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Jewish socialists |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor movement |z Latin America."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor unions |z Latin America."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Women socialists |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Working class |z Latin America."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "United Federation of Teachers."
+            }
+        },
+        "dsc": {}
+    }
+}

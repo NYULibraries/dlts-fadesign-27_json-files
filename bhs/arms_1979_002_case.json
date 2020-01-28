@@ -1,0 +1,130 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1979_002_case"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Quaker petition against Thomas Case\n                    \u003cnum\u003e1979.002\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Matthew Gorham"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "August 2, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-18T14:48-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "Quaker petition against Thomas Case"
+                },
+                "unitdate": {
+                    "normal": "1675/1675",
+                    "value": "1675"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.1 Linear feet"
+                        },
+                        {
+                            "value": "in two folders"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Prominent Quakers in several Long Island meetings joined in this petition to disavow any relationship with Thomas Case and his followers. Case was a radical Quaker preacher from Newtown, Queens County who proclaimed himself a second Christ. As a group, signers of this petition joined together to go on record as opposing and denying Case's blasphemy. Signers of the petition originated from areas of Long Island such as Gravesend, Flushing, Matinecock, and Newtown. The petition is dated 1675."
+                },
+                "unitid": {
+                    "value": "1979.002"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid948001",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0089"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref4",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Quaker petition against Thomas Case, 1979.002, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Arthur H. Dorland, 1978."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Quakers |z New York (State) |z Long Island"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Quakers |z New York (State) |z Queens County"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

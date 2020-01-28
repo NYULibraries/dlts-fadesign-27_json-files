@@ -1,0 +1,145 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1994_009_muir_williamsburg"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the John Muir collection of the Williamsburg neighborhood of Brooklyn\n                    \u003cnum\u003e1994.009\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by John Zarrillo"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "2014"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2014-10-14T15:36-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Muir, John C."
+                    }
+                },
+                "unittitle": {
+                    "value": "John Muir collection of the Williamsburg neighborhood of Brooklyn"
+                },
+                "unitdate": {
+                    "normal": "1880/1989",
+                    "type": "inclusive",
+                    "value": "1880 to circa 1980s"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.01 linear feet"
+                        },
+                        {
+                            "value": "in one folder"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Collection consists of visual materials pertaining to Williamsburg, Brooklyn, dating from 1880 to the 1980s."
+                },
+                "unitid": {
+                    "value": "1994.009"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1245001",
+                    "label": "Graphic materials",
+                    "type": "Box",
+                    "value": "A0011"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref6",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); John Muir collection of the Williamsburg neighborhood of Brooklyn, 1994.009, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of John Muir, 1994."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "Collection consists of visual materials pertaining to Williamsburg, Brooklyn, dating from 1880 to the 1980s. These include: an 1880 photograph of 87 Bedford Avenue (Kings County Fire Insurance Company); an 1882 photograph of 84 Bedford Avenue (Burgess florist shop and The Hat Box); print of an 1888 photograph documenting an explosion at Stover's Department Store (at Bedford Avenue and South 6th Street); a postcard featuring the Ross Street Presbyterian Church; and documentation of the fountain at Bedford Avenue and Division Avenue, including two small photographs (circa 1891), and two clippings (circa 1960s and 1980s)."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Fountains |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Stover's Department Store."
+            }
+        },
+        "dsc": {}
+    }
+}

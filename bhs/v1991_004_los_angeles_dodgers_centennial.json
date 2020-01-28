@@ -1,0 +1,153 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "v1991_004_los_angeles_dodgers_centennial"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Los Angeles Dodgers centennial press kit photographs\n                    \u003cnum\u003eV1991.004\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Patricia Glowinski"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "September 20, 2011."
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2016-09-13T14:32-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Los Angeles Dodgers centennial press kit photographs"
+                },
+                "unitdate": {
+                    "normal": "1985/1995",
+                    "type": "inclusive",
+                    "value": "circa 1990"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.03 linear feet"
+                        },
+                        {
+                            "value": "in one folder"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The Los Angeles Dodgers centennial press kit photographs consist of two modern black-and-white photographic prints. One photograph is a group portrait of the 1890 Brooklyn Dodgers baseball team, while the other photograph consists of four panels showing views of four different baseball fields that were home to the Brooklyn Dodgers or the Los Angeles Dodgers. A view of Ebbets Field in Brooklyn is included. Though the photographic prints date from circa 1990, the original images from which the prints were reproduced date from circa 1890 to 1990."
+                },
+                "unitid": {
+                    "value": "V1991.004"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1033008",
+                    "label": "Graphic materials",
+                    "type": "Box",
+                    "value": "Prints by Accession"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref4",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref3",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Los Angeles Dodgers centennial press kit photographs, V1991.004, Box number, Object ID number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref6",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Source and date of acquisition for this collection are unknown. The collection was formally accessioned in 1991."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Los Angeles Dodgers centennial press kit photographs consist of two modern black-and-white photographic prints. One photograph is a group portrait of the 1890 Brooklyn Dodgers baseball team, while the other photograph consists of four panels showing views of four different baseball fields that were home to the Brooklyn Dodgers or the Los Angeles Dodgers. A view of Ebbets Field in Brooklyn is included. Though the photographic prints date from circa 1990, the original images from which the prints were reproduced date from circa 1890 to 1990."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Aerial photographs"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Baseball fields"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Baseball teams |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Los Angeles Dodgers (Baseball team)."
+            }
+        },
+        "otherfindaid": {
+            "id": "ref7",
+            "head": "Other Finding Aids"
+        },
+        "dsc": {}
+    }
+}

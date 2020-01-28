@@ -1,0 +1,147 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "alba_202"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Sylvia Boehm Acker Papers\n                    \u003cnum\u003eALBA.202\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Wendy Scheir and Gail Malmgreen"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-28T16:52-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Acker, Sylvia Boehm."
+                    }
+                },
+                "unittitle": {
+                    "value": "Sylvia Boehm Acker Papers"
+                },
+                "unitdate": {
+                    "normal": "1937/1981",
+                    "type": "inclusive",
+                    "value": "1937-1981"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.5 linear feet"
+                        },
+                        {
+                            "value": "(1 box)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "George Boehm joined the International Brigades as a volunteer in the Abraham Lincoln Brigade in February 1937, and was killed during the Battle of the Ebro in July or August 1938. The collection was donated by Boehm's widow, Sylvia Diner Boehm Acker, who later married Leon Acker, an International Brigades volunteer from Poland. The collection includes Boehm's letters to Silvia from Spain, memorabilia, clippings, and material relating to Sylvia's lifelong activity with International Brigades veterans' and refugee aid organizations."
+                },
+                "unitid": {
+                    "value": "ALBA.202"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref5",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open for research without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "ref38",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: \n                \u003clb/\u003e\n                \u003clb/\u003eIdentification of item, date; Collection name; Collection number; box number; folder number; \n                \u003clb/\u003eTamiment Library/Robert F. Wagner Labor Archives \n                \u003clb/\u003eElmer Holmes Bobst Library \n                \u003clb/\u003e70 Washington Square South \n                \u003clb/\u003eNew York, NY 10012, New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "ref8",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "George Boehm was born in Velika Pisanica, Croatia on November 5, 1897. He sailed to Europe from New York City to volunteer in the International Brigades in Spain in February 1937. An artist, Spanish teacher, and interpreter, Boehm was killed during the Battle of the Ebro in July or August 1938. Boehm's wife, Sylvia Diner Boehm, participated in fundraising and support work for the International Briagdes volunteers in New York City. After George Boehm's death, Sylvia married another Spanish Civil War veteran, Leon Acker, who had served with the Jewish battalion of the Dombrowski Brigade of Polish volunteers. In the decades after the war, Sylvia remained active in committees to aid Spanish Refugees and Spanish Civil War veterans."
+            }
+        },
+        "scopecontent": {
+            "id": "ref9",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "A substantial portion of the collection consists of George Boehm's letters from Spain to his wife, Sylvia, with notes written by her on the envelopes. Also included are letters to Sylvia from the Friends of the Abraham Lincoln Brigade regarding her efforts to learn about George's fate in Spain; clippings about the Spanish Civil War, Spanish refugees, and politics; original artwork and paste-up of a flyer for a dinner-dance sponsored by the Botvin Committee to Aid Jewish Volunteers in Spain (in Yiddish); and an autograph of Dolores Ibárruri."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Ebro River, Battle of the, Spain, 1938."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Veterans of the Abraham Lincoln Brigade."
+            }
+        },
+        "dsc": {
+            "value": "\n            \u003cc01 id=\"ref15\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries I: Subject Files, 1937-1981.\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                \u003c/did\u003e\n                \u003cc02 id=\"ref16\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAcker, Leon: Military document; letter of introduction to United Electrical Workers, Local 1224\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid16657\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid16657\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"1938/1940\" type=\"inclusive\"\u003e1938 , 1940\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref17\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAcker, Sylvia: Receipts for Spanish Aid Contributions (Medical Bureau and Polski Comitet Solidarnosci z Ludem Hiszpani)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid16656\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid16656\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate normal=\"1939/1967\" type=\"inclusive\"\u003e1939 , 1967\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref18\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAnte el Pleno de Nuestro Comitó Central (annotated pamphlet)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid16655\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid16655\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate\u003eDec 1937\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref19\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eBoehm, George: Death certificate; notes\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid16654\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid16654\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate normal=\"1938/1938\"\u003e1938\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref20\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eBotvin Committee to Aid Jewish Volunteers of Spain\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid16653\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid16653\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate normal=\"1939/1940\" type=\"inclusive\"\u003e1939-1940\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref21\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eClippings\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid16652\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid16652\" type=\"Folder\"\u003e6\u003c/container\u003e\n                        \u003cunitdate normal=\"1937/1981\" type=\"inclusive\"\u003eundated , 1937-1941\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref22\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eClippings\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid16651\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid16651\" type=\"Folder\"\u003e7\u003c/container\u003e\n                        \u003cunitdate normal=\"1976/1978\" type=\"inclusive\"\u003e1976-1978\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref23\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence: Friends of the Abraham Lincoln Brigade to Sylvia Boehm\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid16650\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid16650\" type=\"Folder\"\u003e8\u003c/container\u003e\n                        \u003cunitdate\u003eJul 1937-Dec 1938\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref24\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence: George Boehm (Letters to Mrs. Belche Camel, Mrs. Tillie Diner, and draft of telegram to Governor of Alabama re: Clarence Norris execution, with notes by Sylvia Boehm on envelopes)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid16649\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid16649\" type=\"Folder\"\u003e9\u003c/container\u003e\n                        \u003cunitdate normal=\"1937/1938\" type=\"inclusive\"\u003e1937-1938\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref25\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence: George Boehm to Sylvia Boehm\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid16648\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid16648\" type=\"Folder\"\u003e10\u003c/container\u003e\n                        \u003cunitdate normal=\"1937/1981\" type=\"inclusive\"\u003eundated , Feb 1937-Jul 1937\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref26\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence: George Boehm to Sylvia Boehm\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid16647\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid16647\" type=\"Folder\"\u003e11\u003c/container\u003e\n                        \u003cunitdate\u003eAug 1937-Dec 1937\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref27\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence: George Boehm to Sylvia Boehm\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid16646\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid16646\" type=\"Folder\"\u003e12\u003c/container\u003e\n                        \u003cunitdate\u003eJan 1938-Jul 1938\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref28\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence: Joe Gibbons to Sylvia Boehm\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid16645\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid16645\" type=\"Folder\"\u003e13\u003c/container\u003e\n                        \u003cunitdate\u003eDec 1937\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref29\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence: Sylvia Boehm Acker (letter from Fruma Bogen-Dua of Watsaw, in Yiddish, 1964; letter to Miriam Tache re: visit to IB veteran Ickovic Salaman in Czechoslovakia, 1967; reply from Miriam Tache)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid16644\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid16644\" type=\"Folder\"\u003e14\u003c/container\u003e\n                        \u003cunitdate\u003eJul 1964 , Sep 1967\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref30\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eIbarruri, Dolores: Autograph\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid16643\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid16643\" type=\"Folder\"\u003e15\u003c/container\u003e\n                        \u003cunitdate normal=\"1963/1963\"\u003e1963\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref31\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePeriodicals: \n                            \u003cemph render=\"italic\"\u003eNews Bulletin of the International Brigades\u003c/emph\u003e (mimeographed, pp. 3 and 4 missing, and odd pages); \n                            \u003cemph render=\"italic\"\u003eOur Fight - Journal of the XV International Brigade (3 issues)\u003c/emph\u003e; \n                            \u003cemph render=\"italic\"\u003eAcero, Organo del V Cuerpo de Ejercito\u003c/emph\u003e; \n                            \u003cemph render=\"italic\"\u003eMackenzie Papineau Daily\u003c/emph\u003e (typed, 2 unrelated pages)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid16642\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid16642\" type=\"Folder\"\u003e16\u003c/container\u003e\n                        \u003cunitdate normal=\"1937/1937\"\u003eAug 1937-Dec 1937 \u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref32\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePins, medals and commemorative object [Separated to ALBA Artifacts. Consult archivist.] One pin \"Honor Guest\", with ribbon, Hippodrome Benefit, June 28, 1937, is in this folder.\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid16641\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid16641\" type=\"Folder\"\u003e17\u003c/container\u003e\n                        \u003cunitdate normal=\"1937/1976\" type=\"inclusive\"\u003eundated , 1937-1939, 1976\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref33\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSpanish Civil War Prisoner, Refugee, and International Brigades Aid Appeals (including a postcard with photo from a french refugee camp, and a printed invitation from Dashiell Hammett to a benefit reception and exhibition honring William Gropper)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid16640\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid16640\" type=\"Folder\"\u003e18\u003c/container\u003e\n                        \u003cunitdate normal=\"1941/1966\" type=\"inclusive\"\u003eundated, 1941, 1966\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref39\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSpanish Refugees: \"Proceedings , National Emergency Conference on an Immediate Program to Aid Spanish Refugees\" (Hotel Hamilton, Washington DC)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid21316001\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid21316001\" type=\"Folder\"\u003e19\u003c/container\u003e\n                        \u003cunitdate\u003eMar 15, 1941-Mar 16, 1941\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref34\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSpeech delivered by Dr. Enrique Carlos de la Casa\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid16639\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid16639\" type=\"Folder\"\u003e20\u003c/container\u003e\n                        \u003cunitdate\u003eJul 1937\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref35\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eVeterans of the Abraham Lincoln Brigade: Reunions and anniversaries\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid16638\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid16638\" type=\"Folder\"\u003e21\u003c/container\u003e\n                        \u003cunitdate normal=\"1967/1978\" type=\"inclusive\"\u003e1967 , 1976-1978\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n            \u003c/c01\u003e\n        "
+        }
+    }
+}

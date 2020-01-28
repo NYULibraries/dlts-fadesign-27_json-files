@@ -1,0 +1,165 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_029"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Kalmyk Resettlement Committee Records \u003cnum\u003eTAM.029\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-04-24T13:45:49\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Kalmyk Resettlement Committee Records"
+                },
+                "unitdate": {
+                    "normal": "1949/1952",
+                    "type": "inclusive",
+                    "value": "1949-1952"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Kalmyk Resettlement Committee was an American group attempting resettlement of Kalmyks, ethnic Mongolians living in Russia since the seventeenth century and displaced by World War II. The records include correspondence, some in German, and case histories with attached photographs."
+                },
+                "unitid": {
+                    "value": "TAM.029"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_4f47c69f13e62f4f62c17c4a17fcb768",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_a71e4f399435bea716fa2609dac81548",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_cd8e01481f469c9c914a4e4f9c669fb4",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Collection name; Collection number; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_da6b56234d908add62fb8fe54d524819",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Transferred from the Rand School Archives, 1963. The accession number associated with this collection is 1963.013."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_da178dd1e6966e6d64ed2b6532bc3eed",
+            "head": "Biographical/Historical note",
+            "p": {
+                "value": "The Kalmyk Resettlement Committee was an American group attempting resettlement of Kalmyks, ethnic Mongolians who had lived in Russia since the seventeenth century, who became refugees at various times. Some of them had migrated to southeastern Europe in the aftermath of the Russian revolution, and others fled westward with the retreating German army during World War II. Organizations working with the Committee were the National Council of the Church of Christ, the International Refugee Organization in Geneva and the Unitarian Service Committee."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_586692424c987147ea174c1eaacd6969",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The records include correspondence, some in German, and case histories with attached photographs."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Refugee camps."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Refugees."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "World War, 1939-1945 |x Refugees."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Political refugees |z Soviet Union."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Kalmyks |x History |y 20th century."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "International Refugee Organization"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref10\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: Records\u003c/unittitle\u003e\u003cphysdesc altrender=\"whole\"\u003e\u003cextent altrender=\"materialtype spaceoccupied\"\u003e1 box\u003c/extent\u003e\u003c/physdesc\u003e\u003cunitdate normal=\"1949/1952\" type=\"inclusive\"\u003e1949-1952\u003c/unitdate\u003e\u003cphysdesc id=\"aspace_2d930c86f78c45dfa6db9efbeb0013c2\"\u003eno content\u003c/physdesc\u003e\u003c/did\u003e\u003cc id=\"aspace_ref12\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\u003cunitdate normal=\"1949/1950\" type=\"inclusive\"\u003e1949-1950\u003c/unitdate\u003e\u003ccontainer id=\"aspace_680dee67881515bd725eba34848d0ad0\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_680dee67881515bd725eba34848d0ad0\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref13\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\u003cunitdate normal=\"1951/1952\" type=\"inclusive\"\u003e1951-1952\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a4de47d3e1c4f0d26f6b6ab8cb9e118c\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_a4de47d3e1c4f0d26f6b6ab8cb9e118c\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCase Histories: A-B\u003c/unittitle\u003e\u003cunitdate normal=\"1949/1950\" type=\"inclusive\"\u003e1949-1950\u003c/unitdate\u003e\u003ccontainer id=\"aspace_0c38cbe45e96e8cb7e1b3209de0f7cf9\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0c38cbe45e96e8cb7e1b3209de0f7cf9\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCase Histories: D-L\u003c/unittitle\u003e\u003cunitdate normal=\"1949/1950\" type=\"inclusive\"\u003e1949-1950\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2e5e26714d91b5a4461edbb5c34ed6b4\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2e5e26714d91b5a4461edbb5c34ed6b4\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCase Histories: M-N\u003c/unittitle\u003e\u003cunitdate normal=\"1949/1950\" type=\"inclusive\"\u003e1949-1950\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9e4da7b30f554c89d0097490abc4f734\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_9e4da7b30f554c89d0097490abc4f734\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCase Histories: O-Z\u003c/unittitle\u003e\u003cunitdate normal=\"1949/1950\" type=\"inclusive\"\u003e1949-1950\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2bc9f57603faa3ae229e8e834f726efa\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2bc9f57603faa3ae229e8e834f726efa\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eList of Kalmyk DPs Resident in Sub Area Inglestadt DP Camp F-1\u003c/unittitle\u003e\u003cunitdate normal=\"1949/1950\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_023bbcf9e4a85ccd465f50830e20fd01\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_023bbcf9e4a85ccd465f50830e20fd01\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePhotographs: Copies\u003c/unittitle\u003e\u003cunitdate normal=\"1949/1950\" type=\"inclusive\"\u003e1949-1950\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2c911621207b873c9a72d86025c4fe35\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2c911621207b873c9a72d86025c4fe35\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

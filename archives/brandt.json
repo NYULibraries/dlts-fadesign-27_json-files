@@ -1,0 +1,153 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "brandt"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Werner Brandt Papers \u003clb/\u003e\u003cdate\u003e1951-1983 \u003c/date\u003e\u003clb/\u003e(Bulk \u003cdate normal=\"1956/1983\" type=\"bulk\"\u003e1956-1983) \u003c/date\u003e\u003clb/\u003e \u003cnum\u003eMC.13\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by New York University Archives staff."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-10-23T14:52:20\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "local",
+                        "value": "Yamus, Leonard"
+                    }
+                },
+                "unittitle": {
+                    "value": "Werner Brandt Papers"
+                },
+                "unitdate": {
+                    "normal": "1951/1983",
+                    "type": "inclusive",
+                    "value": "1951-1983"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 3 manuscript boxes."
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Werner Brandt was a professor of physics at New York University from 1961-1966. From 1967 onward, he was also the director of the university's Radiation and Solid State Physics Laboratory. Brandt was a pioneer in research on energy, matter, and radiation. This collection is comprised of his articles and reports from the period of 1951 to 1983."
+                },
+                "unitid": {
+                    "value": "MC.13"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_14a69842932523886c0ad7e1269accd8",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_f47ddfc4e7467172071f93d70feaeca9",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: Identification of item, date; Werner Brandt Papers; MC 13; box number; folder number; New York University Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_22f15a383df2608cbff8c48c7cc34f4a",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Professor Leonard Yamus at an unknown date. The accession number associated with this gift is 84.021."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_28363a31827d0c02f05022603c807ba4",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Werner Brandt died of cancer in Sweden on 1 January 1983. At the time of his death, Brandt was nominated for the Legion d'Honneur. He is remembered for his research on matter, energy, and radiation, as well as his interests in music, art, and literature. "
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_33c5191a80cbf6a31d77b502ec495bc2",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection houses the articles, writings, and reports by Werner Brandt. A majority of the articles come from the \u003cemph render=\"italic\"\u003ePhysical Review\u003c/emph\u003e. Included in the collection is one of Brandt's first publications, his translation of a 1669 treatise on Icelandic crystals by his ancestor, Erasmus Bartholinus. Materials date from 1951 to 1983."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "New York University -- Faculty"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Physics"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "University of Pennsylvania"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref18\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eInventory\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref19\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eErasumus Bartholinus, Experiments With the Double Refracting Iceland Crystal (translated by Werner Brandt)\u003c/unittitle\u003e\u003cunitdate normal=\"1959/1959\" type=\"inclusive\"\u003e1959\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_b8f32382940a5635ed1901937741e432\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b8f32382940a5635ed1901937741e432\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMemorial Ceremony on Werner Brandt\u003c/unittitle\u003e\u003cunitdate normal=\"1983/1983\" type=\"inclusive\"\u003e1983\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_82369a500f331ef08030bfa26d1a6544\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_82369a500f331ef08030bfa26d1a6544\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNewspaper and an Article Based On His Research\u003c/unittitle\u003e\u003cunitdate normal=\"1959/1980\" type=\"inclusive\"\u003e1959,1980\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_bc382a906304a8586bfb5bc24a72016d\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_bc382a906304a8586bfb5bc24a72016d\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNYU Department of Physics - Research Reports\u003c/unittitle\u003e\u003cunitdate normal=\"1961/1965\" type=\"inclusive\"\u003e1961-1965\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_3dedb79cde0e2c141f5bb50a834ba0c6\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_3dedb79cde0e2c141f5bb50a834ba0c6\" type=\"Folder\"\u003e4-6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePapers\u003c/unittitle\u003e\u003cunitdate normal=\"1951/1974\" type=\"inclusive\"\u003e1951-1974\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_8d4a295fb1ee6654859f245f6a3fab9a\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_8d4a295fb1ee6654859f245f6a3fab9a\" type=\"Folder\"\u003e7-9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePhysical Review A (Scattered Issues)\u003c/unittitle\u003e\u003cunitdate normal=\"1973/1983\" type=\"inclusive\"\u003e1973-1983\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_a2d5b35ab741a2a0e08c695ddf3337bb\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_a2d5b35ab741a2a0e08c695ddf3337bb\" type=\"Folder\"\u003e10\u003c/container\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_a769a567d45d90d7b0d8a4a1336533b6\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_a769a567d45d90d7b0d8a4a1336533b6\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePhysical Review B (Scattered Issues)\u003c/unittitle\u003e\u003cunitdate normal=\"1970/1982\" type=\"inclusive\"\u003e1970-1982\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_5615fd3a84a8c526e54cff2cdabb96a8\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_5615fd3a84a8c526e54cff2cdabb96a8\" type=\"Folder\"\u003e2-3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref26\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePhysical Review Letters (Scattered Issues)\u003c/unittitle\u003e\u003cunitdate normal=\"1963/1978\" type=\"inclusive\"\u003e1963-1978\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_3e84a02a3959bdab99b42a01b3281212\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_3e84a02a3959bdab99b42a01b3281212\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePresentations\u003c/unittitle\u003e\u003cunitdate normal=\"1963/1983\" type=\"inclusive\"\u003e1963-1983\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_c8867ddb8eaf8a1d512f6afa5fec7322\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_c8867ddb8eaf8a1d512f6afa5fec7322\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref28\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eResearch Report\u003c/unittitle\u003e\u003cunitdate normal=\"1957/1960\" type=\"inclusive\"\u003e1957,1960\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_3efdd1a2d5603ee2c49fbee490b231b6\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_3efdd1a2d5603ee2c49fbee490b231b6\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref29\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePublications and Articles\u003c/unittitle\u003e\u003cunitdate normal=\"1951/1967\" type=\"inclusive\"\u003e1951-1967\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_ee789b0b38cd23dd863bb204e61caa56\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_ee789b0b38cd23dd863bb204e61caa56\" type=\"Folder\"\u003e7-8\u003c/container\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_4b9948c305c13e7b617004695e45bad0\" label=\"Mixed Materials\" type=\"Box\"\u003e3\u003c/container\u003e\u003ccontainer parent=\"aspace_4b9948c305c13e7b617004695e45bad0\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref30\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePublications and Articles\u003c/unittitle\u003e\u003cunitdate normal=\"1968/1974\" type=\"inclusive\"\u003e1968-1974\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_7bb9a71d18a6a7488bc3c1a11241ba39\" label=\"Mixed Materials\" type=\"Box\"\u003e3\u003c/container\u003e\u003ccontainer parent=\"aspace_7bb9a71d18a6a7488bc3c1a11241ba39\" type=\"Folder\"\u003e2-4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref31\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePublications and Articles\u003c/unittitle\u003e\u003cunitdate normal=\"1974/1983\" type=\"inclusive\"\u003e1974-1983\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_dd32d2caa3f8c3caf8c9a57f893e0a8d\" label=\"Mixed Materials\" type=\"Box\"\u003e3\u003c/container\u003e\u003ccontainer parent=\"aspace_dd32d2caa3f8c3caf8c9a57f893e0a8d\" type=\"Folder\"\u003e5-7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

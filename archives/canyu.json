@@ -1,0 +1,205 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "canyu"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Records of Computer Advocacy at New York University (C@NYU)\n                    \u003cnum\u003eMC 219\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Ashley Jones. Additional processing by Megan Findling."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-12-05T16:11-0500\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Records of Computer Advocacy at New York University (C@NYU)"
+                },
+                "unitdate": {
+                    "normal": "1995/2008",
+                    "type": "inclusive",
+                    "value": "1995-2008"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.25 linear feet"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Computer Advocacy at NYU (C@NYU) was a student organization, originally formed to advocate for computer services and information about computing for students. The group's members represented a wide spectrum of New York University community members, including staff, faculty, administrators, and students. The records consist of correspondence, administrative forms, financial records, flyers and pamphlets, newspaper clippings, and computer-related reference material. The collection covers a range of topics related to workplace safety and computer awareness."
+                },
+                "unitid": {
+                    "value": "MC 219"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref45",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "This collection is open to researchers without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "ref47",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: Identification of item, date (if known); Records of Computer Advocacy at New York University (C@NYU); MC 219; box number; folder number; New York University Archives, New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "ref49",
+            "head": "History of Computer Advocacy at New York University",
+            "p": {
+                "value": "The C@NYU records are a meaningful addition to the University Archives because the group was active in many influential computer-related discussions and awareness efforts in the New York University community during its 13-year life span."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Approximately 1.25 linear feet of material were eliminated from the collection during its processing, primarily due to excessive amounts of multiple copies. Overall, the paper is in good condition. Gaps in the records appear in two notable areas: the absense of RSI Day 2005 and the decreasing amount of material in C@NYU's later years. There was no RSI conference held in 2005 due to personal conflicts. Membership began to dwindle in the last few years of C@NYU's existence, resulting from a spectrum of factors, including graduation and the willingness or ability of students to keep the group active."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Budget and Resource Planning."
+                },
+                {
+                    "source": "local",
+                    "value": "Computer and health care. "
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Computer science."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Copyright |x Computer programs |z United States. "
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Employment \u0026amp; social affairs |x Health and safety at work."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Ergonomics design and management."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Ergonomics, human factors and safety."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Health education."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Information technology. "
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Internet research. "
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Internet Society."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Internet |x Access control. "
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Internet |x Security measures. "
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Internet |z United States. "
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Linux. "
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Network security, Computer. "
+                },
+                {
+                    "source": "lcsh",
+                    "value": "New York University. Washington Square Campus."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Open-source software. "
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Student activities."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Student newspapers and periodicals |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Technology."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Wireless Internet. "
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref3\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries I: Events\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                    \u003cunitdate normal=\"1995/2008\" type=\"inclusive\"\u003e1995-2008\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003codd id=\"ref18\"\u003e\n                    \u003chead\u003eAbsence of RSI Day 2005\u003c/head\u003e\n                    \u003cp\u003eThere is no folder in this series for RSI Day 2005 because the event did not take place in this year.\u003c/p\u003e\n                \u003c/odd\u003e\n                \u003cc id=\"ref4\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eVarious Events\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid99801\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid99801\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"1995/1996\" type=\"inclusive\"\u003e1995-1996\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref50\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eOffice Ergonomics Conference: Planning and Promotion\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid11174001\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid11174001\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate normal=\"1996/1996\"\u003e1996\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref51\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eOffice Ergonomics Conference: Program Materials and Evaluations\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid11174002\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid11174002\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate normal=\"1996/1996\"\u003e1996\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref7\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eWeb Workshops\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid11174003\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid11174003\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate normal=\"1996/1996\"\u003e1996\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref8\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eComputer Awareness Week: General Planning and April 15 Events\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid11174004\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid11174004\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate normal=\"1996/1996\"\u003e1996\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref52\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eComputer Awareness Week: April 16-18th Events\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid11174005\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid11174005\" type=\"Folder\"\u003e6\u003c/container\u003e\n                        \u003cunitdate normal=\"1996/1996\"\u003e1996\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref9\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eComputer Awareness Week: Planning and Promotion\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid11174006\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid11174006\" type=\"Folder\"\u003e7\u003c/container\u003e\n                        \u003cunitdate normal=\"1997/1997\"\u003e1997\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref54\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eComputer Awareness Week: Evaluations, Appreciation Letters, Press\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid11174028\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid11174028\" type=\"Folder\"\u003e8\u003c/container\u003e\n                        \u003cunitdate normal=\"1997/1997\"\u003e1997\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref10\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eVarious Events\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid11174007\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid11174007\" type=\"Folder\"\u003e9\u003c/container\u003e\n                        \u003cunitdate normal=\"1998/1998\"\u003e1998\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref11\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eVarious Events\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid11174008\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid11174008\" type=\"Folder\"\u003e10\u003c/container\u003e\n                        \u003cunitdate normal=\"1999/1999\"\u003e1999\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref12\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eVarious Events\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid11174009\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid11174009\" type=\"Folder\"\u003e11\u003c/container\u003e\n                        \u003cunitdate normal=\"2000/2000\"\u003e2000\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref13\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eRSI Awareness Day\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid11174010\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid11174010\" type=\"Folder\"\u003e12\u003c/container\u003e\n                        \u003cunitdate normal=\"2000/2000\"\u003e2000\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref14\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eVarious Events\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid11174011\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid11174011\" type=\"Folder\"\u003e13\u003c/container\u003e\n                        \u003cunitdate normal=\"2001/2001\"\u003e2001\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref15\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eRSI Awareness Day\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid11174012\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid11174012\" type=\"Folder\"\u003e14\u003c/container\u003e\n                        \u003cunitdate normal=\"2001/2001\"\u003e2001\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref16\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eVarious Events\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid11174013\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid11174013\" type=\"Folder\"\u003e15\u003c/container\u003e\n                        \u003cunitdate normal=\"2002/2002\"\u003e2002\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref17\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eRSI Awareness Day\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid11174014\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid11174014\" type=\"Folder\"\u003e16\u003c/container\u003e\n                        \u003cunitdate normal=\"2002/2002\"\u003e2002\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref19\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eVarious Events\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid11174015\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid11174015\" type=\"Folder\"\u003e17\u003c/container\u003e\n                        \u003cunitdate normal=\"2003/2003\"\u003e2003\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref20\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eRSI Awareness Day\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid11174016\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid11174016\" type=\"Folder\"\u003e18\u003c/container\u003e\n                        \u003cunitdate normal=\"2003/2003\"\u003e2003\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref21\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eVarious Events\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid11174017\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid11174017\" type=\"Folder\"\u003e19\u003c/container\u003e\n                        \u003cunitdate normal=\"2004/2008\" type=\"inclusive\"\u003e2004-2008\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref23\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eRSI Awareness Day\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid11174018\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid11174018\" type=\"Folder\"\u003e20\u003c/container\u003e\n                        \u003cunitdate normal=\"2004/2004\"\u003e2004\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref24\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eRSI Awareness Day\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid11174019\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid11174019\" type=\"Folder\"\u003e21\u003c/container\u003e\n                        \u003cunitdate normal=\"2006/2006\"\u003e2006\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref25\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eRSI Awareness Day\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid11174020\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid11174020\" type=\"Folder\"\u003e22\u003c/container\u003e\n                        \u003cunitdate normal=\"2007/2007\"\u003e2007\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref29\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries II: Organization Papers\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                    \u003cunitdate normal=\"1995/2008\" type=\"inclusive\"\u003e1995-2008\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref30\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eGeneral Publicity and Meetings Records\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid11174021\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid11174021\" type=\"Folder\"\u003e23\u003c/container\u003e\n                        \u003cunitdate normal=\"1995/2008\" type=\"inclusive\"\u003e1995-2008\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref32\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMember Relations\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid11174022\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid11174022\" type=\"Folder\"\u003e24\u003c/container\u003e\n                        \u003cunitdate normal=\"1995/2008\" type=\"inclusive\"\u003e1995-2008\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref34\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eBudgeting\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid11174023\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid11174023\" type=\"Folder\"\u003e25\u003c/container\u003e\n                        \u003cunitdate normal=\"1995/2000\" type=\"inclusive\"\u003e1995-2000\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref35\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eBudgeting\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid11174024\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid11174024\" type=\"Folder\"\u003e26\u003c/container\u003e\n                        \u003cunitdate normal=\"2000/2006\" type=\"inclusive\"\u003e2000-2006\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref55\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eBudgeting: ASSBAC/OSA Memorandums and Correspondence\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid11174029\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid11174029\" type=\"Folder\"\u003e27\u003c/container\u003e\n                        \u003cunitdate normal=\"1995/2007\" type=\"inclusive\"\u003e1995-2007\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref36\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eBudgeting: Incomplete and Blank ASSBAC/OSA Forms\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid11174025\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid11174025\" type=\"Folder\"\u003e28\u003c/container\u003e\n                        \u003cunitdate normal=\"1995/2008\" type=\"inclusive\"\u003e1995-2008\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref37\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries III: Non-Organization Papers\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                    \u003cunitdate normal=\"1995/2008\" type=\"inclusive\"\u003e1995-2008\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref38\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eComputer Reference: Pamphlets and Loose Papers\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid11174026\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid11174026\" type=\"Folder\"\u003e29\u003c/container\u003e\n                        \u003cunitdate normal=\"1995/2008\" type=\"inclusive\"\u003e1995-2008\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref56\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eComputer Reference: Large Booklets\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid11174030\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid11174030\" type=\"Folder\"\u003e30\u003c/container\u003e\n                        \u003cunitdate normal=\"1995/2008\" type=\"inclusive\"\u003e1995-2008\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref39\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eComputer Reference: Legal Issues and Legislation\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid11174027\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid11174027\" type=\"Folder\"\u003e31\u003c/container\u003e\n                        \u003cunitdate normal=\"1995/2008\" type=\"inclusive\"\u003e1995-2008\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref58\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eFloppy Disk\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid11174031\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid11174031\" type=\"Folder\"\u003e32\u003c/container\u003e\n                        \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref59\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003e2 Plaques\u003c/unittitle\u003e\n                        \u003clangmaterial\u003e\n                            \u003clanguage langcode=\"eng\"/\u003e\n                        \u003c/langmaterial\u003e\n                        \u003ccontainer id=\"cid11181001\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid11181001\" type=\"Folder\"\u003e33\u003c/container\u003e\n                        \u003cunitdate\u003e2001, undated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

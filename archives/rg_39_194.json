@@ -1,0 +1,148 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "rg_39_194"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Square Daily \u003cnum\u003eRG.39.194\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Abbey wilson"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-05-21T21:09:38\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Square Daily"
+                },
+                "unitdate": {
+                    "normal": "1953/1953",
+                    "value": "April 6, 1953-May 8, 1953"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.15 linear feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 folder"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "This collection contains issues from the student newspaper the Square Daily dating from April to May 1953.  This newspaper documented student life at NYU (particuarly at the Washington Square campus), local and national news, campus living, and student clubs. The collection is extensive but not comprehensive, there may be some issues that were published but are not included in this collection."
+                },
+                "unitid": {
+                    "value": "RG.39.194"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_b72caeb37bad2328278dff49c0005a36",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_c2cdeb7b5d0aaca9163fa5123dc4e91e",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: Identification of item, date; Square Daily; RG 39.194; box number; folder number; New York University Archives, New York University Libraries."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_04c93e52497a691ff5a28d50b9ce2417",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials found in collection; there is no documentation concerning the provenance of these materials."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_d824d5f41c5544223f29ebbda3037b51",
+            "head": "Biographical / Historical",
+            "p": {
+                "value": "New York University has had many student newspapers since its founding. The University Heights campus and the Washington Square campus had separate student newspapers until 1973 when the University Heights campus was closed."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_6b21429004b37a6243005affe1fc877a",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection contains issues of student newspaper the Square Daily from 1953. he newspaper was printed daily and documented student life (particularly at the Washington Square campus), university news, and local or international news with relevancy to NYU."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "College student newspapers and periodicals."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Student activities."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Washington Square College"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_5369f28e73335bc1b252d0a411cb995f\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eSquare Daily\u003c/unittitle\u003e\u003cunitdate normal=\"1953/1953\"\u003eApril 6, 1953-May 8, 1953\u003c/unitdate\u003e\u003ccontainer altrender=\"OS Flat Box - 16 - lengthwise\" id=\"aspace_f48e7884da5bdd603842f520ce929fc0\" label=\"Mixed Materials\" type=\"Box\"\u003eShared University Archives Accessions 001\u003c/container\u003e\u003ccontainer parent=\"aspace_f48e7884da5bdd603842f520ce929fc0\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

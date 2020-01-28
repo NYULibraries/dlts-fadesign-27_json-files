@@ -1,0 +1,151 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "aia_083"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the FitzSimons Family Letters \u003cnum\u003eAIA.083\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Megan O'Shea"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-09-18T15:23:38\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Casey, Marion R., 1962-"
+                    },
+                    "famname": {
+                        "source": "naf",
+                        "value": "Fitzsimmons family"
+                    }
+                },
+                "unittitle": {
+                    "value": "FitzSimons Family Letters"
+                },
+                "unitdate": {
+                    "normal": "1941/1977",
+                    "type": "inclusive",
+                    "value": "1941-1977"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.2 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 half manuscript box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The FitzSimons family lived in Ireland, mainly in Dublin, with some members immigrating to the United States.  The most famous member of the family was the film actress Maureen O'Hara.  The FitzSimons Family Letters consist of letters sent to and from members of the FitzSimons family in Ireland, the United States, and Rhodesia, between 1941 and 1977.  The majority of the letters are addressed to Maureen O'Hara."
+                },
+                "unitid": {
+                    "value": "AIA.083"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_dcb17ab59a3702e01c8c5f475bd804ad",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_cd47272b4a9d8391263568cc524886f1",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; FitzSimons Family Letters; AIA 083; box number; folder number; Tamiment Library \u0026amp; Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_9222f3942af6c1edeec27cf692a098e7",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Marion Casey, July 2018.  The accession number associated with this gift is 2018.099."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_b7556ab91885f66a1c61ba173d964a43",
+            "head": "Biographical / Historical",
+            "p": {
+                "value": "The FitzSimons family lived in Ireland, mainly in Dublin, with some members emigrating to the United States.  The most famous member of the family was the film actress Maureen O'Hara."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_3a859b16472e33d048ace3b064ad6716",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The FitzSimons Family Letters consist of letters sent to and from members of the FitzSimons family in Ireland, the United States, and Rhodesia, between 1941 and 1977.  The majority of the letters are addressed to the film actress Maureen O'Hara, who was born Maureen FitzSimons.  Other letters in the collection are addressed to O'Hara's first husband, William Price, as well as her mother and three of her siblings.  The majority of the letters are from Bernard FitzSimons, one of O'Hara's uncles, and date between 1941 and 1946.  These letters consist of news of O'Hara's parents and siblings, as well as other relatives and family friends.  FitzSimons also discusses ways in which World War II affected Ireland.  Another large group of letters consists of those sent to O'Hara by her parents, her daughter, and one of her sisters during the summer of 1956, when her daughter Bronwyn was visiting the family in Ireland.  These also consist of family news, detailing family visits and trips over the summer.  There is a small number of letters sent to O'Hara and her mother by family friends, with similar topics to the bulk of the collection."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Irish -- Family relationships."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "World War, 1939-1945 -- Ireland."
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_07acc3a9959ab11626eaa738e86c5c08\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLetters\u003c/unittitle\u003e\u003cunitdate normal=\"1941/1977\" type=\"inclusive\"\u003e1941-1977\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_6d0be393642c86cd011e863a9eb3c9aa\" label=\"Mixed Materials [31142063577749]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_6d0be393642c86cd011e863a9eb3c9aa\" type=\"Folder\"\u003e1-6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

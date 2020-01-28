@@ -1,0 +1,141 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_184"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Carl Cowl Papers \u003cnum\u003eTAM 184\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Maggie Schreiner"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-04-27T18:29:21\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Carl Cowl Papers"
+                },
+                "unitdate": {
+                    "value": "circa 1960-1992"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "3 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(3 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "TAM 184"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_976fb573417bd182d74dd808e3c71604",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_fdbc435e577dc2a7e9a550907ed1b791",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Carl Cowl Papers; TAM 184; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_84a4f5a0388400dda4f204f74295e344",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials found in repository, but were likely donated by Carl Cowl circa 1993. The accession number associated with this gift is 1980.016."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_4a22ca7e5da708b14e76bad429d1aee2",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Carl Cowl (1900-1997) grew up in Duluth, Minnesota and joined the Industrial Workers of the World as a teenager. In 1919 he became a founding member of the Young Communist League and soon thereafter joined the Communist Party, USA. Cowl was expelled from the Communist Party in 1928 as a member of the Left Opposition. He was active in the 1934 Teamster strike in Minneapolis, and the next year split from the Trotskyists. In the early 1960s Cowl attended Brooklyn College and became a musicologist. Cowl also worked as a literary agent."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_2b93f70ec9f864cb3ba836421defa679",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "This collection primarily contains political papers, including articles, subject files, clippings and correspondence. Subjects include Marxism, the Left Opposition and the Marxist Educational Collective."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Spain -- History -- Civil War, 1936-1939."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Marxism -- United States."
+                },
+                {
+                    "source": "local",
+                    "value": "Trotskyism |z United States."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "International Socialist Organization (U.S.)"
+            }
+        },
+        "dsc": {}
+    }
+}

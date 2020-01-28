@@ -1,0 +1,154 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "tam_298"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Stephanie Oursler Papers\n                    \u003cnum\u003eTAM.298\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "12/01/2009"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T19:20-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Oursler, Stephanie."
+                    }
+                },
+                "unittitle": {
+                    "value": "Stephanie Oursler Papers"
+                },
+                "unitdate": {
+                    "value": "ca. 1955, ca. 1960-ca. 1970"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.75 linear feet"
+                        },
+                        {
+                            "value": "(2 boxes)"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "TAM.298"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid18885002",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1-2"
+                }
+            }
+        ],
+        "bioghist": {
+            "id": "ref4",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Stephanie Oursler is a progressive, feminist and labor activist."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "Contains circulars, reports, and other internal documents and printed ephemera including produced by and relating to several New Left organizations, principally based in New York City, including the women's and peace movements, files on sexual discrimination in employment and in the workplace, the Black Panther Party, essays submitted to the \"New York Element\" of the Peace and Freedom Party, and documents relating to the negotiation of the first contract of the Social Service Employees Union. Some of the material is authored by Oursler. One notable document is a 16 pp. typescript on the relations between the SDA (Social Democracy of America -- possibly referring to or a shortening of the Socialist Party-Social Democratic Federation) and the Young Socialist League, probably written in the mid to late 1950s. PLEASE DIRECT FURTHER INQUIRIES TO: tamiment.wagner@nyu.edu"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Black nationalism |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Discrimination in employment |z United States"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Feminism |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Feminists |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "New Left |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Peace movements |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Sex discrimination against women |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialism and youth |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Third parties (United States politics)"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Young Socialist League (U.S.)."
+            }
+        },
+        "dsc": {}
+    }
+}

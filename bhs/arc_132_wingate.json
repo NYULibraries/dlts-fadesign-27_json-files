@@ -1,0 +1,127 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arc_132_wingate"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Charles F. Wingate Civil War scrapbooks\n                    \u003cnum\u003eARC.132\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "November 9, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-23T11:33-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Wingate, Charles F.,  (Charles Frederick), 1848-1909"
+                    }
+                },
+                "unittitle": {
+                    "value": "Charles F. Wingate Civil War scrapbooks"
+                },
+                "unitdate": {
+                    "normal": "1861/1865",
+                    "type": "inclusive",
+                    "value": "1861-1865"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.67 Linear feet"
+                        },
+                        {
+                            "value": "in four manuscript boxes."
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Four scrapbooks compiled by Brooklyn resident and sanitary engineer Charles F. Wingate, containing clippings on the events of the American Civil War. Coverage relates to events occurring throughout the United States."
+                },
+                "unitid": {
+                    "value": "ARC.132"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid485003",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "ARC.132 4 of 4"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref4",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref2",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Charles F. Wingate Civil War scrapbooks, ARC.132, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref5",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Source and date of acquisition unknown."
+            }
+        },
+        "controlaccess": {},
+        "dsc": {}
+    }
+}

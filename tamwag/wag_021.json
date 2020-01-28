@@ -1,0 +1,159 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "wag_021"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Sidney Jonas Papers \u003cnum\u003eWAG.021\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Hillel Arnold"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-14T16:49:23\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "local",
+                        "value": "Jonas, Sidney, 1905-"
+                    }
+                },
+                "unittitle": {
+                    "value": "Sidney Jonas Papers"
+                },
+                "unitdate": {
+                    "normal": "1934/1938",
+                    "type": "inclusive",
+                    "value": "1934-1938"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Sidney Jonas, a labor union organizer, began his career by organizing shoe-workers. In 1934, he was appointed as a fieldworker for the United Shoe and Leather Workers Union. In 1936, United Automobile Workers (UAW-CIO) president, Homer Martin, appointed Jonas as his personal representative and director of the Northeast Region of the UAW-CIO. Jonas worked in this capacity until 1938. The collection consists of correspondence, clippings detailing Jonas' work as an organizer, minutes of the Committee for Industrial Organization Convention in Boston (1937) and the North Jersey Council for Industrial Organization, and a script for a theatrical production."
+                },
+                "unitid": {
+                    "value": "WAG.021"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_413337d0f7120f65035280d6acad66c2",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_657475a523d09dee5acedfb6e2f7b2db",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: \u003clb/\u003e\u003clb/\u003eIdentification of item, date; Sidney Jonas Papers; WAG 021; box number; folder number; \u003clb/\u003eTamiment Library/Robert F. Wagner Labor Archives \u003clb/\u003eElmer Holmes Bobst Library \u003clb/\u003e70 Washington Square South \u003clb/\u003eNew York, NY 10012, New York University Libraries."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_4a8bdb526ce83a8bab5596a0d23569b3",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Sidney Jonas, 1982. The accession number associated with this gift is 1983.010."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_c2cf739e750de5905db6f8db6f2ded21",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "After meeting him at an American Federation of Labor convention in 1936, United Automobile Workers president Homer Martin appointed Jonas as his personal representative and director of the Northeast Region of the UAW-CIO. Jonas worked in this capacity until 1938."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_5a2e5588be2df29af479db82f85cb2d2",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The collection consists of correspondence to Jonas from officials of the United Shoe and Leather Workers Union and the United Automobile Workers of America, including letters of introduction to other union officials in the Northeast and Midwest, telegrams, and personal greeting cards. Clippings relating to Jonas's work as an organizer, primarily for the UAW, are also included. Minutes of the Committee for Industrial Organization Convention in Boston (1937) and the North Jersey Council for Industrial Organization are also present. A script for a theatrical production entitled \"Shop Strife,\" written by Jonas and Frederick Wright, is also included."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Labor leaders |x Automobile industry |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Automobile industry workers |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor unions -- Organizing -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Shoe industry |z Massachusetts."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "International Union, United Automobile Workers of America (CIO)"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref14\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: General Files, 1934-1938.\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref15\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"italic\"\u003eBrookwood Review\u003c/emph\u003e(newsletter)\u003c/unittitle\u003e\u003cunitdate\u003eJun 1934\u003c/unitdate\u003e\u003ccontainer id=\"aspace_25e2d10ae1a67e0c43f876819a20b9e8\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_25e2d10ae1a67e0c43f876819a20b9e8\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBusiness Card (United Automobile Workers of America)\u003c/unittitle\u003e\u003cunitdate normal=\"1934/1938\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4b4f765d53243cb4be2c359d0203965e\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_4b4f765d53243cb4be2c359d0203965e\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eClippings: Originals\u003c/unittitle\u003e\u003cunitdate normal=\"1934/1938\" type=\"inclusive\"\u003e1934 , 1937-1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c39a28052e9863304b3d077f2a88107f\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_c39a28052e9863304b3d077f2a88107f\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eClippings: Photocopies\u003c/unittitle\u003e\u003cunitdate normal=\"1934/1938\" type=\"inclusive\"\u003e1934 , 1937-1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c4133375cbb9bdb1361aa73e52677604\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_c4133375cbb9bdb1361aa73e52677604\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCommittee for Industrial Organization Convention (Boston, Massachusetts): Call and Minutes\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1937\" type=\"inclusive\"\u003e1937\u003c/unitdate\u003e\u003ccontainer id=\"aspace_34c4ad9a40b8957eb3a8b54c9307d80e\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_34c4ad9a40b8957eb3a8b54c9307d80e\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\u003cunitdate normal=\"1934/1937\" type=\"inclusive\"\u003e1934 , 1937\u003c/unitdate\u003e\u003ccontainer id=\"aspace_56f4767de5036cdf9abc17d05661072b\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_56f4767de5036cdf9abc17d05661072b\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence: Letters of Introduction\u003c/unittitle\u003e\u003cunitdate normal=\"1934/1937\" type=\"inclusive\"\u003e1934 , 1937\u003c/unitdate\u003e\u003ccontainer id=\"aspace_3b53bba226c0636b11b26c65000d9523\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_3b53bba226c0636b11b26c65000d9523\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence: Personal\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1937\" type=\"inclusive\"\u003e1937\u003c/unitdate\u003e\u003ccontainer id=\"aspace_77d5c74946a2ac567e7be0a1332decfe\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_77d5c74946a2ac567e7be0a1332decfe\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence: Telegrams\u003c/unittitle\u003e\u003cunitdate normal=\"1937/1937\" type=\"inclusive\"\u003e1937\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9eb56cffb2fecd47bb7db7e7b9fd178b\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_9eb56cffb2fecd47bb7db7e7b9fd178b\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence: United Automobile Workers of America\u003c/unittitle\u003e\u003cunitdate normal=\"1936/1937\" type=\"inclusive\"\u003e1936-1937\u003c/unitdate\u003e\u003ccontainer id=\"aspace_74adc5a3e3a9783242a5f557e441c4a8\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_74adc5a3e3a9783242a5f557e441c4a8\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNorth Jersey Council for Industrial Organization: Minutes\u003c/unittitle\u003e\u003cunitdate\u003eFeb 1937\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ce1634f588f88a5a01969fbf40a4fd2e\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ce1634f588f88a5a01969fbf40a4fd2e\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref26\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eOrganizing: Flyers\u003c/unittitle\u003e\u003cunitdate\u003eSep 1937-Oct 1937\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4a5fe9a551dd1659a0ac2cbf28d97cf9\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_4a5fe9a551dd1659a0ac2cbf28d97cf9\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Shop Strife\" (play): Script\u003c/unittitle\u003e\u003cunitdate normal=\"1934/1938\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_87494275d7b7106640c928d53242e34c\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_87494275d7b7106640c928d53242e34c\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

@@ -1,0 +1,160 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_2015_021_fowler"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Fred Fowler diaries\n                    \u003cnum\u003e2015.021\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Katherine Palm"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "April 2016"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2016-07-20T14:19-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Fowler, Frederick Paddock, 1867-"
+                    }
+                },
+                "unittitle": {
+                    "value": "Fred Fowler diaries"
+                },
+                "unitdate": {
+                    "normal": "1885/1895",
+                    "type": "inclusive",
+                    "value": "1885-1895"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.5 linear feet"
+                        },
+                        {
+                            "value": "in one manuscript box"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The collection comprises eleven leatherbound diaries kept by Frederick Paddock Fowler, a native of Brooklyn, during the years 1885-1895. Spanning his late adolescence and early adulthood, the diaries include brief, handwritten entries made daily that record his day-to-day life in the Fort Greene neighborhood of Brooklyn during this period."
+                },
+                "unitid": {
+                    "value": "2015.021"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1426001",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "1 of 1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref6",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Fred Fowler diaries, 2015.021, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref10",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Patricia McCormick, 2015."
+            }
+        },
+        "bioghist": {
+            "id": "ref11",
+            "head": "Biographical note",
+            "p": {
+                "value": "Frederick Paddock Fowler was born on June 13, 1867 and lived at 121 South Elliot Place in Brooklyn with his parents, Charles Fowler and Frances Ann Fowler. He married Mary Josephine Wild on April 16, 1902 and the couple had a son, Charles Frederick Fowler. Fowler's jobs included working as a clerk, stock broker, and president of a fruit corporation. He was a member of the Brooklyn Academy of Photography and an active member of the Universalist faith. By 1920, Fowler was a widower and resided at 114 Prospect Place, South Orange, New Jersey."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The collection consists of eleven leatherbound diaries given to Frederick Paddock Fowler by his father and kept by him during the years 1885 to 1895. The diaries include brief daily entries spanning the time of Fowler's late adolescence to adulthood, ages 17 to 28, and record his day-to-day life, including attending school and work, visiting friends, and going to church. Also included are entries made during the Great Blizzard of 1888."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Amateur photographer"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Blizzards |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Recreation |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "School attendance | z New York (State) | z Kings County"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

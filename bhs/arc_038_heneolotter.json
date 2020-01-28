@@ -1,0 +1,145 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arc_038_heneolotter"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Thomas Henenlotter genealogy and property research papers\n                    \u003cnum\u003eARC.038\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Patricia Glowinski"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "July 6, 2010."
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-22T14:53-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Henenlotter, Thomas"
+                    }
+                },
+                "unittitle": {
+                    "value": "Thomas Henenlotter genealogy and property research papers"
+                },
+                "unitdate": {
+                    "normal": "1880/1951",
+                    "type": "inclusive",
+                    "value": "1880-1951"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.18 Linear feet"
+                        },
+                        {
+                            "value": "in four folders."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "ARC.038"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid362001",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "ARC.038-ARC.039"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref2",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref4",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Thomas Henenlotter genealogy and property research papers, ARC.038, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "bioghist": {
+            "id": "ref1",
+            "head": "Biographical note",
+            "p": {
+                "value": "There is a discrepancy as to the correct spelling of Henenlotter. It has also been spelled Hennenlotter."
+            }
+        },
+        "scopecontent": {
+            "id": "ref5",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The Thomas Henenlotter genealogy and property research papers contain genealogical research notes on Brooklyn and Queens families and property ownership research for areas of Brooklyn and Queens, dating from the 1880s through 1951. The research was conducted by Thomas Henenlotter. Included in the collection are notes on property ownership for Newtown, Meadow Lots, Public Park, and Shore Parkway. There are also notes on heirs to property; land deeds in Newtown, Queens County; land surveys of areas in Brooklyn, Corona, Queens and Jamaica, Queens; abstracts of titles, issued from Surrogate's Court, for property in Manhattan, Queens, Brooklyn, and Rockland County; and genealogical notes on families and property ownership for the Budd, Hoke, Remsen, Meserole, Schuchardt, and Reed families among others."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Genealogy "
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Real property"
+                }
+            ]
+        },
+        "otherfindaid": {
+            "id": "ref8",
+            "head": "Other Finding Aids"
+        },
+        "dsc": {}
+    }
+}

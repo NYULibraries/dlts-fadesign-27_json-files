@@ -1,0 +1,142 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "tam_638"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Peter Weiss Papers\n                    \u003cnum\u003eTAM.638\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Heather Mulliner"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archive"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "1/28/2014"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2015-01-12T14:24-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archive"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Weiss, Peter"
+                    }
+                },
+                "unittitle": {
+                    "value": "Peter Weiss Papers"
+                },
+                "unitdate": {
+                    "normal": "1945/2002",
+                    "type": "inclusive",
+                    "value": "1945-2002"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "4.0 linear feet"
+                        },
+                        {
+                            "value": "4 boxes"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "This collection contains the personal and professional papers of human rights attorney Peter Weiss (1925- ). Born in Austria in 1925, Weiss moved to the U.S. in 1941 and worked as a lawyer from 1955 to 2006. This collection contains materials related to Weiss's professional career and his involvement in human rights issues. Materials contained within this collection include notes, research materials, published and unpublished works created between 1963 and 1993, personal and professional correspondence written between the 1940s and the 1990s, travel itineraries, transcripts, and ephemera related to Weiss's numerous speaking engagements."
+                },
+                "unitid": {
+                    "value": "TAM.638"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref2",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open for research without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "ref74",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Peter Weiss Papers; TAM 638; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "ref66",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Peter Weiss sent a gift of four boxes of personal and professional papers in 2013. The accession number associated with this gift is 2013.045."
+            }
+        },
+        "bioghist": {
+            "id": "ref1",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "He is married to human rights activist Cora Weiss."
+            }
+        },
+        "scopecontent": {
+            "id": "ref4",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "Materials in this collection have been rehoused into archival folders, and Weiss's original folder titles have been maintained as much as possible. Files labeled \"Traces\" contain an assortment of correspondence, clippings, articles, and notes related to Weiss's career and personal life. Files labeled \"Opera\" contain transcripts, articles, pamphlets, and correspondence related to a wide variety of international human rights issues. Other files, labeled \"Orlando\" specifically relate to the investigation surrounding the assassination of Orlando Letelier, these files are primarily comprised of newspapers clippings and correspondence with Letelier's family."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "International law and human rights"
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref5\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003ePeter Weiss EH Traces\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid22847001\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003cunitdate normal=\"1970/1970\"\u003e1970\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref8\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eTraces\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid22847004\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003cunitdate normal=\"1970/1970\"\u003e1970\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref9\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eTraces\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid22847005\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003cunitdate normal=\"1980/1980\"\u003e1980\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref10\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eTraces\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid22847006\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003cunitdate normal=\"1980/1980\"\u003e1980\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref12\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eOpera III\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid22847008\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003cunitdate normal=\"1970/1986\" type=\"inclusive\"\u003e1970-1986\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref11\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eTraces\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid22847007\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003cunitdate normal=\"1987/1989\" type=\"inclusive\"\u003e1987-1989\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref13\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eTraces\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid22847009\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003cunitdate normal=\"1960/1960\"\u003e1960\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref14\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eOpera II\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid22847010\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003cunitdate normal=\"1962/1981\" type=\"inclusive\"\u003e1962-1981\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref15\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNamibia Case\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid22847011\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                    \u003cunitdate normal=\"1975/1975\"\u003e1975-1976\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref16\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003ePamphlet: Samuel Rubin Foundation\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid22847012\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                    \u003cunitdate normal=\"2001/2001\"\u003eNov 2001\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref17\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid22847013\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                    \u003cunitdate normal=\"1962/1988\" type=\"inclusive\"\u003e1962-1988\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref18\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003ePersonal/Family Correspondence\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid22847014\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                    \u003cunitdate normal=\"1980/1999\" type=\"inclusive\"\u003ecirca 1980s-1990s\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref19\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eAfrica\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid22847015\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                    \u003cunitdate normal=\"1954/1954\"\u003e1954\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref20\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eInternational Development Placement Association (IDPA)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid22847016\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                    \u003cunitdate normal=\"1952/1961\" type=\"inclusive\"\u003e1952-1961\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref21\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eMiscellaneous Correspondence: Boston - Washington - New York\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid22847017\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                    \u003cunitdate normal=\"1945/1946\" type=\"inclusive\"\u003e1945-1946\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref22\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSt. John's College\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid22847018\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                    \u003cunitdate normal=\"1968/1982\" type=\"inclusive\"\u003e1968, 1982\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref23\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eOrlando Letelier Files\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid22847019\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                    \u003cunitdate normal=\"1976/1978\" type=\"inclusive\"\u003e1976-1978\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref24\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003ePeter Weiss's Writing\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid22847020\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003e10.0 folder\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate normal=\"1963/1979\" type=\"inclusive\"\u003e1963-1979\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref32\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003ePeter Weiss's Writing\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid22847028\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                    \u003cunitdate normal=\"1978/1978\"\u003e1978\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref34\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSupreme Court of Illinois - Brief of Appellee, City of Chicago vs. Peter Weiss et al.\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid22847030\" type=\"Box\" label=\"Mixed materials\"\u003e3\u003c/container\u003e\n                    \u003cunitdate normal=\"1972/1972\"\u003e1972\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref35\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003ePeter Weiss's Writing\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid22847031\" type=\"Box\" label=\"Mixed materials\"\u003e3\u003c/container\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003e14.0 folders\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate normal=\"1980/1993\" type=\"inclusive\"\u003e1980-1993\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref47\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003ePeter Weiss's Writing\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid22847043\" type=\"Box\" label=\"Mixed materials\"\u003e3\u003c/container\u003e\n                    \u003cunitdate normal=\"1986/1986\"\u003e1986\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref49\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eFlyer: \"A Visit to the Association of the Bar of the City of Hanoi\" at The Association of the Bar of the City of New York\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid22847045\" type=\"Box\" label=\"Mixed materials\"\u003e3\u003c/container\u003e\n                    \u003cunitdate normal=\"1971/1971\"\u003eJan 25, 1971\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref50\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eBreira (Correspondence)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid22847046\" type=\"Box\" label=\"Mixed materials\"\u003e3\u003c/container\u003e\n                    \u003cunitdate normal=\"1976/1978\" type=\"inclusive\"\u003e1976-1978\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref51\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eFoundation\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid22847047\" type=\"Box\" label=\"Mixed materials\"\u003e3\u003c/container\u003e\n                    \u003cunitdate normal=\"1949/1949\"\u003e1949\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref52\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eInternational Development Placement Association\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid22847048\" type=\"Box\" label=\"Mixed materials\"\u003e3\u003c/container\u003e\n                    \u003cunitdate normal=\"1954/1961\" type=\"inclusive\"\u003e1954-1961\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref53\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e\"M.E.M\"\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid22852001\" type=\"Box\" label=\"Mixed materials\"\u003e3\u003c/container\u003e\n                    \u003cunitdate normal=\"1944/1976\" type=\"inclusive\"\u003e1944-1976\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref54\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003ePeter Weiss 80th Birthday Celebration, \"Celebrating 80 Years of Bad Dreams for Human Rights Violators\"\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid22852002\" type=\"Box\" label=\"Mixed materials\"\u003e3\u003c/container\u003e\n                    \u003cunitdate normal=\"2005/2005\"\u003ecirca 2005\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref55\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eTraces 1\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid22852003\" type=\"Box\" label=\"Mixed materials\"\u003e4\u003c/container\u003e\n                    \u003cunitdate normal=\"1959/2005\" type=\"inclusive\"\u003e1959-2005\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref56\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eMementos\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid22852004\" type=\"Box\" label=\"Mixed materials\"\u003e4\u003c/container\u003e\n                    \u003cunitdate normal=\"1970/1989\" type=\"inclusive\"\u003e1970s-1980s\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref57\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eMementos\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid22852005\" type=\"Box\" label=\"Mixed materials\"\u003e4\u003c/container\u003e\n                    \u003cunitdate normal=\"1949/1953\" type=\"inclusive\"\u003e1949-1953\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref58\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eChicago Thirteen\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid22852006\" type=\"Box\" label=\"Mixed materials\"\u003e4\u003c/container\u003e\n                    \u003cunitdate normal=\"1968/1968\"\u003e1968\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref59\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eDocuments related to execution of Charles Horman\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid22852007\" type=\"Box\" label=\"Mixed materials\"\u003e4\u003c/container\u003e\n                    \u003cunitdate normal=\"1973/2002\" type=\"inclusive\"\u003e1973-2002\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref60\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSupreme Court Ruling and Pinochet\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid22856001\" type=\"Box\" label=\"Mixed materials\"\u003e4\u003c/container\u003e\n                    \u003cunitdate normal=\"1999/2000\" type=\"inclusive\"\u003e1999-2000\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref61\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eHorman continued\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid22856002\" type=\"Box\" label=\"Mixed materials\"\u003e4\u003c/container\u003e\n                    \u003cunitdate normal=\"1972/2000\" type=\"inclusive\"\u003e1972-2000\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref62\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eHorman II\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid22856003\" type=\"Box\" label=\"Mixed materials\"\u003e4\u003c/container\u003e\n                    \u003cunitdate normal=\"2000/2000\"\u003e2000\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

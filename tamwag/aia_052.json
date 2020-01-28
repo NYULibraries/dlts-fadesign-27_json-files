@@ -1,0 +1,135 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "aia_052"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Thomas M. Truxes Microfilm Collection\n                    \u003cnum\u003eAIA.052\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Rachel Searcy"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archive"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "12/16/2014"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2014-12-16T15:31-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archive"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Truxes, Thomas M."
+                    }
+                },
+                "unittitle": {
+                    "value": "Thomas M. Truxes Microfilm Collection"
+                },
+                "unitdate": {
+                    "normal": "1767/1797",
+                    "type": "inclusive",
+                    "value": "1767-1797"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.25 linear feet"
+                        },
+                        {
+                            "value": "in 1 manuscript box"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The collection is comprised of rare research materials acquired by Thomas M. Truxes, an Irish American scholar of the Atlantic World. The content of the material examines the role played by overseas trading enterprises linking Ireland to the larger Atlantic economy and society. The impact of war on early-modern commerce and the role of Irish communities in London and pre-Revolutionary New York City are topics explored in his published work. This collection is primarily microfilmed copies of source materials that are difficult for students and scholars interested in transatlantic history, to access in the United States."
+                },
+                "unitid": {
+                    "value": "AIA.052"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref5",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open for research without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "ref4",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Thomas M. Truxes Microfilm Collection; AIA 052; box number; folder number; Archives of Irish America, Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Thomas M. Truxes. The accession number associated with this gift is 2010.023."
+            }
+        },
+        "bioghist": {
+            "id": "ref2",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "His most recent book, \n                \u003cemph render=\"italic\"\u003eDefying Empire: Trading with the Enemy in Colonial New York\u003c/emph\u003e (Yale University Press, 2008) was a finalist for the 2009 Francis Parkman Prize presented by the Society of American Historians and was named “Best Book of 2008” by the American Revolution Round Table of New York."
+            }
+        },
+        "scopecontent": {
+            "id": "ref13",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The collection comprises microfilm of manuscript collections and other documents used by Professor Truxes in his research. Contents include newspapers, correspondence (letterbooks) and ledgers."
+            }
+        },
+        "controlaccess": {},
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref8\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eBlake Papers: Letterbook of import/export merchant [Blake, Galway?] 1780-1786; Ledger of Mark Blake (Galway), 1776-1779 (National Library of Ireland, Dublin)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid20518001\" type=\"Box\" label=\"Microform\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid20518001\" type=\"Reel\"\u003e1\u003c/container\u003e\n                    \u003cunitdate normal=\"1776/1786\" type=\"inclusive\"\u003e1776-1786\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref12\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003ePeter Force Collection, Series 8 and 9 (Library of Congress)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid20518005\" type=\"Box\" label=\"Microform\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid20518005\" type=\"Reel\"\u003e2\u003c/container\u003e\n                    \u003cunitdate normal=\"1790/1868\" type=\"inclusive\"\u003e1790-1868\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref9\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNorthern Star (Belfast) (Linen Hall Library, Belfast)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid20518002\" type=\"Box\" label=\"Microform\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid20518002\" type=\"Reel\"\u003e3\u003c/container\u003e\n                    \u003cunitdate normal=\"1792/1793\" type=\"inclusive\"\u003eJan 1792-Dec 1793\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref10\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNorthern Star (Belfast) (Linen Hall Library, Belfast)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid20518003\" type=\"Box\" label=\"Microform\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid20518003\" type=\"Reel\"\u003e4\u003c/container\u003e\n                    \u003cunitdate normal=\"1794/1795\" type=\"inclusive\"\u003eJan 1794-Dec 1795\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref11\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eOrr, Dunlope and Glandhome Letterbook (Historical Society of Pennsylvania, Philadelphia)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid20518004\" type=\"Box\" label=\"Microform\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid20518004\" type=\"Reel\"\u003e5\u003c/container\u003e\n                    \u003cunitdate normal=\"1767/1769\" type=\"inclusive\"\u003e1767-1769\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

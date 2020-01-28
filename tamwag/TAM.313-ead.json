@@ -1,0 +1,124 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "tam_313"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Preliminary Inventory to the Squatters' Rights Collection: Jane Churchman Papers\n                    \u003cnum\u003eTAM.313\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "12/11/2009"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T19:22-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Churchman, Jane"
+                    }
+                },
+                "unittitle": {
+                    "value": "Squatters' Rights Collection: Jane Churchman Papers"
+                },
+                "unitdate": {
+                    "value": "1980s-1990s"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.5 linear feet"
+                        },
+                        {
+                            "value": "(2 boxes)"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "TAM.313"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid18814004",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1-2"
+                }
+            }
+        ],
+        "bioghist": {
+            "id": "ref39",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Jane Churchman was a squatter and housing rights activist in New York City."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The squatters' rights movement which was centered in New York City's East Village and Lower East Side reached its peak in the late 1980s and culminated in the Tompkins Square Park Police Riot of August 1988. However, the movement continued well into the 1990s. The collection consists of clippings and subject files related to housing and New York City politics that were accumulated by squatter Jane Churchman. PLEASE DIRECT INQUIRIES TO: tamiment.wagner@nyu.edu"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Squatters |z New York (State) |z New York."
+                },
+                {
+                    "source": "local",
+                    "value": "Tompkins Square Park Riot, New York, N.Y., 1988."
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\n            \u003cc01 id=\"ref2\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eChronology of NYC Housing Events, Statistics of Jobs, Housing, and Poverty\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18905001\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18905001\" type=\"Folder\"\u003e1\u003c/container\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref3\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eClippings/1\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18905002\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18905002\" type=\"Folder\"\u003e2\u003c/container\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref4\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eClippings/2\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18905003\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18905003\" type=\"Folder\"\u003e3\u003c/container\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref5\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eClippings (Photocopies)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18905004\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18905004\" type=\"Folder\"\u003e4\u003c/container\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref6\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eClippings: Poverty, Jobs, and Housing Related\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18905005\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18905005\" type=\"Folder\"\u003e5\u003c/container\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref7\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e\"Corrective Capitalism: The Rise of America's Community Development Corporations\"\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18905006\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18905006\" type=\"Folder\"\u003e6\u003c/container\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref8\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18905007\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18905007\" type=\"Folder\"\u003e7\u003c/container\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref9\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eDemolition of Buildings\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18905008\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18905008\" type=\"Folder\"\u003e8\u003c/container\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref10\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eDemosntrations at the 1992 Democratic Conventions (Clippings)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18905009\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18905009\" type=\"Folder\"\u003e9\u003c/container\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref11\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eDepartment of Housing Preservation and Development - The City of New York\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18905010\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18905010\" type=\"Folder\"\u003e10\u003c/container\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref12\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eEngineering Inspection Report (John T. Walsh)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18905011\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18905011\" type=\"Folder\"\u003e11\u003c/container\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref13\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eEpiscopal Mission Society\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18905012\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18905012\" type=\"Folder\"\u003e12\u003c/container\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref14\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e\"Frank Morales: A Biography\"\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18905013\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18905013\" type=\"Folder\"\u003e13\u003c/container\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref15\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eGrants\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18905014\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18905014\" type=\"Folder\"\u003e14\u003c/container\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref16\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eHandwritten Notes\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18905015\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18905015\" type=\"Folder\"\u003e15\u003c/container\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref17\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eHomelessness - Articles Related\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18905016\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18905016\" type=\"Folder\"\u003e16\u003c/container\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref18\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eHomelessness: Housing Advisory Council and Other Materials\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18905017\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18905017\" type=\"Folder\"\u003e17\u003c/container\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref19\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eHomelessness: \"Moving Forward: A National Agenda to Address Homelessness in 1990\"\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18905018\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18905018\" type=\"Folder\"\u003e18\u003c/container\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref20\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eThe Frances Perkins Memorial Conference on the Curch and Labor Today\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18905019\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18905019\" type=\"Folder\"\u003e19\u003c/container\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref21\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eLower East Side: Artworks, Galleries\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18905020\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18905020\" type=\"Folder\"\u003e20\u003c/container\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref22\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eLower East Side Housing Study\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18905021\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18905021\" type=\"Folder\"\u003e21\u003c/container\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref23\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eMayor Dinkin's Commission on the Homeless (Includes Transcripts of Testimonies)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18905022\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18905022\" type=\"Folder\"\u003e22\u003c/container\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref24\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eThe New York Time Articles (manuscripts)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18905023\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18905023\" type=\"Folder\"\u003e23\u003c/container\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref25\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003ePosters\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18905024\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18905024\" type=\"Folder\"\u003e24\u003c/container\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref26\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSquatters: Artwork, Comic Book\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18905025\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18905025\" type=\"Folder\"\u003e25\u003c/container\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref27\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSquatters: Clippings\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18905026\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18905026\" type=\"Folder\"\u003e26\u003c/container\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref28\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e\"Street Sheets\"\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18905027\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18905027\" type=\"Folder\"\u003e27\u003c/container\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref29\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e\"Survival Without Rent\"\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18905028\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18905028\" type=\"Folder\"\u003e28\u003c/container\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref30\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eTompkins Square Park\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18905029\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18905029\" type=\"Folder\"\u003e29\u003c/container\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref31\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eTompkins Square Park and City Planning - Papers Submitted to Professor Peter Marcuse\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18905030\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18905030\" type=\"Folder\"\u003e30\u003c/container\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref32\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eTompkins Square Park: Clippings\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18905031\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18905031\" type=\"Folder\"\u003e31\u003c/container\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref33\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eTompkins Square Park: Tape Transcripts\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18905032\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18905032\" type=\"Folder\"\u003e32\u003c/container\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref34\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eVergara, Camilo J.: \"The New American Ghetto\" (Municipal Society of New York)\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18905033\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18905033\" type=\"Folder\"\u003e33\u003c/container\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref35\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eWriting by Jane Churchman: \"Reply to Betsy Gotbaum\"\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18905034\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18905034\" type=\"Folder\"\u003e34\u003c/container\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref36\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eOversized Clippings\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18905035\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18905035\" type=\"Folder\"\u003e1\u003c/container\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref37\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e\"Urban Design Manhattan\" - Regional Plan Association\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid18905036\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                    \u003ccontainer parent=\"cid18905036\" type=\"Folder\"\u003e2\u003c/container\u003e\n                \u003c/did\u003e\n            \u003c/c01\u003e\n        "
+        }
+    }
+}

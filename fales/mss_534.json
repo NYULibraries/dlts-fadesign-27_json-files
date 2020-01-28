@@ -1,0 +1,153 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-F",
+            "value": "mss_534"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Joseph Bendich Collection \u003cnum\u003eMSS.534\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Rachel Searcy"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Fales Library and Special Collections"
+                },
+                "address": {
+                    "addressline": [
+                        "Fales Library and Special Collections",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "3rd Floor",
+                        "New York, NY 10012",
+                        "Phone: (212) 998-2596",
+                        "fales.library@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-18T19:28:29\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Fales Library and Special Collections"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Bendich, Joseph"
+                    }
+                },
+                "unittitle": {
+                    "value": "Joseph Bendich Collection"
+                },
+                "unitdate": {
+                    "normal": "1970/1999",
+                    "type": "bulk",
+                    "value": "1970-1999"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "3.5 linear feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 3 record cartons and 1 small box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Joseph Bendich (1917-2005) was a amateur videographer and machinist who manufactured parts for lunar landing modules. This collection consists of film equipment and other items collected by Bendich for private film viewings. Materials include a Super 8mm movie projector, a Super 8mm movie light, a Keystone Super 8mm camera, a camera case, a photo lamp, a Revere film splicer, and splice tape instructions. The collection also includes three Super 8mm pornographic films: \u003cemph render=\"italic\"\u003eJocks and Socks\u003c/emph\u003e (Golden Girls), \u003cemph render=\"italic\"\u003eSex Ed Tutor\u003c/emph\u003e (Diamond Collection), and \u003cemph render=\"italic\"\u003eReluctant Virgin Pt II\u003c/emph\u003e (San Francisco Series). The artifacts in this collection are emblematic of the types of film equipment used by many Super 8mm auteurs of the late 20th century, including Nelson Sullivan, Chris Kraus, and David Wojnarowicz. This collection documents the ways in which pornography - particularly stag film - was circulated and watched during this time period."
+                },
+                "unitid": {
+                    "value": "MSS.534"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_bde95c482b6a9b3d6241d66d76678454",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_924d54f590b43b6b5b57ca3bc96e3664",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Joseph Bendich Collection; MSS 534; box number; folder number; Fales Library and Special Collections, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_6ef7f0a6281f69be2b1d668ddd396257",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Debra Schiff in October 2016; the accession number associated with this gift is 2018.074."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_aaa0e7640c25434c1119848265091225",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Joseph Bendich (1917-2005) was a amateur videographer and machinist who manufactured parts for lunar landing modules. He also owned a French laundry service."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_ae008f75fb247a2ec1417970e0aa6938",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection consists of film equipment and other items collected by Joseph Bendich for private film viewings. Materials include a Super 8mm movie projector, a Super8mm movie light, a Keystone Super 8mm camera, a camera case, a photo lamp, a Revere film splicer, and splice tape instructions. The collection also includes three Super 8mm pornographic films: \u003cemph render=\"italic\"\u003eJocks and Socks\u003c/emph\u003e (Golden Girls), \u003cemph render=\"italic\"\u003eSex Ed Tutor\u003c/emph\u003e (Diamond Collection), and \u003cemph render=\"italic\"\u003eReluctant Virgin Pt II\u003c/emph\u003e (San Francisco Series). The artifacts in this collection are emblematic of the types of film equipment used by many Super 8mm auteurs of the late 20th century, including Nelson Sullivan, Chris Kraus, and David Wojnarowicz. This collection documents the ways in which pornography - particularly stag film - was circulated and watched during this time period."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Pornography."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Pornography -- Social aspects."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Sex in mass media"
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_62c5d368bbe3e51e74efb2c4a41feaeb\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eKeystone XL 500 Super 8mm Camera\u003c/unittitle\u003e\u003cunitdate normal=\"1970/1979\" type=\"inclusive\"\u003ecirca 1970-1979\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_e685bc68cd096687a1fa948419cca825\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_1bec4b0b3183f6e1a6bdb68a73d4a737\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCamera Case\u003c/unittitle\u003e\u003cunitdate normal=\"1970/1979\" type=\"inclusive\"\u003ecirca 1970-1979\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_2dda1cb450b9096534476c644303a062\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_748856a2e18c7ee205ed2ba279fd5e6f\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eWiko A/V Photo Lamp\u003c/unittitle\u003e\u003cunitdate normal=\"1960/1979\" type=\"inclusive\"\u003ecirca 1960-1979\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_a370ba2a8d1406089535e47d7a95dc95\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_5b465e0ec77f5b883b174bce54d1ab0e\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"italic\"\u003eJocks and Socks\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitdate normal=\"1965/1979\" type=\"inclusive\"\u003ecirca 1965-1979\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_3eba882ef4a207a437d9fc14bbf1ff56\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ce2cd22fbee0cc20200c737b30ecd4d2\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"italic\"\u003eSex Ed Tutor\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitdate normal=\"1960/1979\" type=\"inclusive\"\u003ecirca 1960-1979\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_c345cce1c5f494e189a61b7ea9ebe331\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_b289941ed5cb633267dbb74ddc1ffcda\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"italic\"\u003eReluctant Virgin Pt II\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitdate normal=\"1960/1979\" type=\"inclusive\"\u003ecirca 1960-1979\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_b35e8c198bebb89263c50096ad70a794\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_e37b0ea1087414c91ea45a2afcaf4c69\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTop Mount Movie Light\u003c/unittitle\u003e\u003cunitdate normal=\"1960/1979\" type=\"inclusive\"\u003ecirca 1960-1979\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_b45718ca058416306f51bf63d5287ccf\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_d903f2b346c8a3e5feab46b866764ca2\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBaia Super 8mm Editor/Viewer\u003c/unittitle\u003e\u003cunitdate normal=\"1960/1979\" type=\"inclusive\"\u003ecirca 1960-1979\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_0d2e99c45370c0e05a9651818e4e8663\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_d95b8ff6323af53b813b55dd3628a69d\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBell and Howell Model 356 Autoload Super 8 Movie Projector\u003c/unittitle\u003e\u003cunitdate normal=\"1960/1979\" type=\"inclusive\"\u003ecirca 1960-1979\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_fab4a2045b96261c2a9e82db54fb9b60\" label=\"Mixed Materials\" type=\"Box\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_151735e400ee1674fadc510c77ebe594\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBaia Splice Tape Instructions\u003c/unittitle\u003e\u003cunitdate normal=\"1960/1979\" type=\"inclusive\"\u003ecirca 1960-1979\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_081b98fe23c7133bf6597fe9c1af68ce\" label=\"Mixed Materials\" type=\"Box\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_2114b079a503f06e818b32ffab8bc3aa\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eReceipts\u003c/unittitle\u003e\u003cunitdate normal=\"1960/1979\" type=\"inclusive\"\u003ecirca 1960-1979\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_30e896bff2308ec505e27f5556d0b672\" label=\"Mixed Materials\" type=\"Box\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_26135c0d07da37d73c9867a98e51fd15\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRevere Splicer\u003c/unittitle\u003e\u003cunitdate normal=\"1940/1949\" type=\"inclusive\"\u003ecirca 1940s\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Short\" id=\"aspace_bf12e799b22f78f02c178555a4221715\" label=\"Mixed Materials\" type=\"Box\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

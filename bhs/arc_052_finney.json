@@ -1,0 +1,185 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "arc_052_finney"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Finney family collection \u003cnum\u003eARC.052\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "Brooklyn Historical Society",
+                        "128 Pierrepont Street",
+                        "Brooklyn 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-11-05T16:29:08\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Finney, William"
+                    }
+                },
+                "unittitle": {
+                    "value": "Finney family collection"
+                },
+                "unitdate": {
+                    "normal": "1831/1923",
+                    "type": "inclusive",
+                    "value": "circa 1831 to 1913"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in three folders and one rolled document box."
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Finney family papers contain items mainly pertaining to the career and personal life of William Finney, though there is a small number of items pertaining to William's brother, Peter, as well as Ellen Phinney, a family relative (possibly William and Peter's mother). Included is a diploma from Kings County Hospital Training School for Nurses issued to Kate Florence Sharp in 1900. Sharp was William Finney's nurse, and she was left a sum of money in William's will. The collection spans the period circa 1865 to 1913, with the majority of the items dating from the 1890s and the first decade of the 1900s. "
+                },
+                "unitid": {
+                    "value": "ARC.052"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_fc262085e285ecae3edf7a6c07d30013",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "A0132"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_f67d40e8d74e0e95463f1c0c610a04ed",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_61cda6a3a640f960eaf8e92668554733",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Finney family collection, ARC.052, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_852ed6b0092e948770e5940fc9c25ebe",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Gift of Virgina F. Clair, 1976 and 1988."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_600f1c069d8728f472b4d36d04755baf",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Peter Finney (1833-1902), William's brother, was a shipbuilder and oarsman working under George Steers of New York.  He helped build the yacht \u003cemph render=\"italic\"\u003eAmerica\u003c/emph\u003e, which was the first boat to win the International Cup."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_d2a795b4d60825ad2fd4f2c5701accfb",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection also includes a diploma issued to Kate Florence Sharp from the Kings County Hospital Training School for Nurses. Sharp was a nurse to William Finney in the years before his death. According to a newspaper clipping included in the collection, Sharp inherited money from William Finney's estate after he passed in July 1913."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Burial |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "aat",
+                    "value": "Deeds"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Hospitals |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Nursing schools |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Nurses |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Business enterprises |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Railroad companies |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Gas companies |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Machinery industry |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Green-Wood Cemetery (New York, N.Y.)"
+            }
+        },
+        "otherfindaid": {
+            "id": "aspace_ebdf90e22937c89b6f7646b0653a9cb8",
+            "head": "Other Finding Aids"
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,171 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arc_020_dodge"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Henry W. Dodge journals\n                    \u003cnum\u003eARC.020\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "June 21, 2010"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-22T14:43-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Dodge, Henry W., 1927 or 8-1874"
+                    }
+                },
+                "unittitle": {
+                    "value": "Henry W. Dodge journals"
+                },
+                "unitdate": {
+                    "value": "1860-1861, 1873"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.23 Linear feet"
+                        },
+                        {
+                            "value": "in three folders."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "ARC.020"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid293005",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0133"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref3",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Henry W. Dodge journals, ARC.020, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "bioghist": {
+            "id": "ref5",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Henry W. Dodge (1827 or 8-1874) was a New York resident and a seafarer who took part in three highly publicized journeys to the Arctic. He served aboard the brig \n                \u003cemph render=\"italic\"\u003eAdvance\u003c/emph\u003e from 1853 to 1855 on an expedition led by Elisha Kent Kane, credited as the expedition that paved the way for the discovery of the \"open polar sea\" (1). While aboard the \n                \u003cemph render=\"italic\"\u003eAdvance\u003c/emph\u003e, Dodge likely met Dr. Isaac Israel Hayes (1832-1881), the surgeon of the expedition, who would later become a celebrated Arctic explorer himself. Hayes tapped Dodge to accompany him and serve as his mate on his own expedition to the Arctic from 1860 to 1861, on board the schooner \n                \u003cemph render=\"italic\"\u003eUnited States\u003c/emph\u003e. While this expedition did not reach the open polar sea, it was instrumental in furthering the progress of Arctic navigation. Dodge would voyage to the Arctic one final time in 1873 aboard the USS \n                \u003cemph render=\"italic\"\u003eJuniata\u003c/emph\u003e, commanded by D.L. Braine. The \n                \u003cemph render=\"italic\"\u003eJuniata\u003c/emph\u003e was participating in a search and rescue operation to recover the lost crew of the USS \n                \u003cemph render=\"italic\"\u003ePolaris\u003c/emph\u003e (formerly the USS \n                \u003cemph render=\"italic\"\u003ePeriwinkle\u003c/emph\u003e), which was launched from the New York Naval Shipyard (commonly known as the Brooklyn Navy Yard) in July of 1871 and journeyed to the Arctic as part of the Hall Scientific Expedition, reaching the furthest point north ever reached by a vessel before being caught and crushed in the ice (2). The rescue mission was ultimately successful. Dodge would die only one year later in September of 1874, apparently quite suddenly, while dining at a restaurant on Fulton Street in Brooklyn. A very brief mention of his death was made in the \n                \u003cemph render=\"italic\"\u003eNew York Times\u003c/emph\u003e, which referred to Dodge as \"an Arctic explorer of some notoriety\" (3)."
+            }
+        },
+        "scopecontent": {
+            "id": "ref4",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The Henry W. Dodge journals consist of three hardbound volumes, all handwritten by Henry W. Dodge, and all created for the purpose of recording the events of Dodge's experiences on seafaring expeditions. The first volume is a journal entitled \n                \u003cemph render=\"italic\"\u003eJournal kept on board of the Schooner United States in the Arctic Regions under command of Dr. I.I. Hayes, 1860-1861\u003c/emph\u003e. The second is an abstract of the aforementioned journal, and the third is a journal entitled \n                \u003cemph render=\"italic\"\u003eJournal of a cruise in the U.S.S. Juniata, Capt. D.L. Braine, Searching for the missing crew of the Polaris, June 24th to Oct. 25th, 1873\u003c/emph\u003e."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Ocean travel"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Sailors |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Schooners"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Seafaring life"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Seamanship"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Search and rescue operations |x Arctic regions"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Ships"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Shipwrecks"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Voyages and travels"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "United States. Navy."
+            }
+        },
+        "dsc": {}
+    }
+}

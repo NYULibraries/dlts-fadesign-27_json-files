@@ -1,0 +1,101 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "kelly"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Frederick Kelly Photograph Collection \u003cnum\u003ePR 246\u003c/num\u003e"
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-09-04T19:23:57\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "The Frederick Kelly Photograph Collection"
+                },
+                "unitdate": {
+                    "normal": "1959/1976",
+                    "type": "inclusive",
+                    "value": "1959-1976 (bulk 1961-1966)"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1.5 Linear feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(2 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Frederick Kelly Photograph Collection spans the period from 1959-1976 and contains 250 black and white silver gelatin photographs, primarily taken in New York City. \n\u003clb/\u003e\u003clb/\u003e \nThe collection is digitized and available in the \u003cemph render=\"bold\"\u003e\u003cextref actuate=\"onRequest\" href=\"http://digitalcollections.nyhistory.org/islandora/object/nyhs%3Akelly\"\u003eShelby White and Leon Levy Digital Library\u003c/extref\u003e.\u003c/emph\u003e"
+                },
+                "unitid": {
+                    "value": "PR 246"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "bioghist": {
+            "id": "aspace_67123b57a9c0f784fe539ac9930b96c8",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Frederick Kelly (1905-1999) lived in Baltimore, MD. He worked as a librarian at the Peabody Institute, until enrolling at Johns Hopkins University. He then taught English and industrial arts, and later served as the principal at Highwood School, a Baltimore public school, until 1975. Kelly's interests included photography, and he enjoyed traveling to New York City in his later years to photograph the vibrant city's buildings and people."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_30909948083e66fa6495cd8f02ac19fc",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "A few photographs of other cities include views of Philadelphia, PA, Norfolk, VA, and Washington, D.C. (including views of the Kennedy Center, the Watergate Hotel, and a 1961 Peace Concert on the Mall.) "
+            }
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,155 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "rg_2_0_2"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Rev. George Alexander Papers \u003cnum\u003eRG.2.0.2\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Susan Meier"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-05-21T15:09:36\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Alexander, George, 1843-1930"
+                    }
+                },
+                "unittitle": {
+                    "value": "Rev. George Alexander Papers"
+                },
+                "unitdate": {
+                    "normal": "1889/1915",
+                    "type": "inclusive",
+                    "value": "1889-1915"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": ".25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 manuscript box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Reverand George Alexander Papers consists of correspondence from 1889-1915 during Alexander's time serving the Council of New York University and as pastor of the University Place Presbyterian Church. The collection consists exclusively of correspondence received by Alexander, and approvimately one half of the letters are from Chancellor Henry M. MacCracken."
+                },
+                "unitid": {
+                    "value": "RG.2.0.2"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_f0eca529fcfbd1858e8097e33f6aa4b6",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_606efa855afeffe14acf990e9d9c46ac",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Reverand George Alexander Papers; RG 2.0.2; box number; folder number or item identifier; New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_03fbe016d1571aa9cf1cca1bdd2f59ff",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials found in collection; there is no documentation concerning the provenance of these materials."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_b34e002d0f4a9a1bc0e9e0c1a0fa0d83",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Other activities in Alexander's full life include service as a professor of Rhetoric and Logic at Union College (1877-1883), the president of the New York College of Dentistry (1896-1925), the president of the Presbyterian Board of Foreign Missions (1903-1904), the president of Union College (1907-1909), the president of the Board of Trustees of MacKenzie College in Sao Paulo, Brazil, the director of Princeton Theological Seminary, the president of the American and Foreign Christian Union, the president of the Council of Reformed Churches in America holding the Presbyterian System (1915-1916), and the president of the Leopold Schepp Foundation. His memberships included the Union College Alumni Association, the Century Association, and the Adirondack League. He was active until his death, December 12, 1930, at the age of 87."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_1a64116178ba3a2c2683e8aa2703cd78",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection provides some understanding of the growth of the University during these years; its operations, policies, and decision-making. Letters from Chancellor MacCracken frequently reveal his private views on many matters; he and Alexander were personal friends and therefore, were quite candid with each other. Alexander's contributions and lifelong dedication to New York University are clearly reflected in the correspondence."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Education, Higher -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Presbyterian Church."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "New York University -- Faculty"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "University Place Presbyterian Church (New York, N.Y.)"
+            }
+        },
+        "dsc": {}
+    }
+}

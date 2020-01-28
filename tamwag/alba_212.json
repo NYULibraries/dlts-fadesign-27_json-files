@@ -1,0 +1,160 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "alba_212"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Papers of James Bernard Rucker \u003cnum\u003eALBA.212\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Jessica Weglein and Elizabeth Compa"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-03-21T16:11:43\u003c/date\u003e"
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Rucker, James Bernard, 1912-1992"
+                    }
+                },
+                "unittitle": {
+                    "value": "James Bernard Rucker Papers"
+                },
+                "unitdate": {
+                    "normal": "1943/1945",
+                    "type": "bulk",
+                    "value": "1943-1945"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(3 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "James Bernard (Bunny) Rucker (1912-1992) fought with the Abraham Lincoln Brigade in Spain and later served with the segregated 92nd Infantry Division of the U.S. Army during World War II. The collection consists chiefly of letters written by Rucker to his wife Helen during World War II, which cover the period he was stationed stateside, his year of active service in Italy, and his protracted hospitalization. There are also materials related to Langston Hughes (who Rucker met in Spain) including several letters from Hughes to Rucker, typescript poems, and a signed copy of \"Simple in the United Nations.\""
+                },
+                "unitid": {
+                    "value": "ALBA.212"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_46a888880c4b86475d073ae209ea062b",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Materials are open to researchers. Please contact the Tamiment Library \u0026amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_f73a871249e4c23d77ffcef405118d69",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: \u003clb/\u003e\u003clb/\u003eIdentification of item, date; Collection name; Collection number; box number; folder number; \u003clb/\u003eTamiment Library/Robert F. Wagner Labor Archives \u003clb/\u003eElmer Holmes Bobst Library \u003clb/\u003e70 Washington Square South \u003clb/\u003eNew York, NY 10012, New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_3c6b9bec92a570ff95290f79c31bbae1",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "By 1948 he was at work in New York City as an organizer for Henry Wallace, the Progressive Party candidate for president. In 1949 Rucker ran for City Council from the 23rd District on Vito Marcantonio's American Labor Party ticket; also sharing the ticket were Benjamin J. Davis and ALB veteran, Ralph Fasanella. Rucker took advantage of the GI bill and was admitted to Columbia University in 1952 were he gained a BA and a Master's degree in Library Science. He and his wife had one child, Naomi Gabrella, and the family moved to New Jersey where Rucker served as chief librarian for the East Orange Public Library for over 20 years. Rucker died of cancer in a V.A. hospital in East Orange, New Jersey on February 22, 1992. He was 80 years old."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_d598718f31179f9a886f2fd20079574b",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "Series IV, Artifact, circa 1944, contains one item, a utility pouch issued by the American Red Cross."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "World War, 1939-1945 |v Personal narratives, American."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "World War, 1939-1945 -- African Americans."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Spain -- History -- Civil War, 1936-1939."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "World War, 1939-1945 |x Participation, African American."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Veterans of the Abraham Lincoln Brigade"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref13\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: Correspondence\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"127493\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e127493\u003c/unitid\u003e\u003c/did\u003e\u003cc id=\"aspace_ref14\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eOutgoing correspondence\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"127511\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e127511\u003c/unitid\u003e\u003cunitdate\u003eMar 1942\u003c/unitdate\u003e\u003ccontainer id=\"aspace_bf99f4e332641ed7676bbf730600123c\" label=\"Mixed Materials [31142062728376]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_bf99f4e332641ed7676bbf730600123c\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eOutgoing correspondence\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"127510\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e127510\u003c/unitid\u003e\u003cunitdate\u003eMar 1943-Oct 1943\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1525491909141d5b4e916beab57775f2\" label=\"Mixed Materials [31142062728376]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1525491909141d5b4e916beab57775f2\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eOutgoing correspondence\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"127509\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e127509\u003c/unitid\u003e\u003cunitdate\u003eNov 1943-Dec 1943\u003c/unitdate\u003e\u003ccontainer id=\"aspace_96e89201323a85ee08f81f044451dc1b\" label=\"Mixed Materials [31142062728376]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_96e89201323a85ee08f81f044451dc1b\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eOutgoing correspondence\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"127508\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e127508\u003c/unitid\u003e\u003cunitdate\u003eJan 1944\u003c/unitdate\u003e\u003ccontainer id=\"aspace_94a3e33dcbb736b124328e9b7b3f6cc5\" label=\"Mixed Materials [31142062728376]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_94a3e33dcbb736b124328e9b7b3f6cc5\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eOutgoing correspondence\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"127507\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e127507\u003c/unitid\u003e\u003cunitdate\u003eMar 1944\u003c/unitdate\u003e\u003ccontainer id=\"aspace_623e25870e546e286d6e86cd7e3578de\" label=\"Mixed Materials [31142062728376]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_623e25870e546e286d6e86cd7e3578de\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eOutgoing correspondence\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"127506\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e127506\u003c/unitid\u003e\u003cunitdate\u003eApr 1944\u003c/unitdate\u003e\u003ccontainer id=\"aspace_76a19edb8ee30f3155737c426cc606f5\" label=\"Mixed Materials [31142062728376]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_76a19edb8ee30f3155737c426cc606f5\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eOutgoing correspondence\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"127505\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e127505\u003c/unitid\u003e\u003cunitdate\u003eMay 1944\u003c/unitdate\u003e\u003ccontainer id=\"aspace_82894573f5db14d845edfb315ef400ed\" label=\"Mixed Materials [31142062728376]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_82894573f5db14d845edfb315ef400ed\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eOutgoing correspondence\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"127504\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e127504\u003c/unitid\u003e\u003cunitdate\u003eJun 1944\u003c/unitdate\u003e\u003ccontainer id=\"aspace_43d27ab95fbd8d5d32ccbeee0a67ac80\" label=\"Mixed Materials [31142062728376]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_43d27ab95fbd8d5d32ccbeee0a67ac80\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eOutgoing correspondence\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"127503\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e127503\u003c/unitid\u003e\u003cunitdate\u003eJul 1944-Sep 1944\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1fda987f54fe13f2a7014dfe43c673ef\" label=\"Mixed Materials [31142062728376]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1fda987f54fe13f2a7014dfe43c673ef\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eOutgoing correspondence\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"127502\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e127502\u003c/unitid\u003e\u003cunitdate\u003eOct 1944-Nov 1944\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4819346540ca65538f93789baa4910a0\" label=\"Mixed Materials [31142062728376]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_4819346540ca65538f93789baa4910a0\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eOutgoing correspondence\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"127501\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e127501\u003c/unitid\u003e\u003cunitdate\u003eDec 1944\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9d720f560fd8b6493f00f54618ef2148\" label=\"Mixed Materials [31142062728376]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_9d720f560fd8b6493f00f54618ef2148\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eOutgoing correspondence\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"127500\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e127500\u003c/unitid\u003e\u003cunitdate\u003eJan 1945-Feb 1945\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a146befd8218478d35614ded0ffebc8b\" label=\"Mixed Materials [31142062728376]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_a146befd8218478d35614ded0ffebc8b\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref26\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eOutgoing correspondence\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"127499\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e127499\u003c/unitid\u003e\u003cunitdate\u003eMar 1945-Apr 1945\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d26064898c6733db1a0659058a8fb441\" label=\"Mixed Materials [31142062728376]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d26064898c6733db1a0659058a8fb441\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eOutgoing correspondence\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"127498\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e127498\u003c/unitid\u003e\u003cunitdate\u003eMay 1945-Jun 1945\u003c/unitdate\u003e\u003ccontainer id=\"aspace_8a53fbe6d3bf09f50bff3a5af6ebf745\" label=\"Mixed Materials [31142062728376]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_8a53fbe6d3bf09f50bff3a5af6ebf745\" type=\"Folder\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref28\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eOutgoing correspondence\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"127497\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e127497\u003c/unitid\u003e\u003cunitdate\u003eOct 1945\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a1a05b29cc4b1f3628f2d62e0db70c25\" label=\"Mixed Materials [31142062728376]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_a1a05b29cc4b1f3628f2d62e0db70c25\" type=\"Folder\"\u003e15\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref29\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eOutgoing correspondence\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"127496\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e127496\u003c/unitid\u003e\u003cunitdate\u003eNov 1945-Dec 1945\u003c/unitdate\u003e\u003ccontainer id=\"aspace_94ceae1dda499b9a2eabdd8b20787192\" label=\"Mixed Materials [31142062728376]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_94ceae1dda499b9a2eabdd8b20787192\" type=\"Folder\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref30\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eOutgoing correspondence\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"127495\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e127495\u003c/unitid\u003e\u003cunitdate\u003eJan 1946-Mar 1946\u003c/unitdate\u003e\u003ccontainer id=\"aspace_dfb24f3f9a92e6775ca46f0dbdc7a4ae\" label=\"Mixed Materials [31142062728376]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_dfb24f3f9a92e6775ca46f0dbdc7a4ae\" type=\"Folder\"\u003e17\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref31\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eIncoming correspondence (Helen Rucker)\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"127494\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e127494\u003c/unitid\u003e\u003cunitdate\u003eNov 1945\u003c/unitdate\u003e\u003ccontainer id=\"aspace_024aedeb1ab9470ebba5bd853c45e75f\" label=\"Mixed Materials [31142062728376]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_024aedeb1ab9470ebba5bd853c45e75f\" type=\"Folder\"\u003e18\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_17a28e0601cc9e4f05698275e7788b48\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFrom Bunny Rucker to Helen Rucker (overseas)\u003c/unittitle\u003e\u003cunitdate normal=\"1943/1944\" type=\"inclusive\"\u003e1943-1944\u003c/unitdate\u003e\u003ccontainer id=\"aspace_07c555511a150647f9a9d2c4e46ab197\" label=\"Mixed Materials [31142051735887]\" type=\"Box\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_439b08c7def57999356e8118a375a536\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFrom Bunny Rucker to Helen Rucker (overseas)\u003c/unittitle\u003e\u003cunitdate normal=\"1944/1944\"\u003e1944\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a4af6227474d6af306ab4aa62014c4f5\" label=\"Mixed Materials [31142051735887]\" type=\"Box\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_00f7aab89601c572e5efdafd0ee67970\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFrom Bunny Rucker to Helen Rucker\u003c/unittitle\u003e\u003cunitdate normal=\"1945/1946\" type=\"inclusive\"\u003e1945-1946\u003c/unitdate\u003e\u003ccontainer id=\"aspace_8bfe591a296ed5f71b89c43ca8f2bf2d\" label=\"Mixed Materials [31142051735887]\" type=\"Box\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_85f46495b1aedbc8ef1258274953000b\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFrom Bunny Rucker to Helen Rucker (hospital)\u003c/unittitle\u003e\u003cunitdate normal=\"1944/1945\" type=\"inclusive\"\u003e1944-1945\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5e1d1393943c7ec5daf532bea7334236\" label=\"Mixed Materials [31142051735887]\" type=\"Box\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_c42f360adcfd606d3e7b1bccdd4c0923\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTo Bunny Rucker from Helen Rucker (overseas)\u003c/unittitle\u003e\u003cunitdate normal=\"1945/1945\"\u003e1945\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c9b9add17828124f0a734276c30d0df7\" label=\"Mixed Materials [31142051735887]\" type=\"Box\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_f23f8ca3c83463beb9cca083a556b11f\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTo Bunny Rucker from Helen Rucker (hospital)\u003c/unittitle\u003e\u003cunitdate normal=\"1945/1945\"\u003e1945\u003c/unitdate\u003e\u003ccontainer id=\"aspace_776adf13a9f22415fbdfb2770ec854ab\" label=\"Mixed Materials [31142051735887]\" type=\"Box\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_9cea90f08d1e707a6342af0fca2f7a54\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eUnsent Letters from Helen Rucker\u003c/unittitle\u003e\u003cunitdate normal=\"1945/1945\"\u003e1945\u003c/unitdate\u003e\u003ccontainer id=\"aspace_8801588d8572e88982257d75823512e7\" label=\"Mixed Materials [31142051735887]\" type=\"Box\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_853e090716aa21a49028d0ee260a9fd0\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMisc. Cards, etc.\u003c/unittitle\u003e\u003cunitdate normal=\"1940/1949\" type=\"inclusive\"\u003e1940s, undated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b2614cfa1fb3cbc26a2d40e5b7e85b51\" label=\"Mixed Materials [31142051735887]\" type=\"Box\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref32\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries II: Subject Files\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"127489\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e127489\u003c/unitid\u003e\u003c/did\u003e\u003cc id=\"aspace_ref33\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eArmy Papers (certificates, correspondence)\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"127492\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e127492\u003c/unitid\u003e\u003cunitdate normal=\"1942/1945\" type=\"inclusive\"\u003e1942-1945\u003c/unitdate\u003e\u003ccontainer id=\"aspace_420b2d0689af1fb838af78893325f463\" label=\"Mixed Materials [31142062728376]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_420b2d0689af1fb838af78893325f463\" type=\"Folder\"\u003e19\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref34\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eHughes, Langston\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"127491\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e127491\u003c/unitid\u003e\u003cunitdate normal=\"1941/1959\" type=\"inclusive\"\u003e1941-1959\u003c/unitdate\u003e\u003ccontainer altrender=\"Flat OS 12.25\" id=\"aspace_50a4a188e00c41ee563877198b55ce84\" label=\"Mixed Materials [31142062667327]\" type=\"Box\"\u003eShared Tamiment 040\u003c/container\u003e\u003ccontainer parent=\"aspace_50a4a188e00c41ee563877198b55ce84\" type=\"Folder\"\u003e20\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref35\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eUS Army Hospital Ship Algonquin: postcard\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"127490\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e127490\u003c/unitid\u003e\u003cunitdate normal=\"1934/1954\" type=\"inclusive\"\u003eca.1944\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a03f7f84f3b0a3b4228655022cfe76cd\" label=\"Mixed Materials [31142062728376]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_a03f7f84f3b0a3b4228655022cfe76cd\" type=\"Folder\"\u003e21\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref36\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries III: Armed Forces Periodicals\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"127481\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e127481\u003c/unitid\u003e\u003c/did\u003e\u003cc id=\"aspace_ref37\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eBarnacle\u003c/title\u003e: Journal of US Army Hospital Ship Algonquin \u003ctitle render=\"italic\"\u003e\u003c/title\u003e\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"127488\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e127488\u003c/unitid\u003e\u003cunitdate\u003eAug 1945\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1da74e23cfb30757f5e4498dfc1b33c4\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_1da74e23cfb30757f5e4498dfc1b33c4\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref38\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eInfantry Day in the 92\u003c/title\u003e\u003ctitle render=\"italic\"\u003end\u003c/title\u003e\u003ctitle render=\"italic\"\u003eDivision\u003c/title\u003e\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"127487\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e127487\u003c/unitid\u003e\u003cunitdate\u003eJun 15, 1944\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1397188eac9a330741753aafd1f3e37f\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_1397188eac9a330741753aafd1f3e37f\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref39\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eMilitary Review\u003c/title\u003e: Command and General Staff School, Ft. Leavenworth, KS, Vol. XXV, No. 8 \u003ctitle render=\"italic\"\u003e\u003c/title\u003e\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"127486\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e127486\u003c/unitid\u003e\u003cunitdate\u003eNov 1945\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7411b8ad46e98d534e9700f7c170b6e4\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_7411b8ad46e98d534e9700f7c170b6e4\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref40\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eMission Accomplished\u003c/title\u003e: Mediterranean Theater of Operation US Army Publication \u003ctitle render=\"italic\"\u003e\u003c/title\u003e\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"127485\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e127485\u003c/unitid\u003e\u003cunitdate\u003eMay 1945\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c1cbb935189a063d698c5a5d79433c80\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_c1cbb935189a063d698c5a5d79433c80\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref41\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eThe Stars \u0026amp; Stripes Mediterranean\u003c/title\u003e: Vol. 1, No. 247 \u003ctitle render=\"italic\"\u003e\u003c/title\u003e\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"127484\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e127484\u003c/unitid\u003e\u003cunitdate\u003eMay 9, 1945\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ef5f30662ff355fa92f3df6d19b1be97\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_ef5f30662ff355fa92f3df6d19b1be97\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref42\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eYank: The Army Weekly\u003c/title\u003e: Mediterranean Edition, Vol. 2, No. 2 \u003ctitle render=\"italic\"\u003e\u003c/title\u003e\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"127483\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e127483\u003c/unitid\u003e\u003cunitdate\u003eMay 18, 1945\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1dda46ff283fadeff8a1e67db1a9b8fa\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_1dda46ff283fadeff8a1e67db1a9b8fa\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref43\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle render=\"italic\"\u003eYank: The Army Weekly\u003c/title\u003e: Mediterranean Edition, Vol. 2, No. 23 \u003ctitle render=\"italic\"\u003e\u003c/title\u003e\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"127482\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e127482\u003c/unitid\u003e\u003cunitdate\u003eAug 3, 1945\u003c/unitdate\u003e\u003ccontainer id=\"aspace_17ef2ac314ec493aecd97cbc4ee3fd1d\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_17ef2ac314ec493aecd97cbc4ee3fd1d\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref44\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries IV: Artifacts\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"127479\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e127479\u003c/unitid\u003e\u003c/did\u003e\u003cc id=\"aspace_ref45\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eAmerican Red Cross Utility Pouch\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"127480\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e127480\u003c/unitid\u003e\u003cunitdate normal=\"1934/1954\" type=\"inclusive\"\u003eca.1944\u003c/unitdate\u003e\u003ccontainer id=\"aspace_370d684de854c3c1ec4ceda6bd8df6d4\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_370d684de854c3c1ec4ceda6bd8df6d4\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

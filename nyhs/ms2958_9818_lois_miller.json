@@ -1,0 +1,95 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "ms2958_9818_lois_miller"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Letter to Lois Miller\u003clb/\u003e1941\u003clb/\u003e \u003cnum\u003eAHMC - Miller, Lois\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Larry Weimer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-10-03T16:51:58\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Miller, Lois (of Cohoes, New York)"
+                    }
+                },
+                "unittitle": {
+                    "value": "Letter to Lois Miller"
+                },
+                "unitdate": {
+                    "value": "1941"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "2 items"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one folder"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "One undated letter, and associated envelope postmarked June 16, 1941, to Lois Miller at Cohoes, New York. The letter is signed only with initials \"AJA\" or \"AJH\" on Hotel Piccadilly, New York City, stationery, where the writer seems to be convalescing. The writer expresses appreciation to Miller for being good to him or her, as the writer seems to be suffering from a serious health condition. The writer asks Miller to destroy letters and any other evidence of \"shortcomings\" if things do not end as expected for the writer.\u003clb/\u003e \r\n\r\n\u003clb/\u003eTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: \u003cextref actuate=\"onRequest\" href=\"http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph006336005\u0026amp;context=L\u0026amp;vid=NYHS\u0026amp;search_scope=nyhs\u0026amp;tab=nyhs\u0026amp;lang=en_US\"\u003eLetter to Lois Miller.\u003c/extref\u003e"
+                },
+                "unitid": {
+                    "value": "AHMC - Miller, Lois"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "dsc": {}
+    }
+}

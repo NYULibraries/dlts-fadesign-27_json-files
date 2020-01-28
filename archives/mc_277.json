@@ -1,0 +1,153 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "mc_277"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to Waldo Chapin Collection \u003cnum\u003eMC.277\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Samantha Houck"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-07-21T19:21:46\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Chapin, Waldo"
+                    }
+                },
+                "unittitle": {
+                    "value": "Waldo Chapin Collection"
+                },
+                "unitdate": {
+                    "normal": "1947/1948",
+                    "type": "inclusive",
+                    "value": "1947-1948"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 half manuscript box and 1 oversize flat box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Waldo E. Chapin (1917 - 2011) graduated from New York University with a Degree of Bachelor of Science in February 1948. The collection contains Chapin’s final examination portfolio for his Introduction to Art course, a graduation confirmation letter, and a 1948 commencement program."
+                },
+                "unitid": {
+                    "value": "MC.277"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_e664faae926cf4a598159aa6580f6472",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open to researchers."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_bd2a60df2fdd39f55ead93e1834dc15a",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: Identification of item, date (if known); Waldo Chapin Collection; MC 277; box number; folder number; New York University Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_df2b10b4486bddd6150a0c7ad3572677",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "There is no documentation concerning the provenance of these materials."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_c77128d93150abb3375e9765d2827fb4",
+            "head": "Biographical / Historical",
+            "p": {
+                "value": "Waldo Chapin (1917 - 2011) graduated from New York University with a Degree of Bachelor of Science in February 1948. Chapin was a Staff Sergeant in the U.S. Army Air Corps where he served from 1939-1945. He worked at the National Council on Compensation Insurance (NCCI) for forty years."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_2498e976faee5497e9910628f3bddd5c",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Waldo Chapin (1917-2011) graduated from New York University with a Degree of Bachelor of Science in February 1948.  This collection consists of Chapin’s final examination portfolio for his Introduction to Art course, a graduation confirmation letter, and a 1948 commencement program."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "New York University -- Alumni"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Art."
+                }
+            ],
+            "function": {
+                "source": "aat",
+                "value": "Commencement ceremonies"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_020356070c31675f59ea6cd1d5c26d3b\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFinal Examination Portfolio for Introduction to Art\u003c/unittitle\u003e\u003cunitdate normal=\"1947/1947\" type=\"inclusive\"\u003e1947\u003c/unitdate\u003e\u003ccontainer id=\"aspace_45ecd7b86c055a602df3c8a67c4e1c5f\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_45ecd7b86c055a602df3c8a67c4e1c5f\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_605002754b0f054c58749947eaf89e73\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence: Confirmation to Graduate\u003c/unittitle\u003e\u003cunitdate normal=\"1948-02-25/1948-02-25\" type=\"inclusive\"\u003e1948-02-25\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2cf8faa8c232090ddc0ef64bce760ebe\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_2cf8faa8c232090ddc0ef64bce760ebe\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_a64a6ef8f19eff0f1c8b169d2f30ee5c\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNew York University Commencement Program\u003c/unittitle\u003e\u003cunitdate normal=\"1948-06-19/1948-06-19\" type=\"inclusive\"\u003e1948-06-19\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2296e5f1c26836f95b238cf1cf4b5612\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_2296e5f1c26836f95b238cf1cf4b5612\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

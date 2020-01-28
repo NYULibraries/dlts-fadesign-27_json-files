@@ -1,0 +1,149 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "wag_017"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Ruth Milkman collection on Ruth Young \u003cnum\u003eWAG.017\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Maggie Schreiner"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-14T15:23:55\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Milkman, Ruth, 1954-"
+                    }
+                },
+                "unittitle": {
+                    "value": "Ruth Milkman collection on Ruth Young"
+                },
+                "unitdate": {
+                    "normal": "1941/1991",
+                    "type": "inclusive",
+                    "value": "1941-1991"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Ruth Young (1916-1986), the nation's highest-ranking female labor union offical in the 1940s. The collection consists of an interview by Milkman and Meredith Tax with Ruth Young (8/29/85); Ruth Young's FBI files obtained by Milkman; and a folder of newspaper clippings from the 1940s and the 1980s."
+                },
+                "unitid": {
+                    "value": "WAG.017"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_5660e1a03d31694f8d9b4228332becff",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_62ade7fc0d7364ccfb178c6b5a3355b2",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Ruth Milkman collection on Ruth Young; WAG 017; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_43eeddb88869b76fc0e289ecce338fe8",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Ruth Milkman in 1993. The accession number associated with this gift is 1986.005."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_84a0b933235dae62162036928a5237a8",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Ruth Young (1916-1986), the nation's highest-ranking female labor union offical in the 1940s, was born Ruth Youkelson in Chicago, the daughter of Jewish immmigrants from the Ukraine. After graduating from high school. Young worked in a number of factories and almost immediately became a union activist. She became active in the Communist-led Trade Union Unity League, and then in the United Electrical, Radio and Machine Workers of America (UE-CIO). By 1938, she was on the UE's full-time staff, a staunch advocate of organizing women and bringing them into union activity. In 1940, she became the Membership and Education Director of the UE District 4 which covered New York City and Northern New Jersey, and later became its Executive Secretary. She organized a large UE women's conference in 1941, and wrote a weekly column in the UE News, called \"Work and Play\". After the United States entered World War II, Young became a members of the UE's highest executive body, the International Executive Board. Throughout much of the 1940s, Young was a member of the Communist Party, like many UE leaders. But she left both the party and UE in 1950, and married Leo Jandreau, a leader of UE Local 301 which represented workers at General Electric in Schenectady, New York. Young remained active in local community activities in the 1950s and 1960s. In 1967 she launched a \"second career\" as a college administrator. In te 1980s she gave public lectures on women's work and women's labor history."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_5c51f8472a98b88dc23e634eb036c959",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection was collected by Ruth Milkman. The collection consists of an interview by Milkman and Meredith Tax with Ruth Young (8/29/85); Ruth Young's FBI files obtained by Milkman; and a folder of newspaper clippings from the 1940s and the 1980s."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Women labor leaders -- New York (State) -- New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Women communists |z New York (State) |z New York."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "United Electrical, Radio and Machine Workers of America"
+            }
+        },
+        "dsc": {}
+    }
+}

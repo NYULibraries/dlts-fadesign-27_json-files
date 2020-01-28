@@ -1,0 +1,159 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-F",
+            "value": "cjournal"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the C: A Journal of Poetry Archive \u003clb/\u003e\u003cdate calendar=\"gregorian\" era=\"ce\"\u003eca. 1955-1966 (Bulk 1964-1966).\u003c/date\u003e\u003clb/\u003e \u003cnum\u003eMSS.008\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tania Friedel, 1999."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Fales Library and Special Collections"
+                },
+                "address": {
+                    "addressline": [
+                        "Fales Library and Special Collections",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "3rd Floor",
+                        "New York, NY 10012",
+                        "Phone: (212) 998-2596",
+                        "fales.library@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-06-13T18:33:24\u003c/date\u003e"
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Fales Library and Special Collections"
+                    }
+                },
+                "unittitle": {
+                    "value": "\u003ctitle render=\"italic\"\u003eC: A Journal of Poetry\u003c/title\u003e Archive"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "ca. 1955-1966 (Bulk 1964-1966)"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 Box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The \u003ctitle render=\"italic\"\u003eC: A Journal of Poetry\u003c/title\u003e Archive is a collection of correspondence and manuscripts submitted to the editor, Ted Berrigan. The collection also includes issues of C: A Journal of Poetry."
+                },
+                "unitid": {
+                    "value": "MSS.008"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_cfeb0c0a788668b12bc8b39f539bfaa7",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_6042db74387102e9276c6f6a299ff14c",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: \u003clb/\u003e\u003clb/\u003eIdentification of item, date (if known); \u003clb/\u003eThe \u003ctitle render=\"italic\"\u003eC: A Journal of Poetry\u003c/title\u003eArchive; MSS 8; [Box number]; [Folder number]; Fales Library and Special Collections, New York University Libraries."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_93fdc889aa1ecb66c0110b66d9adfe32",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The \u003ctitle render=\"italic\"\u003eC: A Journal of Poetry\u003c/title\u003e Archive contains correspondence and manuscripts submitted to the editor, Ted Berrigan. Collection highlights include correspondence and manuscripts written by John Ashbery, Marianne Moore, and James Schuyler. The collection also includes issues of the magazine."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "American poetry |y 20th century."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Small presses -- New York (State) -- New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Poets, American -- 20th century"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Authors, American -- 20th century"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Avant-garde (Aesthetics)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Art, Modern |y 20th century |v Periodicals."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Literature, Experimental |x Periodicals."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "C: A Journal of Poetry"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref9\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: Correspondence, Manuscripts, Covers, and Publications\u003c/unittitle\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_d176b95418d9fb5892c813fc20aad2bd\"\u003e\u003chead\u003eScope and Contents note\u003c/head\u003e\u003cp\u003eThe \u003ctitle render=\"italic\"\u003eC: A Journal of Poetry\u003c/title\u003eArchive is a collection of correspondence and manuscripts submitted to the editor, Ted Berrigan. Collection highlights include letters and manuscripts written by John Ashbery, Marianne Moore, James Schuyler and William Saroyan.\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_ref10\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence and manuscripts - \"A-L\" including materials by John Ashbery, Barbara Guest, Kenneth Koch, and Joseph Le Sueur.\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ca261a63d81cc3a4ab635a650bbb47e5\" label=\"Mixed Materials (31142054862969)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ca261a63d81cc3a4ab635a650bbb47e5\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref11\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence and manuscripts - Marianne Moore.\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1964\u003c/unitdate\u003e\u003ccontainer id=\"aspace_8077c90cfdfd4490b989b34f0dbdd85c\" label=\"Mixed Materials (31142054862969)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_8077c90cfdfd4490b989b34f0dbdd85c\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref12\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence and manuscripts - William Saroyan.\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1965\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f99ad193adfeb1c8cf5e64a44126fc54\" label=\"Mixed Materials (31142054862969)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f99ad193adfeb1c8cf5e64a44126fc54\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref13\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence and manuscripts - James Schuyler.\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated; 1955\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b70c4b964d1f1ad1e534d6066b2cccc5\" label=\"Mixed Materials (31142054862969)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b70c4b964d1f1ad1e534d6066b2cccc5\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence and manuscripts - Philip Whalen.\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1965\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e49384ab00c6cf430c57ade7a5772e51\" label=\"Mixed Materials (31142054862969)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e49384ab00c6cf430c57ade7a5772e51\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCovers, also contains an article on Joe Brainard's art.\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_31b20d384b2cfdf17de56319b0114f39\" label=\"Mixed Materials (31142054862969)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_31b20d384b2cfdf17de56319b0114f39\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eVolume 1, Number 7\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e[February 1964]\u003c/unitdate\u003e\u003ccontainer id=\"aspace_0cd6ca6e11aaec57d3e58b5fcb56ba09\" label=\"Mixed Materials (31142054862969)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0cd6ca6e11aaec57d3e58b5fcb56ba09\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eVolume 1, Number 9\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e[Summer 1964]\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b05b66b9d52e59a601ea2053ab47b72a\" label=\"Mixed Materials (31142054862969)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b05b66b9d52e59a601ea2053ab47b72a\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eVolume 1, Number 10\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e[February 1965]\u003c/unitdate\u003e\u003ccontainer id=\"aspace_82a95fff11cd983fe89f1ad789c59bc8\" label=\"Mixed Materials (31142054862969)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_82a95fff11cd983fe89f1ad789c59bc8\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eVolume 2, Number 11\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e[Summer 1965]\u003c/unitdate\u003e\u003ccontainer id=\"aspace_18a7cd92a9db8a9fdd5ba67b5329b773\" label=\"Mixed Materials (31142054862969)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_18a7cd92a9db8a9fdd5ba67b5329b773\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eVolume 2, Number 13\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e[May 1966]\u003c/unitdate\u003e\u003ccontainer id=\"aspace_eac1b256fd315585c3d145841d0c15bd\" label=\"Mixed Materials (31142054862969)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_eac1b256fd315585c3d145841d0c15bd\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries II: Comics\u003c/unittitle\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_0beef14c71b5dddc27f12ff9f525bf37\"\u003e\u003chead\u003eScope and Contents note\u003c/head\u003e\u003cp\u003eConsists of one folder containing 2 issues of a comic book put out by many of the same people who contributed to C: A Journal of Poetry.\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_ref23\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eC: Comics, Nos. 1 and 2\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_71a17e6964bdc522d679329096bbf511\" label=\"Mixed Materials (31142054862969)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_71a17e6964bdc522d679329096bbf511\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

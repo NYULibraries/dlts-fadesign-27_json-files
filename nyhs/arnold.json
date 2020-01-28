@@ -1,0 +1,127 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "arnold"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Benedict Arnold Letter Volume\n                    \u003clb/\u003e 1772-1782\n                    \u003clb/\u003e\n                    \u003cnum\u003eMS 796\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by unnamed archivist. Machine readable finding aid created by Celia Hartmann, 2010, from 1978 calendar."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "© 2011 New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                },
+                "date": "2010"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2014-07-16T16:04-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "© 2011 New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Arnold, Benedict, 1741-1801"
+                    }
+                },
+                "unittitle": {
+                    "value": "Benedict Arnold Letter Volume"
+                },
+                "unitdate": {
+                    "normal": "1772/1782",
+                    "type": "inclusive",
+                    "value": "1772-1782"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.1 Linear feet"
+                        },
+                        {
+                            "value": "(1 volume)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The volume consists of a deed, and 41 letters (originals and typewritten transcripts) sent by Arnold and others to various recipients between 1772 and 1782."
+                },
+                "unitid": {
+                    "value": "MS 796"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref10",
+            "head": "Access",
+            "p": {
+                "value": "Letters in this volume have been microfilmed and will be presented to researchers in that format."
+            }
+        },
+        "bioghist": {
+            "id": "ref46",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Benedict Arnold (1741-1801) served as a captain with the Connecticut militia and as colonel helped to capture Fort Ticonderoga, together with Ethan Allen and his troops in 1775. Severely injured in 1777, he was given command of the defense of Philadelphia in 1778. Accusations of abuse of power, overspending, and abrogating military directions led to a reprimand from General George Washington. Frustrated and thwarted, Arnold offered his services to the British and, while in command of West Point, made plans to turn it over to their forces. His plans were discovered based on interception of his letters, at which time Arnold joined the British and evaded capture. He fled to England in 1781 and died in London in 1801."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Content",
+            "p": {
+                "value": "The volume consists of a deed, and 41 letters (originals and typewritten transcripts) sent by Arnold and others to various recipients between 1772 and 1782."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Treason -- United States"
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref2\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eBenedict Arnold: Deed of James Pierpoint, Stephen Ball \u0026amp; Timothy Bradley of New Haven Town for a piece of Flatts land in New Haven\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid300001\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1772 August\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref3\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eBenedict Arnold to Capt. Wm. [ ]\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid303001\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1775 April 4\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref5\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eBenedict Arnold and others to Brigadier General Putnam\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid303003\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1775 May 4\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref6\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eMajor Jared Curtis to Reverend Wheelock\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid303004\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1775 November 19\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref7\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eEdmond Pendleton to William Woodford\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid303005\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1775 December 24\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref8\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eDavenport Phelps to Reverend Wheelock\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid303006\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1776 February 24\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref9\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eBenedict Arnold to General Schuyler\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid303007\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1776 July 24\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref13\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eGeorge Washington to Benedict Arnold\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid303008\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1778 July 6\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref14\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eCharles Pettit to Major General Greene\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid303009\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1779 March 29\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref15\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eCharles Pettit to General Greene\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid303010\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1779 April 13\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref16\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSilas Deane to General Nathaniel Greene\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid303011\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1779 May 29\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref17\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eBenedict Arnold to Colonel Pickering\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid303012\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1780 August 16\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref18\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eDaniel Carthy to Benedict Arnold\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid303013\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1780 August 22\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref19\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eColonel C. Biddle to [a general]\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid303014\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1780 October 6\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref20\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eRichard Varick to Colonel Lewis Morris\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid303015\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1780 October 10\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref21\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eAbraham Lott to General Nathaniel Greene\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid303016\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1780 October 10\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref22\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eNathaniel Greene to Colonel Udny Hay\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid303017\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1780 October 10\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref23\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eGeneral Knox to General Nathaniel Greene\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid303018\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1780 October 13\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref24\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eIsaac Sears to General Nathaniel Greene\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid303019\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1780 October 25\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref25\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eW. Heath to General Nathaniel Greene\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid303020\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1780 December 13\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref26\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eMajor Steuben to General Nathaniel Greene\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid303021\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1780 December 31\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref27\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eThomas Jefferson to Major General Steuben\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid303022\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1780 December 31\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref28\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eBenedict Arnold to the officer commanding the party on shore [copy]\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid303023\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1781 January 2\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref29\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eBaron Steuben to Major General Nathaniel Greene\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid303024\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1781 January 8\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref30\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eBaron Steuben to Major General Nathaniel Greene\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid303025\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1781 January 11\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref31\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eThomas Jefferson to Major General Nathaniel Greene\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid303026\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1781 January 16\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref32\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eBob Morris to Jonathan Hurdson\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid303027\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1781 January 16\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref33\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eMr. Isard to Major General Nathaniel Greene\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid303028\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1781 January 19\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref34\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eJames W. McHenry to Governor Howe\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid303029\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1781 January 22\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref35\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eBenedict Arnold to Brigadier General Lawson\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid303030\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1781 February 12\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref36\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eBaron Steuben to Major General Greene\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid303031\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1781 March 3\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref37\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eBaron Steuben to Benedict Arnold\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid303032\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1781 March 4\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref38\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eGovernor Thomas S. Lee to Thomas Jefferson\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid303033\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1781 March 7\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref39\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eMarquis Lafayette to General Nathaniel Greene\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid303034\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1781 March 8\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref40\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eGovernor Nash to Major General Nathaniel Greene\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid303035\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1781 April 3\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref41\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eAndrew Ward to Jonathan Trumbull\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid303036\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1781 September 8\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref42\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eJames M. Varnum to Major General Nathaniel Greene\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid303037\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1781 September 17\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref43\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eW. Heath to Major General Schuyler\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid303038\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1781 September 17\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref44\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eWilliam Davies to General Nathaniel Greene\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid303039\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1782 March 14\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref45\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eBenedict Arnold to [John] Laurence\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid303040\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1782 [December]\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref4\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eArrangement of Baron Steuben’s troops\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid303002\" type=\"Volume\" label=\"Books\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003eUndated\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

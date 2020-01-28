@@ -1,0 +1,146 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_693"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Abraham Levine Papers \u003cnum\u003eTAM 693\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Heather Mulliner"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-07-12T16:24:12\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "local",
+                        "value": "Bitkower, Ellen"
+                    }
+                },
+                "unittitle": {
+                    "value": "Abraham Levine Papers"
+                },
+                "unitdate": {
+                    "normal": "1938/1948",
+                    "type": "inclusive",
+                    "value": "1938-1948"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": ".75 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 manuscript box and 1 half manuscript box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Abraham Levine Papers (dated 1938-1948) consist of correspondence and drafts related to Abraham Levine's political activities. Levine was a rank-and-file member of Trotskyist movement, and his papers provide a window into the ways in which everyday members of the movement interpreted current affairs in the 1940s. His papers include correspondence with fellow members of the Trotskyist movement, and several drafts of essays reflecting on current events, international politics, and American trade and commerce from a leftist perspective."
+                },
+                "unitid": {
+                    "value": "TAM 693"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_84ada4ebb51c113a7f89257a84327ab5",
+                    "label": "Mixed Materials [31142063292620]",
+                    "type": "Box",
+                    "value": "2"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_9c1fdf680901b58fcc7cee4ec2acd747",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_74daf2e0e4aa4db90196eb20674ea1c3",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Abraham Levine Papers; TAM 693; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University"
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_a716fc39d82a62299cef84ac19a79acf",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Ellen Bitkower in 2017. The accession number associated with this gift is 2017.030."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_806d435aedf7d3ada0d30dee2dd7f0c5",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Abraham Levine was a rank-and-file member of Trotskyist movement. Although Levine did not hold a leadership position in any political organization, he was an active member in New York City area Trotskyist groups including the Communist Workers' Group."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_06e8f8f30af0a1237cc6546306cb12ca",
+            "head": "Content Description",
+            "p": {
+                "value": "The Abraham Levine Papers (dated 1938-1948) consist of correspondence and drafts related to Abraham Levine's political activities. Levine was a rank-and-file member of Trotskyist movement, and his papers provide a window into the ways in which everyday members of the movement interpreted current affairs in the 1940s. His papers include correspondence with fellow members of the Trotskyist movement, and several drafts of essays reflecting on current events, international politics, and American trade and commerce from a leftist perspective."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Communism -- United States -- 20th century"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

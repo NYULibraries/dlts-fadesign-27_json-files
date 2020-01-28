@@ -1,0 +1,139 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_257"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Labor History Records \u003cnum\u003eTAM.257\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-10-29T13:08:24\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "\u003cemph render='italic'\u003eLabor History\u003c/emph\u003e Records"
+                },
+                "unitdate": {
+                    "normal": "1960/2010",
+                    "type": "inclusive",
+                    "value": "1960-2010"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "29.75 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 31 boxes"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "\u003cemph render='italic'\u003eLabor History\u003c/emph\u003e is an academic journal publishing articles on the history of the labor movement in the United States and other countries.  Between 1960 and 2003 the journal was published by the Tamiment Institute, later the Tamiment Library at New York University.  The \u003cemph render='italic'\u003eLabor History\u003c/emph\u003e Records document the publication of the journal between 1960 and 2010 and consist of correspondence between editors and authors, and minutes of board meetings."
+                },
+                "unitid": {
+                    "value": "TAM.257"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_6cf90d9e54d966bec35ad2192927fbb5",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_5fed641cbcd337931547b3b392dec453",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Labor History Records; TAM 257; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_a7031b2e73ca3bc31bc8f9113a2f4d62",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials found in collection; provenance is unknown. The accession number associated with this collection is 1950.281."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_68da96d173ebdeb52ca6468ebcf73389",
+            "head": "Historical Note",
+            "p": {
+                "value": "\u003cemph render='italic'\u003eLabor History\u003c/emph\u003e is an academic journal publishing articles on the history of the labor movement in the United States and other countries.  Between 1960 and 2003 the journal was published by the Tamiment Institute, later the Tamiment Library at New York University.  Daniel J. Leab was editor from 1974 into the late 1990s."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_5c58fd22cb35e37380cc746d08043462",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The \u003cemph render='italic'\u003eLabor History\u003c/emph\u003e Records document the publication of the journal between 1960 and 2010 and consist of correspondence between editors and authors, and minutes of board meetings.  The bulk of the correspondence is that of Daniel J. Leab as editor and includes correspondence with authors and other members of the editorial board.  Also included is the correspondence of Sidney Fine who served as a member of the editorial board in the 1980s."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Labor movement -- United States -- Periodicals."
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_6544c522f0fde5f25a7ccc1dbfb1ad8f\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eEditorial correspondence and board meeting minutes\u003c/unittitle\u003e\u003cunitdate normal=\"1963/2010\" type=\"inclusive\"\u003e1963-2010\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_1d95c1bd9e6332e1e9c869827a2f8ad7\" label=\"Mixed Materials [31142062884260]\" type=\"Box\"\u003e31\u003c/container\u003e\u003ccontainer parent=\"aspace_1d95c1bd9e6332e1e9c869827a2f8ad7\" type=\"Folder\"\u003e1-5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

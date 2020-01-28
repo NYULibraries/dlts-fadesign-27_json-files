@@ -1,0 +1,164 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "2015_036"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Brooklyn Waterworks architectural drawings\n                    \u003cnum\u003e2015.036\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by John Zarrillo"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "May 2016"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2016-09-23T09:37-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Parfitt, Walter E., 1845-1924"
+                    }
+                },
+                "unittitle": {
+                    "value": "Brooklyn Waterworks architectural drawings"
+                },
+                "unitdate": {
+                    "normal": "1889/1908",
+                    "type": "inclusive",
+                    "value": "1889-1908"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "3.4 linear feet"
+                        },
+                        {
+                            "value": "in one flat box"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The collection consists of fifteen drawings of the Milburn Engine House and Pumping House, the Massapequa Pumping Station, and the Keeper's House at Lake Massapequa, dating from 1889 to 1908. These structures were part of the larger Brooklyn Waterworks system, which brought in fresh water from Long Island to Kings County in the late 19th to early 20th centuries."
+                },
+                "unitid": {
+                    "value": "2015.036"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1483001",
+                    "label": "Graphic materials",
+                    "type": "Box",
+                    "value": "1 of 1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref6",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref5",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Brooklyn Waterworks architectural drawings, 2015.036, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref2",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Immediate source of acquisition unknown. Formally accessioned in 2015."
+            }
+        },
+        "bioghist": {
+            "id": "ref8",
+            "head": "Biographical note",
+            "p": {
+                "value": "Frank Freeman was born in Hamilton, Ontario, Canada, in 1861. He arrived in New York in the early 1880s, where he studied architecture. He primarily worked in the Richardsonian Romanesque style, and designed numerous buildings in the New York City metropolitan area, especially Brooklyn. He died in Montclair, New Jersey, in 1949."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "Architects: Thayer \u0026amp; Wallace"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Romanesque revival (Architecture) |z New York (State) |z Nassau County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Water-supply |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Waterworks |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Waterworks |z New York (State) |z Nassau County"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Thayer \u0026amp; Wallace (Firm)."
+            }
+        },
+        "dsc": {}
+    }
+}

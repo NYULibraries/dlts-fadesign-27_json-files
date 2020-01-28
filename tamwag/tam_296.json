@@ -1,0 +1,142 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_296"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Harry Gannes Manuscript From the Cradle to the Factory \u003cnum\u003eTAM 296\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-11T20:45:17\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Harry Gannes Manuscript \u003cemph render=\"italic\"\u003eFrom the Cradle to the Factory\u003c/emph\u003e"
+                },
+                "unitdate": {
+                    "value": "circa 1930-1941"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 manuscript box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Harry Gannes (1901-1941), at one time served (during the Popular Front era, circa 1935 - 1939) as the foreign editor of the \u003cemph render=\"italic\"\u003eDaily Worker\u003c/emph\u003e, the newspaper of the Communist Party, USA. The collection consists of \"From the Cradle to the Factory,\" an unpublished typescript (circa 1930s), 43 pp., about child labor in the United States."
+                },
+                "unitid": {
+                    "value": "TAM 296"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_a2e5d7d959693dffb8e4cd7f00a600e2",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_24c7fb3be1c54224e799c0aaa8f72cb5",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_028db4fa24142a0f68db27230ff4b860",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Harry Gannes Manuscript \u003cemph render=\"italic\"\u003eFrom the Cradle to the Factory\u003c/emph\u003e; TAM 296; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_f5af66a200b8dd7ef3fe767f7488aec9",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Sam Darcy in 1985. The accession number associated with this gift is 1985.014."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_c2f342c5571af678bc00cac9d31ca187",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Harry Gannes (1901-1941), at one time served (during the Popular Front era, circa 1935 - 1939) as the foreign editor of the \u003cemph render=\"italic\"\u003eDaily Worker\u003c/emph\u003e, the newspaper of the Communist Party, USA."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_b8b27c03f7e915f076463e18ad3b2ba8",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection consists of \"From the Cradle to the Factory,\" an unpublished typescript (circa 1930s), 43 pp., about child labor in the United States."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Communists -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Child labor |z United States."
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "donaldclark"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Donald F. Clark collection\n                    \u003cnum\u003eMS 118\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Julia Lipkins. This collection was appraised, arranged and described by Michelle P. Figliomeni in July 1980. In 2015, Carol Reisner re-housed the collection and Ali Barr transcribed Figliomeni's inventory."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "© 2011 New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                },
+                "date": "August 2015"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2016-06-13T10:40-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "© 2011 New-York Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "Donald F. Clark collection"
+                },
+                "unitdate": {
+                    "value": "circa 1642-1920"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "5.5 Linear feet"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "MS 118"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref7",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open to qualified researchers."
+            }
+        },
+        "acqinfo": {
+            "id": "ref5",
+            "head": "Provenance Note",
+            "p": {
+                "value": "This collection was donated to the New-York Historical Society on October 9th, 1980. Some items from the collection were returned to Clark in 1983. These items are marked in the inventory with the phrase, \"Original returned, photocopy only.\""
+            }
+        },
+        "bioghist": {
+            "id": "ref1",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Donald F. Clark, an antiquarian, served as historian of Orange County, New York from 1969-1980 and chairman of the Orange County American Revolution Bicentennial Commission, circa 1974-1976."
+            }
+        },
+        "scopecontent": {
+            "id": "ref3",
+            "head": "Scope and Contents Note",
+            "p": {
+                "value": "The collection, which was assembled by Clark, includes account books; church records; commissions; correspondence; court records; muster rolls; and a variety of printed materials. The collection reflects Clark’s interest in Orange County, New York during the Revolutionary War period."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Church records and registers"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Court records"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "United States -- History -- Revolution, 1775-1783"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "ms3146_wolfe_memorial_book"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "John David Wolfe Memorial Book and Case\u003clb/\u003e1802-1875\u003clb/\u003e \u003cnum\u003eMS 3146\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Larry Weimer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-12-02T17:24:55\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Wolfe, Catharine Lorillard, 1828-1887"
+                    }
+                },
+                "unittitle": {
+                    "value": "John David Wolfe memorial book and case"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "1802-1875 (bulk, 1872)"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "2 Linear feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 2 oversize boxes"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "One memorial book measuring approximately 17 inches x 14 inches x 3 inches, bound with an ornate design on the covers by Matthews, in a leather wrap. With the book, but boxed separately, is its original wood, velvet-lined case, with lock and key. The book is titled \"In memoriam J.D. Wolfe.\" Contents of the book include a portrait photograph of John David Wolfe; a cutting with his autograph; a poem written by Wolfe as a child (1802); portrait photograph and autograph of Wolfe's wife, Dorothea Ann Lorillard Wolfe; obituary of Dorothea from the New York Evening Post (1866); condolence letters from individuals addressed to Wolfe's daughter, Catharine Lorillard Wolfe (1872); hymn read at the house of Wolfe on the day of his funeral; letters, minutes, resolutions, addresses, and other forms from institutions acknowledging Wolfe's death; memorial notices, sermons, extracts and other forms from newspapers and other printed material; sermon by Rev. Dr. Henry C. Potter at Grace Church on the Sunday following Wolfe's funeral; letters addressed to Catharine Wolfe acknowledging receipt from her of Potter's sermon (all dated 1872, except one dated 1874); extract of a sermon by Rev. Dr. E.A. Washburn at Calvary Church; letter and extract from a sermon by Rev. Dr. W.F. Morgan at St. Thomas Church that alludes to Wolfe (1875).\u003clb/\u003e \u003clb/\u003e\n\nThe book and case are oversize and heavy. Patrons who wish to access them are advised to request them in advance of their visit in order that arrangements can be made to transport them to the Reading Room.\u003clb/\u003e \u003clb/\u003e\n\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: \u003cextref actuate=\"onRequest\" href=\"http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph007427033\u0026amp;context=L\u0026amp;vid=NYHS\u0026amp;search_scope=nyhs\u0026amp;tab=nyhs\u0026amp;lang=en_US\"\u003eJohn David Wolfe memorial book and case\u003c/extref\u003e"
+                },
+                "unitid": {
+                    "value": "MS 3146"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "dsc": {}
+    }
+}

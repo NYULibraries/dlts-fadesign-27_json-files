@@ -1,0 +1,155 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_033"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the McNamara Defense Committee Records \u003cnum\u003eTAM.033\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-04-24T13:56:01\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "McNamara Defense Committee Records"
+                },
+                "unitdate": {
+                    "normal": "1911/1911",
+                    "type": "inclusive",
+                    "value": "1911"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "A New York based committee formed in 1911 to rally support for John J. and James B. McNamara prior to their confessing to dynamiting the Los Angeles Times Building in 1910. The records contain minutes, appeals for support from labor and socialist groups, responses from these groups and financial records with lists of organizations making contributions. Much of the correspondence is that of the Committee's secretary, Socialist Party activist Julius Gerber. Included are also two letters from Samuel Gompers, and two from John J. McNamara."
+                },
+                "unitid": {
+                    "value": "TAM.033"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_6bf93cf4768a01f9a3154735c168ac56",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_26a58ebd81085c04cc2becefa00b7733",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; NcNamara Defense Committee Records; TAM 033; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_178705227ddd3fe7c91a34577b5d9d30",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Transferred from the Rand School Archives, 1963. There is no earlier provenance information. The accession number associated with this collection is 1963.020."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_a0462ffd33395c2c52663e59a6edd772",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "A New York based committee formed in 1911 to rally support for John J. and James B. McNamara prior to their confessing to dynamiting the Los Angeles Times Building in 1910. The McNamara brothers were members of the International Association of Bridge and Structural Iron Workers, which was engaged in a lengthy and violent strike. Harrison Gray Otis, publisher of the Los Angeles Times, led the local business community's opposition to the local labor movement."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_f117c38e23f807b9915ab3cc17879be4",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The records contain minutes of committee meetings, appeals for support from labor and socialist groups, responses from these groups usually including naming of delegates to conference, and committee financial records with lists of organizations contributing. Much correspondence is that of the Committee's secretary, Socialist Party activist Julius Gerber. Two letters from Samuel Gompers support Committee efforts, and two from John J. McNamara thank Ernest Bohen for support."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Labor movement |z California |z Los Angeles."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Bombings |z California |z Los Angeles |x History |y 20th century."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Anarchism -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Anarchists |z United States."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "McNamara Defense Committee"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref13\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: Records, 1911.\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref14\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAgitation Fund\u003c/unittitle\u003e\u003cunitdate normal=\"1911/1911\" type=\"inclusive\"\u003eUndated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ceed95b0e12168a034f694a004382f46\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ceed95b0e12168a034f694a004382f46\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAttendance Sheets and Minutes\u003c/unittitle\u003e\u003cunitdate normal=\"1911/1911\" type=\"inclusive\"\u003e1911\u003c/unitdate\u003e\u003ccontainer id=\"aspace_3fd65af569ff20852c4eef5142be51be\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_3fd65af569ff20852c4eef5142be51be\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence about Defense Fund\u003c/unittitle\u003e\u003cunitdate normal=\"1911/1911\" type=\"inclusive\"\u003e1911\u003c/unitdate\u003e\u003ccontainer id=\"aspace_628fb1370aee4f6373723281043a4adc\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_628fb1370aee4f6373723281043a4adc\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence about the McNamara Conference (I)\u003c/unittitle\u003e\u003cunitdate normal=\"1911/1911\" type=\"inclusive\"\u003e1911\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5f13a8fb96017fb649a03ea0c01b140b\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5f13a8fb96017fb649a03ea0c01b140b\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence about the McNamara Conference (II)\u003c/unittitle\u003e\u003cunitdate normal=\"1911/1911\" type=\"inclusive\"\u003e1911\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c1904f7763f08965b70de883c25e2dec\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_c1904f7763f08965b70de883c25e2dec\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDefense Fund: Finances\u003c/unittitle\u003e\u003cunitdate normal=\"1911/1911\" type=\"inclusive\"\u003e1911\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e6ef031144eb377ce0dbcf270e1ac0cf\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e6ef031144eb377ce0dbcf270e1ac0cf\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eGompers, Samuel: Letters\u003c/unittitle\u003e\u003cunitdate normal=\"1911/1911\" type=\"inclusive\"\u003e1911\u003c/unitdate\u003e\u003ccontainer id=\"aspace_51e5678ec27669838eaf724c579c4703\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_51e5678ec27669838eaf724c579c4703\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMcNamara, John J.: Telegram and Letter\u003c/unittitle\u003e\u003cunitdate normal=\"1911/1911\" type=\"inclusive\"\u003e1911\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5e341bbf85bc60d96bb2539ff6a00ce7\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5e341bbf85bc60d96bb2539ff6a00ce7\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eOrganization and Meeting Announcements\u003c/unittitle\u003e\u003cunitdate normal=\"1911/1911\" type=\"inclusive\"\u003eUndated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_cb516475c25a0b99fd745ad929ca4920\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_cb516475c25a0b99fd745ad929ca4920\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePage of Photographs on Los Angeles and Indianapolis Bombings: \u003cemph render=\"italic\"\u003eNew York Times\u003c/emph\u003e, December 17, 1911\u003c/unittitle\u003e\u003cunitdate normal=\"1911/1911\" type=\"inclusive\"\u003e1911\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ff47194444d2d61622506dd7832146cf\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ff47194444d2d61622506dd7832146cf\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eReceipts, Bills\u003c/unittitle\u003e\u003cunitdate normal=\"1911/1911\" type=\"inclusive\"\u003e1911\u003c/unitdate\u003e\u003ccontainer id=\"aspace_077b3b8888980becfdd8fb32c64c1632\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_077b3b8888980becfdd8fb32c64c1632\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eStatements of Support\u003c/unittitle\u003e\u003cunitdate normal=\"1911/1911\" type=\"inclusive\"\u003e1911\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d5c2f66fd2eaa317f25af111109ab97e\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d5c2f66fd2eaa317f25af111109ab97e\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

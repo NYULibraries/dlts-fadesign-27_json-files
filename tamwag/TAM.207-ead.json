@@ -1,0 +1,128 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "tam_207"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Robert Wohlforth Papers\n                    \u003cnum\u003eTAM.207\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "12/18/2009"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T19:01-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Wohlforth, Robert, 1904-1997"
+                    }
+                },
+                "unittitle": {
+                    "value": "Robert Wohlforth Papers"
+                },
+                "unitdate": {
+                    "normal": "1927/1978",
+                    "type": "inclusive",
+                    "value": "1927-1978"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.0 linear feet"
+                        },
+                        {
+                            "value": "(2 boxes)"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "TAM.207"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid18927002",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1-2"
+                }
+            }
+        ],
+        "bioghist": {
+            "id": "ref2",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Robert Wohlforth (1904-1997) was a business analyst, journalist and government investigator and husband of the notable journalist Mildred Gilman Wohlforth."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "This collection contains Robert Wohlforth's papers regarding investigations he helped conduct into the munitions industry (for Senator Gerald Nye in 1934-1936) and into civil liberties related to labor organizing (for Senator Robert La Follette in 1936-1940). Also included are papers regarding the loyalty investigation and eventual dismissal of Wohlforth from the Anti-Trust Division of the Department of Justice in 1954. PLEASE DIRECT FURTHER INQUIRIES TO: tamiment.wagner@nyu.edu"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Loyalty oaths |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Weapons industry"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "United States. Dept. of Justice. Antitrust Division."
+            }
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "v1987_011_crown_publishers"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Crown Publishers photographs of Brooklyn\n                    \u003cnum\u003eV1987.011\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Patricia Glowinski"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "July 22, 2011."
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-28T14:36-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Crown Publishers photographs of Brooklyn"
+                },
+                "unitdate": {
+                    "normal": "1910/1970",
+                    "type": "inclusive",
+                    "value": "circa 1920 to 1960"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.16 Linear feet"
+                        },
+                        {
+                            "value": "82 items contained in one folder."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "V1987.011"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid929001",
+                    "label": "Graphic materials",
+                    "type": "Box",
+                    "value": "Prints by Accession 62"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref4",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref7",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Crown Publishers photographs of Brooklyn, V1987.011, Box number, Object ID number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref2",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Gift of Crown Publishers via Harriet Bell, 1987."
+            }
+        },
+        "bioghist": {
+            "id": "ref3",
+            "head": "Historical note",
+            "p": {
+                "value": "Crown Publishers is a New York City-based publishing company that was established in 1933. In 1986, under its imprint Harmony Books, Crown Publishers, published When Brooklyn Was the World by Elliot Willensky. In 1988, Crown Publishing Group, whose imprints included Crown Publishers, Clarkson Potter, Inc., Harmony Books, and the Outlet Book Company Publishers, was then acquired by Random House, who in turn, was acquired by Bertelsmann AG, a media company based in Germany, in 1998."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Crown Publishers photographs of Brooklyn is comprised of 82 black-and-white photographic prints that document Brooklyn from the period circa 1920 to 1960. The images where included in When Brooklyn Was the World by Elliot Willensky, originally published by Crown Publishers in 1986. Images of buildings, people, transportation, neighborhoods, public events, recreation, and parks are included in the collection, as are images of Coney Island, and the New York Naval Shipyard (now the Brooklyn Navy Yard), among others."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Neighborhoods |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Street photography |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "New York Naval Shipyard."
+            }
+        },
+        "otherfindaid": {
+            "id": "ref6",
+            "head": "Other Finding Aids"
+        },
+        "dsc": {}
+    }
+}

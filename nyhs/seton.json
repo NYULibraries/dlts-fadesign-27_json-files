@@ -1,0 +1,168 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "seton"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Harold Seton Papers\n                    \u003clb/\u003e\n                    \u003cdate calendar=\"gregorian\" normal=\"1935/undated\" era=\"ce\" type=\"inclusive\"\u003e1935, Undated\u003c/date\u003e\n                    \u003clb/\u003e\n                    \u003cnum\u003e\u003c/num\u003e\n                    \u003cnum\u003eAHMC Seton\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Donna L. Davey"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "© 2011 New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2016-01-07T10:07-0500\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "© 2011 New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "ingest",
+                        "value": "Harold Seton"
+                    }
+                },
+                "unittitle": {
+                    "value": "Harold Seton Papers"
+                },
+                "unitdate": {
+                    "value": "1935, and undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.1 Linear feet"
+                        },
+                        {
+                            "value": "(One folder)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Collection of 12 letters written by Seton to Lucius Beebe, society columnist for the New York Herald-Tribune, and 36 pages of notes, presumably written by Seton. The letters divulge gossip about upper-class society members of New York City and Newport, Rhode Island. The notes discuss Seton's extensive photograph collection, and various New York City topics such as news items from the 1890s, bohemia, restaurants, gambling, and hotels."
+                },
+                "unitid": {
+                    "value": "AHMC Seton"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref5",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Photocopying undertaken by staff only. Limited to twenty exposures of stable, unbound material per day. (Researchers may not accrue unused copy amounts from previous days.)"
+            }
+        },
+        "prefercite": {
+            "id": "ref7",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "This collection should be cited as the Harold Seton Papers, AHMC Seton, The New-York Historical Society."
+            }
+        },
+        "bioghist": {
+            "id": "ref8",
+            "head": "Biographical Summary",
+            "p": {
+                "value": "In 1935 Harold Seton, a collector of photographs and society devotee, was suffering financial difficulties. Having spent summers in Newport, Rhode Island, for 24 years, he was acquainted with or knew about the wealthy people of his day, and sought to profit from sharing information about them. He wrote to Lucius Beebe, a society columnist for the New York Herald-Tribune, and offered gossip for his column in exchange for pay."
+            }
+        },
+        "scopecontent": {
+            "id": "ref9",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "In addition, there are notes on William D'Alton Mann, Harold Seton and Robert Rowe; a document entitled \"Local Color and News Items of 1896 and Later '90's,\" containing excerpts about New York City from an assortment of publications; several pages on \"bohemia\"; notes on the restaurant Petitpas' and other NYC restaurants; several pages on gambling; biographies of the Hewitt sisters; notes on H. M. Flagler, Palm Beach, and hotels and hotel life from 1897 to 1907."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Actors–New York (N.Y.)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Actresses–New York (N.Y.)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Balls (Parties)--New York (N.Y.)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Gossip columns--New York--1935"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Hotels–New York (N.Y.)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Newspapers-- Sections, columns, etc."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Photographs–collectors and collecting"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Restaurants–New York (N.Y.)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Upper class--Rhode Island--Newport--Social life and customs"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Upper class–New York (N.Y.)–Social life and customs"
+                }
+            ],
+            "corpname": {
+                "source": "ingest",
+                "value": "New York Herald-Tribune"
+            }
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "alba_276"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "\n                    \u003cnum\u003eALBA.276\u003c/num\u003e\n                "
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T09:23-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "ingest",
+                        "value": "Harvan, Rose Margaret."
+                    }
+                },
+                "unittitle": {
+                    "value": "Rose Harvan Papers"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.0 linear feet"
+                        },
+                        {
+                            "value": "(1 box)"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "ALBA.276"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid19136001",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The Rosa Harvan Papers consist of records documenting Harvan's activities before and after her experience as a volunteer medical assistant in Spain during the Spanish Civil War. The collection includes drafts of manuscripts written Harvan titled \n                \u003cemph render=\"italic\"\u003eLover and Stranger \u003c/emph\u003e, \n                \u003cemph render=\"italic\"\u003eThe Accomplished Days\u003c/emph\u003e, and \n                \u003cemph render=\"italic\"\u003eCailin\u003c/emph\u003e. Also included is a scrapbook of newspaper clippings dating from 1939 concerning a documentary film she worked on with her then-husband, Herbert Kline, titled \n                \u003cemph render=\"italic\"\u003eCrisis\u003c/emph\u003e. Kline, a Spanish Civil War volunteer in the Abraham Lincoln Brigade, was a photographer and filmmaker, and the couple worked on several projects together after their time in Spain. Materials include some photographs documenting the Spanish Civil War, photographic prints taken by Harvan for a film written by John Steinbeck titled \"A Forgotten Village\" and a copy of the book based on that film. Included are correspondence concerning the potential publication of Harvan's manuscript \n                \u003cemph render=\"italic\"\u003eCailin\u003c/emph\u003e, and correspondence with individuals at Camp Intermission at Saranac Lake, New York concerning her manuscript \n                \u003cemph render=\"italic\"\u003eShades of Mollie Maguire\u003c/emph\u003e. One of her later married names was Chellas, and notes in a file indicate that she was at one time married to novelist Meyer Levin."
+            }
+        },
+        "controlaccess": {},
+        "dsc": {}
+    }
+}

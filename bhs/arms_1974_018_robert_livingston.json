@@ -1,0 +1,180 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "amrs_1974_018_robert_livingston"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Robert Livingston papers\n                    \u003cnum\u003e1974.018\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Manning Field"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "February 1986"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-09T10:16-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Livingston, Robert, 1708-1790"
+                    },
+                    "famname": {
+                        "source": "naf",
+                        "value": "Livingston family"
+                    }
+                },
+                "unittitle": {
+                    "value": "Robert Livingston papers"
+                },
+                "unitdate": {
+                    "normal": "1670/1797",
+                    "type": "inclusive",
+                    "value": "1670-1797"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.42 Linear feet"
+                        },
+                        {
+                            "value": "in one manuscript box."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "1974.018"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid620007",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "1974.018 1 of 1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref5",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref7",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Robert Livingston papers, 1974.018, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref4",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Sylvia A. Livingston, 1890."
+            }
+        },
+        "bioghist": {
+            "id": "ref3",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Robert Livingston (1654-1728), was an influential businessman and politician in colonial Albany, N.Y. Also known as Robert Livingston the Elder, he was of the first generation of the prominent Livingston family of New York State. Born in Scotland, Livingston spent many years in Holland, where he acquired the Dutch language and customs. He moved to Albany in 1673, and was shortly appointed town clerk and secretary of the board of commissioners for Indian Affairs. In 1686, he received a patent for land comprising the present-day New York counties of Columbia and Dutchess, on which he built his family home, Livingston Manor. In 1709 he represented the district of Albany in the Assembly and in 1718 was elected speaker. He functioned as secretary of Indian Affairs from the 1670s on, officially from 1696 to 1710, at which time he relinquished this post to his nephew, Robert Livingston, Jr. (1663-1725). Robert Livingston the Elder retired in 1725. Certain of his descendents played instrumental roles in the political life of colonial New York City and the founding of the United States. His grandson, Philip Livingston (1716-1778), for whom Brooklyn's Livingston Street is named, was a New York delegate to the Continental Congress and the only Brooklyn resident to sign the Declaration of Independence. His great-grandson, Robert R. Livingston (1746-1813), served as Recorder of New York City and was the first Chancellor of New York, as well as the first U.S. Secretary for Foreign Affairs."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Robert Livingston papers measure .42 linear feet and are housed in one manuscript box. The collection spans the period 1670 to 1797 and contains legal documents and correspondence related to Robert Livingston of Albany and his estate, Livingston Manor. Folder 27 includes two letters exchanged between Robert R. Livingston, Chancellor of New York, and his relative Robert Livingston (1708-1790), Third Lord of Livingston Manor, regarding a dispute over the estate. Also included in the collection are propositions, minutes, examinations, accounts, journals, and correspondence, including a selection of transactions between the Commissioners of Indian Affairs at Albany and the Native American peoples of the Hudson Valley and central New York. Materials in the collection are primarily in English, though some are also in Dutch. Most items are original, with some early copies. Many items are in fragile condition."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Decedents' estates |z New York (State)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Indians of North America |z Canada"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Indians of North America |z New York (State)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Indians of North America |z New York (State) |x Government relations"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Land grants |z New York (State)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Land titles |z New York (State)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Manors |z New York (State)"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "New York (State). Commissioners of Indian Affairs."
+            }
+        },
+        "otherfindaid": {
+            "id": "ref10",
+            "head": "Other Finding Aids note"
+        },
+        "dsc": {}
+    }
+}

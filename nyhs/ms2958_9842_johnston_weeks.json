@@ -1,0 +1,95 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "ms2958_9842_johnston_weeks"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Letter from J.H. Johnston to H.C. Weeks\u003clb/\u003e1871\u003clb/\u003e \u003cnum\u003eAHMC - Johnston, J.H.\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Larry Weimer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-09-05T16:30:24\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Johnston, J. H., active 1871 (Watchmaker)"
+                    }
+                },
+                "unittitle": {
+                    "value": "Letter from J.H. Johnston to H.C. Weeks"
+                },
+                "unitdate": {
+                    "value": "1871"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 letters"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one folder"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Johnston, a member of the firm J.H. Johnston \u0026amp; [H.M.] Robinson, watchmakers and jewelers, at 150 Bowery, New York City, wrote to Weeks to state that he had decided to accept an offer that Edwin Byles of Dorr had made for the purchase of a portion of Johnston's land in an unidentified location. Johnston asked Weeks if he would like to conclude the sale for a $50 commission. Johnston also wrote that he offered to sell to his brother in Chicago other parts of his land, and that Weeks might get inquiries from the brother. Finally, Johnston asked Weeks to determine the taxes on various of his other properties. None of the locations of the properties are identified.\u003clb/\u003e \u003clb/\u003e\n\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: \u003cextref actuate=\"onRequest\" href=\"http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph007401262\u0026amp;context=L\u0026amp;vid=NYHS\u0026amp;search_scope=nyhs\u0026amp;tab=nyhs\u0026amp;lang=en_US\"\u003eLetter from J.H. Johnston to H.C. Weeks\u003c/extref\u003e"
+                },
+                "unitid": {
+                    "value": "AHMC - Johnston, J.H."
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "dsc": {}
+    }
+}

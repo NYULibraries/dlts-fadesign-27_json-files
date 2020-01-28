@@ -1,0 +1,134 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "wag_309"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Carlton W. Werkau Papers \u003cnum\u003eWAG.309\u003c/num\u003e"
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-08-02T18:52:50\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "local",
+                        "value": "Quinn, John L."
+                    }
+                },
+                "unittitle": {
+                    "value": "Carlton W. Werkau Papers"
+                },
+                "unitdate": {
+                    "normal": "1950/1955",
+                    "type": "inclusive",
+                    "value": "1950-1955"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 manuscript box."
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "WAG.309"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_e020aa836b810901d975b2a89fedcd99",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_e5b445eed22651019c092e1b47b77001",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_0e76c2467779bd18016b999347ea8cdc",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Carlton W. Werkau Papers; WAG 309; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_3343e81c8e60145975939ffe02c60d4e",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by John L. Quinn, Communications Workers of America District Counsel, in 2010. The accession number associated with this gift is 2010.011."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_f1a1ad928381a83ebb7d9da86210b79a",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Carlton W. Werkau served as the Secretary-Treasurer for the Communications Workers of America (CWA) from 1943 until his death in 1955."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_9d319d8bcfafc5eca52417bc28eebfde",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection consists of photographs, both personal and union related, correspondence, and CWA records. The CWA records consist of Convention proceedings from 1953-1955 as well as a strike manual and tax files. Articles and letters concerning Werkau's death in 1955 are also included."
+            }
+        },
+        "controlaccess": {},
+        "dsc": {}
+    }
+}

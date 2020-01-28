@@ -1,0 +1,164 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arc_226_brooklyn_sheet_music"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Brooklyn sheet music collection\n                    \u003cnum\u003eARC.226\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "March 17, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-05-01T16:12-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Vanderveer, Catharine"
+                    }
+                },
+                "unittitle": {
+                    "value": "Brooklyn sheet music collection"
+                },
+                "unitdate": {
+                    "normal": "1820/1940",
+                    "type": "inclusive",
+                    "value": "circa 1830 to 1930"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "5.25 Linear feet"
+                        },
+                        {
+                            "value": "in two standard manuscript boxes, seven oversize manuscript boxes, and one custom-size box."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "ARC.226"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid857006",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "ARC.226 6 of 10"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref3",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref6",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Brooklyn sheet music collection, ARC.226, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref5",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Volumes belonging to Catharine Vanderveer in accession 1985.007 were the gift of Edward V. Ditmars, date unknown. Sources and dates of acquisition for the remaining items in accessions 1985.007 and 1988.015 are unknown."
+            }
+        },
+        "bioghist": {
+            "id": "ref9",
+            "head": "Historical Note",
+            "p": {
+                "value": "Prior to the late 19th century, music publishing in America was dispersed throughout various urban centers, particularly Boston and Philadelphia. In the 1890s, when Charles K. Harris's song \"After the Ball\" sold nearly five million copies, the music publishing industry began to develop and centralize in the New York City area, especially in Tin Pan Alley, a district in Manhattan heavily populated by composers and music publishers. Originally located at Broadway and 14th Street, Tin Pan Alley underwent several relocations, ultimately centering near Broadway and 49th Street, though the actual music district stretched from 42nd to 56th Streets."
+            }
+        },
+        "scopecontent": {
+            "id": "ref10",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Brooklyn sheet music collection contains several pieces of sheet music published in Brooklyn and, to a lesser extent, New York City, by various composers, arrangers, and lyricists during the period circa 1830 to 1930. The majority of the sheet music is comprised of individual publications, though a smaller portion is compiled in two bound volumes that were formerly the property of Brooklyn resident Catharine Vanderveer. A wide range of musical forms are represented in the collection, including waltzes, polkas, military marches, parade marches, religious hymns, popular songs, and other forms based upon or inspired by various musical traditions around the world. Though the majority of the song titles and lyrics are in English, some are written in French, German, Hebrew, and Italian. An inventory of the contents of Boxes 1 through 5 is contained in Box 1, while a printed card index of the contents of the collection's remaining boxes is contained in Box 10."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Music publishing |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Music publishing |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Music |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Music |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Popular music |x Writing and publishing |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Popular music |x Writing and publishing |z New York (State) |z New York"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

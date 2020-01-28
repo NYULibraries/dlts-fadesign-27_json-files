@@ -1,0 +1,148 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "aia_075"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the McGivern Family Collection\n                    \u003cnum\u003eAIA.075\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Rachel Searcy"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archive"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "2/19/2015"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2015-02-19T11:21-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archive"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Mercurio, Nancy"
+                    }
+                },
+                "unittitle": {
+                    "value": "McGivern Family Collection"
+                },
+                "unitdate": {
+                    "normal": "1951/1954",
+                    "type": "inclusive",
+                    "value": "1951-1954"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.25 linear feet"
+                        },
+                        {
+                            "value": "in 1 manuscript box"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "This collection was created and collected by members of the McGivern and Burke families, who were active in the Belfast United Club in the Bronx during the 1950s. This collection consists of materials documenting the activities of the Belfast United Club in the Bronx, including photographs and brochures from the organization's functions and sporting events."
+                },
+                "unitid": {
+                    "value": "AIA.075"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref3",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open for research without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "ref7",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; McGivern Family Collection; AIA 075; box number; folder number; Archives of Irish America, Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "ref5",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "This collected was donated to the Archives of Irish America in January of 2015 by Dana Kelly, Lisa Fullard, and Nancy Mercurio. The accession number associated with this gift is 2015.008."
+            }
+        },
+        "bioghist": {
+            "id": "ref2",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "This collection was created and collected by members of the McGivern and Burke families, who were active in the Belfast United Club in the Bronx during the 1950s."
+            }
+        },
+        "scopecontent": {
+            "id": "ref8",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "This collection consists of materials collected by members of the McGivern Family documenting the activities of the Belfast United Club in the Bronx, including photographs and brochures from the organization's functions and sporting events."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Irish Americans |x Ethnic identity."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Irish Americans |x Societies, etc."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Irish Americans |z New York (State) |z New York."
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

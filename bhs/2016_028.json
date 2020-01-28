@@ -1,0 +1,162 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "2016_028"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Shirley Ruth scrapbook \u003cnum\u003e2016.028\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Katherine Palm"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "Brooklyn Historical Society",
+                        "128 Pierrepont Street",
+                        "Brooklyn 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-03-30T17:50:22\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "local",
+                        "value": "McBee, Deborah Melum"
+                    }
+                },
+                "unittitle": {
+                    "value": "Shirley Ruth Foote scrapbook"
+                },
+                "unitdate": {
+                    "normal": "1933/1938",
+                    "type": "inclusive",
+                    "value": "1933-1938"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in two boxes"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The collection consists of one scrapbook created by Shirley Ruth Foote during the years 1933 to 1935 that contains news clippings and various items of ephemera related to her early life in the Brooklyn Heights neighborhood of Brooklyn, New York and Bellport, New York."
+                },
+                "unitid": {
+                    "value": "2016.028"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_bd587e8fd214d044c1510665581f33e7",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "2 of 2"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_e083fbca0c722120e94dd9c2c5ad14a3",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to users without restriction"
+            }
+        },
+        "prefercite": {
+            "id": "aspace_0a7f0710e6ea63ada88aa86ddc3eb7b2",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Shirley Ruth Foote scrapbook, 2016.028, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_e255994b3e4ba32dd72da2e74df634c9",
+            "head": "Biographical note",
+            "p": {
+                "value": "Foote died on November 28, 1998 in Sanibel Island, Florida and was survived by her three daughters and husband."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_19281859928d3dda6a4644130e030108",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection consists of one scrapbook created by Shirley Ruth Foote during the years 1933 to 1935 that contains news clippings and various items of ephemera related to her early life in the Clinton Hill neighborhood of Brooklyn, New York and Bellport, New York.  The items appear to chiefly document Foote's leisure and social interests during the period and include event programs, invitations, and admission tickets for events such as the circus, theater, exhibitions, sporting contests (such as football and yachting), horse shows, and dances.  Institutions and organizations represented in such material include: Ringling Bros and Barnum \u0026amp; Bailey Circus, the Brooklyn Junior Horse Show, the Brooklyn Horse Show, Columbia University/Navy, Colony House, Brooklyn Academy of Music, Brooklyn Music Settlement, Junior League of Brooklyn, Bellport Country Club, Bellport Bay Yacht Club, and American Yacht Club (Rye, New York).  Other items are related to Foote's school years and include items such as programs, class schedules, and handwritten sorority rush invitations.  A few additional news clippings and other ephemeral items were inserted loose at the front of the album, including a portion of the cover of the December 18, 1938 issue of the \u003cemph render=\"italic\"\u003eBrooklyn Eagle\u003c/emph\u003e featuring a photograph of Foote as a debutante.  These loose materials can be found in folders 10 to 18 of the collection."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "aat",
+                    "value": "Circuses (performances)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Debutantes |y 1920-1940"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Horses |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Women |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Yacht clubs |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "local",
+                    "value": "Yacht clubs |z New York (State) |z Suffolk County"
+                }
+            ],
+            "corpname": {
+                "source": "library of congress name authority file",
+                "value": "Westover School"
+            }
+        },
+        "dsc": {}
+    }
+}

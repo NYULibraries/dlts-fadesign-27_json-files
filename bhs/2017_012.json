@@ -1,0 +1,161 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "2017_012"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the 135 Broadway property records \u003cnum\u003e2017.012\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Lena Evers-Hillstrom"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "Brooklyn Historical Society",
+                        "128 Pierrepont Street",
+                        "Brooklyn 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-11-13T21:25:41\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "local",
+                        "value": "Ballot, Alissa E."
+                    }
+                },
+                "unittitle": {
+                    "value": "135 Broadway property records"
+                },
+                "unitdate": {
+                    "normal": "1865/1967",
+                    "type": "inclusive",
+                    "value": "1865-1967"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.1 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in three folders"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The collection contains legal documents pertaining to property at 135 Broadway, dating from 1865 to 1870. It documents the sale of property from Fleming Duncan to James Bearns, the president of the Kings County Savings Institution, through deeds, mortgages, bonds, conveyances, and a legal abstract. "
+                },
+                "unitid": {
+                    "value": "2017.012"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_5f8e52b47ac7e2b1acb7ec6c145ab1ab",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "A0142"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_6b27d94d458ff29496d562adb0d39b32",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_e6e179ac0e81029f6f5b0a56b5d6507c",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); 135 BroadWay Property Records, 2017.012, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_fad2df1ab30683b7671aab8d2a44748d",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "The documents, as well as copies made later, were donated by Alissa Ballot in 2017."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_701cdd86c2b78e153e9f499808aef79f",
+            "head": "Biographical / Historical",
+            "p": {
+                "value": "The collection contains legal documents pertaining to land owned by the the Kings County Savings Institution at 135 Broadway. The Kings County Savings Institution was chartered in 1860, and construction began at 135 Broadway on the building that is now know as the Kings County Savings Bank the same year. Upon completion in 1867, the building was continuously operated by the Kings County Savings Institution until it went through several mergers in the 1980s, and was ultimately sold by North Side Savings Bank in the 1990s. The donor, Alissa Ballot, was the General Counsel to the North Side Savings Bank at the time of the sale of 135 Broadway, and was permitted to keep the Kings County Savings Institution documents."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_faf53b48b65cf1056fb560c06b3b5d1e",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Please note that the land is documented as the intersection of 4th Street and South 6th Street. However, while the street was historically called South 6th Street, today South 6th Street merges into Broadway. Additionally, what was historically a continuation of 4th Street is today Bedford Avenue. As a result, what would have historically been the intersection of 4th Street and South 6th Street is today the intersection of Broadway and Bedford Avenue. "
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Legal documents |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Real estate business |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Savings banks |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Mortgages |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Bonds |z New York (State) |z Kings County"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

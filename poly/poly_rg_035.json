@@ -1,0 +1,133 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "value": "poly_rg_035"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "The Morris Jacobs Papers\n                    \u003cnum\u003eRG.035\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Lindsay Anderberg"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Poly Archives at Bern Dibner Library of Science and Technology"
+                },
+                "address": {
+                    "addressline": [
+                        "Bern Dibner Library of Science and Technology",
+                        "5 MetroTech Center",
+                        "Brooklyn, New York, 11201",
+                        "646-997-3943",
+                        "dibner.library@nyu.edu"
+                    ]
+                },
+                "date": "May 16, 2017"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2017-05-17T11:49-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Poly Archives at Bern Dibner Library of Science and Technology"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Jacobs, Morris B. (Morris Boris), 1905-1965"
+                    }
+                },
+                "unittitle": {
+                    "value": "Guide to the Morris Jacobs Papers"
+                },
+                "unitdate": {
+                    "normal": "1929/1963",
+                    "type": "inclusive",
+                    "value": "1929-1963"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.0 Linear feet"
+                        },
+                        {
+                            "value": "Three 1.5 inch legal-sized manuscript boxes"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Morris Boris Jacobs (1905-1965), a chemical engineer, was an adjunct professor at the Polytechnic Institute of Brooklyn from 1946-1952. Jacobs left behind a legacy of work in pollution research, toxicology, and public health in the form of 20 textbooks, 100 research papers, 200 technical journals, and multiple patents. The collection covers active years in Jacobs's career (1929-1963) with an emphasis on the years during his work at the Polytechnic Institute of Brooklyn."
+                },
+                "unitid": {
+                    "value": "RG.035"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref7",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open for research without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "ref9",
+            "head": "Preferred Citation note",
+            "p": {
+                "value": "Identification of item, date; RG.035: Morris Jacobs Papers; box number, folder number; Poly Archives \u0026amp; Special Collections at Bern Dibner Library of Science and Technology."
+            }
+        },
+        "acqinfo": {
+            "id": "ref10",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "This collection was donated to the Poly Archives by Dr. Mark Gellis, the grandson of Dr. Morris Jacobs, in 2017."
+            }
+        },
+        "bioghist": {
+            "id": "ref4",
+            "head": "Biographical/Historical note",
+            "p": {
+                "value": "Sources: Morris B. Jacobs obituary (1965, July 14). The New York Times. Morris B. Jacobs, PhD 1905-1965 Obituary (Nov 1965). Archives of Environmental Health, Volume 11."
+            }
+        },
+        "scopecontent": {
+            "id": "ref5",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "This collection covers biographical information, including curriculum vitae, as well as bibliographies of scholarly output, articles, reports, patents, and correspondence related to publishing and patents. The collection covers active years in Jacobs's career (1929-1963) with an emphasis on the years during his work at the Brooklyn Polytechnic Institute (1946-1952)."
+            }
+        },
+        "controlaccess": {},
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref1\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries I: Biography and Writings\u003c/unittitle\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref3\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eBiographical Information\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid377001\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid377001\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref11\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eBibliography and Published and Unpublished Works\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid377002\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid377002\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate normal=\"1929/1951\" type=\"inclusive\"\u003e1929-1951\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref12\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eReports and Papers\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid377003\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid377003\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate normal=\"1941/1963\" type=\"inclusive\"\u003e1941-1963\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref13\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eReviews of Interscience Books and Jacobs Clipping\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid377004\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid377004\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate normal=\"1944/1959\" type=\"inclusive\"\u003e1944-1959\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref14\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eEncyclopedia Articles for P.F. Collier \u0026amp; Son Corporation\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid377005\" type=\"Box\" label=\"Text\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid377005\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"1947/1947\"\u003e1947\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref15\" level=\"item\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eTechnical Manual for Chemical Detection and Decontamination of Chemical Warfare Agents\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid377006\" type=\"Box\" label=\"Text\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid377006\" type=\"item\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"1951/1951\"\u003e1951\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref16\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eRoberta Jacobs Papers\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid377007\" type=\"Box\" label=\"Text\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid377007\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate normal=\"1948/1951\" type=\"inclusive\"\u003e1948-1951\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref2\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries II: Patents\u003c/unittitle\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref17\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePatent 189,065 Correspondence, 1950\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid377008\" type=\"Box\" label=\"Text\"\u003e3\u003c/container\u003e\n                        \u003ccontainer parent=\"cid377008\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"1950/1950\"\u003e1950\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref18\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePatent 189,065 Correspondence, 1951\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid377009\" type=\"Box\" label=\"Text\"\u003e3\u003c/container\u003e\n                        \u003ccontainer parent=\"cid377009\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate normal=\"1951/1951\"\u003e1951\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref19\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePatent 189,065 Correspondence, 1952\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid377010\" type=\"Box\" label=\"Text\"\u003e3\u003c/container\u003e\n                        \u003ccontainer parent=\"cid377010\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate normal=\"1952/1952\"\u003e1952\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref20\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePatent 189,065 Correspondence, 1953-1954\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid377011\" type=\"Box\" label=\"Text\"\u003e3\u003c/container\u003e\n                        \u003ccontainer parent=\"cid377011\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate normal=\"1953/1954\" type=\"inclusive\"\u003e1953-1954\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref21\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePatent 189,065 Correspondence, 1955-1956\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid377012\" type=\"Box\" label=\"Text\"\u003e3\u003c/container\u003e\n                        \u003ccontainer parent=\"cid377012\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate normal=\"1955/1956\" type=\"inclusive\"\u003e1955-1956\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref22\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePatent 189,065 Claims, Specifications, and Amendments\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid377013\" type=\"Box\" label=\"Text\"\u003e3\u003c/container\u003e\n                        \u003ccontainer parent=\"cid377013\" type=\"Folder\"\u003e6\u003c/container\u003e\n                        \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref23\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePatent 189,065 Miscellaneous Notes\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid377014\" type=\"Box\" label=\"Text\"\u003e3\u003c/container\u003e\n                        \u003ccontainer parent=\"cid377014\" type=\"Folder\"\u003e7\u003c/container\u003e\n                        \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref24\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePatent 408,596 Correspondence\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid377015\" type=\"Box\" label=\"Text\"\u003e3\u003c/container\u003e\n                        \u003ccontainer parent=\"cid377015\" type=\"Folder\"\u003e8\u003c/container\u003e\n                        \u003cunitdate normal=\"1957/1957\"\u003e1957\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref25\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePatent 416,405 Correspondence\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid377016\" type=\"Box\" label=\"Text\"\u003e3\u003c/container\u003e\n                        \u003ccontainer parent=\"cid377016\" type=\"Folder\"\u003e9\u003c/container\u003e\n                        \u003cunitdate normal=\"1956/1961\" type=\"inclusive\"\u003e1956-1961\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref26\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePatent 3,013,628 Documents\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid377017\" type=\"Box\" label=\"Text\"\u003e3\u003c/container\u003e\n                        \u003ccontainer parent=\"cid377017\" type=\"Folder\"\u003e10\u003c/container\u003e\n                        \u003cunitdate normal=\"1950/1961\" type=\"inclusive\"\u003e1950-1961\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref27\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eDonation Letter\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid377018\" type=\"Box\" label=\"Text\"\u003e3\u003c/container\u003e\n                    \u003ccontainer parent=\"cid377018\" type=\"Folder\"\u003e11\u003c/container\u003e\n                    \u003cunitdate normal=\"2017/2017\"\u003e2017\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

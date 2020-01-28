@@ -1,0 +1,152 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_2015_029_john_comyns"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the John Comyns papers\n                    \u003cnum\u003e2015.029\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Katherine Palm"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "April 2016"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2016-07-20T14:33-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "John Comyns papers"
+                },
+                "unitdate": {
+                    "normal": "1894/1894",
+                    "value": "1894"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.01 linear feet"
+                        },
+                        {
+                            "value": "in one folder"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The collection consists of a document recording the naturalization in the County Court of Kings County, New York on October 13, 1857 of John Comyns, a teenaged Irish immigrant living in Brooklyn, New York. Included are two sworn oaths and a certification by a county clerk in 1894 of the authenticity of the copy of the record."
+                },
+                "unitid": {
+                    "value": "2015.029"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1426002",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0021"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref3",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref5",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); John Comyns papers, 2015.029, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref7",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Robert Rorke, 2015."
+            }
+        },
+        "bioghist": {
+            "id": "ref8",
+            "head": "Biographical Note",
+            "p": {
+                "value": "John Comyns immigrated to the United States prior to the age of 18. He became a naturalized citizen of the United States in 1857."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "This collection consists of a document certified on December 5, 1894 by a clerk of the County Court of Kings County, New York as being a true transcript of the original record contained in his office. The document contains two oaths sworn in open court on October 13, 1857, one by Patrick Comyns regarding John Comyns' residency and character in the United States and one by John Comyns renouncing his allegiance to other states, particularly to the Queen of the United Kingdom of Great Britain and Ireland, as well as an order of the court admitting John Comyns as a citizen of the United States."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Citizenship |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "County courts |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Immigrants |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Irish Americans |z New York (State) |z Kings County"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

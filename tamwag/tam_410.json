@@ -1,0 +1,155 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_410"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Audley Moore: FOIA File (United States Federal Bureau of Investigation) \u003cnum\u003eTAM 410\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-29T20:04:31\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Audley Moore: FOIA File (United States Federal Bureau of Investigation)"
+                },
+                "unitdate": {
+                    "value": "1940s-1960s, undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Audley (Queen Mother) Moore was an African American black nationalist and communist. In the 1920s she was active in Marcus Garvey's Universal Negro Improvement Association in New York City. In 1936 she joined the Communist Party, becoming secretary of its Harlem section in 1941, and in 1942, secretary of the New York State Party organization. She left the Party in 1950, and subsequently founded the Universal Association of Ethiopian Women, In 1959 tutored the young Malcolm X, in 1963 she established a Reparations Committee to advocate compensatory payment to descendants of slaves, and in 1968 participated in the declaration of the Republic of New Africa and initiated its statement of independence. The collection contains FBI files, and documents Audley Moore's political activity and views from the 1940s through the 1960s."
+                },
+                "unitid": {
+                    "value": "TAM 410"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_3db7daac13b5b84d39fd4cf2d9e872b5",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_9582f2ef1d305fb12af8a0948fa73a0a",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_1d258976c3a232b4af3d6f3882f1fd8c",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Earl Pinto in 2007. The accession number associated with this gift is 2007.013."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_fea30794459a60aacc4c861520a5e1e5",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Audley (Queen Mother) Moore, an African American black nationalist and communist, was borh in 1898 in New Iberia, Louisiana, in 1891. In 1919 she joined Marcus Garvey's black nationalist movement, and in the 1920s, moved to New York City to work in Garvey's Universal Negro Improvement Association. In 1936 she joined the Communist Party, was active in its Harlem section, becoming its secretary in 1941, and in 1942, secretary of the New York State Party organization. In the late 1940s she began to assert the African American national question within the Party, and left the Party in 1950. In the 1950s she founded the Universal Association of Ethiopian Women, in 1959 tutored the young Malcolm X, in 1963 she established a Reparations Committee to advocate compensatory payment to descendants of slaves, and in 1968 participated in the declaration of the Republic of New Africa and initiated its statement of independence."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_6a138be8f785c56e8f9ce355904b5bdd",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The collection contains FBI files, and documents Audley Moore's political activity and views from the 1940s through the 1960s."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Women communists -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Communism -- New York (State)."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Reparations for historical injustices |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "African American communists."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Black nationalism |z United States."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Universal Association of Ethiopian Women"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref12\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eFOIA FBI Files\u003c/unittitle\u003e\u003ccontainer id=\"aspace_2586202c2d07059d2ac0192ded8d7544\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003cc id=\"aspace_ref13\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFile 100-13205 A.S.\u003c/unittitle\u003e\u003cunitdate normal=\"1941/1945\" type=\"inclusive\"\u003e1941-1945\u003c/unitdate\u003e\u003ccontainer id=\"aspace_69c16d0b729273f78d9c2967a2966d01\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_69c16d0b729273f78d9c2967a2966d01\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFile 100-13205 VCD\u003c/unittitle\u003e\u003cunitdate normal=\"1944/1945\" type=\"inclusive\"\u003e1944-1945\u003c/unitdate\u003e\u003ccontainer id=\"aspace_13d5965857bb67b418ce435c81b2ee06\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_13d5965857bb67b418ce435c81b2ee06\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFile 100-11631/1\u003c/unittitle\u003e\u003cunitdate normal=\"1945/1945\" type=\"inclusive\"\u003e1945\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e2ed4feab70b7285e2b34a2078dbd063\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e2ed4feab70b7285e2b34a2078dbd063\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFile 100-11631/2\u003c/unittitle\u003e\u003cunitdate normal=\"1944/1945\" type=\"inclusive\"\u003e1944-1945\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f87e4b4f60822122f1984e4ab5b22dc3\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f87e4b4f60822122f1984e4ab5b22dc3\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFile 100-17241/1\u003c/unittitle\u003e\u003cunitdate normal=\"1945/1945\" type=\"inclusive\"\u003eMay, 1945\u003c/unitdate\u003e\u003ccontainer id=\"aspace_67b65ccccf73a398d7849e74e1cf9089\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_67b65ccccf73a398d7849e74e1cf9089\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFile 100-17241/2\u003c/unittitle\u003e\u003cunitdate normal=\"1947/1947\" type=\"inclusive\"\u003e1947\u003c/unitdate\u003e\u003ccontainer id=\"aspace_189a078871904f581904f97d70fae77e\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_189a078871904f581904f97d70fae77e\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFile 100-12344\u003c/unittitle\u003e\u003cunitdate normal=\"1944/1944\" type=\"inclusive\"\u003e1944\u003c/unitdate\u003e\u003ccontainer id=\"aspace_27189de0568031997f03bd07fa0ec9b4\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_27189de0568031997f03bd07fa0ec9b4\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFile 12344\u003c/unittitle\u003e\u003cunitdate normal=\"1945/1945\" type=\"inclusive\"\u003e1945\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ebb23f2e355a3a75ff0e00cb558a0f5f\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ebb23f2e355a3a75ff0e00cb558a0f5f\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFile 100-HQ-61122: List of Files for Destruction\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ff92b8f269f45dde440cf1f39556fa9f\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ff92b8f269f45dde440cf1f39556fa9f\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFile 100-13205 BHB\u003c/unittitle\u003e\u003cunitdate normal=\"1945/1946\" type=\"inclusive\"\u003e1945-1946\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a750d27cfba222b99d40e03d809956fc\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_a750d27cfba222b99d40e03d809956fc\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFile 100-13205 KOB\u003c/unittitle\u003e\u003cunitdate normal=\"1946/1947\" type=\"inclusive\"\u003e1946-1947\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c8a2bda503be33443c1f70ff71c0ee2f\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_c8a2bda503be33443c1f70ff71c0ee2f\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref29\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFile 100-13205 PMC\u003c/unittitle\u003e\u003cunitdate normal=\"1945/1945\" type=\"inclusive\"\u003e1945\u003c/unitdate\u003e\u003ccontainer id=\"aspace_31e99f35fb7e23b3b4b499d308cc4259\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_31e99f35fb7e23b3b4b499d308cc4259\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref30\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFile 100-13205 DJ\u003c/unittitle\u003e\u003cunitdate normal=\"1947/1949\" type=\"inclusive\"\u003e1947-1949\u003c/unitdate\u003e\u003ccontainer id=\"aspace_6466949ba604961109e1787bf611efd6\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_6466949ba604961109e1787bf611efd6\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref31\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFile 100-13205 MLV\u003c/unittitle\u003e\u003cunitdate normal=\"1947/1949\" type=\"inclusive\"\u003e1947-1949\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7fa3751cafb63b26f40943882f57b182\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_7fa3751cafb63b26f40943882f57b182\" type=\"Folder\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref32\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFile 100-13205 NHK/1-2\u003c/unittitle\u003e\u003cunitdate normal=\"1950/1950\" type=\"inclusive\"\u003e1950\u003c/unitdate\u003e\u003ccontainer id=\"aspace_bc4d4d3314082cd7e00a71eb1fe2303e\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_bc4d4d3314082cd7e00a71eb1fe2303e\" type=\"Folder\"\u003e15\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref33\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFile 100-12069/1\u003c/unittitle\u003e\u003cunitdate normal=\"1950/1950\" type=\"inclusive\"\u003e1950\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1ac35bd9c125448a9c555ed43d4467be\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1ac35bd9c125448a9c555ed43d4467be\" type=\"Folder\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref34\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFile 100-12069/2\u003c/unittitle\u003e\u003cunitdate normal=\"1955/1955\" type=\"inclusive\"\u003e1955\u003c/unitdate\u003e\u003ccontainer id=\"aspace_cf97d7a482cad02698c7c68da7ff49c0\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_cf97d7a482cad02698c7c68da7ff49c0\" type=\"Folder\"\u003e17\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref35\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFile 100-13205 LEJ\u003c/unittitle\u003e\u003cunitdate normal=\"1951/1953\" type=\"inclusive\"\u003e1951-1953\u003c/unitdate\u003e\u003ccontainer id=\"aspace_30ff29574b6f5ade4a9096b7338ec37b\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_30ff29574b6f5ade4a9096b7338ec37b\" type=\"Folder\"\u003e18\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref36\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFile 100-13205 AJW\u003c/unittitle\u003e\u003cunitdate normal=\"1953/1955\" type=\"inclusive\"\u003e1953-1955\u003c/unitdate\u003e\u003ccontainer id=\"aspace_0a40c1dc15ab8deb5a57cdf48ac49fa5\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0a40c1dc15ab8deb5a57cdf48ac49fa5\" type=\"Folder\"\u003e19\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref37\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFile 100-3751/1-2-3\u003c/unittitle\u003e\u003cunitdate normal=\"1956/1958\" type=\"inclusive\"\u003e1958, 1958\u003c/unitdate\u003e\u003ccontainer id=\"aspace_3df3e4546d5d343000bc66b2a02a56f0\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_3df3e4546d5d343000bc66b2a02a56f0\" type=\"Folder\"\u003e20\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref38\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFile 100-3751/4\u003c/unittitle\u003e\u003cunitdate normal=\"1961/1962\" type=\"inclusive\"\u003e1961-1962\u003c/unitdate\u003e\u003ccontainer id=\"aspace_8fa070427d612e47df25a1b1a9b08269\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_8fa070427d612e47df25a1b1a9b08269\" type=\"Folder\"\u003e21\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref39\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFile 100-46185\u003c/unittitle\u003e\u003cunitdate normal=\"1962/1965\" type=\"inclusive\"\u003e1962\u003c/unitdate\u003e\u003ccontainer id=\"aspace_22997ad0aa1dd787836ace8243b29b9c\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_22997ad0aa1dd787836ace8243b29b9c\" type=\"Folder\"\u003e22\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref40\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFile: Unnumbered A\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_529aad3da567679dc4f0a54d554c7582\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_529aad3da567679dc4f0a54d554c7582\" type=\"Folder\"\u003e23\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref41\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFile: Unnumbered B\u003c/unittitle\u003e\u003cunitdate normal=\"1958/1960\" type=\"inclusive\"\u003e1958-1960\u003c/unitdate\u003e\u003ccontainer id=\"aspace_dbf18dc7cb28d54e50e42271cea0bfdb\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_dbf18dc7cb28d54e50e42271cea0bfdb\" type=\"Folder\"\u003e24\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref42\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFile: Unnumbered C\u003c/unittitle\u003e\u003cunitdate normal=\"1967/1968\" type=\"inclusive\"\u003e1967-1968\u003c/unitdate\u003e\u003ccontainer id=\"aspace_25d1359597e6216659274af03729ef34\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_25d1359597e6216659274af03729ef34\" type=\"Folder\"\u003e25\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref43\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFile: Unnumbered D\u003c/unittitle\u003e\u003cunitdate normal=\"1969/1969\" type=\"inclusive\"\u003e1969\u003c/unitdate\u003e\u003ccontainer id=\"aspace_77443b8b923d882f15b9616048ffce13\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_77443b8b923d882f15b9616048ffce13\" type=\"Folder\"\u003e26\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

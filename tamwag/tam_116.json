@@ -1,0 +1,169 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_116"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Elinor Ferry Papers \u003cnum\u003eTAM.116\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-09T19:43:15\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Ferry, Elinor"
+                    }
+                },
+                "unittitle": {
+                    "value": "Elinor Ferry Papers"
+                },
+                "unitdate": {
+                    "normal": "1952/1959",
+                    "type": "inclusive",
+                    "value": "1952-1959"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "4 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(8 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Elinor Ferry (1915-1993), journalist, labor organizer, and socialist. In the 1950s, Ferry documented the activities of Senator Joseph McCarthy, and worked to aid those who refused to testify on Fifth Amendment grounds before Congressional committees investigating Communism. The bulk of the collection consists of Ferry's files on Senator McCarthy, consisting primarily of clippings from the year 1952-1954."
+                },
+                "unitid": {
+                    "value": "TAM.116"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_f4c9fc8ee61e5b4a60c2a5ef8642bafc",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_8ce2dbe7a0f418c97e10afff0254ec67",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Elinor Ferry Papers; TAM 116; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_c052338a4fe888e513ff3b1ffa8df5a3",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Elinor Ferry, 1982. The accession number associated with this gift is 1982.012."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_317cad2e4d67502b56e6ca314ab4b9ed",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Elinor Ferry (1915-1993), journalist, labor organizer, and socialist. Ferry became a sports writer for the Hearst newspaper chain at the age of 16 and shortly after helped organize the Newspaper Guild. From there, she became an assistant to Michael Quill, head of the Transport Workers Union. In the 1950s, Ferry documented the activities of Senator Joseph McCarthy, and worked to aid those who refused to testify on Fifth Amendment grounds before Congressional committees investigating Communism. Ferry was also active in the Independent Socialist Party (ISP), which attempted to unite former Communists with other socialists, from 1958-1960. In the 1960s Ferry worked on an unpublished book-length manuscript on Whittaker Chambers and his role in the Alger Hiss case. At one time Ferry was married to George Kirstein, publisher of \u003cemph render=\"italic\"\u003eThe Nation\u003c/emph\u003e."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_59b4f76a69ed637050b792911ed7727c",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection documents Ferry's involvement in the IPS and with the First Amendment Defendants. The bulk of the collection consists of Ferry's files on Senator McCarthy, consisting primarily of clippings from the year 1952-1954. Other files contain her Whittaker Chambers typescript, research notes and correspondence."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Political crimes and offenses |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Anti-communist movements -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialism -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Communism -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Civil rights -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Women socialists -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Subversive activities |z United States |x History |y 20th century."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Socialist Workers Party"
+            }
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "alba_224"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Moses (Moe) Fishman Papers\n                    \u003cnum\u003eALBA.224\u003c/num\u003e\n                "
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-28T16:56-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Fishman, Moses (Moe), 1916-"
+                    }
+                },
+                "unittitle": {
+                    "value": "Moses (Moe) Fishman Papers"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "5.0 linear feet"
+                        },
+                        {
+                            "value": "(5 boxes)"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "ALBA.224"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "bioghist": {
+            "id": "ref2",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Moses (Moe) Fishman was born in New York City in 1915. He dropped out of high school and later worked in a laundry and driving a truck. He joined the Young Communist League and became involved in anti-fascist activity in the mid-1930s. In 1937 he volunteered to fight in Spain with the Abraham Lincoln Brigade, taking part in the Brunete offensive, where he was severely wounded when a sniper's bullet shattered his thigh. He spent the next three years in and out of hospitals in Spain and the U.S. He had recovered sufficiently to serve in the Merchant Marine in World War II. After the War he returned to New York and became active in aiding Spanish refugees, and took over as Secretary-Treasurer (later Secretary) of the Veterans of the Abraham Lincoln Brigade (VALB) in 1950, when the organization was labeled \"subversive\" by the Attorney General's office (after a strenuous legal battle, the label was removed in the 1970s). He remained a political activist and kept his post with VALB until his death in 2007."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The collection consists mostly of material accumulated by Moe Fishman during his many years as Secretary of the Veterans of the Abraham Lincoln Brigade. It includes incoming correspondence from Lincoln Brigade veterans and others, among them representatives of veterans' organizations in Spain and elsewhere in Europe. Also included are clippings, pamphlets, memorabilia and photographs (many of them related to gatherings of Spanish Civil War veterans), three letters written by Fishman to Howard Leder(?) during his service in Spain, and some family papers. Also in the collection is a small body of papers and photographs belonging to Lincoln Brigade veteran, Court Bevensee; these were entrusted to Fishman, apparently at the time of Bevensee's death."
+            }
+        },
+        "dsc": {}
+    }
+}

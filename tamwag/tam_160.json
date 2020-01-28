@@ -1,0 +1,156 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_160"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Preliminary Inventory to the Murray Bookchin Papers \u003cnum\u003eTAM 160\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff, 2009"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-08-13T19:26:18\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Murray Bookchin Papers"
+                },
+                "unitdate": {
+                    "normal": "1950/2003",
+                    "type": "inclusive",
+                    "value": "1950-2003"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "17.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 18 boxes"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Murray Bookchin (January 14, 1921-July 30, 2006) was a libertarian socialist, political philosopher, speaker and writer. The founder of the social ecology movement within libertarian socialist and ecological thought, Bookchin is noted for his synthesis of the anarchist tradition with modern ecological awareness. He was the author of two dozen books on politics, philosophy, history, and urban affairs as well as ecology. The collection contains correspondence, unpublished writings (including essays and manuscripts of unpublished and published books), published writings, including translations of Bookchin's books, Green movement periodicals, reviews of Bookchin's books, printed ephemera and documents related to the Left Green Network, the Burlington, Vermont Greens, and other Green movements, including those in Europe, course outlines, and photographs."
+                },
+                "unitid": {
+                    "value": "TAM 160"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_f0242992f2bec5f5bf2c130f03c8e0a1",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_678827b6085a3a132f49d364a44a43fd",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: \u003clb/\u003e\u003clb/\u003eIdentification of item, date; Murray Bookchin Papers; TAM 160; box number; folder number; \u003clb/\u003eTamiment Library/Robert F. Wagner Labor Archives \u003clb/\u003eElmer Holmes Bobst Library \u003clb/\u003e70 Washington Square South \u003clb/\u003eNew York, NY 10012, New York University Libraries."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_7e9c0820d7d0934acb4da937449b70f0",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Gift of Murray Bookchin and Janet Biehl in 2003; additional materials were sent by Janet Biehl in 2006 and 2014. The accession numbers associated with these gifts are 2003.002, 2003.005, and 2015.003."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_cf64de41ec7081ba3919b13c1f7e8179",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "For additional information, see: \nhttp://dwardmac.pitzer.edu/anarchist_archives/bookchin/Bookchinarchive.html"
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_1e9587fc8826b9ab14c39d53fa640788",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "\u003cemph render=\"bold\"\u003eNOTE: This collection is stored offsite and advance notice is required for use.\u003c/emph\u003e"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Anarchism."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Communalism."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Social ecology."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Green movement."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Communism."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Left Green Network (U.S.)"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref14\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: Preliminary Inventory, 1950s-2003\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref15\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMurray Bookchin: Essay Manuscripts (1 of 3)\u003c/unittitle\u003e\u003cunitdate normal=\"1950/1994\" type=\"inclusive\"\u003e1950s-1994\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9012acc3ee17305ae9048b6e30543111\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMurray Bookchin: Essay Manuscripts (2 of 3)\u003c/unittitle\u003e\u003cunitdate normal=\"1950/1994\" type=\"inclusive\"\u003e1950s-1994\u003c/unitdate\u003e\u003ccontainer id=\"aspace_8c44277102f1fe27957b5061bd405b5c\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMurray Bookchin: Essay Manuscripts (3 of 3)\u003c/unittitle\u003e\u003cunitdate normal=\"1950/1994\" type=\"inclusive\"\u003e1950s-1994\u003c/unitdate\u003e\u003ccontainer id=\"aspace_dd0080d6ee36c40e868626deb4c8d39e\" label=\"Mixed Materials\" type=\"Box\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBurlington (Vermont) Greens and New England Greens Materials\u003c/unittitle\u003e\u003cunitdate normal=\"1950/2003\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9e6eecd18d66062acc0260c1294548bb\" label=\"Mixed Materials\" type=\"Box\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLeft Green Network; Social Ecology (international)\u003c/unittitle\u003e\u003cunitdate normal=\"1950/2003\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f47d243b743d7b392c7bf648bb0b0c95\" label=\"Mixed Materials\" type=\"Box\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMurray Bookchin: Book Manuscripts: Urbanization, Remaking Society (partial), Ecology of Freedom, John Ely Interview. Periodicals: Left Green Perspectives, Comment, Harbinger\u003c/unittitle\u003e\u003cunitdate normal=\"1950/2003\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_cbe35e27fe19d83ba68f3c75fac7e25c\" label=\"Mixed Materials\" type=\"Box\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eEuropean Greens Materials\u003c/unittitle\u003e\u003cunitdate normal=\"1950/2003\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_21b2d6bf06397be1f829c7b2e90626a5\" label=\"Mixed Materials\" type=\"Box\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence, Incoming\u003c/unittitle\u003e\u003cunitdate normal=\"1950/1993\" type=\"inclusive\"\u003e1950s-1993\u003c/unitdate\u003e\u003ccontainer id=\"aspace_184b5c61b5ff1aa789fe1d191d6c0325\" label=\"Mixed Materials\" type=\"Box\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMurray Bookchin: Books Translated into Other Languages (1 of 2)\u003c/unittitle\u003e\u003cunitdate normal=\"1950/2003\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e3f1ae94c70eb81ac82ab6a7d3216661\" label=\"Mixed Materials\" type=\"Box\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMurray Bookchin: Books Translated into Other Languages (2 of 2)\u003c/unittitle\u003e\u003cunitdate normal=\"1950/2003\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_6347f00583ee7a606f9b53c0c0c7f031\" label=\"Mixed Materials\" type=\"Box\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMurray Bookchin: Books Not Previously Owned by Tamiment; Periodicals and Anthologies to which MB Contributed\u003c/unittitle\u003e\u003cunitdate normal=\"1950/2003\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_fe3b8adeffd56dd5fd37df3c9c35275c\" label=\"Mixed Materials\" type=\"Box\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref26\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMurray Bookchin: Books Not Previously Owned by Tamiment; Periodicals and Anthologies to which MB Contributed.\u003c/unittitle\u003e\u003cunitdate normal=\"1950/2003\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1328e74b1142a78c33ea6b5ddad62c95\" label=\"Mixed Materials\" type=\"Box\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence, Incoming (1994-2003); Reviews of Bookchin's Books; Articles about Bookchin; \"Deep Ecology\" fight materials\u003c/unittitle\u003e\u003cunitdate normal=\"1994/2003\" type=\"inclusive\"\u003e1994-2003 , undated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1356b63b6dd452ffe9e48c347b92f408\" label=\"Mixed Materials\" type=\"Box\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref28\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePolitics of Cosmology (unpublished Bookchin ms.); Bookchin's Early Notebooks; Course Outlines\u003c/unittitle\u003e\u003cunitdate normal=\"1950/2003\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_754cafb16495d3df47c4b6954888b249\" label=\"Mixed Materials\" type=\"Box\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref29\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eArticles about Bookchin, remainder, 1993-2003 (see also Box 13); Several More Book Manuscripts.\u003c/unittitle\u003e\u003cunitdate normal=\"1993/2003\" type=\"inclusive\"\u003e1993-2003 , undated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_abadcb38c35d34f68bcbd762b4283afd\" label=\"Mixed Materials\" type=\"Box\"\u003e15\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref30\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eUnpublished Manuscripts; Handwritten Manuscripts\u003c/unittitle\u003e\u003cunitdate normal=\"1950/2003\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_3dbe3355357546964da224ed02278184\" label=\"Mixed Materials\" type=\"Box\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref31\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence and Part of an Unpublished Manuscript.  \u003c/unittitle\u003e\u003cunitdate normal=\"1980/1999\" type=\"inclusive\"\u003e1980s-1990s\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4f032a55dbbc28ee63015843e549b401\" label=\"Mixed Materials\" type=\"Box\"\u003e17\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_657490e4bdc1f172efb31686dca34a34\"\u003e\u003chead\u003eScope and Content Note\u003c/head\u003e\u003cp\u003eThe manuscript is a later version of Part 1 of The Politics of Cosmology than that located in Box 14 in these Papers; it has extensive hand-written copy-editing and proofreading corrections on it.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref37\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFBI/FOIA Correspondence and Documents; Mailing List for \u003ctitle render=\"italic\"\u003eComment\u003c/title\u003e Newsletter; Photographs\u003c/unittitle\u003e\u003cunitdate\u003e1920s-1980s\u003c/unitdate\u003e\u003ccontainer id=\"aspace_06aef36b4919389d496e448b92fe5aea\" label=\"Text\" type=\"Box\"\u003e18\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_ebd0597b6f2c81757414ebac69962935\"\u003e\u003chead\u003eScope and Content Note\u003c/head\u003e\u003cp\u003ePhotographs include what appears to be a portrait of Bookchin as a child, a portrait of him in the military (perhaps circa 1940s), various shots of him circa the 1960s-1980s, and a portrait of two women, circa 1950s, probably family members.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

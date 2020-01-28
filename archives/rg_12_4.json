@@ -1,0 +1,134 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "rg_12_4"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Records of the Office of the Registrar \u003cnum\u003eRG.12.4\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Megan O'Shea"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "2nd Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2596",
+                        "special.collections@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-12-18T14:37:07\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "Creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Ladue, Pomeroy"
+                    }
+                },
+                "unittitle": {
+                    "value": "Records of the Office of the Registrar"
+                },
+                "unitdate": {
+                    "normal": "1832/1916",
+                    "type": "inclusive",
+                    "value": "1832-1916"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "4.4 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 18 custom boxes"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Office of the Registrar is responsible for the integrity of academic policies, the student information system and student records from application to degree conferral.  The office works to protect and preserve the academic records of New York University's students and to provide a framework for students to navigate the academic process.  The Records of the Office of the Registrar consist of 18 handwritten ledgers dating between 1832 and 1916.  The majority of the ledgers track applications for admission, student matriculation, class rolls, grades, and citations for meritorious conduct."
+                },
+                "unitid": {
+                    "value": "RG.12.4"
+                },
+                "langmaterial": {}
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_fae87a7445918c65f843ea5de26d3e2a",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_2bc8acc41e100daa450e1ea3af8353d7",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Records of the Office of the Registrar; RG 12.4; box number; folder number; New York University Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_fb3a59dd7aceb7c3ece2b4ae865be8ae",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials found in collection; there is no documentation concerning the provenance of these materials.  The accession numbers associated with this collection are 90.020 and 2019.113."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_ca1fcc5544682b5b772c7efb9e75ba5b",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Records of the Office of the Registrar comprise handwritten ledgers dating between 1832 and 1916. The majority of the ledgers track applications for admission, student matriculation, class rolls, grades, and citations for meritorious conduct.  A scrapbook compiled by the college's first registrar, Leslie J. Tompkins, documents the construction of and repairs to several buildings on the Heights Campus; endowments, scholarships, and prizes granted to students; commencement and lecture programs; and annual reports from the Treasurer's and the Registrar's offices.  One volume lists officers and platoons, possibly in an early campus security organization; roll calls and lists of officers sent on patrol; and entries documenting arrests.  One volume consists of a letterbook, containing letters written by  J. J. Stevenson as registrar and Pomeroy Ladue as secretary regarding admission, coursework, and commencement in the graduate school in the 1890s."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Universities and Colleges -- Admission."
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref2\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMatriculation Book\u003c/unittitle\u003e\u003cunitdate normal=\"1832/1843\" type=\"inclusive\"\u003e1832-1843\u003c/unitdate\u003e\u003ccontainer altrender=\"Custom drop spine box 8.75 x 13.75\" id=\"aspace_3c32609dfd696a59b86de3cfbf197f68\" label=\"Mixed Materials [31142063063732]\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref4\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMatriculation Books\u003c/unittitle\u003e\u003cunitdate normal=\"1853/1909\" type=\"inclusive\"\u003e1853-1909\u003c/unitdate\u003e\u003ccontainer altrender=\"Custom drop spine box\" id=\"aspace_723626ef7c4154d75d9b9d99c9859dab\" label=\"Mixed Materials [31142062901866]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref8\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eClass Merit Book\u003c/unittitle\u003e\u003cunitdate normal=\"1835/1888\" type=\"inclusive\"\u003e1835-1888\u003c/unitdate\u003e\u003ccontainer altrender=\"Upright Volume 1.75\u0026quot; wide (any dimensions up to 12\u0026quot; x 16\u0026quot;)\" id=\"aspace_7249ea3ab27ad154561a2f8413826dce\" label=\"Mixed Materials [31142062841575]\" type=\"Box\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref10\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRecords of Grades, Department of Arts and Science\u003c/unittitle\u003e\u003cunitdate normal=\"1884/1894\" type=\"inclusive\"\u003e1884-1894\u003c/unitdate\u003e\u003ccontainer altrender=\"Custom Drop Spine Box - 17.25 x 12.25\" id=\"aspace_675ac5de5b082fa21fdfbf52c64a2e85\" label=\"Mixed Materials [31142062841625]\" type=\"Box\"\u003e15\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref12\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRecord Book, University College\u003c/unittitle\u003e\u003cunitdate normal=\"1886/1894\" type=\"inclusive\"\u003e1886-1894\u003c/unitdate\u003e\u003ccontainer altrender=\"Custom Box - 10.75 x 14.25\" id=\"aspace_11d3decec7a232c7e226d31d18d6e294\" label=\"Mixed Materials [31142063063740]\" type=\"Box\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRecord Book, University College\u003c/unittitle\u003e\u003cunitdate normal=\"1895/1897\" type=\"inclusive\"\u003e1895-1897\u003c/unitdate\u003e\u003ccontainer altrender=\"Custom drop spine box 2x15.25x10\" id=\"aspace_f2129a8a2a6a3b81e80fbf14b4c373f7\" label=\"Mixed Materials [31142063063724]\" type=\"Box\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRecords of Grades, University College\u003c/unittitle\u003e\u003cunitdate normal=\"1890/1902\" type=\"inclusive\"\u003e1890-1902\u003c/unitdate\u003e\u003ccontainer altrender=\"Custom drop spine box\" id=\"aspace_b185f7b96b7e35ee5bf13c949d8a78a8\" label=\"Mixed Materials [31142062901833]\" type=\"Box\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRecords of Grades, School of Applied Science, Volume I\u003c/unittitle\u003e\u003cunitdate normal=\"1900/1909\" type=\"inclusive\"\u003e1900-1909\u003c/unitdate\u003e\u003ccontainer altrender=\"Custom Box - 17 x 3.25 x 12.5\" id=\"aspace_c9964c950c46f4c2952fce8e853d75d7\" label=\"Mixed Materials [31142062901874]\" type=\"Box\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRecords of Grades, University College\u003c/unittitle\u003e\u003cunitdate normal=\"1900/1909\" type=\"inclusive\"\u003e1900-1909\u003c/unitdate\u003e\u003ccontainer altrender=\"Custom Box - 17 x 3.25 x 12.5\" id=\"aspace_28f76c294a6f73a0573ff6915acab654\" label=\"Mixed Materials [31142062901858]\" type=\"Box\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRecords of Grades, School of Applied Science, Volume II\u003c/unittitle\u003e\u003cunitdate normal=\"1907/1909\" type=\"inclusive\"\u003e1907-1909\u003c/unitdate\u003e\u003ccontainer altrender=\"Custom Box - 17 x 3.25 x 12.5\" id=\"aspace_d442a77058541b63a0bde9bf2071c392\" label=\"Mixed Materials [31142062901841]\" type=\"Box\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRecords of Actions on Applications for Admission\u003c/unittitle\u003e\u003cunitdate normal=\"1896/1900\" type=\"inclusive\"\u003e1896-1900\u003c/unitdate\u003e\u003ccontainer altrender=\"Upright Volume 1\u0026quot; wide (any dimensions up to 12\u0026quot; x 16\u0026quot;)\" id=\"aspace_d88a26d67eb593d77b1be81f778da8ff\" label=\"Mixed Materials [31142062841591]\" type=\"Box\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref34\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRegistrar's File\u003c/unittitle\u003e\u003cunitdate normal=\"1896/1904\" type=\"inclusive\"\u003e1896-1904\u003c/unitdate\u003e\u003ccontainer altrender=\"Upright Volume 3\u0026quot; wide (any dimensions up to 12\u0026quot; x 16\u0026quot;) [12d, 16h, 3w inches] extent measured by width\" id=\"aspace_a132e12ee098edec00717299b931fed6\" label=\"Mixed Materials [31142062841583]\" type=\"Box\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_c9a56d61953bd2b454c6776ae3368f46\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLetterbook of Registrar of the Graduate School\u003c/unittitle\u003e\u003cunitdate normal=\"1890/1897\" type=\"inclusive\"\u003e1890-1897\u003c/unitdate\u003e\u003ccontainer altrender=\"Upright Volume 2\u0026quot; wide (any dimensions up to 12\u0026quot; x 16\u0026quot;)\" id=\"aspace_a4493b530be49507955e53f587ce368e\" label=\"Mixed Materials [31142062841609]\" type=\"Box\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_8ff16156c1d9f3de9af36f17cd62fb6a\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAttendance books\u003c/unittitle\u003e\u003cunitdate normal=\"1881/1891\" type=\"inclusive\"\u003e1881-1891\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter - Half\" id=\"aspace_20b759e86f96339f716bfcdf690a3f80\" label=\"Mixed Materials [31142062841617]\" type=\"Box\"\u003e14\u003c/container\u003e\u003ccontainer parent=\"aspace_20b759e86f96339f716bfcdf690a3f80\" type=\"Folder\"\u003e1-2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ad40c727728bb51054200716bbcd2566\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eList of Students with Addresses and Activities\u003c/unittitle\u003e\u003cunitdate normal=\"1895/1903\" type=\"bulk\"\u003e1895-1903\u003c/unitdate\u003e\u003ccontainer altrender=\"Upright Volume 1.5\u0026quot; wide (any dimensions up to 12\u0026quot; x 16\u0026quot;)\" id=\"aspace_53f23d838b12065bd9bc3084f0660d06\" label=\"Mixed Materials [31142063063757]\" type=\"Box\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_d047924415883fdd41ba70ace0927c5d\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eColumbian Exposition Register of signatures of members of the University of the City of New York\u003c/unittitle\u003e\u003cunitdate normal=\"1893/1893\"\u003e1893\u003c/unitdate\u003e\u003ccontainer altrender=\"Upright Volume 1.25\u0026quot; wide (any dimensions up to 12\u0026quot; x 16\u0026quot;)\" id=\"aspace_2139f0a18c2580d3d6dbf4b2ea63c8d6\" label=\"Mixed Materials [31142063063765]\" type=\"Box\"\u003e17\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_70032399cd25a38e9216e145b231d5a3\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eStudent rolls from University College and School of Applied Science\u003c/unittitle\u003e\u003cunitdate normal=\"1905/1916\" type=\"inclusive\"\u003e1905-1916\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter - Half\" id=\"aspace_de0659d545d8909fd811ff21e45e5125\" label=\"Mixed Materials [31142062841617]\" type=\"Box\"\u003e14\u003c/container\u003e\u003ccontainer parent=\"aspace_de0659d545d8909fd811ff21e45e5125\" type=\"Folder\"\u003e3-6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_676595b908ca575a95d6c6d62162ae7b\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNew York University Ledger\u003c/unittitle\u003e\u003cunitdate normal=\"1870/1871\" type=\"bulk\"\u003e1870-1871\u003c/unitdate\u003e\u003ccontainer altrender=\"Custom drop spine box 16 x 11\" id=\"aspace_d0f48a5f718c308a9e29863e504f492c\" label=\"Mixed Materials [31142062901882]\" type=\"Box\"\u003e18\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_7defc94f636ff36e5a0ee802eeaa247b\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFaculty of Applied Science Students on Probation\u003c/unittitle\u003e\u003cunitdate normal=\"1908/1909\" type=\"inclusive\"\u003e1908-1909\u003c/unitdate\u003e\u003ccontainer altrender=\"Upright Volume 1.25\u0026quot; wide (any dimensions up to 12\u0026quot; x 16\u0026quot;)\" id=\"aspace_b22fe2487d942f550673fedeb6cd1eb8\" label=\"Mixed Materials [31142062901890]\" type=\"Box\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

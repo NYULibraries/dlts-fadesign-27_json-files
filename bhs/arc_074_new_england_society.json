@@ -1,0 +1,163 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "arc_074_new_england_society"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the New England Society in the City of Brooklyn records \u003cnum\u003eARC.074\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "Brooklyn Historical Society",
+                        "128 Pierrepont Street",
+                        "Brooklyn 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-11-07T19:25:08\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "New England Society in the City of Brooklyn records"
+                },
+                "unitdate": {
+                    "normal": "1880/1916",
+                    "type": "bulk",
+                    "value": "1880-1916"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "6.76 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in eleven manuscript boxes, two record cartons, and one loose scrapbook."
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The New England Society in the City of Brooklyn was a social, historical, and charitable organization incorporated in 1880 in response to the growing number of New Englanders residing in Brooklyn.  The Society's records consist of correspondence, membership lists and files, ephemera, financial records, and reports and minutes spanning the period 1880 to 1981, with the bulk of the items dating from 1880 to 1916.  The collection touches upon all functions of the Society, including its administrative and financial operations, membership, annual social events, and charitable activities."
+                },
+                "unitid": {
+                    "value": "ARC.074"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_c8bd984c18bceccad1241fbf302db9e0",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "ARC.074 9 of 14"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_7a685a0a1a69e04c9d69d3361b417ed2",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_5fb8098a49e058c6beffcb694eb09a14",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); New England Society in the City of Brooklyn records, ARC.074, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_411e41bb9a1bb5e22fd16f1831ea882f",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Portions of this collection were the gifts of the New England Society in the City of Brooklyn, 1968, and John Morrell, date unknown.  Sources and dates of acquisition for remaining items in the collection are unknown."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_aca9457bad02176cbb18628202a83059",
+            "head": "Historical Note",
+            "p": {
+                "value": "The mid-20th century presented a wealth of obstacles to the continued existence of the Society, including the Great Depression of the 1930s, World War II in the 1940s, and Manhattan's dominant role in the transformation of New York City into one of the world's financial and cultural meccas throughout the 1950s and 1960s.  This latter development resulted in several of the Society's members' lives revolving more around Manhattan than Brooklyn.  Despite several recommendations throughout the mid-20th century from members of the board that the Society merge with its sibling association in Manhattan (the New England Society in the City of New York), the majority of the Society's members repeatedly elected to remain independent, and the Society would yet again persist, continuing to hold social events, donate funds to several patriotic causes, and contribute funds to the study of New England history at several Brooklyn cultural institutions.  It was its role as a benefactor for deserving college students, however, that would become the Society's most renowned function.  As a result of secure financial assets brought on by an increase in membership during the 1970s, by 1983 the Society had paid the tuition of nine Brooklyn and Long Island students at several colleges and universities throughout the New England region.  As of 2010, despite membership being lower than in previous decades, the Society continues to carry out its honored traditions."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_fc4d800758a45285ac7b789f973c9a77",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The New England Society in the City of Brooklyn records consist of materials spanning the period 1880 to 1981, with the bulk dating from 1880 to 1916.  The collection touches upon all functions of the Society, including its administrative and financial operations, membership, annual social events, and charitable activities.  Due to the varied nature of the materials, the collection has been arranged into six series:"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Genealogy"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "History |x Societies, etc."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Charities |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Patriotic societies |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Clubs -- New York (State) -- Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "New England Society in the City of Brooklyn"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref13_din\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries 1: Correspondence\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"2285\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e2285\u003c/unitid\u003e\u003cunitdate\u003e1880-1899, 1908-1912\u003c/unitdate\u003e\u003cphysdesc id=\"aspace_4afe647300493dfb0fbf1448823af461\"\u003ein two manuscript boxes.\u003c/physdesc\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_01eb2c5f69f579399ac9d85a978433e0\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThis series is contained in Boxes 1 and 2 and consists of letters and documents exchanged or shared among members of the Society, as well as between the Society and other organizations.  Items are arranged alphabetically by organization or author last name.  Though the series spans the periods of 1880 to 1899 and 1908 to 1912, the majority of the items date from the former period.  Many materials pertain to issues of the Society's membership, including payments, dues, applications, elections, resignations, solicitations for membership, and appointments of Society members to various positions.  Other items include receipts, accounts, announcements of annual dinners and meetings, and acknowledgements from libraries throughout New England and New York State regarding gifts from the Society.  Many distinguished individuals from the Society's history are represented in this series, including its first two Presidents, Benjamin D. Silliman and John Winslow, Secretary Thomas S. Moore, Treasurer Charles N. Manchester, and Treasurer Franklin W. Hooper.  Other items of interest include those pertaining to the Society's raising of funds toward the creation of a marble bust of Silliman, and those surrounding the financial scandal involving the embezzlement of Society funds by clerk Herbert Owen, which resulted in Treasurer Hooper's resignation.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15_132\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries 2: Membership\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"2286\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e2286\u003c/unitid\u003e\u003cphysdesc altrender=\"whole\"\u003e\u003cextent altrender=\"materialtype spaceoccupied\"\u003e0.42 Linear Feet\u003c/extent\u003e\u003cextent altrender=\"carrier\"\u003ein two manuscript boxes.\u003c/extent\u003e\u003c/physdesc\u003e\u003cunitdate\u003e1880-1896, 1911-1914, 1905-1939\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_9ab425bc2ee32bea652e0543aad19a38\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThis series is contained in Boxes 2 and 3 and consists of items solely pertaining to all aspects of the Society's membership.  Items include further correspondence, member lists complete with applicable dues, member files, applications, nominations, notices, checks and payments, and resignations.  Many materials in this series contain genealogical information on the Society's members.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17_mmn\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries 3: Event material and ephemera\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"2287\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e2287\u003c/unitid\u003e\u003cphysdesc altrender=\"whole\"\u003e\u003cextent altrender=\"materialtype spaceoccupied\"\u003e0.42 Linear Feet\u003c/extent\u003e\u003cextent altrender=\"carrier\"\u003ein two manuscript boxes.\u003c/extent\u003e\u003c/physdesc\u003e\u003cunitdate\u003e1882-1896, 1908-1916, 1930, 1945, 1978\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_16548706cdfc48110680540326ab57af\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThis series is contained in Boxes 3 and 4 and consists of a wide variety of materials concerning the annual and special events held by the Society, including dinners, festivals, receptions, meetings, and lectures.  Items include an autograph book from the Society's First Annual Dinner in December of 1880 (containing the signatures of United State President Rutherford B. Hayes, Brooklyn clergyman Henry Ward Beecher, and other eminent figures), invitations, announcements, programs, menus, tickets, souvenir booklets, business and calling cards, seating charts, lecture schedules, and pamphlets.  Also included are a variety of printed literature and advertisements from other New England and New York businesses and historical and cultural institutions (i.e., the Harvard Law School Association; the Boston Congregational Society; the National Society of New England Women; Union College of Schenectady, N.Y.; the First Church of Plymouth, MA; and the the Connecticut Congregational Club) concerning events or issues to which the Society was connected.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18_cnn\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries 4: Financial records\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"2288\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e2288\u003c/unitid\u003e\u003cphysdesc altrender=\"whole\"\u003e\u003cextent altrender=\"materialtype spaceoccupied\"\u003e1.35 Linear Feet\u003c/extent\u003e\u003cextent altrender=\"carrier\"\u003ein four manuscript boxes.\u003c/extent\u003e\u003c/physdesc\u003e\u003cunitdate\u003e1880-1909, 1913-1925, 1945-1981\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_b945761510413415ccb344b559e77ec2\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThis series is contained in Boxes 4 through 7 and contains materials recording financial transactions, expenditures, accounts, member payments, and other matters throughout the period 1880 to 1981.  Items include statements and financial reports; check books; receipts and bills; a cash book; account books; voucher books; bank and financial statements; bills; stock confirmations; deposit tickets, receipts, and forms; checks; and securities bought and sold.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19_97s\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries 5: Administrative records\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"2289\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e2289\u003c/unitid\u003e\u003cphysdesc altrender=\"whole\"\u003e\u003cextent altrender=\"materialtype spaceoccupied\"\u003e3.05 Linear Feet\u003c/extent\u003e\u003cextent altrender=\"carrier\"\u003ein five manuscript boxes, one record carton, and one loose scrapbook.\u003c/extent\u003e\u003c/physdesc\u003e\u003cunitdate normal=\"1880/1967\" type=\"inclusive\"\u003e1880-1967\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_a9e4863697115156e7e2aa11d9fbcf81\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThis series is contained in Boxes 7 through 11, as well as one record carton, and consists of administrative materials produced from various Society activities from 1880 to 1963 and 1966 to 1967, including meetings of the Board of Directors and special committees.  Items include an assortment of committee reports, certificates of incorporation, speech transcripts, and minutes; minute books; annual reports; Society anniversary books; and pamphlets containing the Society's bylaws and membership rosters.  There is also a loose oversize volume of additional meeting minutes that is housed separately from the rest of the collection.\u003c/p\u003e\u003cp\u003eThe series also includes a small number of items pertaining to the Society's neighboring association, the New England Society in the City of New York, for the years 1892, 1929, and 1930.  These include annual reports and a pamphlet containing the Society's constitution, by-laws, and register.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref28_1g8\" level=\"collection\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries 6: Brooklyn Society of New England Women scrapbooks\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"6668\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e6668\u003c/unitid\u003e\u003cphysdesc altrender=\"whole\"\u003e\u003cextent altrender=\"materialtype spaceoccupied\"\u003e1 Linear Feet\u003c/extent\u003e\u003cextent altrender=\"carrier\"\u003ein one record carton.\u003c/extent\u003e\u003c/physdesc\u003e\u003cunitdate\u003ecirca 1905-1960\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_b6a7ee9754b56f293999bd0e49f362f0\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThis series contains four scrapbooks of the Brooklyn Society of New England Women, with whom the New England Society frequently associated.  The scrapbooks contain a variety of ephemera, mainly clipping and programs, documenting the activities of the Society of New England Women and its relation to the New England Society.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e"
+        }
+    }
+}

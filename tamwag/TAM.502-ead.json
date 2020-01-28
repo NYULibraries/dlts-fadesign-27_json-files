@@ -1,0 +1,142 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "tam_502"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Preliminary Inventory to the Andree Aelion Brooks Research Files on Bluet Rabinoff\n                    \u003cnum\u003eTAM.502\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T19:48-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Brooks, Andree Aelion"
+                    }
+                },
+                "unittitle": {
+                    "value": "Andree Aelion Brooks Research Files on Bluet Rabinoff"
+                },
+                "unitdate": {
+                    "normal": "1920/2009",
+                    "type": "inclusive",
+                    "value": "ca. 1920-ca.2009"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.5 linear feet"
+                        },
+                        {
+                            "value": "(2 boxes)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Andree Aelion Brooks (http://www.andreeaelionbrooks.com/) is a journalist, lecturer and author, including the book \n                \u003cemph render=\"italic\"\u003eRussian Dance: A True Story of Intrigue and Passion in Stalinist Moscow\u003c/emph\u003e (2004), concerning Bluet Rabinoff (d. 1976) an American Jewish woman who lived in the Soviet Union in the late 1920s-early 1930s. The collection consists principally of research materials for this book, including FOIA material, copies of documents from varios repositories, printed material, correspondence from Moscow, an autobiographical typescript by Bluet Rabinoff, and the author's corresponence with Rabinoff."
+                },
+                "unitid": {
+                    "value": "TAM.502"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid19018001",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1-2"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref7",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open for research without restrictions."
+            }
+        },
+        "bioghist": {
+            "id": "ref10",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Andree Aelion Brooks (http://www.andreeaelionbrooks.com/) is a journalist, lecturer and author, including of \n                \u003cemph render=\"italic\"\u003eRussian Dance: A True Story of Intrigue and Passion in Stalinist Moscow\u003c/emph\u003e (2004), concerning Bluet Rabinoff (d. 1976) an American Jewish woman and the wife of Max Rabinoff, the foremost ballet and opera impresario of the 1920s, who had fallen in love with a Jewish Bolshevik spy named Marc Cheftel, and with whom she lived in the Soviet Union in the late 1920s-early 1930s. While Rabinoff returned to the U.S., Chaftel perished in one of the periodical Soviet wave of purges."
+            }
+        },
+        "scopecontent": {
+            "id": "ref11",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The collection consists principally of research materials for \n                \u003cemph render=\"italic\"\u003eRussian Dance: A True Story of Intrigue and Passion in Stalinist Moscow\u003c/emph\u003e (2004), concerning Bluet Rabinoff (d. 1976) an American Jewish woman who lived in the Soviet Union in the late 1920s-early 1930s, and includes FOIA (U.S. Freedom of Information Act) material, copies of documents from various repositories, printed material, correspondence from Moscow, an autobiographical typescript by Bluet Rabinoff, and the author's corresponence with Rabinoff."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Americans |z Soviet Union |v Biography."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Dance |z Soviet Union."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Espionage, Soviet |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Jewish radicals |z New York (State) |z New York |v Biography."
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

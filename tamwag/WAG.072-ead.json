@@ -1,0 +1,126 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "wag_072"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Morton Schutz Papers\n                    \u003cnum\u003eWAG.072\u003c/num\u003e\n                "
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T21:00-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Schutz, Morton, 1911-"
+                    }
+                },
+                "unittitle": {
+                    "value": "Morton Schutz Papers"
+                },
+                "unitdate": {
+                    "normal": "1945/1959",
+                    "type": "inclusive",
+                    "value": "1945-1959"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.5 linear feet"
+                        },
+                        {
+                            "value": "(2 boxes)"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "WAG.072"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "bioghist": {
+            "id": "ref2",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "In 1989 he gained access to approximately 100 of the 494 pages of information on him that had been gathered by the Federal Bureau of Investigation. All substantive information had been censored. However, he did discover that he had been under constant surveillance from 1958 to 1964 and there after until 1971 a \"tickler\" had been placed upon him so that he was checked up on every six months. He also discovered that the New York F.B.I. had requested permission from the main Bureau in the Washington D.C. to interview him, but this request had been denied."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The papers contain typewritten correspondence, publications, bulletins and flyers dating from 1945 to 1958. The papers highlight the grievances of government employees and their struggle for better working conditions against the backdrop of the 1950s in America, where Cold-War and anti-labor politics was having a profound"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Labor unions |z New York (State) |z New York |x Elections."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor unions |z New York (State) |z New York |x Organizing."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor unions |z New York (State) |z New York |x Political activity."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Postal service |x Employees |x Labor unions |z United States."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Railway Mail Association (U.S.)."
+            }
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,168 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-F",
+            "value": "origin"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Origin Archive\u003clb/\u003e\u003cdate calendar=\"gregorian\" era=\"ce\"\u003e1951-1968\u003c/date\u003e\u003clb/\u003e\u003cnum\u003eMSS 021\u003c/num\u003e \u003cnum\u003eMSS.021\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Processed by: Amber Creger, February 1999"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Fales Library and Special Collections"
+                },
+                "address": {
+                    "addressline": [
+                        "Fales Library and Special Collections",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "3rd Floor",
+                        "New York, NY 10012",
+                        "Phone: (212) 998-2596",
+                        "fales.library@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-06-14T15:57:17\u003c/date\u003e"
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Fales Library and Special Collections"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Origin Archive"
+                },
+                "unitdate": {
+                    "normal": "1951/1968",
+                    "type": "inclusive",
+                    "value": "1951-1968"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "\u003cemph render=\"italic\"\u003eOrigin\u003c/emph\u003e was a small avant garde literary magazine that was published from 1951 to 1985. The \u003cemph render=\"italic\"\u003eOrigin\u003c/emph\u003e Archive consists of correspondence and manuscripts that were sent to its editor, Cid Corman, for the first 17 years of the magazine's existence."
+                },
+                "unitid": {
+                    "value": "MSS.021"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_032a3185aa14422d1d35b27438d47f5b",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_ef6b3e8625a7a0666e75895736a19f58",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form:\u003clb/\u003e\u003clb/\u003eIdentification of item, date (if known); The Origin Archive; MSS 021; box number; folder number; \u003caddress\u003e\u003caddressline\u003eFales Library and Special Collections\u003c/addressline\u003e\u003c/address\u003e , New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_8233862b39f639bb918b2b585b2fb189",
+            "head": "Historical/Biographical Note:",
+            "p": {
+                "value": "\u003clist\u003e\u003citem\u003e Arnold, Bob and Susan. \"Cid Coreman and Origin Press.\" Longhouse publishers and Booksellers. 22 Jan. 2003. [http://www.longhousepoetry.com/corman.html]\u003c/item\u003e\u003citem\u003e Cid Corman, Papers, 1942-76 [finding aid]. Kent State University Libraries. 30 January 2003 [http://speccoll.library.kent.edu/].\u003c/item\u003e\u003citem\u003e\u003c/item\u003e\u003citem\u003e\u003c/item\u003e\u003c/list\u003e "
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_8abb6dbd14bd03f90012f21b7eb44ca3",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The Origin Archive consists of the correspondence received by Cid Corman concerning the avant garde journal \u003cemph render=\"italic\"\u003eOrigin\u003c/emph\u003e. The collection comprises original manuscripts from: Carol Berge´, Robert Creeley, Theodore Enslin, Lawrence Ferlinghetti, Denise Levertov, and Gary Snyder. Copies of \u003cemph render=\"italic\"\u003eOrigin\u003c/emph\u003e are not part of this archive but are available to view at the Fales Library."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "American poetry |y 20th century."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Authors, American -- 20th century"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Poets, American -- 20th century"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "American literature |y 20th century."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Avant-garde (Aesthetics)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Literature, Experimental"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Small presses."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Origin (Boston, Mass.)"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref11\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: Correspondence\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref12\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eAllen, Donald\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1961-1964\u003c/unitdate\u003e\u003ccontainer id=\"aspace_38e19b9df0ef402d7c6db740420526bd\" label=\"Mixed Materials (31142054900272)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_38e19b9df0ef402d7c6db740420526bd\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref13\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eAvison, Margaret\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1953-1962\u003c/unitdate\u003e\u003ccontainer id=\"aspace_69c68bd10a38af34c54b2c33fbd0a5c8\" label=\"Mixed Materials (31142054900272)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_69c68bd10a38af34c54b2c33fbd0a5c8\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eBarker, Richard\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1961-1962\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2f05c68fc0c5acaf910d309f2e999b46\" label=\"Mixed Materials (31142054900272)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2f05c68fc0c5acaf910d309f2e999b46\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eBerge´, Carol\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1960-1961\u003c/unitdate\u003e\u003ccontainer id=\"aspace_bff5d4635f3e7d244f73ba37dd5a0360\" label=\"Mixed Materials (31142054900272)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_bff5d4635f3e7d244f73ba37dd5a0360\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eBlackburn, Paul\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1962-1964\u003c/unitdate\u003e\u003ccontainer id=\"aspace_6e0401c34b9ecbfc3f69f893951d2ddf\" label=\"Mixed Materials (31142054900272)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_6e0401c34b9ecbfc3f69f893951d2ddf\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eCreeley, Robert\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1961-1965\u003c/unitdate\u003e\u003ccontainer id=\"aspace_6df690b616fdbc23597ea6b0480692a2\" label=\"Mixed Materials (31142054900272)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_6df690b616fdbc23597ea6b0480692a2\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eEnslin, Theodore\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1964-1965\u003c/unitdate\u003e\u003ccontainer id=\"aspace_866350a8f8137b029d0ad24b40c5d4d3\" label=\"Mixed Materials (31142054900272)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_866350a8f8137b029d0ad24b40c5d4d3\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eEnslin, Theodore\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1966\u003c/unitdate\u003e\u003ccontainer id=\"aspace_04343936fb6dff326aec2073c56bb6c0\" label=\"Mixed Materials (31142054900272)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_04343936fb6dff326aec2073c56bb6c0\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eEnslin, Theodore\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1967-1968\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1cac9a5cc0d8fbfe1e366219aa568df9\" label=\"Mixed Materials (31142054900272)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1cac9a5cc0d8fbfe1e366219aa568df9\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eFerlinghetti, Lawrence\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1962-1964\u003c/unitdate\u003e\u003ccontainer id=\"aspace_cc4d15314c033ba842705ef963d191c8\" label=\"Mixed Materials (31142054900272)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_cc4d15314c033ba842705ef963d191c8\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eHentoff, Nat.\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c0ced7182827081da3a064304fc0631b\" label=\"Mixed Materials (31142054900272)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_c0ced7182827081da3a064304fc0631b\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eHirschman, Jack\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1960-1963\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4c7564f83ca4e472af6b4280a7b1495a\" label=\"Mixed Materials (31142054900272)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_4c7564f83ca4e472af6b4280a7b1495a\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eKitasono, Katue\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1951-1956\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2ab6221f45757ab144cd6287fad2ed96\" label=\"Mixed Materials (31142054900272)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2ab6221f45757ab144cd6287fad2ed96\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eLevertov, Denise\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1962-1966\u003c/unitdate\u003e\u003ccontainer id=\"aspace_146b988a839a11cbe525db9e5596a53a\" label=\"Mixed Materials (31142054900272)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_146b988a839a11cbe525db9e5596a53a\" type=\"Folder\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref26\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eLogan, John\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1953-1956\u003c/unitdate\u003e\u003ccontainer id=\"aspace_75a751266f04444af650396068a3ae8c\" label=\"Mixed Materials (31142054900272)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_75a751266f04444af650396068a3ae8c\" type=\"Folder\"\u003e15\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eRandall, Margaret\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1962\u003c/unitdate\u003e\u003ccontainer id=\"aspace_083d53591641ef0cf89c75bae42bfb52\" label=\"Mixed Materials (31142054900272)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_083d53591641ef0cf89c75bae42bfb52\" type=\"Folder\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref28\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eRisi, Nelo\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1963-1964\u003c/unitdate\u003e\u003ccontainer id=\"aspace_941759dc5b2b9578e3cae14eb15c8ddc\" label=\"Mixed Materials (31142054900272)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_941759dc5b2b9578e3cae14eb15c8ddc\" type=\"Folder\"\u003e17\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref29\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eRothenberg, Jerome\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1962\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9810bfdcd6b39deb1e96e92c6919dbcb\" label=\"Mixed Materials (31142054900272)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_9810bfdcd6b39deb1e96e92c6919dbcb\" type=\"Folder\"\u003e18\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref30\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eScholl, Albert Arnold\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1953-1955\u003c/unitdate\u003e\u003ccontainer id=\"aspace_72b17c0e3c368ab65672145afaaeea7f\" label=\"Mixed Materials (31142054900272)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_72b17c0e3c368ab65672145afaaeea7f\" type=\"Folder\"\u003e19\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref31\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eSnyder, Gary\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1964-1969\u003c/unitdate\u003e\u003ccontainer id=\"aspace_bfb185727316749a8d6faea5c113a580\" label=\"Mixed Materials (31142054900272)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_bfb185727316749a8d6faea5c113a580\" type=\"Folder\"\u003e20\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref32\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eSorrentino, Gilbert\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1964\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5e04364e572636062ba1c929dc02bc0a\" label=\"Mixed Materials (31142054900272)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5e04364e572636062ba1c929dc02bc0a\" type=\"Folder\"\u003e21\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref33\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eWeiss, Theodore\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1961-1962\u003c/unitdate\u003e\u003ccontainer id=\"aspace_29285b64680ebcac16009892d22c1b7d\" label=\"Mixed Materials (31142054900272)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_29285b64680ebcac16009892d22c1b7d\" type=\"Folder\"\u003e22\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref34\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eWilliams, Jonathan\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1953-1964\u003c/unitdate\u003e\u003ccontainer id=\"aspace_11a06d79486d9533405ecaac42f53233\" label=\"Mixed Materials (31142054900272)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_11a06d79486d9533405ecaac42f53233\" type=\"Folder\"\u003e23\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-F",
+            "value": "mss_581"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the David Giannini Collection on Richard Hell and Genesis: Grasp \u003cnum\u003eMSS.581\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Rachel Searcy"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Fales Library and Special Collections"
+                },
+                "address": {
+                    "addressline": [
+                        "Fales Library and Special Collections",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "3rd Floor",
+                        "New York, NY 10012",
+                        "Phone: (212) 998-2596",
+                        "fales.library@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-07-25T18:51:27\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Fales Library and Special Collections"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Giannini, David"
+                    }
+                },
+                "unittitle": {
+                    "value": "David Giannini Collection on Richard Hell and Genesis: Grasp"
+                },
+                "unitdate": {
+                    "normal": "1968/1972",
+                    "type": "inclusive",
+                    "value": "1968-1972"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": ".25 linear feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 half manuscript box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "David Giannini is an American poet who has published more than 30 collections with small presses, and whose work has appeared in national and international literary magazines and anthologies. \u003cemph render=\"italic\"\u003eOpens\u003c/emph\u003e, his first book of poetry, was published in 1971 by Genesis: Grasp Press, which he edited and co-founded in 1967. The David Giannini Collection on Richard Hell and Genesis: Grasp (dated 1968-1972) consists of correspondence between Richard Hell and Giannini, the majority of which consists of letters from Hell."
+                },
+                "unitid": {
+                    "value": "MSS.581"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_8bfcac4289e777b69fe017027a1aa0d8",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_a1f3192b48c0289d9f11f77c86934b81",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; David Giannini Collection on Richard Hell and Genesis: Grasp; MSS 581; box number; folder number or item identifier; Fales Library and Special Collections, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_25e5f86a6171331d6188c5b4e1e885a6",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Purchased from Granary Books in June 2019; the accession number associated with this gift is 2019.041."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_52669f1eec7a272a9903959c910f45df",
+            "head": "Biographical Note",
+            "p": {
+                "value": "David Giannini (born 1948) is an American poet who has published more than 30 collections with small presses, and whose work has appeared in national and international literary magazines and anthologies. \u003cemph render=\"italic\"\u003eOpens\u003c/emph\u003e, his first book of poetry, was published in 1971 by Genesis: Grasp Press, which he edited and co-founded in 1967."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_daa815af0c1e986d071e8f3df343b10c",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The David Giannini Collection on Richard Hell and Genesis: Grasp (dated 1968-1972) consists of correspondence between Richard Hell and David Giannini, an early collaborator on projects such as the poetry journal \u003cemph render=\"italic\"\u003eGenesis: Grasp\u003c/emph\u003e. The majority of the collection consists of letters from Hell."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "American poetry -- 20th century -- Periodicals"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Small presses -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Punk culture -- New York (State) -- New York"
+                }
+            ],
+            "corpname": {
+                "source": "nad",
+                "value": "Granary Books (Firm)"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_bd5fd6767b6937a54a7e1cbb213cfff5\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRichard Hell Letters to David Giannini\u003c/unittitle\u003e\u003cunitdate normal=\"1968/1968\"\u003e1968\u003c/unitdate\u003e\u003ccontainer id=\"aspace_36105e3de5ba2a7140dc3400f491b4d9\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_36105e3de5ba2a7140dc3400f491b4d9\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_b78b596a08930da97769c7392d34f131\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRichard Hell Letters to David Giannini\u003c/unittitle\u003e\u003cunitdate normal=\"1969/1969\"\u003e1969\u003c/unitdate\u003e\u003ccontainer id=\"aspace_3a088e1f32de0e114e4039d0695bc81b\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_3a088e1f32de0e114e4039d0695bc81b\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_388d8bde4c1472b5517ab54693551eed\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRichard Hell Letters to David Giannini\u003c/unittitle\u003e\u003cunitdate normal=\"1970/1970\"\u003e1970\u003c/unitdate\u003e\u003ccontainer id=\"aspace_736eb15d6d01b045d3a3bf563e25c281\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_736eb15d6d01b045d3a3bf563e25c281\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_db351444f9a783df817b87b967b7239b\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRichard Hell Letters to David Giannini\u003c/unittitle\u003e\u003cunitdate normal=\"1971/1972\" type=\"inclusive\"\u003e1971-1972\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9aeda9417dd130c899cc9a813ae2fbe5\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_9aeda9417dd130c899cc9a813ae2fbe5\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_92c0b57928f7471da9a717dc8ecc0add\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRichard Hell Letters to David Giannini\u003c/unittitle\u003e\u003cunitdate normal=\"1968/1972\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4ba96bdcbb212732c0d842c93bee43be\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_4ba96bdcbb212732c0d842c93bee43be\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_4676954ab7384b6a6db36908a91f732a\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDavid Giannini Letters to Richard Hell\u003c/unittitle\u003e\u003cunitdate normal=\"1968/1972\" type=\"inclusive\"\u003e1968-1972\u003c/unitdate\u003e\u003ccontainer id=\"aspace_0a2ec283d9efc305104096d1efcbf1b4\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0a2ec283d9efc305104096d1efcbf1b4\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_3e8999478a3955584e6b933c2d67f5c1\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eGenesis: Grasp Press -- Correspondence\u003c/unittitle\u003e\u003cunitdate normal=\"1968/1972\" type=\"inclusive\"\u003ecirca 1968-1972\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d1ef66228036c3785ac05c0f879b6f45\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d1ef66228036c3785ac05c0f879b6f45\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_a1367881e818b01e239f51fa1872b181\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eGenesis: Grasp Press -- Galley Proofs\u003c/unittitle\u003e\u003cunitdate normal=\"1968/1968\"\u003e1968\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5fbdf8fd56a51c341fc66ccc9f02311f\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5fbdf8fd56a51c341fc66ccc9f02311f\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ff033e058f29faac274585be773ddc89\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eErnest Mordor (Pseudonym) Manuscript for \"Poet Art Dead\" with Corrections by David Giannini\u003c/unittitle\u003e\u003cunitdate normal=\"1968/1972\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9e99b3ddac72fd945717ddb95389c757\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_9e99b3ddac72fd945717ddb95389c757\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

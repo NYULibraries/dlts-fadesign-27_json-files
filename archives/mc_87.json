@@ -1,0 +1,149 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "mc_87"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Joseph Hart Papers \u003cnum\u003eMC 87\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Bernadette Siddiqi"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-12-11T15:01:13\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Hart, Joseph T., Dr."
+                    }
+                },
+                "unittitle": {
+                    "value": "Joseph Hart Papers"
+                },
+                "unitdate": {
+                    "normal": "1961/1967",
+                    "type": "bulk",
+                    "value": "1961-1967"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one manuscript box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Dr. Joseph T. Hart served as the curator and librarian at the Gould Memorial Library on the University Heights campus. The collection includes correspondence, newspaper clippings, publications, and reports regarding New York University and the School of Engineering and Science from 1930-1973."
+                },
+                "unitid": {
+                    "value": "MC 87"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_16916e4f6d061e82b11adcb051189697",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions with the exception of a report in folder 5, which is restricted. The report has been removed and placed in a folder directly behind folder 5 that is labeled as restricted."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_439739f66b1eb2ca5e1e683cc344819e",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Joseph Hart Papers; MC 87; box number; folder number; New York University Archives; New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_70d3b3d0c875f0ee00d9af5c85b5084c",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials found in collection; provenance is unknown."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_9814273176098298061028e3fcf05812",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Dr. Joseph T. Hart served as the curator and librarian at the Gould Memorial Library on the University Heights campus."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_d27f62028100a9c9a4adc6683d9070f2",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection is composed of materials collected by Dr. Joseph T. Hart regarding New York University and the School of Engineering and Science from 1930-1973. Materials include correspondence related to the Hall of Fame, the Institute of Medical Engineers, and the Katra-Black Student Group; newspaper clippings related to general university activities, and construction and opening of the Engineering library at the University Heights campus; pamphlets related to facilities funding and University Heights campus buildings; reports related to the total data processing requirements for NYU in 1965; proposals for facility funding; and a statement written by Hart in 1961 related to NYU's Program for Leadership and Services in the 1960s."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Engineering"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "New York University -- Libraries"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref1\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: General NYU Material\u003c/unittitle\u003e\u003cphysdesc altrender=\"whole\"\u003e\u003cextent altrender=\"materialtype spaceoccupied\"\u003e0.3 Linear Feet\u003c/extent\u003e\u003cextent altrender=\"carrier\"\u003ein one manuscript box\u003c/extent\u003e\u003c/physdesc\u003e\u003cunitdate normal=\"1930/1973\" type=\"inclusive\"\u003e1930-1973\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_07b470df567ce3a7729cdf90e3f0350d\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eSeries I includes Hart's statement on NYU's Program for Leadership and Service in the 1960s; correspondence related to the Hall of Fame, the Institute of Mechanical Engineers, and the Katra-Black Student Group; proposals written in 1965 related to funding the construction of a technology building at the University Heights Campus; a 1952 survey of the University Heights Library; a 1965 survey on the total data processing requirements of NYU; and pamphlets and clippings related to University Heights campus facilities and general university activities.\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_ref2\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"A Statement for the Faculty and Staff on New York University's Program for Leadership and Services in the Sixties\"\u003c/unittitle\u003e\u003cunitdate normal=\"1961/1961\"\u003e1961\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_f1dd84699b563ba0112a639acb1a3202\" label=\"Mixed Materials [31142062745628]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f1dd84699b563ba0112a639acb1a3202\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref3\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence on the Hall of Fame \u003c/unittitle\u003e\u003cunitdate normal=\"1930/1973\" type=\"inclusive\"\u003e1930, 1955-1973\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_3c7ac18f28fcd9379678d4c1465d5429\" label=\"Mixed Materials [31142062745628]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_3c7ac18f28fcd9379678d4c1465d5429\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref4\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence on the Institute of Mechanical Engineers\u003c/unittitle\u003e\u003cunitdate normal=\"1971/1971\"\u003e1971\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_2a02d66514b49f24ee0b401fc3dfbda9\" label=\"Mixed Materials [31142062745628]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2a02d66514b49f24ee0b401fc3dfbda9\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref5\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence on the Katara-Black Student Group\u003c/unittitle\u003e\u003cunitdate normal=\"1968/1968\"\u003e1968\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_4b47d33109a06c90ac1e4741519612ce\" label=\"Mixed Materials [31142062745628]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_4b47d33109a06c90ac1e4741519612ce\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref6\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eHeights Campus: Gould Memorial Library, Gould House and Tech II\u003c/unittitle\u003e\u003cunitdate normal=\"1970/1970\"\u003e1970\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_cdc6709ea7539790b62f7287235bfb66\" label=\"Mixed Materials [31142062745628]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_cdc6709ea7539790b62f7287235bfb66\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003caccessrestrict id=\"aspace_c07b4bb7472470354af6628d3e217553\"\u003e\u003chead\u003eConditions Governing Access\u003c/head\u003e\u003cp\u003eA report from April 8, 1970 is restricted. The report has been removed and placed in a folder directly behind folder 5 that is labeled as restricted.\u003c/p\u003e\u003c/accessrestrict\u003e\u003c/c\u003e\u003cc id=\"aspace_ref7\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNYU Publications and Miscellaneous\u003c/unittitle\u003e\u003cunitdate normal=\"1951/1972\" type=\"inclusive\"\u003e1951-1972\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_12785939bf4b376821222957b7dae47f\" label=\"Mixed Materials [31142062745628]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_12785939bf4b376821222957b7dae47f\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref8\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNewspaper Clippings\u003c/unittitle\u003e\u003cunitdate normal=\"1061/1971\" type=\"inclusive\"\u003e1961-1971, undated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_818cd22195c2035e666b3e674f871fbf\" label=\"Mixed Materials [31142062745628]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_818cd22195c2035e666b3e674f871fbf\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref9\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSurvey of the University Heights Library of New York University by Alexander S. Preminger \u003c/unittitle\u003e\u003cunitdate normal=\"1952/1952\"\u003e1952\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_0d55c685aa67c9f25a8e7429a98cf925\" label=\"Mixed Materials [31142062745628]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0d55c685aa67c9f25a8e7429a98cf925\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref10\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eThe Total Data Processing Requirements of New York University: Study and Recommendations, Report\u003c/unittitle\u003e\u003cunitdate normal=\"1965/1965\"\u003e1965\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_cadf19d467193735001a8eb6fb9c7a02\" label=\"Mixed Materials [31142062745628]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_cadf19d467193735001a8eb6fb9c7a02\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref11\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eA Proposal for a Graduate Science Facilities Grant in Connection with the Construction of Technology Building II at the University Heights Campus of New York University\u003c/unittitle\u003e\u003cunitdate normal=\"1965/1965\"\u003e1965\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_68096436a5e4ad8f36881b0618eec9ba\" label=\"Mixed Materials [31142062745628]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_68096436a5e4ad8f36881b0618eec9ba\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref12\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMiscellaneous materials extracted from the Proposal for a Graduate Science Facilities Grant \u003c/unittitle\u003e\u003cunitdate normal=\"1963/1965\" type=\"inclusive\"\u003e1963-1965\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_ea1f9bc8974389c096cdabf1e6033663\" label=\"Mixed Materials [31142062745628]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ea1f9bc8974389c096cdabf1e6033663\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref13\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries II: School of Engineering and Science\u003c/unittitle\u003e\u003cphysdesc altrender=\"whole\"\u003e\u003cextent altrender=\"materialtype spaceoccupied\"\u003e0.2 Linear Feet\u003c/extent\u003e\u003cextent altrender=\"carrier\"\u003ein one manuscript box\u003c/extent\u003e\u003c/physdesc\u003e\u003cunitdate normal=\"1961/1970\" type=\"inclusive\"\u003e1961-1970, undated\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_c8f52311067cd5916c0a82c7ff8e1935\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eSeries II includes correspondence and clippings related to the planning, construction, and opening of an engineering library at the University Heights campus between 1961 and 1965; and clippings and press releases related to general activities of and the history of the School of Engineering and Science.\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_ref14\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eHistory of the School of Engineering and Science\u003c/unittitle\u003e\u003cunitdate normal=\"1961/1970\" type=\"inclusive\"\u003e1961-1970\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_7f3c4093fcc0e2d0391cdc149aa8f0f5\" label=\"Mixed Materials [31142062745628]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_7f3c4093fcc0e2d0391cdc149aa8f0f5\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence on Engineering Library Planning and Construction \u003c/unittitle\u003e\u003cunitdate normal=\"1961/1965\" type=\"inclusive\"\u003e1961-1965\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_2804f49b25552120f37a015fcfb154dc\" label=\"Mixed Materials [31142062745628]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2804f49b25552120f37a015fcfb154dc\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNewspaper Clippings of the Engineering Library Planning, Construction, and Opening \u003c/unittitle\u003e\u003cunitdate normal=\"1962/1965\" type=\"inclusive\"\u003e1962-1965\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_8c4b4dd0a2b2429d51b5df1e93f1fd1a\" label=\"Mixed Materials [31142062745628]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_8c4b4dd0a2b2429d51b5df1e93f1fd1a\" type=\"Folder\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMiscellaneous Newspaper Clippings\u003c/unittitle\u003e\u003cunitdate normal=\"1961/1961\"\u003e1961\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_452ed29e73ac7c4c8b40c5e111017c7b\" label=\"Mixed Materials [31142062745628]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_452ed29e73ac7c4c8b40c5e111017c7b\" type=\"Folder\"\u003e15\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMiscellaneous Newspaper Clippings\u003c/unittitle\u003e\u003cunitdate normal=\"1962/1962\"\u003e1962\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_1e4851b60362de2bf1a61710275a5866\" label=\"Mixed Materials [31142062745628]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1e4851b60362de2bf1a61710275a5866\" type=\"Folder\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMiscellaneous Newspaper Clippings\u003c/unittitle\u003e\u003cunitdate normal=\"1963/1963\"\u003e1963\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_94ad42c128c1937808650c5310851d94\" label=\"Mixed Materials [31142062745628]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_94ad42c128c1937808650c5310851d94\" type=\"Folder\"\u003e17\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMiscellaneous Newspaper Clippings\u003c/unittitle\u003e\u003cunitdate normal=\"1964/1964\"\u003e1964\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_033018928efca06bbd808e6c95d42f12\" label=\"Mixed Materials [31142062745628]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_033018928efca06bbd808e6c95d42f12\" type=\"Folder\"\u003e18\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMiscellaneous Newspaper Clippings\u003c/unittitle\u003e\u003cunitdate normal=\"1965/1965\"\u003e1965\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_8836d9f10869664892f72f4e3e813235\" label=\"Mixed Materials [31142062745628]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_8836d9f10869664892f72f4e3e813235\" type=\"Folder\"\u003e19\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMiscellaneous Newspaper Clippings\u003c/unittitle\u003e\u003cunitdate normal=\"1966/1966\"\u003e1966\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_a5f0d42ad7a262a529f9ef751113f60c\" label=\"Mixed Materials [31142062745628]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_a5f0d42ad7a262a529f9ef751113f60c\" type=\"Folder\"\u003e20\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMiscellaneous Newspaper Clippings \u003c/unittitle\u003e\u003cunitdate normal=\"1967/1967\"\u003e1967\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_5f8e3611a810b3cf07c3376985cf9628\" label=\"Mixed Materials [31142062745628]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5f8e3611a810b3cf07c3376985cf9628\" type=\"Folder\"\u003e21\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMiscellaneous Newspaper Clippings\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_b9ae0bb9b0fa37e64d7f9188a9ffa119\" label=\"Mixed Materials [31142062745628]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b9ae0bb9b0fa37e64d7f9188a9ffa119\" type=\"Folder\"\u003e22\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

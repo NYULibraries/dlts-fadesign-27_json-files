@@ -1,0 +1,125 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "northdisp"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Records of the Northern Dispensary \u003cnum\u003eMC.99\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by A.J. Muhammad."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-02-28T19:30:03\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Records of the Northern Dispensary"
+                },
+                "unitdate": {
+                    "normal": "1827/1955",
+                    "type": "inclusive",
+                    "value": "1827-1955"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "7 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 17 boxes"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Northern Dispensary of the City of New York was founded in 1827, and incorporated a year later by a group of private citizens to offer medical care at minimal or no cost to the poor in lower Manhattan.  The Dispensary moved to a triangular-shaped building (which is a historical landmark) at the intersection of Christopher Street, Waverly Place, and Grove Street in Manhattan's Greenwich Village in 1831.  The Northern Dispensary records span from 1827 through the 1950s and include annual reports, minutes of the board, executive committee meetings, logs of applicants who applied to work as physicians and visiting committees, as well as photographs and illustrations."
+                },
+                "unitid": {
+                    "value": "MC.99"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_424813a4f952aaa637fb3421123fc0f0",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open for use without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_42c707f27cdafca57bfb93dca4a00c10",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item; date (if known); Records of the Northern Dispensary; MC 99; box number; folder number; New York University Archives"
+            }
+        },
+        "bioghist": {
+            "id": "aspace_3c3132ce6e12a1c545de84219e24a405",
+            "head": "History of the Northern Dispensary",
+            "p": {
+                "value": "The Northern Dispensary of the City of New York was founded in 1827 and incorporated in 1928 by a group of private citizens to provide medical care at minimal or no cost to the needy and indigent in lower Manhattan.  In 1831 the Dispensary moved to a tringular-shaped building, located at the intersection of Waverly Place, Grove Street and Christopher Street, in Manhattan's Greenwich Village.  After World War II the Dispensary became a dental clinic and remained open until 1989, at which time it closed due to a funding shortage.  Subsequently, the building, which is an historical landmark, was transferred to the Roman Catholic Archdiocese of New York."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_bb2ca7ecf05f8c6ba8284b79bfb03766",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Dispensary records consists of documents from the inception of the Dispensary in 1827 through the 1950s, and they include minutes of the board (minutes of regular and special meetings, reports of the treasurer, visiting doctor, donor and staff listings); executive committee minutes; a log of visiting committees that visited the Dispensary; another log of applicants for the position as physicians to the Nothern Dispensary with resume synopses; and annual reports.  There are also photographs of board members and physicians treating patients at the Dispensary and illustrations of the Dispensary building, as well as the surrounding area from the Dispensary."
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref2\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: Administrative Records\u003c/unittitle\u003e\u003cphysdesc altrender=\"whole\"\u003e\u003cextent altrender=\"materialtype spaceoccupied\"\u003e0 Linear Feet\u003c/extent\u003e\u003c/physdesc\u003e\u003cunitdate normal=\"1827/1955\" type=\"inclusive\"\u003e1827-1955\u003c/unitdate\u003e\u003c/did\u003e\u003cc id=\"aspace_ref7\" level=\"subseries\"\u003e\u003cdid\u003e\u003cunittitle\u003eSubseries A: Minutes of the Board\u003c/unittitle\u003e\u003cunitdate normal=\"1827/1948\" type=\"inclusive\"\u003e1827-1933, 1938-1948\u003c/unitdate\u003e\u003c/did\u003e\u003cc id=\"aspace_ref13\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eMinutes of the Board\u003c/unittitle\u003e\u003cunitdate normal=\"1827/1840\" type=\"inclusive\"\u003e1827-1840\u003c/unitdate\u003e\u003ccontainer altrender=\"Upright Volume 2\u0026quot; wide (any dimensions up to 12\u0026quot; x 16\u0026quot;)\" id=\"aspace_dab38c724e629ea80cf02c2339c3ae77\" label=\"Mixed Materials [31142054619344]\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eMinutes of the Board\u003c/unittitle\u003e\u003cunitdate normal=\"1840/1847\" type=\"inclusive\"\u003e1840-1847\u003c/unitdate\u003e\u003ccontainer altrender=\"Custom Box - 12 x 16.25\" id=\"aspace_3b84aa3b0c21fb4032caa7294ed7b826\" label=\"Mixed Materials [31142054619260]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eMinutes of the Board\u003c/unittitle\u003e\u003cunitdate normal=\"1847/1862\" type=\"inclusive\"\u003e1847-1862\u003c/unitdate\u003e\u003ccontainer altrender=\"Custom Box - 12 x 16.25\" id=\"aspace_c499196bc0fa34451db50732d32a139a\" label=\"Mixed Materials [31142054619278]\" type=\"Box\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eMinutes of the Board\u003c/unittitle\u003e\u003cunitdate normal=\"1862/1879\" type=\"inclusive\"\u003e1862-1879\u003c/unitdate\u003e\u003ccontainer altrender=\"Custom Box - 12 x 16.25\" id=\"aspace_3372ea992b85fc920d20a5204a6a1fb7\" label=\"Mixed Materials [31142054619929]\" type=\"Box\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eMinutes of the Board\u003c/unittitle\u003e\u003cunitdate normal=\"1879/1896\" type=\"inclusive\"\u003e1879-1896\u003c/unitdate\u003e\u003ccontainer altrender=\"Custom Box - 12 x 16.25\" id=\"aspace_9f95f093a08040a5febaecce7073e51f\" label=\"Mixed Materials [31142054619237]\" type=\"Box\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eMinutes of the Board\u003c/unittitle\u003e\u003cunitdate normal=\"1896/1903\" type=\"inclusive\"\u003e1896-1903\u003c/unitdate\u003e\u003ccontainer altrender=\"Custom Box - 12 x 16.25\" id=\"aspace_38f12fd3dca1fe8e1a77acd7634b3276\" label=\"Mixed Materials [31142054619245]\" type=\"Box\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_d00d7a095c031c16a438a7d665395192\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eMinutes of the Board\u003c/unittitle\u003e\u003cunitdate normal=\"1903/1909\" type=\"inclusive\"\u003e1903-1909\u003c/unitdate\u003e\u003ccontainer altrender=\"Custom Box - 12 x 16.25\" id=\"aspace_1d0f9569c51e86a0c1c162cf2cf8f632\" label=\"Mixed Materials [31142054619294]\" type=\"Box\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_02f2317f3ad391a45b6ce153ec4904a4\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eMinutes of the Board\u003c/unittitle\u003e\u003cunitdate normal=\"1909/1919\" type=\"inclusive\"\u003e1909-1919\u003c/unitdate\u003e\u003ccontainer altrender=\"Custom Box - 12 x 16.25\" id=\"aspace_9d5aded0a73d7923f4ca72151cb95acf\" label=\"Mixed Materials [31142054619286]\" type=\"Box\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_5209ef8aee276810200a12edfbb81f1c\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eMinutes of the Board\u003c/unittitle\u003e\u003cunitdate normal=\"1919/1933\" type=\"inclusive\"\u003e1919-1933\u003c/unitdate\u003e\u003ccontainer altrender=\"Custom Box - 12 x 16.25\" id=\"aspace_f015438ee71bd56fe8ccc2ab4a559a0d\" label=\"Mixed Materials [31142054619252]\" type=\"Box\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_9de467a8c262ed1065f8ae940b2f35f8\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eMinutes of the Board\u003c/unittitle\u003e\u003cunitdate normal=\"1934/1948\" type=\"inclusive\"\u003e1934-1948\u003c/unitdate\u003e\u003ccontainer altrender=\"Custom Box - 12.5 x 17\" id=\"aspace_6a9f05860a55f4dc85878a1e1987da67\" label=\"Mixed Materials [31142054619302]\" type=\"Box\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref9\" level=\"subseries\"\u003e\u003cdid\u003e\u003cunittitle\u003eSubseries B: Annual Reports of the Board of Trustees \u003c/unittitle\u003e\u003cunitdate\u003e1828-1934, 1937\u003c/unitdate\u003e\u003c/did\u003e\u003cc id=\"aspace_ref21\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eAnnual Reports of the Board of Trustees\u003c/unittitle\u003e\u003cunitdate\u003e1887-1934, 1937\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_997b49c53aaf1c0fa555d5d19243edce\" label=\"Mixed Materials [31142046562099]\" type=\"Box\"\u003e6\u003c/container\u003e\u003ccontainer parent=\"aspace_997b49c53aaf1c0fa555d5d19243edce\" type=\"Volume\"\u003e1-7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eAnnual Reports of the Board of Trustees\u003c/unittitle\u003e\u003cunitdate normal=\"1828/1902\" type=\"inclusive\"\u003e1828-1902\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_91c695c26ce3c11b5611311c3178c541\" label=\"Mixed Materials [31142046562107]\" type=\"Box\"\u003e7\u003c/container\u003e\u003ccontainer parent=\"aspace_91c695c26ce3c11b5611311c3178c541\" type=\"Volume\"\u003e1-8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref10\" level=\"subseries\"\u003e\u003cdid\u003e\u003cunittitle\u003eSubseries C: Applications for Position as Physician to the Northern Dispensary \u003c/unittitle\u003e\u003cunitdate normal=\"1866/1924\" type=\"inclusive\"\u003e1866-1924\u003c/unitdate\u003e\u003c/did\u003e\u003cc id=\"aspace_ref23\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eApplications for Positions as Physicians to the Northern Dispensary\u003c/unittitle\u003e\u003cunitdate normal=\"1866/1924\" type=\"inclusive\"\u003e1866-1924\u003c/unitdate\u003e\u003ccontainer altrender=\"Upright Volume 2\u0026quot; wide (any dimensions up to 12\u0026quot; x 16\u0026quot;)\" id=\"aspace_ea94602b0668b6494727c8e9ed6795e1\" label=\"Mixed Materials [31142054619310]\" type=\"Box\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref11\" level=\"subseries\"\u003e\u003cdid\u003e\u003cunittitle\u003eSubseries D: Executive Committee Records, Minutes of Regular and Special Meetings\u003c/unittitle\u003e\u003cunitdate normal=\"1912/1955\" type=\"inclusive\"\u003e1912-1955\u003c/unitdate\u003e\u003c/did\u003e\u003cc id=\"aspace_ref26\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eExecutive Committee Records\u003c/unittitle\u003e\u003cunitdate normal=\"1912/1942\" type=\"inclusive\"\u003e1912-1942\u003c/unitdate\u003e\u003ccontainer altrender=\"Upright Volume 2\u0026quot; wide (any dimensions up to 12\u0026quot; x 16\u0026quot;)\" id=\"aspace_9b598e0f77550203ff23ebca390744fb\" label=\"Mixed Materials [31142054619328]\" type=\"Box\"\u003e15\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_89ebdefcc02bb5da1bc2b1967c3b716d\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eExecutive Committee Records\u003c/unittitle\u003e\u003cunitdate normal=\"1943/1955\" type=\"inclusive\"\u003e1943-1955\u003c/unitdate\u003e\u003ccontainer altrender=\"Upright Volume 2\u0026quot; wide (any dimensions up to 12\u0026quot; x 16\u0026quot;)\" id=\"aspace_cf06a63bafb0bcf8cb8500d5b8c09a57\" label=\"Mixed Materials [31142054619336]\" type=\"Box\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref28\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries II: Photographs and Etchings Collection\u003c/unittitle\u003e\u003cunitdate normal=\"1916/1950\" type=\"inclusive\"\u003e1916-circa 1950s\u003c/unitdate\u003e\u003c/did\u003e\u003cc id=\"aspace_ref30\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePortraits of the Trustees\u003c/unittitle\u003e\u003cunitdate normal=\"1920/1939\" type=\"inclusive\"\u003e1920s-1930s\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_68ff9a74718adfe8773081d9254abf3e\" label=\"Graphic Materials [31142063279510]\" type=\"Box\"\u003e11\u003c/container\u003e\u003ccontainer parent=\"aspace_68ff9a74718adfe8773081d9254abf3e\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_d465182ca4db77a060ec19d33fe360bb\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePortraits of the Trustees (oversize)\u003c/unittitle\u003e\u003cunitdate normal=\"1920/1939\" type=\"inclusive\"\u003e1920s-1930s\u003c/unitdate\u003e\u003ccontainer altrender=\"OS Flat Box - 13.5 - lengthwise\" id=\"aspace_f060c6da55434eeb67fb502aba53533a\" label=\"Graphic Materials [31142062751352]\" type=\"Box\"\u003eShared University Archives 001\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref31\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eEtchings (Bernardier, Paul)\u003c/unittitle\u003e\u003cunitdate\u003e1950s\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_9aa224e6fd876d14b894e75ebcbb4a94\" label=\"Graphic Materials [31142063279510]\" type=\"Box\"\u003e11\u003c/container\u003e\u003ccontainer parent=\"aspace_9aa224e6fd876d14b894e75ebcbb4a94\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

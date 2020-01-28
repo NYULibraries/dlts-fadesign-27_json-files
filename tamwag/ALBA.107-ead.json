@@ -1,0 +1,94 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "alba_107"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Bill Susman Papers\n                    \u003cnum\u003eALBA.107\u003c/num\u003e\n                "
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-28T16:36-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Susman, Bill, 1915-2003"
+                    }
+                },
+                "unittitle": {
+                    "value": "Bill Susman Papers"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "9.0 linear feet"
+                        },
+                        {
+                            "value": "(12 boxes)"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "ALBA.107"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The collection consists of Susman's correspondence with Abraham Lincoln Brigade veterans and others, his files on the Abraham Lincoln Brigade Archives, as well as materials on VALB-related events and activities, notably the John Gerassi oral history project and the \"Shouts from the Wall\" poster exhibit, and publications and speeches about the SCW. This material dates from the 1970s and 80s. There are also approximately 30 photos of veterans (1970s-80s, in the U.S. and Spain). Additional materials include correspondence and memorabilia documenting the personal and political life of Susman and his family; files related to book, film, curriculum and research projects on the Spanish Civil War, many sent to Susman for his comment or input; files of material and correspondence related to Spanish politics over the years; and correspondence with representatives of Soviet and other national groups of veterans. Notable are transcriptions of some of Susman's World War II letters and a copy print of a photo of Einstein, Joliet-Curie and Barsky. The photo and the transcriptions are located in box 4."
+            }
+        },
+        "controlaccess": {},
+        "dsc": {}
+    }
+}

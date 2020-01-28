@@ -1,0 +1,141 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "alba_088"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the DeWitt Webster Parker Papers\n                    \u003cnum\u003eALBA.088\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Wendy Scheir"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "2009"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-28T16:33-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Parker, DeWitt Webster, 1910-1938"
+                    }
+                },
+                "unittitle": {
+                    "value": "DeWitt Webster Parker Papers"
+                },
+                "unitdate": {
+                    "normal": "1934/1938",
+                    "type": "inclusive",
+                    "value": "1934-1938, (Bulk 1937)"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.25 linear feet"
+                        },
+                        {
+                            "value": "(1 box)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "DeWitt Webster Parker (1910-1938) joined the International Brigades in March of 1937 and quickly rose to the position of political commissar of the Abraham Lincoln Battalion. In March 1938, Parker was killed by a direct hit of artillery fire on the battalion command post in Belchite. The collection includes letters Parker wrote home from France and Spain, portions of his diary, and tributes written after his death, as well as letters from other International Brigaders to third parties."
+                },
+                "unitid": {
+                    "value": "ALBA.088"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref5",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open for research without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "ref23",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: \n                \u003clb/\u003e\n                \u003clb/\u003eIdentification of item, date; Collection name; Collection number; box number; folder number; \n                \u003clb/\u003eTamiment Library/Robert F. Wagner Labor Archives \n                \u003clb/\u003eElmer Holmes Bobst Library \n                \u003clb/\u003e70 Washington Square South \n                \u003clb/\u003eNew York, NY 10012, New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "ref8",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "\n                \u003clist\u003e\n                    \u003citem\u003eArthur Landis, The Abraham Lincoln Brigade. New York: Citadel Press, 1967.\u003c/item\u003e\n                    \u003citem\u003eEdwin Rolfe, The Lincoln Battalion: The Story of the Americans Who Fought in Spain in the International Brigades. New York: Random House, 1939.\u003c/item\u003e\n                \u003c/list\u003e"
+            }
+        },
+        "scopecontent": {
+            "id": "ref9",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "Most of the documents in this collection are typescript copies of the originals. The bulk of the papers consist of carbon copies of letters Parker wrote from France and Spain to his wife, Esther (whom he addresses as \"Funny\"), and to other friends and family in the States. Also included is a carbon copy of portions of Parker's diary, dating from when he joined the Brigades in Paris through his transfer to Spain. His concern with world affairs and his commitment to Communism is evident throughout the collection. His letters contain vivid, detailed accounts of life and politics in the Brigades. Also included are carbon copies of tributes to Parker after his death. Handwritten documents include letters from volunteers to third parties describing their experiences in the Brigades."
+            }
+        },
+        "controlaccess": {
+            "corpname": {
+                "source": "local",
+                "value": "Spain. Ejército Popular de la República. Brigada Internacional, XV--Biography."
+            }
+        },
+        "dsc": {
+            "value": "\n            \u003cc01 id=\"ref15\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries I: Spanish Civil War\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                \u003c/did\u003e\n                \u003cc02 id=\"ref16\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence: DPW to Bar[bara?] and Alex\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid107268\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid107268\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate\u003eMay 1934-Oct 1937\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref17\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence: General\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid107267\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid107267\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate\u003eJul 1937-Dec 1937\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref18\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence: Parker, DeWitt Webster (outgoing)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid107266\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid107266\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate\u003eOct 1934-Oct 1937\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref19\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence: Parker, Esther\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid107265\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid107265\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate\u003eMar 1937-Jan 1938\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref20\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eDiary (typescript copy)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid107264\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid107264\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate\u003eMar 1937-Apr 1937\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref21\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMemorials and Tributes\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid107263\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid107263\" type=\"Folder\"\u003e6\u003c/container\u003e\n                        \u003cunitdate normal=\"1934/1938\" type=\"inclusive\"\u003eundated , Apr 1938-May 1938\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n            \u003c/c01\u003e\n        "
+        }
+    }
+}

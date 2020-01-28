@@ -1,0 +1,96 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "ms2958_9847_sotomayor_ziegler"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Sonia Sotomayor and Lois M. Ziegler Correspondence\u003clb/\u003eJune 2013\u003clb/\u003e \u003cnum\u003eAHMC - Sotomayor-Ziegler\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Larry Weimer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2020-01-08T21:22:50\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Sotomayor, Sonia, 1954-"
+                    }
+                },
+                "unittitle": {
+                    "value": "Sonia Sotomayor and Lois M. Ziegler correspondence"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "2013 June"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "3 item(s)"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one folder"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "An exchange of letters between Supreme Court Justice Sonia Sotomayor and Lois M. Ziegler in her capacity as Chair of the Scholarship Committee of the Finch College Alumnae Association Foundation Trust. In her letter to Sotomayor of June 12, 2013, Ziegler summarizes the scholarships that her foundation offers to young women in New York City and raises the possibility of Sotomayor addressing the scholarship recipients and donors some time. In her letter to Ziegler of June 19, 2013, Sotomayor regretfully declines, noting the impossibility of accepting the many invitations she receives; she sends along a message for the students with advice regarding perseverance and strength of character in facing adversity. Sotomayor's response is on Supreme Court letterhead and the related envelope is included.\u003clb/\u003e \u003clb/\u003e\n\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: \u003cextref actuate=\"onRequest\" href=\"http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph007446401\u0026amp;context=L\u0026amp;vid=NYHS\u0026amp;search_scope=nyhs\u0026amp;tab=nyhs\u0026amp;lang=en_US\"\u003eSonia Sotomayor and Lois M. Ziegler correspondence\u003c/extref\u003e"
+                },
+                "unitid": {
+                    "value": "AHMC - Sotomayor-Ziegler"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "dsc": {}
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "value": "kreiling"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Frederick Kreiling Papers\n                    \u003cnum\u003eRG.012\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Lindsay Anderberg"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Poly Archives \u0026amp; Special Collections at Bern Dibner Library of Science and Technology"
+                },
+                "address": {
+                    "addressline": [
+                        "Bern Dibner Library of Science and Technology",
+                        "5 MetroTech Center",
+                        "Brooklyn, New York, 11201",
+                        "718-260-3943",
+                        "archives@library.poly.edu"
+                    ]
+                },
+                "date": "April 26, 2013"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2014-04-03T15:42-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Poly Archives \u0026amp; Special Collections at Bern Dibner Library of Science and Technology"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Kreiling, Frederick C., 1923-2004"
+                    }
+                },
+                "unittitle": {
+                    "value": "Guide to the Frederick Kreiling Papers, 1962-1968"
+                },
+                "unitdate": {
+                    "normal": "1962/2004",
+                    "type": "inclusive",
+                    "value": "1962-2004"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.5 Cubic feet"
+                        },
+                        {
+                            "value": "1 box"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The Frederick Kreiling Papers primarily consist of Kreiling's correspondence from 1964-1968. Kreiling (1923-2004) was a professor in the Humanities and Social Science (HuSS) department at Polytechnic from 1948 to 1992."
+                },
+                "unitid": {
+                    "value": "RG.012"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref28",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open for research without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "ref26",
+            "head": "Preferred Citation note",
+            "p": {
+                "value": "Identification of item, date; RG-012: Frederick Kreiling Papers; box number; folder number; Poly Archives \u0026amp; Special Collections at Bern Dibner Library of Science and Technology."
+            }
+        },
+        "acqinfo": {
+            "id": "ref30",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "This collection was donated in 2013 by Thomas B. Settle, former Professor of History in the Humanities and Social Sciences department and Professor Emeritus of the Technology, Culture, and Society department at Polytechnic."
+            }
+        },
+        "bioghist": {
+            "id": "ref23",
+            "head": "Biographical/Historical note",
+            "p": {
+                "value": "1964. Polytechnic Reporter, October 1."
+            }
+        },
+        "scopecontent": {
+            "id": "ref25",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The collection also includes biographical information about Kreiling, information about the History of Science program at Polytechnic, and annual reports from the NYC Department of Air Pollution."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Social sciences"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Polytechnic University (Brooklyn, New York, N.Y.) -- Department of Social Sciences."
+            }
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref1\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\n                    \u003cunitdate normal=\"1962/1968\" type=\"inclusive\"\u003e1962-1968\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref2\" level=\"subseries\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eFrederick Kreiling\u003c/unittitle\u003e\n                        \u003cunitdate normal=\"1964/1968\" type=\"inclusive\"\u003e1964-1968\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003cc id=\"ref3\" level=\"file\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eCorrespondence, 1968\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid149001\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                            \u003ccontainer parent=\"cid149001\" type=\"Folder\"\u003e1\u003c/container\u003e\n                            \u003cunitdate normal=\"1968/1968\"\u003e1968\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                    \u003cc id=\"ref4\" level=\"file\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eCorrespondence, 1967\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid149002\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                            \u003ccontainer parent=\"cid149002\" type=\"Folder\"\u003e2\u003c/container\u003e\n                            \u003cunitdate normal=\"1967/1967\"\u003e1967\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                    \u003cc id=\"ref5\" level=\"file\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eCorrespondence, 1966 June - December\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid149003\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                            \u003ccontainer parent=\"cid149003\" type=\"Folder\"\u003e3\u003c/container\u003e\n                            \u003cunitdate normal=\"1966/1966\"\u003e1966\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                    \u003cc id=\"ref6\" level=\"file\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eCorrespondence, 1966 February - May\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid149004\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                            \u003ccontainer parent=\"cid149004\" type=\"Folder\"\u003e4\u003c/container\u003e\n                            \u003cunitdate normal=\"1966/1966\"\u003e1966\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                    \u003cc id=\"ref7\" level=\"file\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eCorrespondence, 1965\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid149005\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                            \u003ccontainer parent=\"cid149005\" type=\"Folder\"\u003e5\u003c/container\u003e\n                            \u003cunitdate normal=\"1965/1965\"\u003e1965\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                    \u003cc id=\"ref8\" level=\"file\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eCorrespondence, 1964\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid149006\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                            \u003ccontainer parent=\"cid149006\" type=\"Folder\"\u003e6\u003c/container\u003e\n                            \u003cunitdate normal=\"1964/1964\"\u003e1964\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref9\" level=\"subseries\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eLenore\u003c/unittitle\u003e\n                        \u003cunitdate normal=\"1962/1962\"\u003e1962\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                    \u003cc id=\"ref10\" level=\"file\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eCorrespondence, 1962\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid149007\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                            \u003ccontainer parent=\"cid149007\" type=\"Folder\"\u003e7\u003c/container\u003e\n                            \u003cunitdate normal=\"1962/1962\"\u003e1962\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref19\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eMiscellaneous\u003c/unittitle\u003e\n                    \u003cunitdate normal=\"1962/1965\" type=\"bulk\"\u003eBulk, 1962-1965\u003c/unitdate\u003e\n                    \u003cunitdate normal=\"1962/2004\" type=\"inclusive\"\u003e1962-2004\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref20\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eGraduate Level Program in History of Science Brochures and Enrollment Cards, 1965\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid150001\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid150001\" type=\"Folder\"\u003e8\u003c/container\u003e\n                        \u003cunitdate normal=\"1965/1965\"\u003e1965\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref21\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAnnual Reports of the Department of Air Pollution, City of New Yorkm 1962-1963\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid150002\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid150002\" type=\"Folder\"\u003e9\u003c/container\u003e\n                        \u003cunitdate normal=\"1962/1963\" type=\"inclusive\"\u003e1962-1963\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref22\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eBiographical Information, 2004\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid150003\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid150003\" type=\"Folder\"\u003e10\u003c/container\u003e\n                        \u003cunitdate normal=\"2004/2004\"\u003e2004\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

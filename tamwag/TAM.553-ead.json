@@ -1,0 +1,137 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "tam_553"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "American Youth Congress Records\n                    \u003cnum\u003eTAM.553\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Peter Meyer Filardo"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "9/18/2010"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T20:00-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "American Youth Congress Records"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "3.5 linear feet"
+                        },
+                        {
+                            "value": "(4 boxes)"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "TAM.553"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid19814001",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1-4"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref5",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open for research without restrictions. However, the collection contains a significant portion of fragile material, as well as some material that is housed in fragile folders, and these materials may require preservation measures prior to being made available for research."
+            }
+        },
+        "bioghist": {
+            "id": "ref6",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "The American Youth Congress was established in 1935 as an umbrella organization of American youth advocacy groups. Its intention was to unite these disparate groups under a single voice to promote opportunities for education and civic involvement for Depression-era youth, and to lobby on behalf of the under-21 population. The AYC won the vocal support of First Lady Eleanor Roosevelt, adn established itself as a powerful lobbying entity. Among many other causes, the AYC undertook lobbying efforts on behalf of racial justice, increased federal spending on education, and an end to mandatory participation in the Reserve Officers Training Corps (ROTC) for male college students. In its final years, with WWII looming, the AYC fought a vigorous battle against the Conscription Act and advocated American neutrality in the war. From its inception the AYC followed a policy of inclusiveness, welcoming youth organizations of all political views to join and contribute. But as its membership grew (the AYC claimed to represent at least 4.5 million citizens in 1938), left-leaning groups such as the American Student Union and the Young Communist League began to comprise the largest block of members, and the leadership of the AYC became increasingly radicalized, until by 1940 many of its upper-level members, including Director Joseph Cadden and Secretary Joseph Lash, also claimed membership in Communist Party front organizations. The AYC came under frequent attack from the House Un-American Activities Committee (HUAC) and particularly from the committee chairman Martin Dies, whose 1940 book \n                \u003cemph render=\"italic\"\u003eThe Trojan Horse in America\u003c/emph\u003e was largely an exposé of Communist infiltration in the AYC ranks. Under the pressure of these HUAC attacks, and following its notorious anti-war, anti-Roosevelt rally on the White House lawn in 1940, the AYC lost the support of its few remaining political allies, including Eleanor Roosevelt; by 1941 its influence had all but waned, and the group was effectively disbanded by the end of that year."
+            }
+        },
+        "scopecontent": {
+            "id": "ref3",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "FOR FURTHER INQUIRIES, CONTACT: tamiment.wagner@nyu.edu"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Peace movements |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialism and youth |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Student movements |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "World War, 1939-1945 |x Protest movements |z United States."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Southern Negro Youth Congress."
+            }
+        },
+        "dsc": {}
+    }
+}

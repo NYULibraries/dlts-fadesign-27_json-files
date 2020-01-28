@@ -1,0 +1,153 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "baer"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the William Bush Baer Papers \u003cnum\u003eMC.46\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by University Archives staff. Electronic finding aid prepared by John Bence in 2011."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-12-04T14:11:53\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "local",
+                        "value": "Baer, William Bush, 1902-1958"
+                    }
+                },
+                "unittitle": {
+                    "value": "William Bush Baer Papers"
+                },
+                "unitdate": {
+                    "normal": "1944/1958",
+                    "type": "inclusive",
+                    "value": "1944-1958"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.75 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 manuscript box, and 1 half manuscript box."
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "William Bush Baer was an instructor in English at the New York University College of Arts and Sciences in 1926, and was eventually promoted to dean in January of 1942. Beginning in 1952, Dean Baer wrote, produced, and performed in the 15-minute, Sunday morning television program called \"Our Goodly Heritage\" on WCBS-TV. \n\nThe collection consists of materials related to Baer's telecasted educational program \"Our Goodly Heritage\", and materials Baer created and gathered while working at New York University. Collection materials include correspondence, press releases, news clippings, and typescripts. Materials date from 1944 to 1958."
+                },
+                "unitid": {
+                    "value": "MC.46"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_88a2f98c6a8275f73a6346f66a7c1f3e",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_3cd14a1bd5e669f13eea8d707ccb747a",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; William Bush Baer Papers; MC 46; box number; folder number; New York University Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_59e56bc9f3e7974c93f471644abedc86",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by the Green Room Honor Society at an unknown date. There is no accession record associated with this collection."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_37ea909d718bebaf76725f47af70614c",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Beginning in 1952, Dean Baer wrote, produced, and performed in the 15-minute, Sunday morning television program called \"Our Goodly Heritage\" on WCBS-TV. The series was patterned after Baer's course on the Bible as literature."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_d5b96ee8eb006d06cecb5eff79e49f2f",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The bulk of this collection consists of materials related to Baer's telecasted educational program on WCBS-TV called \"Our Goodly Heritage.\" To a lesser extent, the collection contains materials Baer created and gathered while working at New York University. Collection materials include correspondence, press releases, news clippings, and typescripts. Materials date from 1944 to 1958."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "English teachers."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Television producers and directors."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "WCBS-TV (Television station : New York, N.Y.)"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref1\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\u003cunitdate normal=\"1944/1957\" type=\"inclusive\"\u003e1944, 1953-1957\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter - Half\" id=\"aspace_2d374e72bae973d4631f6deadbfeb0ed\" label=\"Mixed Materials [31142062741809]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2d374e72bae973d4631f6deadbfeb0ed\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref2\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMiscellaneous\u003c/unittitle\u003e\u003cunitdate normal=\"1944/1958\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter - Half\" id=\"aspace_08642dda2cbd6f606fcde39771280d05\" label=\"Mixed Materials [31142062741809]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_08642dda2cbd6f606fcde39771280d05\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref3\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNewspaper Clippings\u003c/unittitle\u003e\u003cunitdate normal=\"1949/1957\" type=\"inclusive\"\u003e1949-1957\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter - Half\" id=\"aspace_2446981bdb62bbccc9d61ce12ecc31fe\" label=\"Mixed Materials [31142062741809]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2446981bdb62bbccc9d61ce12ecc31fe\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref7\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePress Releases\u003c/unittitle\u003e\u003cunitdate normal=\"1952/1957\" type=\"inclusive\"\u003e1952-1957\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter - Half\" id=\"aspace_fdc1664f0b40d682abe90737b59d038c\" label=\"Mixed Materials [31142062741809]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_fdc1664f0b40d682abe90737b59d038c\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref4\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eListings of 112 Typescripts on \"Our Goodly Heritage\"\u003c/unittitle\u003e\u003cunitdate normal=\"1952/1958\" type=\"inclusive\"\u003e1952-1958\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter - Half\" id=\"aspace_81f2ecec2184e3656cc683765132616f\" label=\"Mixed Materials [31142062741809]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_81f2ecec2184e3656cc683765132616f\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref6\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTypescripts [annotated]\u003c/unittitle\u003e\u003cunitdate normal=\"1952/1952\" type=\"inclusive\"\u003e1952\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter - Half\" id=\"aspace_94a68db9245a12e51ffb1d40b0fe9c59\" label=\"Mixed Materials [31142062741809]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_94a68db9245a12e51ffb1d40b0fe9c59\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref8\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTypescripts [annotated]\u003c/unittitle\u003e\u003cunitdate\u003e1953\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter - Half\" id=\"aspace_b4fbe3c3768e39180eb177d0c81adcd8\" label=\"Mixed Materials [31142062741809]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b4fbe3c3768e39180eb177d0c81adcd8\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref9\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTypescripts [annotated]\u003c/unittitle\u003e\u003cunitdate\u003e1954\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_b1d7062753f824ff07089dafc743a56c\" label=\"Mixed Materials [31142062741817]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_b1d7062753f824ff07089dafc743a56c\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref10\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTypescripts [annotated]\u003c/unittitle\u003e\u003cunitdate normal=\"1955/1955\" type=\"inclusive\"\u003e1955 January - July\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_e03aa94ef752940aa50771d336980bc7\" label=\"Mixed Materials [31142062741817]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_e03aa94ef752940aa50771d336980bc7\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref11\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTypescripts [annotated]\u003c/unittitle\u003e\u003cunitdate normal=\"1955/1955\" type=\"inclusive\"\u003e1955 September - December\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_2a87a833b7a386b4ab5ef82474d815a7\" label=\"Mixed Materials [31142062741817]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_2a87a833b7a386b4ab5ef82474d815a7\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref12\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTypescripts [annotated]\u003c/unittitle\u003e\u003cunitdate normal=\"1956/1956\" type=\"inclusive\"\u003e1956 January - June\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_bf14fb8f2620b007f750d4712854e99a\" label=\"Mixed Materials [31142062741817]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_bf14fb8f2620b007f750d4712854e99a\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref13\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTypescripts [annotated]\u003c/unittitle\u003e\u003cunitdate normal=\"1956/1956\" type=\"inclusive\"\u003e1956 July - December\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_918a46d0c5340d62c9b01b987ac25885\" label=\"Mixed Materials [31142062741817]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_918a46d0c5340d62c9b01b987ac25885\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTypescripts [annotated]\u003c/unittitle\u003e\u003cunitdate normal=\"1957/1957\" type=\"inclusive\"\u003e1957 January - May\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_d443d506518f9d4765691bac6905fc8a\" label=\"Mixed Materials [31142062741817]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_d443d506518f9d4765691bac6905fc8a\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTypescripts [annotated]\u003c/unittitle\u003e\u003cunitdate normal=\"1957/1957\" type=\"inclusive\"\u003e1957 June - December\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_723e2cff11637fdd19d20f23a9d0f61d\" label=\"Mixed Materials [31142062741817]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_723e2cff11637fdd19d20f23a9d0f61d\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTypescripts of \"Our Goodly Heritage\"\u003c/unittitle\u003e\u003cunitdate normal=\"1958/1958\" type=\"inclusive\"\u003e1958\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_6c70d09a98811af986f49f448d91b170\" label=\"Mixed Materials [31142062741817]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_6c70d09a98811af986f49f448d91b170\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

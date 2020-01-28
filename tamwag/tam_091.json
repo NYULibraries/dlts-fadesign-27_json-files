@@ -1,0 +1,163 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_091"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Fagel Stern Papers \u003cnum\u003eTAM.091\u003c/num\u003e"
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-07T15:00:29\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "local",
+                        "value": "Stern, Phyllis"
+                    }
+                },
+                "unittitle": {
+                    "value": "Fagel Stern Papers"
+                },
+                "unitdate": {
+                    "normal": "1922/1983",
+                    "type": "inclusive",
+                    "value": "1922-1983"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one manuscript box."
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Faygle Stern (circa 1904-1936) was a Polish Jewish communist active in the Jewish Section of the International Workers Order in New York. She came to the United States in 1921, and died in childbirth in January, 1936. The collection includes her diary, correspondence with her brother Abram Judah, a communist who lived in Havana and the USSR, and biographical material (reminiscence, sketch, obituary). The diary, notebooks, and most of the letters are in Yiddish."
+                },
+                "unitid": {
+                    "value": "TAM.091"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "yid"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_6da393930494c2668bc5f5ca39fa3747",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_3341228611c6096fd6fbbcd3a5b9b88c",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Fagel Stern Papers; TAM 091; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_5c6e57a09b4522b92ac3e6af447a0853",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Phyllis Stern (niece of Fagel Stern), 1990. The accession numbers associated with this gift are 1990.005 and 1990.008."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_a5a7b8764fce4e622147c367cb2f2814",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Faygle Stern (circa 1904-1936), was a Jewish communist active in the Jewish Section of the International Workers Order, primarily as a teacher in the Yiddish shule movement in the Brownsville section of Brooklyn, New York. She was born in Ostroleka (a.k.a. Ostrolenka), Poland, came to the United States in 1921, and died in childbirth in January, 1936."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_535faee3336c8de2a4d7aa355cce28b3",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "This collection contains Stern's diary; two notebooks with comments on Jews, Zionism, and world affairs; correspondence from family members, friends, and colleagues; and photographs. The collection also contains biographical material."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Jewish teachers |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Jews, Polish |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Jewish communists |z Cuba."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Zionism."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Political activists |z New York (State) |z Brooklyn (New York, N.Y.)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Jewish communists -- New York (State) -- New York."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "International Workers Order. Jewish Section"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref11\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: Papers\u003c/unittitle\u003e\u003cunitdate normal=\"1922/1983\" type=\"inclusive\"\u003e1922-1983\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_1672c49eda88c5fc107059fa6e9ae367\"\u003e\u003chead\u003eScope and Content Note\u003c/head\u003e\u003cp\u003eThis series contains Stern's diary, maintained during her fatal pregnancy, in which personal and political concerns are co-mingled. The series also contains her political notebooks; letters from her brother Abram Judah, also a communist who lived in Havana before returning to the USSR, where he died in 1933; letters from her brother Beryl, who came to the U.S. from Ostrolenka in 1935, and letters from her brother Chiel, who remained in Poland. The collection also contains biographical material on Stern including a reminiscence, sketch, and obituary.\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_ref12\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eStern, Abram Judah (Idl) - Death.\u003c/unittitle\u003e\u003cunitdate normal=\"1933/1933\" type=\"inclusive\"\u003e1933\u003c/unitdate\u003e\u003ccontainer id=\"aspace_37e6b2901e575d433fb00a12605d54d4\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_37e6b2901e575d433fb00a12605d54d4\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref13\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eStern, Abram Judah (Idl) - letters from Cuba to Fagel Stern\u003c/unittitle\u003e\u003cunitdate normal=\"1930/1931\" type=\"inclusive\"\u003e1930-1931\u003c/unitdate\u003e\u003ccontainer id=\"aspace_89bbc7de7d26d5eb41224912c12cffb7\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_89bbc7de7d26d5eb41224912c12cffb7\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eStern, Abram Judah (Idl) and Fagel Stern - Immigration to United States - Documents.\u003c/unittitle\u003e\u003cunitdate normal=\"1922/1928\" type=\"inclusive\"\u003e1922-1928\u003c/unitdate\u003e\u003ccontainer id=\"aspace_143952507332cacdfe28511ae686dbd7\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_143952507332cacdfe28511ae686dbd7\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eStern, Beryl - letters to Fagel Stern.\u003c/unittitle\u003e\u003cunitdate normal=\"1934/1934\" type=\"inclusive\"\u003e1934\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d0ca317d867855883c5b2ee2a13d2b74\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d0ca317d867855883c5b2ee2a13d2b74\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eStern, Beryl - letter from R.Saltzman, National Secretary, Jewish Section, International Workers Order.\u003c/unittitle\u003e\u003cunitdate\u003e1938\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a24d445d3b3a0e7cc97db146ed12fd6b\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_a24d445d3b3a0e7cc97db146ed12fd6b\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eStern, Chiel - letters to Fagel and Beryl Stern.\u003c/unittitle\u003e\u003cunitdate\u003e1933-1939\u003c/unitdate\u003e\u003ccontainer id=\"aspace_872f01fb81a964a04410593133c284e4\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_872f01fb81a964a04410593133c284e4\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eStern, Fagel - Biographical materials.\u003c/unittitle\u003e\u003cunitdate\u003e1936-1983\u003c/unitdate\u003e\u003ccontainer id=\"aspace_afe1fba64d0a686c67ac9700566d0804\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_afe1fba64d0a686c67ac9700566d0804\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eStern, Fagel - Diary.\u003c/unittitle\u003e\u003cunitdate\u003eJul 1935-Jan 1936\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2b55dc470dc7c352e5a2b890a463e51a\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2b55dc470dc7c352e5a2b890a463e51a\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eStern, Fagel - letters to Abram and Beryl Stern.\u003c/unittitle\u003e\u003cunitdate\u003e1933-1935\u003c/unitdate\u003e\u003ccontainer id=\"aspace_fa184fce182c19a6964b815c8a5a1869\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_fa184fce182c19a6964b815c8a5a1869\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eStern, Fagel - Political notebooks.\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_45d3b344ef552f588bdaf227f128fc3a\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_45d3b344ef552f588bdaf227f128fc3a\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eStern, Naftali (uncle of Fagel) - letter to Fagel Stern.\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f997b7606e75aae9cea2392ad44e5bdd\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f997b7606e75aae9cea2392ad44e5bdd\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTante - letter to Fagel Stern.\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b55817a40dce9e4e677e5a52c1830c44\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b55817a40dce9e4e677e5a52c1830c44\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref34\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries II: Photographs\u003c/unittitle\u003e\u003cunitdate normal=\"1924/1924\" type=\"inclusive\"\u003ecirca 1924\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f0e02af7af6d2665838315c3544b12fd\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_0eeecd2397af3b8a6b7e75fbd10ff41b\"\u003e\u003chead\u003eScope and Content Note\u003c/head\u003e\u003cp\u003eThis series contains four items, including two black-and-white prints and two letters. Both photographs include Fagel Stern, dated 1924. Both letters are addressed to Phyllis Stern.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e"
+        }
+    }
+}

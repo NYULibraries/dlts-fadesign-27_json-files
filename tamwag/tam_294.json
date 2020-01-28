@@ -1,0 +1,144 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_294"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Annie Chamberlin Papers \u003cnum\u003eTAM 294\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Rachel Schimke, 2014"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-11T20:26:02\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Annie Chamberlin Papers"
+                },
+                "unitdate": {
+                    "value": "1968-1980"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "2 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 2 record cartons"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Annie Chamberlin is a women's rights activist who lives in New York City. The collection primarily documents her interest in and activism on behalf of women in the workplace, particularly office workers. The majority of the collection is comprised of subject files containing interview transcripts, reports, newsletters, notes, and other materials produced by Chamberlin or various women's rights groups, primarily dating from the 1970s. These materials pertain to affirmative action and discrimination in the workplace, especially as applied to women's compensation and working conditions."
+                },
+                "unitid": {
+                    "value": "TAM 294"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_9dc885210db1597bcf3f57a5eb9f4901",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_ad1c1fc17475542e9d64b7c87d6ae315",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Annie Chamberlin Papers; TAM 294; Box number; Folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_7fe00921b8c932de303dd962e61fef63",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Annie Chamberlin in 2002; additional materials were found in the repository in 2014. The accession numbers associated with this collection are 2002.035 and 2014.042."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_101b76383d0cda079891f347217059f1",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Annie Chamberlin is a women's rights activist who lives in New York City. She attended Barnard College in the late 1960s and was active in a number of women's rights groups during the 1970s."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_0a1a0a329f99886f1bb19b7cb228d1be",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The collection also includes a draft of part of Chamberlin's Barnard College thesis on the decision-making processes at small colleges (using Barnard as a case study), along with her notes and research materials. Also of note is the file on Chamberlin maintained by the New York Police Department's \"Red Squad.\" A small number of fliers, news releases, and other materials pertain to a protest held against McGeorge Bundy when he was selected as the CUNY Graduate School's commencement speaker in 1980."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Women's rights -- New York (State) -- New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Women |x Employment |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Universities and Colleges -- Employees -- Labor unions."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Barnard College"
+            }
+        },
+        "dsc": {}
+    }
+}

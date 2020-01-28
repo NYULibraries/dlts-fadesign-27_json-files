@@ -1,0 +1,153 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_375"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Edwin Smith Manuscript \"American Labor History\" \u003cnum\u003eTAM 375\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-25T16:29:59\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Edwin Smith Manuscript \"American Labor History\""
+                },
+                "unitdate": {
+                    "normal": "1976/1976",
+                    "type": "inclusive",
+                    "value": "1976, undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "This collection contains an unpublished typescript of \"American Labor History\" written by Edwin Smith. Edwin Smith was an American labor leader was one of the first three members of the National Labor Relations Board appointed by Franklin Delano Roosevelt. Smith's manuscript for \"American Labor History,\" attempts to document the history of American labor from the colonial period up to the start of the Cold War in the 1950s. The manuscript is incomplete however, and only contains Chapters I through VII, ending in the 1820s. The collection also contains several biographical sketches of Smith including obituaries following his death in 1976. "
+                },
+                "unitid": {
+                    "value": "TAM 375"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_96004361fd829a361a7118d2f87e69aa",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_fb197b12e85cf390e0864f59baea753c",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_dd4a0e74579a14bf66a647ff1a2b0e74",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Edwin Smith Manuscript \"American Labor History\"; TAM 375; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_8d9da545b27a31cd8b1328a3ad01e2c0",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials donated by Diana Madell, date unknown. The accession number associated with this gift is 1950.002."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_138b9cc0e89d549a45ec140f59659b2a",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Edwin S. Smith (1891-1976) served on the National Labor Relations Board (NLRB) during the New Deal, as one of its original members, was a member and president of Friends of the Soviet Union, served as the personnel director of Filene's department store in Boston, and was Commissioner of Labor and Industries in Massachusetts. He also worked for the Oil Workers International Union of the CIO, and the Teachers' Division of the United Public Workers of America. When he appeared before the House Committee on Un-American Activities in 1956 he refused to answer questions about alleged Communist affiliation."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_154cf895d1236337d5c4c82455da42fc",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection contains an unpublished typescript of \"American Labor History\" written by Edwin Smith. Smith's \"American Labor History,\" attempts to document the history of American labor from the colonial period up to the start of the Cold War in the 1950s. The manuscript is incomplete however, and only contains Chapters I through VII, ending in the 1820s. The collection also contains several biographical sketches of Smith including obituaries following his death in 1976."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Industrial relations |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor |z United States |x History."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor unions -- United States -- History"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "United States. National Labor Relations Board"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref10\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eEdwin Smith Biographical Information\u003c/unittitle\u003e\u003cunitdate normal=\"1976/1976\" type=\"inclusive\"\u003eundated, 1976\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7e985aded158120f332502257a4db23d\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_7e985aded158120f332502257a4db23d\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref11\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"American Labor History\" by Edwin Smith\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_641f9a55cc2d9de02644fb5099bfd041\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_641f9a55cc2d9de02644fb5099bfd041\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

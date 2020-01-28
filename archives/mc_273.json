@@ -1,0 +1,153 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "mc_273"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Ida Elizabeth Kopp Student Notebook \u003cnum\u003eMC.273\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Rachel Searcy"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-12-21T20:45:14\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Kopp, Ida Elizabeth"
+                    }
+                },
+                "unittitle": {
+                    "value": "Ida Elizabeth Kopp Student Notebook"
+                },
+                "unitdate": {
+                    "normal": "1927/1932",
+                    "type": "inclusive",
+                    "value": "1927-1932"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": ".25 linear feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one volume"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Ida Elizabeth Kopp was a night student at New York University's School of Commerce, Accounts and Finance (later known as the Leonard N. Stern School of Business) from approximately 1926 through 1932. She was the only daughter of an immigrant couple from Germany and Switzerland. She graduated with a Bachelor's degree and later worked as a secretary to the President of Stauffer Chemical Company located in the Graybar Building of Grand Central Station. This collection consists of Kopp's student notebook from her classes at NYU from roughly 1927 through 1932."
+                },
+                "unitid": {
+                    "value": "MC.273"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_f915c7631f26afa18bd87d407be281e6",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_c0cc0dade643b4fd7eb64f11aa1683b0",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open for use without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_3ad182052c1a200e5bfad565c285a57c",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Ida Elizabeth Kopp Student Notebook; MC 273; box number; folder number; New York University Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_6c5c024bb7d71e036becc2c42e307792",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Barbara C. Sampson, Kopp's daughter, in March 2017. The accession number associated with this gift is 2017.010."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_5955162ac0e3f3c463aa07505e0e63c5",
+            "head": "Biographical / Historical",
+            "p": {
+                "value": "Ida Elizabeth Kopp was a night student at New York University's School of Commerce, Accounts and Finance (later known as the Leonard N. Stern School of Business) from approximately 1926 through 1932. She was the only daughter of an immigrant couple from Germany and Switzerland. She graduated with a Bachelor's degree and later worked as a secretary to the President of Stauffer Chemical Company located in the Graybar Building of Grand Central Station."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_dee5e3bb8b7c7298667ab8ad429713fb",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection consists of Ida Elizabeth Kopp's student notebook from her classes at the New York University School of Commerce, Accounts and Finance from roughly 1927 through 1932."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Business students"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Leonard N. Stern School of Business"
+            }
+        },
+        "dsc": {}
+    }
+}

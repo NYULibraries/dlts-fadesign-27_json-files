@@ -1,0 +1,151 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "pe_024"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection on the National Association of Broadcast Employees and Technicians \u003cnum\u003ePE.024\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Adrien Hilton"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-08-21T18:46:48\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection on the National Association of Broadcast Employees and Technicians"
+                },
+                "unitdate": {
+                    "normal": "1946/1994",
+                    "type": "inclusive",
+                    "value": "1946-1994"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "2 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(2 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection on the National Association of Broadcast Employees and Technicians (NABET) is an artificial collection, collected and assembled by the Tamiment Library over the course of several decades. Founded in the mid-1930s as a company union for the National Broadcasting Company, NABET represents professional and non-professional employees in the broadcast industry. In 1994 the union joined with the Communications Workers of America to become NABET-CWA. The collection consists largely of contracts and agreements with NBC and ABC as well as constitutions and by-laws. There are also convention proceedings, reports, and minutes as well as printed ephemera such as fliers, brochures, newspaper clippings, pamphlets and other publications. In addition to the material generated at the international and national level of NABET, there is material from various locals represented in the collection. "
+                },
+                "unitid": {
+                    "value": "PE.024"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_06840a7e9a6d8878c7d2f0216e23203d",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_6065ed87918d8cc0727c5b1e8d40ddce",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: \u003clb/\u003e\u003clb/\u003eIdentification of item, date; Collection name; Collection number; box number; folder number; \u003clb/\u003eTamiment Library/Robert F. Wagner Labor Archives \u003clb/\u003eElmer Holmes Bobst Library \u003clb/\u003e70 Washington Square South \u003clb/\u003eNew York, NY 10012, New York University Libraries."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_f2267410bcb6707b9749a151e5b765a7",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials in this collection have been compiled by the Tamiment Library. There is no accession record associated with this collection."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_2ca8ca6bbf1c6e5f98afd9b7661c5c31",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "In 1993 NABET became affiliated with the Communications Workers of America (CWA). In 1994 NABET and CWA held a conference on the possibility of solidifying their affiliation with a formal merger. The conference was a success, and in 1994 NABET merged with CWA. The union once again changed its name, becoming NABET-CWA. NABET-CWA currently represents over 10,000 workers in the broadcast industry."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_2cdaeaf04538987557724e490fdf3666",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection on the National Association of Broadcast Employees and Technicians consists largely of agreements and contracts with ABC and NBC. There are also constitutions, by-laws, convention proceedings, and reports. The material in the collection originates with the national body of NABET as well as from various locals, including the minutes from the executive board of Local 16 of New York City. The collection contains several files from the International Federation of Unions of Audio-Visual Workers (FISTAV) and on international entertainment unions in general. There are fliers and circular letters documenting organizing activities as well as pamphlets and stewards manuals."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Labor unions"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor unions -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Labor unions -- New York (State) -- New York."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "National Association of Broadcast Employees and Technicians"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref1\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAgreements and Contracts: ABC\u003c/unittitle\u003e\u003cunitdate normal=\"1955/1971\" type=\"inclusive\"\u003e1955-1971\u003c/unitdate\u003e\u003ccontainer id=\"aspace_28763176137e597c1f6d2633bb912dba\" label=\"Mixed Materials [31142054631190]\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref2\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAgreements and Contracts: ABC\u003c/unittitle\u003e\u003cunitdate normal=\"1973/1981\" type=\"inclusive\"\u003e1973-1981\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ff5e227e8f34b4fd8ea6e8aafa82461b\" label=\"Mixed Materials [31142054631190]\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref3\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAgreements and Contracts: ABC\u003c/unittitle\u003e\u003cunitdate normal=\"1981/1985\" type=\"inclusive\"\u003e1981-1985\u003c/unitdate\u003e\u003ccontainer id=\"aspace_577e91bc044a12f0ec18813af32e8621\" label=\"Mixed Materials [31142054631190]\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref4\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAgreements and Contracts: ABC\u003c/unittitle\u003e\u003cunitdate normal=\"1985/1989\" type=\"inclusive\"\u003e1985-1989\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b27202a92fb81e2dd1526786203d3ee8\" label=\"Mixed Materials [31142054631190]\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref5\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAgreements and Contracts: ABC\u003c/unittitle\u003e\u003cunitdate normal=\"1989/1993\" type=\"inclusive\"\u003e1989-1993\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9060758408c95f22dba502713d9ed162\" label=\"Mixed Materials [31142054631190]\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref6\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAgreements and Contracts: NBC\u003c/unittitle\u003e\u003cunitdate normal=\"1949/1955\" type=\"inclusive\"\u003e1949-1955\u003c/unitdate\u003e\u003ccontainer id=\"aspace_3d84ddca037cedd7270ffd6176a23658\" label=\"Mixed Materials [31142054631190]\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref7\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAgreements and Contracts: NBC\u003c/unittitle\u003e\u003cunitdate normal=\"1958/1973\" type=\"inclusive\"\u003e1958-1973\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4bcdafc1c6bbabaf4146f374fa00c159\" label=\"Mixed Materials [31142054631190]\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref8\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAgreements and Contracts: NBC\u003c/unittitle\u003e\u003cunitdate normal=\"1973/1983\" type=\"inclusive\"\u003e1973-1983\u003c/unitdate\u003e\u003ccontainer id=\"aspace_de3e888d90ba808061fff39452914350\" label=\"Mixed Materials [31142054631190]\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref9\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAgreements and Contracts: NBC\u003c/unittitle\u003e\u003cunitdate normal=\"1983/1987\" type=\"inclusive\"\u003e1983-1987\u003c/unitdate\u003e\u003ccontainer id=\"aspace_58745b02f9080458e11b65ace6817b6d\" label=\"Mixed Materials [31142054631190]\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref10\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAgreements and Contracts: NBC\u003c/unittitle\u003e\u003cunitdate normal=\"1987/1990\" type=\"inclusive\"\u003e1987-1990\u003c/unitdate\u003e\u003ccontainer id=\"aspace_395c0a8440754b169f68cf820f29c831\" label=\"Mixed Materials [31142054631190]\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref11\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAgreements and Contracts: NBC\u003c/unittitle\u003e\u003cunitdate normal=\"1990/1994\" type=\"inclusive\"\u003e1990-1994\u003c/unitdate\u003e\u003ccontainer id=\"aspace_0fb70ca230addae7d866034ee2729157\" label=\"Mixed Materials [31142054631190]\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref12\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAnnual Meeting - Official Minutes\u003c/unittitle\u003e\u003cunitdate normal=\"1952/1953\" type=\"inclusive\"\u003e1952-1953\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ac9d1c605e4e56138aebe8eb4510d9e3\" label=\"Mixed Materials [31142054631190]\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref13\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCircular Letters\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e9351b3b36a69f9aac74d6c13f9d01a5\" label=\"Mixed Materials [31142054631190]\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eConstitutions and By-Laws\u003c/unittitle\u003e\u003cunitdate normal=\"1946/1949\" type=\"inclusive\"\u003e1946, 1949\u003c/unitdate\u003e\u003ccontainer id=\"aspace_adbc49e0c3f7e5620d5201196bae61af\" label=\"Mixed Materials [31142054631190]\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eConstitutions and By-Laws\u003c/unittitle\u003e\u003cunitdate normal=\"1952/1959\" type=\"inclusive\"\u003e1952-1959\u003c/unitdate\u003e\u003ccontainer id=\"aspace_8a5866b0761ce1ac03211a8d4e8f7b04\" label=\"Mixed Materials [31142054631190]\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eConstitutions and By-Laws\u003c/unittitle\u003e\u003cunitdate normal=\"1960/1969\" type=\"inclusive\"\u003e1960s\u003c/unitdate\u003e\u003ccontainer id=\"aspace_80b4689772524a0e4c4aa19e17b07287\" label=\"Mixed Materials [31142054631190]\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eConstitutions and By-Laws\u003c/unittitle\u003e\u003cunitdate normal=\"1970/1979\" type=\"inclusive\"\u003e1970s\u003c/unitdate\u003e\u003ccontainer id=\"aspace_6898e9cbd638dcca860f141395d2a1a4\" label=\"Mixed Materials [31142054631190]\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eConstitutions and By-Laws\u003c/unittitle\u003e\u003cunitdate normal=\"1980/1994\" type=\"inclusive\"\u003e1980s, 1990, 1994\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1f7e7f6adec5415a5a435c34fe7a5fb6\" label=\"Mixed Materials [31142054631190]\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eConstitutional Conventions: Proceedings\u003c/unittitle\u003e\u003cunitdate normal=\"1994/1994\" type=\"inclusive\"\u003e1994\u003c/unitdate\u003e\u003ccontainer id=\"aspace_06f297c775f9dd79d9938277bd3c19d9\" label=\"Mixed Materials [31142054631182]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eConstitutional Conventions: Proposed Amendments\u003c/unittitle\u003e\u003cunitdate normal=\"1986/1990\" type=\"inclusive\"\u003e1986, 1990\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7cde65ae87679245f0a6023af7feb53b\" label=\"Mixed Materials [31142054631182]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eEntertainment Unions in Other Countries (Including Japan, Puerto Rico, Dominican Republic and Venezuela)\u003c/unittitle\u003e\u003cunitdate normal=\"1979/1982\" type=\"inclusive\"\u003e1979-1982\u003c/unitdate\u003e\u003ccontainer id=\"aspace_0c176c8e92d1ddbecccde6145553827f\" label=\"Mixed Materials [31142054631182]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFederal Legislation regarding Audio-Visual Field\u003c/unittitle\u003e\u003cunitdate normal=\"1973/1974\" type=\"inclusive\"\u003e1973-1974\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a8eae471336e2569ac9082c356a1d284\" label=\"Mixed Materials [31142054631182]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eInternational By-Laws\u003c/unittitle\u003e\u003cunitdate normal=\"1958/1958\" type=\"inclusive\"\u003e1958\u003c/unitdate\u003e\u003ccontainer id=\"aspace_6d56a2cd07757ff6f14af0756154ff61\" label=\"Mixed Materials [31142054631182]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref26\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eInternational Constitutional Conventions: Proceedings\u003c/unittitle\u003e\u003cunitdate normal=\"1962/1965\" type=\"inclusive\"\u003e1962, 1965\u003c/unitdate\u003e\u003ccontainer id=\"aspace_61f830fa1de4b0f46966d5cd6e42dc59\" label=\"Mixed Materials [31142054631182]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eInternational Constitutional Conventions: Reports\u003c/unittitle\u003e\u003cunitdate normal=\"1954/1956\" type=\"inclusive\"\u003e1954, 1956\u003c/unitdate\u003e\u003ccontainer id=\"aspace_986c63942583ad2b849af381cde2a9f8\" label=\"Mixed Materials [31142054631182]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref28\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eInternational Constitutional Conventions: Reports\u003c/unittitle\u003e\u003cunitdate normal=\"1959/1959\" type=\"inclusive\"\u003e1959\u003c/unitdate\u003e\u003ccontainer id=\"aspace_896018b3e9a016789cd40a32d3fa1a0d\" label=\"Mixed Materials [31142054631182]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref29\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eInternational Federation of Unions of Audio-Visual Workers (F.I.S.T.A.V.): Bulletin\u003c/unittitle\u003e\u003cunitdate normal=\"1978/1981\" type=\"inclusive\"\u003e1978-1981\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e52f842de9dfa7460374c046d69e6d78\" label=\"Mixed Materials [31142054631182]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref30\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eInternational Federation of Unions of Audio-Visual Workers (F.I.S.T.A.V.): Constitution\u003c/unittitle\u003e\u003cunitdate normal=\"1974/1974\" type=\"inclusive\"\u003e1974\u003c/unitdate\u003e\u003ccontainer id=\"aspace_67c26fe9c93a939ea96656dbb17d2ac4\" label=\"Mixed Materials [31142054631182]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref31\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eInternational Federation of Unions of Audio-Visual Workers (F.I.S.T.A.V.): Correspondence/Conferences\u003c/unittitle\u003e\u003cunitdate normal=\"1978/1978\" type=\"inclusive\"\u003e1978\u003c/unitdate\u003e\u003ccontainer id=\"aspace_29f4824f684b2b195c90e561c7f0d230\" label=\"Mixed Materials [31142054631182]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref32\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eInternational Federation of Unions of Audio-Visual Workers (F.I.S.T.A.V.): Japan\u003c/unittitle\u003e\u003cunitdate normal=\"1982/1982\" type=\"inclusive\"\u003e1982\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4ba2245d84ab33566d82819526a8f1a8\" label=\"Mixed Materials [31142054631182]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref33\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eInternational Federation of Unions of Audio-Visual Workers (F.I.S.T.A.V.): Pamphlets and Publications\u003c/unittitle\u003e\u003cunitdate normal=\"1980/1980\" type=\"inclusive\"\u003e1980\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2ffe348cd73f4a4eb331fa81fc3a0e06\" label=\"Mixed Materials [31142054631182]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref34\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLocal 15 (New York, NY): Basic Minimum Agreement\u003c/unittitle\u003e\u003cunitdate normal=\"1979/1979\" type=\"inclusive\"\u003e1979\u003c/unitdate\u003e\u003ccontainer id=\"aspace_271f51a821b9ab5333e84937ed3b38f6\" label=\"Mixed Materials [31142054631182]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref35\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLocal 15 (New York, NY): Georgia State AFL-CIO\u003c/unittitle\u003e\u003cunitdate normal=\"1978/1979\" type=\"inclusive\"\u003e1978-1979\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4f3798e7f50366e569bc13ec4c78d227\" label=\"Mixed Materials [31142054631182]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref36\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLocal 16 (New York, NY): Disney/ABC, Negotiations with\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_565b925cafdd2f8825ab349859f507a4\" label=\"Mixed Materials [31142054631182]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref37\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLocal 16 (New York, NY): By-Laws\u003c/unittitle\u003e\u003cunitdate normal=\"1983/1983\" type=\"inclusive\"\u003e1983\u003c/unitdate\u003e\u003ccontainer id=\"aspace_3ef395a13449ab2dc0341b554037644d\" label=\"Mixed Materials [31142054631182]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref38\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLocal 16 (ABC, New York, NY): Minutes - Executive Board\u003c/unittitle\u003e\u003cunitdate normal=\"1978/1978\" type=\"inclusive\"\u003e1978\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4e66faa47e0068ffcf9c50cf3a6d2f25\" label=\"Mixed Materials [31142054631182]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref39\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLocal 16 (ABC, New York, NY): Minutes - Executive Board\u003c/unittitle\u003e\u003cunitdate normal=\"1979/1979\" type=\"inclusive\"\u003e1979\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e00a09610f77f8324cd7e7f67246a1e7\" label=\"Mixed Materials [31142054631182]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref40\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLocal 16 (ABC, New York, NY): Minutes - Executive Board\u003c/unittitle\u003e\u003cunitdate normal=\"1980/1980\" type=\"inclusive\"\u003e1980\u003c/unitdate\u003e\u003ccontainer id=\"aspace_6f70f47210ab259f9e7b42e174964c09\" label=\"Mixed Materials [31142054631182]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref41\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLocal 16 (ABC, New York, NY): Minutes - Executive Board\u003c/unittitle\u003e\u003cunitdate normal=\"1981/1981\" type=\"inclusive\"\u003e1981\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ddac42423222fce90cad38e1e52b90f1\" label=\"Mixed Materials [31142054631182]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref42\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLocal 16 (ABC, New York, NY): Minutes - Executive Board\u003c/unittitle\u003e\u003cunitdate normal=\"1982/1982\" type=\"inclusive\"\u003e1982\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b7e882c4d2ed03ae4fda7fbc02153d2e\" label=\"Mixed Materials [31142054631182]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref43\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLocal 16 (ABC, New York, NY): Minutes - Executive Board\u003c/unittitle\u003e\u003cunitdate normal=\"1983/1983\" type=\"inclusive\"\u003e1983\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d22cee4f0d42928ca70f922c2aadfd14\" label=\"Mixed Materials [31142054631182]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref44\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLocal 16 (ABC, New York, NY): Minutes - Executive Board\u003c/unittitle\u003e\u003cunitdate normal=\"1984/1984\" type=\"inclusive\"\u003e1984\u003c/unitdate\u003e\u003ccontainer id=\"aspace_14a0793123370e766ebbf9f9689891b6\" label=\"Mixed Materials [31142054631182]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref45\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLocal 16 (ABC, New York, NY): Minutes - Executive Board\u003c/unittitle\u003e\u003cunitdate normal=\"1985/1985\" type=\"inclusive\"\u003e1985\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c2a1ab4a372b9603571c53af9bcd067a\" label=\"Mixed Materials [31142054631182]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref46\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLocal 16 (New York, NY): Report: \"Audiological Evaluations of Members\"\u003c/unittitle\u003e\u003cunitdate normal=\"1974/1974\" type=\"inclusive\"\u003e1974\u003c/unitdate\u003e\u003ccontainer id=\"aspace_da25c38b395170872dc57f2c9afa525d\" label=\"Mixed Materials [31142054631182]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref47\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLocal 209 (Secaucus, NJ)\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_06ec7dbe6bc8873aea5f13da8af032af\" label=\"Mixed Materials [31142054631182]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref48\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLocal 532 (San Francisco, CA)\u003c/unittitle\u003e\u003cunitdate normal=\"1979/1980\" type=\"inclusive\"\u003e1979-1980\u003c/unitdate\u003e\u003ccontainer id=\"aspace_64de87dc0685c22518a7bae8013101ef\" label=\"Mixed Materials [31142054631182]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref49\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLocal 700\u003c/unittitle\u003e\u003cunitdate normal=\"1977/1977\" type=\"inclusive\"\u003e1977\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ca890b8892e4d9df787cbdf51f6d387c\" label=\"Mixed Materials [31142054631182]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref50\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNBC\u003c/unittitle\u003e\u003cunitdate normal=\"1990/1990\" type=\"inclusive\"\u003e1990\u003c/unitdate\u003e\u003ccontainer id=\"aspace_aa544f4cd272ddea8351632336c47894\" label=\"Mixed Materials [31142054631182]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNewspaper Clippings and Articles\u003c/unittitle\u003e\u003cunitdate normal=\"1982/1982\" type=\"inclusive\"\u003e1982\u003c/unitdate\u003e\u003ccontainer id=\"aspace_137f48b965efad128f11a24dbb39b745\" label=\"Mixed Materials [31142054631182]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref51\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePamphlets and Publications\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ffc1f5a714fbf5207457179e49b5fb5b\" label=\"Mixed Materials [31142054631182]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref52\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSayles, John, \"Matewan\" (Screenplay)\u003c/unittitle\u003e\u003cunitdate normal=\"1985/1985\" type=\"inclusive\"\u003e1985\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f50ab59a414a2daf95ca5315bb49b85f\" label=\"Mixed Materials [31142054631182]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref53\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eShop Steward Manual\u003c/unittitle\u003e\u003cunitdate normal=\"1990/1990\" type=\"inclusive\"\u003e1990\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f1525256fb83f392e31dd4e76d7877a5\" label=\"Mixed Materials [31142054631182]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref54\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eUnited States Court of Appeals: Briefs versus I.A.T.S.E.\u003c/unittitle\u003e\u003cunitdate normal=\"1971/1971\" type=\"inclusive\"\u003ecirca 1971\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e52e62e91769f252293672d758d70503\" label=\"Mixed Materials [31142054631182]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

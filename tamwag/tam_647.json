@@ -1,0 +1,139 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_647"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Abraham Nash Scrapbook \u003cnum\u003eTAM 647\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Heather Mulliner"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-07-05T15:24:24\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Abraham Nash Scrapbook"
+                },
+                "unitdate": {
+                    "normal": "1936/1937",
+                    "type": "inclusive",
+                    "value": "1936-1937"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "1 scrapbook"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "This scrapbook contains clippings related the Moscow Trials in Russia between 1936 and 1936. Compiled by labor organizer and sociologist and Abraham Nash, this scrapbook contains assorted clipping from publications on the political left as well as mainstream periodicals. Clippings in the scrapbook also relate to Trotsky's exile from Russia and tensions between supporters of Trotsky and Soviet leaders during this period."
+                },
+                "unitid": {
+                    "value": "TAM 647"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_59db6adfc21ae0ea3bd3d828c37728c2",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_635858682a22386af02fb04a4dbee7c3",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_ee383960942f6e8177bd1692b3257f47",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Abraham Nash Scrapbook; TAM 647; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_c13218e2f0df3a7aee87279679436b22",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Margo Nash in 2012. The accession number associated with this gift is 2014.023."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_b5da29091746f32970291acb3eb31d5b",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Later in life Nash entered a career in academia, receiving a Bachelor's degree from Columbia University in 1965 at the age of 50. He also received a Master's degree in sociology from Columbia, and Ph.D. from New York University in 1972. Nash taught sociology at Cornell University's School of Industrial Relations until he retired in 1985. "
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_964bfeff475ba15094b209e3472c3904",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "This collection consists of one scrapbook created by Abraham (Al) Nash containing newspaper clippings relating the Moscow trials of Trotskyist supporters between 1936 and 1937. This scrapbook is entirely comprised of newspaper clippings, which come from a variety publications including mainstream periodicals and periodicals on the political left."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Moscow Trials, Moscow, Russia, 1936-1937"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

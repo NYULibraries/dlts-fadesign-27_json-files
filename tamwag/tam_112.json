@@ -1,0 +1,143 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_112"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Louis Lazarus and Louise Heinze Research Files: Karl Marx and Friedrich Engels on America \u003cnum\u003eTAM.112\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-09T16:40:11\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "local",
+                        "value": "Lazarus, Ronald S."
+                    }
+                },
+                "unittitle": {
+                    "value": "Louis Lazarus and Louise Heinze Research Files: Karl Marx and Friedrich Engels on America"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The collection consists of photocopies and photostats of published materials, written by Marx and Engels, relating to the United States. The material, which dates from 1846 to 1898, was collected by Louis Lazarus in 1963. Much of it was originally published in England. Also included are Lazarus's research notes, the research notes of Louise Heinze."
+                },
+                "unitid": {
+                    "value": "TAM.112"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_e5bd344113dfcaffadfe7709acb2f4be",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_afe6a9e718038ab17ff823b569a55223",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Louis Lazarus and Louise Heinze Research Files: Karl Marx and Friedrich Engels on America; TAM 112; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_2e868bf574ec5a4a2fb2d335c5a48e36",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Louis Lazarus, 1984 and 1985. An additional accession was donated by Marc S. Lazarus and Ronald S. Lazarus in 1991. The accession number associated with these gifts is 1950.030."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_38edb30345ca94451fb5100d0f34e699",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Karl Marx (1818-1883) and Friedrich Engels (1820-1895) were socialist and communist authors and leaders, and the founders of, and whose writings were the theoretical inspiration for socialist and communist movements and scholarship. Their best known work was \u003cemph render=\"italic\"\u003eThe Communist Manifesto\u003c/emph\u003e (1848)."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_d49cae726f69a5f96fed854da90fa16e",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection consists of photocopies and photostats of published materials, written by Marx and Engels, relating to the United States. The material, which dates from 1846 to 1898, was collected by Louis Lazarus in 1963. Much of it was originally published in England. Also included are Lazarus's research notes, the research notes of Louise Heinze (Tamiment Institute Librarian, ca. 1956-63), and correspondence with libraries."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Communists."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Journalism, Communist."
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

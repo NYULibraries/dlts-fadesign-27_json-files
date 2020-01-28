@@ -1,0 +1,96 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "pr406_levi_jeans_stern"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Levi's in America: A Portfolio by Bert Stern\u003clb/\u003e1971, 1973\u003clb/\u003e \u003cnum\u003ePR 406\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Larry Weimer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2020-01-08T21:32:12\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Stern, Bert"
+                    }
+                },
+                "unittitle": {
+                    "value": "Levi's in America: a portfolio by Bert Stern"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "1971, 1973"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 item(s)"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(one portfolio case)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "A portfolio of 9 lithographs, 3 silkscreens, introductory text, and other front matter, in a case. Commissioned by Hystron Fibers Incorporated, Stern's portfolio includes imagery centered on the advertising, fashion, and history of Levi Strauss jeans. This copy is number 43 of 300 of Edition A, in which all 9 prints are signed and numbered by Stern. This copy is inscribed by Stern to the photographer Jessica Burstein, who donated it to New-York Historical.\u003clb/\u003e \u003clb/\u003e\n\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: \u003cextref actuate=\"onRequest\" href=\"http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph007446407\u0026amp;context=L\u0026amp;vid=NYHS\u0026amp;search_scope=nyhs\u0026amp;tab=nyhs\u0026amp;lang=en_US\"\u003eLevi's in America: a portfolio by Bert Stern\u003c/extref\u003e"
+                },
+                "unitid": {
+                    "value": "PR 406"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "dsc": {}
+    }
+}

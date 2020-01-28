@@ -1,0 +1,155 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arc_231_views_of_coney_island"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the \n                    \u003cemph render=\"italic\"\u003eViews of Coney Island\u003c/emph\u003e viewbooks\n                    \u003cnum\u003eARC.231\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Patricia Glowinski"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "June 28, 2011."
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-28T11:25-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "\n                \u003cemph render=\"italic\"\u003eViews of Coney Island\u003c/emph\u003e viewbooks"
+                },
+                "unitdate": {
+                    "normal": "1905/1905",
+                    "value": "1905"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.06 Linear feet"
+                        },
+                        {
+                            "value": "in two folders."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "ARC.231"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid862002",
+                    "label": "Graphic materials",
+                    "type": "Box",
+                    "value": "Prints by Accession 57"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref4",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref9",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); \n                \u003cemph render=\"italic\"\u003eViews of Coney Island\u003c/emph\u003e viewbooks, ARC.231, Box number, Object ID number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref6",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Source and date of acquisition for this collection are unknown. The collection was formally accessioned in 1986."
+            }
+        },
+        "bioghist": {
+            "id": "ref3",
+            "head": "Historical note",
+            "p": {
+                "value": "L.H. Nelson Company was a publisher based in Portland, ME. They published viewbooks and photographs of prominent cities and summer resorts. Viewbooks, also called souvenir albums or view albums, are books that contain commercially published groups of photographs depicting a place, activity, or event."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The \n                \u003cemph render=\"italic\"\u003eViews of Coney Island\u003c/emph\u003e viewbooks were published in 1905 and 1909 by L. H. Nelson Company. The viewbooks contain views of Coney Island including images of attractions, buildings, and structures at Luna Park and Dreamland, street scenes of Surf Avenue, as well as group portraits of people on the beach at Coney Island and images of people attending the attractions at Coney Island. The original softcovers of both viewbooks have been recovered with hardcover library bindings which are now brittle, and pages from the viewbooks have separated from the bindings. The viewbook printed in 1905 contains 30 pages and its page size is 7.75 x 10.30, while the viewbook printed in 1909 contains 28 pages with its page size measuring 8 x 10 inches. Digital versions of the images from the viewbooks are available via the image database located in the library."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Amusement parks |z New York (State) |z Kings County |x History"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Recreation |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Street photography |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Steeplechase Park (New York, N.Y.)."
+            }
+        },
+        "otherfindaid": {
+            "id": "ref7",
+            "head": "Other Finding Aids"
+        },
+        "dsc": {}
+    }
+}

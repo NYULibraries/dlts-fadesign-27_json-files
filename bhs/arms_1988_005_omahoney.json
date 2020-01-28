@@ -1,0 +1,150 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1988_005_omahoney"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the O'Mahoney family academic certificates\n                    \u003cnum\u003e1988.005\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "October 31, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-21T14:39-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "O'Mahoney family academic certificates"
+                },
+                "unitdate": {
+                    "normal": "1906/1925",
+                    "type": "inclusive",
+                    "value": "1906-1925"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.67 Linear feet"
+                        },
+                        {
+                            "value": "O'Mahoney Family Papers, 1988."
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Certificates and diplomas issued to members of the O'Mahoney family of Brooklyn, including Anna, Catherine, Mary, and May O'Mahoney, for passing various stages of academic achievement during the period 1906 to 1925. Some certificates issued to Anna and Catherine O'Manhoney give them license to teach at the grade school level. Most of the certificates are issued by the Department of Education of the City of New York, as well as St. Francis Xavier's Academy and various other primary and secondary schools."
+                },
+                "unitid": {
+                    "value": "1988.005"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1100001",
+                    "label": "Text",
+                    "type": "Oversize",
+                    "value": "1988.005 1 of 1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref4",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref5",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); O'Mahoney family academic certificates, 1988.005, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Source and date of acquisition unknown. Formally accessioned in 1988."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Education |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcgft",
+                    "value": "Girls |x Education |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcgft",
+                    "value": "Irish Americans |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Schools |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Students |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcgft",
+                    "value": "Teachers |z New York (State) |z Kings County"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "wag_217"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Martha Greenhouse Papers \u003cnum\u003eWAG.217\u003c/num\u003e"
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-07-02T20:28:43\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Greenhouse, Martha"
+                    }
+                },
+                "unittitle": {
+                    "value": "Martha Greenhouse Papers"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(5 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "This collection contains material relating to the American Federation of Television and Radio Artists (AFTRA) and other theatrical unions."
+                },
+                "unitid": {
+                    "value": "WAG.217"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_de830515d628b26fd5421458ee4591ad",
+                    "label": "Mixed Materials [31142063295052]",
+                    "type": "Box",
+                    "value": "5"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_21ec25e53c938edc72e689531d8884e9",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_a327d9ef659756c25498c64a62f9fbce",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Martha Greenhouse Papers; WAG 217; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_a54ba98984ff20b5365b9a46dd82e3eb",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Martha Greenhouse, 2002. The accession number associated with this gift is 2002.038."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_b94ad487d9198a7f7fd9dabd82d7f124",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection contains material relating to the American Federation of Television and Radio Artists (AFTRA) and other theatrical unions."
+            }
+        },
+        "controlaccess": {},
+        "dsc": {}
+    }
+}

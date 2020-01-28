@@ -1,0 +1,161 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_061"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the American Labor Party Minutes and Proceedings \u003cnum\u003eTAM.061\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-04-27T18:45:35\u003c/date\u003e"
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "American Labor Party Minutes and Proceedings"
+                },
+                "unitdate": {
+                    "normal": "1922/1924",
+                    "type": "inclusive",
+                    "value": "1922-1924"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The American Labor Party was a short-lived group founded in 1922. The collection contains convention proceedings and minutes, which have been microfilmed. Patrons must use microfilm copy (R-7862)"
+                },
+                "unitid": {
+                    "value": "TAM.061"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_2fe33231a0988066d4d1642a56b4c68e",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_1b788bfdb0c93c7012270e846795a62e",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_596811ee7fbe4d317b5ec13f7b23011f",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: \u003clb/\u003e\u003clb/\u003eIdentification of item, date; Collection name; Collection number; box number; folder number; \u003clb/\u003eTamiment Library/Robert F. Wagner Labor Archives \u003clb/\u003eElmer Holmes Bobst Library \u003clb/\u003e70 Washington Square South \u003clb/\u003eNew York, NY 10012, New York University Libraries."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_8d0d531157a4f52d06a7f1801554a439",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Transferred from the Rand School Archives, 1963. The accession number associated with this collection is 1963.002."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_493bcaa56d68d15108e2f174d1555a4f",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "The American Labor Party (ALP), was a short lived group, organized along lines of British Labour Party, that was founded in New York City in 1922 by delegates from Socialist Party, Farmer Labor Party, Workmen's Circle, Poale Zion, and 82 labor organizations."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_2d96080bc52cf613177f652ce6b6b4b0",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "This collection contains minutes of the Party's three conventions (1922-1923), Executive Committee minutes (1922-1924), and General Campaign Committee minutes (1922). Prominent persons active in the ALP include: Joseph D. Cannon, Edward F. Cassidy, Nathan Fine, Julius Gerber, Marie B. MacDonald, James Oneal, and A.I. Shiplacoff."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Working class -- United States -- Political activity."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialism -- United States."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "American Labor Party"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref13\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eInventory\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref14\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eConvention Proceedings (First), New York\u003c/unittitle\u003e\u003cunitdate\u003eJul 1922\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ea63323846b5c0ee686afd7750369544\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ea63323846b5c0ee686afd7750369544\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eConvention Proceedings (Second), New York\u003c/unittitle\u003e\u003cunitdate\u003eFeb 1923\u003c/unitdate\u003e\u003ccontainer id=\"aspace_caabfd2cdec4bc2a857909f7beb6bd2a\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_caabfd2cdec4bc2a857909f7beb6bd2a\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eConvention Proceedings (Third), New York\u003c/unittitle\u003e\u003cunitdate\u003eSep 1923\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7b102cf0e264b0904e74bcf13473c2ad\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_7b102cf0e264b0904e74bcf13473c2ad\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eMinutes: Executive Committee, New York\u003c/unittitle\u003e\u003cunitdate normal=\"1922/1924\" type=\"inclusive\"\u003e1922-1924\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4434c8eafbb90fe6da2c3f6bd59d6703\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_4434c8eafbb90fe6da2c3f6bd59d6703\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eMinutes: General Campaign Committee, New York\u003c/unittitle\u003e\u003cunitdate normal=\"1922/1922\" type=\"inclusive\"\u003e1922\u003c/unitdate\u003e\u003ccontainer id=\"aspace_42fd2f592a0024f9359cf9c53b1b1ec7\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_42fd2f592a0024f9359cf9c53b1b1ec7\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003eMinutes: General Council, New York\u003c/unittitle\u003e\u003cunitdate normal=\"1922/1924\" type=\"inclusive\"\u003e1922-1924\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e717fc2a474cac4b333a80572d6cf3f7\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e717fc2a474cac4b333a80572d6cf3f7\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_013"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the European Anarchists Autograph Collection \u003cnum\u003eTAM.013\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment Staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-04-20T13:31:09\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "European Anarchists Autograph Collection"
+                },
+                "unitdate": {
+                    "normal": "1874/1928",
+                    "type": "inclusive",
+                    "value": "1874-1928"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "TAM.013"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_512874409e4bafc3bd95f3d204e301b2",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_31691abbac5dd60ac73f71b12b259198",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; European Anarchists Autograph Collection; TAM 013; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_e231509dd008e330cdf41f079e05a75b",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials found in repository; provenance is unknown. The accession number associated with this collection is 1950.269."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_d889fda3cc4b48c7b28f29871737bac4",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This is a collection of 25 signed letters, all but four in French, by European anarchists, including: Fernand Brouez, Gabriel De La Salle, Henry Dupont, Sebastien Faure, Jean Grave, Pierre Kropotkin, Enrico Malatesta, Charles Malato, Louise Michel, David Nicole, Emile Pouget, Felix Pyat, Elisee Reclus, Henry Seymour, Wilhelm Spohr, Laurent Tailhade, and S. Yanovsky."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Anarchists |z France."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Anarchists |z Europe."
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

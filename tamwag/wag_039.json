@@ -1,0 +1,148 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "wag_039"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Service Employees International Union, Local 382, Union of State Employees Records \u003cnum\u003eWAG.039\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Maggie Schreiner"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-17T13:19:38\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source"
+                },
+                "unittitle": {
+                    "value": "Service Employees International Union, Local 382, Union of State Employees Records"
+                },
+                "unitdate": {
+                    "normal": "1937/1983",
+                    "type": "inclusive",
+                    "value": "1937-1983"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "WAG.039"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_ecb024c57affb757d92a52f8eadde14a",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_4ffe3062fbde62d1af4715cfdfe29eed",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Service Employees International Unin, Local 382, Union of State Employees Records; WAG 039; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_abcf1773060fdf77d06d85f9bca046e3",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by William Ginsberg on behalf of the Union of State Employees in 1985. The accession number associated with this gift is 1950.111."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_aa79aef32dddbe1bd016445ce9f6ba08",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "The Union of State Employees originated among clerks in the claims, underwriting and actuarial departments of the State Insurance Fund and was the first chartered by the American Federation of State, County and Municipal Employees in February 1937. Six months after joining AFSCME, the Local joined the State, County and Municipal Workers of America, CIO as Local 45. After World War II, the SCMWA went into the United Public Workers which combined membership in the State Insurance Fund, Workers Compensation Board and State Department of Labor as one chapter of Local 1099, UPW. Six months before the UPW was expelled from the CIO, the chapter became the Union of State Employees (independent). When the CIO set up the Government and Civil Employees Orgnaizing Committee, USE received a charter to organize state employees throughout the state of New York as Local 382. Local 382 disbanded in 1982."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_6ea770217c5e10ff8f312b416c36f734",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The records consist of correspondence, minutes, memoranda, newsletters, press releases, press clippings, and leaflets reflecting Local 382's activities from the late 1930s until the local was disbanded in 1982."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Municipal officials and employees |x Labor unions |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "White collar workers |x Labor unions |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Public employees."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Service Employees International Union. Local 382 (Union of State Employees)"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_1f6a20d16e49ee62cd58d4f70497040f\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePhotographs\u003c/unittitle\u003e\u003cunitdate normal=\"1943/1960\" type=\"inclusive\"\u003e1943-1960\u003c/unitdate\u003e\u003ccontainer altrender=\"Flat Box 17\" id=\"aspace_ecb017eb85946b67daf145b966a6a2d3\" label=\"Mixed Materials [31142062882231]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ecb017eb85946b67daf145b966a6a2d3\" type=\"Folder\"\u003e1-8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

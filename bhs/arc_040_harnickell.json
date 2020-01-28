@@ -1,0 +1,160 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arc_040_harnickell"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Albert G.A. Harnickell papers\n                    \u003cnum\u003eARC.040\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "July 6, 2010"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-12-01T10:10-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Harnickell, Albert G. A."
+                    }
+                },
+                "unittitle": {
+                    "value": "Albert G.A. Harnickell papers"
+                },
+                "unitdate": {
+                    "normal": "1861/1918",
+                    "type": "inclusive",
+                    "value": "1861-1918"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.08 Linear feet"
+                        },
+                        {
+                            "value": "in three folders."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "ARC.040"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid319004",
+                    "label": "Graphic materials",
+                    "type": "Box",
+                    "value": "Ambrotypes 1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref2",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref4",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Albert G.A. Harnickell papers, ARC.040, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref8",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Henri Conrad Harnickell on behalf of Francesca S. Harnickell, 1948."
+            }
+        },
+        "bioghist": {
+            "id": "ref7",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Albert G.A. Harnickell was Captain of Company F of the 84th New York Volunteer Infantry Regiment (commonly known as the 14th Regiment of the New York State Militia, or the \"Fighting 14th\") during the Civil War. After the War he was one of several members of the 84th Regiment who reenlisted for service in the New York State National Guard, and he was also active in the 84th Regiment Veterans' Society. He later became a broker in New York City. Harnickell and his wife, Francesca S. Harnickell, had at least one son, Henri Conrad Harnickell."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Albert G.A. Harnickell papers span the period 1861 to 1918, though the majority of the material falls within the period 1861 to 1887 (an estimation, as there are some undated items). The collection contains items documenting Harnickell's military career as a Captain in the 84th Regiment of the New York Volunteer Infantry during the Civil War, as well as his subsequent involvement in veterans' affairs. Materials include a roster of the 84th Regiment, vouchers and receipts for military supplies, an account book, military passes, correspondence, a draft of rules for the 84th Regiment Veterans' Society, papers and news clippings relating to Harnickell's activities as a veteran, invitations to receptions and regimental reunions, a petition signed by Harnickell to elect Colonel E. B. Fowler as Sheriff of Kings County, ephemera, and a pamphlet of Civil War sketches. The collection also includes five photographs, one of which shows the 84th Regiment's headquarters at Camp Marion, Upton Hill, VA; another of a group of Civil War soldiers (presumably Company F of the 84th Regiment); and two of Captain Harnickell in Civil War uniform, one of which is an ambrotype and is separately housed in the ambrotype collection. The fifth photograph dates from 1918 and shows Harnickell's son, Henri Conrad Harnickell, in his uniform as a Lieutenant in the Chemical Warfare Service during World War I."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Reunions"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Soldiers |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Veterans |z New York (State)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Veterans |z New York (State) |x Societies, etc."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "United States. Army. New York Infantry Regiment, 84th (1861-1864)."
+            }
+        },
+        "dsc": {}
+    }
+}

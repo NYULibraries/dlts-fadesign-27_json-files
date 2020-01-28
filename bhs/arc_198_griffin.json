@@ -1,0 +1,156 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arc_198_griffin"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Augustus Griffin papers\n                    \u003cnum\u003eARC.198\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "April 8, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-28T10:54-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Griffin, Justus A.,  (Justus Alonzo), b. 1846"
+                    }
+                },
+                "unittitle": {
+                    "value": "Augustus Griffin papers"
+                },
+                "unitdate": {
+                    "normal": "1792/1902",
+                    "type": "inclusive",
+                    "value": "1792-1902"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.42 Linear feet"
+                        },
+                        {
+                            "value": "in one manuscript box."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "ARC.198"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid716003",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "ARC.193 1 of 1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref3",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref5",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Augustus Griffin papers, ARC.198, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref4",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Source and date of acquisition unknown. Formally accessioned in 1973."
+            }
+        },
+        "bioghist": {
+            "id": "ref2",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Augustus Griffin (1767-1866) lived on Village Lane in the village of Oysterponds, located on the North Fork of Long Island in Suffolk County. He was a descendant of Jasper Griffin of England, one of the first settlers of the town of Southold, Long Island. His father, James Griffin, fought on the American side during the Revolutionary War. As a young man, Augustus owned a store and worked as a school teacher in Westchester County, N.Y. After marrying Lucretia Tuthill, with whom he had six children, Griffin moved back to Oysterponds and operated his home on Village Lane as an inn and tavern. Throughout his life, Griffin kept several diaries in which he recorded his daily life in Oysterponds, as well as the affairs of the Oysterponds and greater Long Island communities."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The Augustus Griffin papers span the period 1792 to 1902 and consist of three bound volumes containing the diaries and genealogical research notes of Augustus Griffin, a resident of the village of Oysterponds on the North Fork of Long Island. Griffin's diaries span the period 1792 to 1851 and record his daily activities and travels throughout Long Island and the New York City area, as well as notable local events and daily weather conditions. Griffin also makes numerous references to his fellow residents of Oysterponds and other parts of Long Island, and supplements his diaries with an index indicating the page numbers on which individual names can be found. The diaries also include references to African Americans, such as an entry about a free African American purchasing his relative's freedom. Griffin's genealogical research notes, dating from circa 1859 to 1863, are compiled in a separate volume and record marriages and deaths in the Long Island towns of Southold and Shelter Island, as well as other parts of the County and State of New York, throughout the period 1677 to 1859. The notes are also accompanied by an alphabetical index. The collection also includes a small amount of correspondence dating from 1889 to 1902 and addressed to Griffin's grandson, Chatham A. Griffin, of Hartford, CT. The letters are mostly from Justus Alonzo Griffin (b. 1846, presumably a family relative) of Hamilton, Ontario, and discuss Augustus Griffin's genealogical research."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "African Americans |z New York (State) |z Long Island"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Families |z New York (State) |z Long Island"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Genealogy "
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Slavery |z New York (State) |z Long Island"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

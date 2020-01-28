@@ -1,0 +1,134 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "pr409_marco_luccio"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Marco Luccio Drypoint Etchings\u003clb/\u003e2008, 2013\u003clb/\u003e \u003cnum\u003ePR 409\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Larry Weimer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2020-01-24T22:36:12\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Luccio, Marco, 1969-"
+                    }
+                },
+                "unittitle": {
+                    "value": "Marco Luccio drypoint etchings"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "2008, 2013"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "2 Linear feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one flat file"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "14 drypoint etchings made in 2008 and 2013 by Australian artist Marco Luccio. All are of New York City scenes, principally of the built environment."
+                },
+                "unitid": {
+                    "value": "PR 409"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_5b0fd26da7ee6e28bfaa554cce92e259",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Available by advance appointment only. To schedule an appointment, contact the Print Room Librarian at printroom@nyhistory.org."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_b0cd675655563b66af5312a83488195d",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "This collection should be cited as the Marco Luccio drypoint etchings, PR 409, Department of Prints, Photographs, and Architectural Collections, New-York Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_371f4d2e9e505539cb560c5346a30983",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "\"Chinatown\" and \"Cranes\" were gifts of the artist in 2013. The 2013 prints were gifts of the artist in 2016. Donation information for the 2008 print \"\"Lights, Cars and the Flatiron\" is unavailable, but was likely a gift of the artist around 2013-2016."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_5374f4660555cc0350939ba28eeccd8e",
+            "head": "Biographical / Historical",
+            "p": {
+                "value": "Marco Luccio, born in 1969, is an award-winning Australian artist whose work is held in over 40 public and corporate collections, including the National Gallery of Australia, the Museum of the City of New York, and the New York Public Library. In 2008, Luccio visited New York, drawing a series entitled \"Cityscapes of New York.\""
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_3fe3e41c0460b9e8d198b2a2f4c53659",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection includes 14 drypoint etchings made in 2008 and 2013 by artist Marco Luccio. One of the prints \"New York and Central Park\" is in three sections. All are of New York City scenes, principally of the built environment. The 2008 prints are from Luccio's series \"Cityscapes of New York.\" The container list below includes the titles of all etchings in the collection. Their size ranges from approximately 15\"x11\" to 29\"x20\"."
+            }
+        },
+        "controlaccess": {},
+        "dsc": {
+            "value": "\u003cc id=\"aspace_b58994baa2039c4892dade84a9d49045\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Chinatown\" (24/25, signed)\u003c/unittitle\u003e\u003cunitdate\u003e2008\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d68e0ff59d148a22c2e6cc20422a83ef\" label=\"Graphic Materials\" type=\"Folder\"\u003eFF-1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_c562309d25dc94fa9c0828f6d9145785\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Cranes on 29th Street\" (10/25, signed)\u003c/unittitle\u003e\u003cunitdate\u003e2008\u003c/unitdate\u003e\u003ccontainer id=\"aspace_fb7d6b78341510682c0eaff4b56e772c\" label=\"Graphic Materials\" type=\"Folder\"\u003eFF-1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_6921c69a149cf7213474091bc3f63bcc\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Lights, Cars and the Flatiron\" (10/25, signed)\u003c/unittitle\u003e\u003cunitdate\u003e2008\u003c/unitdate\u003e\u003ccontainer id=\"aspace_59feb2429cc8d716e750104d0092f70d\" label=\"Graphic Materials\" type=\"Folder\"\u003eFF-1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_7b70fc2bceaf72dbb01d3d864e86b213\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"New York and Central Park\" in 3 sections (7/50)\u003c/unittitle\u003e\u003cunitdate\u003e2013\u003c/unitdate\u003e\u003ccontainer id=\"aspace_8fa9ac8a4e652598fa29ca67bf5a3be5\" label=\"Graphic Materials\" type=\"Folder\"\u003eFF-1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_529823603526ecdf6dff42c4accda515\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Nightime in New York\" (7/50, signed)\u003c/unittitle\u003e\u003cunitdate\u003e2013\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1cbedf2763cc4fd01903502c00dbe320\" label=\"Graphic Materials\" type=\"Folder\"\u003eFF-1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_e7a190c864eda5b04a96cba479f2d165\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Crowds and the Flatiron\" (A/P, signed)\u003c/unittitle\u003e\u003cunitdate\u003e2013\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4df6f02b72a852550001f8d804f5bbbe\" label=\"Graphic Materials\" type=\"Folder\"\u003eFF-1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_be56539eb1eb0ea20f67c0b3ebd12d31\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Chrysler, Pipes and the Queensboro Bridge\" (6/50, signed)\u003c/unittitle\u003e\u003cunitdate\u003e2013\u003c/unitdate\u003e\u003ccontainer id=\"aspace_79ccff77fb3567cd2169b592128074e4\" label=\"Graphic Materials\" type=\"Folder\"\u003eFF-1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_d283f8bfc0f158f5c95c260dfeea2bc1\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e Untitled [Grand Central Station] (7/50, signed)\u003c/unittitle\u003e\u003cunitdate\u003e2013\u003c/unitdate\u003e\u003ccontainer id=\"aspace_51c62a4cc73336dca6f0a9ed891e6f5a\" label=\"Graphic Materials\" type=\"Folder\"\u003eFF-1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_081268c688a43fff16fd3ce90a1aff3e\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Blimp and the New Yorker\" (A/P, signed)\u003c/unittitle\u003e\u003cunitdate\u003e2013\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d8c8f54b87a4c6758722dbaa35d9ff6c\" label=\"Graphic Materials\" type=\"Folder\"\u003eFF-1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_6669adedcc4522999b997bf77b6e14e5\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"The Manhattan Bridge\" (6/50, signed)\u003c/unittitle\u003e\u003cunitdate\u003e2013\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2c5538b9ce844e1b1cd0849b01374d05\" label=\"Graphic Materials\" type=\"Folder\"\u003eFF-1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_d190d8989ed84e6c312b92bb3ca83f02\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Empire from the Chrysler Building\" (7/50, signed)\u003c/unittitle\u003e\u003cunitdate\u003e2013\u003c/unitdate\u003e\u003ccontainer id=\"aspace_405bd6400a23cba44228b5c43ccd767c\" label=\"Graphic Materials\" type=\"Folder\"\u003eFF-1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_6b728bb1d81a8e0b46ee55e3a47b804c\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Freedom Tower\" (6/50, signed)\u003c/unittitle\u003e\u003cunitdate\u003e[2013]\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f05894176b255835d48d3c2b88f16d82\" label=\"Graphic Materials\" type=\"Folder\"\u003eFF-1\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_8643b50ac5d5c8f6282f0ac180338b32\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eMistakenly dated as 2003\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_0d6de10cad79e168b0bf2ee6c545ce4f\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"The Flatiron From the Side\" (A/P, signed)\u003c/unittitle\u003e\u003cunitdate\u003e2013\u003c/unitdate\u003e\u003ccontainer id=\"aspace_94aab54a6dbeab936c9cd8c2904cd3de\" label=\"Graphic Materials\" type=\"Folder\"\u003eFF-1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_6c43f5e7b75429c2f632b51ba9a7840e\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"View from the Sherry Netherland\" (9/50, signed)\u003c/unittitle\u003e\u003cunitdate\u003e2013\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1c8a20f99baa128c658c7c513744e90b\" label=\"Graphic Materials\" type=\"Folder\"\u003eFF-1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

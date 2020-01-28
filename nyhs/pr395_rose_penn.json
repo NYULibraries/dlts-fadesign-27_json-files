@@ -1,0 +1,95 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "pr395_rose_penn"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Aaron Rose, \"The Last Days of Penn Station\"\u003clb/\u003e2005\u003clb/\u003e \u003cnum\u003ePR 395\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Larry Weimer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-05-30T14:05:41\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Rose, Aaron"
+                    }
+                },
+                "unittitle": {
+                    "value": "The last days of Penn Station : a portfolio of twenty-two photogravures"
+                },
+                "unitdate": {
+                    "value": "2005"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Volumes"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(one cased portfolio)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "\"The bound portfolio with removable pages was published by Palm Press, Inc., in the Fall of 2005. The photogravures were printed by Jon Goodman on Somerset papers under the direct supervision of Aaron Rose and the Publisher. Each plate has been signed recto and numbered verso. The binding was designed by Jim DiMarcantonio and the Publisher and crafted by DiMarcantonio at The Hope Bindery, Pawtucket, Rhode Island. The text has been set and hand printed on Rives paper by Jon Kristensen at Firefly Press in Somerville, Massachusetts.\"\n\n\"Published in a total edition of sixty-six sets comprised of twenty-two signed photogravures and text in removable binding. Sixteen portfolios are reserved to the Artist, Printer, and Publisher.\" N-YHS copy is number \"AP IX.\"\n\nThe photographs were among those taken by Aaron Rose from 1963-1966 over the course of the demolition of Penn Station in New York. The photographs do not document the demolition process, which was not Rose's intent, but capture impressions and select details of the building at various points during its destruction.\u003clb/\u003e \u003clb/\u003e\n\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: \u003cextref actuate=\"onRequest\" href=\"http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph007358071\u0026amp;context=L\u0026amp;vid=NYHS\u0026amp;search_scope=nyhs\u0026amp;tab=nyhs\u0026amp;lang=en_US\"\u003eThe last days of Penn Station\u003c/extref\u003e"
+                },
+                "unitid": {
+                    "value": "PR 395"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "dsc": {}
+    }
+}

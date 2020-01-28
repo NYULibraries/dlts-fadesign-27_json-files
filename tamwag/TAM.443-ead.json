@@ -1,0 +1,133 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "tam_443"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Carlo Tresca \"Autobiography\" (typescript)\n                    \u003cnum\u003eTAM.443\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "11/18/2009"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T19:44-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Tresca, Carlo, 1879-1943."
+                    }
+                },
+                "unittitle": {
+                    "value": "Carlo Tresca \"Autobiography\" (typescript)"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.5 linear feet"
+                        },
+                        {
+                            "value": "(2 boxes; 334 pp.)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Carlo Tresca (1879-1943), was an Italian-born anarchist, who emigrated to the United States in 1904. He was a labor organizer, a journalist, and the editor of several Italian language radical newspapers. An opponent of both fascism and Stalinism, he was assassinated in New York City in 1943. The collection consists of a 344 pp. undated typescript, titled \"Autobiography,\" which covers his life and political activities through the 1920s."
+                },
+                "unitid": {
+                    "value": "TAM.443"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid18827005",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1-2"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref6",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Patrons must use photocopy (box 2)"
+            }
+        },
+        "bioghist": {
+            "id": "ref5",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Carlo Tresca (1879-1943), was an Italian-born anarchist, who emigrated to the United States in 1904. He was a labor organizer, including with the Industrial Workers of the World, a journalist, and editor, notably of \n                \u003cemph render=\"italic\"\u003eIl Proletario\u003c/emph\u003e, the official newspaper of the Italian Socialist Federation, and of \n                \u003cemph render=\"italic\"\u003eIl Martello\u003c/emph\u003e, an anti-fascist newspaper. An opponent of both fascism and Stalinism, he was assassinated in New York City in 1943."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "Table of contents: More than love -- The seed of revolt -- L'enfant terrible -- Cloudy days -- The awakening of the peasants -- My first oration -- How I became an agitator -- The first arrest -- Jail -- Roma -- Exile -- On American shores -- Guilty -- The Church gets busy -- Roses -- Chivalry -- Lawrence - The new Babylon-- The red trains -- No god, no master -- Strikes and vigilantes -- A good fixer -- In and out -- A strange settlement -- Disorderly conducct -- How I met John Reed -- A day in the life of an agitator -- A wartime Xmas -- Mussolini -- The unemployed and the IWW -- The anarchists I -- The anarchists II -- A pioneer in undercover work -- Release from Atlanta (new story)"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Anarchists |z United States."
+                },
+                {
+                    "source": "local",
+                    "value": "Italian American anarchists."
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

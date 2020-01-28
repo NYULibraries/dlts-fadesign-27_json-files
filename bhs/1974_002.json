@@ -1,0 +1,181 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "1974_002"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Mid-Atlantic Early Manuscripts collection \u003cnum\u003e1974.002\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Jonathan W. Montgomery"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "Brooklyn Historical Society",
+                        "128 Pierrepont Street",
+                        "Brooklyn 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-08-15T15:42:18\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Franklin, William, 1731-1813"
+                    }
+                },
+                "unittitle": {
+                    "value": "Mid-Atlantic Early Manuscripts collection"
+                },
+                "unitdate": {
+                    "normal": "1648/1867",
+                    "type": "inclusive",
+                    "value": "1648-1867"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 21 folders in one half of a manuscript box."
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "This collection contains correspondence, deeds, indentures, wills, land conveyances, genealogies, and printed materials from the 17th through 19th centuries. The majority of the collection relates to New York and the surrounding states, but some items are from New England or the Mid-Atlantic region. Materials are in English, French, and Dutch. Subjects of note include Native American relations and slavery."
+                },
+                "unitid": {
+                    "value": "1974.002"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_812994a6ea13d73718c6a449dffa9f9e",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_57f118510ce5d7b2a2e943831b417f17",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of Item, date (if known); Mid-Atlantic Early Manuscripts collection, 1974.002, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_701f3beeefa9e9946d924cc6ef7778d2",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Portions of this collection were the gift of Sylvester Dering, 1890.  The source and date of acquisition for the remaining items in the collection are unknown.  The collection was formally accessioned in 1974."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_e0b1bffae99560359194fdb22b003eb8",
+            "head": "Biographical / Historical",
+            "p": {
+                "value": "This collection was likely assembled by BHS staff from multiple donations at an unknown date."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_ea616875f6471bbba2432dd47d8a8e20",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection contains correspondence, deeds, indentures, wills, land conveyance documents, and printed materials authored by or pertaining to various figures from colonial and early national Long Island, New England, District of Columbia, Tennessee, and Europe.  Many documents originate from prominent individuals, such as Lyman Beecher, King George III, John Paul Jones, Robert R. Livingston, William Penn, John Ross, Benjamin Rush, and Noah Webster.  Items relate to early colonial and American conflicts, the Louisiana Purchase, slavery, and Native American affairs, particularly those involving the Cherokee Nation.  Also included is a letter from General Toussaint Louverture, accompanied by a portrait image."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Indians of North America"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Slavery"
+                },
+                {
+                    "source": "aat",
+                    "value": "Deeds"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Louisiana Purchase"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Genealogy"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Debt"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Elections |z New York (State)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Census"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Lake Champlain, Battle of, N.Y., 1814"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Munheag"
+            }
+        },
+        "otherfindaid": {
+            "id": "aspace_d02bd108b839e0c1930352962c8ddf14",
+            "head": "Other Finding Aids"
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_0c0f488220d7415bf6a1c501dcdc486a\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eLetter from Dr. Benjamin Rush to Dr. John Cowan\u003c/unittitle\u003e\u003cunitdate normal=\"1795/1795\"\u003e1795\u003c/unitdate\u003e\u003ccontainer id=\"aspace_8f9a18bbcf50bf20845f1813f6879046\" label=\"Mixed Materials\" type=\"Box\"\u003e1974.002 Box 1\u003c/container\u003e\u003ccontainer parent=\"aspace_8f9a18bbcf50bf20845f1813f6879046\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_d2e3e0ac7dada2e55cedc5ab304bc105\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRevolutionary War correspondence, poetry, and military documents\u003c/unittitle\u003e\u003cunitdate normal=\"1779/1782\" type=\"bulk\"\u003e1779-1782\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e28e867ecef531ec9cdcae52b4fe0367\" label=\"Mixed Materials\" type=\"Box\"\u003e1974.002 Box 1\u003c/container\u003e\u003ccontainer parent=\"aspace_e28e867ecef531ec9cdcae52b4fe0367\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_40531b9f91a49d755ac3e65a5652e444\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence of General Charles Cotesworth Pinckney\u003c/unittitle\u003e\u003cunitdate normal=\"1818/1818\"\u003e1818\u003c/unitdate\u003e\u003ccontainer id=\"aspace_85791a656d6cb41bbb3fe6cdce0b4724\" label=\"Mixed Materials\" type=\"Box\"\u003e1974.002 Box 1\u003c/container\u003e\u003ccontainer parent=\"aspace_85791a656d6cb41bbb3fe6cdce0b4724\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_f5b6a954eb8341d1421ef0220a215366\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLong Island legal documents, correspondence, genealogy, and bills\u003c/unittitle\u003e\u003cunitdate normal=\"1636/1761\" type=\"bulk\"\u003e1636-1761\u003c/unitdate\u003e\u003ccontainer id=\"aspace_bdd52a5fb32c7d316785342b1ba95fc7\" label=\"Mixed Materials\" type=\"Box\"\u003e1974.002 Box 1\u003c/container\u003e\u003ccontainer parent=\"aspace_bdd52a5fb32c7d316785342b1ba95fc7\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_2eccf1c2897391c838867ddf72e18f2e\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eBond of debt owed by Christopher Rodgers\u003c/unittitle\u003e\u003cunitdate normal=\"1765/1765\"\u003e1765\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4b6acd563e79a44169306f8d2a13e011\" label=\"Mixed Materials\" type=\"Box\"\u003e1974.002 Box 1\u003c/container\u003e\u003ccontainer parent=\"aspace_4b6acd563e79a44169306f8d2a13e011\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_7fa9426a540d284d05d08cfcf8f07729\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMemorandum of S. Hambleton and correspondence of Henry G. Morton\u003c/unittitle\u003e\u003cunitdate normal=\"1820/1854\" type=\"inclusive\"\u003e1820-1854\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c7e2692e257528c69adb270282aaac35\" label=\"Mixed Materials\" type=\"Box\"\u003e1974.002 Box 1\u003c/container\u003e\u003ccontainer parent=\"aspace_c7e2692e257528c69adb270282aaac35\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_cc17b4a0ab960f3d5d781c2a3730fe8d\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence concerning relations between the U.S. government and the Cherokee Nation\u003c/unittitle\u003e\u003cunitdate normal=\"1817/1835\" type=\"inclusive\"\u003e1817-1835\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5a78fd90e1c77cd44c9e7b996c5d83b3\" label=\"Mixed Materials\" type=\"Box\"\u003e1974.002 Box 1\u003c/container\u003e\u003ccontainer parent=\"aspace_5a78fd90e1c77cd44c9e7b996c5d83b3\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_c3bba4587850e5330e99ba58812a0f79\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eConnecticut legal documents, Native American relations, and correspondence\u003c/unittitle\u003e\u003cunitdate normal=\"1648/1859\" type=\"inclusive\"\u003e1648-1859\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b060f6fbfd7ef83dc516f72ade415bf5\" label=\"Mixed Materials\" type=\"Box\"\u003e1974.002 Box 1\u003c/container\u003e\u003ccontainer parent=\"aspace_b060f6fbfd7ef83dc516f72ade415bf5\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_845f9f6d270fbed99a8988914a01bc14\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSuffolk County, LI, election records, resolution of the Continental Congress, and order for a census\u003c/unittitle\u003e\u003cunitdate normal=\"1776/1776\" type=\"bulk\"\u003e1776\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c7b32856ef3d2a2b0bbd3ea2bb92b67c\" label=\"Mixed Materials\" type=\"Box\"\u003e1974.002 Box 1\u003c/container\u003e\u003ccontainer parent=\"aspace_c7b32856ef3d2a2b0bbd3ea2bb92b67c\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_e747333516cbc092a527f2d9a098ff4b\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLand, military, and estate documents of miscellaneous colonial figures, including records of slave ownership\u003c/unittitle\u003e\u003cunitdate normal=\"1681/1797\" type=\"inclusive\"\u003e1681-1797\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b66a7b010de8298d0836a21a97e10353\" label=\"Mixed Materials\" type=\"Box\"\u003e1974.002 Box 1\u003c/container\u003e\u003ccontainer parent=\"aspace_b66a7b010de8298d0836a21a97e10353\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_22feb72c2256ed241a556f13e9dd964c\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMassachusetts correspondence and donation receipts\u003c/unittitle\u003e\u003cunitdate normal=\"1669/1867\" type=\"inclusive\"\u003e1669-1867\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f20b800e5c765d818ed939f1645aa421\" label=\"Mixed Materials\" type=\"Box\"\u003e1974.002 Box 1\u003c/container\u003e\u003ccontainer parent=\"aspace_f20b800e5c765d818ed939f1645aa421\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ce5c6a39f01789c54840bf9b3b8f4c5a\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAnn Williams correspondence regarding debts\u003c/unittitle\u003e\u003cunitdate normal=\"1859/1861\" type=\"inclusive\"\u003e1859-1861\u003c/unitdate\u003e\u003ccontainer id=\"aspace_6744ba94d4ae3fd400b68142096c3d34\" label=\"Mixed Materials\" type=\"Box\"\u003e1974.002 Box 1\u003c/container\u003e\u003ccontainer parent=\"aspace_6744ba94d4ae3fd400b68142096c3d34\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_13a85db14f6d8ef8b9a24125a0cab285\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMiscellaneous Colonial and early national correspondence\u003c/unittitle\u003e\u003cunitdate normal=\"1722/1885\" type=\"bulk\"\u003e1722-1885\u003c/unitdate\u003e\u003ccontainer id=\"aspace_281edb4e3112ef676da411f267011936\" label=\"Mixed Materials\" type=\"Box\"\u003e1974.002 Box 1\u003c/container\u003e\u003ccontainer parent=\"aspace_281edb4e3112ef676da411f267011936\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_3379dcf1197ebca14c024d44e34223d1\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNew Jersey official correspondence and letters of indenture\u003c/unittitle\u003e\u003cunitdate normal=\"1769/1830\" type=\"inclusive\"\u003e1769-1830\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7d7943a0a89152f7294bff72dbe94b04\" label=\"Mixed Materials\" type=\"Box\"\u003e1974.002 Box 1\u003c/container\u003e\u003ccontainer parent=\"aspace_7d7943a0a89152f7294bff72dbe94b04\" type=\"Folder\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_3c1e2d57f359a9b831f8e9aa87f8077e\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNew York census acts and correspondence\u003c/unittitle\u003e\u003cunitdate normal=\"1713/1715\" type=\"inclusive\"\u003e1713-1715\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4eca58688c62e7dc5775210dfe688711\" label=\"Mixed Materials\" type=\"Box\"\u003e1974.002 Box 1\u003c/container\u003e\u003ccontainer parent=\"aspace_4eca58688c62e7dc5775210dfe688711\" type=\"Folder\"\u003e15\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_de95b7d83fd64a55fb4c47e29b47e704\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDutchess County colonial bills of sale and deeds, including records of slave ownership\u003c/unittitle\u003e\u003cunitdate normal=\"1751/1766\" type=\"inclusive\"\u003e1751-1766\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d93b59352bd96656cea4a6927e7b1b98\" label=\"Mixed Materials\" type=\"Box\"\u003e1974.002 Box 1\u003c/container\u003e\u003ccontainer parent=\"aspace_d93b59352bd96656cea4a6927e7b1b98\" type=\"Folder\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_cd154ec94dca7729446ca9cb9e63547f\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLong Island wills, Lyman Beecher correspondence, and Church documents\u003c/unittitle\u003e\u003cunitdate normal=\"1673/1861\" type=\"bulk\"\u003e1673-1861\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5f7b3c606184f205f32b80971ddf0751\" label=\"Mixed Materials\" type=\"Box\"\u003e1974.002 Box 1\u003c/container\u003e\u003ccontainer parent=\"aspace_5f7b3c606184f205f32b80971ddf0751\" type=\"Folder\"\u003e17\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_c023735308b904ae1579759f4c4b00eb\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence of Adolph Philipse and Philip Hicks, and records of the Port of New York\u003c/unittitle\u003e\u003cunitdate normal=\"1728/1788\" type=\"inclusive\"\u003e1728-1788\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c459c39ce72d62ffe426ce6e2d34b848\" label=\"Mixed Materials\" type=\"Box\"\u003e1974.002 Box 1\u003c/container\u003e\u003ccontainer parent=\"aspace_c459c39ce72d62ffe426ce6e2d34b848\" type=\"Folder\"\u003e18\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_63fa7a775893b26b7f257b95266b358d\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eJamaica, LI, land deeds\u003c/unittitle\u003e\u003cunitdate normal=\"1713/1786\" type=\"inclusive\"\u003e1713-1786\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5839748924a15963c1fdd84d0fddda46\" label=\"Mixed Materials\" type=\"Box\"\u003e1974.002 Box 1\u003c/container\u003e\u003ccontainer parent=\"aspace_5839748924a15963c1fdd84d0fddda46\" type=\"Folder\"\u003e19\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_a2f49f00ddd22c04774733ab35d6a801\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eAccount of the Battle of Lake Champlain\u003c/unittitle\u003e\u003cunitdate normal=\"1814/1814\"\u003e1814\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1c764a5d9e34b6e16cf02b9c031cbc06\" label=\"Mixed Materials\" type=\"Box\"\u003e1974.002 Box 1\u003c/container\u003e\u003ccontainer parent=\"aspace_1c764a5d9e34b6e16cf02b9c031cbc06\" type=\"Folder\"\u003e20\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_439c19d587bc5c739d7e955ed512883d\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eLetter from Jacobus Bleecker to his parents\u003c/unittitle\u003e\u003cunitdate normal=\"1745/1745\"\u003e1745\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2a8eb325b592144646b54734ed9cb9b4\" label=\"Mixed Materials\" type=\"Box\"\u003e1974.002 Box 1\u003c/container\u003e\u003ccontainer parent=\"aspace_2a8eb325b592144646b54734ed9cb9b4\" type=\"Folder\"\u003e21\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

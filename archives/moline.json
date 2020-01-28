@@ -1,0 +1,138 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "moline"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Mary Moline Research Collection on Albert Gallatin \u003cnum\u003eMC 189\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Megan Findling. Additional description by Elizabeth Alleva."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-07-02T14:10:46\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "local",
+                        "value": "Moline, Mary"
+                    }
+                },
+                "unittitle": {
+                    "value": "Mary Moline Research Collection on Albert Gallatin"
+                },
+                "unitdate": {
+                    "normal": "1928/2005",
+                    "type": "inclusive",
+                    "value": "1928-2005"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1.75 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 record carton and 1 custom box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Mary Moline is the author of many books, including \u003cemph render=\"italic\"\u003eAmerica's Vindicated Statesman: Albert Gallatin\u003c/emph\u003e. This collection is her research on Albert Gallatin in the form of books, secondary material printouts, and copies of Gallatin's letters."
+                },
+                "unitid": {
+                    "value": "MC 189"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_ceee6c48d9f73ef1b0d8e72006fd588d",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_6af8bf7a8e2f37db3715accfcecb20de",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Mary Moline Research Collection on Albert Gallatin; MC 189; box number; folder number; New York University Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_9ab8467ca00fefdbf5572303898863e0",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials found in collection; there is no documentation concerning the provenance of these materials. The accession number associated with this collection is 05.017."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_0eb781730a01c8a5e2efa5c91ceb72d3",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Albert Gallatin was born in Geneva, Switzerland in 1761. As a youth, he immigrated to the United States, where he quickly became involved in American politics. As a House of Representatives member he was the leader of the Democratic-Republican Party and served as Secretary of the Treasury from 1801 to 1813. Following his career as a politician and diplomat, Gallatin helped found New York University in 1831. The Gallatin School of Individualized Study is named in honor of his contributions to the University."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_54d448603520196f823c7f0c4448784a",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection consists of files relating to Mary Moline's research on Albert Gallatin for her book \u003cemph render=\"italic\"\u003eAmerica's Vindicated Statesman: Albert Gallatin\u003c/emph\u003e. Secondary material about Gallatin's life and work may be found in this collection, as well as photocopies of his writings and correspondence. Photocopies of were created in 2004. The collection also contains books written about Gallatin and a Christmas ornament depicting United States Coast Guard vessel, the USCG Gallatin. Handouts and pamphlets from different places, such as Gallatin's home at Friendship Hill, are also among the research materials."
+            }
+        },
+        "controlaccess": {},
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref8\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: Research Files on Albert Gallatin\u003c/unittitle\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_0b0f5e69852fd49d1ffd161430ad9703\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eSeries I includes files related to Albert Gallatin that were printed out from the internet.\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_ref33\" level=\"subseries\"\u003e\u003cdid\u003e\u003cunittitle\u003eSubseries I: Research for America's Vindicated Statesman Part 1\u003c/unittitle\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_e77a405edb6e17f90154d676b7677811\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eSubseries I includes research for America's Vindicated Statesman that was printed out from the internet.\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_ref10\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBiographical Information on Albert Gallatin\u003c/unittitle\u003e\u003cunitdate\u003e2004\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_7fa3de8739869889ec5a4c9258459842\" label=\"Mixed Materials [31142063052693]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_7fa3de8739869889ec5a4c9258459842\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref11\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCopies of Gallatin's Writings\u003c/unittitle\u003e\u003cunitdate\u003e2004\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_49fac9a0f10951fd149250d1014fd4aa\" label=\"Mixed Materials [31142063052693]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_49fac9a0f10951fd149250d1014fd4aa\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref12\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCopies of Writings to and from Gallatin \u003c/unittitle\u003e\u003cunitdate\u003e2004\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_ae5240b65aae5f240eef96fbadccdbe7\" label=\"Mixed Materials [31142063052693]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ae5240b65aae5f240eef96fbadccdbe7\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref13\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCopies of Gallatin's Writings on Oregon\u003c/unittitle\u003e\u003cunitdate\u003e2004\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_d203370b3fe47b7de6ea89e72e082dba\" label=\"Mixed Materials [31142063052693]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d203370b3fe47b7de6ea89e72e082dba\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref29\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFriendship Hill-Home of Albert Gallatin- booklet and postcard\u003c/unittitle\u003e\u003cunitdate\u003e1928\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_fb5e6cb4bd8ee14757126f57cec0ab4a\" label=\"Mixed Materials [31142063052693]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_fb5e6cb4bd8ee14757126f57cec0ab4a\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref30\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eThe National Road: Main Street of America- booklet\u003c/unittitle\u003e\u003cunitdate\u003e1975\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_d371b2153498a3ffd3f1a76b50657c3e\" label=\"Mixed Materials [31142063052693]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d371b2153498a3ffd3f1a76b50657c3e\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref31\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTIME Special Edition: The Making of America\u003c/unittitle\u003e\u003cunitdate\u003e2005\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_9fbbf7606c549e29ac06b0c09a31e139\" label=\"Mixed Materials [31142063052693]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_9fbbf7606c549e29ac06b0c09a31e139\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref34\" level=\"subseries\"\u003e\u003cdid\u003e\u003cunittitle\u003eSubseries II: Research for America's Vindicated Statesman Part 2\u003c/unittitle\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_6049de87eeabbe810194cb69dd2fb8e7\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eSubseries II includes research for America's Vindicated Statesman that was printed out from the internet.\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_ref36\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBiographical Information and Notes\u003c/unittitle\u003e\u003cunitdate\u003e2004\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_490c3a64045048b1f99c1aeb61c1fc2a\" label=\"Mixed Materials [31142063052693]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_490c3a64045048b1f99c1aeb61c1fc2a\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref37\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eHandouts and Booklets on Gallatin\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_4e614a7ca4bf4e8a441fbc8329308701\" label=\"Mixed Materials [31142063052693]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_4e614a7ca4bf4e8a441fbc8329308701\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref38\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eResearch on Friendship Hill\u003c/unittitle\u003e\u003cunitdate\u003e2004\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_e66a7d5401b0be56af7e2dec7ec75de3\" label=\"Mixed Materials [31142063052693]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e66a7d5401b0be56af7e2dec7ec75de3\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref40\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eGallatin Stamps\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_76298a145b6f30daca90feacf942c45e\" label=\"Mixed Materials [31142063052693]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_76298a145b6f30daca90feacf942c45e\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref39\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eResearch on Gallatin's Legacy (1of 2)\u003c/unittitle\u003e\u003cunitdate\u003e2004\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_1ccde9b62deb3fbfe52dc5f3b3cb23b1\" label=\"Mixed Materials [31142063052693]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1ccde9b62deb3fbfe52dc5f3b3cb23b1\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref41\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eResearch on Gallatin's Legacy (2 of 2)\u003c/unittitle\u003e\u003cunitdate\u003e2004\u003c/unitdate\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref42\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLibrary of Congress References\u003c/unittitle\u003e\u003cunitdate\u003e2004\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_0a69230e9bc0fe7faa2f6296e18ff187\" label=\"Mixed Materials [31142063052693]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0a69230e9bc0fe7faa2f6296e18ff187\" type=\"Folder\"\u003e15\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref43\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFinal Cover Art CD-R\u003c/unittitle\u003e\u003cunitdate\u003e2004\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_31d9a96eb6bab0c9089e0f002a2fde2b\" label=\"Mixed Materials [31142063052693]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_31d9a96eb6bab0c9089e0f002a2fde2b\" type=\"Folder\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref44\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eUS Coast Guard Gallatin Ornament\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_605fc1c5c49f1f29d8b8f8b89120def3\" label=\"Mixed Materials [31142063052693]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_605fc1c5c49f1f29d8b8f8b89120def3\" type=\"Folder\"\u003e17\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref9\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries II: Books on Albert Gallatin\u003c/unittitle\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_54f992dfd2414c46580f83f662e6aab4\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eSeries II includes published books related to Albert Gallatin.\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_ref21\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"italic\"\u003eThe Correspondence of John Badollet and Albert Gallatin 1804-1836\u003c/emph\u003e edited by Gayle Thornbrough\u003c/unittitle\u003e\u003cunitdate normal=\"1963/1963\" type=\"inclusive\"\u003e1963\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_400fbd0fcaa62801a9605f196cf8f857\" label=\"Books [31142063052693]\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"italic\"\u003eAlbert Gallatin: Jeffersonian Financier and Diplomat\u003c/emph\u003e by Raymond Walters Jr.\u003c/unittitle\u003e\u003cunitdate normal=\"1957/1957\" type=\"inclusive\"\u003e1957\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_f549721b5d5acbdb9dc4730398682f25\" label=\"Books [31142063052693]\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"italic\"\u003eAlbert Gallatin's Vision of Democratic Stability\u003c/emph\u003e by L.B. Kuppenheimer\u003c/unittitle\u003e\u003cunitdate normal=\"1996/1996\" type=\"inclusive\"\u003e1996\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_114971ef2a0455249aa166a50ba29fc6\" label=\"Books [31142063052693]\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"italic\"\u003eAlbert Gallatin and the Oregon Problem\u003c/emph\u003e by Frederick Merk\u003c/unittitle\u003e\u003cunitdate normal=\"1950/1950\" type=\"inclusive\"\u003e1950\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_682263745d7d32d93143167869f6ee5e\" label=\"Books [31142063052693]\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"italic\"\u003eAlbert Gallatin\u003c/emph\u003e by John Austen Stevens\u003c/unittitle\u003e\u003cunitdate normal=\"1898/1898\" type=\"inclusive\"\u003e1898\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_f9d0b36e95ce38ba4d17930c22345339\" label=\"Books [31142063052693]\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref26\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"italic\"\u003eThe Diary of James Gallatin\u003c/emph\u003e edited by Count Gallatin\u003c/unittitle\u003e\u003cunitdate normal=\"1930/1930\" type=\"inclusive\"\u003e1930\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_01ec9e87bebb11678d9fb5d83fb73822\" label=\"Books [31142063052693]\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"italic\"\u003eAmerican Woodland Indians\u003c/emph\u003e by Michael Johnson\u003c/unittitle\u003e\u003cunitdate normal=\"1992/1992\" type=\"inclusive\"\u003e1992\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_640a59c611c67244fef9a799e94ea49e\" label=\"Books [31142063052693]\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_c85d86eadd4393cebb32973e6067c902\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eMemorabilia \u003c/unittitle\u003e\u003cunitdate normal=\"1991/1991\"\u003e1991\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_7b5a575786c5f2dd6310558f91f8db79\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eSeries III includes memorabilia related to Albert Gallatin.\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_90041bdea25a759260aedd44ca093e46\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eChristmas ornament depicting United States Coast Guard vessel, the USCG Gallatin\u003c/unittitle\u003e\u003cunitdate normal=\"1991/1991\"\u003e1991\u003c/unitdate\u003e\u003ccontainer altrender=\"Box - 8.75 x 8.75\" id=\"aspace_8ff976fcfe035357168dea73013a6cc6\" label=\"Mixed Materials [31142063063187]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_481a043db7d5bbb193d140110d19f852\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eID Number: 514. Description: Christmas ornament showing USCG Gallatin. Creator/Donor/Subject: Mary Moline Research Collection.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

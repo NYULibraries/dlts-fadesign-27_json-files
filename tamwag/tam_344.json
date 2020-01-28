@@ -1,0 +1,131 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_344"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Seymour Melman Research Files on Israeli Kibbutzim \u003cnum\u003eTAM 344\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-23T16:35:28\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Seymour Melman Research Files on Israeli Kibbutzim"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "2 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(2 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "TAM 344"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_faa71e7474bf34d77e834ba392286332",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1-2"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_3bca00c4a6b348d18da2c5dbfdc9e72d",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_cc5b347bf7a1b6e9e28b9161b3d7cb57",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials found in collection; provenance is unknown. The accession number associate with this collection is 2005.038."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_ac84821c72898d1c50f400010a7b2b71",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Seymour Melman (1918-2004), an economist who taught industrial engineering at Columbia, helped galvanize the antiwar movement from the 1950's on with analyses of the social costs of military spending, diverting  resources from health care, public housing and education. He was a leading advocate of nuclear disarmament, and a longtime co-chairman of the Committee for a Sane Nuclear Policy. His later  books, including \u003cemph render=\"italic\"\u003eAfter Capitalism: From Managerialism to Workplace Economy\u003c/emph\u003e (2001), describe the potential of employee self-management, an idea that interested him for decades. As a young man, he briefly lived on a kibbutz in Israel, and later in his career participated in studies and meetings on the productivity of such collective settlements."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_ec7ad723977a35b79de9b12d16901d21",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The collection contains Seymour Melman's research files on Israeli Kibbutzim."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Kibbutzim."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Collective settlements |z Israel."
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

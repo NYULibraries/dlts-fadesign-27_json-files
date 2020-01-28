@@ -1,0 +1,155 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "wag_175"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Harold Robins Papers \u003cnum\u003eWAG.175\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Maggie Schreiner"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-06-22T14:51:26\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Isserman, Maurice                          "
+                    }
+                },
+                "unittitle": {
+                    "value": "Harold Robins Papers"
+                },
+                "unitdate": {
+                    "normal": "1930/1987",
+                    "type": "inclusive",
+                    "value": "1930-1987"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "3 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 3 record cartons."
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Harold Robins (1908-1987) was the head bodygaurd at the Trotsky household in Mexico City. This collection contains research files and draft manuscripts of Robin's unpublished memoir about the assassination of Leon Trotsky. "
+                },
+                "unitid": {
+                    "value": "WAG.175"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_4358cd3ac1819be29c7ff234f8cd6f56",
+                    "label": "Mixed Materials [31142063293669]",
+                    "type": "Box",
+                    "value": "3"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_ff98c4b18ac10ba66b2724f72f80a181",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_e14ff775bf52fe4037ee745782f90333",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Harold Robins Papers; WAG 175; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_dcd57ec3289e9d1ba4a6d0823b6d5b8d",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Maurice Isserman circa 1988. The accession number 1988.020 is associated with this gift."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_25f5c822bcf973ff4c786eb5056c03d2",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Harold Robins (1908-1987) was the head bodygaurd at the Trotsky household in Mexico City. Robins joined the Young Communist League in the 1920s in New York, and left the party at the end of the decade after the expulsion of James Cannon for Trotskyism. He remained a lifelong Trotskyist, and was active in the Waldorf-Astoria hotel workers strike, the Detroit sit-down strikes, and other Trotskyist-led campaigns. Robins served in the army during WWII and later became a painter in New York City. He died in Woodsville, New Hampshire while writing a memior about his experiences at the Trotsky household."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_7d16cd54f5029d80f5a90fc0cb6cd0a6",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "This collection contains research files and draft manuscripts of Robin's unpublished memoir about the assassination of Leon Trotsky. The research files include handwritten notes, copies of Trotsky's correspondence, newspaper clippings, testimonies and FBI documents obtained through FOIA requests. The collection also contains a small amount of correspondence."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "local",
+                    "value": "Trotskyism -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Trotsky, Leon, 1879-1940 -- Assassination"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Fourth International"
+            }
+        },
+        "dsc": {}
+    }
+}

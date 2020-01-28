@@ -1,0 +1,148 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "masoncyrus"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to Cyrus Mason Correspondence \u003cnum\u003eMC.30\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Shannon McDonald and Claire Wolford."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-02-12T15:03:59\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Mason, Cyrus, 1798-1865"
+                    }
+                },
+                "unittitle": {
+                    "value": "Cyrus Mason Letters"
+                },
+                "unitdate": {
+                    "normal": "1843/1843",
+                    "value": "1843"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one half manuscript box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "This collection contains the personal correspondence of Cyrus Mason, 1798-1865. The letters mainly cover personal matters such as religion, the birth of a daughter, and finances."
+                },
+                "unitid": {
+                    "value": "MC.30"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_5850c1e1f38c7edbf7072b2238afcbd1",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_81e04442d6c45b2f0851b77145b56444",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Cyrus Mason Correspondence; MC 30; box number; folder number; New York University Archives, New York University Libraries"
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_b79c48d74120a5e63d3de6304300b51b",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Found in repository."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_5d852d955886182958ea482b035d0b34",
+            "head": "Biography of Cyrus Mason",
+            "p": {
+                "value": "Born July 19, 1798, near Nassau, New York, Cyrus Mason served as the pastor of the Cedar Street Presbyterian Church in New York City (forerunner of the Fifth Avenue Presbyterian Church). Mason was a member of the original Council of New York University (NYU), then called the University of the City of New York. In 1836 Mason became Professor of the Evidences of Revealed Religion at NYU, and in 1843, he took on additional teaching duties in political economy. He also served as rector of the University Grammar School. Mason resigned from the University in January 1850. He died of typhoid fever on May 29, 1865, in New York City."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_794666d6a62df70fb9d18b2fa2b8fcb6",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection contains correspondence of Cyrus Mason, dating from 1843 and mainly concerning finances and personal matters. Topics include religious life, the birth of a daughter to Susan Hilleron, a subscription fund for Union College, and the debts of Mason's brother, James."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Religion."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "University of the City of New York"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref5\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBarney, Hiram\u003c/unittitle\u003e\u003cunitdate normal=\"1843/1843\" type=\"inclusive\"\u003e1843 \u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_daf5a89aeac42f0ad223d5c0ce30d5a6\" label=\"Mixed Materials [31142062742518]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_daf5a89aeac42f0ad223d5c0ce30d5a6\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref10\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBisher, J.\u003c/unittitle\u003e\u003cunitdate normal=\"1843/1843\" type=\"inclusive\"\u003e1843 \u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_9d499154364d05b7e8494203e743eead\" label=\"Mixed Materials [31142062742518]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_9d499154364d05b7e8494203e743eead\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref11\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBrown, Mortimor\u003c/unittitle\u003e\u003cunitdate normal=\"1843/1843\" type=\"inclusive\"\u003e1843\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_f0abd1a76b71ee843f7009bbf08a9be4\" label=\"Mixed Materials [31142062742518]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f0abd1a76b71ee843f7009bbf08a9be4\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref12\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBrown, Sarah\u003c/unittitle\u003e\u003cunitdate normal=\"1843/1843\" type=\"inclusive\"\u003e1843\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_5ce56707b88ed64d17c632b7aa32a6c2\" label=\"Mixed Materials [31142062742518]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5ce56707b88ed64d17c632b7aa32a6c2\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref13\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCushing, Thomas P.\u003c/unittitle\u003e\u003cunitdate normal=\"1843/1843\" type=\"inclusive\"\u003e1843\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_b642e355c82e80140a3b2324408f6555\" label=\"Mixed Materials [31142062742518]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b642e355c82e80140a3b2324408f6555\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCook, R.S.\u003c/unittitle\u003e\u003cunitdate normal=\"1843/1843\" type=\"inclusive\"\u003e1843\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_8008ade203ba50a8f10c17d29946df75\" label=\"Mixed Materials [31142062742518]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_8008ade203ba50a8f10c17d29946df75\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDonan, P.\u003c/unittitle\u003e\u003cunitdate normal=\"1843/1843\" type=\"inclusive\"\u003e1843\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_c7fc1d39f452479645f5eb69540e67ce\" label=\"Mixed Materials [31142062742518]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_c7fc1d39f452479645f5eb69540e67ce\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eHilleron, C.\u003c/unittitle\u003e\u003cunitdate normal=\"1843/1843\" type=\"inclusive\"\u003e1843\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_d3fbce20f2d59d7dc3da459384526611\" label=\"Mixed Materials [31142062742518]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d3fbce20f2d59d7dc3da459384526611\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMackey, James R.\u003c/unittitle\u003e\u003cunitdate\u003e1843\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_6ddb72560061c6a01fec412984d40773\" label=\"Mixed Materials [31142062742518]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_6ddb72560061c6a01fec412984d40773\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMarton, A.\u003c/unittitle\u003e\u003cunitdate normal=\"1843/1843\" type=\"inclusive\"\u003e1843\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_e5bcc8c8feb7e474c96c67de9348343a\" label=\"Mixed Materials [31142062742518]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e5bcc8c8feb7e474c96c67de9348343a\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMason, James\u003c/unittitle\u003e\u003cunitdate normal=\"1843/1843\" type=\"inclusive\"\u003e1843\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_03ddc71e54c162f32ca0c01b3770ac72\" label=\"Mixed Materials [31142062742518]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_03ddc71e54c162f32ca0c01b3770ac72\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMasters, A.\u003c/unittitle\u003e\u003cunitdate\u003e1843\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_f041c71da7d0c0ac126817682199459f\" label=\"Mixed Materials [31142062742518]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f041c71da7d0c0ac126817682199459f\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNorris, A.\u003c/unittitle\u003e\u003cunitdate normal=\"1843/1843\" type=\"inclusive\"\u003e1843\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_f3439801e29ea37345340fa31f04a5f3\" label=\"Mixed Materials [31142062742518]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f3439801e29ea37345340fa31f04a5f3\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eThorne, R.\u003c/unittitle\u003e\u003cunitdate normal=\"1843/1843\" type=\"inclusive\"\u003e1843\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_0248f8ba1dd95cc6d19be3cfaebce376\" label=\"Mixed Materials [31142062742518]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0248f8ba1dd95cc6d19be3cfaebce376\" type=\"Folder\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eWaterbury, Silvester \u003c/unittitle\u003e\u003cunitdate normal=\"1843/1843\" type=\"inclusive\"\u003e1843\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_4958958db2e30ac0c41e937b0360cf0c\" label=\"Mixed Materials [31142062742518]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_4958958db2e30ac0c41e937b0360cf0c\" type=\"Folder\"\u003e15\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_c56db7438b84b667e360ab887279f234\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eWilkinson, A.\u003c/unittitle\u003e\u003cunitdate normal=\"1843-10/1843-10\"\u003e1843-10\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal - Half\" id=\"aspace_a194738ae07abe16eeb1b5f34faa511b\" label=\"Mixed Materials [31142062742518]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_a194738ae07abe16eeb1b5f34faa511b\" type=\"Folder\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

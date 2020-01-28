@@ -1,0 +1,143 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "mc_296"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Harry R. Gudenberg Collection \u003cnum\u003eMC.296\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Stacey Flatt"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-08-08T19:19:27\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "local",
+                        "value": "Gudenberg, Harry R."
+                    }
+                },
+                "unittitle": {
+                    "value": "Harry R. Gudenberg Collection"
+                },
+                "unitdate": {
+                    "normal": "1957/1961",
+                    "type": "inclusive",
+                    "value": "1957-1961"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": ".25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 folder in shared housing"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Harry R. Gudenberg Collection contains a 1957-1958 NYU Log booklet, a \"1961 NYU Frosh\" pin, and a program for the 1958 NYU School of Commerce, Accounts, and Finance Evening Freshman Orientation event. Gudenberg was a student at NYU, serving as the Junior Class Secretary-Treasurer for the Evening Student Council in 1958."
+                },
+                "unitid": {
+                    "value": "MC.296"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_e008221a9775a7edfc165351b5a7af70",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_9e83c71bbd1baf154fd26426cc170633",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Harry R. Gudenberg Collection; MC 296; box number; folder number; New York University Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_c089fc16cbb32935d9db2b9d209c3ecd",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Henry Gudenberg in August 2018. The accession number associated with this gift is 2019.071."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_8838a9f39aeb26254de796c9001c2799",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Harry R. Gudenberg was born in 1933. He graduated with a Bachelor of Science from New York University in 1960 and received his Master of Business Administration from New York University in 1964. He went on to receive a Juris Doctor from Seton Hall University in 1970. He has worked as an arbitrator and mediator."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_9014b11f909a7afb61cabd6738edd630",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection contains Henry R. Gudenberg's 1958 NYU School of Commerce, Accounts, and Finance Evening Freshman Orientation program of events, a 1957-1958 NYU Log booklet which provided in-coming students with basic school information and activities, and a \"1961 NYU Frosh\" pin."
+            }
+        },
+        "controlaccess": {
+            "corpname": {
+                "source": "naf",
+                "value": "New York University. School of Commerce, Accounts, and Finance."
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_e18d43b772f60d891a7e5f6a4f6e745e\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBooklet, Pin, Event Program\u003c/unittitle\u003e\u003cunitdate normal=\"1957/1961\" type=\"inclusive\"\u003e1957-1958, 1961\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_b8147c0e90619ce5f64ee764810c5dbd\" label=\"Mixed Materials [31142062909927]\" type=\"Box\"\u003eShared University Archives 051\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

@@ -1,0 +1,208 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arc_201_early_brooklyn_long_island_photographs"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Early Brooklyn and Long Island photograph collection\n                    \u003cnum\u003eARC.201\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Patricia Glowinski"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "April 26, 2011."
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-05-01T16:08-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Young, A. R."
+                    }
+                },
+                "unittitle": {
+                    "value": "Early Brooklyn and Long Island photograph collection"
+                },
+                "unitdate": {
+                    "normal": "1850/1930",
+                    "type": "inclusive",
+                    "value": "circa 1860 to 1920"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "8.67 Linear feet"
+                        },
+                        {
+                            "value": "in 14 manuscript boxes, two oversize boxes, three medium format negative boxes, and one large format negative box."
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The Early Brooklyn and Long Island photograph collection is comprised of (roughly) 1,400 black-and-white photographs taken by various photographers from circa 1860 to 1920. The collection includes views of locations on Long Island, which is comprised of the boroughs of Brooklyn and Queens (Kings County and Queens County respectively), Nassau County, and Suffolk County. The majority of the photographs in the collection depict views of Brooklyn and Suffolk County. The photographers are primarily amateur photographers and include George Bradford Brainerd, Elias Lewis Jr., A.R. Young, Eugene L. Armbruster, and Walter H. Nelson. The collection also includes photographs from the commercial photography firm George P. Hall \u0026amp; Son, as well as photographs where the photographer is unknown. Subjects include the built environment (houses, churches, railroad stations, mills, cemeteries, asylums, penitentiaries, ferry terminals, lighthouses, and parks, among others) and the natural environment (beaches, shorelines, trees, creeks, ponds, bays, and harbors, among others). The collection also includes many views of Coney Island and Prospect Park."
+                },
+                "unitid": {
+                    "value": "ARC.201"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid755004",
+                    "label": "Graphic materials",
+                    "type": "Box",
+                    "value": "ARC.201 Box 3 of 16"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref2",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref6",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Early Brooklyn and Long Island photograph collection, ARC.201, Box number, Object ID number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref4",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Source and date of acquisition for this collection are unknown. This collection was formally accessioned in 1972."
+            }
+        },
+        "bioghist": {
+            "id": "ref9",
+            "head": "Biographical note",
+            "p": {
+                "value": "George P. Hall \u0026amp; Son was a commercial photography firm that operated from 1886 to 1914. The firm, located in Manhattan, was started by George P. Hall (1832-1900), an Ohio native, who began his photographic career as a daguerreotypist in 1854. In 1872, Hall relocated to New York City, where he opened a commercial photography studio. His son, James S. Hall, joined his father in business in 1886, and George P. Hall \u0026amp; Son was established. The firm photographed in all five boroughs of New York City, and focused on documenting the built environment throughout the city, thus capturing the dramatic changes in the city from the 1880s to 1914. When George P. Hall died in 1900, James S. Hall continued to run the business until it ran into financial difficulties and Hall was forced to close the business in 1914. Both George P. Hall and James S. Hall lived in Brooklyn."
+            }
+        },
+        "scopecontent": {
+            "id": "ref8",
+            "head": "Scope and Contents",
+            "p": {}
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Church buildings |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Dwellings |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Dwellings |z New York (State) |z Long Island"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Farms |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Hotels |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Landscape photography |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Landscape photography |z New York (State) |z Long Island"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Lighthouses |z New York (State) |z Long Island"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Outdoor recreation"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Prisons |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "School buildings |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Ships"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Storefronts |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Street photography |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Green-Wood Cemetery (New York, N.Y.)."
+            }
+        },
+        "otherfindaid": {
+            "id": "ref5",
+            "head": "Other Finding Aids"
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref12\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 1: George Bradford Brainerd photographs\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003e1.87 Linear feet\u003c/extent\u003e\n                        \u003cextent\u003ein four and one half manuscript boxes.\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate\u003ecirca 1870 to 1880\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref13\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003eThis series consists of (roughly) 300 black-and-white photographic prints taken by George Bradford Brainerd (1845-1887). The photographs were taken from circa 1870 to 1880 and depict both the built environment (historic houses, churches, mills, reservoirs, and railroad stations, among others) and the natural environment (harbors, bays, creeks, and ponds, among others). The majority of photographs show locations and town on Long Island, primarily in Suffolk County, though there are some views of locations in Brooklyn. Views of towns in the series include (but are not limited to) Shelter Island, N.Y., Sag Harbor, N.Y., Port Jefferson, N.Y., Hempstead, N.Y., Southold, N.Y., Southampton, N.Y., and Huntington, N.Y.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref14\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 2: Elias Lewis, Jr. photographs\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003e0.42 Linear feet\u003c/extent\u003e\n                        \u003cextent\u003ein one manuscript box.\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate normal=\"1877/1879\" type=\"inclusive\"\u003e1877-1879\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref15\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003eThis series consists of (roughly) 120 black-and-white photographic prints taken by Elias Lewis, Jr., between 1877 and 1879. The photographs, all taken on Long Island, depict both the built environment (historic houses, churches, mills, lighthouses, and railroad stations, among others) and the natural environment (trees, beaches, bluffs, pastures, and ponds, among others). Views of towns include (but are not limited to) Montauk, N.Y., Rockville Centre, N.Y., Roslyn, N.Y., Port Jefferson, N.Y., Huntington, N.Y., and Hempstead, N.Y.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref16\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 3: A.R. Young photographs\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003e0.42 Linear feet\u003c/extent\u003e\n                        \u003cextent\u003ein one manuscript box.\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate\u003ecirca 1870 to 1880\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref17\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003eThis series consists of (roughly) 120 black-and-white photographic prints taken by A.R. Young from circa 1870 to 1880. The photographs depict views of locations in Brooklyn, Nassau County, and Suffolk County on Long Island. Locations in Brooklyn include the neighborhoods of Red Hook and Greenpoint, as well as views of Newtown Creek, Prospect Park, and Green-Wood Cemetery. Views of Long Island include areas in or near the towns of Mill Neck, Cold Spring Harbor, Roslyn, and Valley Stream, among others. Subjects include depictions of the built environment (historic houses, churches, mills, ferry terminals, cemeteries, and asylums, among others) and the natural environment (shorelines, ponds, and harbors, among others).\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref18\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 4: Miscellaneous photographers\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003e6.0 Linear feet\u003c/extent\u003e\n                        \u003cextent\u003ein seven and one half manuscript boxes and two oversize boxes.\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate\u003ecirca 1860 to 1920\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref19\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003eThis series contains (roughly) 900 photographs, measuring 6 linear feet, created by various known and unknown photographers. Known photographers in this series include, but are not limited to, the following amateur and commercial photographers: Eugene L. Armbruster, Walter H. Nelson, and the commercial photography firm of George P. Hall \u0026amp; Son. The majority of the photographs in this series consist of views of Brooklyn, as well as photographs of people, presumably Brooklynites. Studio portraits, group portraits, and informal portraits are represented. There are also a few images of locations outside of Brooklyn including views of Queens, and locations along the Hudson River. Photographic prints, stereographs, and cabinet photographs comprise the series, as well as two boxes of black-and-white oversized photographic prints, measuring 2.83 linear feet.\u003c/p\u003e\n                    \u003cp\u003eThis series chiefly depicts the built environment in Brooklyn and documents the period circa 1860 to 1920. There are many views of Coney Island and Prospect Park. Further, many Brooklyn neighborhoods are represented including Flatbush, Bay Ridge, Gowanus, Williamsburg, Brooklyn Heights, Fort Hamilton, and Downtown Brooklyn, among others. Subjects include houses and homesteads (exterior and interior views), farms and farm animals, schools, bridges, prisons, ships, hotels, hospitals (exterior and interior views), businesses (exterior and interior views), and storefronts.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

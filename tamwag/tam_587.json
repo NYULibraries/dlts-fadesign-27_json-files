@@ -1,0 +1,140 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_587"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Herbert M. Morais Papers \u003cnum\u003eTAM 587\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Peter Filardo"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-06-22T16:19:46\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Herbert M. Morais Papers"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 items"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 CD containing 23 PDF files)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Herbert M. Morais (1905-1970) was an historian and co-author of \u003cemph render=\"italic\"\u003eLabor's Untold Story\u003c/emph\u003e (1955). He taught at Brooklyn College but left in the 1940s after being investigated for his allegedly Communist political associations, and became a member of the Research Division of the United Electrical, Radio and Machine Workers Union, CIO (UE). The collection contains a CD and printed reproductions of files on Morais and other ex-teachers and Brooklyn College and the City University of New York (CCNY) investigated and in most cases dismissed for their radicalism. The twenty-three files contain legal documents, correspondence, and clippings, most related to the investigation of Morais and other professors."
+                },
+                "unitid": {
+                    "value": "TAM 587"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_09362122c89fee418a9040bfbeab2032",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_c64ca4114662fba719553e77c4784644",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Herbert M. Morais Papers; TAM 587; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_a8934323c5983e4a6683466783abf5ba",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials found in collection; provenance is unknown. The accession number associated with this collection is 2011.107."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_bb9a612b2ddb1c6c92332c4cef029bd6",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Herbert M. Morais (1905-1970) was an historian and co-author of \u003cemph render=\"italic\"\u003eLabor's Untold Story\u003c/emph\u003e (1955). He taught at Brooklyn College but left in the 1940s after being investigated for his allegedly Communist political associations, and became a member of the Research Division of the United Electrical, Radio and Machine Workers Union, CIO (UE)."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_ae5e771df0d6c3f5f107bf6ad7d7aaaa",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The collection contains a CD and printed reproductions of files on Morais and other ex-teachers and Brooklyn College and the City University of New York (CCNY) investigated and in most cases dismissed for their radicalism. The twenty-three files contain legal documents, correspondence, and clippings, most related to the investigation of Morais and other professors."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Anti-communist movements |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Communist teachers |z New York (State) |z New York."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Brooklyn College. Dept. of History"
+            }
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,148 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "value": "equipment"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Vintage Equipment Collection\n                    \u003cnum\u003eRG.011\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Lindsay Anderberg"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Poly Archives \u0026amp; Special Collections at Bern Dibner Library of Science and Technology"
+                },
+                "address": {
+                    "addressline": [
+                        "Bern Dibner Library of Science and Technology",
+                        "5 MetroTech Center",
+                        "Brooklyn, New York, 11201",
+                        "718-260-3943",
+                        "archives@library.poly.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2016-02-05T13:10-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Poly Archives \u0026amp; Special Collections at Bern Dibner Library of Science and Technology"
+                    }
+                },
+                "unittitle": {
+                    "value": "Guide to the Vintage Equipment Collection"
+                },
+                "unitdate": {
+                    "value": "Early-mid 20th century"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "12.0 Cubic feet"
+                        },
+                        {
+                            "value": "13 items"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The items in this collection relate to the fields of electrical and civil engineering, as well as supplemental equipment, and were used by engineers in the early to mid 20th century."
+                },
+                "unitid": {
+                    "value": "RG.011"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref6",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Please contact the archives to view items in this collection."
+            }
+        },
+        "prefercite": {
+            "id": "ref4",
+            "head": "Preferred Citation note",
+            "p": {
+                "value": "Identification of item, date; RG-011: Vintage Equipment Collection; box number; folder number; Poly Archives \u0026amp; Special Collections at Bern Dibner Library of Science and Technology."
+            }
+        },
+        "bioghist": {
+            "id": "ref7",
+            "head": "Biographical/Historical note",
+            "p": {
+                "value": "The items in this collection were transferred to the Poly Archives by various university departments. The most prominently represented departments include Civil Engineering and Electrical Engineering."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "Equipment in this collection includes items civil and electrical engineers would have used in the early to mid 20th century. Surveying equipment, such as a theodolite and transit, as well as electrical engineering instruments, such as a decade capacitor, decade resistor, potentiometer, and volt meter are included. The equipment ranges in date from the early to mid 20th century."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Brownie camera"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Civil engineering"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Electrical engineering"
+                },
+                {
+                    "source": "aat",
+                    "value": "Engineering"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Kodak camera"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Radio--Equipment and supplies"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Surveying"
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref8\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eBook Binding Stapler: Acme Stapling Co., Camden, NJ\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid147001\" type=\"Object\" label=\"Realia\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cbioghist audience=\"internal\" id=\"ref13\"\u003e\n                    \u003chead\u003eBiographical/Historical note\u003c/head\u003e\n                    \u003cp\u003eThis heavy-duty stapler was used to bind the pages of manuals and textbooks.\u003c/p\u003e\n                \u003c/bioghist\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref9\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eCurrent Transformer: Astra Corporation, Quincy, MA\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid147002\" type=\"Object\" label=\"Realia\"\u003e2\u003c/container\u003e\n                    \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cbioghist audience=\"internal\" id=\"ref14\"\u003e\n                    \u003chead\u003eBiographical/Historical note\u003c/head\u003e\n                    \u003cp\u003eA transformer is a piece of equipment used by electrical engineers to test electrical current. If the current in the circuit is too high for a direct measurement, the current transformer is used to produce a reduced current proportional to the current in the circuit.\u003c/p\u003e\n                \u003c/bioghist\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref10\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eDecade Capacitor, Series 1575: Cornell-Dubilier Electronics Inc., Plainfield, NJ\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid147003\" type=\"Object\" label=\"Realia\"\u003e3\u003c/container\u003e\n                    \u003cunitdate\u003ecirca 1940\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cbioghist audience=\"internal\" id=\"ref15\"\u003e\n                    \u003chead\u003eBiographical/Historical note\u003c/head\u003e\n                    \u003cp\u003eA decade capacitor is used for testing and calibration of electrical equipment\u003c/p\u003e\n                \u003c/bioghist\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref11\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eDecade Condenser Type 219-K: General Radio Co., Cambridge, MA\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid148001\" type=\"Object\" label=\"Realia\"\u003e4\u003c/container\u003e\n                    \u003cunitdate\u003ecirca 1950\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cbioghist audience=\"internal\" id=\"ref16\"\u003e\n                    \u003chead\u003eBiographical/Historical note\u003c/head\u003e\n                    \u003cp\u003eThe condenser was used when a resistor of unknown or precise value is needed. Condensers are now referred to as capacitors.\u003c/p\u003e\n                \u003c/bioghist\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref12\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eDecade Resistor Type 1432-K: General Radio Co., Cambridge, MA\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid148002\" type=\"Object\" label=\"Realia\"\u003e5\u003c/container\u003e\n                    \u003cunitdate\u003ecirca 1950\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cbioghist audience=\"internal\" id=\"ref17\"\u003e\n                    \u003chead\u003eBiographical/Historical note\u003c/head\u003e\n                    \u003cp\u003eThe resistor box contains resistors of many values with mechanical switches to allow precision switching from one value to another. This configuration offers a convenient way of quickly changing resistance in a laboratory setting.\u003c/p\u003e\n                \u003c/bioghist\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref18\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eElectrical Cables: Consolidated Edison Co., New York, NY\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid148003\" type=\"Object\" label=\"Realia\"\u003e6\u003c/container\u003e\n                    \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                    \u003cphysdesc audience=\"internal\" id=\"ref34\" label=\"General Physical Description note\"\u003eThese cables were removed from the display when it was discovered they were leaking a viscous fluid. They were bagged and returned to the archives.\u003c/physdesc\u003e\n                \u003c/did\u003e\n                \u003cbioghist audience=\"internal\" id=\"ref19\"\u003e\n                    \u003chead\u003eBiographical/Historical note\u003c/head\u003e\n                    \u003cp\u003eNYU-Poly and Con Edison have a long-standing relationship of mutual research and support. Con Ed was one of NYU-Poly’s first neighbors in the new MetroTech Center complex. These electrical cables and components were donated from Con Ed to NYU-Poly.\u003c/p\u003e\n                    \u003cp\u003eNote on cable reads, \"Piece of cable installed in Morgan Stanley building, that failed.\"\u003c/p\u003e\n                \u003c/bioghist\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref20\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eGauge: Airco, New York, NY\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid148004\" type=\"Object\" label=\"Realia\"\u003e7\u003c/container\u003e\n                    \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cbioghist audience=\"internal\" id=\"ref21\"\u003e\n                    \u003chead\u003eBiographical/Historical note\u003c/head\u003e\n                    \u003cp\u003eThis gauge was used to measure the pressure of various gases.\u003c/p\u003e\n                \u003c/bioghist\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref22\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eHawkeye Brownie Camera: Eastman Kodak, Rochester, NY\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid148006\" type=\"Object\" label=\"Realia\"\u003e8\u003c/container\u003e\n                    \u003cunitdate\u003ecirca 1950\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cbioghist audience=\"internal\" id=\"ref23\"\u003e\n                    \u003chead\u003eBiographical/Historical note\u003c/head\u003e\n                    \u003cp\u003eThe Hawkeye was one of the most popular Brownie cameras made. It was cheap, easy to use, and disassembled easily for cleaning: the perfect camera to take into the field.\u003c/p\u003e\n                \u003c/bioghist\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref24\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003ePotentiometer: Leeds and Northrup Co. , Philadelphia, PA\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid148005\" type=\"Object\" label=\"Realia\"\u003e9\u003c/container\u003e\n                    \u003cunitdate\u003ecirca 1950\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cbioghist audience=\"internal\" id=\"ref27\"\u003e\n                    \u003chead\u003eBiographical/Historical note\u003c/head\u003e\n                    \u003cp\u003eThis instrument is a voltage divider used for measuring electric potential.\u003c/p\u003e\n                \u003c/bioghist\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref25\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eTheodolite: Buff \u0026amp; Buff Mfg. Co., Boston, MA\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid148007\" type=\"Object\" label=\"Realia\"\u003e10\u003c/container\u003e\n                    \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cbioghist audience=\"internal\" id=\"ref26\"\u003e\n                    \u003chead\u003eBiographical/Historical note\u003c/head\u003e\n                    \u003cp\u003eThe theodolite is an optical surveying instrument used by civil engineers to measure angles in vertical and horizontal planes. When the telescope is pointed at an object, the angle of orientation can be measured with precision.\u003c/p\u003e\n                \u003c/bioghist\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref28\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eTransit: Buff \u0026amp; Buff Mfg. Co., Boston, MA\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid148008\" type=\"Object\" label=\"Realia\"\u003e11\u003c/container\u003e\n                    \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cbioghist audience=\"internal\" id=\"ref29\"\u003e\n                    \u003chead\u003eBiographical/Historical note\u003c/head\u003e\n                    \u003cp\u003eA transit is a type of theodolite. Rather than being closed, the transit has an open design where measurements are made by reading verniers on metal circles. This transit, produced by the Buff \u0026amp; Buff Company, is often referred to as a Buffmaster Transit.\u003c/p\u003e\n                \u003c/bioghist\u003e\n                \u003cseparatedmaterial id=\"ref35\"\u003e\n                    \u003chead\u003eOn Loan\u003c/head\u003e\n                    \u003cp\u003eOn loan to President Andrew Hamilton's Office, 4 February 2016\u003c/p\u003e\n                \u003c/separatedmaterial\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref30\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eVolt Meter, Model 377: Simpson Electrical Co., Chicago, IL\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid148009\" type=\"Object\" label=\"Realia\"\u003e12\u003c/container\u003e\n                    \u003cunitdate\u003ecirca 1950\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cbioghist audience=\"internal\" id=\"ref31\"\u003e\n                    \u003chead\u003eBiographical/Historical note\u003c/head\u003e\n                    \u003cp\u003eThis instrument is used to measure the electrical potential difference between two points in an electric circuit.\u003c/p\u003e\n                \u003c/bioghist\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref32\" level=\"item\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eWheatstone Bridge: Leeds and Northrup Co., Philadelphia, PA\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid148010\" type=\"Object\" label=\"Realia\"\u003e13\u003c/container\u003e\n                    \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cbioghist audience=\"internal\" id=\"ref33\"\u003e\n                    \u003chead\u003eBiographical/Historical note\u003c/head\u003e\n                    \u003cp\u003eThe Wheatstone bridge is a type of potentiometer that measures electrical resistance by balancing two legs of a bridge circuit.\u003c/p\u003e\n                \u003c/bioghist\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

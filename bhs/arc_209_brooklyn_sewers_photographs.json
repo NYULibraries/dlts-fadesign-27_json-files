@@ -1,0 +1,149 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arc_209_brooklyn_sewers_photographs"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Brooklyn sewers construction photograph collection\n                    \u003cnum\u003eARC.209\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Patricia Glowinski"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "April 15, 2011."
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-28T10:58-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "Brooklyn sewers construction photograph collection"
+                },
+                "unitdate": {
+                    "normal": "1904/1905",
+                    "type": "inclusive",
+                    "value": "1904-1905"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.5 Linear feet"
+                        },
+                        {
+                            "value": "59 items contained in one glass plate negative box and one photograph album."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "ARC.209"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid845001",
+                    "label": "Graphic materials",
+                    "type": "Box",
+                    "value": "Prints by accession 61 ARC.209 Box 2 of 2 "
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref2",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref6",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Brooklyn sewers construction photograph collection, ARC.209, Box number, Object ID number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref4",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "The glass plate negatives were a gift of the Bronx Historical Society, 1988. The photograph album was purchased by the Long Island Historical Society (now the Brooklyn Historical Society), 1986."
+            }
+        },
+        "bioghist": {
+            "id": "ref1",
+            "head": "Historical note",
+            "p": {
+                "value": "In the mid-19th century, the City of Brooklyn made a serious effort to tackle its sewage and waste problems. As with the rest of the United States, Brooklyn (as did Manhattan) lacked underground sewage systems. With the outbreak of cholera and other infectious diseases circa 1830, combined with an ever-rising population, the City of Brooklyn established a Board of Sewer Commissioners in 1857 to deal with its formidable sewage disposal problems. Still, sewage disposal consisted mostly of drainage, and it wasn't until the last quarter of the 19th century that the construction of underground sewage systems began in Brooklyn."
+            }
+        },
+        "scopecontent": {
+            "id": "ref9",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Some of the images from the glass plate negatives are also included in the photograph album. Notes in the photograph album, when included, identify the people, location, and machinery in the photographs. They also help to identify people and locations in some of the glass plate negatives."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Public works |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Sewerage |z New York (State) |z New York |x Design and construction"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Brooklyn (New York, N.Y.). Bureau of Sewers."
+            }
+        },
+        "otherfindaid": {
+            "id": "ref5",
+            "head": "Other Finding Aids"
+        },
+        "dsc": {}
+    }
+}

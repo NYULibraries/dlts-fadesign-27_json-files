@@ -1,0 +1,152 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arc_229_furman_typescripts"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Typescripts of Gabriel Furman's Notes on Brooklyn, N.Y., 1821-1823\n                    \u003cnum\u003eARC.229\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Larry Weimer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "June 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-05-01T16:12-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "White, Alfred Tredway, 1846-1921"
+                    }
+                },
+                "unittitle": {
+                    "value": "Typescripts of Gabriel Furman's notes on Brooklyn, N.Y., 1821-1823"
+                },
+                "unitdate": {
+                    "normal": "1910/1930",
+                    "type": "inclusive",
+                    "value": "circa 1920 typescripts of 1821-1823 journal"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.1 Linear feet"
+                        },
+                        {
+                            "value": "in one manuscript box"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Gabriel Furman (1800-1854) was a lawyer and historian of early Brooklyn. He kept an extensive set of journals and commonplace books during his life. This collection includes typescripts, prepared in the early twentieth century, of one of those journals, perhaps no longer extant, with entries from 1821-1823. Furman's journal entries primarily concern the weather, yellow fever, ferry crossings, agricultural produce at market, fires or the threat of fire, and the built and natural environment. Observations on religion, local politics, and holiday celebrations also appear in some entries. The entries principally concern the downtown Brooklyn area, especially Brooklyn Heights. Substantive entries also concern lower Manhattan and Paulus Hook, New Jersey."
+                },
+                "unitid": {
+                    "value": "ARC.229"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid870001",
+                    "label": "Text",
+                    "type": "Folder",
+                    "value": "2 folders"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref4",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref9",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Date or title of entry, page number, Typescript of Gabriel Furman's notes on Brooklyn, N.Y., 1821-1823, ARC.229, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref6",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "The provenance of the typescripts is uncertain, but indications are they were either produced by Alfred T. White or produced with his support, most likely by Long Island Historical Society (now Brooklyn Historical Society) staff, as an addition to the library collection."
+            }
+        },
+        "bioghist": {
+            "id": "ref3",
+            "head": "Biographical/Historical note",
+            "p": {
+                "value": "Gabriel Furman (January 23, 1800-November 11, 1854) was a respected historian of early Brooklyn. Among his works were the \n                \u003cemph render=\"italic\"\u003eNotes Geographical and Historical, Relating to the Town of Brooklyn, on Long-Island\u003c/emph\u003e (1824), still available in a recent reprint. Little is known of Furman's youth; he attended Columbia Academy in Bergen (now part of Jersey City), New Jersey, from 1814-1816. Professionally, Furman became a lawyer, having studied law beginning in 1823 in the office of Elisha W. King of Beekman St., New York. Furman was later a justice of the Brooklyn municipal court, a member of the New York State Senate (1839-1842), and an unsuccessful Whig candidate for lieutenant governor. For further biographical information, see Brooklyn Historical Society's guide to its collection of original Furman journals and commonplace books; the guide is available on-line and the call number for the collection itself is ARC.190."
+            }
+        },
+        "scopecontent": {
+            "id": "ref11",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The second typescript is headed, \"Extracts from Diary of G. Furman, Brooklyn, 1822.\" It consists of entries (sometimes abbreviated) found in the first typescript and selected, according to a document in the collection, by Alfred T. White."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Ferries |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Yellow fever |z New York (State) |z Kings County"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

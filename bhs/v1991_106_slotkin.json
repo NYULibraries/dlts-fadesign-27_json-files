@@ -1,0 +1,174 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "v1991_106_slotkin"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Morris Slotkin collection of Eugene L. Armbruster photographs of Williamsburg\n                    \u003cnum\u003eV1991.106\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Patricia Glowinski"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "September 30, 2011."
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-28T16:33-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Slotkin, Morris, 1911-1990"
+                    }
+                },
+                "unittitle": {
+                    "value": "Morris Slotkin collection of Eugene L. Armbruster photographs of Williamsburg"
+                },
+                "unitdate": {
+                    "value": "Circa 1920s"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.05 Linear feet"
+                        },
+                        {
+                            "value": "127 items housed in one folder."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "V1991.106"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1089001",
+                    "label": "Graphic materials",
+                    "type": "Box",
+                    "value": "Prints by Accession 75"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref5",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref4",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Morris Slotkin collection of Eugene L. Armbruster photographs of Williamsburg, V1991.106, Box number, Object ID number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Ira Slotkin, 1991."
+            }
+        },
+        "bioghist": {
+            "id": "ref10",
+            "head": "Biographical note",
+            "p": {
+                "value": "Morris Slotkin was born in the Williamsburg neighborhood of Brooklyn on January 16, 1911. His parents were Isadore and Ida Slotkin who emigrated from Russia. Morris Slotkin's father, whose original surname was Pustulof (or a variation of it), was informally adopted by the Slotkin family after immigrating to Brooklyn. Morris Slotkin was active in the Brooklyn-based Boy Scout Troop 26 from 1923 to 1953. After graduating high school, he worked as a librarian at the New York Public Library until the Second World War (WWII). Following the war, he returned to Brooklyn and worked for the federal government. The Slotkin family moved to Lancaster, PA in 1953 and then to St. Louis, MO in 1955. Morris Slotkin remained active in the Troop 26 Alumni Association until his death in 1990."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Morris Slotkin collection of Eugene L. Armbruster photographs of Williamsburg consist of 127 3.5 x 4.5 inch black-and-white photographic prints taken by Eugene L. Armbruster. The photographs primarily document architecture in the Williamsburg neighborhood of Brooklyn, circa 1920 to 1930. Included are views of streets, ferry terminals, church buildings, schools, wooden-frame houses, and elevated train track and stations, among others. Many streets from which the photographs were taken are identified including Bedford Avenue, Wythe Avenue, and Kent Avenue."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Architecture |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Church buildings |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Dwellings |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Ferry terminals |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Railroads, Elevated |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "School buildings |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Street photography |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Wooden-frame houses"
+                }
+            ]
+        },
+        "otherfindaid": {
+            "id": "ref8",
+            "head": "Other Finding Aids"
+        },
+        "dsc": {}
+    }
+}

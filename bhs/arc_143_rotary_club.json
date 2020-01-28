@@ -1,0 +1,148 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arc_143_rotary_club"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Rotary Club of Brooklyn publications\n                    \u003cnum\u003eARC.143\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Weatherly Stephan"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "December 15, 2010"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-28T10:06-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Rotary Club of Brooklyn publications"
+                },
+                "unitdate": {
+                    "normal": "1919/1977",
+                    "type": "inclusive",
+                    "value": "1919-1977"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.04 Linear feet"
+                        },
+                        {
+                            "value": "in two and a half manuscript boxes."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "ARC.143"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid549001",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "ARC.143 3 of 3"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref2",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref4",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Rotary Club of Brooklyn publications, ARC.143, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Source and date of acquisition for the collection are unknown."
+            }
+        },
+        "bioghist": {
+            "id": "ref6",
+            "head": "Historical note",
+            "p": {
+                "value": "The Rotary Club of Brooklyn was founded in 1914 as a local arm of Rotary International. The club's various committees, such as cultural, welfare, community safety, and community service, contributed to the organization's overall goal of improving the surrounding community through service and providing a productive social group for local businessmen and professionals. After a drop in membership in the 1970s, the Brooklyn club rebuilt itself in the late 1990s and continues serving the residents of the borough as of 2010."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Rotary Club of Brooklyn publications span the years 1919 to 1977 and measure 1.04 linear feet. The publications detail activities of the club, members, officers, and the club's financial data. Items in the collection include the club's newsletter, \n                \u003cemph render=\"italic\"\u003eThe Rotary Felloe\u003c/emph\u003e, treasurer's reports and budgets, officer and committee lists, annual yearbooks, and member rosters. The collection also contains a directory for all Long Island Rotary Clubs, listing the officers and contact information of each district club, and \n                \u003cemph render=\"italic\"\u003eSpotlight On District 725\u003c/emph\u003e, a monthly newsletter for all Rotary Clubs on Long Island."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Clubs |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Voluntarism |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Rotary Club of Brooklyn (Brooklyn, New York, N.Y.)."
+            }
+        },
+        "dsc": {}
+    }
+}

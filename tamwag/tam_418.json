@@ -1,0 +1,135 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_418"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Henry Spira Research Notes on National Maritime Union Rank and File Activism \u003cnum\u003eTAM 418\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-31T18:41:25\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Henry Spira Research Notes on National Maritime Union Rank and File Activism"
+                },
+                "unitdate": {
+                    "value": "1960s-1970s, undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "TAM 418"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_5c99be6f2b3a2aa42ea31b9d051ad932",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_af71fa5a7a1359abe98f7635f4b033ea",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_5e46a884247e76567a41bf8b753e93d4",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Henry Spira in 1982. The accession number associated with this collection is 1982.011."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_6c560d33149e92502433700b2ac2b2a5",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Henry Spira (born Henri Spira, June 19, 1927–September 12, 1998), was a left-wing activist in the National Maritime Union from 1945-1952, when he was blacklisted, with many others, by the U.S. government from the merchant marine for his political views.  He subsquently becaame a leading animal rights activist, founding Animal Rights International in 1974."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_6c38461a5d6118f8d5a7293ac69a75e4",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection contains Spira's notes (handwritten and typed) on dissident activity in the NMU in the 1960s and 1970s, possibly intended for use in a book project. The notes included contact information and rental communications from many NMU insurgents."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Labor union democracy |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Merchant mariners |z United States"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "National Maritime Union of America"
+            }
+        },
+        "dsc": {}
+    }
+}

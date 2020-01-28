@@ -1,0 +1,149 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arc_174_brooklyn_newsletters"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Brooklyn newsletter collection\n                    \u003cnum\u003eARC.174\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Weatherly Stephan"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "January 18, 2010"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-28T10:43-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Brooklyn newsletter collection"
+                },
+                "unitdate": {
+                    "normal": "1869/2004",
+                    "type": "inclusive",
+                    "value": "1869-2004"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "2.0 Linear feet"
+                        },
+                        {
+                            "value": "in two record cartons."
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The Brooklyn newsletter collection, dated 1869 to 2004 (bulk 1960 to 2000) and measuring 2.0 linear feet, contains periodicals published in Brooklyn, as well as publications from Brooklyn-based businesses and social groups."
+                },
+                "unitid": {
+                    "value": "ARC.174"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid597002",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "ARC.174 1 of 2"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref2",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref4",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Brooklyn newsletter collection, ARC.174, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Source and date of acquisition for items in the collection are unknown."
+            }
+        },
+        "scopecontent": {
+            "id": "ref6",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "YWCA of Brooklyn: \n                \u003cemph render=\"italic\"\u003eNews, Activities \u0026amp; Class Schedules\u003c/emph\u003e and \n                \u003cemph render=\"italic\"\u003eYWCA Wire\u003c/emph\u003e."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Business enterprises |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Parks |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Theaters |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Young Women's Christian Association (Brooklyn, New York, N.Y.)."
+            }
+        },
+        "dsc": {}
+    }
+}

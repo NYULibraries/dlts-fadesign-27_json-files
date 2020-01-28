@@ -1,0 +1,138 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "poly_rg_041"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Jerry Hultin Collection \u003cnum\u003eRG.041\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Zoe Blecher-Cohen"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Poly Archives at Bern Dibner Library of Science and Technology"
+                },
+                "address": {
+                    "addressline": [
+                        "Poly Archives",
+                        "Bern Dibner Library of Science and Technology",
+                        "5 MetroTech Center",
+                        "Brooklyn 11201",
+                        "646-997-3943",
+                        "dibner.library@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-11-24T17:20:32\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Poly Archives at Bern Dibner Library of Science and Technology"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Hultin, Jerry MacArthur, 1942-"
+                    }
+                },
+                "unittitle": {
+                    "value": "Jerry Hultin Collection"
+                },
+                "unitdate": {
+                    "normal": "2004/2007",
+                    "type": "bulk",
+                    "value": "2004-2007"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "3 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 2 boxes and 2 plaques"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "RG.041"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_afb4cf04f90d3c2cf9cded18d79d256e",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "2"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_add826554477e290315958cafdc8bb6e",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open for research without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_952fbd7975ee63d84080029eeff12374",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; RG-041: Jerry Hultin Collection; box  number; folder/item number; Poly Archives \u0026amp; Special Collections at Bern Dibner Library of Science and Technology, New York University Libraries."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_20e0c97195c7923a404ea37d31c2e2c1",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials were transferred from the President's Office in the Jacobs Administrative Building on 6/29/2017."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_3c6bfe2290111ba9397fd5c83856776c",
+            "head": "Biographical / Historical",
+            "p": {
+                "value": "Jerry MacArthur Hultin was the tenth Poly president, directing Polytechnic University from 2005 until 2013, after which it officially merged with New York University. Before his tenure at Poly, he served as Under Secretary of the Navy from 1997 to 2000 and as the dean of the Howe School of Technology Management at Stevens Institute of Technology from 2000 to 2005."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_82d698a1b6ce833b8cc6069825e039ac",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection mainly contains materials from an energy simulation in 2007 as well as miscellaneous documents and items from Jerry Hultin's tenure at Poly. Some items relate to Hultin's earlier career in the Navy and at Stevens Institute of Technology."
+            }
+        },
+        "controlaccess": {},
+        "dsc": {
+            "value": "\u003cc id=\"aspace_289ae5922b77cc921d48e8360da96c98\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eDistinguished leadership award to Hultin as President of Poly\u003c/unittitle\u003e\u003cunitdate normal=\"2008/2008\"\u003e2008\u003c/unitdate\u003e\u003ccontainer id=\"aspace_48127d162b512922c8e5c74b0d09b69b\" label=\"Mixed Materials\" type=\"\"\u003eFrame rack \u003c/container\u003e\u003ccontainer parent=\"aspace_48127d162b512922c8e5c74b0d09b69b\" type=\"Object\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_6def67e2f522d87efe6f173e56baa7f8\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003ePlaque with part of Pentagon wall\u003c/unittitle\u003e\u003cunitdate normal=\"1998/1998\"\u003e1998\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9a324576a6a1f9546d93e21e162e4030\" label=\"Mixed Materials\" type=\"\"\u003eFrame rack \u003c/container\u003e\u003ccontainer parent=\"aspace_9a324576a6a1f9546d93e21e162e4030\" type=\"Object\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_c1096ecf5dba1a483f45891a2f88c0e7\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eJerry Hultin's laptop and floppy disk drive\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_124bd6106a711740faa2784b9b283642\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_124bd6106a711740faa2784b9b283642\" type=\"Object\"\u003e1-2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_1e7e528ebfe1ecd19e9bf09f4703e931\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eBox of business cards\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_f04444457dfc07b6e9db0224990cb499\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f04444457dfc07b6e9db0224990cb499\" type=\"Object\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_91800764e6dedf16020c08014809707c\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Building Social Business\" by Muhammad Yunus, with note from Jerry Hultin on first page\u003c/unittitle\u003e\u003cunitdate normal=\"2010/2010\"\u003e2010\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_e4afaa68c9b6cd986a293e9231519b47\" label=\"Books\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e4afaa68c9b6cd986a293e9231519b47\" type=\"Object\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_d8557b92975707f51b0cee575d360bec\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eWall Street Journal Student Achievement Award (Polytechnic University, Division of Management)\u003c/unittitle\u003e\u003cunitdate normal=\"1987/1994\" type=\"inclusive\"\u003e1987-1994\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_957986783d1c160c604df7508de50c7c\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_957986783d1c160c604df7508de50c7c\" type=\"Object\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_5c893750990dd5e88ff5376166bdefc2\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eWall Street Journal Student Achievement Award (PINY, Division of Management)\u003c/unittitle\u003e\u003cunitdate normal=\"1976/1986\" type=\"inclusive\"\u003e1976-1986\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_7a63db00862b1cc2b4985f7a4563bf29\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_7a63db00862b1cc2b4985f7a4563bf29\" type=\"Object\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_0c26e0f2ebbb244e4b04d64b5aba8d4d\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003ePaperweight of Polytechnic 150th Anniversary \u0026amp; Inauguration ticket in resin\u003c/unittitle\u003e\u003cunitdate normal=\"2005/2005\"\u003e2005\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_9b2518669daa4c0276efae895d033e45\" label=\"Realia\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_9b2518669daa4c0276efae895d033e45\" type=\"Object\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_b8dc22458803f30f0f22a99348829030\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eNews 12 Brooklyn video tape - Charles Camarda visits Poly\u003c/unittitle\u003e\u003cunitdate normal=\"2005/2005\"\u003e2005\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_55a43d8884b4d1ee9d65d8db7e310bb4\" label=\"Moving Images\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_55a43d8884b4d1ee9d65d8db7e310bb4\" type=\"Object\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_84f005eec87728c6f374e51459e9b132\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eNews 12 Brooklyn video tape - News 12 name Poly student \"Student of the Week\"\u003c/unittitle\u003e\u003cunitdate normal=\"2005/2005\"\u003e2005\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_0ece329ad97ea4765c85c561e647cc9a\" label=\"Moving Images\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_0ece329ad97ea4765c85c561e647cc9a\" type=\"Object\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_b4fbb3c588d5d6c62be7970d6e921ac6\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eVideo tape of 2004 Lynford Lecture\u003c/unittitle\u003e\u003cunitdate normal=\"2004/2004\"\u003e2004\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_4d9aeffa56dc2dbe68cc93eea618de26\" label=\"Moving Images\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_4d9aeffa56dc2dbe68cc93eea618de26\" type=\"Object\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_04d74618f75919ccaa5aa398196edac2\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e150th and Inauguration September 2005\u003c/unittitle\u003e\u003cunitdate normal=\"1955/1955\"\u003e1955, 2005\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_40f8330140ce3c04da04a593b548c418\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_40f8330140ce3c04da04a593b548c418\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_9df6911ba1610e58567547d81a71e9c4\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRaison detre\u003c/unittitle\u003e\u003cunitdate normal=\"2004/2005\" type=\"inclusive\"\u003e2004-2005\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_132dbe972cbb3fc3e5d6594a806eaa5c\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_132dbe972cbb3fc3e5d6594a806eaa5c\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_283fcba3280c4da1aee99488fa6954b2\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eHistory of Research Universities\u003c/unittitle\u003e\u003cunitdate normal=\"1872/1872\"\u003e1872, 1876, 1896, 1902, 2005, undated\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_0ab7903703ac60222372e40996bb6780\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_0ab7903703ac60222372e40996bb6780\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_0996ed44001a66d2fb255c3f3a2b7329\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePolytechnic History/Inaugurals\u003c/unittitle\u003e\u003cunitdate normal=\"1900/1900\"\u003e1900, 1933, 1950s, 1975, 1993, 2005, undated\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_eb63fdac47059d92375b598c4bae1fd3\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_eb63fdac47059d92375b598c4bae1fd3\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_416088753d3efcf3ca58b1279543c66e\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e[Drawing a Picture of Our Future]\u003c/unittitle\u003e\u003cunitdate normal=\"2005/2006\" type=\"inclusive\"\u003e2005-2006\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_8816b0b2aa70d192024df5ccea5e25f8\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_8816b0b2aa70d192024df5ccea5e25f8\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_84ce4c6d2f11eccff33c6cd445473418\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e[Energy Simulation Materials]\u003c/unittitle\u003e\u003cunitdate normal=\"2007/2007\"\u003e2007, undated\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_cb33697b2e4ebed025198e40c2459e63\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_cb33697b2e4ebed025198e40c2459e63\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_5c5578ad9ebde1fcf0ba31f6dbff85a5\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eJMH Letters and Notes May 2005\u003c/unittitle\u003e\u003cunitdate normal=\"2005/2005\"\u003e2005\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_3872a94af8d19d9bbbe70d7307a38c02\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_3872a94af8d19d9bbbe70d7307a38c02\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_9d2af7fc95ad711a44beba20fe8eac49\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eChinese Energy Futures Game November 2006\u003c/unittitle\u003e\u003cunitdate normal=\"2006/2006\"\u003e2006\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_8409dc00d9dd3b39f476b939caac5512\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_8409dc00d9dd3b39f476b939caac5512\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_2eca0a2b6afb84e9cb9faac03ca8557e\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e[Simulation Book \u0026amp; Post-Simulation Report]\u003c/unittitle\u003e\u003cunitdate normal=\"2007/2007\"\u003e2007\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_e203f0bba64d357d48396224ced9f382\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_e203f0bba64d357d48396224ced9f382\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_1c952d106fe3043cebb00fc9144fc181\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eEnergy Simulation, Central Party School and Pentagon, Beijing\u003c/unittitle\u003e\u003cunitdate normal=\"2005/2007\" type=\"inclusive\"\u003e2005-2007, undated\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_075f9adbd03a33f4afb4f38591a1a1b2\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_075f9adbd03a33f4afb4f38591a1a1b2\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_4e9ba7e66b7e5e45545903dabc4e6bdd\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePolitique Americaine, Naval Policy in Asia\u003c/unittitle\u003e\u003cunitdate normal=\"2005/2007\" type=\"inclusive\"\u003e2005-2007\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_2f2b1ff93b2d3d3184d71a6d8e867e2e\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_2f2b1ff93b2d3d3184d71a6d8e867e2e\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_962459528c3bcfd1d410d052a2a3e542\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eFramed \"Fore 'n Aft\" cover with image of Hultin \u003c/unittitle\u003e\u003cunitdate normal=\"1999/1999\"\u003e1999\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_d24390915b4aac124e851e0bacd4a910\" label=\"Graphic Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_d24390915b4aac124e851e0bacd4a910\" type=\"Object\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_f0bacb2453fde8f9ed5d301d9d31e47f\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"New Role for Jerry Hultin\" memo\u003c/unittitle\u003e\u003cunitdate normal=\"2012/2012\"\u003e2012\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_d15fd96f0ed5933f68ca77c300a83c9d\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_d15fd96f0ed5933f68ca77c300a83c9d\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_b4c7e9b3226cfe592f41628e7fd66dab\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCommencement speech 2012\u003c/unittitle\u003e\u003cunitdate normal=\"2012/2012\"\u003e2012\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_d07873221ad2e372ff328e0bc6631717\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_d07873221ad2e372ff328e0bc6631717\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_b04f42ca3a69e4ec71a251276ca8ae15\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCommencement Remarks 2010\u003c/unittitle\u003e\u003cunitdate normal=\"2010/2010\"\u003e2010\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_83dbf6189714cf9fb9e2f3771cde5c94\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_83dbf6189714cf9fb9e2f3771cde5c94\" type=\"Folder\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_969962e8b1ff1f7635b1933131d436de\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eUrsula Burns Honorary Degree Script\u003c/unittitle\u003e\u003cunitdate normal=\"2010/2010\"\u003e2010\u003c/unitdate\u003e\u003ccontainer altrender=\"Gaylord RC121510\" id=\"aspace_a463d64fa816b89c693773bade4bcbd6\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_a463d64fa816b89c693773bade4bcbd6\" type=\"Folder\"\u003e15\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "mc_113"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Lewis Albert Sayre Papers \u003cnum\u003eMC.113\u003c/num\u003e"
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-07-26T20:11:06\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Lewis Albert Sayre Papers"
+                },
+                "unitdate": {
+                    "value": "1844-1845"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 bound volume"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "This collection is comprised of a notebook containing Lewis Albert Sayre's notes on surgery from the lectures given by Dr. Willard Parker in 1844-1845."
+                },
+                "unitid": {
+                    "value": "MC.113"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_638933ae082f8d3901e480b7397c50e7",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open for research without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_c91f0911c38d9d1af98773d2144fa7eb",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: Identification of item; date (if known); Lewis Albert Sayre Papers; MC 113; New York University Archives; New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_0621d08efff9104accceb72e16a15e99",
+            "head": "Biography of Lewis Albert Sayre",
+            "p": {
+                "value": "Lewis Albert Sayre was born on February 29, 1820 in Bottle Hill (now Madison), New Jersey. After graduating from Transylvania University in 1839 and considering entering the ministry, Sayre began to study medicine. He graduated from the College of Physicians and Surgeons (now part of Columbia University) in New York in 1842 and became a leading orthopedic surgeon of the 19th century. In 1859 he was appointed surgeon to the Bellevue Hospital and in 1861 was one of the principal founders of the Bellevue Hospital Medical College. Sayre served as professor of both orthopedic surgery and clinical surgery, and when the Bellevue Hospital Medical College merged with the University Medical College at NYU in 1898, Sayre was appointed emeritus professor of orthopedic and clinical surgery in the consolidated institution. In addition to his work as a professor and surgeon, Sayre was noted for his efforts to improve sanitary conditions in New York as well as his assistance in stopping the spread of cholera from sailors on ships entering New York City."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_e098f99dbe3da21100aca6b1d428d24a",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Lewis Albert Sayre Papers are comprised of a single notebook containing Sayre's notes on surgery taken during lectures given by Dr. Willard Parker in 1844-1845. The notes were taken during lectures he attended shortly after graduating from the College of Physicians and Surgeons in 1843, and they cover the causes, symptoms, and treatments of all types of physical ailments from malignant tumors to gangrene."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Medical education."
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref1\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLewis Albert Sayre Notebook\u003c/unittitle\u003e\u003cunitdate\u003e1844-1845\u003c/unitdate\u003e\u003ccontainer id=\"aspace_15341986d2913884ce4457478c8af4db\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_15341986d2913884ce4457478c8af4db\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

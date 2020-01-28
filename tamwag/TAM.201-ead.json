@@ -1,0 +1,155 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "tam_201"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Preliminary Inventory to the Bernard Goodman Tenants' Activism and Miscellaneous Papers\n                    \u003cnum\u003eTAM.201\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "12/xx/2009"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T18:59-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Goodman, Bernard, 1910-2003"
+                    }
+                },
+                "unittitle": {
+                    "value": "Bernard Goodman Tenants' Activism and Miscellaneous Papers"
+                },
+                "unitdate": {
+                    "normal": "1967/1982",
+                    "type": "inclusive",
+                    "value": "1967-1982"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.0 linear feet"
+                        },
+                        {
+                            "value": "(1 box)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Bernard Goodman (1910-2003), was a tenants' rights activist in New York City and a Congressional candidate of the Tenants Party. This collection contains papers related to 206-212 East 17th Street, Goodman's residence, and the successful struggle he waged to retain rent stabilization and to turn the building into a tenant cooperative letters to the editor, papers from the Lower Manhattan East Tenants Association, material on the Tenants Party, the tenants' movement rent strike of 1976, and various other social justice and tenant organizations. The collection also includes material from groups addressing the issue of peace and Vietnam. The collection includes organizational and legal records, clippings, correspondence, printed ephemera, several photographs and a large Tenants Party ballot poster."
+                },
+                "unitid": {
+                    "value": "TAM.201"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid18938001",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref2",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open for research without restrictions."
+            }
+        },
+        "bioghist": {
+            "id": "ref4",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Bernard Goodman (1910-2003) was a Trotskyist, a merchant seaman in his early twenties and an assistant to the president of the Seafarers International Union of North America before he became involved in NYC tenant issues at the end of the 1960s. In the early 1970s he mounted a campaign as the candidate of the newly organized Tenants Party for the Congressional seat held by Ed Koch. He did work on behalf of tenants for the Legal Aid Society and as a volunteer at the Chelsea Action Center, a housing action group."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "PLEASE DIRECT FURTHER INQUIRIES TO: tamiment.wagner@nyu.edu"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Housing |x Law and legislation |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Landlord and tenant |z New York (State)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Landlord and tenant |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Tenants' associations |z New York (State) |z New York."
+                },
+                {
+                    "source": "local",
+                    "value": "Trotskyists |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Vietnam War, 1961-1975 |x Protest movements |z United States."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Tenants Party of New York State."
+            }
+        },
+        "dsc": {}
+    }
+}

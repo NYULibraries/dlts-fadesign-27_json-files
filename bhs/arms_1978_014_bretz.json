@@ -1,0 +1,152 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1978_014_bretz"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Bretz family papers\n                    \u003cnum\u003e1978.014\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Matthew Gorham"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "July 25, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-17T14:19-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Bretz, Margaret E."
+                    },
+                    "famname": {
+                        "source": "local",
+                        "value": "Bretz family"
+                    }
+                },
+                "unittitle": {
+                    "value": "Bretz family papers"
+                },
+                "unitdate": {
+                    "normal": "1873/1910",
+                    "type": "inclusive",
+                    "value": "1873-1910"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.2 Linear feet"
+                        },
+                        {
+                            "value": "in one folder and one oversize box"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "1978.014"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid930010",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "OS-20"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref5",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Bretz family papers, 1978.014, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref4",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Source and date of acquisition unknown. The papers were formally accessioned in 1978."
+            }
+        },
+        "bioghist": {
+            "id": "ref3",
+            "head": "Biographical note",
+            "p": {
+                "value": "Margaret E. Bretz and her family traveled from New York to Los Angeles in 1899. Her journal documents the trip, highlighting visits to Las Vegas, Portland, and Los Angeles."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The Bretz family papers span the period 1873 to 1910 and measure 0.2 linear feet. The papers contain a certificate from Brooklyn Collegiate and Polytechnic Institute for G. Brewster Bretz; a certificate for admission to the New York State Bar; a notebook of a transcontinental trip by Margaret E. Bretz; and a guest book of a Yale University student."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Travel"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Brooklyn Collegiate and Polytechnic Institute."
+            }
+        },
+        "dsc": {}
+    }
+}

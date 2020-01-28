@@ -1,0 +1,97 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "pr319_picasso_pochoirs"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "\u003cemph render=\"italic\"\u003eTrente-deux reproductions des maquettes en couleurs, d'après les originaux des costumes \u0026amp; décor par Picasso pour le ballet \"Le Tricorne\"\u003c/emph\u003e\u003clb/\u003e1920\u003clb/\u003e \u003cnum\u003ePR 319\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Joseph Ditta"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-08-23T12:59:17\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "library_of_congress_subject_heading",
+                        "value": "Picasso, Pablo, 1881-1973"
+                    }
+                },
+                "unittitle": {
+                    "value": "\u003cemph render=\"italic\"\u003eTrente-deux reproductions des maquettes en couleurs, d'après les originaux des costumes \u0026amp; décor par Picasso pour le ballet \"Le Tricorne\"\u003c/emph\u003e"
+                },
+                "unitdate": {
+                    "normal": "0/0",
+                    "type": "inclusive",
+                    "value": "1920"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Linear feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(32 prints in 1 box)."
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Reproductions of Picasso's watercolor designs for the ballet \u003cemph render=\"italic\"\u003eLe Tricorne\u003c/emph\u003e (The Three-Cornered Hat), issued by Éditions Paul Rosenberg, Paris, 1920. To request this item for research, and for fuller details about it, please read its \u003cextref actuate=\"onRequest\" href=\"http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph007397846\u0026amp;context=L\u0026amp;vid=NYHS\u0026amp;search_scope=nyhs\u0026amp;tab=nyhs\u0026amp;lang=en_US\"\u003ecatalog record\u003c/extref\u003e, or write to \u003cemph render=\"underline\"\u003eprintroom@nyhistory.org\u003c/emph\u003e."
+                },
+                "unitid": {
+                    "value": "PR 319"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "fre"
+                    }
+                }
+            }
+        ],
+        "dsc": {}
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-F",
+            "value": "blacksun"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Black Sun Archive \u003clb/\u003e \u003cdate era=\"ce\"\u003e1965-1969\u003c/date\u003e\u003clb/\u003e \u003cnum\u003eMSS.006\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tania Friedel, April 1999."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Fales Library and Special Collections"
+                },
+                "address": {
+                    "addressline": [
+                        "Fales Library and Special Collections",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "3rd Floor",
+                        "New York, NY 10012",
+                        "Phone: (212) 998-2596",
+                        "fales.library@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-05-16T17:21:11\u003c/date\u003e"
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Fales Library and Special Collections"
+                    }
+                },
+                "unittitle": {
+                    "value": "Black Sun Archive"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "1965-1969"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The \u003ctitle ns2:type=\"simple\" render=\"italic\"\u003eBlack Sun\u003c/title\u003e Archive is a collection of correspondence and manuscripts sent to the poetry magazine, \u003ctitle ns2:type=\"simple\" render=\"italic\"\u003eBlack Sun\u003c/title\u003e which was edited by poet, Harvey Tucker."
+                },
+                "unitid": {
+                    "value": "MSS.006"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_0da5a9f24bf3a7ea6662eeb5e47bbaf9",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Materials are open for research. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_994e31744af7e74912ecd3e29fd18a88",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the\nfollowing form:\u003clb/\u003e\u003clb/\u003e\nIdentification of item,  date (if known); Black Sun Archive; MSS 006; box number; folder number; Fales Library and Special Collections, New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_1ede881bd943734aa64aed3d81756380",
+            "head": "Historical/Biographical Note:",
+            "p": {
+                "value": "\u003ctitle type=\"simple\" render=\"italic\"\u003eBlack Sun\u003c/title\u003e was a small, avant-garde literary magazine published in Brooklyn, New York from 1965-1969. It was edited by Harvey Tucker who at the time was also active writing and publishing poetry. Since 1969, Tucker and his wife, Linda, have run Black Sun Books (157 East 57th, NY), dealing in rare books and manuscripts. Contributors to \u003ctitle type=\"simple\" render=\"italic\"\u003eBlack Sun\u003c/title \u003e included Diane Wakoski, Ben Hiatt, Richard Morris, Barbara Holland, David Antin, Elizabeth Ritchie, Alice Ransom, Hugh Fox, and Duane Locke, among many others."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_49163db228e99f7f47965956394287c0",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "\u003cemph render=\"bold\"\u003eSeries II: Manuscripts \u003c/emph\u003econtains manuscripts submitted to \u003ctitle type=\"simple\" render=\"italic\"\u003eBlack Sun\u003c/title\u003e Magazine by Harvey Tucker, Barbara Holland, James Hull and others."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Poets, American |v Correspondence."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Poetry, Modern |y 20th century."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Poetics |x Authorship."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Poets, American -- 20th century"
+                }
+            ],
+            "corpname": {
+                "source": "ingest",
+                "value": "Black Sun (Brooklyn, N.Y.)"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref11\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: Correspondence\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref12\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle ns2:type=\"simple\" render=\"bold\"\u003eCorrespondence A\u003c/title\u003e: \u003clb/\u003eAldan, Daisy \u003clb/\u003eAntin, David\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_3803c72f7be8a544aaa273fcf50944db\" label=\"Mixed Materials (31142054862944)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_3803c72f7be8a544aaa273fcf50944db\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref13\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle ns2:type=\"simple\" render=\"bold\"\u003eCorrespondence B\u003c/title\u003e: \u003clb/\u003eBainter, Karen \u003clb/\u003eBerkley, Constance E. \u003clb/\u003eBertolino, James \u003clb/\u003eBlazek, Douglas \u003clb/\u003eBloom, Eugene \u003clb/\u003eBoothe, Anna \u003clb/\u003eBoyd, Sue Abbott\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_6f2c300d10635db54ba07f9c798a30c7\" label=\"Mixed Materials (31142054862944)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_6f2c300d10635db54ba07f9c798a30c7\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle ns2:type=\"simple\" render=\"bold\"\u003eCorrespondence C\u003c/title\u003e: \u003clb/\u003eCallahan, James D. \u003clb/\u003eCasciani, Eda \u003clb/\u003eChaffin, Lillie D. \u003clb/\u003eClaudel, Alice Moser \u003clb/\u003eCohen, Robert David \u003clb/\u003eCongden, Kirby \u003clb/\u003eCoordinating Council of Literary Magazines \u003clb/\u003eConnellan, Lev \u003clb/\u003eCooper, James E. \u003clb/\u003eCornish, Samuel \u003clb/\u003eCurry, Andrew\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f4f56775b2799b438e3a32f93dfe3f22\" label=\"Mixed Materials (31142054862944)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f4f56775b2799b438e3a32f93dfe3f22\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle ns2:type=\"simple\" render=\"bold\"\u003eCorrespondence D\u003c/title\u003e: \u003clb/\u003eDacey, Philip \u003clb/\u003eDavis, Rick \u003clb/\u003eDavis, William \u003clb/\u003eDawson, David \u003clb/\u003eDelpino, Lew \u003clb/\u003eDepew, Wallace \u003clb/\u003eDeutsch, Len \u003clb/\u003eDobel, Kenneth\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_220fa371ebc92e3862535fa3130351e2\" label=\"Mixed Materials (31142054862944)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_220fa371ebc92e3862535fa3130351e2\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle ns2:type=\"simple\" render=\"bold\"\u003eCorrespondence F -G\u003c/title\u003e: \u003clb/\u003eFoster, Donald \u003clb/\u003eFox, Hugh \u003clb/\u003eFowler, Hilary \u003clb/\u003eFowler, John \u003clb/\u003eFulton, Leonard \u003clb/\u003eGlen, Emilie \u003clb/\u003eGoldenberg, Pat \u003clb/\u003eGross, Ronald \u003clb/\u003eGrossinger, Richard\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_10f28001a35c1f4b4b93b4f226cd1729\" label=\"Mixed Materials (31142054862944)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_10f28001a35c1f4b4b93b4f226cd1729\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle ns2:type=\"simple\" render=\"bold\"\u003eCorrespondence H -K\u003c/title\u003e: \u003clb/\u003eHarsch, Gene \u003clb/\u003eHiatt, Ben (and manuscript: 'Panther Tracks') \u003clb/\u003eHirschhorn, Paul \u003clb/\u003eHolland, Barbara \u003clb/\u003eHouston, Robert \u003clb/\u003eIngianni, Ignace M. \u003clb/\u003eJackson, Glenn \u003clb/\u003eJawoski, Richard \u003clb/\u003eKantrowitz, Arnold \u003clb/\u003eKler, Frank\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_bc1570185b9c8da7e95b5d2626869fa4\" label=\"Mixed Materials (31142054862944)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_bc1570185b9c8da7e95b5d2626869fa4\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle ns2:type=\"simple\" render=\"bold\"\u003eCorrespondence L\u003c/title\u003e: \u003clb/\u003eLocke, Duane\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_35212c36a5c1d65214790fad73a158cd\" label=\"Mixed Materials (31142054862944)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_35212c36a5c1d65214790fad73a158cd\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle ns2:type=\"simple\" render=\"bold\"\u003eCorrespondence M\u003c/title\u003e: \u003clb/\u003eMcGirt, William \u003clb/\u003eMajor, Clarence \u003clb/\u003eMariah, Paul \u003clb/\u003eMasca (pseud) \u003clb/\u003eMenebroker, Ann \u003clb/\u003eMiller, Brown \u003clb/\u003eMiller, Ethan \u003clb/\u003eMontgomery, George  \u003clb/\u003eMorris, Richard \u003clb/\u003eMurphy, Mike\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_769c1e6f516aacd6c24748dafa200abd\" label=\"Mixed Materials (31142054862944)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_769c1e6f516aacd6c24748dafa200abd\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle ns2:type=\"simple\" render=\"bold\"\u003eCorrespondence N -P\u003c/title\u003e: \u003clb/\u003eNelson, Stanley \u003clb/\u003eNewland, Charles \u003clb/\u003eOatman, Eric \u003clb/\u003eOdam, Joyce \u003clb/\u003ePowel, Clarence Alva\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a64a28d579291a401e809e2809f0b1cd\" label=\"Mixed Materials (31142054862944)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_a64a28d579291a401e809e2809f0b1cd\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle ns2:type=\"simple\" render=\"bold\"\u003eCorrespondence P\u003c/title\u003e: \u003clb/\u003ePoetry Readings and Conferences\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_95e353cdf8ffa047a6722fe2134fa083\" label=\"Mixed Materials (31142054862944)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_95e353cdf8ffa047a6722fe2134fa083\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle ns2:type=\"simple\" render=\"bold\"\u003eCorrespondence R -S\u003c/title\u003e: \u003clb/\u003eRandall, Margaret \u003clb/\u003eRansom, Alice \u003clb/\u003eReyes, Carlos \u003clb/\u003eRitchie, Elizabeth \u003clb/\u003eRosenblatt, Herta \u003clb/\u003eSauls, Roger \u003clb/\u003eSigmund, R.J.S. \u003clb/\u003eSobral, Geraldo \u003clb/\u003eStalzer, David \u003clb/\u003eSteffanyssen, Mark\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_6bafeba804b7e320528d5f17b9e3b12c\" label=\"Mixed Materials (31142054862944)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_6bafeba804b7e320528d5f17b9e3b12c\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle ns2:type=\"simple\" render=\"bold\"\u003eCorrespondence S\u003c/title\u003e: \u003clb/\u003eSmall Magazines and Presses\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_3df6816d7914767afce5a2dd341e51ed\" label=\"Mixed Materials (31142054862944)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_3df6816d7914767afce5a2dd341e51ed\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle ns2:type=\"simple\" render=\"bold\"\u003eCorrespondence T -Z\u003c/title\u003e: \u003clb/\u003eThiel, Paul \u003clb/\u003eTipton, James \u003clb/\u003eTressler, James \u003clb/\u003eTrudell, Dennis \u003clb/\u003eTucker, Martin \u003clb/\u003eWade, David (pseud Brother Demetrio) \u003clb/\u003eWade, John Stevens \u003clb/\u003eWagner, D.R. \u003clb/\u003eWakoski, Diane \u003clb/\u003eWeil, James \u003clb/\u003eWeinstein, Norman \u003clb/\u003eWieners, John \u003clb/\u003eWilliams, Loring \u003clb/\u003eWoessner, Warren \u003clb/\u003eWolvin, Fred\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2dde9d600eb2fab3933f1bede882e476\" label=\"Mixed Materials (31142054862944)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2dde9d600eb2fab3933f1bede882e476\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref26\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries II: Manuscripts\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref27\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle ns2:type=\"simple\" render=\"bold\"\u003eManuscript: Vol. 1, No. 1-4:\u003c/title\u003e(includes index of complete contents at the end of the folder.) \u003clb/\u003eTucker, Harvey \u003clb/\u003eFordine, A.R. \u003clb/\u003eHolland, Barbara \u003clb/\u003eSchramm, Irene \u003clb/\u003eBarton, Geoffrey \u003clb/\u003eHull, James \u003clb/\u003eetc.\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_53518ed8c937048cb6531c7e7a705af2\" label=\"Mixed Materials (31142054862944)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_53518ed8c937048cb6531c7e7a705af2\" type=\"Folder\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref34\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eManuscript: Vol. 2, No. 1-3\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1fc452b171719b9764a6417e85cb1f3a\" label=\"Mixed Materials (31142054862944)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1fc452b171719b9764a6417e85cb1f3a\" type=\"Folder\"\u003e15\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref28\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle ns2:type=\"simple\" render=\"bold\"\u003eManuscript:\u003c/title\u003e\u003ctitle ns2:type=\"simple\" render=\"italic\"\u003eAnd Where Does the Circle End Beginning\u003c/title\u003e: \u003clb/\u003eTucker, Harvey\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a7a59eeaa1eac208ba380c7979dcc577\" label=\"Mixed Materials (31142054862944)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_a7a59eeaa1eac208ba380c7979dcc577\" type=\"Folder\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref29\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle ns2:type=\"simple\" render=\"bold\"\u003eManuscript:\u003c/title\u003e\u003ctitle ns2:type=\"simple\" render=\"italic\"\u003eThe Destruction of Trinities\u003c/title\u003e: \u003clb/\u003eTucker, Harvey\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5173011c2e96e8d7b093e72b79df9f45\" label=\"Mixed Materials (31142054862944)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5173011c2e96e8d7b093e72b79df9f45\" type=\"Folder\"\u003e17\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref30\" level=\"otherlevel\" otherlevel=\"unspecified\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003ctitle ns2:type=\"simple\" render=\"bold\"\u003eManuscript:\u003c/title\u003e\u003ctitle ns2:type=\"simple\" render=\"italic\"\u003eMaelstrom\u003c/title\u003e[Book 1], \u003ctitle ns2:type=\"simple\" render=\"italic\"\u003eThe Solitary Dreamer\u003c/title\u003e[Book II]: \u003clb/\u003eTucker, Harvey\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_af612159d1759838ab2eb6f69ab8fbde\" label=\"Mixed Materials (31142054862944)\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_af612159d1759838ab2eb6f69ab8fbde\" type=\"Folder\"\u003e18\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

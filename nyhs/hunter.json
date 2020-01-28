@@ -1,0 +1,142 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "hunter"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Papers of Robert Hunter\n                    \u003clb/\u003e\n                    \u003cdate\u003e1699-1744 \u003c/date\u003e\n                    \u003cdate\u003e(Bulk 1710-1744)\u003c/date\u003e\n                    \u003clb/\u003e\n                    \u003cnum\u003eMS 316\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Processed by Shannon Yule"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "@ 2011 New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-10-25T16:05-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "@ 2011 New-York Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "Robert Hunter Papers"
+                },
+                "unitdate": {
+                    "value": "1699-1744 (bulk 1710-1744)"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.5 Linear feet"
+                        },
+                        {
+                            "value": "(1 box)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Robert Hunter was a colonial governor of New York and New Jersey. His papers include correspondence, accounts, and legal documents."
+                },
+                "unitid": {
+                    "value": "MS 316"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref4",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Photocopying undertaken by staff only. Limited to twenty exposures of stable, unbound material per day. (Researchers may not accrue unused copy amounts from previous days.)"
+            }
+        },
+        "prefercite": {
+            "id": "ref6",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "This collection should be cited as Robert Hunter Papers, The New-York Historical Society."
+            }
+        },
+        "bioghist": {
+            "id": "ref7",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Robert Hunter was born in Edinburgh, Scotland 1666. He was appointed governor of New York and New Jersey, arriving in June of 1710. Hunter left New York and New Jersey in 1719, exchanging positions with William Burnet, the comptroller of customs. In 1727 he was appointed governor of Jamaica, where he died in 1734."
+            }
+        },
+        "scopecontent": {
+            "id": "ref8",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "Individual documents include a list of warrants, bonds, conveyances, and papers left in the hands of Abraham De Peyster, 1719; accounts pertaining to the repair, rental, and leasing of houses and property in Amboy, New Jersey; and a 1720 valuation of Hunter's household goods at Amboy. Individuals mentioned or involved in Hunter's affairs include his attorney, James Alexander, John Barclay, and William Burnet."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Debt -- New York (State)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Eagle (ship)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Land grants -- New Jersey"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "New York (State) -- Politics and government -- To 1775"
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref10\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e\u003c/unittitle\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref11\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence addressed to Robert Hunter\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid509879\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid509879\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate\u003e1711-1744\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref12\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence from Robert Hunter\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid509878\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid509878\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate\u003e1723, 1726, 1744\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref13\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAccounts (including accounts of the Brigantine Eagle)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid509877\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid509877\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate\u003e1716-1730\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref14\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eAbstracts of Accounts/State of Affairs\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid509876\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid509876\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate\u003e1722-1734\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref15\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eBills for various goods and services\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid509875\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid509875\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate\u003e1718-1730\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref16\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eReceipts\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid509874\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid509874\" type=\"Folder\"\u003e6\u003c/container\u003e\n                        \u003cunitdate\u003e1722-1731\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref17\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eBills of exchange\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid509873\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid509873\" type=\"Folder\"\u003e7\u003c/container\u003e\n                        \u003cunitdate\u003e1713-1723\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref18\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eBonds and Indentures\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid509872\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid509872\" type=\"Folder\"\u003e8\u003c/container\u003e\n                        \u003cunitdate\u003e1715-1742\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref19\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eLeases for Hunter's property\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid509871\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid509871\" type=\"Folder\"\u003e9\u003c/container\u003e\n                        \u003cunitdate\u003e1728-1730\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref20\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eLetters of Attorney\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid509870\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid509870\" type=\"Folder\"\u003e10\u003c/container\u003e\n                        \u003cunitdate\u003e1712, 1719, 1727\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref21\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eLetters of Administration issued by Hunter\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid509869\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid509869\" type=\"Folder\"\u003e11\u003c/container\u003e\n                        \u003cunitdate\u003e1711-1717\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref22\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eBills of Lading\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid509868\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid509868\" type=\"Folder\"\u003e12\u003c/container\u003e\n                        \u003cunitdate\u003e1724, 1727-1728\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref23\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eComplaints issued by Hunter in suits against debtors\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid509867\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid509867\" type=\"Folder\"\u003e13\u003c/container\u003e\n                        \u003cunitdate\u003e1714-1744\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref24\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eLegal affairs of Thomas Orby Hunter (particularly his suit against Peter Schuyler)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid509866\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid509866\" type=\"Folder\"\u003e14\u003c/container\u003e\n                        \u003cunitdate\u003e1735-1739\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref25\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePetition to Hunter from the General Surveyor of New Jersey\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid509865\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid509865\" type=\"Folder\"\u003e15\u003c/container\u003e\n                        \u003cunitdate\u003e1716\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref26\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eReleases\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid509864\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid509864\" type=\"Folder\"\u003e16\u003c/container\u003e\n                        \u003cunitdate\u003e1716\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref27\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eLand transfer for property located in the patent of East New Jersey, 1699\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid509863\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid509863\" type=\"Folder\"\u003e17\u003c/container\u003e\n                        \u003cunitdate\u003e1699\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref28\" level=\"otherlevel\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eInventory of the estate of Richard Walbo\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid509862\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid509862\" type=\"Folder\"\u003e18\u003c/container\u003e\n                        \u003cunitdate\u003e1710\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

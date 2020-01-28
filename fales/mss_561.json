@@ -1,0 +1,145 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-F",
+            "value": "mss_561"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to Frank Harris Letters to Constance Ruth Bonsall \u003cnum\u003eMSS.561\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Shiva Addanki"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Fales Library and Special Collections"
+                },
+                "address": {
+                    "addressline": [
+                        "Fales Library and Special Collections",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "3rd Floor",
+                        "New York, NY 10012",
+                        "Phone: (212) 998-2596",
+                        "fales.library@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-01-25T18:20:26\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Fales Library and Special Collections"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "local",
+                        "value": "Kinloch, Robert"
+                    }
+                },
+                "unittitle": {
+                    "value": "Frank Harris Letters to Constance Ruth Bonsall"
+                },
+                "unitdate": {
+                    "normal": "1910/1920",
+                    "type": "inclusive",
+                    "value": "1916, Undated "
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": ".25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one half letter manuscript box. "
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "This collection consists of personal letters from Irish author and editor Frank Harris to Constance Ruth Bonsall in 1916, at the time an aspiring young English writer."
+                },
+                "unitid": {
+                    "value": "MSS.561"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_38373f25be71a0477c9bd45dc4cb0aae",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_d399c2bd79ca180fa03c446306fc43bb",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Frank Harris Letters to Constance Ruth Bonsall; MSS 561; box number; folder number; Fales Library and Special Collections, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_86bf36bea6f5c09f3ac13786c1f26bb7",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Robert Kinloch in November 2018. The accession number associated with this donation is 2018.126."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_3c58763c670f80a15726c575f0583b8a",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Constance Ruth Bonsall (1898-1994) was an aspiring English writer and the youngest daughter of a Devonshire vicar. She wrote in the 1920s using the pseudonym Charlotte Apple, and later published three novels under her maiden name (Ruth Bonsall) and her married name (Ruth Kinloch). "
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_b7aaba1de9169440f242345f19af7dc4",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection consists of personal letters from Irish author and editor Frank Harris to Constance Ruth Bonsall in 1916, at the time an aspiring young English writer."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Literature, Modern -- 20th century."
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ac80bc46351a740082f1f05bcefdc785\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFrank Harris Letters to Constance Ruth Bonsall\u003c/unittitle\u003e\u003cunitdate normal=\"1916/1916\"\u003e1916, undated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter - Half\" id=\"aspace_7d90f48620cf0aef3a1106eb728c4d94\" label=\"Mixed Materials [31142063336336]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_7d90f48620cf0aef3a1106eb728c4d94\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

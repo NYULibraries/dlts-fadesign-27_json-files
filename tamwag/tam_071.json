@@ -1,0 +1,167 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_071"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Isadore Wisotsky Autobiographical Typescript \u003cnum\u003eTAM.071\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Peter Meyer Filardo"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-01T18:48:12\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "local",
+                        "value": "Wisotsky, Abraham"
+                    }
+                },
+                "unittitle": {
+                    "value": "Isadore Wisotsky Autobiographical Typescript"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box; vi + 324 pp.)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Isidore Wisotsky (1895-1970) was born circa 1895 and immigrated from Latvia to the U.S. with his family when he was fourteen. He worked in the garment industry, became an anarchist, was involved with the Industrial Workers of the World, and became a friend of Norman Thomas. The collection contains a typescript of Isidor Wisotsky's autobiography, \"Such a Life,\" in which he recounts his experiences as a Russian Jewish immigrant working in New York City's Lower East Side in the early twentieth century, his anarchist and Industrial Workers of the World activities, and his personal recollections of radical leaders. An introduction by Norman Thomas is included."
+                },
+                "unitid": {
+                    "value": "TAM.071"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_270aaa462661e705dc9817eb2f4bf6b2",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_1cfcfc489e9c64bb67e7cf477ae4e2ae",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_28c45a2137e59b42b1608e2ee2105da1",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Abraham Wisotsky, brother of Isadore Wisotsky, 1977. The accession number associated with this gift is 1997.068."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_63a220f7e9af8d8f1a9fb44fb2857ae6",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Isidore Wisotsky (1895-1970) was born circa 1895 and immigrated from Latvia to the U.S. with his family when he was fourteen. He worked in the garment industry, became an anarchist, was involved with the Industrial Workers of the World, and became a friend of Norman Thomas."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_4e7a71f0fa9f01db4d51d2d2242dc3c3",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection contains a typescript of Isidor Wisotsky's autobiography, \"Such a Life,\" in which he recounts his experiences as a Russian Jewish immigrant working in New York City's Lower East Side in the early twentieth century, his anarchist and Industrial Workers of the World activities, and his personal recollections of radical leaders. An introduction by Norman Thomas is included."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Anarchists |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Clothing workers |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Anarchism -- New York (State) -- New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Jewish anarchists |z New York (State) |z New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Radicals -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Syndicalism |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Jews, Russian |z New York (State) |z New York."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Industrial Workers of the World"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref9\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Such a Life\" Preface by Norman Thomas, Dedication, Table of Contents, Endorsement by Harvey Weinberger (pp. i-vi)\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c324827a7357132b8ba856ff62148092\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref10\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Such a Life\" Chapter 1: Suffolk Street (pp. 1-37)\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5f21ebd3abe533816fb36e7683f5c846\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref11\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Such a Life\" Chapter 2: Seventh Strret Park (pp. 38-49)\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_44a612c99c171cd3dfc59d50ca1e0b11\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_44a612c99c171cd3dfc59d50ca1e0b11\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref12\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSuch aLife Chapter 3: A Strike That Rocked America (pp. 51-87)\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_0e9b1c3bb5fe45b3ab90f17ce8d58b67\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0e9b1c3bb5fe45b3ab90f17ce8d58b67\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref13\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSuch a Life Chapter 4: In Search of a Job (pp. 88-101\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_553e276703ea7588716bd2be6870aa12\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_553e276703ea7588716bd2be6870aa12\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Such a Life\" Chapter 5: Unemployment in New York Fifty Years Ago (pp. 102-07)\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_6cb9ad1710d549e8b278c6e636f11a20\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_6cb9ad1710d549e8b278c6e636f11a20\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Such a Life\" Chapter 6: Vacations in the Workhouse (108-26)\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_cefaa5aa80101b8d14ac26b6a027a843\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_cefaa5aa80101b8d14ac26b6a027a843\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Such a Life\" Chapter 7: Bloody Days (pp. 127-33)\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_47e634f4d3464735bd27f5b745363c02\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_47e634f4d3464735bd27f5b745363c02\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref30\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Such a Life\" Chapter 15: Europe (pp. 260-94)\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d12e21ef409d3ce4da26f1fb9447151f\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d12e21ef409d3ce4da26f1fb9447151f\" type=\"Folder\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Such a Life: Chapter 8: Union Square (pp. 134-44)\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_56c49e4530539c929ee01197aa0083ed\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_56c49e4530539c929ee01197aa0083ed\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Such a Life: Chapter 9: Alexander Berkman (p. 145-50)\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_8506eba2d8f60bb5b2f80d61bc896a4c\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_8506eba2d8f60bb5b2f80d61bc896a4c\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Such a Life\" Chapter 10: Emma Goldman (pp. 151-56)\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_384f915ca73406178b7b35a3a4412228\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_384f915ca73406178b7b35a3a4412228\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Such a Life\" Chapter 11: Saving the World for Democracy (pp. 157-75)\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2b8c15d06079ce898a7eb83413241280\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2b8c15d06079ce898a7eb83413241280\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Such a Life\" Chapter 12: Bombs! Bombs! Not One in Sight (pp. 176-83)\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d6a8d070f1d881039570096f0609022c\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d6a8d070f1d881039570096f0609022c\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref37\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Such a Life\" Chapter \"18\": Hitch-Hike (pp. 184-218)\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c9af282af9f5a45017546f19dc089459\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_c9af282af9f5a45017546f19dc089459\" type=\"Folder\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref29\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Such a Life: Chapter 14: Becoming a Mench (pp. 219-59)\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_78b8edf527b63b4d6ee2630a56547a59\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_78b8edf527b63b4d6ee2630a56547a59\" type=\"Folder\"\u003e15\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref31\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Such a Life\" Chapter 16: Back Home (pp. 295-324)\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4d171f19e730c6faa6975b4288362ce6\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_4d171f19e730c6faa6975b4288362ce6\" type=\"Folder\"\u003e17\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref32\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"Such a Life\" Chapter 17: Finis (pp. 325-7)\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2f82053650be0e1c297520d326d8a1db\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2f82053650be0e1c297520d326d8a1db\" type=\"Folder\"\u003e18\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

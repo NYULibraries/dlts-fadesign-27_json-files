@@ -1,0 +1,145 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1986_057_tilley"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Tilley family papers\n                    \u003cnum\u003e1986.057\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Matthew Gorham"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "September 20, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2015-12-22T11:53-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "famname": {
+                        "source": "local",
+                        "value": "Tilley family"
+                    }
+                },
+                "unittitle": {
+                    "value": "Tilley family papers"
+                },
+                "unitdate": {
+                    "normal": "1803/1976",
+                    "type": "inclusive",
+                    "value": "1803-1976"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.5 linear feet"
+                        },
+                        {
+                            "value": "in eighteen folders and two rolled items"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "This collection contains the papers of the Tilley family of Oyster Bay, Long Island and Yonkers, N.Y. Materials in the collection include property records, wills, school diplomas, certificates, military commissions, Civil War letters, and photographs, all of which document the careers and lives of Tilley family members from multiple generations. The collection spans the period 1803 to 1976."
+                },
+                "unitid": {
+                    "value": "1986.057"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1032001",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0107"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref4",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Tilley Family papers, 1986.057, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Beverly Repass Hoch, 1986."
+            }
+        },
+        "scopecontent": {
+            "id": "ref6",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection's photographs come in a variety of formats, including cartes-de-visite, tintypes, cabinet photographs, picture postcards, and black-and-white prints. They include a number of portraits (some of the Tilley family, others are unidentified). Other photographs of interest include two prints featuring automobiles, the family dressed as ghosts for a Halloween celebration, and a series of images of a general store with a soda counter."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Families |z New York (State) |z Long Island"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Real property |z New York (State) |z Long Island"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

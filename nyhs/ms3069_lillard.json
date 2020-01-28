@@ -1,0 +1,149 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "ms3069_lillard"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Grace Avery Lillard Papers\u003clb/\u003e1915-1990\u003clb/\u003e\n(bulk, 1943-1945)\u003clb/\u003e \u003cnum\u003eMS 3069\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Joseph Ditta"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-10-10T15:56:35\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Lillard, Grace Avery, 1919-1990"
+                    }
+                },
+                "unittitle": {
+                    "value": "Grace Avery Lillard papers"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "1915-1990 (bulk, 1943-1945)"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(in 1 half-document box and 1 flat box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "A small collection documenting the World War II military experiences of Grace Avery Lillard (1919-1990), technician, 5th grade, Women's Army Corps (WAC) Detachment, 1st Tactical Air Force (Provisional), who served in England, France, and Germany, doing cryptography and clerical work dealing with signals. Includes her pocket Bible, some letters sent home from Europe, a detailed scrapbook of photographs and ephemera, and Lillard's typed account of the activities of her detachment between 1944 and 1945."
+                },
+                "unitid": {
+                    "value": "MS 3069"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_a74eaf2b16e78a3f0e55b636249426b0",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Photocopying undertaken by staff only. Limited to twenty exposures of stable, unbound material per day. (Researchers may not accrue unused copy amounts from previous days.)"
+            }
+        },
+        "prefercite": {
+            "id": "aspace_3c7567a9a81b3f5b21e1c14a06e22e31",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "This collection should be cited as the Grace Avery Lillard Papers, MS 3069, The New-York Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_b79df4cf882878e33126893e749c2825",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Purchase, David M. Lesser, Fine Antiquarian Books, LLC, 2017."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_158c6d16afee977c282bb467fc82b986",
+            "head": "Biographical / Historical",
+            "p": {
+                "value": "This note is based on Lillard's typescript, \"This is Your Story! An Account of the WAC Detachment 1st Tactical Air Force (Prov.)\" (box 1, folder 20); her scrapbook (box 2); an article from the McComb, Mississippi \u003cemph render=\"italic\"\u003eEnterprise-Journal\u003c/emph\u003e of 18 March 1948: \"Thrilling Career of Grace Lillard of McComb, Former WAC and Now of Washington\" (copy in box 1, folder 14); an article in the \u003cemph render=\"italic\"\u003eHattiesburg\u003c/emph\u003e (Mississippi) \u003cemph render=\"italic\"\u003eAmerican\u003c/emph\u003e of 18 September 1989: \"At 70, Lillard puts her art on display\" (copy in box 1, folder 14); and her obituary from the \u003cemph render=\"italic\"\u003eHattiesburg American\u003c/emph\u003e of 21 June 1990: \"Artist-writer Grace Lillard dies at 71\" (copy in box 1, folder 14)."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_bf250546fda93d3c35c5823a8a62450d",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection also contains scattered material from Grace Lillard's civilian life, both before and after her WAC service, such as her 12th grade report card (1936–1937), a program signed by actress Jeannette MacDonald (1939), a chapbook of poems she wrote and self-published for friends (circa 1964), two passports with travel stamps for Croatia, Greece, and other European countries, and assorted photographs of family, friends, and Lillard herself, ranging in date from World War I to 1960."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Women soldiers -- United States"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "World War, 1939-1945 -- Participation, Female"
+                }
+            ],
+            "corpname": {
+                "source": "library_of_congress_subject_heading",
+                "value": "United States. Army. Women's Army Corps"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ea4626e4abd02e31e4c363a6c491a554\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I. Personal papers\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1915-1990\u003c/unitdate\u003e\u003c/did\u003e\u003cc id=\"aspace_d4be296f0b1d4387b4c41d23620c6061\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBirth certificate (1919) certified copies and affidavit of birth record\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1919, 1942, 1961\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f0b924e1c9ebcccc90d2bc418afee874\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f0b924e1c9ebcccc90d2bc418afee874\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_6cc6bfd16406909e8ce647afc1f08134\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eObituaries\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1931-1972\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1f2b9361629546dbb1c75c668d6dca2d\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1f2b9361629546dbb1c75c668d6dca2d\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_66e2f0452987361d1ac75cfa25aa01ef\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eContains undated newspaper obituaries for relatives Emma Caroline (Draughon) Lillard (1860-1931), Lester B. (or D.) Lillard (1901-1937), Reuben Malcolm Albin (1901-1966), and Valena (Lillard) Moffitt (1883-1972).\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_a25323c36fccfb521809eb66a84ae88f\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eHigh school report card\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1936-1937\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f8697b10638aab8d803b615a464b5e74\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f8697b10638aab8d803b615a464b5e74\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_313aab048831af213dc00434ae931e44\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eLillard's grade 12a report card for the spring semester of the 1936-1937 school year, McComb City Schools, McComb, Mississippi.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_e3ecee34bb892249270bb480735ce297\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eEphemera \u0026amp; clippings\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1939, undated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a72e62ecae51a4ecb2d5671bc0b4ca3b\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_a72e62ecae51a4ecb2d5671bc0b4ca3b\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_551e29738f3a2d65f71e6721ba73302a\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eContains undated clippings of poems (2), a list of six things to do each day, and a program autographed by singer and actress Jeanette MacDonald (1903-1965) from her appearance at the Muncipal Auditorium, Jackson, Mississippi, 29 March 1939.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_aaa272a97b22726a437e946dffc85d51\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1942, 1961\u003c/unitdate\u003e\u003ccontainer id=\"aspace_da8e61e5cc4f484bda07e960738b894f\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_da8e61e5cc4f484bda07e960738b894f\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_5c905520b61c2c492a676bb162db9084\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eContains a letter on Mississippi State College for Women stationery, dated 5 August 1942, from President B.L. Parkinson, requesting Grace A. Lillard to occupy rooms in a campus dormitory, where she would provide an \"adult point of view\" to the students. With a draft of Lillard's refusal to abandon her quieter quarters elsewhere.\u003c/p\u003e\u003cp\u003eAlso includes a postcard view of \"Anne Hathaway's Cottage, Shottery, Stratford-Upon-Avon,\" mailed 30 June 1961 by Grace Lillard and her sister, Louise (Lillard) Saffell, to their sister and brother-in-law, Mr. and Mrs. H.R. Parker, in Hattiesburg, Mississippi.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_cf5e14d16ead691ab3d0bc3e96865ae9\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"italic\"\u003eHow Lasting Is Beauty? Poems by Grace Avery Lillard\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003ecirca 1964\u003c/unitdate\u003e\u003ccontainer id=\"aspace_0502208de20ba747c379956f051cc986\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0502208de20ba747c379956f051cc986\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_3a8b5e572d1cdf9972db791cf088d783\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eChapbook of poetry printed privately for friends. The poems range in composition date from 1943 to 1964. Most were published previously in Federal Poets Magazine.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_3dc3a42c976b9a96bd50f263d7a39a31\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eU.S. Passports\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1969-1974, 1978-1983\u003c/unitdate\u003e\u003ccontainer id=\"aspace_8d67c024b8ac6334ba67fac1d88883f6\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_8d67c024b8ac6334ba67fac1d88883f6\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_d2413a9e99ef7aa760c02c8c0238d344\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eWith visa stamps for Croatia, Greece, and other European and Middle Eastern locations.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_f64eed7d0f5bdd818a88d78179200711\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLast will and testament, with codicil\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1976/78, 1990\u003c/unitdate\u003e\u003ccontainer id=\"aspace_378501015c29c992ff0c4aa5644b2843\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_378501015c29c992ff0c4aa5644b2843\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_0c653222faa259c68e689e14641bc7c5\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePhotographs | World War I\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1915-1918, undated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_493fa8bd84c2285e6278913b214874b2\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_493fa8bd84c2285e6278913b214874b2\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_88e403f07fda32f542f5fb8674d00f7f\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eFourteen photographs of World War I soldiers and their camp, only three of which are dated (1915, 1916, and 1918) and identified. It is unclear how these men relate to Grace Lillard or her family.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_d33ae662d6ad00b6a6458a575d13852c\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePhotographs | People\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1934, undated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_0e6fe6b460de10a1b2f59f2570c2bc06\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0e6fe6b460de10a1b2f59f2570c2bc06\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_136e1f3a30c870447b85c805b7783dfd\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eAssorted photographs, presumably of family members, friends, and Grace A. Lillard herself. Just one is dated (24 March 1934). A number are identified as \"Lena\" or \"Louise\" for Lillard's sisters Valena (Lillard) Parker and Louise (Lillard) Saffell.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_8577fe81658c71c12814c116be44e40d\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePhotographs | Bush Hill School, Alexandria, Virginia\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e[1960?] June\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f5a3137199dd1bbf1dc883f721f6f5d7\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f5a3137199dd1bbf1dc883f721f6f5d7\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_16f60c97f76c7224b342ea01c5024ccf\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003ePhotographs of an elementary school class outside the Bush Hill School, 5927 Westchester Street, Alexandria, Virginia. In one shot the class is posed with a female teacher or school official, who might possibly be Louise (Lillard) Saffel, sister of Grace Avery Lillard, who was an educator who lived with her husband in Alexandria.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_c6b86e55f1a84ae8954829f3bbcb04ce\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePhotographs | Cruise on SS \u003cemph render=\"italic\"\u003eEvangeline\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1960 August\u003c/unitdate\u003e\u003ccontainer id=\"aspace_711e06a3ad197fc8f0ac8a30bf5a928b\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_711e06a3ad197fc8f0ac8a30bf5a928b\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_962c9d3a8e3765c30b2e024851f85439\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThe SS \u003cemph render=\"italic\"\u003eEvangeline\u003c/emph\u003e was rechristened the \u003cemph render=\"italic\"\u003eYarmouth Castle\u003c/emph\u003e in 1964. She caught fire and sank in 1965 en route from Miami to the Bahamas.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_9947a8a15f10a81b9ab2055640e8a9e5\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePhotographs | Unidentified places\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_59017b1e5cfdd5ac392b59fe6d8f17d3\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_59017b1e5cfdd5ac392b59fe6d8f17d3\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_1439995c8fa1d2a594f04022a0ed5fbf\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e[Research on Lillard]\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_748a878f15cf91e47b71f482450d1820\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_748a878f15cf91e47b71f482450d1820\" type=\"Folder\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_419c701ebe7b5e320f7552828278ad11\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eNotes on Grace A. Lillard apparently compiled by David M. Lesser, Fine Antiquarian Books LLC, who sold the collection to the New-York Historical Society in 2017. Includes several newspaper accounts of Lillard's life, painting, and military career, and her obituary from the \u003cemph render=\"italic\"\u003eHattiesburg American\u003c/emph\u003e, Hattiesburg, Mississippi, 21 June 1990.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_f8b6c47044691f79c88e99f2e3e22570\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries II. Women's Army Corps (WAC) service\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003ecirca 1941-1945\u003c/unitdate\u003e\u003c/did\u003e\u003cc id=\"aspace_01784f9bebfb57e97684d0fff34b20b2\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"italic\"\u003eNew Testament of Our Lord and Savior Jesus Christ\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e[circa 1941-1945]\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c9b9240dd2add04e056ddb5cf5a44243\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_c9b9240dd2add04e056ddb5cf5a44243\" type=\"Folder\"\u003e15\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_c201079af9a0a4b615bc186ed3dd9f42\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003ePocket Bible printed by the American Bible Society and designed for wartime use. With a preprinted message from Franklin D. Roosevelt \"commending the reading of the Bible to all who serve in the armed forces of the United States.\" Grace Lillard's name, address, and nearest relative are recorded inside the front cover.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_38beb20924dd05d33e369ee9d1f309cb\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"italic\"\u003eA Report on the WAC\u003c/emph\u003e by Lieutenant George W. Casey\u003c/unittitle\u003e\u003cunitdate\u003e1943 July 4\u003c/unitdate\u003e\u003ccontainer id=\"aspace_dd525f1b0755037e3b802e0e78dc17fd\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_dd525f1b0755037e3b802e0e78dc17fd\" type=\"Folder\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_e8e0af34c52d770af892685bce28517f\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eCasey was chaplain of the Second WAC Training Center.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_7459fc3fc4522728198a6c2dcca3a546\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAmerican Red Cross Map of Paris\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1944\u003c/unitdate\u003e\u003ccontainer id=\"aspace_3e37c26586701bcf81543bc8dc17fe90\" label=\"Maps\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_3e37c26586701bcf81543bc8dc17fe90\" type=\"Folder\"\u003e17\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_87c9dfd7b8f21546d11d9592633afcfc\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTriplicate Authorization of Class B Allotment for Purchase of War Savings Bonds\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1944 [June?]\u003c/unitdate\u003e\u003ccontainer id=\"aspace_558913f8e5f3adb3ffc2ca297590a236\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_558913f8e5f3adb3ffc2ca297590a236\" type=\"Folder\"\u003e18\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_4fbbaf9113a0fbed75f6230d59fc5b91\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eMade out in the name of Grace A. Lillard, \"T/5 WAC Det Boston AAA Reg,\" listing her sister, Louise Lillard, as co-owner of a $50.00 bond.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_adde0e0e27dee900d3bf16f05cf91ff8\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1944-1945\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4f3cd9b8608de9afdf76982b2dff3613\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_4f3cd9b8608de9afdf76982b2dff3613\" type=\"Folder\"\u003e19\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_f330d6d0ae2e4e0a5f2728a2f3db9422\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eLetters and some ephemera sent home to her parents and sisters by Grace A. Lillard when stationed in England, France, and Germany, during her WAC service. In her final letter, dated 16 September 1945 and sent from Washington, D.C., she is \"walking on air\" because she became a \"free woman\" on the previous Friday. \"It is a grand feeling being a civilian again -- in Louise's [her sister's] clothes.\" Includes an additional letter (September 1945), from Grace Lillard's sister, Lena Parker, to their mother, regarding Grace's return to civilian life. With two undated German postcards, one showing Heidelberg, and the other Hirschhorn (Neckar), a health resort.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_5e564694de52020a2af3dc5e493c9fd6\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"This is Your Story! An Account of the WAC Detachment 1st Tactical Air Force (Prov.)\"\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1945\u003c/unitdate\u003e\u003ccontainer id=\"aspace_0aac7e5a78fe19b0e37f9cfead030da3\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0aac7e5a78fe19b0e37f9cfead030da3\" type=\"Folder\"\u003e20\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_08e44942d905164d880eb025bfd963e1\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003ePrepared by T/5 Grace A. Lillard, printed Ansbach, Germany, 1945. A 9-page typescript account of Lillard's induction (March 1944), ship transport to Europe (May 1944), experiences in England (May-August 1944), France (August 1944-May 1945), and Germany (May 1945). Includes a roster of her fellow members of the WAC Detachment 1st Tactical Air Force (Provisional).\u003c/p\u003e\u003c/scopecontent\u003e\u003caccessrestrict id=\"aspace_7ab1e51cbbf7b6d3b7fe613b0121e397\"\u003e\u003chead\u003eConditions Governing Access\u003c/head\u003e\u003cp\u003eThis item is in fragile condition. Researchers should consult the transcription provided in Box 1, Folder 21.\u003c/p\u003e\u003c/accessrestrict\u003e\u003c/c\u003e\u003cc id=\"aspace_bb0f6ae164dc380ce232ded0c2370388\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\"This is Your Story!\" [transcription]\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1945\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7a9d5c8b41dd27a38696cd1f00de1654\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_7a9d5c8b41dd27a38696cd1f00de1654\" type=\"Folder\"\u003e21\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_3054dfac8d73452a9d08332e3402e848\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eScrapbook\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1943-1945\u003c/unitdate\u003e\u003ccontainer id=\"aspace_553ab528ee1ee728c507485b417f9742\" label=\"Mixed Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_ffee2b667711a8d1067a6839a13decb1\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eScrapbook documenting Grace A. Lillard's time in the Women's Army Corps (WACs). Includes letters, official orders, ephemera, tickets, programs, newspaper clippings, maps, receipts, and many photographs of Lillard and her colleagues in Boston, New York, England, France, Germany, and upon their return to the United States. Most images are labeled and/or dated, especially shots of the group Lillard refers to as the \"Holy Family,\" which included Lillard, Margaret Blasko, Nelda Little, Adele Luderowski, Mary E. Gerchman, and Helen D. Kosakowski. The \"Holy Family\" nickname probably came from a similarly-named room in the Villa Finck, in Vittel, France, which had previously been used as a school by nuns, but which quartered the WACs between October 1944 and May 1945.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

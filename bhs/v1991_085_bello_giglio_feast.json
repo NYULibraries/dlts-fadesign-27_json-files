@@ -1,0 +1,170 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "v1991_085_bello_giglio_feast"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Jim Kalett and Thomas Bello photographs of the Giglio Feast in Williamsburg\n                    \u003cnum\u003eV1991.085\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Patricia Glowinski"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "September 30, 2011."
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-28T16:32-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Kalett, Jim"
+                    }
+                },
+                "unittitle": {
+                    "value": "Jim Kalett and Thomas Bello photographs of the Giglio Feast in Williamsburg"
+                },
+                "unitdate": {
+                    "value": "circa 1955 to 1975"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.03 Linear feet"
+                        },
+                        {
+                            "value": "nine items housed in one folder."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "V1991.085"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1052009",
+                    "label": "Graphic materials",
+                    "type": "Box",
+                    "value": "Prints by Accession 75"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref5",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref3",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Jim Kalett and Thomas Bello photographs of the Giglio Feast in Williamsburg, V1991.085, Box number, Object ID number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref7",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Source and date of acquisition for this collection are unknown. The collection was formally accessioned in 1991."
+            }
+        },
+        "bioghist": {
+            "id": "ref4",
+            "head": "Historical note",
+            "p": {
+                "value": "The Feast of the Giglio (sometimes referred to as the Feast of St. Paulinus or San Paolino) is an annual Catholic celebration held by Italian Americans in the New York City boroughs of Brooklyn, Manhattan, and the Bronx. In 1903, the first annual Feast of the Giglio was celebrated in the streets of the Williamsburg neighborhood of Brooklyn. On feast day, or Giglio Sunday (held in July), celebrants proceed through the streets following a 65 foot high Giglio tower. The immigrants who celebrated the first annual Feast of the Giglio predominantly came from the city of Nola, located in the Campania region of southern Italy, where the feast originates. As of 2011, the feast is still held at the same location in Williamsburg, centered near Our Lady of Mount Carmel Church."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Jim Kalett and Thomas Bello photographs of the Giglio Feast in Williamsburg consist of three black-and-white 8 x 10 inch glossy photographic prints showing street views of the annual Giglio Feast procession held in the Williamsburg neighborhood of Brooklyn, circa 1955 to 1975. The photographs show crowds watching and participating in the street procession and festival, images of the Giglio tower, and musicians performing on the tower and in the street. The collection includes three copy negatives and three duplicates of the 8 x 10 inch prints. Two of the photographs were taken by Jim Kalett, while the third photograph was donated by Thomas Bello, though the photographer is not identified."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Bands (Music)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Catholics |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Italian Americans |x Social life and customs"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Italian Americans |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Musicians"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Processions, Religious |x Catholic Church"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Street photography |z New York (State) |z Kings County"
+                }
+            ]
+        },
+        "otherfindaid": {
+            "id": "ref8",
+            "head": "Other Finding Aids"
+        },
+        "dsc": {}
+    }
+}

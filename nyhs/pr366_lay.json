@@ -1,0 +1,142 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "pr366_lay"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Charles Downing Lay Papers  \u003clb/\u003e  1865-1966  \u003clb/\u003e \u003cnum\u003ePR 366\u003c/num\u003e"
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-07-30T15:54:31\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "library_of_congress_subject_heading",
+                        "value": "Lay, Charles Downing, 1877-1956"
+                    }
+                },
+                "unittitle": {
+                    "value": "Charles Downing Lay papers"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "1865-1966"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "3.0 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in two boxes and one folder"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "This collection consists of material by and related to the American landscape architect Charles Downing Lay (1877-1956). It includes correspondence, landscape architecture drawings, lectures, printed materials, photographs, engravings, and watercolors.  "
+                },
+                "unitid": {
+                    "value": "PR 366"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_06c6f5cc5ec9b17ac656ccb73bbf8e5e",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open to qualified researchers by appointment only."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_f34ac41d43947fc9af5ce8fa310fbc91",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "The collection should be cited as: Charles Downing Lay papers, PR 366, Department of Prints, Photographs, and Architectural Collections, The New-York Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_6a8731afbebe391f9caf06e50a348864",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Purchase, 2015."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_515e96c2d08fa0896d787b3c1d9a7891",
+            "head": "Biographical / Historical",
+            "p": {
+                "value": "Lay died on Feb. 15, 1956 in Stratford, Connecticut at the age of 78."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_3123d7cdc7b5edd59455b07ef7e5e44e",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection consists of material by and related to the American landscape architect Charles Downing Lay (1877-1956). It includes correspondence, landscape architecture drawings, lectures, printed materials, photographs, engravings, and watercolors."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Landscape architecture -- United States"
+                }
+            ],
+            "corpname": {
+                "source": "library_of_congress_subject_heading",
+                "value": "Century Association (New York, N.Y.)"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_1417f56d9a75becdaa7cddf31f3b32d3\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: Architectural plans\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1939-1950\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_a3430ef2f26732894424862df9c945cf\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThis series contains 6 landscape architecture design drawings by Charles Downing Lay and Associates.\u003c/p\u003e\u003c/scopecontent\u003e\u003crelatedmaterial id=\"aspace_322fc897a2927eeadf656a995c3d66d9\"\u003e\u003chead\u003eRelated Materials\u003c/head\u003eIn Manuscripts Collection: Charles Downing. Blueprint of the landscape design plan for the estate of Frank J. Mann in New Castle, N.Y. Designed by Charles Downing Lay on Feb. 3, 1947; revised March 31, 1947. \u003cextref actuate=\"onRequest\" href=\"http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph004324272\u0026amp;context=L\u0026amp;vid=NYHS\u0026amp;search_scope=nyhs\u0026amp;tab=nyhs\u0026amp;lang=en_US\"\u003e(AHMC Lay, Charles Downing)\u003c/extref\u003e\u003c/relatedmaterial\u003e\u003cc id=\"aspace_5ed2c00f59135a149c5a4f0e3777e41c\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePlanting plan for Krider Nurseries Rock Garden, Horticultural Exhibition, New York World's Fair\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1939\u003c/unitdate\u003e\u003ccontainer id=\"aspace_872304ca2e579d754fe229578f890531\" label=\"Graphic Materials\" type=\"Folder\"\u003eFF 1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_8a4f88ac5bd3cb674ec3918984cb57c6\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLordship Community Church Planting Plan\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1950\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2dd016cec145d9ac805278d59186cb93\" label=\"Graphic Materials\" type=\"Folder\"\u003eFF 1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_b8de5dee25765231b98d0b39c9da21b0\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSet of 4 landscape plans for the Scintilla Magneto Division of the Bendix Aviation Corporation in Sidney, NY\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1940\u003c/unitdate\u003e\u003ccontainer id=\"aspace_675a14e30e1646be6c1a83b58aaf2818\" label=\"Graphic Materials\" type=\"Folder\"\u003eFF 1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_9db1c90b6705bfdb9dc195d93d19f64b\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries II: Artwork\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1865-1934\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_ecdebfa410e746a5161211ad437434b1\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThis series includes watercolors and engravings, mostly landscapes and still lifes, with a few portraits. The bulk of the artwork is by Charles Downing Lay, but there are also works by other artists, including Lay's father, Oliver Ingraham Lay, and Lay's wife, Laura Gill Lay. Some works are unsigned.\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_55129e310dfc917ab15009b42f72aa4b\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePaintings by Charles Downing Lay\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1925-1927\u003c/unitdate\u003e\u003ccontainer id=\"aspace_eb712dabf514c06143104f5b2bd426e5\" label=\"Graphic Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_eb712dabf514c06143104f5b2bd426e5\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_be374cd152637d61c20f6ed5f0821074\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePaintings by Charles Downing Lay\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1930-1934\u003c/unitdate\u003e\u003ccontainer id=\"aspace_93906d883fbb09604b5331e48b5b29b2\" label=\"Graphic Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_93906d883fbb09604b5331e48b5b29b2\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_7273d9e63449c9b7246e468f151c0612\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePaintings by other artists\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1865-1926\u003c/unitdate\u003e\u003ccontainer id=\"aspace_713e1a1e370920d04fe4eff258d4e99e\" label=\"Graphic Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_713e1a1e370920d04fe4eff258d4e99e\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_f37a12c910520ccf57a5297cdd166d07\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePaintings, unsigned\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1925, undated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9987cfc6913863f6dfbbbb978a85d5ca\" label=\"Graphic Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_9987cfc6913863f6dfbbbb978a85d5ca\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_541db0dcead90477d503655c9aefa406\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePrints by Charles Downing Lay\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_389b40c5f648beaf095f35e38443ebbd\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_389b40c5f648beaf095f35e38443ebbd\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_385d8458087cf193841a3a86337e722a\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePrints by other artists\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_6f4afb2712291866ae155b0424f22939\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_6f4afb2712291866ae155b0424f22939\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_2326b72a42b7787a434823d82580993f\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePrints by Charles Downing Lay\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1926, undated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a7e094e247547c1eca380abdbbb638b1\" label=\"Graphic Materials\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_a7e094e247547c1eca380abdbbb638b1\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_52176c4313aa6306e31b4958d33eefd6\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries III: Correspondence\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1910-1945\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_11ad9806727cc9852a685d3eedce30dc\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThis series consists of letters to and from Lay. Correspondents include Charles Dana Gibson (1943-44); Bertram Grosvenor Goodhue (1919-24); Robert Moses (1922); Frederick Law Olmsted Jr. (1913, 1917); John C. Olmsted (1913); and Augustus Vincent Tack (1940-44). \u003c/p\u003e\u003cp\u003eThe bulk of the correspondence has to do with Lay's involvement with the Century Association. There are many invitations and responses to dinners and exhibitions at the club. \u003c/p\u003e\u003cp\u003eThere is also a substantial amount of correspondence with and about the architect Bertram Grosvenor Goodhue.  There are letters between Lay and Goodhue discussing a mutual project (the Myler House in Pittsburgh), and then, after Goodhue's death in 1924, correspondence about planning a memorial exhibition of Goodhue's work at the Century Association.\u003c/p\u003e\u003cp\u003eThere are also two letters from 1910 discussing the idea for the journal \u003cemph render=\"italic\"\u003eLandscape Architecture,\u003c/emph\u003e as well as a letter appointing Lay the Landscape Architect of the NYC Department of Parks.\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_32b4adecdb06e9af32abfa1155877886\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence \u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1910-1917\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9b615dd34dc0a08dba1d9cd7600d7864\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_9b615dd34dc0a08dba1d9cd7600d7864\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_9e8958f472deb8a0fa6a6e6c8216e245\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1919-1929\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2c5874e4583ca8887eca3a03a8cc83ad\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2c5874e4583ca8887eca3a03a8cc83ad\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_10edd850ea3e309233db8d70ad583af5\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1938-1941\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f9f9e8a447c3d86807642424791a41df\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f9f9e8a447c3d86807642424791a41df\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_adc52007d6270b16becaf81070603dbd\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1942-1943\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c4d05d3009287d2849c1695edae9b579\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_c4d05d3009287d2849c1695edae9b579\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_0b224b62c7fc77d577e9a06ab6615202\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1944-1945\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a31cf04ce8683f0313d8dc04ad451274\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_a31cf04ce8683f0313d8dc04ad451274\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_eff3568af4d8b60043662d60ee7743a7\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_397ba267591f190db1356ebd19979a83\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_397ba267591f190db1356ebd19979a83\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_b799f89cc7c59583e356cfa282c1cbe3\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries IV: Photographs\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1925, undated\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_0a2fcc0822577bcae0a8ffa36f01817c\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThis series contains 20 photographs, mostly undated. It includes 7 images of George M. Olcott's estate, Casagmo, in Ridgefield, CT, which was designed by Lay. There is also one photo of architects working at drafting tables.\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_43b6bfdfbb12a03c6c35c42f0cec7e5c\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePhotographs\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1925, undated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a4448c539f11fb1ca943c827f29239be\" label=\"Graphic Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_a4448c539f11fb1ca943c827f29239be\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_41b6a292d476208571a09514f26731a4\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries V: Printed material\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1916-1965\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_5bfa16b3037ddc7dbb0538c8f76d5d2b\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThis series consists of exhibition catalogs, including one for the Horticultural Exhibition at the 1939 World's Fair; brochures about artists and landscapes; printed materials from events held at the Century Association; and miscellaneous clippings.\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_0e37de06d8392a83785435c521e4f702\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCentury Association - \u003cemph render=\"italic\"\u003eLandscape Architecture\u003c/emph\u003e magazine dinner\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1913\u003c/unitdate\u003e\u003ccontainer id=\"aspace_81de50d77a1752f97b40d523e90d266d\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_81de50d77a1752f97b40d523e90d266d\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_fa1dfa07b9daae1be0cebf0d9cf53dd5\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCentury Association - Augustus V. Tack dinner\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1940\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7c77704e26ce9230c2009ad77f1c2d3f\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_7c77704e26ce9230c2009ad77f1c2d3f\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_27df0b8bdbb674a18d8b315e557490d0\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCentury Association - Royal Cortissoz dinner\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1944\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1dd1385737fafe28d95f1d84c6a526a8\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1dd1385737fafe28d95f1d84c6a526a8\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_b7ad0de9ab2710a3d62cb656fb012d86\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCentury Association - miscellaneous papers\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1939-1968, undated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_8773ee1fd171f9938af3849a7c6b267d\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_8773ee1fd171f9938af3849a7c6b267d\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_08883051d7c2a6b74eeccd1090a270f4\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eClippings\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1939-1959\u003c/unitdate\u003e\u003ccontainer id=\"aspace_cb104325c0ae652f67159b1c02e4ef07\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_cb104325c0ae652f67159b1c02e4ef07\" type=\"Folder\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_10afad7fb4b804b61231c5ba2ccd56c9\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eExhibitions\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1913, 1961, 1968\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7e459343cfa45299f9795276b57f6ae7\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_7e459343cfa45299f9795276b57f6ae7\" type=\"Folder\"\u003e15\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_0999e6d1dc583a1070069a97a33d264c\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePamphlets\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1916-1958\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e064732f0e16a494edee77bea3e14a3f\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e064732f0e16a494edee77bea3e14a3f\" type=\"Folder\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_d109e821b188b71a0e823dd16c6a2db8\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries VI: Professional papers\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1906-1939\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_19b20436982fdf0d0436e5baa3c033fc\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThis series includes lectures on landscape architecture (unsigned but presumably by Lay); greeting cards and promotional materials from Lay's professional practice; a catalog from a 1925 exhibition featuring Lay's landscape architecture plans and photographs; a certificate from the American Society of Landscape Architects; and a membership card from the Art Students League of New York.\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_0eaf2f209cdeb59c17a15575358003c7\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLectures\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1939, undated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5cb645eb2a7e9c8fb7720838e29216ef\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5cb645eb2a7e9c8fb7720838e29216ef\" type=\"Folder\"\u003e17\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_bb18acc93f7f3c17b7da6047c3624ce7\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBusiness ephemera\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1906-1933, undated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_80e2f63a72bb1eaf334bfee586d3fd14\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_80e2f63a72bb1eaf334bfee586d3fd14\" type=\"Folder\"\u003e18\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_3cd9aa9b5a063fee99d36a06de4a4de0\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries VII: Ribbons\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1887-1890\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_a524845d9189d6a989429b9c547ce6fb\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThis series includes 9 political and Civil War veteran ribbons.  The connection of these items to Lay is unclear.\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_312a6e82677488a3a7f3b82def35d4bb\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRibbons\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1887-1890\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c9148ef9444113c3b369371ccf650e26\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_c9148ef9444113c3b369371ccf650e26\" type=\"Folder\"\u003e19\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

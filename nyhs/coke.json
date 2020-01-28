@@ -1,0 +1,129 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "coke"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the John A. Coke Papers\n                    \u003clb/\u003e(Records of the Confederate army enrolling office for the Third Congressional District of Virginia)\n                    \u003clb/\u003e 1861-1865\n                    \u003clb/\u003e\n                    \u003cnum\u003eMS670.6\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Susan Kriete. Machine readable finding aid created by Susan Kriete."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "© 2011 New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2014-04-16T11:20-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "© 2011 New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Coke, John Archer, 1842-1920"
+                    }
+                },
+                "unittitle": {
+                    "value": "John A. Coke Papers\n                \u003clb/\u003e(Records of the Confederate army enrolling office for the Third Congressional District of Virginia)\n                \u003clb/\u003e"
+                },
+                "unitdate": {
+                    "value": "1861-1865"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.6 Linear feet"
+                        },
+                        {
+                            "value": "(4 boxes)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "This collection contains correspondence and official documents relating to John A. Coke's work as the enrolling officer for the Confederate army in the Third Congressional District of Virginia, headquartered in Richmond, Virginia. It includes papers relating to enrollment, conscription, exemptions, substitutes, detail assignments, and other documents concerning the availability of men for service in the Confederate army. The materials in this collection have been digitized and are available online to on-site researchers and to users affiliated with subscribing institutions via \n                \u003cextref ns2:href=\"http://search.ebscohost.com/login.aspx?direct=true\u0026amp;db=h5c\u0026amp;bquery=(HJ+FBG8)\u0026amp;type=1\u0026amp;site=ehost-live\"\u003eEBSCOhost\u003c/extref\u003e."
+                },
+                "unitid": {
+                    "value": "MS670.6"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref52",
+            "head": "Conditions governing access",
+            "p": {
+                "value": "Items that include presidential signatures will be presented to researchers in duplicate form."
+            }
+        },
+        "prefercite": {
+            "id": "ref54",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "This collection should be cited as the John A. Coke Papers, MS 670.6, The New-York Historical Society."
+            }
+        },
+        "bioghist": {
+            "id": "ref51",
+            "head": "Biographical/Historical note",
+            "p": {}
+        },
+        "scopecontent": {
+            "id": "ref55",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The materials in this collection have been digitized and are available online to on-site researchers and to users affiliated with subscribing institutions via \n                \u003cextref ns2:href=\"http://search.ebscohost.com/login.aspx?direct=true\u0026amp;db=h5c\u0026amp;bquery=(HJ+FBG8)\u0026amp;type=1\u0026amp;site=ehost-live\"\u003eEBSCOhost\u003c/extref\u003e."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "ingest",
+                    "value": "Confederate States of America. Army."
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref33\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries I: Richmond County/District-wide Records\u003c/unittitle\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref9\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eInspection Office Reports\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid587002\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid587002\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate\u003e1863 March, 1863 December, undated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref23\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence and receipts\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid587003\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid587003\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate\u003e1862 October - 1864 December, undated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref3\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eEndorsement book\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid586001\" type=\"Box\" label=\"Mixed materials\"\u003eOS Small\u003c/container\u003e\n                        \u003ccontainer parent=\"cid586001\" type=\"Folder\"\u003eCoke, John A.\u003c/container\u003e\n                        \u003cunitdate\u003e1864 August - 1865 April\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref17\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMilitary orders\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid586004\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid586004\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate\u003e1862 March - 1865 July\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref6\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eSpecial orders of Enrolling Office\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid586005\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid586005\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate\u003e1864 April 12 - 1864 October 28\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref12\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eRegulations and circulars\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid586006\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid586006\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate\u003e1861 October 20, 1863 March - 1864 September\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref48\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eBook recording circulars\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid587001\" type=\"Box\" label=\"Mixed materials\"\u003eOS Small\u003c/container\u003e\n                        \u003ccontainer parent=\"cid587001\" type=\"Folder\"\u003eCoke, John A.\u003c/container\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref18\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eLists and accounts of Mounted Conscription Guards and others serving in the conscription office\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid586007\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid586007\" type=\"Folder\"\u003e6\u003c/container\u003e\n                        \u003cunitdate\u003e1863 August - 1864 December, undated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref31\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMuster rolls of Mounted Conscription Guard and other enrollment office personnel\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid588001\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid588001\" type=\"Folder\"\u003e7\u003c/container\u003e\n                        \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref26\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMonthly reports -- Nominal (lists of conscripts, deserters, etc.)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid586002\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid586002\" type=\"Folder\"\u003e8\u003c/container\u003e\n                        \u003cunitdate\u003e1863 March - 1864 October, undated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref27\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eStatistical reports\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid586003\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid586003\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate\u003e1863 November - 1865 January, undated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref16\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eDaily enrollment lists\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid586008\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid586008\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate\u003e1862 December - 1864 October\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref21\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eEnrollment and descriptive lists of reservists\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid628001\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid628001\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate\u003e1864 April\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref22\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eLists of men in the 19th and 179th Regiments, Virginia Militia\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid586010\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid586010\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate\u003eUndated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref19\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eLists of details and exemptions\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid586009\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid586009\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate\u003e1861 - 1863 October, undated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref47\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eList of details and exemptions December, 1862\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid586011\" type=\"Box\" label=\"Mixed materials\"\u003eOS Small\u003c/container\u003e\n                        \u003ccontainer parent=\"cid586011\" type=\"Folder\"\u003eCoke, John A.\u003c/container\u003e\n                        \u003cunitdate\u003e1862 December\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref1\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eDetail orders and conscription reports of free African Americans\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid586012\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid586012\" type=\"Folder\"\u003e6\u003c/container\u003e\n                        \u003cunitdate\u003e1864 April - 1864 October, undated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref28\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eReports of deserters\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid586013\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid586013\" type=\"Folder\"\u003e7\u003c/container\u003e\n                        \u003cunitdate\u003e1862 October - 1863 September\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref24\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eRegister of all men not serving with the Army\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid586014\" type=\"Box\" label=\"Mixed materials\"\u003e3\u003c/container\u003e\n                        \u003ccontainer parent=\"cid586014\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate\u003e1864 September\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref5\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eBook recording detail assignments and exemptions\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid586016\" type=\"Box\" label=\"Mixed materials\"\u003e3\u003c/container\u003e\n                        \u003ccontainer parent=\"cid586016\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate\u003e1862 December - 1863 November\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref2\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eBook recording reports of absentees and deserters\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid586015\" type=\"Box\" label=\"Mixed materials\"\u003e3\u003c/container\u003e\n                        \u003ccontainer parent=\"cid586015\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate\u003e1864 May - 1864 October\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref11\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eRequests for exemption and other documents relating to individual conscription status\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid586018\" type=\"Box\" label=\"Mixed materials\"\u003e3\u003c/container\u003e\n                        \u003ccontainer parent=\"cid586018\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate\u003e1861 September - 1865 March, undated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref7\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eExemption certificates\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid586017\" type=\"Box\" label=\"Mixed materials\"\u003e3\u003c/container\u003e\n                        \u003ccontainer parent=\"cid586017\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate\u003e1862 December - 1864 August\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref15\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePrinted forms (blank)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid586019\" type=\"Box\" label=\"Mixed materials\"\u003e3\u003c/container\u003e\n                        \u003ccontainer parent=\"cid586019\" type=\"Folder\"\u003e5\u003c/container\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref41\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries II: Hanover County Records\u003c/unittitle\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref42\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eNominal and statistical reports\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid586020\" type=\"Box\" label=\"Mixed materials\"\u003e4\u003c/container\u003e\n                        \u003ccontainer parent=\"cid586020\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate\u003e1863 May - 1865 January, undated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref43\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eRequests for exemption and other documents related to individual conscription status\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid628002\" type=\"Box\" label=\"Mixed materials\"\u003e4\u003c/container\u003e\n                        \u003ccontainer parent=\"cid628002\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate\u003e1862 August - 1864 September, undated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref44\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eLists and accounts of Mounted Conscription Guards\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid586021\" type=\"Box\" label=\"Mixed materials\"\u003e4\u003c/container\u003e\n                        \u003ccontainer parent=\"cid586021\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate\u003e1864 May, 1865 February, undated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref45\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries III: Records of other counties within the Third Congressional District\u003c/unittitle\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref37\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCharles City County Records\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid586024\" type=\"Box\" label=\"Mixed materials\"\u003e4\u003c/container\u003e\n                        \u003ccontainer parent=\"cid586024\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate\u003e1863 September - 1865 January, undated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref36\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eHenrico County Records\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid586023\" type=\"Box\" label=\"Mixed materials\"\u003e4\u003c/container\u003e\n                        \u003ccontainer parent=\"cid586023\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate\u003e1863 March - 1865 February, undated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref38\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eJames City and York County Records\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid586025\" type=\"Box\" label=\"Mixed materials\"\u003e4\u003c/container\u003e\n                        \u003ccontainer parent=\"cid586025\" type=\"Folder\"\u003e6\u003c/container\u003e\n                        \u003cunitdate\u003e1860 December - 1863 July\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref35\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eNew Kent County Records\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid586022\" type=\"Box\" label=\"Mixed materials\"\u003e4\u003c/container\u003e\n                        \u003ccontainer parent=\"cid586022\" type=\"Folder\"\u003e7\u003c/container\u003e\n                        \u003cunitdate\u003e1863 January - 1865 January, undated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

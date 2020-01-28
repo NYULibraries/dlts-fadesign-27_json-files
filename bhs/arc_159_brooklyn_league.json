@@ -1,0 +1,143 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arc_159_brooklyn_league"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Brooklyn league annual reports and publications\n                    \u003cnum\u003eARC.159\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Matthew Gorham"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "December 15, 2010"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-28T10:33-0500\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Brooklyn League annual reports and publications"
+                },
+                "unitdate": {
+                    "normal": "1902/1912",
+                    "type": "inclusive",
+                    "value": "1902-1912"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.4 Linear feet"
+                        },
+                        {
+                            "value": "in one manuscript box"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "ARC.159"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid551001",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "ARC.159 1 of 1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref2",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref4",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Brooklyn League collection, ARC.159, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref6",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Source and date of acquisition for this collection are unknown."
+            }
+        },
+        "bioghist": {
+            "id": "ref1",
+            "head": "Historical note",
+            "p": {
+                "value": "Membership to the Brooklyn League was open to any registered voter or taxpayer residing in Brooklyn upon election by the League's Membership Committee, and the payment of annual membership dues. Members of the Brooklyn League served on committees concerned with various civic and social issues in Brooklyn, including Education, Gas and Electricity, Municipal Ordinances, Legislation, Assessment and Taxation, etc. The Brooklyn League's headquarters was located in the Temple Bar Building at 44 Court Street in the Brooklyn Heights neighborhood of Brooklyn."
+            }
+        },
+        "scopecontent": {
+            "id": "ref5",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Brooklyn League annual reports and publications measure 0.4 linear feet and span the dates 1902 to 1912. The collection includes annual reports for the years 1902, and 1905 to 1910. These reports feature summaries of the League's activities and accomplishments for each year, committee rosters, membership lists, and summaries of the League's financial standing for each year. Also included are a copy of the Brooklyn League's constitution, dated 1902, and printed pamphlets listing officers, committees and affiliated bodies, dated 1910 to 1912."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Political clubs |z New York (State) |z New York"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Brooklyn League."
+            }
+        },
+        "dsc": {}
+    }
+}

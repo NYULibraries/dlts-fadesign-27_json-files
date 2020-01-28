@@ -1,0 +1,168 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "arms_1977_041_brooklyn_theater"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Brooklyn theater collection \u003cnum\u003e1977.041\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Cynthia Tobar"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "Brooklyn Historical Society",
+                        "128 Pierrepont Street",
+                        "Brooklyn 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-03-27T14:14:32\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "Brooklyn theater collection"
+                },
+                "unitdate": {
+                    "normal": "1863/1911",
+                    "type": "bulk",
+                    "value": "1863-1911"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "3.84 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in two manuscript boxes and two oversize boxes."
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Brooklyn theater collection consists of playscripts, playbills, programs, and other ephemera from various theater venues in Brooklyn and Manhattan, dating from the early 18th century to the 1930s. In addition to playbills, there are some programs relating to concerts, musical comedies, and musical revues, as well as ephemera."
+                },
+                "unitid": {
+                    "value": "1977.041"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_cbb6074d3eb5141c58e37ccf3f398505",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1977.041 1 of 4"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_d7621b454dcc8f560641e5bd826e7d80",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_a4c42af35b6e63ded38e757d548102e7",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Brooklyn theater collection, 1977.041, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_6cca2c00ddf0bf23dc31965d25d9ce56",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Portions of the collection were the gifts of Miss G.M. Fitzpatrick, 1949; Henry S. Gorman, 1940; Gabriel Harrison, 1941; and Betsy B. Sand, date unknown.  Sources and dates of acquisition for remaining items in the collection are unknown.  The collection was formally accessioned in 1977."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_7c8210d4c9b791f6c1d8a7c11974401e",
+            "head": "Historical Note",
+            "p": {
+                "value": "Many of these playbills and programs were kept by patrons as theater souvenirs and cover a variety of genres, including early musicals, traditional vaudeville shows, comedies, revues, and English dramas."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_6c177db3c44106980b9a9c764b78c958",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "For an index of individual performers and plays listed, see Box 1, Folder 1: Playbills and Programs Finding Aid (1968). Please note that this list is no longer representative of the entire collection."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Performing arts |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Performing arts |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Theater |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Theater |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Theaters |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Theaters |z New York (State) |z New York"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Teller's Broadway Theatre (Brooklyn, New York, N.Y.)"
+            }
+        },
+        "otherfindaid": {
+            "id": "aspace_4ef546c78ca00f3923e1626547c15740",
+            "head": "Other Finding Aids"
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref10_zxy\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries 1: Playscripts and printed plays\u003c/unittitle\u003e\u003cphysdesc altrender=\"whole\"\u003e\u003cextent altrender=\"materialtype spaceoccupied\"\u003e0.21 Linear Feet\u003c/extent\u003e\u003cextent altrender=\"carrier\"\u003ein five folders.\u003c/extent\u003e\u003c/physdesc\u003e\u003cunitdate normal=\"1733/1896\" type=\"inclusive\"\u003e1733-1896\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_ed74cab873b84b0ce08bc50f6220a910\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eThe playscripts and plays in this series are arranged alphabetically by production location.  This series comprises 22 play titles, some incomplete, covering comedies, farces, and drama scripts. Included are some handwritten directors' and prompters' scripts, actors' sides (sheets, usually a half page, containing lines and cues for a single role), varying versions of entire scripts or single acts, and printed plays.  All items are written in English.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e\u003cc id=\"aspace_ref12_i0f\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries 2: Playbills, programs and ephemera\u003c/unittitle\u003e\u003cphysdesc altrender=\"whole\"\u003e\u003cextent altrender=\"materialtype spaceoccupied\"\u003e3.63 Linear Feet\u003c/extent\u003e\u003cextent altrender=\"carrier\"\u003ein one-and-a-half manuscript boxes and two oversize boxes.\u003c/extent\u003e\u003c/physdesc\u003e\u003cunitdate normal=\"1796/1939\" type=\"inclusive\"\u003e1796-1939\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_73082cc559c137c391bf463b458d7ad3\"\u003e\u003chead\u003eScope and Contents\u003c/head\u003e\u003cp\u003eItems in this series are organized alphabetically by venue.  Included are playbills and programs from a number of Brooklyn and Manhattan theaters that seem to have been amassed by patrons as souvenirs. These programs and playbills provide information about a variety of theater productions, including names of performers, productions, the different acts that comprised an evening's entertainment, and advertisements.  Also included is one copy of the April 4, 1891 issue of \u003cemph render=\"italic\"\u003eThe Theatre Goer\u003c/emph\u003e, a weekly news publication containing programs and listings of music and drama performances in Brooklyn and the New York City area.\u003c/p\u003e\u003c/scopecontent\u003e\u003c/c\u003e"
+        }
+    }
+}

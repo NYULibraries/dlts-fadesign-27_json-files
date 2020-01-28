@@ -1,0 +1,176 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arc_244_smith"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Smith families papers\n                    \u003cnum\u003eARC.244\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "August 5, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-28T11:32-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Smith, William"
+                    },
+                    "famname": {
+                        "source": "naf",
+                        "value": "Smith family"
+                    }
+                },
+                "unittitle": {
+                    "value": "Smith families papers"
+                },
+                "unitdate": {
+                    "normal": "1659/1848",
+                    "type": "inclusive",
+                    "value": "1659-1848"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.12 linear feet"
+                        },
+                        {
+                            "value": "in 19 folders."
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Papers of the Smith families of the towns of Brookhaven (referred to in the papers as the Manor of St. George) and Smithtown in Suffolk County, Long Island, N.Y., dating from 1659 to 1848. Materials include court records, land deeds (some involving the Native American inhabitants of the region), personal and business correspondence, bills and receipts, contracts, and various other business, financial, and property documents."
+                },
+                "unitid": {
+                    "value": "ARC.244"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid962001",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0019"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref6",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref3",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Smith families papers, ARC.244, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref5",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Source and date of acquisition unknown. Materials in the collection were formally accessioned in 1974, 1977, and 1978."
+            }
+        },
+        "bioghist": {
+            "id": "ref2",
+            "head": "Biographical Note",
+            "p": {
+                "value": "The Smith family of Smithtown was descended from Richard Smith (or Smythe, circa 1615-1692), a wealthy landowner who founded Smithtown circa 1665. Smith's great grandson, Caleb Smith (1724-1800), was a graduate of Yale College and a judge for the Suffolk County Court of Common Pleas, as well as a member of the New York State Assembly. In 1754, Caleb and his father, Daniel Smith II, built a home on the estate of Richard Smith, in which Caleb lived with his wife, Martha (b. 1727), and their four children. Five subsequent generations of the Smith family resided on the estate until 1888, when it was purchased by the Brooklyn Gun Club. In 1963, the State of New York acquired the Smith estate and converted it into part of the Caleb Smith State Park Preserve. As of 2011, Caleb Smith's original house still stands as part of the preserve."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "Papers of the Smith families of the towns of Brookhaven (referred to in the papers as the Manor of St. George) and Smithtown in Suffolk County, Long Island, N.Y., dating from 1659 to 1848. Materials include court records, land deeds (some involving the Native American inhabitants of the region), personal and business correspondence, bills and receipts, contracts, and various other business, financial, and property documents. One document contains what appears to be a poem or toast given to George Washington on an unspecified and undated occasion. The papers represent various members of the Smith families, particularly William Smith of the Manor of St. George and Caleb Smith of Smithtown, as well as Richard (the founder of Smithtown), Joshua, Ebenezer, and Obadiah Smith, among others. A military commission bestowing the rank of Ensign to Caleb Smith, Jr. (b. 1763) in Captain Joshua Smith, Jr.'s Company of Light Infantry in the Militia of Suffolk County is also included."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcgft",
+                    "value": "Families |z New York (State) |z Suffolk County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Indians of North America |z New York (State) |z Long Island"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Land titles |z New York (State) |z Suffolk County"
+                },
+                {
+                    "source": "lcgft",
+                    "value": "Landowners |z New York (State) |z Suffolk County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Real property |z New York (State) |z Suffolk County"
+                },
+                {
+                    "source": "lcgft",
+                    "value": "Soldiers |z New York (State) |z Suffolk County"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Suffolk County (N.Y.). Militia."
+            }
+        },
+        "dsc": {}
+    }
+}

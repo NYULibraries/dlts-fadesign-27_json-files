@@ -1,0 +1,159 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "wag_001"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Jennifer Stafford Papers \u003cnum\u003eWAG.001\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Finding aid prepared by Tamiment Staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-09T20:15:00\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "local",
+                        "value": "Stafford, Jennifer"
+                    }
+                },
+                "unittitle": {
+                    "value": "Jennifer Stafford Papers"
+                },
+                "unitdate": {
+                    "normal": "1992/2000",
+                    "type": "inclusive",
+                    "value": "1992-2000"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 record carton"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Jennifer Stafford was an Elevator, Ride and Tramway Engineer for the State of California. This collection focuses on the role of women in the International Union of Elevator Constructors and their struggle for recognition within the union. It contains legal papers from Adrian v. Dover, the first case dealing with sexual harassment brought by a group of Elevator Workers, a letter written by Stafford to city supervisors expressing concern that no women were being hired by elevator contractors, a report by Jennifer Stafford to the Human Rights Commission stating that elevator contractors were not fulfilling their minority goals on city jobs, papers from the Equal Rights Advocates, union membership cards, contracts and photographs."
+                },
+                "unitid": {
+                    "value": "WAG.001"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_af210d3e637aa51dcc7a1aee49429a2b",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_ddbe0b89327f61879d2501ee2d373776",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Jennifer Stafford Papers; WAG 001; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_8c9ab34653f45339a2b4d162880e6c77",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Jennifer Stafford, 2002. The accession numbers associated with this gift are 2002.002, 2002.004, and NPA 2005.250."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_779bf4701bfc6dc9fc0ebbfbeddcf56e",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Jennifer Stafford was an Elevator, Ride and Tramway Engineer for the Division of Occupational Safety and Health of the State of California."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_def72349cc6a67653ffca2f33564743b",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "This collection focuses on the role of women in the International Union of Elevator Constructors and their struggle for recognition within the union. It contains legal papers from Adrian v. Dover, the first case dealing with sexual harassment brought by a group of Elevator Workers, a letter written by Stafford to city supervisors expressing concern that no women were being hired by elevator contractors, a report by Jennifer Stafford to the Human Rights Commission stating that elevator contractors were not fulfilling their minority goals on city jobs, papers from the Equal Rights Advocates, union membership cards, contracts and photographs."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Women |x Employment |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Women in the labor movement |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Sex discrimination against women -- United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Building trades -- Employees -- Labor unions -- United States."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "United States. Equal Employment Opportunity Commission"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref12\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"italic\"\u003eApprentice\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitdate normal=\"2001/2001\" type=\"inclusive\"\u003e2001\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e9adda18ec07783b2a4c7c1f83187196\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e9adda18ec07783b2a4c7c1f83187196\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref13\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"italic\"\u003eElevator Constructor\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitdate normal=\"1997/2001\" type=\"inclusive\"\u003e1997-2001\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7bf7cd4ba708d65cec6b11bbe90b755f\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_7bf7cd4ba708d65cec6b11bbe90b755f\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eElevator Union Standard Agreement\u003c/unittitle\u003e\u003cunitdate normal=\"1992/2001\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_8616aefb333461e687244590df106b46\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_8616aefb333461e687244590df106b46\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eElevator Women of Local 8 [Photograph]\u003c/unittitle\u003e\u003cunitdate normal=\"1992/1992\" type=\"inclusive\"\u003e1992\u003c/unitdate\u003e\u003ccontainer id=\"aspace_8fba82eeb5e6fa47eb9d03c395c74422\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_8fba82eeb5e6fa47eb9d03c395c74422\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eEqual Employment Opportunity Commission\u003c/unittitle\u003e\u003cunitdate normal=\"1994/2000\" type=\"inclusive\"\u003e1994-2000\u003c/unitdate\u003e\u003ccontainer id=\"aspace_2d5164c595e4a9551acf1008eacf91e7\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_2d5164c595e4a9551acf1008eacf91e7\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eEqual Employment Opportunity Commission\u003c/unittitle\u003e\u003cunitdate normal=\"1997/1997\" type=\"inclusive\"\u003eFeb 1997\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9e0377a9263aef2873355f3ef86784e8\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_9e0377a9263aef2873355f3ef86784e8\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eEqual Employment Opportunity Commission Award\u003c/unittitle\u003e\u003cunitdate normal=\"2000/2000\" type=\"inclusive\"\u003eSep 2000\u003c/unitdate\u003e\u003ccontainer id=\"aspace_097725c5a2f64d085e4fb4b365b04db7\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_097725c5a2f64d085e4fb4b365b04db7\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eEqual Rights Advocate\u003c/unittitle\u003e\u003cunitdate normal=\"1992/2001\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_62f55b285286d72c1973e79f419a8fcd\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_62f55b285286d72c1973e79f419a8fcd\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eHaas School of Business (University of California, Berkeley)\u003c/unittitle\u003e\u003cunitdate normal=\"1995/1995\" type=\"inclusive\"\u003eMay 1995\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5b4f83a38b75b0e9fb8fa6b3e9f36fa0\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5b4f83a38b75b0e9fb8fa6b3e9f36fa0\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eHuman Rights Commission\u003c/unittitle\u003e\u003cunitdate normal=\"1997/1997\" type=\"inclusive\"\u003eNov 1997\u003c/unitdate\u003e\u003ccontainer id=\"aspace_934635a1c210669bf673457ec718b355\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_934635a1c210669bf673457ec718b355\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e[Letter to Supervisor Carole Migden]\u003c/unittitle\u003e\u003cunitdate normal=\"1994/1994\" type=\"inclusive\"\u003eJuly 1994\u003c/unitdate\u003e\u003ccontainer id=\"aspace_09cf69d906fde6f15f6de00d5626030c\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_09cf69d906fde6f15f6de00d5626030c\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e[Litigation Files]: Adrian v. Dover\u003c/unittitle\u003e\u003cunitdate normal=\"1992/1992\" type=\"inclusive\"\u003eNov 1992\u003c/unitdate\u003e\u003ccontainer id=\"aspace_50c63a5e2f372f50fc4bf2ace1268cbd\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_50c63a5e2f372f50fc4bf2ace1268cbd\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLocal 8's Story\u003c/unittitle\u003e\u003cunitdate normal=\"1992/2001\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d5ecc1727e815aa83a3e611880b1aaf8\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d5ecc1727e815aa83a3e611880b1aaf8\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e\u003cemph render=\"italic\"\u003eNeed to Know\u003c/emph\u003e\u003c/unittitle\u003e\u003cunitdate normal=\"1996/1996\" type=\"inclusive\"\u003eDec 1996\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7908f6600aa21becee91b075f41518c2\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_7908f6600aa21becee91b075f41518c2\" type=\"Folder\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref26\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eOTIS Elevator Identification Card\u003c/unittitle\u003e\u003cunitdate normal=\"1992/2001\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_063a8226668b85fd0c87834d39976cf9\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_063a8226668b85fd0c87834d39976cf9\" type=\"Folder\"\u003e15\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePhotographs from the Trade\u003c/unittitle\u003e\u003cunitdate normal=\"1992/2001\" type=\"inclusive\"\u003e1993, undated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f60f9fa780628e4b61c89108a8b7f289\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f60f9fa780628e4b61c89108a8b7f289\" type=\"Folder\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref28\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTools for Survival\u003c/unittitle\u003e\u003cunitdate normal=\"1992/2001\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d356a4990d41192a9ab0a17ada6c91cc\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d356a4990d41192a9ab0a17ada6c91cc\" type=\"Folder\"\u003e17\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref29\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eTradeswomen\u003c/unittitle\u003e\u003cunitdate normal=\"1992/2001\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_322e45ca45358b0a462554e00385ef15\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_322e45ca45358b0a462554e00385ef15\" type=\"Folder\"\u003e18\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

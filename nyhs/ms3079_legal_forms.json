@@ -1,0 +1,88 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "ms3079_legal_forms"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Manuscript Book of Legal Forms\u003clb/\u003ecirca 1714?\u003clb/\u003e \u003cnum\u003eBV Legal Forms\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Larry Weimer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-02-01T20:05:49\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "Manuscript book of legal forms"
+                },
+                "unitdate": {
+                    "value": "circa 1714?"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Volumes"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "A volume that primarily holds what seem to be transcribed legal forms and textbook guidance related to real estate property matters. These include indentures, mortgages, conveyances, deeds, and the like. A few of the forms refer to a date, and these range from 1696 to 1713. A couple of matters include specific names and seem to be transcriptions or drafts of actual cases; one of these is an indenture related to property in Perth Amboy, New Jersey, and is dated 1714. Other specific cases refer to the conveyance of a church on Staten Island and a New York City mortgage. The volume opens with 28 pages of notes concerning \"vulgar fractions\" and their arithmetic operations, and on how to determine the tare and trett allowances (container weight and waste) when weighing commodities. This is followed by a table of contents for the legal transcriptions, then 165 numbered pages. Pages 1-143 are used, 144-162 are blank, and 163-165 holds the Perth Amboy matter. There is no apparent indication as to authorship. There are significant variations in the handwriting indicating that the entries were made by various individuals.\n\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: \u003cextref actuate=\"onRequest\" href=\"http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph006547962\u0026amp;context=L\u0026amp;vid=NYHS\u0026amp;search_scope=nyhs\u0026amp;tab=nyhs\u0026amp;lang=en_US\"\u003eManuscript book of legal forms.\u003c/extref\u003e"
+                },
+                "unitid": {
+                    "value": "BV Legal Forms"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "dsc": {}
+    }
+}

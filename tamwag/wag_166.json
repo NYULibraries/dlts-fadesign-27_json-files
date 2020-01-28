@@ -1,0 +1,149 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "wag_166"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Thomas Moran Papers \u003cnum\u003eWAG.166\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Maggie Schreiner"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-06-20T19:46:43\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "local",
+                        "value": "Moran, Thomas"
+                    }
+                },
+                "unittitle": {
+                    "value": "Thomas Moran Papers"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "4 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 5 boxes"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Thomas Moran was the Safety Director for the Utility Workers Union of America, Local 1-2. This collection contains materials related to Local 1-2.  "
+                },
+                "unitid": {
+                    "value": "WAG.166"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_8399b5e08b9995acedfec0f58119094b",
+                    "label": "Mixed Materials [31142063409158]",
+                    "type": "Box",
+                    "value": "3"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_7aa6ab71c5b950cb6537fe1de75f8826",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_1429244c06cc633470b64ba05b3a5aa9",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Thomas Moran Papers; WAG 166; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_dbcd16d30d9d007eff2ca6e081297af1",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Thomas Moran in 2000. The accession number associated with this gift is 2000.012."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_2362c81a8a3e903bc6495a17b083e0db",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Thomas Moran was the Safety Director for the Utility Workers Union of America, Local 1-2, and in this position worked with the White Lung Association, the New York Committee for Occupational Safety and Health to advocate for the removal of asbestos all over New York City."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_db095798adebd1c3c5e5ffed19f4570d",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Documents related to Utility Workers of America, Local 1-2."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Industrial safety |z New York (State) |z New York"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Utility Workers Union of America. Local 1-2"
+            }
+        },
+        "dsc": {}
+    }
+}

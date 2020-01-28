@@ -1,0 +1,135 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_233"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Yale Graduate Student Union Records \u003cnum\u003eTAM 233\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-08T14:48:40\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Yale Graduate Student Union Records"
+                },
+                "unitdate": {
+                    "value": "circa 1988-circa 1992"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.75 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(2 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "TAM 233"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_5655cc7430b0895469aa4db7b09a74c1",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1-2"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_aa03c62c0cd64604d966e0d92db132a7",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_5ea330b3059632f6e1dc9bf0229f9901",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Provenance unknown. The accession number associated with this collection is 1950.095."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_22d89437fb09e84df2e1702bcabedb86",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Yale University graduate students / graduate teaching assistants attempted to organize labor unions in the 1980s-1990s. The two key organizations were the Graduate Employees and Student Organization, and the Graduate Student Union."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_f238d526cad72be04e76ea00db8e4725",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection includes GESO Voice: newsletter of the Graduate Employees and Student Organizations, notes from meetings, findings from a graduate student employee survey, newspaper clippings, research re: other graduate student attempts to organize, statements from the Graduate Student Union and officials from Yale University and a timeline of teaching assistant solidarity at Yale."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Graduate teaching assistants |x Labor unions |z Connecticut |z New Haven."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Graduate students |x Political activity |z Connecticut |z New Haven."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "GESO voice (New Haven, Conn.)"
+            }
+        },
+        "dsc": {}
+    }
+}

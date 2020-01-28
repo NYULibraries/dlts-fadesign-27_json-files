@@ -1,0 +1,150 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_065"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "James J. Hulley Papers \u003cnum\u003eTAM.065\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff."
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-04-30T18:15:21\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Hulley, James J."
+                    }
+                },
+                "unittitle": {
+                    "value": "James J. Hulley Papers"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(2 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "TAM.065"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_90d8d19933ef5a50ccb97bfd2379d608",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1-2"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_b805f67a4e0cf208e4a78f065d0273db",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_f657b578eaba913fa0cb63c2c95ea89f",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "The provenance of this collection is unknown. The accession number associated with this collection is 1994.023."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_fd13c6dac7d54f628a9a1558e6bc8889",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "James J. Hulley (1907-1994) was an artist and activist in the Commercial Artists and Designers Union (CADU) in New York City."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_a19a747542caa73123805d145fed2f8e",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection documents the history of the Commercial Artists and Designers Union (CADU), Hulley's involvement in the Fleischer Shop Committee, the Fleischer and Famous Studio strike of 1937, and his involvement as  chairman of an artists cooperative in the 1930s and this collection contains minutes from meetings in the 1930s. This collection contains materials relating to CADU including minutes, position papers, newspaper clippings, constitutions, and newsletters."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Animation (Cinematography) |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Strikes and lockouts |x Commercial artists |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Commercial artists |x Labor unions |z United States."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Strikes and lockouts -- Cartoonists -- United States."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Commercial Artists and Designers Union (New York, N.Y.)"
+            }
+        },
+        "dsc": {}
+    }
+}

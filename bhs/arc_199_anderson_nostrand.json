@@ -1,0 +1,178 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arc_199_anderson_nostrand"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Anderson and Nostrand families papers and photographs\n                    \u003cnum\u003eARC.199\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Patricia Glowinski"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "April 13, 2011."
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2016-05-18T11:57-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Nostrand, Lewis Pease, 1823-1900"
+                    },
+                    "famname": {
+                        "source": "naf",
+                        "value": "Anderson family"
+                    }
+                },
+                "unittitle": {
+                    "value": "Anderson and Nostrand families papers and photographs"
+                },
+                "unitdate": {
+                    "normal": "1844/1914",
+                    "type": "inclusive",
+                    "value": "1844-1914"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.5 linear feet"
+                        },
+                        {
+                            "value": "in one glass plate negative box and one half manuscript box."
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The Anderson and Nostrand families papers and photographs date from 1844 to 1914 and measure .5 linear feet. The collection documents three generations of the Nostrand and Anderson families and includes photographs, tax receipts, a marriage certificate, a wedding invitation, a menu from a caterer, a membership certificate, and a handwritten memoir."
+                },
+                "unitid": {
+                    "value": "ARC.199"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid736001",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "ARC.199 Box 1 of 2"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref2",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref6",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Anderson and Nostrand families papers and photographs, ARC.199, Box number, Folder number (if applicable), Object ID number (if applicable); Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref4",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Gift of Lewis Nostrand Anderson, Jr., 1960 and 1965."
+            }
+        },
+        "bioghist": {
+            "id": "ref1",
+            "head": "Biographical note",
+            "p": {
+                "value": "Lewis Nostrand Anderson graduated from Columbia College (now Columbia University) with an M.D. in 1895. He married Laura Chapman and they had (at least) one child, Lewis Nostrand Anderson, Jr. (b. 1904), who also attended Columbia University and graduated in 1926. In 1928, Lewis Nostrand Anderson, Jr. then attended Columbia University School of Architecture and became a landscape architect. He began working for the City of New York in 1934, where he served for many years."
+            }
+        },
+        "scopecontent": {
+            "id": "ref7",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Anderson and Nostrand families papers and photographs date from 1844 to 1914 and measure .5 linear feet. The collection documents three generations of the Nostrand and Anderson families and includes photographs, tax receipts, a marriage certificate, a wedding invitation, a menu from a caterer, a membership certificate, and a handwritten memoir."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Architecture, Domestic |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Dwellings |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Families |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Outdoor recreation"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Street photography |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Tennis |v Pictorial works"
+                }
+            ]
+        },
+        "otherfindaid": {
+            "id": "ref5",
+            "head": "Other Finding Aids"
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref9\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 1: Photographs\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003e0.3 linear feet\u003c/extent\u003e\n                        \u003cextent\u003ein one glass plate negative box and one folder.\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate\u003ecirca 1880\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref10\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003eThis series consists of 47 items including 36 black-and-white glass plate negatives, 10 black-and-white photographic prints (reproduced from the glass plate negatives), and one postcard. The collection documents the Anderson family and their family home that was located at 149 Taylor Street in the Williamsburg neighborhood of Brooklyn. Included in the collection are numerous photographs showing Lewis Nostrand Anderson, as well as informal group portraits. The home at 149 Taylor Street is well-documented in the collection and includes both front and back views of the house. Views of the Prospect Park lawn tennis courts, as well as images of Lewis Nostrand Anderson, his cousin Albert Wade, Helen Brown, and others in lawn tennis attire are also represented in the collection. The collection also documents Anderson family holidays spent in Sea Cliff, Long Island, N.Y. and in Watkins Glen, N.Y. This series is entirely comprised of the accession V1974.011.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref11\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 2: Lewis Pease Nostrand memoir\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003e0.1 linear feet\u003c/extent\u003e\n                        \u003cextent\u003ein one folder.\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate normal=\"1897/1897\"\u003e1897\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref12\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003eThis series consists of a handwritten memoir of Lewis Pease Nostrand. Written in 1897 when he was 74 years old, the memoir provides reminiscences of his life including descriptions of Brooklyn before it was incorporated into New York City; his Brooklyn Heights neighborhood as experienced as a child; the loss of his father when he was seven years old; his church affiliations and attendance; and how he rose from errand boy to a partner in the cork importing business, Truslow \u0026amp; Nostrand. Nostrand's memoir also includes reminiscences of his marriage and family life including the day he purchased the family home located at 149 Taylor Street in Williamsburg. The memoir is dedicated to his three daughters Heattie, Millie, and Minnie. The series also includes a six-page partial transcription of the 69-page memoir.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref13\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 3: Peter and Maria Anderson papers\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003e0.1 linear feet\u003c/extent\u003e\n                        \u003cextent\u003ein one folder.\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate normal=\"1844/1863\" type=\"inclusive\"\u003e1844-1863\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref14\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003eThis series consists of tax records, dating from 1844 to 1863, pertaining to real estate located on Boerum Street in Williamsburg, Brooklyn. The tax records name Peter Anderson, Maria Anderson, and Daniel Fish. The series also contains the marriage certificate of Peter and Maria Anderson, issued in 1855, though they were married on December 20, 1847.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref17\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 4: Miscellaneous family papers\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003e0.03 linear feet\u003c/extent\u003e\n                        \u003cextent\u003ethree items housed in one folder.\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate\u003ecirca 1879 to 1914\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref18\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003eThis series contains a wedding announcement addressed to Lewis P. Nostrand for the wedding of Rev. William H. Hoag and Millie A. Nostrand, 1879; a membership receipt to the Hanover Club in Brooklyn for Dr. Lewis N. Anderson, 1914; and a handwritten menu and cost estimate from Kiefer Caterer, located at 1074 Fulton Street in Brooklyn, to Dr. Lewis Anderson, undated.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

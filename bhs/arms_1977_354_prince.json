@@ -1,0 +1,160 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1977_354_prince"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Christopher Prince log book synopsis\n                    \u003cnum\u003e1977.354\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "June 28, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-11T14:04-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Prince, Christopher, 1751-1832"
+                    }
+                },
+                "unittitle": {
+                    "value": "Christopher Prince log book synopsis"
+                },
+                "unitdate": {
+                    "normal": "1806/1823",
+                    "type": "inclusive",
+                    "value": "1806-1823"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.01 Linear feet"
+                        },
+                        {
+                            "value": "in one folder."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "1977.354"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid861003",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "A0068"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref5",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Christopher Prince log book synopsis, 1977.354, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref4",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Duffield Prince, 1946."
+            }
+        },
+        "bioghist": {
+            "id": "ref3",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Born in Kingston, MA in 1751, Christopher Prince was a mariner and activist in the seamen's religious movement. He commanded ships owned or managed by N.L. and G. Griswold of 72 South Street in New York, N.Y. Prince died in New York in 1832."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "This collection consists of two photostat copies of a typescript synopsis of the log books kept by Christopher Prince on his journeys as captain of various ships throughout the period 1806 to 1823. The last page also includes a brief chronological list with names of ships and ports visited. The compiler of the typescript and the location of Prince's original log book are unkown."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Ocean travel"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Sailors |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Seafaring life"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Ships |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Voyages and travels"
+                }
+            ]
+        },
+        "dsc": {}
+    }
+}

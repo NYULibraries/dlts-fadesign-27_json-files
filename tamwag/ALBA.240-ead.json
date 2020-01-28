@@ -1,0 +1,151 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "alba_240"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Mito Kruth Papers\n                    \u003cnum\u003eALBA.240\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Susan Tofte"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "2009"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-28T16:58-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Kruth, Mito, 1899-"
+                    }
+                },
+                "unittitle": {
+                    "value": "Mito Kruth Papers"
+                },
+                "unitdate": {
+                    "normal": "1912/1986",
+                    "type": "inclusive",
+                    "value": "1912-1986, (Bulk 1926-1950)"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.75 linear feet"
+                        },
+                        {
+                            "value": "(2 boxes)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Mito Kruth was a Finnish-American who fought as a volunteer in the Spanish Civil War, first in the Washington Battalion and later in the Abraham, Lincoln Brigade. This collection contains letters he wrote during his time in Spain, as well as correspondence from the mid-1930s when he worked in Michigan as an organizer for the Communist Party. Kruth's letters reflect his dedication to the Communist Party, as well as his identity as a Finnish-American. Mito and his wife Helen (later Helen Leiviska) traveled extensively, both in Europe and in the United States, and their correspondence documents their travels. The collection also includes Mito Kruth's passport, his father's naturalization papers from 1912, and various documents from Finnish-American organizations. Throughout many periods of his life, Mito went by the first name Neils."
+                },
+                "unitid": {
+                    "value": "ALBA.240"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref5",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open for research without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "ref51",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: \n                \u003clb/\u003e\n                \u003clb/\u003eIdentification of item, date; Collection name; Collection number; box number; folder number; \n                \u003clb/\u003eTamiment Library/Robert F. Wagner Labor Archives \n                \u003clb/\u003eElmer Holmes Bobst Library \n                \u003clb/\u003e70 Washington Square South \n                \u003clb/\u003eNew York, NY 10012, New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "ref8",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "The date of Mito Kruth's death is not known, but in the mid- or late 1970s Helen married George Leiviska, another veteran of the Lincoln Brigade. The couple resided for some years in Minneapolis. George Leiviska died in 1982."
+            }
+        },
+        "scopecontent": {
+            "id": "ref9",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "\n                \u003cemph render=\"bold\"\u003eSeries II: Subject Files\u003c/emph\u003econtains Frank Kruth's naturalization papers, Mito's passport, the mortgage and deeds to his land in Trumansburg, New York, and various documents from Finnish-American organizations. There is also a sampling of maps and postcards from the Kruths' travels abroad."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Finnish American newspapers."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Finnish Americans."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Abraham Lincoln Brigade."
+            }
+        },
+        "dsc": {
+            "value": "\n            \u003cc01 id=\"ref15\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries I: Correspondence,1926-1982\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                \u003c/did\u003e\n                \u003cc02 id=\"ref16\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eArvola, Ranse Edward to Helen Kruth\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid82883\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid82883\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"1937/1938\" type=\"inclusive\"\u003e1937-1938\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref17\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eKruth, Helen to George Leiviska (Brother)\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid82882\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid82882\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate normal=\"1974/1974\"\u003e1974\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref18\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eKruth, Helen to Mito Kruth\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid82881\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid82881\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate\u003eMar 1948-Apr 1948\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref19\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eKruth, Helen to Mito Kruth\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid82880\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid82880\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate\u003eMay 1948-Jun 1948\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref20\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eKruth, Helen to Mito Kruth\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid82879\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid82879\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate\u003eJul 1948-Aug 1948\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref21\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eKruth, Helen to Mito Kruth\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid82878\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid82878\" type=\"Folder\"\u003e6\u003c/container\u003e\n                        \u003cunitdate\u003eSep 1948-Dec 1948\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref22\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eKruth, Mito to Helen\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid82877\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid82877\" type=\"Folder\"\u003e7\u003c/container\u003e\n                        \u003cunitdate normal=\"1926/1926\"\u003e1926\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref23\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eKruth, Mito to Helen\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid82876\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid82876\" type=\"Folder\"\u003e8\u003c/container\u003e\n                        \u003cunitdate normal=\"1935/1935\"\u003eApr 1905\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref24\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eKruth, Mito to Helen\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid82875\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid82875\" type=\"Folder\"\u003e9\u003c/container\u003e\n                        \u003cunitdate\u003eApr 1937-May 1937\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref25\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eKruth, Mito to Helen\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid82874\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid82874\" type=\"Folder\"\u003e10\u003c/container\u003e\n                        \u003cunitdate\u003eJun 1937-Jul 1937\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref26\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eKruth, Mito to Helen\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid82873\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid82873\" type=\"Folder\"\u003e11\u003c/container\u003e\n                        \u003cunitdate\u003eAug 1937-Sep 1937\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref27\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eKruth, Mito to Helen\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid82872\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid82872\" type=\"Folder\"\u003e12\u003c/container\u003e\n                        \u003cunitdate\u003eOct 1937-Dec 1937\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref28\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eKruth, Mito to Helen\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid82871\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid82871\" type=\"Folder\"\u003e13\u003c/container\u003e\n                        \u003cunitdate normal=\"1938/1938\"\u003e1938\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref29\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eKruth, Mito to Helen\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid82870\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid82870\" type=\"Folder\"\u003e14\u003c/container\u003e\n                        \u003cunitdate normal=\"1940/1940\"\u003e1940\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref30\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eKruth, Mito to Helen\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid82869\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid82869\" type=\"Folder\"\u003e15\u003c/container\u003e\n                        \u003cunitdate normal=\"1941/1941\"\u003e1941\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref31\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eKruth, Mito to Helen\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid82868\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid82868\" type=\"Folder\"\u003e16\u003c/container\u003e\n                        \u003cunitdate normal=\"1945/1945\"\u003e1945\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref32\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eKruth, Mito to Helen\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid82867\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid82867\" type=\"Folder\"\u003e17\u003c/container\u003e\n                        \u003cunitdate normal=\"1946/1946\"\u003e1946\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref33\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eKruth, Mito to Helen\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid82866\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid82866\" type=\"Folder\"\u003e18\u003c/container\u003e\n                        \u003cunitdate normal=\"1948/1948\"\u003e1948\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref34\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eKruth, Mito to Helen\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid82865\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid82865\" type=\"Folder\"\u003e19\u003c/container\u003e\n                        \u003cunitdate normal=\"1961/1964\" type=\"inclusive\"\u003e1961-1964\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref35\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eKruth, Mito to Helen\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid82864\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid82864\" type=\"Folder\"\u003e20\u003c/container\u003e\n                        \u003cunitdate normal=\"1912/1986\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref36\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMaki, Martin D. to Helen\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid82863\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid82863\" type=\"Folder\"\u003e21\u003c/container\u003e\n                        \u003cunitdate normal=\"1942/1943\" type=\"inclusive\"\u003e1942-1943\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref37\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eVarious Correspondents to Helen Kruth Leiviska and Mito Kruth\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid82862\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid82862\" type=\"Folder\"\u003e22\u003c/container\u003e\n                        \u003cunitdate normal=\"1912/1986\" type=\"inclusive\"\u003eundated , 1938-1982\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref38\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePostcards\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid82861\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid82861\" type=\"Folder\"\u003e23\u003c/container\u003e\n                        \u003cunitdate normal=\"1912/1986\" type=\"inclusive\"\u003eundated , 1946-1986\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n            \u003c/c01\u003e\n            \u003cc01 id=\"ref39\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries II: Subject Files, 1912-1986\u003c/unittitle\u003e\n                    \u003clangmaterial\u003e\n                        \u003clanguage langcode=\"eng\"/\u003e\n                    \u003c/langmaterial\u003e\n                \u003c/did\u003e\n                \u003cc02 id=\"ref40\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCertificate of Naturalization - Frank Valentin Kruth\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid82860\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid82860\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"1912/1912\"\u003e1912\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref41\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eFarm Policy at the Democratic Advance Platform Committee Hearing\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid82859\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid82859\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate\u003eMay 6, 1960\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref42\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eFinnish-American Mutual Aid Society\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid82858\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid82858\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate normal=\"1945/1945\"\u003e1945\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref43\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eFinnish Relief Fund\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid82857\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid82857\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate normal=\"1939/1939\"\u003e1939\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref44\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eFinnish Writings\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid82856\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid82856\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate normal=\"1912/1986\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref45\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eNational Committee of Finnish-American Trade Unionists\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid82855\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid82855\" type=\"Folder\"\u003e6\u003c/container\u003e\n                        \u003cunitdate normal=\"1943/1943\"\u003e1943\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref46\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePassport\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid82854\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid82854\" type=\"Folder\"\u003e7\u003c/container\u003e\n                        \u003cunitdate normal=\"1961/1961\"\u003e1961\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref47\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePersonal Documents\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid82853\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid82853\" type=\"Folder\"\u003e8\u003c/container\u003e\n                        \u003cunitdate normal=\"1949/1950\" type=\"inclusive\"\u003e1949-1950\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref48\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eToveritar: Organ of the Finnish Working Women in America\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid82852\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid82852\" type=\"Folder\"\u003e9\u003c/container\u003e\n                        \u003cunitdate normal=\"1928/1928\"\u003e1928\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref49\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eTravels: Maps, Postcards, etc.\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid82851\" type=\"Box\" label=\"Mixed materials\"\u003e2\u003c/container\u003e\n                        \u003ccontainer parent=\"cid82851\" type=\"Folder\"\u003e10\u003c/container\u003e\n                        \u003cunitdate normal=\"1912/1986\" type=\"inclusive\"\u003eundated\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n            \u003c/c01\u003e\n        "
+        }
+    }
+}

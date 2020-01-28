@@ -1,0 +1,185 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "arc_142_pelletreau"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Pelletreau family papers. \u003cnum\u003eARC.142\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Rachel M. Oleaga"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "Brooklyn Historical Society",
+                        "128 Pierrepont Street",
+                        "Brooklyn 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-11-20T15:56:48\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Pelletreau, Elias"
+                    },
+                    "famname": {
+                        "source": "naf",
+                        "value": "Pelletreau family"
+                    }
+                },
+                "unittitle": {
+                    "value": "Pelletreau family papers"
+                },
+                "unitdate": {
+                    "normal": "1662/1921",
+                    "type": "inclusive",
+                    "value": "1662-1921"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one manuscript box, one oversize flat box, and one box of index cards."
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Pelletreau family papers relate to multiple members of the Pelletreau family of Southampton, NY. A large portion of materials relate specifically to Elias Pelletreau and William S. Pelletreau as well as other members of the Southampton community. The collection includes a set of index cards providing access by individual name to the bulk of the documents.\n\nThis collection is rich with legal and financial documentation that provide insight into the economic and political life of Southampton in Suffolk County, Long Island from the late seventeenth century to the early twentieth century. Document types include wills, deeds, indentures, indentures for apprenticeship, account books, maps and certificates. This collection also contains correspondence, some of which is in French, of the personal and family matters of the Pelletreau family. References to the American Revolution, land deals with the Shinnecock Native American Tribe, sea merchants and whaling as well as African-Americans appear in the collection in various genres of material."
+                },
+                "unitid": {
+                    "value": "ARC.142"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_c245b5536406a9e7f98ab5432c3c9a0e",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_c086ab505f1fd16fbec7f173b1e3ba96",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Pelletreau family papers, ARC.142, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_3e84c57a9fb4c386f0ee884afe6f9960",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "The Pelletreau family papers were received in two different accessions. The family papers were received from Mrs. John Biddle Clark in March of 1922, and the account book was also received in 1922 from Mrs. John A. Clark, niece and estate executor for the estate of William S. Pelletreau."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_c226786832abe5c183ab64181230749e",
+            "head": " Biographical note",
+            "p": {
+                "value": "William Smith Pelletreau (b. 1786) is the father of William Smith Pelletreau, Jr. (b. 1840), an author and family historian, whose specific focus was genealogical history and the history of Southampton. He was an active member of the Long Island Historical Society and New-York Historical Society in his lifetime. The papers in this collection were part of the estate of William Smith Pelletreau, Jr. and were believed to have been used for research of his publications concerning Southampton and the Pelletreau family. "
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_5550d773083d8c525beda781ef3e2f17",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection also contains a variety of miscellaneous materials that may relate to the Pelletreau family, although their relationship is not immediately apparent. Materials include newspaper clippings dated 1921 from the \u003cemph render=\"italic\"\u003eBrooklyn Daily Eagle\u003c/emph\u003e, the abstracts of ancient papers found at Saggaponic, as well as a few materials in French. "
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "aat",
+                    "value": "Deeds"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Militia"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "African Americans |z New York (State) |z Suffolk County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "County courts |z New York (State) |z Suffolk County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Indians of North America |z New York (State) |z Suffolk County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Sailors"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Shinnecock Indians |z New York (State) |z Suffolk County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Genealogy"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Real property |z New York (State) |z Haverstraw |v Maps"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "New York (State). Militia"
+            }
+        },
+        "otherfindaid": {
+            "id": "aspace_480375166fe28293b07e34319e767bb6",
+            "head": "Other Finding Aids"
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref6_ye2\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDeeds - Francis Pelletreau\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"3525\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e3525\u003c/unitid\u003e\u003cunitdate normal=\"1728/1736\" type=\"inclusive\"\u003e1728-1736\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d95c88d0a357f55817c7cabab6001109\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d95c88d0a357f55817c7cabab6001109\" type=\"Folder\"\u003e1\u003c/container\u003e\u003ccontainer altrender=\"Large Flat Box 9\" id=\"aspace_5f506d89d3159eaade0254f8c09471b4\" label=\"Mixed Materials\" type=\"Box\"\u003eOS-32\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref8_z0b\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDeeds - Elias Pelletreau\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"3526\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e3526\u003c/unitid\u003e\u003cunitdate normal=\"1747/1776\" type=\"inclusive\"\u003e1747-1776\u003c/unitdate\u003e\u003ccontainer id=\"aspace_27e13ebc3bce58807542b9f686adf959\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_27e13ebc3bce58807542b9f686adf959\" type=\"Folder\"\u003e2\u003c/container\u003e\u003ccontainer altrender=\"Large Flat Box 9\" id=\"aspace_ee251436c42d887fd46292f33fed9b03\" label=\"Mixed Materials\" type=\"Box\"\u003eOS-32\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref9_sz1\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDeeds - Elias Pelletreau\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"3527\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e3527\u003c/unitid\u003e\u003cunitdate normal=\"1791/1821\" type=\"inclusive\"\u003e1791-1821\u003c/unitdate\u003e\u003ccontainer id=\"aspace_96fd3a844983d7f3c8e06ff90ac5164e\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_96fd3a844983d7f3c8e06ff90ac5164e\" type=\"Folder\"\u003e3\u003c/container\u003e\u003ccontainer altrender=\"Large Flat Box 9\" id=\"aspace_76f7b8bfd05654fe53e67179406855bc\" label=\"Mixed Materials\" type=\"Box\"\u003eOS-32\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref10_d0h\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDeeds - John Pelletreau\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"3528\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e3528\u003c/unitid\u003e\u003cunitdate normal=\"1806/1812\" type=\"inclusive\"\u003e1806-1812\u003c/unitdate\u003e\u003ccontainer id=\"aspace_6cec3fbe5d0dc447b44a86eae4626352\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_6cec3fbe5d0dc447b44a86eae4626352\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref11_ptt\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDeeds - William S. Pelletreau\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"3529\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e3529\u003c/unitid\u003e\u003cunitdate normal=\"1816/1833\" type=\"inclusive\"\u003e1816-1833\u003c/unitdate\u003e\u003ccontainer id=\"aspace_09c2f70ecc1727650eee2fed313f1e2b\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_09c2f70ecc1727650eee2fed313f1e2b\" type=\"Folder\"\u003e5\u003c/container\u003e\u003ccontainer altrender=\"Large Flat Box 9\" id=\"aspace_3bbd5b7d29c4e1c16514a7799652f50e\" label=\"Mixed Materials\" type=\"Box\"\u003eOS-32\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref12_br4\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDeeds - William S. Pelletreau\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"3530\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e3530\u003c/unitid\u003e\u003cunitdate normal=\"1866/1881\" type=\"inclusive\"\u003e1866-1881\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9d46a6ee0a5cffaaf7b9a7a2f515eacd\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_9d46a6ee0a5cffaaf7b9a7a2f515eacd\" type=\"Folder\"\u003e6\u003c/container\u003e\u003ccontainer altrender=\"Large Flat Box 9\" id=\"aspace_56b76188a0d11161529295e7f4c41115\" label=\"Mixed Materials\" type=\"Box\"\u003eOS-32\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref13_bld\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDeeds - Nathaniel and William Smith\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"3531\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e3531\u003c/unitid\u003e\u003cunitdate normal=\"1694/1773\" type=\"inclusive\"\u003e1694-1773\u003c/unitdate\u003e\u003ccontainer id=\"aspace_90ce3bbbe308ca546fd797e0a03bd646\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_90ce3bbbe308ca546fd797e0a03bd646\" type=\"Folder\"\u003e7\u003c/container\u003e\u003ccontainer altrender=\"Large Flat Box 9\" id=\"aspace_196b6c7ee20d8c18f8d9a08897da0f1b\" label=\"Mixed Materials\" type=\"Box\"\u003eOS-32\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14_lyt\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDeeds - Southampton.\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"3532\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e3532\u003c/unitid\u003e\u003cunitdate normal=\"1663/1688\" type=\"inclusive\"\u003e1663-1688\u003c/unitdate\u003e\u003ccontainer id=\"aspace_6d9c4526502f2320c44282400adc73af\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_6d9c4526502f2320c44282400adc73af\" type=\"Folder\"\u003e8\u003c/container\u003e\u003ccontainer altrender=\"Large Flat Box 9\" id=\"aspace_8d2efc746db4c2eaa74a6b2b4f1183e5\" label=\"Mixed Materials\" type=\"Box\"\u003eOS-32\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15_re9\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDeeds - Southampton\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"3533\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e3533\u003c/unitid\u003e\u003cunitdate normal=\"1705/1742\" type=\"inclusive\"\u003e1705-1742\u003c/unitdate\u003e\u003ccontainer id=\"aspace_49fda566500ce79f5717429717d8a5f5\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_49fda566500ce79f5717429717d8a5f5\" type=\"Folder\"\u003e9\u003c/container\u003e\u003ccontainer altrender=\"Large Flat Box 9\" id=\"aspace_18fbc39fabb2d9fc164ed08877993462\" label=\"Mixed Materials\" type=\"Box\"\u003eOS-32\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16_gu8\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDeeds- Southampton.\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"3534\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e3534\u003c/unitid\u003e\u003cunitdate normal=\"1771/1802\" type=\"inclusive\"\u003e1771-1802\u003c/unitdate\u003e\u003ccontainer id=\"aspace_26c6754deea3e7c76a2fbf96aee1cbbb\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_26c6754deea3e7c76a2fbf96aee1cbbb\" type=\"Folder\"\u003e10\u003c/container\u003e\u003ccontainer altrender=\"Large Flat Box 9\" id=\"aspace_bf1ba4405a86e014a96b57926b7ee634\" label=\"Mixed Materials\" type=\"Box\"\u003eOS-32\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17_a78\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eDeeds - Native Americans\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"3535\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e3535\u003c/unitid\u003e\u003cunitdate normal=\"1650/1703\" type=\"inclusive\"\u003e1650-1703\u003c/unitdate\u003e\u003ccontainer id=\"aspace_a423f0f5093eb16826aacb1822f8819d\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_a423f0f5093eb16826aacb1822f8819d\" type=\"Folder\"\u003e11\u003c/container\u003e\u003ccontainer altrender=\"Large Flat Box 9\" id=\"aspace_bd7078bb0e6f92b6caf3e5f9308387c4\" label=\"Mixed Materials\" type=\"Box\"\u003eOS-32\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18_ebl\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLease Agreements\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"3536\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e3536\u003c/unitid\u003e\u003cunitdate normal=\"1838/1859\" type=\"inclusive\"\u003e1838-1859\u003c/unitdate\u003e\u003ccontainer id=\"aspace_cddb58a2e2c96efb98c6e35552d4f2a1\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_cddb58a2e2c96efb98c6e35552d4f2a1\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19_fdn\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSlave Bill of Sale\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"3537\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e3537\u003c/unitid\u003e\u003cunitdate normal=\"1767/1767\"\u003e1767\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4ccb95289a381aa82bd7bdc3dbab4384\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_4ccb95289a381aa82bd7bdc3dbab4384\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21_452\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eIndentures of Apprenticeship\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"3538\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e3538\u003c/unitid\u003e\u003cunitdate normal=\"1741/1813\" type=\"inclusive\"\u003e1741-1813\u003c/unitdate\u003e\u003ccontainer id=\"aspace_6d9a1af1ed147b922840c1c3a6e335f2\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_6d9a1af1ed147b922840c1c3a6e335f2\" type=\"Folder\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref36_owh\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAccount Book - Elias Pelletreau\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"3552\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e3552\u003c/unitid\u003e\u003cunitdate normal=\"1766/1783\" type=\"inclusive\"\u003e1766-1783\u003c/unitdate\u003e\u003ccontainer id=\"aspace_52cbb24506fa7d574f15b0eca3cfb148\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_52cbb24506fa7d574f15b0eca3cfb148\" type=\"Folder\"\u003e15\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref47_9x7\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAccounts\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"3578\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e3578\u003c/unitid\u003e\u003cunitdate normal=\"1732/1762\" type=\"inclusive\"\u003ecirca 1732-1762\u003c/unitdate\u003e\u003ccontainer id=\"aspace_bae25a3d25253e426c393680cd0d0801\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_bae25a3d25253e426c393680cd0d0801\" type=\"Folder\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref37_zzl\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eBills and Receipts\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"3553\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e3553\u003c/unitid\u003e\u003cunitdate normal=\"1731/1830\" type=\"inclusive\"\u003e1731-1830\u003c/unitdate\u003e\u003ccontainer id=\"aspace_79a37d91b96422414eb876221e09b2da\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_79a37d91b96422414eb876221e09b2da\" type=\"Folder\"\u003e17\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22_rj4\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence - Francis Pelletreau\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"3539\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e3539\u003c/unitid\u003e\u003cunitdate normal=\"1731/1737\" type=\"inclusive\"\u003e1731-1737\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1eaec2b573c7f50ca7bd89fe756e8517\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1eaec2b573c7f50ca7bd89fe756e8517\" type=\"Folder\"\u003e18\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23_fzo\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence - Elias Pelletreau\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"3540\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e3540\u003c/unitid\u003e\u003cunitdate normal=\"1760/1794\" type=\"inclusive\"\u003e1760-1794\u003c/unitdate\u003e\u003ccontainer id=\"aspace_47c0c536d04f05e791c6fdffef9f8fa7\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_47c0c536d04f05e791c6fdffef9f8fa7\" type=\"Folder\"\u003e19\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24_ib0\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence - John Pelletreau\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"3541\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e3541\u003c/unitid\u003e\u003cunitdate normal=\"1804/1818\" type=\"inclusive\"\u003e1804-1818\u003c/unitdate\u003e\u003ccontainer id=\"aspace_b60fa988e3f4311281141c79cec32e4a\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_b60fa988e3f4311281141c79cec32e4a\" type=\"Folder\"\u003e20\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25_r2m\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence - William S. Pelletreau\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"3542\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e3542\u003c/unitid\u003e\u003cunitdate normal=\"1837/1840\" type=\"inclusive\"\u003e1837-1840\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e4073e99d0adbf8378f081f3979a057e\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e4073e99d0adbf8378f081f3979a057e\" type=\"Folder\"\u003e21\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref26_dfo\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence - William S. Pelletreau\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"3543\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e3543\u003c/unitid\u003e\u003cunitdate normal=\"1865/1888\" type=\"inclusive\"\u003e1865-1888\u003c/unitdate\u003e\u003ccontainer id=\"aspace_83a0f0ea7836e381d57fc5c04e86f515\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_83a0f0ea7836e381d57fc5c04e86f515\" type=\"Folder\"\u003e22\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27_62z\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence - Pelletreau family\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"3544\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e3544\u003c/unitid\u003e\u003cunitdate normal=\"1732/1814\" type=\"inclusive\"\u003e1732-1814\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7249df080c4929df9adf77ac81739c50\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_7249df080c4929df9adf77ac81739c50\" type=\"Folder\"\u003e23\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref29_mi5\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence - Miscellaneous\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"3545\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e3545\u003c/unitid\u003e\u003cunitdate normal=\"1722/1917\" type=\"inclusive\"\u003e1722-1917, undated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_27145b7e87fc00d9807b4bd630480840\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_27145b7e87fc00d9807b4bd630480840\" type=\"Folder\"\u003e24\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref30_9ie\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eEstate Matters - Elias Pelletreau\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"3546\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e3546\u003c/unitid\u003e\u003cunitdate normal=\"1728/1832\" type=\"inclusive\"\u003e1728-1832\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7f9e441489da9b76304796da41c6975e\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_7f9e441489da9b76304796da41c6975e\" type=\"Folder\"\u003e25\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref31_nvh\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eEstate Matters - John Pelletreau\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"3547\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e3547\u003c/unitid\u003e\u003cunitdate normal=\"1813/1823\" type=\"inclusive\"\u003e1813-1823\u003c/unitdate\u003e\u003ccontainer id=\"aspace_323f02fd33ed24412637e9a48a14738b\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_323f02fd33ed24412637e9a48a14738b\" type=\"Folder\"\u003e26\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref32_ylb\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eEstate Matters - John Smith and Sarah Pelletreau\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"3548\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e3548\u003c/unitid\u003e\u003cunitdate normal=\"1828/1839\" type=\"inclusive\"\u003e1828-1839\u003c/unitdate\u003e\u003ccontainer id=\"aspace_900fab2fbe9fa0a292f2bd1da0dfce9f\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_900fab2fbe9fa0a292f2bd1da0dfce9f\" type=\"Folder\"\u003e27\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref33_95g\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eEstate Matters - William S. Pelletreau\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"3549\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e3549\u003c/unitid\u003e\u003cunitdate normal=\"1820/1842\" type=\"inclusive\"\u003ecirca 1820-1842\u003c/unitdate\u003e\u003ccontainer id=\"aspace_81af3b24d7ee54b161b55032ab48cd69\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_81af3b24d7ee54b161b55032ab48cd69\" type=\"Folder\"\u003e28\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref34_zks\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eEstate Matters - Charles Pelletreau\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"3550\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e3550\u003c/unitid\u003e\u003cunitdate normal=\"1840/1863\" type=\"inclusive\"\u003e1840-1863\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4ef9074cef0783f409c69b02801767bf\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_4ef9074cef0783f409c69b02801767bf\" type=\"Folder\"\u003e29\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref35_zrr\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eEstate Materials - Miscellaneous\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"3551\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e3551\u003c/unitid\u003e\u003cunitdate normal=\"1724/1756\" type=\"inclusive\"\u003e1724-1756\u003c/unitdate\u003e\u003ccontainer id=\"aspace_29bffaaaa4cc3ee250cb3465d34b1682\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_29bffaaaa4cc3ee250cb3465d34b1682\" type=\"Folder\"\u003e30\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref49_p4v\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCourt Decisions and Appeals - Suffolk County\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"3580\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e3580\u003c/unitid\u003e\u003cunitdate normal=\"1741/1790\" type=\"inclusive\"\u003e1741-1790\u003c/unitdate\u003e\u003ccontainer id=\"aspace_824441ca183c210280a0b3f1867e9e1a\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_824441ca183c210280a0b3f1867e9e1a\" type=\"Folder\"\u003e31\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref48_9oj\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCertificates of Appointment - John Pelletreau\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"3579\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e3579\u003c/unitid\u003e\u003cunitdate normal=\"1706/1798\" type=\"inclusive\"\u003e1706-1798\u003c/unitdate\u003e\u003ccontainer id=\"aspace_848ce68e6310b2738a018be838f4962b\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_848ce68e6310b2738a018be838f4962b\" type=\"Folder\"\u003e32\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref39_5s1\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCertificates - William S. Pelletreau\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"3554\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e3554\u003c/unitid\u003e\u003cunitdate normal=\"1863/1894\" type=\"inclusive\"\u003e1863-1894\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f22d6feee1922bca3041f73c8ba3a006\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f22d6feee1922bca3041f73c8ba3a006\" type=\"Folder\"\u003e33\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref56_et2\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAmerican Seamen Citizenship Certifications\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"3626\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e3626\u003c/unitid\u003e\u003cunitdate normal=\"1809/1820\" type=\"inclusive\"\u003e1809-1820\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1d3b7764a681de59e510f64b900636a2\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1d3b7764a681de59e510f64b900636a2\" type=\"Folder\"\u003e34\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref41_sac\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRevolutionary War Materials\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"3556\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e3556\u003c/unitid\u003e\u003cunitdate normal=\"1756/1780\" type=\"inclusive\"\u003e1756-1780\u003c/unitdate\u003e\u003ccontainer id=\"aspace_195f19c501ffa402989081fa33dbb74d\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_195f19c501ffa402989081fa33dbb74d\" type=\"Folder\"\u003e35\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref40_u5b\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eGenealogies\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"3555\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e3555\u003c/unitid\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_370753b735c891afd410a6a0c578e18c\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_370753b735c891afd410a6a0c578e18c\" type=\"Folder\"\u003e36\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref44_i2r\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMiscellaneous\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"3558\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e3558\u003c/unitid\u003e\u003cunitdate normal=\"1696/1921\" type=\"inclusive\"\u003e1696-1921, undated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_8f7a33ec1ad20b8b8e115063c798e22d\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_8f7a33ec1ad20b8b8e115063c798e22d\" type=\"Folder\"\u003e37\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref42_fo8\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMiscellaneous - French\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"3557\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e3557\u003c/unitid\u003e\u003cunitdate normal=\"1571/1637\" type=\"inclusive\"\u003e1571-1637\u003c/unitdate\u003e\u003ccontainer id=\"aspace_7e41e55a3bdd50ac93143d2612ad7059\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_7e41e55a3bdd50ac93143d2612ad7059\" type=\"Folder\"\u003e38\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref46_41i\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMaps\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"3560\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e3560\u003c/unitid\u003e\u003cunitdate normal=\"1761/1904\" type=\"inclusive\"\u003e1761-1904\u003c/unitdate\u003e\u003ccontainer id=\"aspace_c0900b9fac2e0ea3ef5a40a60e5a2088\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_c0900b9fac2e0ea3ef5a40a60e5a2088\" type=\"Folder\"\u003e39\u003c/container\u003e\u003ccontainer altrender=\"Large Flat Box 9\" id=\"aspace_7ffc03991c9b6c44104b39f80d7928a8\" label=\"Mixed Materials\" type=\"Box\"\u003eOS-32\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref70_5j7\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCard index to collection\u003c/unittitle\u003e\u003cunitid audience=\"internal\" identifier=\"4402\" type=\"Archivists Toolkit Database::RESOURCE_COMPONENT\"\u003e4402\u003c/unitid\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer altrender=\"Shoe Box 9\" id=\"aspace_71b947f552a3ce8b8488abd3873dbf23\" label=\"Mixed Materials\" type=\"Box\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

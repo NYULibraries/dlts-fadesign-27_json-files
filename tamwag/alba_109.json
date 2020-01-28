@@ -1,0 +1,148 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "alba_109"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Leonard Sloan Torgoff Papers \u003cnum\u003eALBA.109\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Wendy Scheir"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-08-08T15:59:06\u003c/date\u003e"
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "encodinganalog": "546",
+                        "langcode": "eng",
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Torgoff, Leonard Sloan, 1916-1937"
+                    }
+                },
+                "unittitle": {
+                    "value": "Leonard Sloan Torgoff Papers"
+                },
+                "unitdate": {
+                    "normal": "1928/1936",
+                    "type": "inclusive",
+                    "value": "1928-1936"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Leonard Sloan Torgoff (1916-1937) went to Spain in January 1937 to join the International Brigades in the Spanish Civil War. The following month he was killed when his truck was ambushed during the Battle of Jarama. This collection contains correspondence and other materials dating from Torgoff's high school and college years, including examples of Torgoff's published and unpublished writings."
+                },
+                "unitid": {
+                    "value": "ALBA.109"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_0f1f7e8b73390bd80b01f1a0da683f31",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Materials are open to researchers. Please contact the Tamiment Library \u0026amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_d926f5d4477a077ea39db477626be452",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: \u003clb/\u003e\u003clb/\u003eIdentification of item, date; Collection name; Collection number; box number; folder number; \u003clb/\u003eTamiment Library/Robert F. Wagner Labor Archives \u003clb/\u003eElmer Holmes Bobst Library \u003clb/\u003e70 Washington Square South \u003clb/\u003eNew York, NY 10012, New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_3f5a75e475fe1a29cbfc8135676aa1f3",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Torgoff went by the nickname Leo or Leon; Sloan was his mother's maiden name."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_8c32e3a7ab67569ca1035eaaa6388a64",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "S \u003cemph render=\"bold\"\u003eeries II: Writings, 1932-1936\u003c/emph\u003e. This series contains examples of Torgoff's published and unpublished writings, and includes essays, poetry, short stories, and notes. Also included are Torgoff's \"Moods and Muses\" columns, written while attending the University of Denver; and a number of papers written for school."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Spain -- History -- Civil War, 1936-1939."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Spain. Ejercito Popular de la Republica. Abraham Lincoln Battalion"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref15\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: Subject Files, 1928-1936\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref16\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eClippings\u003c/unittitle\u003e\u003cunitdate normal=\"1928/1936\" type=\"inclusive\"\u003eundated , 1932-1935\u003c/unitdate\u003e\u003ccontainer id=\"aspace_01b8ff55e9ded9ddf036fa708e06ac61\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_01b8ff55e9ded9ddf036fa708e06ac61\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence: General\u003c/unittitle\u003e\u003cunitdate normal=\"1928/1936\" type=\"inclusive\"\u003eundated , Aug 1928-Sep 1936\u003c/unitdate\u003e\u003ccontainer id=\"aspace_4dc7e8ad42cec972860dc91431b196ab\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_4dc7e8ad42cec972860dc91431b196ab\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence: Torgoff, Leonard (outgoing)\u003c/unittitle\u003e\u003cunitdate normal=\"1928/1936\" type=\"inclusive\"\u003eundated , May 1933-Sep 1936\u003c/unitdate\u003e\u003ccontainer id=\"aspace_25d3d7c670fdcda0a2e54a08afbaf8c0\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_25d3d7c670fdcda0a2e54a08afbaf8c0\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eHigh school certificate and diploma\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eApr 1932-Jun 1932\u003c/unitdate\u003e\u003ccontainer id=\"aspace_cbab997442f5154be672006d4f17bd89\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_cbab997442f5154be672006d4f17bd89\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eHigh school yearbook\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eJun 1932\u003c/unitdate\u003e\u003ccontainer id=\"aspace_53abc3c5d8aab52e93d4a6eeec353f79\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_53abc3c5d8aab52e93d4a6eeec353f79\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMemorabilia and membership card\u003c/unittitle\u003e\u003cunitdate normal=\"1928/1936\" type=\"inclusive\"\u003eundated , 1936\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ef058f94ffa4ec5f1db8a785d5d08dc4\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ef058f94ffa4ec5f1db8a785d5d08dc4\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries II: Writings, 1932-1936\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_ref23\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eArticle (published)\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eMay 1935\u003c/unitdate\u003e\u003ccontainer id=\"aspace_3b8c940cc5c6711adfd5d143a76a1734\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_3b8c940cc5c6711adfd5d143a76a1734\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eFiction and other prose (typescripts)\u003c/unittitle\u003e\u003cunitdate normal=\"1928/1936\" type=\"inclusive\"\u003eundated , Dec 1932-Oct 1936\u003c/unitdate\u003e\u003ccontainer id=\"aspace_d183b599f9bc135285d3a86271f48959\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d183b599f9bc135285d3a86271f48959\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMoods and Muses: Notes and drafts\u003c/unittitle\u003e\u003cunitdate normal=\"1934/1935\" type=\"inclusive\"\u003e1934-1935\u003c/unitdate\u003e\u003ccontainer id=\"aspace_1a99ab14cd8d200200dceb387c17819f\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1a99ab14cd8d200200dceb387c17819f\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref26\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMoods and Muses: Published articles\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eDec 1934-May 1935\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e383626752e176d87abe2f0ad924a18b\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e383626752e176d87abe2f0ad924a18b\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNotes and fragments (handwritten); and sketches\u003c/unittitle\u003e\u003cunitdate normal=\"1928/1936\" type=\"inclusive\"\u003eundated , Jan 1934-Feb 1936\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9ee7f3eb83a906523d8bc97681d015ae\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_9ee7f3eb83a906523d8bc97681d015ae\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref28\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePoetry (handwritten)\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003eMay 1934\u003c/unitdate\u003e\u003ccontainer id=\"aspace_34769ec849958cc7fc75f485fd134056\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_34769ec849958cc7fc75f485fd134056\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref29\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003ePoetry (typescripts)\u003c/unittitle\u003e\u003cunitdate normal=\"1928/1936\" type=\"inclusive\"\u003eundated , Nov 1933-Jun 1935\u003c/unitdate\u003e\u003ccontainer id=\"aspace_8be6a789273d0f6579b9f3efaaa88e93\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_8be6a789273d0f6579b9f3efaaa88e93\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref30\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSchool papers\u003c/unittitle\u003e\u003cunitdate normal=\"1928/1936\" type=\"inclusive\"\u003eundated , Jun 1934\u003c/unitdate\u003e\u003ccontainer id=\"aspace_0c646b31680fcc9bf20c9b3ce39f74e8\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0c646b31680fcc9bf20c9b3ce39f74e8\" type=\"Folder\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

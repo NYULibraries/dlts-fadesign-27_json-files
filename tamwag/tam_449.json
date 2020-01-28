@@ -1,0 +1,133 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_449"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Collection of Mary K. Simkhovitch Correspondence \u003cnum\u003eTAM 449\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-06-07T18:38:06\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Collection of Mary K. Simkhovitch Correspondence"
+                },
+                "unitdate": {
+                    "normal": "1946/1951",
+                    "type": "inclusive",
+                    "value": "1946-1951"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "TAM 449"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_fb5f185ea5cd96d8f03eda68f542fcc2",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_0f8870ac1c5eb2161963015f10f9b85a",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_927510674da27d8008fca74721aa1a4a",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Betty Caroli, date unknown. The accession number associated with this gift is 2008.037."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_011d61d0995a83cdb86c0101f9fd6693",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Mary Kingsbury Simkhovitch (1867-1951) was one of the founders and longtime head of Greenwich House, a social settlement house in the Greenwhich Village area of New York City."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_fc38123c36b49b9b824e4d66f4dfdd3a",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This small collection contains some of the correspondence of Simkhovitch, and letters to Simkovitch, including one from Harry S. Truman."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Social settlements -- New York (State) -- New York."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Greenwich House (New York, N.Y.)"
+            }
+        },
+        "dsc": {}
+    }
+}

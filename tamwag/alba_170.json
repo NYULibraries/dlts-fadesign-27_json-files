@@ -1,0 +1,128 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "alba_170"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Milton Wolff Papers \u003cnum\u003eALBA.170\u003c/num\u003e"
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace\n        \u003cdate\u003e2017-08-09T17:38:28\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Wolff, Milton."
+                    }
+                },
+                "unittitle": {
+                    "value": "Milton Wolff Papers"
+                },
+                "unitdate": {
+                    "normal": "1938/2004",
+                    "type": "inclusive",
+                    "value": "1938-2004"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": " in 1 manuscript box."
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Milton Wolff (1915-2008) was a writer,\n        painter, photographer and activist who fought with the Abraham Lincoln Brigade, becoming\n        commander of the Lincoln Battalion at the age of 22 and, subsequently, serving as National\n        Commander of the Veterans of the Abraham Lincoln Brigade. He worked closely with many\n        leftist groups, supported numerous left causes and wrote articles for periodicals such as\n        the \u003cemph render=\"italic\"\u003eDaily Worker\u003c/emph\u003e and the \u003cemph render=\"italic\"\u003eNew\n          Masses\u003c/emph\u003e. He also published an autobiographical novel and a volume of memoirs. This\n        collection features eight letters from Ernest Hemingway. It also includes a small amount of\n        additional correspondence along with several notebooks and two unpublished manuscripts.\n      "
+                },
+                "unitid": {
+                    "value": "ALBA.170"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_253dd42d8b582d1e832719c6dc9cf51a",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Materials are open to researchers. Please contact the Tamiment Library \u0026amp; Robert F.\n        Wagner Labor Archives for more information and to schedule an appointment,\n        tamiment.wagner@nyu.edu or 212-998-2630."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_96232428cdb6689be0f21a50da2e5cf9",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: \u003clb/\u003e\u003clb/\u003eIdentification of item, date;\n        Collection name; Collection number; box number; folder number; Tamiment Library/Robert F.\n        Wagner Labor Archives, New York University."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_dc6b3a181b1d258d01c7c43bb09ba8f2",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "After the War he found a variety of jobs, and developed his talents as a writer, painter,\n        and photographer. Among his published works are many articles in the \u003cemph render=\"italic\"\n          \u003eDaily Worker\u003c/emph\u003e, the \u003cemph render=\"italic\"\u003eNew Masses\u003c/emph\u003e, and other left\n        periodicals, and an autobiographical novel, \u003cemph render=\"italic\"\u003eAnother Hill\u003c/emph\u003e\n        (1994), and a volume of memoirs, \u003cemph render=\"italic\"\u003eMember of the Working Class\u003c/emph\u003e\n        (2005)."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_49e4c3da1fd000f791e901c58e0b6a52",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "This small collection includes eight letters from Ernest Hemingway, 1941-1961 (7 are\n        copies, 1 is a signed original, dated August 25, 1941), and single letters by Bernard\n        Goldring (1964), Bart van der Schelling (1959), and William Donovan (1945). Also included is\n        a copy of the \"Orders of the Day\" listing officers of the 15th International Brigade, April\n        9, 1938. Two notebooks dating from the 1980s and 90s contain Wolff's notes on reading,\n        sketches, and some political comments. Two unpublished manuscripts by Wolff, \"The Premature\n        Anti-Fascist\" and \"Member of the Working Class\", are also included."
+            }
+        },
+        "controlaccess": {
+            "corpname": {
+                "source": "naf",
+                "value": "Abraham Lincoln Brigade Archives"
+            }
+        },
+        "dsc": {}
+    }
+}

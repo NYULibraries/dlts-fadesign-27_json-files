@@ -1,0 +1,141 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "tam_520"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Noam Chomsky: Materials Relating to the Faurisson Case\n                    \u003cnum\u003eTAM.520\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Jan Hilley"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "11/24/09"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T19:53-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Chomsky, Noam."
+                    }
+                },
+                "unittitle": {
+                    "value": "Chomsky, Noam: Materials Relating to the Faurisson Case"
+                },
+                "unitdate": {
+                    "normal": "1980/1994",
+                    "type": "inclusive",
+                    "value": "1980-1994"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.25 linear feet"
+                        },
+                        {
+                            "value": "(I box)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "This collection contains material relating to a controversy surrounding Noam Chomsky's defense of the civil liberties of Professor Robert Faurisson, a French Holocaust revisionist. Articles from the conservative Australian periodical \n                \u003cemph render=\"italic\"\u003eQuadrant\u003c/emph\u003e and an excerpt from the book \n                \u003cemph render=\"italic\"\u003eDroit et Histoire\u003c/emph\u003e, by Pierre Guillaume, address this episode, and are accompanied by copies of correspondence discussing Chomsky's opinions and actions."
+                },
+                "unitid": {
+                    "value": "TAM.520"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid18883002",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref10",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Open for research without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "ref12",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: \n                \u003clb/\u003e\n                \u003clb/\u003eIdentification of item, date; Collection name; Collection number; box number; folder number; \n                \u003clb/\u003eTamiment Library/Robert F. Wagner Labor Archives \n                \u003clb/\u003eElmer Holmes Bobst Library \n                \u003clb/\u003e70 Washington Square South \n                \u003clb/\u003eNew York, NY 10012, New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "ref15",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Robert Faurisson continues to express his views and, as recently as 2006, was given a three-month suspended sentence by a Paris correctional court for denying the Holocaust on an Iranian television channel."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "The remainder of the collection consists of copies of correspondence between Chomsky and each of the three professors -- Werner Cohn, George Glauberman and W. D. Rubinstein."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Holocaust, Jewish (1939-1945)"
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\n            \u003cc01 id=\"ref2\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries I: Noam Chomsky Materials Relating to Faurisson Case\u003c/unittitle\u003e\n                    \u003cunitdate normal=\"1980/1994\" type=\"inclusive\"\u003e1980-1994\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cc02 id=\"ref3\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eArticles from \n                            \u003cemph render=\"italic\"\u003eQuadrant\u003c/emph\u003e\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid18831001\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid18831001\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"1981/1982\" type=\"inclusive\"\u003e1981-1982\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref4\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eChapter from \n                            \u003cemph render=\"italic\"\u003eDroit et Histoire\u003c/emph\u003e, by Pierre Guillaume\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid18831002\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid18831002\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate normal=\"1986/1986\"\u003e1986\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref5\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence: Cohn, Werner and Noam Chomsky\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid18831003\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid18831003\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate normal=\"1985/1989\" type=\"inclusive\"\u003e1985-1989\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref6\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence: Glauberman, George and Noam Chomsky\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid18831004\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid18831004\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate normal=\"1992/1994\" type=\"inclusive\"\u003e1992-1994\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n                \u003cc02 id=\"ref7\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eCorrespondence: Rubinstein, W. D. and Noam Chomsky\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid18831005\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid18831005\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate normal=\"1980/1980\"\u003e1980\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c02\u003e\n            \u003c/c01\u003e\n        "
+        }
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "rg_12_16"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Center For Student Life Records \u003cnum\u003eRG.12.16\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Kate Fisher"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-01-17T20:29:48\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Center for Student Life Records"
+                },
+                "unitdate": {
+                    "normal": "1958/2018",
+                    "type": "inclusive",
+                    "value": "1958-2018"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "2.75 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 record carton, 1 manuscript box, and 1 flat box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Records of Center for Student Life consist of guides for campus programs for incoming students, as well as memorabilia from past clubs and events. The Center for Student Life engages New York University students to foster a sense of community and support students' transition into campus life."
+                },
+                "unitid": {
+                    "value": "RG.12.16"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_4ce2ffb0c5bd33f693f4de1bf368d52d",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_dcc1caf284ad625e02c492af13654505",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Center for Student Life Records; RG 12.16; box number; folder number; New York University Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_8b781d15cdef11060582cdf53cd9fc6d",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Transferred by David Vogelsang, Executive Director, Center for Student Life  in May, 2018. The accession number associated with this gift is 2018.016."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_d27d391fc3b6c47650d9c172968b218f",
+            "head": "Historical Note",
+            "p": {
+                "value": "The Center for Student Life engages New York University students during their transition into campus life. The Center serves as a central point of information and campus-wide events, and helps students navigate various aspects of the university, including clubs, fraternities, sororities, class activities boards, and community service opportunities."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_4061a9e32bd9015f31417032d0e44d69",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Records of the Center for Student Life consist of guides for campus programs for incoming students, and memorabilia from past university clubs and events. The program guides document President's Service Award ceremonies, parent activities, and student orientation from 1989 to 2018."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Student activities."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "College students -- New York (N.Y.)"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Education, Higher."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "New York University -- Students"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_645f8cdab5e578f51f8febbb1d710692\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eMemorabilia\u003c/unittitle\u003e\u003cunitdate normal=\"1988/2010\" type=\"inclusive\"\u003e1988-2010\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton - lengthwise\" id=\"aspace_ba2464b650c18385b042c4aba9aa1c80\" label=\"Mixed Materials [31142063587607]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ba2464b650c18385b042c4aba9aa1c80\" type=\"Folder\"\u003e1-4\u003c/container\u003e\u003ccontainer altrender=\"Flat Box - 12 x 15.25 lengthwise\" id=\"aspace_96b7a9838fdeaf17d87ae7e5bb1eaf52\" label=\"Mixed Materials [31142063587581]\" type=\"Box\"\u003e3\u003c/container\u003e\u003ccontainer parent=\"aspace_96b7a9838fdeaf17d87ae7e5bb1eaf52\" type=\"Folder\"\u003e1\u003c/container\u003e\u003ccontainer altrender=\"Flat Box - 12 x 15.25 lengthwise\" id=\"aspace_7965486d9b30120f9a0ba362b6c17065\" label=\"Mixed Materials [31142063587581]\" type=\"Box\"\u003e3\u003c/container\u003e\u003ccontainer parent=\"aspace_7965486d9b30120f9a0ba362b6c17065\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_01c7c17ea118bed1d0b21ec959abf19f\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAlbum 1958\u003c/unittitle\u003e\u003cunitdate normal=\"1958/1958\"\u003e1958\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton - lengthwise\" id=\"aspace_d6406e94d511e2277c7e9aed382b8c3b\" label=\"Mixed Materials [31142063587607]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_d6406e94d511e2277c7e9aed382b8c3b\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_edcb223fe7c3c2a1240a5d269bf18ddf\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eAll In a Lifetime\u003c/unittitle\u003e\u003cunitdate normal=\"1990/1990\"\u003e1990\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton - lengthwise\" id=\"aspace_529a6355e5d058ea8aaf58c34696916b\" label=\"Mixed Materials [31142063587607]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_529a6355e5d058ea8aaf58c34696916b\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_c4d35decb19ed90edbec060487f88ba2\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eProgram guides\u003c/unittitle\u003e\u003cunitdate normal=\"1991/2018\" type=\"inclusive\"\u003e1991-2018\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton - lengthwise\" id=\"aspace_0f6faef6cb6940f1ed98735d1eea2aec\" label=\"Mixed Materials [31142063587607]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_0f6faef6cb6940f1ed98735d1eea2aec\" type=\"Folder\"\u003e7-13\u003c/container\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_fdcdcc729358a48f12fde646a7f91980\" label=\"Mixed Materials [31142063587599]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_fdcdcc729358a48f12fde646a7f91980\" type=\"Folder\"\u003e1-8\u003c/container\u003e\u003ccontainer altrender=\"Flat Box - 12 x 15.25 lengthwise\" id=\"aspace_6267ae9f1a16bf94cc4d883044201c84\" label=\"Mixed Materials [31142063587581]\" type=\"Box\"\u003e3\u003c/container\u003e\u003ccontainer parent=\"aspace_6267ae9f1a16bf94cc4d883044201c84\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}

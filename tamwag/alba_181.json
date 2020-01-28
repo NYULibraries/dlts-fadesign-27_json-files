@@ -1,0 +1,114 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "alba_181"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Preliminary Inventory to the George Brodsky: Yiddish Clippings and Serials\n          Collection \u003cnum\u003eALBA.181\u003c/num\u003e"
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace\n        \u003cdate\u003e2017-09-08T14:30:53\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "local",
+                        "value": "Brodsky, George"
+                    }
+                },
+                "unittitle": {
+                    "value": "George Brodsky: Yiddish Clippings and Serials Collection"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "ca.1936-1984"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "ALBA.181"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_c12f6ee2129633ff9e86d29fce44d55c",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open to researchers. Please contact the Tamiment Library \u0026amp; Robert F.\n        Wagner Labor Archives for more information and to schedule an appointment,\n        tamiment.wagner@nyu.edu or 212-998-2630."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_5b6791f83cf7737996ae20064f272662",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection consists of clippings and photocopies of clippings pertaining to the Spanish\n        Civil War and especially to Jewish participation in the War. Among them are many cartoons,\n        photos, and other graphics clipped from a variety of Yiddish-language newspapers and\n        journals, most of them published in the United States. Much of the material dates from the\n        Spanish Civil War era; other items are commemorative or historical in nature. There is a\n        large folder of clippings of cartoons on the Civil War and the fight against fascism by\n        William Gropper (from the \u003cemph render=\"italic\"\u003eMorgen Freiheit\u003c/emph\u003e), a folder of\n        cartoons by (from \u003cemph render=\"italic\"\u003eDer Tog\u003c/emph\u003e), and a number of cartoons from other\n        sources. Many of the clippings are pasted on pages from a notebook or scrapbook, apparently\n        compiled ca. 1936-1938. The bulk of the individual clippings are unidentified as to source,\n        and undated, but the pages could be reassembled in chronological order by comparing the\n        clippings to the original newspapers that are the main sources for them. Also included are\n        several complete issues and articles from \u003cemph render=\"italic\"\u003eFolks-Sztyme\u003c/emph\u003e\n        (1966-1976), a Yiddish newspaper published in Warsaw."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Spain -- History -- Civil War, 1936-1939."
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\n      \u003cc id=\"aspace_ref3\" level=\"file\"\u003e\n        \u003cdid\u003e\n          \u003cunittitle\u003eCartoons: Joseph Foshko in \u003cemph render=\"italic\"\u003eDer Tog\u003c/emph\u003e (\u003cemph\n              render=\"italic\"\u003eThe Day\u003c/emph\u003e)\u003c/unittitle\u003e\n          \u003cunitdate type=\"inclusive\"\u003eca. 1936-1938\u003c/unitdate\u003e\n          \u003ccontainer id=\"aspace_9d07b90cfb8f4d93bfb565c96b53e19f\" label=\"Mixed Materials\" type=\"Box\"\n            \u003e1\u003c/container\u003e\n          \u003ccontainer parent=\"aspace_9d07b90cfb8f4d93bfb565c96b53e19f\" type=\"Folder\"\u003e1\u003c/container\u003e\n        \u003c/did\u003e\n      \u003c/c\u003e\n      \u003cc id=\"aspace_ref4\" level=\"file\"\u003e\n        \u003cdid\u003e\n          \u003cunittitle\u003eCartoons: William Gropper in \u003cemph render=\"italic\"\u003eMorgen\n            Freiheit\u003c/emph\u003e\u003c/unittitle\u003e\n          \u003cunitdate type=\"inclusive\"\u003eca. 1936-1938\u003c/unitdate\u003e\n          \u003ccontainer id=\"aspace_0b8c2058c8268ba248bc939c75a8023d\" label=\"Mixed Materials\" type=\"Box\"\n            \u003e1\u003c/container\u003e\n          \u003ccontainer parent=\"aspace_0b8c2058c8268ba248bc939c75a8023d\" type=\"Folder\"\u003e2\u003c/container\u003e\n        \u003c/did\u003e\n      \u003c/c\u003e\n      \u003cc id=\"aspace_ref5\" level=\"file\"\u003e\n        \u003cdid\u003e\n          \u003cunittitle\u003eCartoons: Various\u003c/unittitle\u003e\n          \u003cunitdate type=\"inclusive\"\u003eca. 1936-1938\u003c/unitdate\u003e\n          \u003ccontainer id=\"aspace_11a41abdd8741bef032c3d78d5d8a7d9\" label=\"Mixed Materials\" type=\"Box\"\n            \u003e1\u003c/container\u003e\n          \u003ccontainer parent=\"aspace_11a41abdd8741bef032c3d78d5d8a7d9\" type=\"Folder\"\u003e3\u003c/container\u003e\n        \u003c/did\u003e\n      \u003c/c\u003e\n      \u003cc id=\"aspace_ref6\" level=\"file\"\u003e\n        \u003cdid\u003e\n          \u003cunittitle\u003eClippings (mostly photo images from \u003cemph render=\"italic\"\u003eMorgen\n              Freiheit\u003c/emph\u003e)\u003c/unittitle\u003e\n          \u003cunitdate type=\"inclusive\"\u003eca. 1936-1938; 1984\u003c/unitdate\u003e\n          \u003ccontainer id=\"aspace_ff55e1923d440100216ac278fc2fbc5d\" label=\"Mixed Materials\" type=\"Box\"\n            \u003e1\u003c/container\u003e\n          \u003ccontainer parent=\"aspace_ff55e1923d440100216ac278fc2fbc5d\" type=\"Folder\"\u003e4\u003c/container\u003e\n        \u003c/did\u003e\n      \u003c/c\u003e\n      \u003cc id=\"aspace_ref7\" level=\"file\"\u003e\n        \u003cdid\u003e\n          \u003cunittitle\u003eClippings (mostly photo images from \u003cemph render=\"italic\"\u003eMorgen\n              Freiheit\u003c/emph\u003e)\u003c/unittitle\u003e\n          \u003cunitdate type=\"inclusive\"\u003eca. 1936-1938\u003c/unitdate\u003e\n          \u003ccontainer id=\"aspace_69e0b2929a53f3ff86aaf5708a1fdc37\" label=\"Mixed Materials\" type=\"Box\"\n            \u003e1\u003c/container\u003e\n          \u003ccontainer parent=\"aspace_69e0b2929a53f3ff86aaf5708a1fdc37\" type=\"Folder\"\u003e5\u003c/container\u003e\n        \u003c/did\u003e\n      \u003c/c\u003e\n      \u003cc id=\"aspace_ref8\" level=\"file\"\u003e\n        \u003cdid\u003e\n          \u003cunittitle\u003e\u003cemph render=\"italic\"\u003eFolks-Sztyme\u003c/emph\u003e (Warsaw): Issues and\n            Articles\u003c/unittitle\u003e\n          \u003cunitdate normal=\"1966/1976\" type=\"inclusive\"\u003e1966-1976\u003c/unitdate\u003e\n          \u003ccontainer id=\"aspace_5f10e72b1389cff53201104114e28390\" label=\"Mixed Materials\" type=\"Box\"\n            \u003e1\u003c/container\u003e\n          \u003ccontainer parent=\"aspace_5f10e72b1389cff53201104114e28390\" type=\"Folder\"\u003e7\u003c/container\u003e\n        \u003c/did\u003e\n      \u003c/c\u003e\n      \u003cc id=\"aspace_ref9\" level=\"file\"\u003e\n        \u003cdid\u003e\n          \u003cunittitle\u003eMiscellaneous Newspaper and Journal Articles\u003c/unittitle\u003e\n          \u003cunitdate type=\"inclusive\"\u003eundated, 1974\u003c/unitdate\u003e\n          \u003ccontainer id=\"aspace_17c9eb6c57258753d5c50890ef963b2b\" label=\"Mixed Materials\" type=\"Box\"\n            \u003e1\u003c/container\u003e\n          \u003ccontainer parent=\"aspace_17c9eb6c57258753d5c50890ef963b2b\" type=\"Folder\"\u003e7\u003c/container\u003e\n        \u003c/did\u003e\n      \u003c/c\u003e\n    "
+        }
+    }
+}

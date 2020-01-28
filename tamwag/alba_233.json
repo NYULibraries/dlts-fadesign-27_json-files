@@ -1,0 +1,105 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "alba_233"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Milton Felsen Papers \u003cnum\u003eALBA.233\u003c/num\u003e"
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-07-18T14:30:28\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Felsen, Milt, 1912-2005"
+                    }
+                },
+                "unittitle": {
+                    "value": "Milton Felsen Papers"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "ALBA.233"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_2b0dd3c8d2fe90c47b351424a5fe15ca",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open to researchers. Please contact the Tamiment Library \u0026amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_df22e3c7fa78818a8ce16e335ffccc0f",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Felsen's memoir of his childhood and wartime experiences, \u003cemph render=\"italic\"\u003eThe Anti-Warrior\u003c/emph\u003e, was published in 1989.  The collection includes materials from his time in Spain, including a handwritten diary (1938), with a typed transcription, and an autograph book signed by IB veterans and annotated by Felsen. Additional materials include loose pages of a hearing transcript in which Felsen answers questions put to him by Senator Hruska regarding his affiliations with the Abraham Lincoln Brigade, the Communist Party, and the OSS; clippings and photos (laser copies and copy prints); a copy of Felson's birth certificate; WWII military medals and insignia; identity papers of a German soldier (photocopies); and an International Brigades belt buckle.  Also included are typescript draft sections of a memoir covering his post-World War II activities; there are multiple copies and multiple versions of some sections oft his incomplete work. "
+            }
+        },
+        "controlaccess": {},
+        "dsc": {}
+    }
+}

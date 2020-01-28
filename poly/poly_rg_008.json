@@ -1,0 +1,159 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "value": "poly_rg_008"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "The Leonard Shaw Papers\n                    \u003cnum\u003eRG.008\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Sophia Dahab"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Poly Archives \u0026amp; Special Collections at Bern Dibner Library of Science and Technology"
+                },
+                "address": {
+                    "addressline": [
+                        "Bern Dibner Library of Science and Technology",
+                        "5 MetroTech Center",
+                        "Brooklyn, New York, 11201",
+                        "718-260-3943",
+                        "archives@library.poly.edu"
+                    ]
+                },
+                "date": "January 16, 2013"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2016-06-10T09:01-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Poly Archives \u0026amp; Special Collections at Bern Dibner Library of Science and Technology"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Shaw, Leonard"
+                    }
+                },
+                "unittitle": {
+                    "value": "Guide to the Leonard Shaw Papers, 1978-1998"
+                },
+                "unitdate": {
+                    "normal": "1978/2003",
+                    "type": "inclusive",
+                    "value": "1978-2003"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.0 Linear feet"
+                        },
+                        {
+                            "value": "One box"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Leonard Shaw served as Head of the Department of Electrical Engineering and Computer Science from 1982 – 1990, then as the Dean of the School of EE and CS until 1994. Throughout his time both teaching and in his leadership roles, Shaw was an active member of the faculty, helping to plan and execute joint programs with institutions abroad in Iran and Italy, as well as courses offered in the Picatinny Arsenal in New Jersey and on the Brooklyn campus."
+                },
+                "unitid": {
+                    "value": "RG.008"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid138001",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref11",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open for research without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "ref12",
+            "head": "Preferred Citation note",
+            "p": {
+                "value": "Identification of item, date; RG-008: Leonard Shaw Papers; box number; folder number; Poly Archives \u0026amp; Special Collections at Bern Dibner Library of Science and Technology."
+            }
+        },
+        "bioghist": {
+            "id": "ref9",
+            "head": "Biographical/Historical note",
+            "p": {
+                "value": "Professor Leonard Shaw joined the faculty at Polytechnic University in 1960, where he taught Electrical Engineering (EE) for 43 years. During that time, Shaw also served as the Head of the Department of Electrical Engineering and Computer Science from 1982- 1990, and then Dean of the School of EE and CS until 1994."
+            }
+        },
+        "scopecontent": {
+            "id": "ref14",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "This collection documents the merger with NYU in 1973 and some of the effects on the EE/CS Department and students, primarily in regards to confusion surrounding graduation requirements. This collection also contains records from the departmental decision to eventually phase-out the evening course offerings for the BS in EE program in 1989. Also included in the collection are records of the planning, implementation, and assessment of joint EE degree programs offered in cooperation with both Reiss-Romoli in Italy in the early 1990s and the School of Television and Cinema in Tehran, Iran in the late 1970s. Lastly, the collection contains records of the National Science Foundation Graduate Research Traineeship from 1993 through 1999."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "aat",
+                    "value": "Computer science"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Electrical engineering"
+                },
+                {
+                    "source": "aat",
+                    "value": "Engineering"
+                },
+                {
+                    "source": "local",
+                    "value": "Merger - NYU-Poly - 1973"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Universities and colleges--Mergers--New York"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Scuola superiore guglielmo Reiss Romoli."
+            }
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref3\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries I: Polytechnic University and NYU Merger\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid140001\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                    \u003cunitdate normal=\"1973/1989\" type=\"inclusive\"\u003e1973-1989\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref19\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eDepartment of Electrical Engineering and Electrophysics\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid140008\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid140008\" type=\"Folder\"\u003e1\u003c/container\u003e\n                        \u003cunitdate normal=\"1973/1976\" type=\"inclusive\"\u003e1973-1976\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref6\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003ePhase-out of Evening BS in EE Program\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid140005\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid140005\" type=\"Folder\"\u003e2\u003c/container\u003e\n                        \u003cunitdate normal=\"1989/1989\"\u003e1989\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref17\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries II: Joint programs\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid140002\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                    \u003cunitdate normal=\"1978/1990\" type=\"inclusive\"\u003e1978-1990\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref4\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eJoint EE Program with School of Television and Cinema, Iran\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid140003\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid140003\" type=\"Folder\"\u003e3\u003c/container\u003e\n                        \u003cunitdate normal=\"1978/1979\" type=\"inclusive\"\u003e1978-1979\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref7\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eJoint MS Program with Reiss-Romoli, 1989- 1990\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid140006\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid140006\" type=\"Folder\"\u003e4\u003c/container\u003e\n                        \u003cunitdate normal=\"1989/1990\" type=\"inclusive\"\u003e1989-1990\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref22\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eJoint MS Program with Reiss-Romoli, 1991- 1992\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid140010\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid140010\" type=\"Folder\"\u003e5\u003c/container\u003e\n                        \u003cunitdate normal=\"1991/1992\" type=\"inclusive\"\u003e1991-1992\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref18\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries III: Graduate Programs\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid140012\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                    \u003cunitdate normal=\"1982/1999\" type=\"inclusive\"\u003e1982-1999\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref5\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eGraduate Courses at Picatinny Arsenal, NJ\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid140004\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid140004\" type=\"Folder\"\u003e6\u003c/container\u003e\n                        \u003cunitdate normal=\"1982/1995\" type=\"inclusive\"\u003e1982-1995\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref8\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eNational Science Foundation Graduate Research Traineeship\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid140007\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid140007\" type=\"Folder\"\u003e7\u003c/container\u003e\n                        \u003cunitdate normal=\"1993/1999\" type=\"inclusive\"\u003e1993-1999\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref23\" level=\"file\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eNational Science Foundation Graduate Traineeship Report\u003c/unittitle\u003e\n                        \u003ccontainer id=\"cid140011\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                        \u003ccontainer parent=\"cid140011\" type=\"Folder\"\u003e8\u003c/container\u003e\n                        \u003cunitdate normal=\"1998/1998\"\u003e1998\u003c/unitdate\u003e\n                    \u003c/did\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref24\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries IV: Acquisition Note\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid140009\" type=\"Box\" label=\"Text\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid140009\" type=\"Folder\"\u003e9\u003c/container\u003e\n                    \u003cunitdate normal=\"2003/2003\"\u003e2003\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

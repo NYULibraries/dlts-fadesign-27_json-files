@@ -1,0 +1,138 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "value": "tam_202"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Sandra Gordon Patrinos Papers\n                    \u003cnum\u003eTAM.202\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library / Wagner Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "New York, NY, 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                },
+                "date": "12/18/2009"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-03-29T18:59-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library / Wagner Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Patrinos, Sandra Gordon, 1941-2000"
+                    }
+                },
+                "unittitle": {
+                    "value": "Sandra Gordon Patrinos Papers"
+                },
+                "unitdate": {
+                    "value": "undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "9.0 linear feet"
+                        },
+                        {
+                            "value": "(9 boxes)"
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "TAM.202"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid18942001",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "1-9"
+                }
+            }
+        ],
+        "bioghist": {
+            "id": "ref3",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Patrinos (1941-2000) was a peace and social justice activist in Chicago. Born in Philadelphia, as a youth the worked with Youth Marches for Integrated School and with \"Teens Ahead,\" which sponsored interracial dances at the YWCA, and later, she became the Communist Party USA's District Organizer for its Eastern Pennsylvania / Delaware district. Patrinos also served on the Party's National Committee. In 1991, the year of the fall of the Soviet Union, she joined the Committees of Correspondence, founded by dissident (democratic-socialist oriented) CPUSA members inspired by the reforms of Mikhail Gorbachev, the last leader of the Soviet Union, and several U.S. leftists. In 1994 the organization changed its name to the Committees of Correspondence for Democracy and Socialism, and Patrinos served on its National Coordinating Committee."
+            }
+        },
+        "scopecontent": {
+            "id": "ref1",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "This unprocessed collection contains materials pertaining to the political activities of Sandra Gordon Patrinos, including peace and social justice activism, and the crisis within the Communist Party USA that led to the founding of the Committees of Correspondence. PLEASE DIRECT FURTHER INQUIRIES TO: tamiment.wagner@nyu.edu"
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Communism |z Illinois |z Chicago."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Communists |z Illinois |z Chicago."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Communists |z Pennsylvania |z Philadelphia."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Communists |z Pennsylvania."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Women communists |z United States."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Communist Party of the United States of America."
+            }
+        },
+        "dsc": {}
+    }
+}

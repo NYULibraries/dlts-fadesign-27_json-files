@@ -1,0 +1,145 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_281"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Women's Funding Coalition Records \u003cnum\u003eTAM 281\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment Staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-05-10T20:36:12\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Women's Funding Coalition Records"
+                },
+                "unitdate": {
+                    "normal": "1982/1987",
+                    "type": "inclusive",
+                    "value": "1982-1987"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.75 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(2 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "TAM 281"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_1ff9a6e285b8742d947acb3377618b36",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1-2"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_2e3c994e3b59beada5fe28101f30d951",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_5ce136185a24c40b80abe333272e45cb",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Women's Funding Coalition Records; TAM 281; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_1c5fe0b77cc0116dff5d11cb8e29c486",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials found in collection; provenance is unknown. The accession number associated with this collection is 1950.054."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_860de6c5375fccbdf87a676105572c72",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "The Women's Funding Coalition (WFC), envisioned as a \"United Way\" to fund women's organizations through payroll deductions, and representing over thirty community and women's organizations in New York City, was established in 1981, and appears to have been in existence throughout the 1980s. The task of identifying likely employers that would participate  in this scheme appears to have occupied the bulk of the WFC's energies, although a few projects were undertaken, including one apparently not represented in this collection, Project Open Doors (funded by New York's Department of Employment), through which hundreds of low-income women were placed in apprenticeship positions with the participating organizations which included women's shelters, health clinics, rape crisis centers, and other community agencies. The donor of these records, Connie Kopelov (b. 1926), represented the Coalition of Labor Union Women on the board of the WFC."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_298ee2a938a6489bb3bcfa8b22890738",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "This small collection contains minutes, planning documents, reports, and by-laws; correspondence with other women's organizations, including the National Network of Women's Funds, and with various charities and government agencies; and printed ephemera, including fliers and circulars announcing WFC activities and events. There is a file relating to a Walkathon, and another relating to an \"Innovators for Women$hare\" benefit."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Charities -- New York (State) -- New York."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Feminism -- New York (State) -- New York."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Women's Funding Coalition (New York, N.Y.)"
+            }
+        },
+        "dsc": {}
+    }
+}

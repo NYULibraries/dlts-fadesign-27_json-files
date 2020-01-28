@@ -1,0 +1,152 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "v1974_037_namm_son_department_store"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the A. I. Namm \u0026amp; Son Department Store photograph album\n                    \u003cnum\u003eV1974.037\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Weatherly Stephan"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "May 25, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-28T12:04-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "A. I. Namm \u0026amp; Son Department Store photograph album"
+                },
+                "unitdate": {
+                    "normal": "1920/1920",
+                    "value": "1920"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.1 Linear feet"
+                        },
+                        {
+                            "value": "in one folder."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "V1974.037"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid806003",
+                    "label": "Graphic materials",
+                    "type": "Box",
+                    "value": "Prints by Accession 41"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref7",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); A. I. Namm \u0026amp; Son Department Store photograph album, V1974.037, Box number, Object ID number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref5",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Source and date of acquisition for this collection are unknown."
+            }
+        },
+        "bioghist": {
+            "id": "ref8",
+            "head": "Historical note",
+            "p": {
+                "value": "A.I. Namm \u0026amp; Son Department Store was founded by Adolph I. Namm, a Polish immigrant to New York City. In 1885, Namm moved his upholstery business from Manhattan to Brooklyn, eventually settling on Fulton Street between Hoyt Street and Elm Place in 1891. The Fulton Street building expanded as Namm's business grew into a department store in the early 20th century, eventually covering most of the block and becoming the flagship store of A. I. Namm \u0026amp; Son Department Store. In 1957, the Fulton Street complex of A.I. Namm \u0026amp; Son Department Store closed. The existing portion of the Namm building, 450-458 Fulton Street at the corner of Hoyt Street, received landmark status in 2005."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "One album, dated 1920 and containing 13 photographs. The album documents an expansion project of A. I. Namm \u0026amp; Son Department Store in Downtown Brooklyn, from initial construction to the completed structure. The building addition shown in this album was a six-story extension on the corner of Livingston Street and Elm Place, located at the southeastern corner of the block from the building at 450-458 Fulton Street."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Business enterprises |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Construction industry |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Department stores |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Namm's (Brooklyn, New York, N.Y.)."
+            }
+        },
+        "otherfindaid": {
+            "id": "ref4",
+            "head": "Other Finding Aids note"
+        },
+        "dsc": {}
+    }
+}

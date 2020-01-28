@@ -1,0 +1,184 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arc_110_van_siclen"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Van Siclen family papers\n                    \u003cnum\u003eARC.110\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "September 21, 2010"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-05-01T16:02-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "famname": {
+                        "source": "local",
+                        "value": "Van Siclen family"
+                    }
+                },
+                "unittitle": {
+                    "value": "Van Siclen family papers"
+                },
+                "unitdate": {
+                    "normal": "1760/1998",
+                    "type": "inclusive",
+                    "value": "circa 1770 to 1988"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.11 Linear feet"
+                        },
+                        {
+                            "value": "in five folders."
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The Van Siclen family papers date from circa 1770 to 1988 and contain materials relating to family members residing in the New Lots district of Flatbush in Kings County, and family members residing in the town of Gravesend in Kings County (who often spelled their surname as \n                \u003cemph render=\"italic\"\u003eVan Sicklen\u003c/emph\u003e). Items include land deeds and other legal documents, financial records, military commissions and discharges, certificates, wills, photographs, and genealogical notes."
+                },
+                "unitid": {
+                    "value": "ARC.110"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid439001",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "ARC.110 1 of 1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref4",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref6",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Van Siclen family papers, ARC.110, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref5",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Accession 1977.555 was the gift of John H. Van Siclen, 1960. Accession V1986.024 was the gift of Donald E. Turner, 1988. Sources and dates of acquisition for 1978.011 and V1986.032 are unknown."
+            }
+        },
+        "bioghist": {
+            "id": "ref3",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Although little is known about the individuals represented in this collection, certain locales in present-day Brooklyn recognize the significance of the Van Siclen/Van Sicklen family name, including Van Siclen Avenue, which runs north and south through the neighborhoods of Cypress Hills, East New York, and Canarsie; and Van Sicklen Street, which runs north and south through a small part of the neighborhood of Gravesend. Furthermore, several members of the family, including some featured in this collection, are interred at Gravesend's Van Sicklen Cemetery."
+            }
+        },
+        "scopecontent": {
+            "id": "ref9",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection also contains a photograph album, circa 1900, assembled by John H. Van Siclen of Montauk, Long Island. The album mostly contains views of houses, lighthouses, and farmland in Montauk, as well as houses in the Brooklyn neighborhood of Flatlands and the Queens neighborhoods of Flushing and Jamaica."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Dwellings |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Dwellings |z New York (State) |z Long Island"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Families |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Genealogy "
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Lighthouses |z New York (State) |z Long Island"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Public schools |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Tax assessment |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Wedding anniversaries |z New York (State) |z New York"
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Van Sicklen Cemetery (Gravesend, New York, N.Y.)."
+            }
+        },
+        "otherfindaid": {
+            "id": "ref15",
+            "head": "Other Finding Aids note"
+        },
+        "dsc": {}
+    }
+}

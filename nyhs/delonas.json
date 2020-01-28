@@ -1,0 +1,111 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "delonas"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Sean Delonas Collection of Cartoons from the New York Post, \n                    \u003clb/\u003e\n                    \u003cdate\u003e1990-2013\u003c/date\u003e\n                    \u003clb/\u003e\n                    \u003cnum\u003ePR 313\u003c/num\u003e\n                "
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "© 2011 New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2017-04-24T16:58-0400\u003c/date\u003e\n            "
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "© 2011 New-York Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "Sean Delonas collection of cartoons from the New York Post"
+                },
+                "unitdate": {
+                    "normal": "1990/2013",
+                    "type": "inclusive",
+                    "value": "1990-2013"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.0 Linear feet"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "This collection consists of 113 original drawings of cartoons by Sean Delonas that were published by the New York Post's Page Six between 1990-2013."
+                },
+                "unitid": {
+                    "value": "PR 313"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref4",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Photocopying undertaken by staff only. Limited to twenty exposures of stable, unbound material per day."
+            }
+        },
+        "acqinfo": {
+            "id": "ref2",
+            "head": "Acquisition Note",
+            "p": {
+                "value": "Gift of the artist, Sean Delonas, March 14, 2015."
+            }
+        },
+        "bioghist": {
+            "id": "ref6",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Sean Delonas is an American political cartoonist, painter and illustrator. His cartoons were published by the New York Post as part of their Page Six content from 1990-2013."
+            }
+        },
+        "scopecontent": {
+            "id": "ref7",
+            "head": "Scope and Contents Note",
+            "p": {
+                "value": "This collection consists of 113 original drawings of cartoons by Sean Delonas that appeared on Page Six of the New York Post between 1990-2013."
+            }
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref3\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e113 cartoons by Sean Delonas, published in the New York Post\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid2693001\" type=\"Box\" label=\"Graphic materials\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003e1990-2013\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

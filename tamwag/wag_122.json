@@ -1,0 +1,141 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "wag_122"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Norah Chase Papers on the City University of New York Professional Staff Congress \u003cnum\u003eWAG.122\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-06-12T19:34:09\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "source",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Chase, Norah C."
+                    }
+                },
+                "unittitle": {
+                    "value": "Norah Chase Papers on the City University of New York Professional Staff Congress"
+                },
+                "unitdate": {
+                    "normal": "1999/2000",
+                    "type": "inclusive",
+                    "value": "1999-2000"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 folder)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "WAG.122"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_573ebb6775da3861938c5f94abacd251",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_ea7a538972f6968b1d6159efe11de1d0",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_b0affdb518c50ef51b8296c24cd7b21a",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Nora Chase Papers; WAG 122; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_fb95e821b997f2f94a0f27701a6ce69e",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Nora Chase at an unknown date. The accession number associated with this gift is 1950.078."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_126430ce1940272c7479e23b4b31dd5c",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Norah Chase, an associate professor of English at Kingsborough Community College in Brooklyn, N.Y., and a long-time activist in the Professional Staff Congress (PSC), the labor union representing college teachers in the City University of New York system, donated these materials. This collection contains copies of \u003cemph render=\"italic\"\u003eUnity News\u003c/emph\u003e, pamphlets, flyers, correspondence, and meeting minutes related to the 2000 election of PSC officers and representatives by Chase and other members of the union's Unity Caucus."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "College teachers' unions -- New York (State) -- New York -- History."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "City University of New York"
+            }
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "wag_056"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "United Federation of Teachers: Italian-American Studies Committee Records \u003cnum\u003eWAG.056\u003c/num\u003e"
+                    }
+                ]
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2017-10-13T18:13:35\u003c/date\u003e"
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "United Federation of Teachers: Italian-American Studies Committee Records"
+                },
+                "unitdate": {
+                    "normal": "1978/1987",
+                    "type": "inclusive",
+                    "value": "1978-1987"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "WAG.056"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "scopecontent": {
+            "id": "aspace_c30c456f7de3412e095c526a0e4a601c",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection documents the Italian-American Studies Committee of the United Federation of Teachers.  The purpose of this committee was to make available materials on Italian Americans for use by teachers in the classroom and to bring awareness of the Italian-American experience through outreach.  Materials in the collection document a UFT leadership and labor conference in Italy, symposium programming honoring Italian Heritage and Culture Month, and correspondence with other Italian-American organizations.  The committee organized special events during the annual Italian Culture Week."
+            }
+        },
+        "dsc": {}
+    }
+}

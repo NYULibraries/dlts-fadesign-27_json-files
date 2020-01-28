@@ -1,0 +1,174 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arc_084_pfizer"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Pfizer Inc. collection\n                    \u003cnum\u003eARC.084\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Nicholas Pavlik"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "August 23, 2010"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-05-01T16:01-0400\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "Pfizer Inc. collection"
+                },
+                "unitdate": {
+                    "normal": "1839/2008",
+                    "type": "inclusive",
+                    "value": "circa 1849-1992, 2007-2008"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "1.25 Linear feet"
+                        },
+                        {
+                            "value": "in four folders, one record carton, and 24 MP3 audio files."
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "Pfizer Inc. was founded in 1849 by German immigrants and cousins Charles Pfizer and Charles Erhart under the name Charles Pfizer \u0026amp; Company. The company's original headquarters were in a red-brick building in the Town of Williamsburgh, now the neighborhood of Williamsburg in the borough of Brooklyn. By 1899 Pfizer was an established leader in the American chemical industry, and by the end of the 20th century it was a worldwide leader in the pharmaceutical industry. Pfizer has also served as one of the major employers of the Brooklyn labor force, and when the area surrounding its plant fell into a period of decline in the 1970s and 1980s, the company formed a public-private partnership with the city that resulted in increased jobs, housing, and education. The Pfizer Inc. collection contains materials pertaining to Pfizer's roles as a global leader in the pharmaceutical industry and a local employer in the Brooklyn community, as well as the closing of the company's Brooklyn plant in 2009. Materials include reports and publications, photographs, and oral history transcripts and recordings."
+                },
+                "unitid": {
+                    "value": "ARC.084"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid402002",
+                    "label": "Mixed materials",
+                    "type": "Box",
+                    "value": "ARC.084 1 of 1"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref6",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref10",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Pfizer Inc. collection, ARC.084, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref8",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Oral history interviews with Pfizer Brooklyn employees, as well as subsequent transcriptions of the interviews, were conducted and produced by the Brooklyn Historical Society, 2007 to 2008. Sources and dates of acquisition for all other materials in the collection are unknown."
+            }
+        },
+        "bioghist": {
+            "id": "ref5",
+            "head": "Historical Note",
+            "p": {
+                "value": "As of the first decade of the 21st century, Pfizer continues to be a vital player in the pharmaceutical industry, with locations throughout the world and with many major drugs in its product line for the treatment of such diseases as cancer, Alzheimer's, and HIV/AIDS, among many others. Though Pfizer no longer carries out operations in Brooklyn, it continues to hold its corporate headquarters in midtown Manhattan."
+            }
+        },
+        "scopecontent": {
+            "id": "ref13",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "\n                \u003cemph render=\"bold\"\u003eReports and publications\u003c/emph\u003e contains Pfizer annual reports, newsletters, a report on Pfizer's role in the production of penicillin, and miscellaneous publications released by Pfizer regarding its history, products, and role in the international community. \n                \u003cemph render=\"bold\"\u003ePhotographs\u003c/emph\u003e contains copies of photographs (dating back as far as 1849) relating to Pfizer's locations and employees, released by Pfizer's Public Affairs Division. \n                \u003cemph render=\"bold\"\u003eOral histories\u003c/emph\u003e contains recordings of oral history interviews with Pfizer Brooklyn employees, conducted by the Brooklyn Historical Society in 2007 and 2008 after Pfizer announced it would be closing its Brooklyn Plant. This series also contains transcripts of the interviews, supporting documentation regarding the interview process, and selected audio clips. The recordings of the interviews can be listened to onsite at the Othmer Library."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Penicillin"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Penicillin |x History"
+                },
+                {
+                    "source": "lcgft",
+                    "value": "Pharmaceutical industry |z New York (State) |z Kings County"
+                },
+                {
+                    "source": "lcgft",
+                    "value": "Pharmaceutical industry |z New York (State) |z Kings County |x Employees"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Pharmaceutical industry |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcgft",
+                    "value": "Work environment |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Pfizer Inc."
+            }
+        },
+        "otherfindaid": {
+            "id": "ref9",
+            "head": "Other Finding Aids note"
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref1\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 1: Reports and Publications\u003c/unittitle\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003e0.21 Linear feet\u003c/extent\u003e\n                        \u003cextent\u003ein three folders.\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate normal=\"1963/1992\" type=\"inclusive\"\u003e1963-1992\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref14\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003eThis series contains several miscellaneous publications released by Pfizer during the period 1963 to 1986, including two copies of Pfizer's newsletter, \n                        \u003cemph render=\"italic\"\u003ePfizer Scene\u003c/emph\u003e, for April through May of 1986. Other publications cover such topics such as Pfizer's history, the process of fermentation, Pfizer's position as a worldwide leader in the pharameutical industry, and Pfizer's involvement in Third World health issues and community development. Also included in this series are annual reports for the years 1964, 1974, and 1985; a report on the 1986 annual meeting of shareholders; and a 1990 report on Pfizer's production of penicillin in Brooklyn during the period 1941 to 1945, produced for an exhibition on penicillin at the Brooklyn Historical Society.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref4\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 2: Photographs\u003c/unittitle\u003e\n                    \u003cunitid\u003eV1986.248\u003c/unitid\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003e0.02 Linear feet\u003c/extent\u003e\n                        \u003cextent\u003ein one folder.\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate\u003ecirca 1849-1985\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref15\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003eThis series contains several photographs released by Pfizer's Public Affairs Division. Though it is assumed that the majority of the photographs in this series were released circa 1985, they are in fact copies of earlier images dating from the period 1849 to 1960. Photographs portray exterior shots of Pfizer's locations in Brooklyn and Manhattan, interiors of the Brooklyn plant with employees at work, and one group shot of the Brooklyn plant's work force. There is also a copy image of Pfizer's company letterhead (as used in 1935), and one studio portrait of Charles Pfizer and his family, taken in Germany in 1870.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref3\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eSeries 3: Oral Histories\u003c/unittitle\u003e\n                    \u003cphysdesc\u003e\n                        \u003cextent\u003e1.0 Linear feet\u003c/extent\u003e\n                        \u003cextent\u003ein 1 record carton and 24 MP3 audio files.\u003c/extent\u003e\n                    \u003c/physdesc\u003e\n                    \u003cunitdate normal=\"2007/2008\" type=\"inclusive\"\u003e2007-2008\u003c/unitdate\u003e\n                \u003c/did\u003e\n                \u003cscopecontent id=\"ref16\"\u003e\n                    \u003chead\u003eScope and Contents\u003c/head\u003e\n                    \u003cp\u003eThis series contains recordings and transcripts of interviews from the Brooklyn Historical Society's Pfizer Brooklyn Oral History Project, carried out in 2007 and 2008 after Pfizer announced it would be closing down its Brooklyn plant. In total, interviews with 25 employees of Pfizer Brooklyn are included in this series. Full recordings of the interviews can be listened to onsite at the Othmer Library. Additional ephemera concerning the Oral History Project, Pfizer, and Penecillin is also included, along with an article from the \n                        \u003cemph render=\"italic\"\u003eWilliamsburg Courier\u003c/emph\u003e regarding the closing of the Brooklyn plant and copies of historic clippings from the \n                        \u003cemph render=\"italic\"\u003eBrooklyn Eagle\u003c/emph\u003e pertaining to events in Pfizer's history.\u003c/p\u003e\n                \u003c/scopecontent\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

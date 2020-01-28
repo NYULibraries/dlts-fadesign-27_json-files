@@ -1,0 +1,168 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "worldwartwo"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the New-York Historical Society World War II Collection\u003clb/\u003e1940-1945\u003clb/\u003e \u003cnum\u003eMS 672\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Alison Dundy (2012), with later additions"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-06-20T17:48:08\u003c/date\u003e"
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator"
+                },
+                "unittitle": {
+                    "value": "New-York Historical Society World War II Collection"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "1940-1945"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.42 Linear feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in one box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The World War II collection is an \"artificial\" collection of subject-related materials acquired by the New-York Historical Society at different times from a variety of sources. Letters to New-York Historical Society superintendent Garrett H. Winter from nine employees on active service describe different war experiences in different branches of the armed services during basic training and from combat. There are also letters from Britain by Edward Tempest in Yorkshire describing air raids and British morale during the blitz. Other correspondence includes an account by a sailor on board the USS \u003cemph render=\"italic\"\u003eHilary P. Jones\u003c/emph\u003e of a search and rescue operation for American sailors whose ship was sunk off the coast of Iceland by a German U-boat, V-mail, and an exchange of letters from 1942 about the ban on taking photographs in New York Harbor. Documents in the collection include ration books, a civilian service award, and a war damage insurance policy."
+                },
+                "unitid": {
+                    "value": "MS 672"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_0428091010841237d6afc3ae3d9759b4",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to qualified researchers."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_3e6fa5d078a56df2d7a4e104e29d89c0",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "This collection should be cited as the World War II Collection, MS 672, The New-York Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_52763caa365094c6e8084147332a085c",
+            "head": "Provenance",
+            "p": {
+                "value": "This is an artificial collection composed of World War II material acquired by the New-York Historical Society at various times and from various sources. More recent sources of particular material in the collection are noted in the container list."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_e6703cea7b9ba8c683b950c72074b6b6",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection also includes an identification card of a hostess of a Stage Door Canteen. Broadway's wartime service organization, the American Theatre Wing sponsored the popular Stage Door Canteens for the exclusive entertainment of uniformed military personnel.  There is also a Civil Service Award by the Navy Department for \"outstanding performance and loyalty\" to the chief of construction on the docks of the Brooklyn Navy Yard. Other items include an exchange of letters regarding the ban on taking photographs in New York Harbor, a war damages insurance policy, and the logistical plan for a 1942 \"New York at War\" parade in Manhattan."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Radar operators"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "War neurosis"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "World War, 1939-1945. -- Participation, American"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "World War, 1939-1945 -- England -- Yorkshire"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "World War, 1939-1945 -- Iceland"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "World War, 1939-1945 -- India"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "World War, 1939-1945 -- New York (State)  -- New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "World War, 1939-1945 -- Personal narratives, American"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "World War, 1939-1945 -– War work"
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref21_efn\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I: New-York Historical Society Employees Letters\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1941-1945\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_75926c27508b842c6a371f110bef6c77\"\u003e\u003chead\u003eScope and Content\u003c/head\u003e\u003cp\u003eThis series consists of nine folders of letters to New-York Historical Society superintendent Garrett H. Winter by employees on active service: William R. Baillie, Ladislaw (Larry) Csierny, James J. Fisher, William Givens, Joseph Gymory, George Johnson, Vincent J. Marshall, Charles J. Miller, and George Takas. These letters describe a variety of wartime experiences from basic training camps in the United States to active combat overseas. New-York Historical Society employees were deployed in different aspects of service: operating radar in Washington State; guarding prisoners of war in Delaware; serving in India; serving in Germany during and after the German surrender. One employee writes from his hospital bed where he is recovering from \"operational fatigue, in other words, nerves.\"\u003c/p\u003e\u003cp\u003eThe letters indicate that Garrett H. Winter wrote and sent care packages to these employees and that the employees in uniform also wrote to each other. The collection includes only the letters written directly to Garrett H. Winter. \u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_ref2_omj\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eWilliam R. Baillie Letters to Garrett H. Winter\u003c/unittitle\u003e\u003cunitdate\u003e1943 April 23-1945 September\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9a959c95c3cddb4bcb086cc92f0c2589\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_9a959c95c3cddb4bcb086cc92f0c2589\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref3_dym\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eLadislaw (Larry) Csierny Letters to Garrett H. Winter\u003c/unittitle\u003e\u003cunitdate\u003e1941 January 12-1944 September\u003c/unitdate\u003e\u003ccontainer id=\"aspace_6f76d700bb6dbdccd4ff0ef00b26e475\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_6f76d700bb6dbdccd4ff0ef00b26e475\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref4_gev\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eJames J. Fisher Letters to Garrett H. Winter\u003c/unittitle\u003e\u003cunitdate\u003e1941 May 2-1945 February 7\u003c/unitdate\u003e\u003ccontainer id=\"aspace_cd192136817d5dc42ad184faeea4efcd\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_cd192136817d5dc42ad184faeea4efcd\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref5_llf\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eWilliam Givens Postcard to Garrett H. Winter\u003c/unittitle\u003e\u003cunitdate\u003e1943 February 4\u003c/unitdate\u003e\u003ccontainer id=\"aspace_cd1205bcb2d97864611e082c393c7ed6\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_cd1205bcb2d97864611e082c393c7ed6\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref6_4uy\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eJoseph Gymory Letters to Garrett H. Winter\u003c/unittitle\u003e\u003cunitdate\u003e1942 April 9-1944 January 5\u003c/unitdate\u003e\u003ccontainer id=\"aspace_daf094f6d157c8ae6b6e91194da57fb6\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_daf094f6d157c8ae6b6e91194da57fb6\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref8_lfv\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eGeorge Johnson Letters to Garrett H. Winter\u003c/unittitle\u003e\u003cunitdate\u003e1942 August 24-1945 July 11\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9c2c29f2397d88971c5428f821044b3b\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_9c2c29f2397d88971c5428f821044b3b\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref11_zsb\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eVincent J. Marshall Letters to Garrett H. Winter\u003c/unittitle\u003e\u003cunitdate\u003e1943 August 30-1945 August 1\u003c/unitdate\u003e\u003ccontainer id=\"aspace_930e75946d2abf8efbe257838d8eca8c\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_930e75946d2abf8efbe257838d8eca8c\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref13_k0k\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCharles J. Miller Letters to Garrett H. Winter\u003c/unittitle\u003e\u003cunitdate\u003e1943 September 12-1943 November 12, undated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_08105aefb7bd7a08be8a7bf7e1155eaa\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_08105aefb7bd7a08be8a7bf7e1155eaa\" type=\"Folder\"\u003e8\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14_gdf\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eGeorge Takacs Letters to Garrett H. Winter\u003c/unittitle\u003e\u003cunitdate\u003e1942 December 2-1945 July 5\u003c/unitdate\u003e\u003ccontainer id=\"aspace_fbf87e69e2644e146e46f3eec9209f30\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_fbf87e69e2644e146e46f3eec9209f30\" type=\"Folder\"\u003e9\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23_tkt\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries II: Edward Tempest Letters from Britain  \u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1940-1941, 1944\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_e28ed5cb3d9897ff22f54cedce52ba60\"\u003e\u003chead\u003eScope and Content \u003c/head\u003e\u003cp\u003eThis series consists of five letters from Edward Tempest of Spofforth, Yorkshire, England (November 17, 1940-May 1941). Tempest describes everyday life in Britain under the German air raids. His letters to \"dear American friends\" were part of a round robin penpal exchange of correspondence sponsored by the \u003cemph render=\"italic\"\u003eChristian Science Monitor\u003c/emph\u003e. The collection also includes a January 13, 1942 letter from Sydney Carney Jr. to Alexander J. Wall, Director of the New-York Historical Society, explaining the context of Edward Tempest's letters and the\u003cemph render=\"italic\"\u003eChristian Science Monitor\u003c/emph\u003e international letter exchange program.\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_ref17_atg\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eEdward Tempest Letters to \u003cemph render=\"italic\"\u003eChristian Science Monitor\u003c/emph\u003e Letter Exchange\u003c/unittitle\u003e\u003cunitdate\u003e1940 November 17-1941 May, 1944 27 February\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e26f0fb2d425779c897ff554fe81b8c4\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e26f0fb2d425779c897ff554fe81b8c4\" type=\"Folder\"\u003e10\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e\u003cc id=\"aspace_ref26_pau\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries III: Other Correspondence and Documents\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003e1941-1945, undated\u003c/unitdate\u003e\u003c/did\u003e\u003cscopecontent id=\"aspace_231914b328d28b91268c37a08023b263\"\u003e\u003chead\u003eScope and Content \u003c/head\u003e\u003cp\u003eSeries III includes other correspondence and documents pertaining to military and civilian life during World War II. A highlight in this series is a letter from \"Johnnie\" to his mother about a Navy search and rescue mission for survivors of a ship that was sunk off the coast of Iceland by a German submarine. The series includes a civilian service award for the director of construction at the Brooklyn Navy Yards, other correspondence (including V-mail), an exchange of letters about the banning of photography in New York Harbor, plans for a \"New York at War\" parade in Manhattan, ration books and pouches (including a ration book for a 12-year-old boy, ration books for various members of the Zipkin family with a red and black leather \"Token Ration Book Holder,\" and others), a photo ID card for a Stage Door Canteen hostess, and a war damage insurance policy.\u003c/p\u003e\u003c/scopecontent\u003e\u003cc id=\"aspace_ref28_exb\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCivilian Service Award\u003c/unittitle\u003e\u003cunitdate\u003e1944 February 22\u003c/unitdate\u003e\u003ccontainer id=\"aspace_9f15c7f1bd8e66489c8d55a8a6bdec80\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_9f15c7f1bd8e66489c8d55a8a6bdec80\" type=\"Folder\"\u003e11\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref12_r7p\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eCorrespondence\u003c/unittitle\u003e\u003cunitdate\u003e1940 May 31-1945 May 15\u003c/unitdate\u003e\u003ccontainer id=\"aspace_f294005bfcd12f8c890858b21c5ec4eb\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f294005bfcd12f8c890858b21c5ec4eb\" type=\"Folder\"\u003e12\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref30_3ha\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eHarbor Photography Ban\u003c/unittitle\u003e\u003cunitdate\u003e1942 January 29-1942 July 16\u003c/unitdate\u003e\u003ccontainer id=\"aspace_e12ab49da4ec8a2c63a8112b082e1b16\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_e12ab49da4ec8a2c63a8112b082e1b16\" type=\"Folder\"\u003e13\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref31_gpv\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eNew York at War Parade\u003c/unittitle\u003e\u003cunitdate\u003e1942 May 25\u003c/unitdate\u003e\u003ccontainer id=\"aspace_6c20df105b768910aa8e7b674226cc29\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_6c20df105b768910aa8e7b674226cc29\" type=\"Folder\"\u003e14\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref32_zqi\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eRation Books (4 folders)\u003c/unittitle\u003e\u003cunitdate type=\"inclusive\"\u003ecirca 1942-1944\u003c/unitdate\u003e\u003ccontainer id=\"aspace_ade5e62058d521974094eb556709d46e\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_ade5e62058d521974094eb556709d46e\" type=\"Folder\"\u003e15A-D\u003c/container\u003e\u003c/did\u003e\u003cacqinfo id=\"aspace_cf7a120c7c6b0f37983978d66f4e8f63\"\u003e\u003chead\u003eImmediate Source of Acquisition\u003c/head\u003e\u003cp\u003eIncludes, among others: Gifts of Brenda Z. Steere (2013) and Wendy Galston Gold (2018). One anonymous donation (2019) includes 5 ration books and two 1942 bills from Misericordia Hospital.\u003c/p\u003e\u003c/acqinfo\u003e\u003c/c\u003e\u003cc id=\"aspace_ref35_jbl\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eStage Door Canteen Hostess Card\u003c/unittitle\u003e\u003cunitdate\u003eundated\u003c/unitdate\u003e\u003ccontainer id=\"aspace_785ec361505ff315ab9f07ce0e7aa936\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_785ec361505ff315ab9f07ce0e7aa936\" type=\"Folder\"\u003e16\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref33_q21\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eV-Mail\u003c/unittitle\u003e\u003cunitdate\u003e1944 March 26-1945 March 19\u003c/unitdate\u003e\u003ccontainer id=\"aspace_375a72b4325b26fb6b0f3657784eeca6\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_375a72b4325b26fb6b0f3657784eeca6\" type=\"Folder\"\u003e17\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref29_jh8\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eWar Damage Insurance Policy\u003c/unittitle\u003e\u003cunitdate\u003e1942 July 1\u003c/unitdate\u003e\u003ccontainer id=\"aspace_5e51a70e3ff5ddfa863aad1da00eeafb\" label=\"Mixed Materials\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_5e51a70e3ff5ddfa863aad1da00eeafb\" type=\"Folder\"\u003e18\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

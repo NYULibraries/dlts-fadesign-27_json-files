@@ -1,0 +1,152 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "v1988_005_newman"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Leslie H. Newman photographs of the Manhattan skyline\n                    \u003cnum\u003eV1988.005\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Weatherly Stephan"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "August 2, 2011"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-28T15:12-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Newman, Leslie H."
+                    }
+                },
+                "unittitle": {
+                    "value": "Leslie H. Newman photographs of the Manhattan skyline"
+                },
+                "unitdate": {
+                    "normal": "1950/1969",
+                    "type": "inclusive",
+                    "value": "Circa 1950s and 1960s"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.04 Linear feet"
+                        },
+                        {
+                            "value": "in two folders."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "V1988.005"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid952003",
+                    "label": "Graphic materials",
+                    "type": "Box",
+                    "value": "Prints by Accession 65"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref1",
+            "head": "Conditions Governing Access note",
+            "p": {
+                "value": "Open to users without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref7",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Leslie H. Newman photographs of the Manhattan skyline, V1988.005, Box number, Object ID number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref5",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of Theodora W. Newman, 1988."
+            }
+        },
+        "bioghist": {
+            "id": "ref8",
+            "head": "Biographical note",
+            "p": {
+                "value": "Leslie H. Newman (1908-1982) was an amateur photographer and resident of Brooklyn during the mid 20th century."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "The Leslie H. Newman photographs of the Manhattan skyline date from circa 1950 to 1969 and contain 36 items. All photographs in the collection appear to have been taken from the Brooklyn Heights Promenade facing west. The most prominent subjects in the photographs are high-rise buildings in Lower Manhattan facing Brooklyn. The photographs also show the East River and New York Harbor, the Brooklyn Bridge, Brooklyn and Manhattan piers, and the Lower Manhattan and Wall Street skyline."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Buildings |z New York (State) |z New York"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Piers |z New York (State) |z New York"
+                }
+            ]
+        },
+        "otherfindaid": {
+            "id": "ref3",
+            "head": "Other Finding Aids note"
+        },
+        "dsc": {}
+    }
+}

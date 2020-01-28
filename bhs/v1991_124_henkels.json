@@ -1,0 +1,151 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "v1991_124_henkels"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Charles H. Henkels photographs of the Wyckoff Heights Medical Center\n                    \u003cnum\u003eV1991.124\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Patricia Glowinski"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "October 17, 2011."
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-11-28T16:50-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Henkels, Charles H."
+                    }
+                },
+                "unittitle": {
+                    "value": "Charles H. Henkels photographs of the Wyckoff Heights Medical Center"
+                },
+                "unitdate": {
+                    "normal": "1991/1991",
+                    "value": "1991"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.08 Linear feet"
+                        },
+                        {
+                            "value": "43 items housed in one folder."
+                        }
+                    ]
+                },
+                "unitid": {
+                    "value": "V1991.124"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1080004",
+                    "label": "Graphic materials",
+                    "type": "Box",
+                    "value": "Prints by Accession 78"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref4",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref9",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Charles H. Henkels photographs of the Wyckoff Heights Medical Center, V1991.124, Box number, Object ID number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref3",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "Gift of the Wyckoff Heights Medical Center via Charles H. Henkels, 1991."
+            }
+        },
+        "bioghist": {
+            "id": "ref8",
+            "head": "Historical note",
+            "p": {
+                "value": "Wyckoff Heights Medical Center opened in 1899 as the German Hospital in Brooklyn. In 1886, the Plattdeutscher Volksfest-Verein sought to build a hospital to serve Brooklyn's large German and German-American community. In 1889, the German Hospital Society of Brooklyn was established to spearhead the fundraising for and construction of the hospital. The cornerstone of the German Hospital in Brooklyn was laid in 1894 and the four-story red brick building was dedicated in 1899. The architect was Brooklyn-based architect Rudolph L. Daus (1854-1916). The original hospital consisted of four buildings connected by covered passages and was located on St. Nicholas Avenue between Stockholm and Stanhope Streets. The name of the hospital was changed to Wyckoff Heights Hospital on November 11, 1918. On November 14, 1991, architect Charles H. Henkels photographed portions of the exterior and interior of the building in relation to its scheduled demolition as part of the Wyckoff Heights Medical Center modernization project."
+            }
+        },
+        "scopecontent": {
+            "id": "ref2",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "On November 14, 1991, architect Charles H. Henkels, AIA, photographed portions of the exterior and interior of the building in relation to its scheduled demolition as part of the Wyckoff Heights Medical Center Major Modernization Project."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Hospitals |z New York (State) |z Kings County"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Wyckoff Heights Medical Center (Brooklyn, New York, N.Y.)."
+            }
+        },
+        "otherfindaid": {
+            "id": "ref6",
+            "head": "Other Finding Aids"
+        },
+        "dsc": {}
+    }
+}

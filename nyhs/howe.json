@@ -1,0 +1,128 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "howe"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Howe Family Photograph Collection\n                    \u003clb/\u003ecirca 1890's-1900's\n                    \u003clb/\u003e\n                    \u003cnum\u003ePR 292\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Susan Kriete"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "© 2011 New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-12-12T16:35-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "© 2011 New-York Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "Howe Family Photograph Collection"
+                },
+                "unitdate": {
+                    "value": "circa 1890's-1900's"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.21 Linear feet"
+                        },
+                        {
+                            "value": "(1 half-hollinger box)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "This collection consists of approximately 150 photographs (gelatin silver prints and cyanotypes) of members of the Howe family and their residences in the Bronx and in Hazleton, PA."
+                },
+                "unitid": {
+                    "value": "PR 292"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref19",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Photocopying undertaken by staff only. Limited to twenty exposures of stable, unbound material per day. (Researchers may not accrue unused copy amounts from previous days.)"
+            }
+        },
+        "prefercite": {
+            "id": "ref21",
+            "head": "Preferred Citation note",
+            "p": {
+                "value": "This collection should be cited as: Howe Family Photograph Collection, PR 291, Department of Prints, Photographs, and Architectural Collections, The New-York Historical Society."
+            }
+        },
+        "bioghist": {
+            "id": "ref18",
+            "head": "Biographical/Historical note",
+            "p": {
+                "value": "\n                \u003cemph render=\"italic\"\u003eSpecial thanks to N-YHS librarian Joseph Ditta for his invaluable assistance in researching the Howe family\u003c/emph\u003e."
+            }
+        },
+        "scopecontent": {
+            "id": "ref17",
+            "head": "Scope and Contents note",
+            "p": {
+                "value": "Photographs of Hazleton, PA, include street views, shots of the homes where Alfred Howe's children were born, and interior shots of a local grocer. Also included are photographs of coal mining equipment, some of it designed and built by Frederick T. Howe."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Coal"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Suicide"
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref3\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eBronx residences\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid650001\" type=\"Box\" label=\"Graphic materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid650001\" type=\"Folder\"\u003e1\u003c/container\u003e\n                    \u003cunitdate\u003ecirca 1907\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref4\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eDocuments regarding taxes and liability\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid650004\" type=\"Box\" label=\"Mixed materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid650004\" type=\"Folder\"\u003e2\u003c/container\u003e\n                    \u003cunitdate\u003e1907 March 15, May 20\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref12\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eBronx neighborhood\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid650007\" type=\"Box\" label=\"Graphic materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid650007\" type=\"Folder\"\u003e2\u003c/container\u003e\n                    \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref6\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e\"Mack Mansion,\" birthplace of Frederick T. Howe\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid650002\" type=\"Box\" label=\"Graphic materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid650002\" type=\"Folder\"\u003e4\u003c/container\u003e\n                    \u003cunitdate\u003e1906 February 5\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref2\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eShips and travel photos\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid650003\" type=\"Box\" label=\"Graphic materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid650003\" type=\"Folder\"\u003e5\u003c/container\u003e\n                    \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref5\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eUnidentified locations\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid650005\" type=\"Box\" label=\"Graphic materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid650005\" type=\"Folder\"\u003e6\u003c/container\u003e\n                    \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref7\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eHowe family members\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid650006\" type=\"Box\" label=\"Graphic materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid650006\" type=\"Folder\"\u003e7\u003c/container\u003e\n                    \u003cunitdate\u003e1909, 1906, 1905, undated\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref9\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eUnidentified musicians\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid650009\" type=\"Box\" label=\"Graphic materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid650009\" type=\"Folder\"\u003e8\u003c/container\u003e\n                    \u003cunitdate\u003eundated\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref10\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eHazleton, PA\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid650010\" type=\"Box\" label=\"Graphic materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid650010\" type=\"Folder\"\u003e9\u003c/container\u003e\n                    \u003cunitdate\u003e1896 May 2, undated\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n            \u003cc id=\"ref11\" level=\"file\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003eMachinery, Hazleton, PA\u003c/unittitle\u003e\n                    \u003ccontainer id=\"cid650011\" type=\"Box\" label=\"Graphic materials\"\u003e1\u003c/container\u003e\n                    \u003ccontainer parent=\"cid650011\" type=\"Folder\"\u003e10\u003c/container\u003e\n                    \u003cunitdate\u003e1896 April - May, undated\u003c/unitdate\u003e\n                \u003c/did\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

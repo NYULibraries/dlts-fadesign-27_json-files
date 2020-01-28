@@ -1,0 +1,136 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "mc_227"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Faneuil Weisse Collection of Student Notebooks \u003cnum\u003eMC.227\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Connor Gaudet"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-02-28T22:22:29\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Faneuil Weisse Collection of Student Notebooks"
+                },
+                "unitdate": {
+                    "normal": "1881/1912",
+                    "type": "inclusive",
+                    "value": "1881-1912"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "2 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 4 manuscript boxes"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "The Faneuil Weisse Collection of Student Notebooks are a collection of notebooks written by students of Dr. Weisse covering the oral surgery clinics he conducted at New York College of Dentistry. Dr. Weisse was a founding faculty member of NYCD in 1865 and acted as Dean from 1897-1912. The notebooks cover his oral surgery clinics from 1881-1912, with some gaps and some overlaps. This collection will be of great value to anyone interested in the history of dentistry, oral surgery and medicine in general. The case studies provide a look at some interesting cases and are a primary source demonstrating what best practices were considered to be in the field at the turn of the century."
+                },
+                "unitid": {
+                    "value": "MC.227"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_6d9f7560f2f3c3c14c43a5a1cfbdeb81",
+            "head": "Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_a78a9921942e7922e78fd88e74c306a4",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Faneuil Weisse Collection of Student Notebooks; MC 227; box number; folder number or item identifier; Repository Name, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_6aa7755962e8df5aa72de78ab6917abe",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "NYU College of Dentistry's Waldman Library transfered their archival collections to the University Archives in August 2003. The accession record associated with this collections is 03-006."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_2ce8553024a9fea76d81e74712f41fac",
+            "head": "Biographical / Historical",
+            "p": {
+                "value": "The New York College of Dentistry was founded in 1865 with only 31 students and 10 faculty members. One of the founders and first faculty members was Faneuil D. Weisse, an MD oral surgeon. Weisse stayed on as a faculty member for many years and served as Dean of the College from 1897 - 1912. Weisse passed away in 1915. The school became part of New York University in 1925 and was known as New York University College of Dentistry from then on."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_216350a6f2938bcea63bf4310db6857d",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Faneuil Weisse Collection of Student Notebooks consist of twenty-two notebooks containing notes on oral surgery clinics led by Faneuil Weisse between 1881 and 1912. The clinic notebooks are variously titled as Reports, Records, or Notes, but are essentially all versions of the same \"Annual Record of Oral Surgery Clinics\" containing details of case studies presented by Professor Weisse at the New York College of Dentistry. Two of them have very peculiar titles; \"Styposulphide of Soda\" and Inshallah Malaish ( followed by text indicating that this is Arabic for God willing - who knows!) but contain the same type of clinical notes as the other volumes. The notebooks were written by different student authors over the years. Some of the reports are in manuscript form and others from later dates are typed or printed. The topics covered in the clinics range from simple cleft palates to more unusual incidents, like amputating a patient's finger and fusing it to their face in order to create a new nose."
+            }
+        },
+        "controlaccess": {
+            "corpname": {
+                "source": "naf",
+                "value": "New York University. College of Dentistry"
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_ref1\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eSeries I\u003c/unittitle\u003e\u003cunitdate normal=\"1881/1912\" type=\"bulk\"\u003e1881-1912\u003c/unitdate\u003e\u003c/did\u003e\u003cc id=\"aspace_ref9\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e1881-82 - \"Professor Weisse's Cliniques at the  NY College of Dentistry\" by Oscar L. Moser\u003c/unittitle\u003e\u003cunitdate\u003e1881-82\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_4bb6089d4d747a714aaea05f92aded85\" label=\"Books [31142046562644]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_4bb6089d4d747a714aaea05f92aded85\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref10\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e1883-85 - \"Notes of Oral Cliniques\" by a Senior\u003c/unittitle\u003e\u003cunitdate\u003e1883-85\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_1ea219d444075df3730344be3ebc39ea\" label=\"Books [31142046562644]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1ea219d444075df3730344be3ebc39ea\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref11\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e1884-85 - \"Clinics by Prof. F. Weisse\" by F. Heindsmann Jr.\u003c/unittitle\u003e\u003cunitdate\u003e1884-85\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_1c4108faf956b1120420b96b92bf01e7\" label=\"Books [31142046562644]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_1c4108faf956b1120420b96b92bf01e7\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref12\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e1886-87 - Clinical Record NYCD\u003c/unittitle\u003e\u003cunitdate\u003e1886-87\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_3883c90cd4d4df546afeb92cb87122b0\" label=\"Books [31142046562644]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_3883c90cd4d4df546afeb92cb87122b0\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref13\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e1888-89 - NYCD Report of Clinics\u003c/unittitle\u003e\u003cunitdate\u003e1888-89\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_71ffe89670cbb4c42e8a21e7bf2f3ef0\" label=\"Books [31142046562644]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_71ffe89670cbb4c42e8a21e7bf2f3ef0\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref14\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e1889-90 - Notes on Oral Surgery Clinic - NYCD\u003c/unittitle\u003e\u003cunitdate\u003e1889-90\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_555f0974bb0d55f5ca283913e63c4459\" label=\"Books [31142046562644]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_555f0974bb0d55f5ca283913e63c4459\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref15\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e1892 - NYCD Clinic Notes\u003c/unittitle\u003e\u003cunitdate\u003e1892\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_f2dc4897076e904efcd7933f6ba985af\" label=\"Books [31142046562644]\" type=\"Box\"\u003e1\u003c/container\u003e\u003ccontainer parent=\"aspace_f2dc4897076e904efcd7933f6ba985af\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref16\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e1892-93 - NYCD Clinic Notes\u003c/unittitle\u003e\u003cunitdate\u003e1892-93\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_c26d6eb1490562b0bac35617766b1f1e\" label=\"Books [31142046562651]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_c26d6eb1490562b0bac35617766b1f1e\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref17\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e1893-94 - NYCD - Notes on Professor Weisse's Clinic\" by C. Radcliffe Haffenden\u003c/unittitle\u003e\u003cunitdate\u003e1893-94\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_4619bc85349c5764232de6c16bf428fd\" label=\"Books [31142046562651]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_4619bc85349c5764232de6c16bf428fd\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref18\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e1897-98 - Report of Oral History Clinics \u003c/unittitle\u003e\u003cunitdate\u003e1897-98\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_cf5d19547a62c6bdabc6085b3b65d572\" label=\"Books [31142046562651]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_cf5d19547a62c6bdabc6085b3b65d572\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref19\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e1898-99 - NYCD Clinics Vol. I - by Clarence Howe\u003c/unittitle\u003e\u003cunitdate\u003e1898-99\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_d7e40349864c649973efa8f5f6fe3cf8\" label=\"Books [31142046562651]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_d7e40349864c649973efa8f5f6fe3cf8\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref21\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e1898-99 - NYCD Clinics Vol. II\u003c/unittitle\u003e\u003cunitdate\u003e1898-99\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_59a995af8e8b49faf0c71d643d6e2e62\" label=\"Books [31142046562651]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_59a995af8e8b49faf0c71d643d6e2e62\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref20\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e1898-99 - Notes on Faneuil D. Weisse's Lectures on Oral Surgery by Charles Gregory Hubbell\u003c/unittitle\u003e\u003cunitdate\u003e1898-99\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_e966f4fb2ba98a171421ab71a278ac2c\" label=\"Books [31142046562651]\" type=\"Box\"\u003e2\u003c/container\u003e\u003ccontainer parent=\"aspace_e966f4fb2ba98a171421ab71a278ac2c\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref22\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e1899-1900 - NYCD Clinic\u003c/unittitle\u003e\u003cunitdate\u003e1899-1900\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_51d002778532f33b2d6e9cca804e4213\" label=\"Books [31142046562669]\" type=\"Box\"\u003e3\u003c/container\u003e\u003ccontainer parent=\"aspace_51d002778532f33b2d6e9cca804e4213\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref32\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e1900-01 - \"Styposulphide of Soda\"\u003c/unittitle\u003e\u003cunitdate\u003e1900-01\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_020b5c8a033de22349e288e6a9102975\" label=\"Books [31142046562669]\" type=\"Box\"\u003e3\u003c/container\u003e\u003ccontainer parent=\"aspace_020b5c8a033de22349e288e6a9102975\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref25\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e1901-02 - NYCD Report of Oral Surgery Clinic by Charles Nathan\u003c/unittitle\u003e\u003cunitdate\u003e1901-02\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_f77d5d544349f53109f745d9cc70e9fe\" label=\"Books [31142046562669]\" type=\"Box\"\u003e3\u003c/container\u003e\u003ccontainer parent=\"aspace_f77d5d544349f53109f745d9cc70e9fe\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref27\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e1902-03 - NYCD Report of Oral Surgery Clinic\u003c/unittitle\u003e\u003cunitdate\u003e1902-03\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_c0b8540e684ed366a325df14f979a28b\" label=\"Books [31142046562669]\" type=\"Box\"\u003e3\u003c/container\u003e\u003ccontainer parent=\"aspace_c0b8540e684ed366a325df14f979a28b\" type=\"Folder\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref23\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e1904-05 - NYCD Oral Surgery Clinic Records by Harry Mattiau\u003c/unittitle\u003e\u003cunitdate\u003e1904-05 \u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_85b1f3961356a3499440e09548be5c83\" label=\"Books [31142046562669]\" type=\"Box\"\u003e3\u003c/container\u003e\u003ccontainer parent=\"aspace_85b1f3961356a3499440e09548be5c83\" type=\"Folder\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref24\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e1907-08 - NYCD Clinics\u003c/unittitle\u003e\u003cunitdate\u003e1907-08\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_3c91b28ba709bb63885884bcb835c7d7\" label=\"Books [31142046562669]\" type=\"Box\"\u003e3\u003c/container\u003e\u003ccontainer parent=\"aspace_3c91b28ba709bb63885884bcb835c7d7\" type=\"Folder\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref28\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e1908-09 - NYCD Record of Oral Surgery Clinic - by Adolph Berger\u003c/unittitle\u003e\u003cunitdate\u003e1908-09\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_9d38f964c90229b48a995f8d0d0b3ace\" label=\"Books [31142046562669]\" type=\"Box\"\u003e3\u003c/container\u003e\u003ccontainer parent=\"aspace_9d38f964c90229b48a995f8d0d0b3ace\" type=\"Folder\"\u003e7\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref30\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e1910-11 - NYCD Report of Oral Surgery Clinics\u003c/unittitle\u003e\u003cunitdate\u003e1910-11\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_afdcfa251da4c8cafe166c102caa6a9c\" label=\"Books [31142046562677]\" type=\"Box\"\u003e4\u003c/container\u003e\u003ccontainer parent=\"aspace_afdcfa251da4c8cafe166c102caa6a9c\" type=\"Folder\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref31\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e1911 - Inshallah Malaish (God willing - who knows!)\u003c/unittitle\u003e\u003cunitdate\u003e1911\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_6a767401f61def96a6b5c961e1b4d5d4\" label=\"Books [31142046562677]\" type=\"Box\"\u003e4\u003c/container\u003e\u003ccontainer parent=\"aspace_6a767401f61def96a6b5c961e1b4d5d4\" type=\"Folder\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_ref29\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003e1911-12 - NYCD Records of Oral Surgery Clinic\u003c/unittitle\u003e\u003cunitdate\u003e1911-12\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Legal\" id=\"aspace_9491e4ea536a8594172313fb337d563a\" label=\"Books [31142046562677]\" type=\"Box\"\u003e4\u003c/container\u003e\u003ccontainer parent=\"aspace_9491e4ea536a8594172313fb337d563a\" type=\"Folder\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_126"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the New York University Clerical Workers Organizing Campaign Records \u003cnum\u003eTAM 126\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Tamiment Staff"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-04-16T20:23:33\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "New York University Clerical Workers Organizing Campaign Records"
+                },
+                "unitdate": {
+                    "normal": "1969/1971",
+                    "type": "inclusive",
+                    "value": "1969-1971"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(1 box)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "United Automobile Workers, District 65 and the Office and Professional Employees International Union, Local 153 led an unsuccessful clerical workers organizing campaign at New York University, beginning in the fall of 1969 and continuing through 1971. The collection includes printed ephemera produced by the organizing campaign and student supporters, statements and press releases by the university, picket duty material, and NLRB and SLRB documents."
+                },
+                "unitid": {
+                    "value": "TAM 126"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_81d443258830b4828e820682ae2987c5",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_f1e10fd68c48f34b6025edf4760c71b0",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; New York University Clerical Workers Organizing Campaign Records; TAM 126; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_3819deb995f8fc29fc9891344b6a4315",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Materials found in repository. The accession number related to this collection is 1950.024"
+            }
+        },
+        "bioghist": {
+            "id": "aspace_3b36b9c796272b25814163c951ab18cd",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "United Automobile Workers, District 65 and the Office and Professional Employees International Union, Local 153 led an unsuccessful clerical workers organizing campaign at New York University, beginning in the fall of 1969 and continuing through the strike of April/May 1970, the election of May 15, 1970, the New York State Labor Relations Board and the National Labor Relations Board decisions, and another election in 1971."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_ef57256c908e119af50d05f5dde7d784",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Contents of the collection include: printed ephemera produced by the organizing campaign and student supporters, statements and press releases by the university, picket duty material, and NLRB and SLRB documents."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Clerks |x Labor unions |z New York (State) |z New York."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "United States. National Labor Relations Board"
+            }
+        },
+        "dsc": {}
+    }
+}

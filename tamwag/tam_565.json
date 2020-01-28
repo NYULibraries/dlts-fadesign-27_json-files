@@ -1,0 +1,153 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "value": "tam_565"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Dan La Botz Socialist Party of Ohio U.S. Senate Campaign (2010) Records \u003cnum\u003eTAM 565\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Peter M. Filardo"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "Tamiment Library and Robert F. Wagner Labor Archive",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2630",
+                        "tamiment.wagner@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-06-20T20:15:27\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Tamiment Library and Robert F. Wagner Labor Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "Dan La Botz Socialist Party of Ohio U.S. Senate Campaign (2010) Records"
+                },
+                "unitdate": {
+                    "normal": "2010/2010",
+                    "type": "inclusive",
+                    "value": "2010"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "(2 boxes)"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "unitid": {
+                    "value": "TAM 565"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "aspace_3df66cf58d9fd356f2b956e1e44f688a",
+                    "label": "Mixed Materials",
+                    "type": "Box",
+                    "value": "3"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_a7551fb8647f27724ecbff4406694125",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_850158bba75dc342b1c07798c085a70c",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; Dan La Botz Socialist Party of Ohio U.S. Senate Campaign (2010) Records; TAM 565; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_b8d45c5ad1457ed9d116d63e27e2524f",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Dan La Botz in 2010; additional materials were donated in 2013. The accession numbers associated with this collectin are 2011.006 and 2013.031."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_279b8aba79bdcb3f803f19397ef9eb7c",
+            "head": "Historical/Biographical Note",
+            "p": {
+                "value": "Dan La Botz (1945- ) was the Socialist Party of Ohio's 2010 candidate for the U.S. Senate."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_622cb30e77dfb318db38858a0026e7c3",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This unprocessed collection contains materia relating to La Botz's 2010 Socialist Party campain for Ohio U.S. Senate. The materials include correspondence (with voters, government bodies, the mass media, other (progressive organizations, etc.), a campaign diary, handwritten notes, materials relating to a compliant filed with the  FCC (Federal Communications Commission), campaign literature and related printed ephemera, a book-length typescript \"A Vision from the Heartland: Socilalism for the 21st Century,\" and two DVDs containing television appearances and other events."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Elections |z Ohio."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Socialists |z Ohio."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Political candidates |z Ohio."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Third parties (United States politics)"
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "Socialist Party of Ohio"
+            }
+        },
+        "dsc": {}
+    }
+}

@@ -1,0 +1,160 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyBlHS",
+            "value": "arms_1977_005_90th_ny_veterans"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the 90th Regiment New York Veteran Volunteer Association papers\n                    \u003cnum\u003e1977.005\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Larry Weimer"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "Brooklyn Historical Society"
+                },
+                "p": {
+                    "value": "\n                    \u003cextref ns2:type=\"simple\" ns2:actuate=\"onLoad\" ns2:show=\"embed\" ns2:href=\"http://brooklynhistory.org/art/logo.gif\"/\u003e\n                "
+                },
+                "address": {
+                    "addressline": [
+                        "128 Pierrepont Street",
+                        "Brooklyn, NY, 11201",
+                        "718-222-4111",
+                        "library@brooklynhistory.org"
+                    ]
+                },
+                "date": "February 2012"
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2012-02-07T10:33-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "Brooklyn Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "naf",
+                        "value": "Sugden, Thomas D.,  (Thomas Dodgson), d. 1923"
+                    }
+                },
+                "unittitle": {
+                    "value": "90th Regiment New York Veteran Volunteer Association papers"
+                },
+                "unitdate": {
+                    "normal": "1862/1897",
+                    "type": "inclusive",
+                    "value": "1862, 1882-1897"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "0.25 Linear feet"
+                        },
+                        {
+                            "value": "in 12 folders in one manuscript box"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The 90th Regiment New York Veteran Volunteer Association papers includes documents concerning this Civil War veterans organization, founded 1884, and to a somewhat lesser extent, Mansfield Post No. 35 of the Grand Army of the Republic (G.A.R.). These documents were written or compiled by Thomas D. Sugden, a member and sometime officer of the organizations, both of Brooklyn, New York. The bulk of the material dates from 1882-1894. It includes meeting notes, admission tickets and other ephemera, a scrapbook of 90th Veterans Association memorabilia, invitations, financial reports for Post 35, correspondence, and newspaper clippings. The collection includes only three items dating from the 90th regiment's war years; these are three numbers of \n                \u003cemph render=\"italic\"\u003eThe New Era,\u003c/emph\u003e a newspaper published in Key West, Florida, and edited by the regiment's quartermaster."
+                },
+                "unitid": {
+                    "value": "1977.005"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                },
+                "container": {
+                    "id": "cid1152001",
+                    "label": "Text",
+                    "type": "Box",
+                    "value": "1 (A0026)"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref4",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Open to researchers without restriction."
+            }
+        },
+        "prefercite": {
+            "id": "ref8",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); 90th Regiment New York Veteran Volunteer Association papers, 1977.005, Box and Folder number; Brooklyn Historical Society."
+            }
+        },
+        "acqinfo": {
+            "id": "ref6",
+            "head": "Immediate Source of Acquisition note",
+            "p": {
+                "value": "The collection was donated to the Long Island Historical Society (now the Brooklyn Historical Society) in 1903 by Thomas D. Sugden of Flushing, a member of the 90th Regiment Veteran Volunteer Association."
+            }
+        },
+        "bioghist": {
+            "id": "ref3",
+            "head": "Biographical/Historical note",
+            "p": {
+                "value": "The 90th Regiment New York Veteran Volunteer Association was formed in Brooklyn in 1884. Comprised of former soldiers who fought with the 90th during the Civil War, the organization aimed to support surviving veterans and perpetuate the memory of the regiment. The regiment was formed in December 1861 in New York City, and was first sent to Key West, Florida in January 1862, where many men were stricken with yellow fever. The regiment was subsequently assigned to South Carolina, New Orleans, and Virginia. It was mustered out in 1866. Thomas D. Sugden, the donor of this collection, was a member of companies I and D. He was an active member of the 90th's veteran association and held various offices. Sugden was also a member and officer of the Grand Army of the Republic (G.A.R.) Mansfield Post 35 in Brooklyn."
+            }
+        },
+        "scopecontent": {
+            "id": "ref11",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The collection includes three numbers of \n                \u003cemph render=\"italic\"\u003eThe New Era,\u003c/emph\u003e which was published in Key West by editor Richard B. Locke, quartermaster of the 90th regiment. The three numbers (17, 18, and 20) date from August 1862; number 18 includes a front-page article arguing for the abolition of slavery. These three newspapers are the only items in the collection dating from the war years."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "American newspapers |z Florida |z Key West"
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Veterans |z New York (State) |x Societies, etc."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Veterans |z New York (State) |z Kings County |x Societies, etc."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "United States. Army. New York Infantry Regiment, 90th (1861-1866)."
+            }
+        },
+        "dsc": {}
+    }
+}

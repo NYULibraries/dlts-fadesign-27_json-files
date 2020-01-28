@@ -1,0 +1,123 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "orkin"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Ruth Orkin Photograph Collection\n                    \u003clb/\u003e\n                    \u003cdate\u003eca. 1950-1981\u003c/date\u003e\n                    \u003clb/\u003e\n                    \u003cnum\u003ePR 190\u003c/num\u003e\n                "
+                    }
+                ],
+                "author": {
+                    "value": "Finding aid prepared by Jennifer Lewis"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "© 2011 New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        "Phone: (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using the Archivists' Toolkit\n                \u003cdate\u003e2011-12-13T16:37-0500\u003c/date\u003e\n            "
+            },
+            "langusage": {
+                "language": [
+                    {
+                        "value": "English"
+                    }
+                ]
+            }
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "© 2011 New-York Historical Society"
+                    }
+                },
+                "unittitle": {
+                    "value": "Ruth Orkin Photograph Collection"
+                },
+                "unitdate": {
+                    "value": "ca. 1950-1981"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "value": "3.83 Linear feet"
+                        },
+                        {
+                            "value": "(2 boxes)"
+                        }
+                    ]
+                },
+                "abstract": {
+                    "label": "Abstract",
+                    "value": "The Ruth Orkin Photograph Collection spans the period from ca. 1950 to 1981 and contains photographs of New York City, primarily Central Park and the surrounding areas."
+                },
+                "unitid": {
+                    "value": "PR 190"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "ref5",
+            "head": "Access Restrictions",
+            "p": {
+                "value": "Photocopying undertaken by staff only. Limited to thirty exposures of stable, unbound material per day. See guidelines in Print Room for details."
+            }
+        },
+        "prefercite": {
+            "id": "ref7",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "This collection should be cited as Ruth Orkin Photograph Collection, PR 190, Department of Prints, Photographs, and Architectural Collections, The New-York Historical Society."
+            }
+        },
+        "bioghist": {
+            "id": "ref8",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Ruth Orkin is a photographer and filmmaker in New York City."
+            }
+        },
+        "scopecontent": {
+            "id": "ref9",
+            "head": "Scope and Content Note",
+            "p": {
+                "value": "Most of the photographs in this collection were included in the exhibit \"Manhattan Observed: Fourteen Photographers look at New York, 1972-1981,\" at the New-York Historical Society, from July 1981 through April 1982. The photographs, which were printed by G.W. Color Lab, New York, are signed, captioned, and in most cases dated by Orkin on both the front and the verso."
+            }
+        },
+        "controlaccess": {},
+        "dsc": {
+            "value": "\n            \u003cc id=\"ref10\" level=\"series\"\u003e\n                \u003cdid\u003e\n                    \u003cunittitle\u003e\u003c/unittitle\u003e\n                \u003c/did\u003e\n                \u003cc id=\"ref11\" level=\"subseries\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eUnmatted\u003c/unittitle\u003e\n                    \u003c/did\u003e\n                    \u003cc id=\"ref12\" level=\"otherlevel\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eTavern-on-the-Green, Holiday lights and 5th Ave.\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid501372\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                            \u003cunitdate\u003e1976\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                    \u003cc id=\"ref13\" level=\"otherlevel\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eCentral Park South\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid501371\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                            \u003cunitdate\u003e1977\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                    \u003cc id=\"ref14\" level=\"otherlevel\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eSunlit Streets Over the East Sixties\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid501370\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                            \u003cunitdate\u003e1977\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                    \u003cc id=\"ref15\" level=\"otherlevel\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eMoon Over August Concert, N.Y. Philharmonic in Sheep Meadow\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid501369\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                            \u003cunitdate\u003e1978\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                    \u003cc id=\"ref16\" level=\"otherlevel\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003ePeach Mist Over Sheep Meadow\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid501368\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                            \u003cunitdate\u003e1978\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                    \u003cc id=\"ref17\" level=\"otherlevel\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eRainbow Over 5th Ave.\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid501367\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                            \u003cunitdate\u003e1979\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                    \u003cc id=\"ref18\" level=\"otherlevel\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eRosy City at Christmas\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid501366\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                            \u003cunitdate\u003e1979\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                    \u003cc id=\"ref19\" level=\"otherlevel\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eAutumn and the Plaza Area\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid501365\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                            \u003cunitdate\u003e1980\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                    \u003cc id=\"ref20\" level=\"otherlevel\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eSheep Meadow, Central Park\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid501364\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                            \u003cunitdate\u003e1980\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                    \u003cc id=\"ref21\" level=\"otherlevel\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eWhite, Feathery Trees, Central Park South\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid501363\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                            \u003cunitdate\u003e1980\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                \u003c/c\u003e\n                \u003cc id=\"ref22\" level=\"subseries\"\u003e\n                    \u003cdid\u003e\n                        \u003cunittitle\u003eMatted\u003c/unittitle\u003e\n                    \u003c/did\u003e\n                    \u003cc id=\"ref23\" level=\"otherlevel\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eCentral Park South\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid501362\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                            \u003cunitdate\u003eCa. 1950-1959\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                    \u003cc id=\"ref24\" level=\"otherlevel\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eWhite Light Over Central Park South and 5th Ave.\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid501361\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                            \u003cunitdate\u003e1972\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                    \u003cc id=\"ref25\" level=\"otherlevel\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eThe Plaza With a Golden Roof\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid501360\" type=\"Box\" label=\"Mixed Materials\"\u003e1\u003c/container\u003e\n                            \u003cunitdate\u003e1976\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                    \u003cc id=\"ref26\" level=\"otherlevel\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eThe Plaza and Baseball in Summer\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid501359\" type=\"Box\" label=\"Mixed Materials\"\u003e2\u003c/container\u003e\n                            \u003cunitdate\u003e1979\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                    \u003cc id=\"ref27\" level=\"otherlevel\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eRainbow Over Hotel Carlyle\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid501358\" type=\"Box\" label=\"Mixed Materials\"\u003e2\u003c/container\u003e\n                            \u003cunitdate\u003e1979\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                    \u003cc id=\"ref28\" level=\"otherlevel\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eCitycorp and the Plaza\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid501357\" type=\"Box\" label=\"Mixed Materials\"\u003e2\u003c/container\u003e\n                            \u003cunitdate\u003e1980\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                    \u003cc id=\"ref29\" level=\"otherlevel\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eBlack Glass Building at Sunset, E. 66th St.\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid501356\" type=\"Box\" label=\"Mixed Materials\"\u003e2\u003c/container\u003e\n                            \u003cunitdate\u003e[ca. 1980]\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                    \u003cc id=\"ref30\" level=\"otherlevel\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eBlue Sunrise Over Sheep Meadow\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid501355\" type=\"Box\" label=\"Mixed Materials\"\u003e2\u003c/container\u003e\n                            \u003cunitdate\u003e[ca. 1980]\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                    \u003cc id=\"ref31\" level=\"otherlevel\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eSheep Meadow After Re-sodding\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid501354\" type=\"Box\" label=\"Mixed Materials\"\u003e2\u003c/container\u003e\n                            \u003cunitdate\u003e1981 May\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                    \u003cc id=\"ref32\" level=\"otherlevel\"\u003e\n                        \u003cdid\u003e\n                            \u003cunittitle\u003eSunbathers and Roller-skaters, Sheep Meadow\u003c/unittitle\u003e\n                            \u003ccontainer id=\"cid501353\" type=\"Box\" label=\"Mixed Materials\"\u003e2\u003c/container\u003e\n                            \u003cunitdate\u003e1981\u003c/unitdate\u003e\n                        \u003c/did\u003e\n                    \u003c/c\u003e\n                \u003c/c\u003e\n            \u003c/c\u003e\n        "
+        }
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NHi",
+            "value": "ms3066_cooper_whaling"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "John B. Cooper Whaling Journal\u003clb/\u003e1833-1837\u003clb/\u003e \u003cnum\u003eBV Cooper, John B.\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Joseph Ditta"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New-York Historical Society"
+                },
+                "address": {
+                    "addressline": [
+                        "New-York Historical Society",
+                        "170 Central Park West",
+                        "New York, NY 10024",
+                        " (212) 873-3400"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2018-11-29T19:22:02\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New-York Historical Society"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Cooper, John B., active 1833-1837"
+                    }
+                },
+                "unittitle": {
+                    "value": "John B. Cooper whaling journal"
+                },
+                "unitdate": {
+                    "type": "inclusive",
+                    "value": "1833-1837"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1 Volumes"
+                        }
+                    ],
+                    "altrender": "whole",
+                    "physfacet": {
+                        "value": "(152 p.)"
+                    }
+                },
+                "abstract": {
+                    "value": "Journal kept 1833-1837 by John B. Cooper of Sag Harbor, New York, a crewmember on three whaling voyages to the Pacific, aboard the ships \u003cemph render=\"italic\"\u003eFranklin\u003c/emph\u003e (1833-1834), \u003cemph render=\"italic\"\u003eDon Quixote\u003c/emph\u003e (1835), and \u003cemph render=\"italic\"\u003eDaniel Webster\u003c/emph\u003e (1835-1837), with calls to port in the Sandwich Islands, Tahiti, and Japan.\n\nTo request this item for research, and for fuller details about it, please read its \u003cextref actuate=\"onRequest\" href=\"http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph006360089\u0026amp;context=L\u0026amp;vid=NYHS\u0026amp;search_scope=nyhs\u0026amp;tab=nyhs\u0026amp;lang=en_US\"\u003ecatalog record\u003c/extref\u003e, or write to \u003cemph render=\"bold\"\u003emanuscripts@nyhistory.org\u003c/emph\u003e."
+                },
+                "unitid": {
+                    "value": "BV Cooper, John B."
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "dsc": {}
+    }
+}

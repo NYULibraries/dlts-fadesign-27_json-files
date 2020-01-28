@@ -1,0 +1,138 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "RG_39_187"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Washington Square Journal \u003cnum\u003eRG.39.187\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Abbey Wilson"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "2nd Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2596",
+                        "special.collections@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-12-06T18:48:13\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "Creator"
+                },
+                "unittitle": {
+                    "value": "Washington Square Journal"
+                },
+                "unitdate": {
+                    "normal": "1955/1973",
+                    "type": "inclusive",
+                    "value": "1955-1973"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "13.25 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "In 9 flat boxes and 12 reels of microfilm"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "This collection contains issues from the student newspaper the Square Journal, later known as the Washington Square Journal, dating from 1955 to 1973. This newspaper documented student life at NYU (particuarly at the Washington Square campus), local and national news, campus living, and student clubs. The collection is extensive but not comprehensive, there may be some issues that were published but are not included in this collection. This collections includes issues in their original print format as well as microfilmed copies."
+                },
+                "unitid": {
+                    "value": "RG.39.187"
+                },
+                "langmaterial": {}
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_67b40c774caed8dd6e57fd081b76d772",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_1717ca4fcd63c562b74cfda5af99bc21",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Published citations should take the following form: Identification of item, date; Washington Square Journal; RG 39.187; box number; folder number; New York University Archives, New York University Libraries."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_42c64fcff3a3e981aaded596e6fd7221",
+            "head": "Biographical / Historical",
+            "p": {
+                "value": "New York University has had many student newspapers since its founding. The University Heights campus and the Washington Square campus had separate student newspapers until 1973 when the University Heights campus was closed. The Washington Square Journal was preceded by the Washington Square Bulletin and succeeded by the Washington Square Daily News."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_552e9f4daa720f891db069470e4e680e",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection contains issues of student newspapers the Square Journal and Washington Square Journal dating from 1955-1973. The newspaper was printed daily and documented student life, university news, and local or international news with relevancy to NYU."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "College student newspapers and periodicals."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Student activities."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "New York University -- Athletics"
+                }
+            ]
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_34791780bc5e41788fbf66d1f663efc6\" level=\"series\"\u003e\u003cdid\u003e\u003cunittitle\u003eMicrofilm Copies\u003c/unittitle\u003e\u003c/did\u003e\u003cc id=\"aspace_80deec7cc77c5718bff805d4c9d489cb\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eWashington Square Journal\u003c/unittitle\u003e\u003cunitdate normal=\"1955/1958\" type=\"inclusive\"\u003eSeptember 1955-May 1958\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_2430e11026b8e5820f6b244d535ee326\" label=\"Microform [31142062914471]\" type=\"Box\"\u003eMicrofilm 6\u003c/container\u003e\u003ccontainer parent=\"aspace_2430e11026b8e5820f6b244d535ee326\" type=\"Reel\"\u003e5050\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_7b2a44441ddd11ed8d34c90ca031834f\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eWashington Square Journal\u003c/unittitle\u003e\u003cunitdate normal=\"1958/1961\" type=\"inclusive\"\u003eSeptember 1958-May 1961\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_e7a243b063bd3529e44e213ee6f53c53\" label=\"Microform [31142062914471]\" type=\"Box\"\u003eMicrofilm 6\u003c/container\u003e\u003ccontainer parent=\"aspace_e7a243b063bd3529e44e213ee6f53c53\" type=\"Reel\"\u003e5051\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_854fd36d4eb9174bf8210d1bb00b554c\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eWashington Square Journal\u003c/unittitle\u003e\u003cunitdate normal=\"1961/1967\" type=\"inclusive\"\u003eDecember 1961-May 1962, September 1966-May 1967\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_268c44dc369b2528340c3e2905d36057\" label=\"Microform [31142062914471]\" type=\"Box\"\u003eMicrofilm 6\u003c/container\u003e\u003ccontainer parent=\"aspace_268c44dc369b2528340c3e2905d36057\" type=\"Reel\"\u003e5052\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_3b3d8c8f7ac8cd62c8ef9174abe357c0\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eWashington Square Journal\u003c/unittitle\u003e\u003cunitdate normal=\"1962/1964\" type=\"inclusive\"\u003e1962-1964\u003c/unitdate\u003e\u003ccontainer altrender=\"Box - 12 x 8.5\" id=\"aspace_5f9d7b11e437007a78ea0e2545e0ee71\" label=\"Microform [31142062914448]\" type=\"Box\"\u003eMicrofilm 3\u003c/container\u003e\u003ccontainer parent=\"aspace_5f9d7b11e437007a78ea0e2545e0ee71\" type=\"Reel\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_9794d00e9ddf6d8041ccdaff67649611\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eWashington Square Journal\u003c/unittitle\u003e\u003cunitdate normal=\"1964/1966\" type=\"inclusive\"\u003e1964-1966\u003c/unitdate\u003e\u003ccontainer altrender=\"Box - 12 x 8.5\" id=\"aspace_d9cb964ecbc6e7e5c449e8f21f8a6b26\" label=\"Microform [31142062914448]\" type=\"Box\"\u003eMicrofilm 3\u003c/container\u003e\u003ccontainer parent=\"aspace_d9cb964ecbc6e7e5c449e8f21f8a6b26\" type=\"Reel\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_0a5c4f32f9f3bac60c751c5b9e4c7b38\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eWashington Square Journal\u003c/unittitle\u003e\u003cunitdate normal=\"1966/1968\" type=\"inclusive\"\u003e1966-1968\u003c/unitdate\u003e\u003ccontainer altrender=\"Box - 12 x 8.5\" id=\"aspace_2ad1e0879cdf5e2cc7c82cc1054eb483\" label=\"Microform [31142062914448]\" type=\"Box\"\u003eMicrofilm 3\u003c/container\u003e\u003ccontainer parent=\"aspace_2ad1e0879cdf5e2cc7c82cc1054eb483\" type=\"Reel\"\u003e3\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_5c21f9990f8cf2cc8d9cdbdc45d7189c\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eWashington Square Journal\u003c/unittitle\u003e\u003cunitdate normal=\"1967/1969\" type=\"inclusive\"\u003eSeptember 1967-May 1969\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_09b2c67f509d5cad29a80e872cbfe1cf\" label=\"Microform [31142062914471]\" type=\"Box\"\u003eMicrofilm 6\u003c/container\u003e\u003ccontainer parent=\"aspace_09b2c67f509d5cad29a80e872cbfe1cf\" type=\"Reel\"\u003e5053\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_b2aadf25fe348dd44f6b4366055cc3c5\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eWashington Square Journal\u003c/unittitle\u003e\u003cunitdate normal=\"1968/1970\" type=\"inclusive\"\u003e1968-1970\u003c/unitdate\u003e\u003ccontainer altrender=\"Box - 12 x 8.5\" id=\"aspace_dd75915297846e5ee979eda7bd09911b\" label=\"Microform [31142062914448]\" type=\"Box\"\u003eMicrofilm 3\u003c/container\u003e\u003ccontainer parent=\"aspace_dd75915297846e5ee979eda7bd09911b\" type=\"Reel\"\u003e4\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_fb87d4e164854d4a6b7493c6a3ecc626\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eWashington Square Journal\u003c/unittitle\u003e\u003cunitdate normal=\"1969/1971\" type=\"inclusive\"\u003e1969-1971\u003c/unitdate\u003e\u003ccontainer altrender=\"Box - 12 x 8.5\" id=\"aspace_6dbbe2a603e577ffd2d7f1778136f71f\" label=\"Microform [31142062914448]\" type=\"Box\"\u003eMicrofilm 3\u003c/container\u003e\u003ccontainer parent=\"aspace_6dbbe2a603e577ffd2d7f1778136f71f\" type=\"Reel\"\u003e5\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_dd1b2c67cca1bd9f9c700907f2369d25\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eWashington Square Journal\u003c/unittitle\u003e\u003cunitdate normal=\"1969/1970\" type=\"inclusive\"\u003eSeptember 1969-May 1970\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_a115a9536dd8301269bc7c283abcafbb\" label=\"Microform [31142062914471]\" type=\"Box\"\u003eMicrofilm 6\u003c/container\u003e\u003ccontainer parent=\"aspace_a115a9536dd8301269bc7c283abcafbb\" type=\"Reel\"\u003e5054\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_4329fa86885118edc181bbf261de4715\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eWashington Square Journal\u003c/unittitle\u003e\u003cunitdate normal=\"1970/1973\" type=\"inclusive\"\u003eSeptember 1970-May 1973\u003c/unitdate\u003e\u003ccontainer altrender=\"Box - 12 x 8.5\" id=\"aspace_329d1ac91a7b216716b88c1d85cb0e8c\" label=\"Microform [31142062914448]\" type=\"Box\"\u003eMicrofilm 3\u003c/container\u003e\u003ccontainer parent=\"aspace_329d1ac91a7b216716b88c1d85cb0e8c\" type=\"Reel\"\u003e5055\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_381e6105ee96610343ac1df2b2f6f0e7\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eWashington Square Journal\u003c/unittitle\u003e\u003cunitdate normal=\"1970/1973\" type=\"inclusive\"\u003eSeptember 1970-May 1973\u003c/unitdate\u003e\u003ccontainer altrender=\"Record carton\" id=\"aspace_6e8b3775250fe5b31b8e0bca8f64c628\" label=\"Microform [31142062914471]\" type=\"Box\"\u003eMicrofilm 6\u003c/container\u003e\u003ccontainer parent=\"aspace_6e8b3775250fe5b31b8e0bca8f64c628\" type=\"Reel\"\u003e5055\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_8c07439a88a3b8a5db5eb13338419701\" level=\"item\"\u003e\u003cdid\u003e\u003cunittitle\u003eWashington Square Journal\u003c/unittitle\u003e\u003cunitdate normal=\"1971/1973\" type=\"inclusive\"\u003e1971-1973\u003c/unitdate\u003e\u003ccontainer altrender=\"Box - 12 x 8.5\" id=\"aspace_48489fdddfe22397f300250195dce366\" label=\"Microform [31142062914448]\" type=\"Box\"\u003eMicrofilm 3\u003c/container\u003e\u003ccontainer parent=\"aspace_48489fdddfe22397f300250195dce366\" type=\"Reel\"\u003e6\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003c/c\u003e"
+        }
+    }
+}

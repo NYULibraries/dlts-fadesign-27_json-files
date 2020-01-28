@@ -1,0 +1,149 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "mc_272"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Simon Loeb Collection \u003cnum\u003eMC 272\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Stacey Flatt"
+                }
+            },
+            "PublicationStmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "address": {
+                    "addressline": [
+                        "New York University Archives",
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "10th Floor",
+                        "New York, NY 10012",
+                        "(212) 998-2641",
+                        "university-archives@nyu.edu"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace \u003cdate\u003e2019-06-13T18:20:20\u003c/date\u003e"
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "omitempty": "",
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "origination": {
+                    "label": "creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Loeb, Simon"
+                    }
+                },
+                "unittitle": {
+                    "value": "Simon Loeb Collection"
+                },
+                "unitdate": {
+                    "normal": "1908/1968",
+                    "type": "inclusive",
+                    "value": "1908-1909, 1962, 1968, undated"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "1.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 half manuscript box and 1 custom preservation box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "abstract": {
+                    "value": "Simon Loeb (d. 1975) was a 1908 graduate of New York University School of Commerce, Accounts, and Finance, and later the founder and senior partner of the accounting firm of Loeb and Troper. This collection contains materials collected by Loeb while attending the New York University School of Commerce, Accounts, and Finance, including commencement invitations, programs, a songbook, a yearbook for the class of 1908, and a banner. Also included is a Commerce Alumni Dinner program listing Loeb's 1962 John T. Madden Memorial Award, as well as a 1968 special issue of NYU's \u003cemph render=\"italic\"\u003eInternal.\u003c/emph\u003e"
+                },
+                "unitid": {
+                    "value": "MC 272"
+                },
+                "langmaterial": {
+                    "language": {
+                        "langcode": "eng"
+                    }
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_e543575464d0a13e4110dddd763604d4",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_9e39b8f27a85e8381201378a3f51b354",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date (if known); Simon Loeb Collection; MC 272; box number; folder number; New York University Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_bb1bc5448a46c70d63b08f78a426782e",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "There is no documentation concerning the provenance of these materials. The accession number associated with this gift is 2018.043."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_961d3b79c63e3a2c9af11797d750ea2c",
+            "head": "Biographical Note",
+            "p": {
+                "value": "Simon Loeb (d. 1975) was founder and senior partner of the accounting firm of Loeb and Troper. Loeb was a 1908 graduate of New York University School of Commerce, Accounts, and Finance. In 1962 NYU awarded him the presidential citation, and in 1966 the Commerce Alumni Association gave him its John T. Madden Award."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_ea0e39caeb7db4313e1dbfc281409d96",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection contains materials collected by Simon Loeb while attending the New York University School of Commerce, Accounts, and Finance, including commencement invitations, programs, a songbook, a yearbook, and a banner. Also included is a Commerce Alumni Dinner program for Loeb's acceptance of the John T. Madden Memorial Award in 1962, as well as a 1968 special issue of NYU's \u003cemph render=\"italic\"\u003eInternal\u003c/emph\u003e regarding the appointment of John F. Hatchet as Director of the Martin Luther King, Jr. Afro-American Student Center at NYU."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Banners."
+                }
+            ],
+            "corpname": {
+                "source": "naf",
+                "value": "New York University. School of Commerce, Accounts, and Finance."
+            }
+        },
+        "dsc": {
+            "value": "\u003cc id=\"aspace_8abcdc9c12b97017c255d4a3e18e690e\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eInvitations, Programs, Songbook\u003c/unittitle\u003e\u003cunitdate normal=\"1908/1968\" type=\"inclusive\"\u003e1908-1909, 1962, 1968, undated\u003c/unitdate\u003e\u003ccontainer altrender=\"Manuscript box - Letter - Half\" id=\"aspace_20082ce0454380571ce0a5786ce143d4\" label=\"Mixed Materials [31142063595774]\" type=\"Box\"\u003e1\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e\u003cc id=\"aspace_8f7eec4aff1f65e21fff4ddf6607a77a\" level=\"file\"\u003e\u003cdid\u003e\u003cunittitle\u003eSchool of Commerce, Accounts and Finance 50 year anniversary banner\u003c/unittitle\u003e\u003ccontainer altrender=\"Custom Box - 16.5d x 5.5h x 13w\" id=\"aspace_797b60d7b7d3323b4e32719185ebeb54\" label=\"Mixed Materials [31142063063351]\" type=\"Box\"\u003e2\u003c/container\u003e\u003c/did\u003e\u003c/c\u003e"
+        }
+    }
+}
